@@ -1,0 +1,116 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Self,TIP,iShares TIPS Bond ETF,Purchase,09/26/2023,"$1,001 - $15,000",n/a
+Self,VUG,Vanguard Growth ETF,Purchase,09/26/2023,"$1,001 - $15,000",n/a
+Self,TIP,iShares TIPS Bond ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Self,VUG,Vanguard Growth ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Self,VBK,Vanguard Small-Cap Growth ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Self,VNQ,Vanguard Real Estate ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Self,IYF,iShares U.S. Financial ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Self,IXC,iShares Global Energy ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Self,AMLP,Alerian MLP ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Self,BND,Vanguard Total Bond Market ETF,Purchase,02/13/2023,"$1,001 - $15,000",n/a
+Self,VBR,Vanguard Small-Cap Value ETF,Purchase,02/13/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,12/28/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,12/27/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,09/27/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,09/26/2023,"$1,001 - $15,000",n/a
+Spouse,VUG,Vanguard Growth ETF,Purchase,09/26/2023,"$15,001 - $50,000",n/a
+Spouse,TIP,iShares TIPS Bond ETF,Purchase,09/26/2023,"$15,001 - $50,000",n/a
+Spouse,YYY,Amplify High Income ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Spouse,QQQ,Invesco QQQ Trust; Series 1,Purchase,08/08/2023,"$15,001 - $50,000",n/a
+Spouse,JNK,SPDR Bloomberg Barclays High Yield Bond ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Spouse,TIP,iShares TIPS Bond ETF,Purchase,08/08/2023,"$15,001 - $50,000",n/a
+Spouse,SLVP,iShares MSCI Global Silver Miners Fund,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Spouse,BND,Vanguard Total Bond Market ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Spouse,VUG,Vanguard Growth ETF,Purchase,08/08/2023,"$15,001 - $50,000",n/a
+Spouse,VBK,Vanguard Small-Cap Growth ETF,Purchase,08/08/2023,"$15,001 - $50,000",n/a
+Spouse,XLV,SPDR Select Sector Fund - Health Care,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Spouse,VNQ,Vanguard Real Estate ETF,Sale (Full),08/08/2023,"$15,001 - $50,000",n/a
+Spouse,RING,iShares MSCI Global Gold Miners ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Spouse,IYF,iShares U.S. Financial ETF,Sale (Full),08/08/2023,"$15,001 - $50,000",n/a
+Spouse,IYE,iShares U.S. Energy ETF,Sale (Full),08/08/2023,"$15,001 - $50,000",n/a
+Spouse,FHLC,Fidelity MSCI Health Care Index ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Spouse,AMLP,Alerian MLP ETF,Sale (Full),08/08/2023,"$15,001 - $50,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,06/29/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,06/28/2023,"$1,001 - $15,000",n/a
+Spouse,AWF,Alliancebernstein Global High Income Fund,Purchase,04/19/2023,"$1,001 - $15,000",n/a
+Spouse,BND,Vanguard Total Bond Market ETF,Purchase,04/19/2023,"$1,001 - $15,000",n/a
+Spouse,PSP,Invesco Global Listed Private Equity ETF,Purchase,04/19/2023,"$1,001 - $15,000",n/a
+Spouse,IYY,iShares Dow Jones U.S. ETF,Purchase,04/19/2023,"$1,001 - $15,000",n/a
+Spouse,YYY,Amplify High Income ETF,Purchase,04/03/2023,"$1,001 - $15,000",n/a
+Spouse,VV,Vanguard Large-Cap ETF,Purchase,04/03/2023,"$15,001 - $50,000",n/a
+Spouse,TIP,iShares TIPS Bond ETF,Purchase,04/03/2023,"$15,001 - $50,000",n/a
+Spouse,JNK,SPDR Bloomberg Barclays High Yield Bond ETF,Purchase,04/03/2023,"$1,001 - $15,000",n/a
+Spouse,IYY,iShares Dow Jones U.S. ETF,Purchase,04/03/2023,"$1,001 - $15,000",n/a
+Spouse,AMLP,Alerian MLP ETF,Purchase,04/03/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,03/29/2023,"$1,001 - $15,000",n/a
+Spouse,VTV,Vanguard Value ETF,Purchase,03/28/2023,"$1,001 - $15,000",n/a
+Spouse,YYY,Amplify High Income ETF,Purchase,02/13/2023,"$1,001 - $15,000",n/a
+Joint,VUG,Vanguard Growth ETF,Purchase,09/26/2023,"$15,001 - $50,000",n/a
+Joint,TIP,iShares TIPS Bond ETF,Purchase,09/26/2023,"$15,001 - $50,000",n/a
+Joint,TIP,iShares TIPS Bond ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Joint,BND,Vanguard Total Bond Market ETF,Purchase,08/08/2023,"$15,001 - $50,000",n/a
+Joint,VUG,Vanguard Growth ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Joint,VTV,Vanguard Value ETF,Purchase,08/08/2023,"$1,001 - $15,000",n/a
+Joint,VNQ,Vanguard Real Estate ETF,Sale (Full),08/08/2023,"$15,001 - $50,000",n/a
+Joint,FHLC,Fidelity MSCI Health Care Index ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Joint,SLVP,iShares MSCI Global Silver Miners Fund,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Joint,RING,iShares MSCI Global Gold Miners ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Joint,AMLP,Alerian MLP ETF,Sale (Full),08/08/2023,"$1,001 - $15,000",n/a
+Joint,HYS,PIMCO 0-5 Year High Yield Corporat Bond Index Exch,Purchase,03/22/2023,"$1,001 - $15,000",n/a
+Joint,YYY,Amplify High Income ETF,Purchase,03/21/2023,"$1,001 - $15,000",n/a
+Joint,TIP,iShares TIPS Bond ETF,Purchase,03/21/2023,"$1,001 - $15,000",n/a
+Joint,QQQ,Invesco QQQ Trust; Series 1,Purchase,03/21/2023,"$1,001 - $15,000",n/a
+Joint,JNK,SPDR Bloomberg Barclays High Yield Bond ETF,Purchase,03/21/2023,"$1,001 - $15,000",n/a
+Joint,IYY,iShares Dow Jones U.S. ETF,Purchase,03/21/2023,"$1,001 - $15,000",n/a
+Joint,BND,Vanguard Total Bond Market ETF,Sale (Full),03/21/2023,"$1,001 - $15,000",n/a
+Joint,AWF,Alliancebernstein Global High Income Fund,Purchase,03/21/2023,"$1,001 - $15,000",n/a
+Joint,YYY,Amplify High Income ETF,Purchase,02/13/2023,"$1,001 - $15,000",n/a
+Spouse,--,TIAA Traditional,Sale (Partial),03/01/2023,"$50,001 - $100,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,01/04/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,01/20/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,01/31/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,02/14/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,02/28/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,03/14/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,03/28/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,01/04/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,01/20/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund - CREF Money Market R1,Purchase,01/31/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,02/14/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,02/28/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,03/14/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,03/28/2023,"$1,001 - $15,000",
+Spouse,--,TIAA Traditional,Sale (Partial),03/01/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,04/11/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,04/25/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,04/28/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,05/23/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,06/06/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,06/21/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,04/11/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,04/25/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,04/28/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,05/23/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,06/06/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,06/21/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,07/05/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,07/18/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,08/01/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,08/15/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,08/29/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,09/12/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,09/26/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,07/05/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,07/18/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,08/01/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,08/15/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,08/29/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,09/12/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,09/26/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,10/10/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,10/24/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,11/07/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,11/21/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,10/10/2023,"$1,001 - $15,000",
+Spouse,--,QCMMRX - College Retirement Equities Fund -CREF Money Market R1,Purchase,10/24/2023,"$1,001 - $15,000",

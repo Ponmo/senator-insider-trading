@@ -1,0 +1,24 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Joint,VOO,Vanguard S&P 500 ETF,Purchase,12/12/2023,"$1,001 - $15,000",n/a
+Child,VOO,Vanguard S&P 500 ETF,Purchase,12/07/2023,"$1,001 - $15,000",n/a
+Child,GTLOX,Glenmede Large Cap Core Portfolio,Sale (Full),12/07/2023,"$1,001 - $15,000",n/a
+Joint,DFAPX,Dfa Investment Grade Portfolio,Purchase,09/01/2023,"$15,001 - $50,000",n/a
+Joint,VAIPX,Vanguard Inflation Protected Securities Fund Adm,Purchase,09/01/2023,"$15,001 - $50,000",n/a
+Joint,ABCIX,American Beacon The London Company Income Equity,Sale (Partial),09/01/2023,"$15,001 - $50,000",n/a
+Joint,DODGX,Dodge & Cox Stock Fund,Sale (Partial),09/01/2023,"$15,001 - $50,000",n/a
+Joint,GTCSX,Glenmede Small Capitalization Equity Portfolio A,Purchase,08/30/2023,"$50,001 - $100,000",n/a
+Joint,GQGIX,Gqg Partners Emerging Markets Equity Fund Instit,Purchase,08/30/2023,"$15,001 - $50,000",n/a
+Joint,POLIX,Polen Growth Fund Institutional Class,Purchase,08/30/2023,"$100,001 - $250,000",n/a
+Joint,WCMIX,WCM Focused International Growth Fund Insti Cl,Purchase,08/30/2023,"$15,001 - $50,000",n/a
+Self,MASKX,Ishares Russell 2000 Small-Cap Index Fund - Inst,Purchase,06/15/2023,"$1,001 - $15,000",n/a
+Self,FXAIX,Fidelity 500 Index Fund,Purchase,06/14/2023,"$1,001 - $15,000",n/a
+Spouse,FXAIX,Fidelity 500 Index Fund,Purchase,06/14/2023,"$1,001 - $15,000",n/a
+Self,FSGGX,Fidelity Global Ex U.S. Index Fund,Purchase,06/14/2023,"$1,001 - $15,000",n/a
+Spouse,FSGGX,Fidelity Global Ex U.S. Index Fund,Purchase,06/14/2023,"$1,001 - $15,000",n/a
+Self,VBTLX,Vanguard Total Bond Market Index Fund Admiral Sh,Purchase,06/14/2023,"$1,001 - $15,000",n/a
+Self,IJR,iShares Core S&P Small-Cap ETF,Sale (Full),06/14/2023,"$1,001 - $15,000",n/a
+Spouse,TSCIX,Amg Timessquare Small Cap Growth Fund- Class Z,Sale (Full),06/14/2023,"$1,001 - $15,000",n/a
+Self,DODGX,Dodge & Cox Stock Fund,Sale (Full),06/14/2023,"$1,001 - $15,000",n/a
+Self,POLIX,Polen Growth Fund Institutional Class,Sale (Full),06/14/2023,"$1,001 - $15,000",n/a
+Self,WCMIX,WCM Focused International Growth Fund Insti Cl,Sale (Full),06/14/2023,"$1,001 - $15,000",n/a
+Joint,VGT,Vanguard Information Tech ETF,Sale (Full),02/10/2023,"$15,001 - $50,000",n/a

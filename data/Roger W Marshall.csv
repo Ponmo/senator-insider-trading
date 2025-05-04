@@ -1,0 +1,24 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Spouse,WMBAXDMTFX,Ivy Municipal Bond Fund Class A (Exchanged)Delaware Tax-Free USA Fund A Class (Received),Exchange,09/15/2023,"$1,001 - $15,000",n/a
+Spouse,IYIAXCXHYX,Ivy Municipal High Income Fund Class A (Exchanged)Delaware National High Yield Municipal Bond Fund (Received),Exchange,09/15/2023,"$1,001 - $15,000",n/a
+Self,HRLAX,The Hartford Global Real Asset Fund Class A,Purchase,12/28/2023,"$1,001 - $15,000",n/a
+Self,AGTHX,The Growth Fund of America Class A Shares,Purchase,12/18/2023,"$1,001 - $15,000",n/a
+Self,AGTHX,The Growth Fund of America Class A Shares,Purchase,12/18/2023,"$1,001 - $15,000",n/a
+Self,AWSHX,Washington Mutual Invs Fd Cl A Shs,Purchase,12/18/2023,"$1,001 - $15,000",n/a
+Self,AWSHX,Washington Mutual Invs Fd Cl A Shs,Purchase,12/18/2023,"$1,001 - $15,000",n/a
+Self,ANWPX,New Perspective Fund Class A Shares,Purchase,12/15/2023,"$1,001 - $15,000",n/a
+Self,ANWPX,New Perspective Fund Class A Shares,Purchase,12/15/2023,"$1,001 - $15,000",n/a
+Self,BCSAX,Blackrock Commodity Strategies Fd Inv A Shs,Purchase,12/08/2023,"$1,001 - $15,000",n/a
+Self,MDHQX,Blackrock Total Return Fund Class A,Purchase,11/08/2023,"$15,001 - $50,000",n/a
+Self,BCSAX,Blackrock Commodity Strategies Fd Inv A Shs,Sale (Partial),11/08/2023,"$15,001 - $50,000",n/a
+Self,ASBAX,American Fds Short-Term Bond Fund of America C,Sale (Partial),11/06/2023,"$15,001 - $50,000",n/a
+Self,HRLAX,The Hartford Global Real Asset Fund Class A,Sale (Partial),11/06/2023,"$15,001 - $50,000",n/a
+Self,ITBAX,Hartford Total Return Bond Fund Cl A,Purchase,11/06/2023,"$15,001 - $50,000",n/a
+Self,AMUSX,American Funds U.S. Govt Securities A [Income Se,Purchase,11/06/2023,"$15,001 - $50,000",n/a
+Self,AWSHX,Washington Mutual Invs Fd Cl A Shs,Purchase,09/14/2023,"$1,001 - $15,000",n/a
+Self,BCSAX,Blackrock Commodity Strategies Fd Inv A Shs,Purchase,07/21/2023,"$1,001 - $15,000",n/a
+Self,AWSHX,Washington Mutual Invs Fd Cl A Shs,Purchase,06/15/2023,"$1,001 - $15,000",n/a
+Self,AWSHX,Washington Mutual Invs Fd Cl A Shs,Purchase,06/15/2023,"$1,001 - $15,000",n/a
+Self,AWSHX,Washington Mutual Invs Fd Cl A Shs,Purchase,03/16/2023,"$1,001 - $15,000",n/a
+Self,--,IDX Perf Strat Using S&P 500 Index,Sale (Full),05/24/2023,"$250,001 - $500,000",n/a
+Self,--,IDX Prec Strat Using S&P 500 Index,Purchase,05/24/2023,"$250,001 - $500,000",n/a

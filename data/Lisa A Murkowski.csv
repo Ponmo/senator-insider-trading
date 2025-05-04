@@ -1,0 +1,76 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Self,--,BBRE,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,BNDX,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,CALF,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,CCOR,Sale (Partial),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,cowz,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,iShares MSCI EAFE Min Vol Factor ETF,Sale (Full),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,IEFA,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,IJH,Sale (Partial),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,IJR,Sale (Partial),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,MUB,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,PDBC,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,SHM,Sale (Partial),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,SPLV,Sale (Full),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,SWVXX,Sale (Partial),01/12/2023,"$1,001 - $15,000",n/a
+Self,--,VTIP,Purchase,01/12/2023,"$1,001 - $15,000",n/a
+Self,--,BIMBX,Purchase,01/13/2023,"$1,001 - $15,000",n/a
+Self,--,VWEAX,Purchase,01/13/2023,"$1,001 - $15,000",n/a
+Self,BBRE,JPMorgan BetaBuilders MSCI U.S. REIT ETF,Sale (Partial),04/14/2023,"$1,001 - $15,000",n/a
+Self,BIMBX,Blackrock Systematic Multi-Strategy Fund Institu,Sale (Partial),04/14/2023,"$1,001 - $15,000",n/a
+Self,CMDY,iShares Bloomberg Roll Select Commodity Strategy E,Purchase,04/14/2023,"$1,001 - $15,000",n/a
+Self,--,COWZ,Sale (Full),04/14/2023,"$1,001 - $15,000",n/a
+Self,GUNR,FlexShares Global Upstream Natural Resources Index,Sale (Full),04/14/2023,"$1,001 - $15,000",n/a
+Self,INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,Purchase,04/14/2023,"$1,001 - $15,000",n/a
+Self,MUB,iShares National Muni Bond ETF,Purchase,04/14/2023,"$1,001 - $15,000",n/a
+Self,PDBC,Invesco Optimum Yield Diversified Commodity Strate,Sale (Partial),04/14/2023,"$1,001 - $15,000",n/a
+Self,--,QAI,Purchase,04/14/2023,"$1,001 - $15,000",n/a
+Self,--,SPY,Purchase,04/14/2023,"$1,001 - $15,000",n/a
+Self,--,SWVXX,Purchase,04/17/2023,"$1,001 - $15,000",n/a
+Self,--,BIMBX,Sale (Partial),07/18/2023,"$1,001 - $15,000",n/a
+Self,BND,Vanguard Total Bond Market ETF,Purchase,07/18/2023,"$1,001 - $15,000",n/a
+Self,--,CMDY,Purchase,07/18/2023,"$1,001 - $15,000",n/a
+Self,MUB,iShares National Muni Bond ETF,Sale (Partial),07/18/2023,"$1,001 - $15,000",n/a
+Self,PDBC,Invesco Optimum Yield Diversified Commodity Strate,Sale (Full),07/18/2023,"$1,001 - $15,000",n/a
+Self,--,SHM,Purchase,07/18/2023,"$1,001 - $15,000",n/a
+Self,SPY,S&P 500 SPDR,Sale (Partial),07/18/2023,"$1,001 - $15,000",n/a
+Self,--,SWVXX,Sale (Partial),07/18/2023,"$1,001 - $15,000",n/a
+Self,--,VTIP,Purchase,07/18/2023,"$1,001 - $15,000",n/a
+Self,VWEAX,Vanguard High-Yield Corporate Fund Admiral Share,Purchase,07/19/2023,"$1,001 - $15,000",n/a
+Self,BND,Total Bond Market ETF Vanguard,Sale (Partial),10/12/2023,"$1,001 - $15,000",n/a
+Self,--,CCOR,Sale (Partial),10/12/2023,"$1,001 - $15,000",n/a
+Self,IJH,S&P Midcap 400 Ishares Core ETF,Sale (Partial),10/12/2023,"$1,001 - $15,000",n/a
+Self,MUB,iShares National Muni Bond ETF,Sale (Full),10/12/2023,"$15,001 - $50,000",n/a
+Self,QAI,IQ Hedge Multi-Strategy Tracker ETF,Purchase,10/12/2023,"$1,001 - $15,000",n/a
+Self,--,SHM,Sale (Partial),10/12/2023,"$15,001 - $50,000",n/a
+Self,VTIP,Vanguard Short-Term Inflation-Protected Securities,Sale (Partial),10/12/2023,"$1,001 - $15,000",n/a
+Self,XMHQ,Invesco S&P Midcap Quality ETF,Purchase,10/12/2023,"$1,001 - $15,000",n/a
+Self,BIMBX,Blackrock Systematic Multi-Strategy Fund Institu,Purchase,10/13/2023,"$1,001 - $15,000",n/a
+Self,--,SWVXX,Purchase,10/13/2023,"$1,001 - $15,000",n/a
+Self,VWIUX,Vanguard Intermediate-Term Tax-Exempt Fd Admiral,Purchase,10/13/2023,"$50,001 - $100,000",n/a
+Joint,SPIAX,Invesco S&P 500 Index Fund Class A,Sale (Partial),01/19/2023,"$1,001 - $15,000",n/a
+Joint,--,SPY,Purchase,01/19/2023,"$1,001 - $15,000",n/a
+Joint,--,SWVXX,Sale (Partial),05/04/2023,"$1,001 - $15,000",n/a
+Joint,MUB,iShares National Muni Bond ETF,Purchase,05/04/2023,"$1,001 - $15,000",n/a
+Joint,--,CMDY,Purchase,05/04/2023,"$1,001 - $15,000",n/a
+Joint,SPIAX,Invesco S&P 500 Index Fund Class A,Sale (Full),08/22/2023,"$1,001 - $15,000",n/a
+Joint,--,SWVXX,Sale (Partial),08/22/2023,"$1,001 - $15,000",n/a
+Joint,IEFA,iShares Core MSCI EAFE ETF,Sale (Partial),08/22/2023,"$1,001 - $15,000",n/a
+Joint,--,SPY,Purchase,08/22/2023,"$1,001 - $15,000",n/a
+Joint,IJR,iShares Core S&P Small-Cap ETF,Sale (Partial),08/22/2023,"$1,001 - $15,000",n/a
+Joint,--,SHM,Purchase,08/22/2023,"$1,001 - $15,000",n/a
+Joint,MUB,iShares National Muni Bond ETF,Sale (Partial),10/12/2023,"$1,001 - $15,000",n/a
+Joint,--,SHM,Sale (Partial),10/12/2023,"$1,001 - $15,000",n/a
+Joint,--,VWIUX,Purchase,10/13/2023,"$15,001 - $50,000",n/a
+Joint,--,SHM,Sale (Full),10/13/2023,"$1,001 - $15,000",n/a
+Joint,MUB,iShares National Muni Bond ETF,Sale (Full),10/13/2023,"$1,001 - $15,000",n/a
+Joint,--,SWVXX,Purchase,10/16/2023,"$1,001 - $15,000",n/a
+Spouse,--,SPIAX,Sale (Full),01/19/2023,"$1,001 - $15,000",n/a
+Spouse,--,SCHZ,Purchase,01/19/2023,"$1,001 - $15,000",n/a
+Spouse,--,SPMD,Purchase,04/18/2023,"$1,001 - $15,000",n/a
+Spouse,SPLG,SPDR Portfolio S&P 500 ETF,Purchase,04/18/2023,"$1,001 - $15,000",n/a
+Spouse,--,SPHY,Purchase,04/18/2023,"$1,001 - $15,000",n/a
+Spouse,--,SCHZ,Sale (Partial),04/18/2023,"$1,001 - $15,000",n/a
+Spouse,--,SCHF,Sale (Partial),04/18/2023,"$1,001 - $15,000",n/a
+Spouse,--,SCHB,Sale (Full),04/18/2023,"$1,001 - $15,000",n/a
+Spouse,SPSM,SPDR Portfolio S&P 600 Small Cap ETF,Purchase,04/18/2023,"$1,001 - $15,000",n/a

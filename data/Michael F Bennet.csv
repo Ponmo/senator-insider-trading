@@ -1,0 +1,30 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Self,--,VTRIX - Vanguard International Value Fund Investor Shares,Purchase,03/31/2023,"$1,001 - $15,000",n/a
+Self,--,OAKIX - Oakmark International Fund Class,Sale (Full),03/31/2023,"$1,001 - $15,000",n/a
+Child,--,Conservative Age-Based Option: 25%Bond/75% Colorado Short-Term Reserves Portfolio,Purchase,02/01/2023,"$1,001 - $15,000",n/a
+Child,--,Moderate Age-Based Option: Income Portfolio,Purchase,02/01/2023,"$1,001 - $15,000",n/a
+Child,--,Conservative Age-Based Option: 25%Bond/75% Colorado Short-Term Reserves Portfolio,Sale (Full),08/07/2023,"$100,001 - $250,000",n/a
+Child,--,Conservative Age-Based Option: Interest Accumulation Portfolio,Purchase,08/07/2023,"$100,001 - $250,000",n/a
+Child,--,Conservative Age-Based Option: Interest Accumulation Portfolio,Sale (Partial),10/10/2023,"$15,001 - $50,000",n/a
+Child,--,Moderate Age-Based Option: Income Portfolio,Sale (Partial),10/10/2023,"$1,001 - $15,000",n/a
+Child,--,Conservative Age-Based Option: Interest Accumulation Portfolio,Purchase,12/20/2023,"$1,001 - $15,000",n/a
+Child,--,Moderate Age-Based Option: Income Portfolio,Purchase,12/20/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,10/06/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,11/01/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,12/04/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,01/06/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,02/01/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,03/01/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,04/03/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,05/03/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,06/01/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,07/03/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,08/02/2023,"$1,001 - $15,000",n/a
+Spouse,--,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Purchase,09/05/2023,"$1,001 - $15,000",n/a
+Self,--,EAERX - Eaton Vance Stock A,Purchase,12/21/2023,"$500,001 - $1,000,000",n/a
+Self,--,CP Block A Member; LLC,Sale (Partial),02/15/2023,"$100,001 - $250,000",n/a
+Self,--,CP Block A Member; LLC,Sale (Partial),03/29/2023,"$500,001 - $1,000,000",n/a
+Self,--,CP Block A Member; LLC,Sale (Partial),08/17/2023,"$1,001 - $15,000",n/a
+Self,--,CP Block A Member; LLC,Sale (Partial),12/11/2023,"$1,001 - $15,000",n/a
+Self,--,Harbor Spring Capital Partners; LP,Sale (Partial),10/24/2023,"$500,001 - $1,000,000",n/a
+Self,--,Harbor Spring Capital Partners; LP,Sale (Full),12/15/2023,"$100,001 - $250,000",n/a

@@ -1,0 +1,350 @@
+import requests
+import re
+import time
+import os
+import csv
+from bs4 import BeautifulSoup
+
+# Create a session to maintain cookies and state
+session = requests.Session()
+
+def fetch_senate_financial_disclosures(batch_size=100):
+    """
+    Sends POST requests to the Senate's Electronic Financial Disclosure Search system
+    to retrieve financial disclosure reports with the specified parameters.
+    Handles CSRF token acquisition, session management, and pagination.
+    """
+    
+    # First, get the main page to obtain a CSRF token and establish a session
+    main_url = "https://efdsearch.senate.gov/search/"
+    print("Accessing main search page to establish session...")
+    main_response = session.get(main_url)
+    
+    if main_response.status_code != 200:
+        print(f"Failed to access main page. Status code: {main_response.status_code}")
+        return None
+    
+    # Extract CSRF token from the page content
+    csrf_token = None
+    csrf_pattern = re.compile(r'name="csrfmiddlewaretoken" value="([^"]+)"')
+    match = csrf_pattern.search(main_response.text)
+    
+    if match:
+        csrf_token = match.group(1)
+        print(f"CSRF token obtained: {csrf_token[:5]}...{csrf_token[-5:]}")
+    else:
+        print("Failed to find CSRF token. Site may have changed.")
+        return None
+    
+    # Now submit the agreement form to get full access
+    print("Submitting agreement form...")
+    agreement_url = "https://efdsearch.senate.gov/search/home/"
+    agreement_data = {
+        "csrfmiddlewaretoken": csrf_token,
+        "prohibition_agreement": "1",
+    }
+    
+    agreement_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Accept": "text/html,application/xhtml+xml,application/xml",
+        "Referer": main_url,
+    }
+    
+    agreement_response = session.post(agreement_url, headers=agreement_headers, data=agreement_data)
+    
+    if agreement_response.status_code != 200:
+        print(f"Failed to submit agreement. Status code: {agreement_response.status_code}")
+        return None
+    
+    # URL for the data request
+    url = "https://efdsearch.senate.gov/search/report/data/"
+    
+    # Set up headers with the CSRF token
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "X-Requested-With": "XMLHttpRequest",
+        "Origin": "https://efdsearch.senate.gov",
+        "Referer": "https://efdsearch.senate.gov/search/",
+        "X-CSRFToken": csrf_token,
+    }
+    
+    # Initialize variables for pagination
+    start = 0
+    records = []
+    total_records = None
+    
+    # Loop to handle pagination
+    while True:
+        # Update the starting position in the form data
+        form_data = {
+            "draw": str(start // batch_size + 1),  # Increment draw number with each request
+            "columns[0][data]": "0",
+            "columns[0][name]": "",
+            "columns[0][searchable]": "true",
+            "columns[0][orderable]": "true",
+            "columns[0][search][value]": "",
+            "columns[0][search][regex]": "false",
+            "columns[1][data]": "1",
+            "columns[1][name]": "",
+            "columns[1][searchable]": "true",
+            "columns[1][orderable]": "true",
+            "columns[1][search][value]": "",
+            "columns[1][search][regex]": "false",
+            "columns[2][data]": "2",
+            "columns[2][name]": "",
+            "columns[2][searchable]": "true",
+            "columns[2][orderable]": "true",
+            "columns[2][search][value]": "",
+            "columns[2][search][regex]": "false",
+            "columns[3][data]": "3",
+            "columns[3][name]": "",
+            "columns[3][searchable]": "true",
+            "columns[3][orderable]": "true",
+            "columns[3][search][value]": "",
+            "columns[3][search][regex]": "false",
+            "columns[4][data]": "4",
+            "columns[4][name]": "",
+            "columns[4][searchable]": "true",
+            "columns[4][orderable]": "true",
+            "columns[4][search][value]": "",
+            "columns[4][search][regex]": "false",
+            "order[0][column]": "4",
+            "order[0][dir]": "desc",
+            "start": str(start),  # Starting position for this batch
+            "length": str(batch_size),  # Number of records per request
+            "search[value]": "",
+            "search[regex]": "false",
+            "report_types": "[7]",
+            "filer_types": "[1]",
+            "submitted_start_date": "01/01/2012 00:00:00",
+            "submitted_end_date": "",
+            "candidate_state": "",
+            "senator_state": "",
+            "office_id": "",
+            "first_name": "",
+            "last_name": "",
+            "csrfmiddlewaretoken": csrf_token,
+        }
+        
+        try:
+            # Send the POST request using the session that contains our cookies
+            print(f"Fetching records {start+1}-{start+batch_size}...")
+            response = session.post(url, headers=headers, data=form_data)
+            
+            # Check if the request was successful
+            if response.status_code == 200:
+                batch_data = response.json()
+                
+                # Get total records count (only need to do this once)
+                if total_records is None:
+                    total_records = batch_data.get('recordsTotal', 0)
+                    print(f"Total records available: {total_records}")
+                
+                # Add this batch to our combined data
+                current_batch = batch_data.get('data', [])
+                records.extend(current_batch)
+                print(f"Retrieved batch with {len(current_batch)} records. Total collected: {len(records)}")
+                
+                # Check if we've reached the end or hit our max_records limit
+                if not current_batch or len(records) >= total_records:
+                    break
+                
+                # Move to the next batch
+                start += batch_size
+                
+                # Add a small delay to be considerate to the server
+                time.sleep(0.5)
+                
+            else:
+                print(f"Failed to retrieve data. Status code: {response.status_code}")
+                print(f"Response: {response.text[:500]}...")  # Showing first 500 chars
+                break
+        
+        except Exception as e:
+            print(f"An error occurred: {str(e)}")
+            break
+    
+    return records
+
+def process_and_filter_records(records, target_year="2023"):
+    """
+    Process all records to create a filtered dictionary where each senator appears only once,
+    prioritizing their Annual Report for the target year with the latest amendment.
+    """
+    print(f"\nFiltering for each senator's latest Annual Report for CY {target_year}...")
+
+    filtered_records = {}
+    
+    # Process each record
+    for record in records:
+            
+        first_name = record[0].strip().replace(',', '')
+        last_name = record[1].strip().replace(',', '')
+        full_name_title = record[2].strip()
+        report_link_html = record[3]
+        date_filed = record[4]
+        
+        # Extract the report description and URL from the HTML link
+        href_match = re.search(r'href="([^"]+)"', report_link_html)
+        title_match = re.search(r'>([^<]+)<', report_link_html)
+        
+        if not href_match or not title_match:
+            continue
+            
+        url = f"https://efdsearch.senate.gov{href_match.group(1)}"
+        report_title = title_match.group(1).strip()
+        
+        # Check if this is an Annual Report for the target year
+        is_target_year_report = f"CY {target_year}" in report_title
+        amendment_match = re.search(r'Amendment (\d+)', report_title)
+        amendment_num = int(amendment_match.group(1)) if amendment_match else 0
+        
+        # Create a full name key
+        full_name = f"{first_name} {last_name}".strip()
+
+        if not is_target_year_report:
+            continue
+        
+        # If this senator is not yet in our filtered data, add them
+        if full_name not in filtered_records:
+            filtered_records[full_name] = {
+                "firstName": first_name,
+                "lastName": last_name,
+                "fullNameTitle": full_name_title,
+                "dateFiled": date_filed,
+                "fileName": report_title,
+                "url": url,
+                "amendment": amendment_num
+            }
+        else:
+            # If we already have a record for this senator, check if this one should replace it
+            existing_record = filtered_records[full_name]
+            
+            # Keep the one with the higher amendment number
+            if amendment_num > existing_record["amendment"]:
+                filtered_records[full_name] = {
+                    "firstName": first_name,
+                    "lastName": last_name,
+                    "fullNameTitle": full_name_title,
+                    "dateFiled": date_filed,
+                    "fileName": report_title,
+                    "url": url,
+                    "amendment": amendment_num
+                }
+
+    print(f"Total Annual Reports after filtering: {len(filtered_records)}")
+    return filtered_records
+
+def scrape_transactions(html_content):
+    """
+    Helper function to scrape transaction data from HTML content.
+    """
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    # Find all tables
+    tables = soup.select('.table-responsive table')
+    
+    # Look for the transactions table in Part 4b
+    transactions_table = None
+    for table in tables:
+        headers = [th.get_text(strip=True) for th in table.select('th')]
+        if 'Transaction Type' in headers:
+            transactions_table = table
+            break
+    
+    if not transactions_table:
+        print("No transactions table found")
+        return []
+    
+    # Extract data from each row
+    transactions = []
+    for row in transactions_table.select('tbody tr'):
+        columns = row.select('td')
+        if len(columns) < 9:  # Make sure row has enough columns
+            continue
+        
+        # Skip first two columns (empty and row number)
+        owner = columns[2].get_text(strip=True)
+        
+        # Extract ticker (handle links and other formatting)
+        ticker_cell = columns[3]
+        ticker = ticker_cell.get_text(strip=True).replace('\n', ' ').strip()
+        # Clean up ticker (-- could mean no ticker)
+        ticker = re.sub(r'\s+', ' ', ticker).strip()
+        
+        asset_name = columns[4].get_text(strip=True).replace(',', ';')
+        transaction_type = columns[5].get_text(strip=True)
+        transaction_date = columns[6].get_text(strip=True)
+        amount = columns[7].get_text(strip=True)
+        
+        # Extract comments (might be in a nested element)
+        comment_element = columns[8].select_one('.text-muted')
+        comments = comment_element.get_text(strip=True).replace(',', ';') if comment_element else ''
+        
+        transactions.append({
+            'Owner': owner,
+            'Ticker': ticker,
+            'Asset Name': asset_name,
+            'Transaction Type': transaction_type,
+            'Transaction Date': transaction_date,
+            'Amount': amount,
+            'Comments': comments
+        })
+    
+    return transactions
+
+def fetch_transactions(records):
+    """
+    Sends GET requests to the Senate's Electronic Financial Disclosure Search system
+    to retrieve the Annual Report for each record and returns transaction data.
+    """
+    os.makedirs(os.path.join("..", "data"), exist_ok=True)
+    for full_name, record in records.items():
+        print(f"Processing {full_name}...")
+        url = record['url']
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+        }
+        
+        try:
+            # Add a delay to avoid overloading the server
+            time.sleep(0.5)
+            
+            # Make the request
+            response = session.get(url, headers=headers)
+            response.raise_for_status()  # Raise an error for bad status codes
+            
+            # Scrape transactions
+            transactions = scrape_transactions(response.text)
+            
+            if transactions:
+                # Create CSV filename
+                csv_filename = os.path.join("..", "data", f"{full_name}.csv")
+                
+                # Write to CSV
+                with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+                    fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount', 'Comments']
+                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                    
+                    writer.writeheader()
+                    for transaction in transactions:
+                        writer.writerow(transaction)
+                
+                print(f"✓ Saved {len(transactions)} transactions to {csv_filename}")
+            else:
+                print(f"✗ No transactions found for {full_name}")
+                
+        except Exception as e:
+            print(f"✗ Error processing {full_name}: {str(e)}")
+
+
+if __name__ == "__main__":
+    records = fetch_senate_financial_disclosures()
+    filtered_records = process_and_filter_records(records)
+    fetch_transactions(filtered_records)
