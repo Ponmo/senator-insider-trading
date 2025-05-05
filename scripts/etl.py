@@ -10,12 +10,11 @@ session = requests.Session()
 
 def fetch_senate_financial_disclosures(batch_size=100):
     """
-    Sends POST requests to the Senate's Electronic Financial Disclosure Search system
-    to retrieve financial disclosure reports with the specified parameters.
-    Handles CSRF token acquisition, session management, and pagination.
+    Retrieves financial disclosure reports from the Senate's Electronic Financial Disclosure system.
+    Handles authentication, CSRF tokens, and pagination.
     """
     
-    # First, get the main page to obtain a CSRF token and establish a session
+    # Initialize session and get CSRF token
     main_url = "https://efdsearch.senate.gov/search/"
     print("Accessing main search page to establish session...")
     main_response = session.get(main_url)
@@ -24,7 +23,7 @@ def fetch_senate_financial_disclosures(batch_size=100):
         print(f"Failed to access main page. Status code: {main_response.status_code}")
         return None
     
-    # Extract CSRF token from the page content
+    # Extract CSRF token
     csrf_token = None
     csrf_pattern = re.compile(r'name="csrfmiddlewaretoken" value="([^"]+)"')
     match = csrf_pattern.search(main_response.text)
@@ -36,7 +35,7 @@ def fetch_senate_financial_disclosures(batch_size=100):
         print("Failed to find CSRF token. Site may have changed.")
         return None
     
-    # Now submit the agreement form to get full access
+    # Accept terms and conditions
     print("Submitting agreement form...")
     agreement_url = "https://efdsearch.senate.gov/search/home/"
     agreement_data = {
@@ -118,7 +117,7 @@ def fetch_senate_financial_disclosures(batch_size=100):
             "search[value]": "",
             "search[regex]": "false",
             "report_types": "[7]",
-            "filer_types": "[1]",
+            "filer_types": "[]",
             "submitted_start_date": "01/01/2012 00:00:00",
             "submitted_end_date": "",
             "candidate_state": "",
@@ -171,8 +170,8 @@ def fetch_senate_financial_disclosures(batch_size=100):
 
 def process_and_filter_records(records, target_year="2023"):
     """
-    Process all records to create a filtered dictionary where each senator appears only once,
-    prioritizing their Annual Report for the target year with the latest amendment.
+    Filters records to keep only the most recent Annual Report for each senator
+    for the specified target year, prioritizing the latest amendment.
     """
     print(f"\nFiltering for each senator's latest Annual Report for CY {target_year}...")
 
@@ -187,7 +186,7 @@ def process_and_filter_records(records, target_year="2023"):
         report_link_html = record[3]
         date_filed = record[4]
         
-        # Extract the report description and URL from the HTML link
+        # Extract the report title and URL from the HTML link
         href_match = re.search(r'href="([^"]+)"', report_link_html)
         title_match = re.search(r'>([^<]+)<', report_link_html)
         
@@ -199,14 +198,14 @@ def process_and_filter_records(records, target_year="2023"):
         
         # Check if this is an Annual Report for the target year
         is_target_year_report = f"CY {target_year}" in report_title
+        if not is_target_year_report:
+            continue
+
         amendment_match = re.search(r'Amendment (\d+)', report_title)
         amendment_num = int(amendment_match.group(1)) if amendment_match else 0
         
         # Create a full name key
         full_name = f"{first_name} {last_name}".strip()
-
-        if not is_target_year_report:
-            continue
         
         # If this senator is not yet in our filtered data, add them
         if full_name not in filtered_records:
@@ -238,9 +237,9 @@ def process_and_filter_records(records, target_year="2023"):
     print(f"Total Annual Reports after filtering: {len(filtered_records)}")
     return filtered_records
 
-def scrape_transactions(html_content):
+def extract_transactions(html_content):
     """
-    Helper function to scrape transaction data from HTML content.
+    Extracts transaction data from the HTML content of a financial disclosure report.
     """
     soup = BeautifulSoup(html_content, 'html.parser')
     
@@ -296,10 +295,9 @@ def scrape_transactions(html_content):
     
     return transactions
 
-def fetch_transactions(records):
+def download_transactions(records):
     """
-    Sends GET requests to the Senate's Electronic Financial Disclosure Search system
-    to retrieve the Annual Report for each record and returns transaction data.
+    Downloads transaction data for each senator and saves to individual CSV files.
     """
     os.makedirs(os.path.join("..", "data"), exist_ok=True)
     for full_name, record in records.items():
@@ -321,30 +319,26 @@ def fetch_transactions(records):
             response.raise_for_status()  # Raise an error for bad status codes
             
             # Scrape transactions
-            transactions = scrape_transactions(response.text)
+            transactions = extract_transactions(response.text)
             
-            if transactions:
-                # Create CSV filename
-                csv_filename = os.path.join("..", "data", f"{full_name}.csv")
+            # Create CSV filename
+            csv_filename = os.path.join("..", "data", f"{full_name}.csv")
+            
+            # Write to CSV
+            with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+                fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount', 'Comments']
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 
-                # Write to CSV
-                with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-                    fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount', 'Comments']
-                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                    
-                    writer.writeheader()
-                    for transaction in transactions:
-                        writer.writerow(transaction)
-                
-                print(f"✓ Saved {len(transactions)} transactions to {csv_filename}")
-            else:
-                print(f"✗ No transactions found for {full_name}")
-                
+                writer.writeheader()
+                for transaction in transactions:
+                    writer.writerow(transaction)
+            
+            print(f"✓ Saved {len(transactions)} transactions to {csv_filename}")
+            
         except Exception as e:
             print(f"✗ Error processing {full_name}: {str(e)}")
-
 
 if __name__ == "__main__":
     records = fetch_senate_financial_disclosures()
     filtered_records = process_and_filter_records(records)
-    fetch_transactions(filtered_records)
+    download_transactions(filtered_records)
