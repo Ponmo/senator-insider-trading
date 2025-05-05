@@ -1,0 +1,167 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Self,GQEIX,Gqg Partners US Select Quality Equity Fund Insti,Sale (Partial),02/15/2023,"$1,001 - $15,000",n/a
+Self,GQEIX,Gqg Partners US Select Quality Equity Fund Insti,Sale (Partial),03/08/2023,"$1,001 - $15,000",n/a
+Self,EGFIX,Edgewood Growth Fund Insti,Sale (Partial),03/08/2023,"$1,001 - $15,000",n/a
+Self,NCRLX,Neuberger Berman Core Bond Institutional Class,Sale (Partial),03/08/2023,"$1,001 - $15,000",n/a
+Self,VSIAX,Vanguard Small-Cap Value Index Fd Admiral,Sale (Full),03/14/2023,"$1,001 - $15,000",n/a
+Self,EGFIX,Edgewood Growth Fund Insti,Sale (Partial),08/11/2023,"$1,001 - $15,000",n/a
+Self,GQEIX,Gqg Partners US Select Quality Equity Fund Insti,Sale (Partial),08/11/2023,"$1,001 - $15,000",n/a
+Self,VFIAX,Vanguard 500 Index Fd Admiral Shs,Sale (Partial),08/11/2023,"$1,001 - $15,000",n/a
+Self,VWIAX,Vanguard Wellesley Income Fund Admiral Shares,Sale (Full),08/11/2023,"$15,001 - $50,000",n/a
+Self,EGFIX,Edgewood Growth Fund Insti,Sale (Partial),09/07/2023,"$1,001 - $15,000",n/a
+Self,GQEIX,Gqg Partners US Select Quality Equity Fund Insti,Sale (Partial),09/07/2023,"$1,001 - $15,000",n/a
+Self,MWTSX,Metropolitan West Total Return Bond Fd Plan Cl S,Sale (Partial),12/11/2023,"$1,001 - $15,000",n/a
+Self,APHKX,Artisan International Value Fd Insti Shs,Purchase,02/15/2023,"$1,001 - $15,000",n/a
+Self,MWTSX,Metropolitan West Total Return Bond Fd Plan Cl S,Purchase,02/15/2023,"$1,001 - $15,000",n/a
+Self,VWIAX,Vanguard Wellesley Income Fund Admiral Shares,Purchase,02/16/2023,"$1,001 - $15,000",n/a
+Self,QRSIX,Fpa Queens Road Small Cap Value Fund Institution,Purchase,08/11/2023,"$1,001 - $15,000",n/a
+Self,MWTSX,Metropolitan West Total Return Bond Fd Plan Cl S,Purchase,08/11/2023,"$1,001 - $15,000",n/a
+Self,JHEQX,Jpmorgan Hedged Equity Fund I Class,Purchase,08/11/2023,"$1,001 - $15,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Purchase,01/03/2023,"$100,001 - $250,000",n/a
+Self,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Purchase,01/03/2023,"$100,001 - $250,000",n/a
+Self,SPY,S&P 500 SPDR,Purchase,02/22/2023,"$250,001 - $500,000",n/a
+Self,HYD,VanEck ETF Trust VanEck High Yield Muni ETF,Purchase,10/16/2023,"$1,000,001 - $5,000,000",n/a
+Self,BKLN,Invesco Senior Loan ETF,Purchase,10/17/2023,"$1,000,001 - $5,000,000",n/a
+Self,SPY,S&P 500 SPDR,Purchase,11/17/2023,"$250,001 - $500,000",n/a
+Self,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Purchase,11/28/2023,"$1,000,001 - $5,000,000",n/a
+Self,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Purchase,11/29/2023,"$1,000,001 - $5,000,000",n/a
+Spouse,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Purchase,01/18/2023,"$15,001 - $50,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Purchase,01/18/2023,"$100,001 - $250,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Purchase,01/18/2023,"$100,001 - $250,000",n/a
+Spouse,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Purchase,01/18/2023,"$15,001 - $50,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Purchase,01/18/2023,"$15,001 - $50,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,01/19/2023,"$50,001 - $100,000",n/a
+Spouse,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Purchase,01/19/2023,"$1,001 - $15,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Purchase,01/19/2023,"$1,001 - $15,000",n/a
+Spouse,ACWX,iShares MSCI ACWI ex U.S. ETF,Purchase,01/19/2023,"$1,001 - $15,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Purchase,01/31/2023,"$100,001 - $250,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Purchase,01/31/2023,"$100,001 - $250,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,02/01/2023,"$15,001 - $50,000",n/a
+Spouse,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Purchase,02/01/2023,"$1,001 - $15,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Purchase,02/01/2023,"$1,001 - $15,000",n/a
+Spouse,ACWX,iShares MSCI ACWI ex U.S. ETF,Purchase,02/01/2023,"$1,001 - $15,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Purchase,05/08/2023,"$15,001 - $50,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Purchase,05/08/2023,"$15,001 - $50,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,05/09/2023,"$1,001 - $15,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Purchase,05/09/2023,"$1,001 - $15,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,05/11/2023,"$1,001 - $15,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Purchase,05/11/2023,"$1,001 - $15,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,05/23/2023,"$15,001 - $50,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Purchase,05/23/2023,"$1,001 - $15,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,05/24/2023,"$1,001 - $15,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Purchase,05/24/2023,"$1,001 - $15,000",n/a
+Spouse,HYD,VanEck ETF Trust VanEck High Yield Muni ETF,Purchase,10/16/2023,"$100,001 - $250,000",n/a
+Spouse,BKLN,Invesco Senior Loan ETF,Purchase,10/17/2023,"$250,001 - $500,000",n/a
+Spouse,SPY,S&P 500 SPDR,Purchase,11/17/2023,"$50,001 - $100,000",n/a
+Spouse,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Purchase,11/28/2023,"$100,001 - $250,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Purchase,11/29/2023,"$250,001 - $500,000",n/a
+Self,--,Bank of Nova Scotia Structured Note Upside Levered Capped due 2/23/2023; linked to GSPINFL2,Sale (Full),02/23/2023,"$250,001 - $500,000",n/a
+Self,IWD,iShares Russell 1000 Value ETF,Sale (Partial),12/14/2023,"$250,001 - $500,000",n/a
+Self,IWF,iShares Russell 1000 Growth ETF,Sale (Partial),12/14/2023,"$250,001 - $500,000",n/a
+Self,GGFPX,Goldman Sachs International Equity Insights Fund,Sale (Partial),12/14/2023,"$100,001 - $250,000",n/a
+Self,ACWX,iShares MSCI ACWI ex U.S. ETF,Sale (Partial),12/14/2023,"$100,001 - $250,000",n/a
+Self,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),12/14/2023,"$100,001 - $250,000",n/a
+Spouse,IWD,iShares Russell 1000 Value ETF,Sale (Partial),01/03/2023,"$250,001 - $500,000",n/a
+Spouse,IWF,iShares Russell 1000 Growth ETF,Sale (Partial),01/03/2023,"$250,001 - $500,000",n/a
+Spouse,SPY,S&P 500 SPDR,Sale (Partial),01/03/2023,"$250,001 - $500,000",n/a
+Spouse,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),01/03/2023,"$50,001 - $100,000",n/a
+Spouse,GCEPX,Goldman Sachs Clean Energy Income Fund Class P S,Sale (Partial),01/03/2023,"$50,001 - $100,000",n/a
+Spouse,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),01/03/2023,"$15,001 - $50,000",n/a
+Spouse,HEDJ,WisdomTree Europe Hedged Equity Fund,Sale (Partial),01/03/2023,"$100,001 - $250,000",n/a
+Spouse,ACWX,iShares MSCI ACWI ex U.S. ETF,Sale (Partial),01/03/2023,"$100,001 - $250,000",n/a
+Spouse,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),01/03/2023,"$100,001 - $250,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),01/03/2023,"$500,001 - $1,000,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),01/03/2023,"$500,001 - $1,000,000",n/a
+Spouse,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Sale (Partial),01/03/2023,"$15,001 - $50,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),01/03/2023,"$50,001 - $100,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Spouse,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Spouse,--,GMDPX,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Spouse,SPY,S&P 500 SPDR,Sale (Partial),02/14/2023,"$250,001 - $500,000",n/a
+Spouse,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),02/14/2023,"$100,001 - $250,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),02/14/2023,"$250,001 - $500,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),02/14/2023,"$250,001 - $500,000",n/a
+Spouse,GGFPX,Goldman Sachs International Equity Insights Fund,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Spouse,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),02/22/2023,"$50,001 - $100,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),02/22/2023,"$250,001 - $500,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),02/22/2023,"$250,001 - $500,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),02/22/2023,"$50,001 - $100,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),03/30/2023,"$50,001 - $100,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),03/30/2023,"$50,001 - $100,000",n/a
+Spouse,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),03/31/2023,"$15,001 - $50,000",n/a
+Spouse,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Sale (Partial),04/13/2023,"$50,001 - $100,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),04/13/2023,"$50,001 - $100,000",n/a
+Spouse,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),06/22/2023,"$100,001 - $250,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),06/22/2023,"$100,001 - $250,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),06/22/2023,"$100,001 - $250,000",n/a
+Spouse,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Sale (Partial),06/22/2023,"$15,001 - $50,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),06/22/2023,"$15,001 - $50,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),08/11/2023,"$15,001 - $50,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),08/11/2023,"$15,001 - $50,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),09/25/2023,"$100,001 - $250,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),09/25/2023,"$100,001 - $250,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),09/29/2023,"$15,001 - $50,000",n/a
+Spouse,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Sale (Partial),10/16/2023,"$100,001 - $250,000",n/a
+Spouse,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),10/17/2023,"$250,001 - $500,000",n/a
+Spouse,GCEPX,Goldman Sachs Clean Energy Income Fund Class P S,Sale (Full),11/17/2023,"$50,001 - $100,000",n/a
+Spouse,HYD,VanEck ETF Trust VanEck High Yield Muni ETF,Sale (Full),11/28/2023,"$100,001 - $250,000",n/a
+Spouse,BKLN,Invesco Senior Loan ETF,Sale (Full),11/29/2023,"$250,001 - $500,000",n/a
+Spouse,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),12/15/2023,"$100,001 - $250,000",n/a
+Spouse,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),12/15/2023,"$50,001 - $100,000",n/a
+Spouse,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),12/15/2023,"$50,001 - $100,000",n/a
+Spouse,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),12/15/2023,"$50,001 - $100,000",n/a
+Spouse,IWD,iShares Russell 1000 Value ETF,Sale (Partial),12/27/2023,"$100,001 - $250,000",n/a
+Spouse,IWD,iShares Russell 1000 Value ETF,Sale (Partial),12/29/2023,"$50,001 - $100,000",n/a
+Self,IWM,iShares Russell 2000 ETF,Sale (Partial),02/13/2023,"$100,001 - $250,000",n/a
+Self,IWD,iShares Russell 1000 Value ETF,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Self,IWF,iShares Russell 1000 Growth ETF,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Self,SPY,S&P 500 SPDR,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Self,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),02/13/2023,"$100,001 - $250,000",n/a
+Self,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Self,GSNPX,Goldman Sachs Strategic International Equity Fun,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Self,HEDJ,WisdomTree Europe Hedged Equity Fund,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Self,ACWX,iShares MSCI ACWI ex U.S. ETF,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Self,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Self,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),02/13/2023,"$250,001 - $500,000",n/a
+Self,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),02/13/2023,"$50,001 - $100,000",n/a
+Self,IWM,iShares Russell 2000 ETF,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Self,IWD,iShares Russell 1000 Value ETF,Sale (Partial),02/22/2023,"$500,001 - $1,000,000",n/a
+Self,IWF,iShares Russell 1000 Growth ETF,Sale (Partial),02/22/2023,"$500,001 - $1,000,000",n/a
+Self,SPY,S&P 500 SPDR,Sale (Partial),02/22/2023,"$250,001 - $500,000",n/a
+Self,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Self,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Self,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Self,HEDJ,WisdomTree Europe Hedged Equity Fund,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Self,ACWX,iShares MSCI ACWI ex U.S. ETF,Sale (Partial),02/22/2023,"$100,001 - $250,000",n/a
+Self,GANPX,Goldman Sachs Short Duration Tax Free Fund Class,Sale (Partial),02/22/2023,"$50,001 - $100,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),02/22/2023,"$250,001 - $500,000",n/a
+Self,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),02/22/2023,"$250,001 - $500,000",n/a
+Self,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),02/22/2023,"$50,001 - $100,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),03/14/2023,"$100,001 - $250,000",n/a
+Self,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),03/14/2023,"$100,001 - $250,000",n/a
+Self,IWD,iShares Russell 1000 Value ETF,Sale (Partial),06/22/2023,"$50,001 - $100,000",n/a
+Self,IWF,iShares Russell 1000 Growth ETF,Sale (Partial),06/22/2023,"$50,001 - $100,000",n/a
+Self,SPY,S&P 500 SPDR,Sale (Partial),06/22/2023,"$100,001 - $250,000",n/a
+Self,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),06/22/2023,"$15,001 - $50,000",n/a
+Self,HEDJ,WisdomTree Europe Hedged Equity Fund,Sale (Partial),06/22/2023,"$50,001 - $100,000",n/a
+Self,ACWX,iShares MSCI ACWI ex U.S. ETF,Sale (Partial),06/22/2023,"$15,001 - $50,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),08/22/2023,"$50,001 - $100,000",n/a
+Self,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),08/22/2023,"$50,001 - $100,000",n/a
+Self,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),08/31/2023,"$100,001 - $250,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),08/31/2023,"$100,001 - $250,000",n/a
+Self,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),09/13/2023,"$100,001 - $250,000",n/a
+Self,GMCPX,Goldman Sachs Short Duration Bond Fund Class P S,Sale (Partial),09/13/2023,"$50,001 - $100,000",n/a
+Self,GMDPX,Goldman Sachs Short Duration Government Fund Cla,Sale (Partial),09/13/2023,"$50,001 - $100,000",n/a
+Self,GSWPX,Goldman Sachs Small/Mid Cap Growth Fund Class P,Sale (Partial),09/25/2023,"$100,001 - $250,000",n/a
+Self,GAHPX,Goldman Sachs Emerging Markets Equity Fund Class,Sale (Partial),09/25/2023,"$100,001 - $250,000",n/a
+Self,GGLPX,Goldman Sachs High Yield Municipal Fund Class P,Sale (Partial),10/16/2023,"$1,000,001 - $5,000,000",n/a
+Self,GGNPX,Goldman Sachs High Yield Floating Rate Fund Clas,Sale (Partial),10/17/2023,"$1,000,001 - $5,000,000",n/a
+Self,GCEPX,Goldman Sachs Clean Energy Income Fund Class P S,Sale (Full),11/17/2023,"$250,001 - $500,000",n/a
+Self,HYD,VanEck ETF Trust VanEck High Yield Muni ETF,Sale (Full),11/28/2023,"$1,000,001 - $5,000,000",n/a
+Self,BKLN,Invesco Senior Loan ETF,Sale (Full),11/29/2023,"$1,000,001 - $5,000,000",n/a
+Self,IWD,iShares Russell 1000 Value ETF,Sale (Partial),12/18/2023,"$250,001 - $500,000",n/a
+Spouse,--,Solamere Series IV Flagship Fund; LP,Purchase,11/30/2023,"$1,000,001 - $5,000,000",
+Spouse,--,Solamere Series IV Leaders Fund; LP,Purchase,11/30/2023,"$1,000,001 - $5,000,000",
