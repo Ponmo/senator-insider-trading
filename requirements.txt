@@ -2,3 +2,5 @@ networkx
 numpy
 matplotlib
 scipy
+requests
+beautifulsoup4
