@@ -163,9 +163,10 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     plt.tight_layout()
     plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300)
     plt.show()
+
 # Replace your visualize_connection_graph function with these parameters
 def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True, 
-                              min_weight=1, k=0.3, figsize=(20, 20), node_size=100, 
+                              min_weight=0, k=0.3, figsize=(20, 20), node_size=100, 
                               label_size=10, edge_alpha=0.3, filter_nodes=None):
     """
     Visualize a connection graph with better control over display parameters.
@@ -222,7 +223,7 @@ def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True,
     plt.tight_layout()
     plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300, bbox_inches='tight')
     plt.show()
-    
+
 def main():
     data_dir = "data"
     
