@@ -226,6 +226,7 @@ def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True,
 
 def main():
     data_dir = "data"
+    output_file = "graph_analysis.txt"
     
     # Create bipartite graph
     bipartite_graph, senator_nodes, ticker_nodes = create_bipartite_graph(data_dir)
@@ -244,19 +245,54 @@ def main():
     print(f"Ticker graph created with {ticker_graph.number_of_edges()} connections")
     visualize_connection_graph(ticker_graph, "Ticker Connections", node_color='lightgreen')
     
-    # Find most connected senators
-    senator_degrees = sorted([(node, senator_graph.degree(node)) for node in senator_graph.nodes()], 
-                            key=lambda x: x[1], reverse=True)
-    print("\nTop connected senators:")
-    for senator, degree in senator_degrees[:5]:
-        print(f"{senator}: {degree} connections")
+    # Analyze and write results to a text file
+    with open(output_file, 'w') as f:
+        # Most connected senators
+        senator_degrees = sorted([(node, senator_graph.degree(node)) for node in senator_graph.nodes()], 
+                                 key=lambda x: x[1], reverse=True)
+        f.write("Top connected senators:\n")
+        for senator, degree in senator_degrees[:5]:
+            f.write(f"{senator}: {degree} connections\n")
+        f.write("\n")
+        
+        # Most connected tickers
+        ticker_degrees = sorted([(node, ticker_graph.degree(node)) for node in ticker_graph.nodes()], 
+                                key=lambda x: x[1], reverse=True)
+        f.write("Top connected tickers:\n")
+        for ticker, degree in ticker_degrees[:5]:
+            f.write(f"{ticker}: {degree} connections\n")
+        f.write("\n")
+        
+        # Centrality measures for senators
+        f.write("Senator centrality measures:\n")
+        senator_centrality = nx.degree_centrality(senator_graph)
+        for senator, centrality in sorted(senator_centrality.items(), key=lambda x: x[1], reverse=True)[:5]:
+            f.write(f"{senator}: {centrality:.4f}\n")
+        f.write("\n")
+        
+        # Centrality measures for tickers
+        f.write("Ticker centrality measures:\n")
+        ticker_centrality = nx.degree_centrality(ticker_graph)
+        for ticker, centrality in sorted(ticker_centrality.items(), key=lambda x: x[1], reverse=True)[:5]:
+            f.write(f"{ticker}: {centrality:.4f}\n")
+        f.write("\n")
+        
+        # Communities in senator graph
+        f.write("Senator communities:\n")
+        from networkx.algorithms.community import greedy_modularity_communities
+        senator_communities = list(greedy_modularity_communities(senator_graph))
+        for i, community in enumerate(senator_communities):
+            f.write(f"Community {i+1}: {', '.join(community)}\n")
+        f.write("\n")
+        
+        # Communities in ticker graph
+        f.write("Ticker communities:\n")
+        ticker_communities = list(greedy_modularity_communities(ticker_graph))
+        for i, community in enumerate(ticker_communities):
+            f.write(f"Community {i+1}: {', '.join(community)}\n")
+        f.write("\n")
     
-    # Find most connected tickers
-    ticker_degrees = sorted([(node, ticker_graph.degree(node)) for node in ticker_graph.nodes()], 
-                           key=lambda x: x[1], reverse=True)
-    print("\nTop connected tickers:")
-    for ticker, degree in ticker_degrees[:5]:
-        print(f"{ticker}: {degree} connections")
+    print(f"Graph analysis results written to {output_file}")
 
 if __name__ == "__main__":
     main()
