@@ -21,7 +21,7 @@ def load_senator_data(filepath):
     tickers = set()
     
 
-    with open("../" + filepath, 'r', encoding='utf-8') as f:
+    with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             ticker = row.get('Ticker', '').strip()
@@ -163,40 +163,66 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     plt.tight_layout()
     plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300)
     plt.show()
-
-def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True):
+# Replace your visualize_connection_graph function with these parameters
+def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True, 
+                              min_weight=1, k=0.3, figsize=(20, 20), node_size=100, 
+                              label_size=10, edge_alpha=0.3, filter_nodes=None):
     """
-    Visualize a connection graph.
+    Visualize a connection graph with better control over display parameters.
     
     Args:
         G (nx.Graph): Connection graph
         title (str): Plot title
         node_color (str): Color for nodes
         with_labels (bool): Whether to show labels
+        min_weight (int): Minimum edge weight to display
+        k (float): Spring layout strength parameter
+        figsize (tuple): Figure size
+        node_size (int): Size of nodes
+        label_size (int): Size of labels
+        edge_alpha (float): Transparency of edges
+        filter_nodes (int): Only show top N nodes by degree
     """
-    plt.figure(figsize=(12, 10))
+    # Filter graph to only include edges with weight >= min_weight
+    filtered_G = nx.Graph()
+    for u, v, data in G.edges(data=True):
+        if data['weight'] >= min_weight:
+            filtered_G.add_edge(u, v, **data)
+    
+    # Add any isolated nodes that should be displayed
+    for node in G.nodes():
+        filtered_G.add_node(node)
+    
+    # Optionally filter to only top N nodes by degree
+    if filter_nodes:
+        degree_dict = dict(filtered_G.degree())
+        top_nodes = sorted(degree_dict.items(), key=lambda x: x[1], reverse=True)[:filter_nodes]
+        top_nodes = [node for node, _ in top_nodes]
+        filtered_G = filtered_G.subgraph(top_nodes)
+    
+    plt.figure(figsize=figsize)
     
     # Get weights for edge thickness
-    edge_weights = [G[u][v]['weight'] for u, v in G.edges()]
+    edge_weights = [filtered_G[u][v]['weight'] for u, v in filtered_G.edges()]
     max_weight = max(edge_weights) if edge_weights else 1
-    normalized_weights = [2.0 * w / max_weight for w in edge_weights]
+    normalized_weights = [1.0 + (3.0 * w / max_weight) for w in edge_weights]
     
-    # Generate positions with spring layout
-    pos = nx.spring_layout(G, seed=42)
+    # Generate positions with spring layout (k controls node spacing)
+    pos = nx.spring_layout(filtered_G, seed=42, k=k)
     
     # Draw the graph
-    nx.draw_networkx_nodes(G, pos, node_color=node_color, node_size=300, alpha=0.8)
-    nx.draw_networkx_edges(G, pos, width=normalized_weights, alpha=0.5)
+    nx.draw_networkx_nodes(filtered_G, pos, node_color=node_color, node_size=node_size, alpha=0.8)
+    nx.draw_networkx_edges(filtered_G, pos, width=normalized_weights, alpha=edge_alpha)
     
     if with_labels:
-        nx.draw_networkx_labels(G, pos, font_size=8)
+        nx.draw_networkx_labels(filtered_G, pos, font_size=label_size)
     
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
-    plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300)
+    plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300, bbox_inches='tight')
     plt.show()
-
+    
 def main():
     data_dir = "data"
     
