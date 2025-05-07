@@ -279,10 +279,6 @@ def extract_transactions(html_content):
         transaction_date = columns[6].get_text(strip=True)
         amount = columns[7].get_text(strip=True)
         
-        # Extract comments (might be in a nested element)
-        comment_element = columns[8].select_one('.text-muted')
-        comments = comment_element.get_text(strip=True).replace(',', ';') if comment_element else ''
-        
         transactions.append({
             'Owner': owner,
             'Ticker': ticker,
@@ -290,7 +286,6 @@ def extract_transactions(html_content):
             'Transaction Type': transaction_type,
             'Transaction Date': transaction_date,
             'Amount': amount,
-            'Comments': comments
         })
     
     return transactions
@@ -326,7 +321,7 @@ def download_transactions(records):
             
             # Write to CSV
             with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-                fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount', 'Comments']
+                fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 
                 writer.writeheader()
