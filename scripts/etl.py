@@ -155,7 +155,7 @@ def fetch_senate_financial_disclosures(batch_size=100):
                 start += batch_size
                 
                 # Add a small delay to be considerate to the server
-                time.sleep(0.5)
+                time.sleep(1)
                 
             else:
                 print(f"Failed to retrieve data. Status code: {response.status_code}")
@@ -255,7 +255,6 @@ def extract_transactions(html_content):
             break
     
     if not transactions_table:
-        print("No transactions table found")
         return []
     
     # Extract data from each row
@@ -307,14 +306,20 @@ def download_transactions(records):
         
         try:
             # Add a delay to avoid overloading the server
-            time.sleep(0.5)
+            time.sleep(1)
             
             # Make the request
             response = session.get(url, headers=headers)
             response.raise_for_status()  # Raise an error for bad status codes
             
+            
             # Scrape transactions
             transactions = extract_transactions(response.text)
+            
+            # Skip saving if there are no transactions
+            if not transactions:
+                print(f"✗ No transactions found for {full_name}. Skipping CSV creation.")
+                continue
             
             # Create CSV filename
             csv_filename = os.path.join("..", "data", f"{full_name}.csv")
