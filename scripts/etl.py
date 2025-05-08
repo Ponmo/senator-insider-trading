@@ -155,7 +155,7 @@ def fetch_senate_financial_disclosures(batch_size=100):
                 start += batch_size
                 
                 # Add a small delay to be considerate to the server
-                time.sleep(0.5)
+                time.sleep(1)
                 
             else:
                 print(f"Failed to retrieve data. Status code: {response.status_code}")
@@ -255,7 +255,6 @@ def extract_transactions(html_content):
             break
     
     if not transactions_table:
-        print("No transactions table found")
         return []
     
     # Extract data from each row
@@ -279,10 +278,6 @@ def extract_transactions(html_content):
         transaction_date = columns[6].get_text(strip=True)
         amount = columns[7].get_text(strip=True)
         
-        # Extract comments (might be in a nested element)
-        comment_element = columns[8].select_one('.text-muted')
-        comments = comment_element.get_text(strip=True).replace(',', ';') if comment_element else ''
-        
         transactions.append({
             'Owner': owner,
             'Ticker': ticker,
@@ -290,7 +285,6 @@ def extract_transactions(html_content):
             'Transaction Type': transaction_type,
             'Transaction Date': transaction_date,
             'Amount': amount,
-            'Comments': comments
         })
     
     return transactions
@@ -312,21 +306,27 @@ def download_transactions(records):
         
         try:
             # Add a delay to avoid overloading the server
-            time.sleep(0.5)
+            time.sleep(1)
             
             # Make the request
             response = session.get(url, headers=headers)
             response.raise_for_status()  # Raise an error for bad status codes
             
+            
             # Scrape transactions
             transactions = extract_transactions(response.text)
+            
+            # Skip saving if there are no transactions
+            if not transactions:
+                print(f"✗ No transactions found for {full_name}. Skipping CSV creation.")
+                continue
             
             # Create CSV filename
             csv_filename = os.path.join("..", "data", f"{full_name}.csv")
             
             # Write to CSV
             with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-                fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount', 'Comments']
+                fieldnames = ['Owner', 'Ticker', 'Asset Name', 'Transaction Type', 'Transaction Date', 'Amount']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 
                 writer.writeheader()
