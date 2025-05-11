@@ -2,8 +2,8 @@ Top connected senators:
 Angus S King Jr.: 26 connections
 Sheldon Whitehouse: 24 connections
 Mark R Warner: 23 connections
-John Boozman: 21 connections
 A. Mitchell McConnell Jr.: 21 connections
+Ladda Tammy Duckworth: 21 connections
 
 Top connected tickers:
 VWIUX: 164 connections
@@ -16,8 +16,8 @@ Senator centrality measures:
 Angus S King Jr.: 0.5417
 Sheldon Whitehouse: 0.5000
 Mark R Warner: 0.4792
-John Boozman: 0.4375
 A. Mitchell McConnell Jr.: 0.4375
+Ladda Tammy Duckworth: 0.4375
 
 Ticker centrality measures:
 VWIUX: 0.2466
@@ -27,28 +27,212 @@ SPY: 0.2120
 GQGIX: 0.1985
 
 Senator communities:
-Community 1: Joni K Ernst, Ron L Wyden, Thomas R Tillis, Benjamin L Cardin, James P Lankford, Mark R Warner, Maggie Hassan, M. Michael Rounds, Timothy M Kaine, John N Kennedy, Cory A Booker, William F Hagerty IV, Lisa A Murkowski, Ron Johnson, Jacklyn S Rosen, John Boozman, W. Mitt Romney
-Community 2: Gary C Peters, Susan M Collins, Joshua D Hawley, Joseph Manchin III, Jerry Moran, Katie Britt, John Fetterman, John W Hickenlooper, Mazie K Hirono, Charles E Grassley, Sheldon Whitehouse, THEODORE P BUDD, Ladda Tammy Duckworth
-Community 3: Cynthia M Lummis, Elizabeth Warren, Daniel S Sullivan, Raphael Warnock, A. Mitchell McConnell Jr., James E Risch, Angus S King Jr., Steve Daines, Rand Paul, William Cassidy, John Hoeven, Christopher A Coons, Markwayne Mullin
-Community 4: Rafael E Cruz, John R Thune, Peter Welch, Rick Scott
-Community 5: Marsha Blackburn, Roger W Marshall
+Community 1: Peter Welch, Rafael E Cruz, John R Thune, Rick Scott
+Community 2: Charles E Grassley, John Fetterman, Jerry Moran, John W Hickenlooper, Joshua D Hawley, Cynthia M Lummis, Joni K Ernst
+Community 3: W. Mitt Romney, Markwayne Mullin, Angus S King Jr., THEODORE P BUDD, John Hoeven, James E Risch, Steve Daines, A. Mitchell McConnell Jr., Elizabeth Warren, Daniel S Sullivan, Raphael Warnock, Joseph Manchin III, Rand Paul, Lisa A Murkowski, Christopher A Coons
+Community 4: Katie Britt, Maggie Hassan, Gary C Peters, Ladda Tammy Duckworth, Benjamin L Cardin, Thomas R Tillis, M. Michael Rounds, Susan M Collins, Mazie K Hirono, Sheldon Whitehouse
+Community 5: John N Kennedy, William F Hagerty IV, Ron L Wyden, Timothy M Kaine, John Boozman, Jacklyn S Rosen, Ron Johnson, Mark R Warner, James P Lankford, Cory A Booker, William Cassidy
+Community 6: Marsha Blackburn, Roger W Marshall
 
 Ticker communities:
-Community 1: VWELX, KOMP, APHJX, PTTAX, GUNR, RPTIX, VMLUX, RSPYX, VTIP, IEI, VEU, VEA, OAKIX, DODFX, IUSB, VFIAX, IWN, VTRGX, VSIAX, VCR, VUSB, IWO, BIV, SPLG, GWMIX, IWF, FDIVX, BLV, EMB, VWEAX, ODVYX, VOX, QQQ, VHT, CNSAX, MINT, XMHQ, LBSAX, VIOV, AKRIX, XLK, VUG, FTGC, VWIUX, ILCG, VHCAX, RLBGX, BND, SPHY, VIS, IEFA, AFIFX, WBFFX, SPIAX, BIMBX, VWO, VWITX, ITOT, XLV, ILCB, VXUS, BSV, VOO, EFG, FFRHX, MNNAX, JSOAX, VYMI, FSTAX, VGT, AFTEX, VCIT, VDE, COHOX, SPBO, GFFFX, IVV, RGHYX, VASVX, RWJ, SCZ, JETS, USHY, MIEIX, GATEX, IJR, VTEB, AEGFX, MUB, PIREX, PRIUX, SPY, VWILX, TBCIX, IWM, VO, CSMDX, IWD, VFSUX, PFFD, INDS, WPSGX, VSMPX, BBRE, PIMIX, WGIFX, JHEQX, VNQ, JNK, VMBS, HACAX, MACSX, SDY, QAI, IAU, PDBC, GFAFX, VFIDX, SHYG, GIOIX, BNDX, TLH, VFH, ICVT, VGIAX, OTIIX, CVTCX, SCGVX, RSP, CMDY, BSIIX, JDVPX, VWSUX, VOE, IEMG, VB, SPSM, IGSB, AGG, TPINX, VNQI, AMECX, IJH
-Community 2: EWT, FSSLX, IBDR, CNRG, GMYPX, COWZ, CLOU, IDNA, IBDP, VGK, GDX, SHV, ARKQ, STIP, TRBCX, NETL, RPV, INDA, XLI, DCZRX, XLU, GGMPX, EWZ, GSIYX, TRAIX, BFRIX, VDC, VBK, GDV, PONPX, PARWX, VCSH, FDEC, TLT, GGRPX, DODBX, BDJ, HYG, SPGP, VIG, MWTSX, IBDS, XLRE, ILF, JMGRX, SPTS, GQGIX, JDSCX, JCBUX, VMGRX, MORT, KRE, ASHR, PFTPX, HFQIX, APDYX, NANR, XLE, FLTR, IBDT, OMFL, GLDM, VBR, IUGXX, SUSA, BIL, GSPPX, JABAX, BBJP, AEPGX, BFK, NFFFX, SCHV, XLF, OIH, ICLN
-Community 3: RGCSX, IGFFX, RGISX, DFSVX, QQQM, DFUS, DGEIX, REMSX, DFNM, AMRFX, DFGBX, FBND, RTXSX, CGDV, DFGEX, CGXU, DFGR, RTHSX, JEPI, PPA, SLV, DFXIX, RGESX, DFSTX, LIT, DFIS, DFEV, DFIVX, DFGFX, RMGSX, VADDX, FIPDX, DXJ, FIQGX, DFREX, IGLB, DBLSX, DFAS, DFEM, DFIV, EFV, GSLC, DFISX, DFAX, MOTI, VGIT, RFCTX, FUMBX, DUHP, TRPXX, RINTX, DFAT, IYW, RLESX, HDUS, DFMPX, RSESX, CRERX, REZ, BBCA, DFAU, IYG, VYM, VUSFX, VGSH
-Community 4: VGIIX, LEVIX, HLIPX, CRSOX, JCRIX, ONIAX, VSEIX, PGOVX, PMDIX, CAIFX, FPNIX, WMFFX, RAIIX, VSMAX, EPSYX, SOPYX, MQGIX, PJFZX, SVAIX, CISMX, ARIDX, HHDFX, VDIGX, PRCOX, RPMGX, GLIFX, MWTIX, PDBZX, HNACX, RPIFX, WOBDX, PPSIX, HLGEX, APDKX, MADVX, RTRPX, DFMLX, WIAEX, GSFTX, BAFGX, ARSIX, PRINX, BUBIX, BAGIX, TROSX, PRVIX, LUBAX, JMUEX, ALTVX, WFMIX, ANWFX, MRFIX, MYSIX, VUSTX, BIICX, TMCPX, JMIEX
-Community 5: FELC, FZAHX, FMIYX, FMCSX, MSIGX, IAT, FCNTX, VWINX, MBB, FLCEX, VWESX, GBLFX, BIGRX, HBLIX, FIKNX, EVTMX, JACTX, ACSTX, VWIAX, FSKAX, FSSZX, PRHSX, FNCMX, FIGFX, FSNPX, CDDRX, LLDYX, FIQSX, FZAFX, VLUE, PRWCX, FSPTX, FMAGX, SCHF, PXSGX, TWCUX, JBALX, VGSTX, CSDIX, SEKIX, FOSFX, SGIIX, PFBPX, FMILX, FVD, FBGRX, FOCPX, FEMKX, FPURX, CMNIX, VFICX, YACKX, TSIIX, FEQIX, FSSAX, EZU, PFPMX
-Community 6: TQQQ, TSCSX, BSBIX, PLSRX, VIESX, CPEIX, IGRO, GSDUX, PFF, HIGFX, TSCGX, GIBIX, CLNRX, FTHSX, BDHIX, FALN, CNSFX, BMCIX, PIMSX, FIWDX, PSTCX, DVY, TFEBX, EIFAX, IXUS, TFSLX, BHYIX, GERIX, AUNYX, MAMTX, VWUAX, VGISX, GOBIX, JENIX, LBFIX, TSYYX, JSOSX, PLFDX, IYMIX, RIPIX, BIOIX, MCEIX, LAHYX, MAWIX, VINIX, RGERX, PEXMX, DGRO, BIBDX, CSSPX, PREIX
-Community 7: BSPIX, SCHP, FLJP, OEF, QUAL, ESGU, EMRZX, FHLC, SLVP, PSP, IYE, WWSYX, SHY, HYS, TFLO, IXC, AES, LRCX, TIP, AWF, EMLP, AAPL, VV, GIGB, GEM, LOW, VTV, IEF, EFA, MDY, JMBS, NMVZX, FEP, VTI, TPYP, MTUM, EELV, IVW, MADCX, IYY, YYY, CMBS, RING, DBLEX, USMV, IYF, GBIL, SWKS, AMLP, AGZ
-Community 8: ABCIX, FIQVX, JEPRX, JMGIX, VEMAX, CSRSX, JMBUX, JNMCX, GSMTX, VWETX, DAADX, GTCSX, MASKX, VIGAX, FXAIX, POLIX, VAIPX, VGELX, PHMIX, VWLUX, FSGGX, DODGX, FBKWX, OSTSX, VBTLX, JHQRX, JNGTX, WCMIX, TMPRX, VIPSX, JACNX, FSMAX, AOMIX, DFAPX, VTMGX, TSCIX, OIEJX, GTLOX
-Community 9: TFXIX, HEDJ, CIVIX, IWP, GMCPX, OTCIX, GSNPX, WMCVX, QRSIX, GGLPX, GCEPX, MAHQX, ACWX, GOGIX, GAHPX, HYD, GMDPX, NCRLX, GANPX, GQEIX, ABNFX, APHKX, OANMX, WACPX, EGFIX, HDGIX, NMVLX, GSIMX, GGNPX, IEMFX, PMAQX, GSWPX, BKLN, GGFPX
-Community 10: FWGIX, FRIAX, GSG, STMEX, SIRRX, GRFXX, STBJX, PMFYX, MALOX, MEIIX, SMCFX, MAILX, QTSSX, FNEFX, FDWGX, NEFFX, SWISX, AFMFX, SSIRX, SRFJX, MIAZX, FUNFX, MIAYX, FSBTX, SBFFX, DWGHX, FINFX, JEPIX, SWPPX, BFFAX, LQD, SFCWX
-Community 11: AGTHX, PGSIX, AMUSX, AWSHX, IYIAXCXHYX, MDHQX, PABAX, ASBAX, PGEOX, BCSAX, WMBAXDMTFX, ANWPX, ITBAX, HRLAX
-Community 12: PIN, BLCN, BITO, BITQ, BTF, VTTHX, VGHAX, VSMGX, VTINX, SMIN, VIMAX, HNDL, XBTF
-Community 13: DIA, AEPFX, PRJIX, CIPAX, IBDO, CPPAX, UBVLX, AMCFX, NOBL, MISIX
-Community 14: ARTZX, ESGV, ARGFX, PTRSX, PRBLX, JTQRX, VSGX, BAFWX, EUSB, HGXIX
-Community 15: DODIX, NHMRX, OAYMX, FAFJX, VLTO, PREF, PSF, JHBIX
-Community 16: VAW, GLD, FLRN, XSW, FLOT, HACK
-Community 17: PQIAX, FFFEX
+Community 1: PRIUX, JMGRX, TBCIX, NFFFX, VTEB, CLOU, VBR, VMBS, IYY, VHCAX, IUGXX, VO, VBK, RING, VTRGX, VCR, JEPI, IEMG, VUG, SLVP, BNDX, JCBUX, VDE, GSIYX, AMECX, DCZRX, HYS, VIS, GFFFX, MWTSX, BFRIX, VYM, JDVPX, SPTS, FLTR, PSP, HFQIX, VV, BIV, VIG, VEU, BSV, VFH, NETL, APDYX, SDY, GDV, IXC, FHLC, VGIAX, VYMI, ARKQ, VFSUX, IDNA, MNNAX, XLF, IWO, VOX, VOE, PFTPX, RLBGX, VTV, AWF, BDJ, ICLN, MINT, PARWX, STIP, RPTIX, TRBCX, XLV, XLRE, FBND, VHT, COWZ, JDSCX, AFTEX, IYF, VOO, OTIIX, SHV, VNQI, RSPYX, IYE, SCZ, BLV, SPHY, AMLP, HYG, VDC, VXUS, XLI, JNK, YYY, BND, VWO, VFIDX, VNQ
+Community 2: XLE, EWT, FSSLX, VMGRX, SPGP, GMYPX, IBDR, NANR, XLK, SCHV, FDEC, EWZ, BBCA, DODBX, GGRPX, GLDM, AEPGX, TRAIX, IBDS, ASHR, RPV, XLU, VCSH, GDX, JABAX, ILF, SUSA, VGSH, OIH, BFK, IBDT, OMFL, CNRG, BBJP, GSPPX, MORT, IBDP, GGMPX, INDA
+Community 3: DFSTX, DFISX, DFGR, DFSVX, DGEIX, TRPXX, DBLSX, DFMPX, DFEM, VUSFX, DFXIX, DFEV, DFGFX, DFGBX, DFGEX, DFREX, CGDV, DFAT, CGXU, DXJ, DFIV, DFIVX, VGIT, DFIS
+Community 4: RLESX, IYG, SHYG, QQQM, PFFD, SLV, RTHSX, HDUS, DFAS, SPBO, RINTX, REZ, LIT, FIQGX, MOTI, CRERX, VADDX, GSLC, RGCSX, RSESX, RGESX, VWELX, RTXSX, DFNM, DFUS, PPA, RMGSX, DFAU, RFCTX, REMSX, IGLB, RGISX, VASVX, DUHP, DFAX
+Community 5: TSYYX, TFSLX, VGISX, GSDUX, CPEIX, VWIUX, BIOIX, RPIFX, MAWIX, VWUAX, MAMTX, BSBIX, RAIIX, CNSFX, DGRO, MCEIX, AUNYX, GOBIX, LAHYX, JENIX, HIGFX, GERIX, PLFDX, VIESX, FSGGX, PEXMX, VWILX, VGK, RIPIX, GQGIX, TSCGX, GIBIX, PREIX, EIFAX, IXUS, FTHSX, VINIX, FIWDX, LBFIX, JSOSX, PLSRX, DVY, TFEBX, TSCSX, CSSPX, CLNRX, RGERX, PSTCX, GLIFX, OANMX, TQQQ, IYMIX, PIMSX
+Community 6: RSP, FBGRX, ACSTX, TSIIX, VGSTX, JBALX, DIA, AKRIX, CMNIX, FELC, VWINX, SGIIX, IAT, SCHF, AEPFX, VWSUX, VWESX, FOSFX, CSDIX, FOCPX, CIPAX, FXAIX, SEKIX, PIMIX, VLUE, NOBL, UBVLX, HBLIX, BSIIX, AMCFX, FSSAX, MSIGX, FMIYX, FMILX, QQQ, COHOX, VB, PIREX, FVD, FSNPX, VWITX, GWMIX, PFPMX, IBDO, VUSB, FLCEX, CPPAX, MISIX, LLDYX, EZU, PXSGX, FZAFX, EVTMX, FSPTX, FSKAX, YACKX, BIGRX, VFICX, FPURX, FMCSX, CDDRX, FCNTX, FZAHX, FEQIX, APHJX, CSMDX, VIOV, JACTX, JETS, FMAGX, FNCMX, FIGFX, MIEIX, FEMKX, MACSX, PRJIX, SCGVX, FDIVX, PRHSX, PFBPX, FSSZX, FIKNX, FIQSX, GBLFX, TWCUX
+Community 7: MTUM, EMB, TIP, SHY, QUAL, LQD, KRE, IVW, FLJP, AGZ, AAPL, PONPX, MDY, EFA, JMBS, VEA, CMBS, MADCX, BSPIX, IEF, FFRHX, NMVZX, TFLO, EFV, EFG, IYW, IEI, EELV, ILCB, SCHP, AES, LRCX, LOW, EMRZX, IJH, MBB, VTI, DBLEX, GEM, RWJ, WWSYX, TLH, TPYP, ESGU, SPY, FEP, TLT, KOMP, GBIL, EMLP, SWKS, USMV, OEF, IVV, GIGB, IWM
+Community 8: WBFFX, VWEAX, VCIT, ITOT, BMCIX, GIOIX, JSOAX, ICVT, INDS, QAI, PFF, FALN, HACAX, IWN, IEFA, BHYIX, GFAFX, TPINX, PTTAX, GUNR, AEGFX, ILCG, RGHYX, XMHQ, IUSB, IGSB, BBRE, SPIAX, USHY, MUB, ODVYX, CNSAX, AFIFX, BIBDX, JHEQX, BIMBX, VMLUX, DODFX, PDBC, SPLG, OAKIX, FSTAX, WPSGX, IJR, LBSAX, SPSM, IAU, IGRO, BDHIX, CVTCX, VTIP, CMDY, AGG, GATEX, FTGC
+Community 9: WIAEX, APDKX, DFMLX, GSFTX, VUSTX, PDBZX, MRFIX, CAIFX, JMUEX, PMDIX, WFMIX, WOBDX, BAGIX, PRCOX, MYSIX, SOPYX, TROSX, HHDFX, CRSOX, ANWFX, ARIDX, ONIAX, BIICX, MQGIX, VSEIX, PRWCX, CISMX, HLGEX, BAFGX, PGOVX, VDIGX, ALTVX, RTRPX, TMCPX, HLIPX, LUBAX, JMIEX, FPNIX, PRINX, BUBIX, LEVIX, WMFFX, MADVX, JCRIX, PRVIX, PJFZX, EPSYX, RPMGX, ARSIX, SVAIX
+Community 10: PMAQX, GOGIX, ACWX, CIVIX, WMCVX, GMDPX, GGLPX, QRSIX, IEMFX, IWD, GANPX, GGNPX, IWP, GSIMX, APHKX, WACPX, HEDJ, OTCIX, TFXIX, GGFPX, BKLN, NMVLX, VSIAX, HNACX, MAHQX, GCEPX, IWF, HYD, HDGIX, EGFIX, NCRLX, MWTIX, GQEIX, GMCPX, GSNPX, VWIAX, GAHPX, GSWPX
+Community 11: VEMAX, JEPRX, JMBUX, DODGX, VSMAX, JHQRX, FUMBX, VIPSX, MASKX, VWETX, POLIX, VBTLX, WCMIX, VGT, VTMGX, OSTSX, GSMTX, VAIPX, TSCIX, AOMIX, VGELX, OIEJX, DFAPX, GTCSX, JNGTX, PHMIX, JACNX, VSMPX, VWLUX, FBKWX, VIGAX, TMPRX, DAADX, CSRSX, JMGIX, JNMCX, GTLOX, FSMAX, ABCIX, VFIAX, FIPDX, FIQVX
+Community 12: VGIIX, DWGHX, FRIAX, GRFXX, BFFAX, JEPIX, FINFX, MAILX, SWISX, SRFJX, MALOX, FWGIX, SSIRX, BIL, SIRRX, QTSSX, MEIIX, MIAZX, STBJX, FUNFX, FNEFX, FSBTX, ABNFX, SMCFX, SBFFX, SFCWX, NEFFX, AMRFX, WGIFX, PMFYX, IGFFX, GSG, STMEX, AFMFX, PPSIX, MIAYX, SWPPX, FDWGX
+Community 13: BTF, BITQ, SMIN, VTTHX, VTINX, VSMGX, BLCN, HNDL, PIN, XBTF, BITO, VIMAX, VGHAX
+Community 14: JHBIX, VLTO, PSF, NHMRX, DODIX, OAYMX, PREF, FAFJX
+Community 15: ARGFX, ARTZX, VSGX, JTQRX, BAFWX, PTRSX, EUSB, ESGV, PRBLX, HGXIX
+Community 16: HACK, FLRN, GLD, VAW, XSW, FLOT
+Community 17: IYIAXCXHYX, ANWPX, ASBAX, BCSAX, ITBAX, MDHQX, PABAX, AMUSX, HRLAX, AGTHX, AWSHX, PGEOX, WMBAXDMTFX, PGSIX
+Community 18: PQIAX, FFFEX
 
+=== POTENTIAL CONCERNING TRADING PATTERNS ===
+
+Senators trading unusual stocks (Exclusivity Score):
+Thomas J Ossoff: 1.0000
+Tom Cotton: 1.0000
+Patty Murray: 1.0000
+John A Barrasso: 1.0000
+John F Reed: 1.0000
+Laphonza R Butler: 1.0000
+Mark E Kelly: 1.0000
+Roger W Marshall: 0.9545
+Steve Daines: 0.9167
+Markwayne Mullin: 0.9048
+
+Senators trading the most diverse portfolios:
+John Boozman: 52 different stocks
+Christopher A Coons: 50 different stocks
+Sheldon Whitehouse: 48 different stocks
+Joni K Ernst: 40 different stocks
+Angus S King Jr.: 33 different stocks
+Charles E Grassley: 30 different stocks
+Peter Welch: 29 different stocks
+W. Mitt Romney: 28 different stocks
+Thomas R Tillis: 27 different stocks
+Ladda Tammy Duckworth: 25 different stocks
+
+Most influential senators in the trading network (Eigenvector Centrality):
+Benjamin L Cardin: 0.3372
+Sheldon Whitehouse: 0.3319
+Ladda Tammy Duckworth: 0.2965
+John Boozman: 0.2923
+M. Michael Rounds: 0.2712
+Angus S King Jr.: 0.2702
+Mark R Warner: 0.2700
+A. Mitchell McConnell Jr.: 0.2291
+Lisa A Murkowski: 0.2098
+Thomas R Tillis: 0.2077
+
+Senators bridging different trading communities (Betweenness Centrality):
+Peter Welch: 0.1324
+Christopher A Coons: 0.1103
+Angus S King Jr.: 0.0904
+Ladda Tammy Duckworth: 0.0544
+Charles E Grassley: 0.0538
+Mark R Warner: 0.0537
+Jerry Moran: 0.0461
+W. Mitt Romney: 0.0425
+A. Mitchell McConnell Jr.: 0.0415
+Steve Daines: 0.0406
+
+Senators with most unusual trading patterns (Composite Score):
+John Boozman: 0.5083
+Christopher A Coons: 0.5009
+Sheldon Whitehouse: 0.4716
+Joni K Ernst: 0.4482
+Charles E Grassley: 0.4022
+Angus S King Jr.: 0.4007
+W. Mitt Romney: 0.3956
+Peter Welch: 0.3952
+John Hoeven: 0.3858
+Maggie Hassan: 0.3814
+
+Senators trading unusual combinations of stocks:
+Gary C Peters: 0.5000
+Thomas J Ossoff: 0.5000
+James P Lankford: 0.5000
+John Fetterman: 0.5000
+Rafael E Cruz: 0.5000
+Markwayne Mullin: 0.5000
+Joshua D Hawley: 0.5000
+Joseph Manchin III: 0.5000
+Susan M Collins: 0.5000
+Patty Murray: 0.5000
+
+Senators with strongest community cohesion (potential coordination):
+Sheldon Whitehouse: 3.2500
+Ladda Tammy Duckworth: 2.7500
+M. Michael Rounds: 2.2500
+Benjamin L Cardin: 2.1250
+Mark R Warner: 2.0000
+Charles E Grassley: 1.6667
+Timothy M Kaine: 1.6000
+John Boozman: 1.6000
+A. Mitchell McConnell Jr.: 1.5000
+Maggie Hassan: 1.3750
+
+=== POTENTIAL CONCERN INDEX ===
+(Higher scores may indicate more unusual trading patterns)
+
+Sheldon Whitehouse: 0.8378
+Ladda Tammy Duckworth: 0.7205
+M. Michael Rounds: 0.6287
+Charles E Grassley: 0.6127
+Benjamin L Cardin: 0.6121
+John Boozman: 0.6093
+Mark R Warner: 0.6084
+A. Mitchell McConnell Jr.: 0.5441
+Timothy M Kaine: 0.5411
+Maggie Hassan: 0.5409
+Thomas R Tillis: 0.5228
+Angus S King Jr.: 0.5193
+Joni K Ernst: 0.5179
+Peter Welch: 0.5148
+Jerry Moran: 0.5007
+Roger W Marshall: 0.5003
+Christopher A Coons: 0.4933
+Rick Scott: 0.4911
+Rafael E Cruz: 0.4845
+Marsha Blackburn: 0.4757
+John R Thune: 0.4702
+W. Mitt Romney: 0.4679
+John Hoeven: 0.4614
+Cynthia M Lummis: 0.4606
+William F Hagerty IV: 0.4481
+Cory A Booker: 0.4425
+Ron L Wyden: 0.4318
+Lisa A Murkowski: 0.4152
+John N Kennedy: 0.4150
+Jacklyn S Rosen: 0.4121
+Mazie K Hirono: 0.4082
+THEODORE P BUDD: 0.4071
+John Fetterman: 0.4051
+Katie Britt: 0.4021
+Markwayne Mullin: 0.3895
+Steve Daines: 0.3883
+Daniel S Sullivan: 0.3880
+James P Lankford: 0.3741
+Joseph Manchin III: 0.3706
+Rand Paul: 0.3692
+Thomas J Ossoff: 0.3596
+John F Reed: 0.3558
+Patty Murray: 0.3519
+William Cassidy: 0.3516
+James E Risch: 0.3358
+Gary C Peters: 0.3289
+Joshua D Hawley: 0.3207
+John W Hickenlooper: 0.3090
+Elizabeth Warren: 0.2961
+Ron Johnson: 0.2733
+Susan M Collins: 0.2513
+Tom Cotton: 0.2260
+John A Barrasso: 0.2260
+Laphonza R Butler: 0.2260
+Mark E Kelly: 0.2260
+Raphael Warnock: 0.1235
+Charles E Schumer: 0.0000
+Shelley M Capito: 0.0000
+Roger F Wicker: 0.0000
+Tammy Baldwin: 0.0000
+Martin Heinrich: 0.0000
+Tim Scott: 0.0000
+Maria Cantwell: 0.0000
+Kevin J Cramer: 0.0000
+Marco Rubio: 0.0000
+Bernard Sanders: 0.0000
+Catherine Cortez Masto: 0.0000
+Thomas H Tuberville: 0.0000
+JD Vance: 0.0000
+Debra S Fischer: 0.0000
+Jeffrey A Merkley: 0.0000
+Todd Young: 0.0000
+Michael F Bennet: 0.0000
+Michael S Lee: 0.0000
+Debbie Stabenow: 0.0000
+Tina Smith: 0.0000
+Brian E Schatz: 0.0000
+Michael D Crapo: 0.0000
+Jeanne Shaheen: 0.0000
+Christopher Murphy: 0.0000
+Mike Braun: 0.0000
+Robert P Casey Jr.: 0.0000
+Lindsey Graham: 0.0000
+Alex Padilla: 0.0000
+Eric Schmitt: 0.0000
+Robert Menendez: 0.0000
+Sherrod Brown: 0.0000
+Amy J Klobuchar: 0.0000
+Cindy Hyde-Smith: 0.0000
+Kirsten E Gillibrand: 0.0000
+John Cornyn: 0.0000
+Raymond J Tester: 0.0000
+Kyrsten Sinema: 0.0000

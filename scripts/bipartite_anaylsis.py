@@ -128,7 +128,123 @@ def compute_ticker_connections(G, senator_nodes, ticker_nodes):
             if weight > 0:
                 ticker_graph.add_edge(ticker_list[i], ticker_list[j], weight=int(weight))
     
+    print(ticker_nodes)
     return ticker_graph
+
+def analyze_unusual_trading_patterns(bipartite_graph, senator_nodes, ticker_nodes):
+    """
+    Analyze unusual trading patterns among senators.
+    
+    Args:
+        bipartite_graph (nx.Graph): Bipartite graph
+        senator_nodes (set): Set of senator nodes
+        ticker_nodes (set): Set of ticker nodes
+    
+    Returns:
+        dict: Dictionary with various unusual pattern metrics
+    """
+    results = {}
+    
+    # 1. Exclusivity Score - senators who trade stocks that few others trade
+    exclusivity_scores = {}
+    for senator in senator_nodes:
+        senator_tickers = set(bipartite_graph.neighbors(senator))
+        exclusivity_score = 0
+        for ticker in senator_tickers:
+            # How many senators trade this ticker?
+            ticker_traders = len(list(bipartite_graph.neighbors(ticker)))
+            # Tickers traded by fewer senators contribute more to exclusivity
+            exclusivity_score += 1.0 / ticker_traders
+        
+        # Normalize by number of tickers
+        if len(senator_tickers) > 0:
+            exclusivity_scores[senator] = exclusivity_score / len(senator_tickers)
+        else:
+            exclusivity_scores[senator] = 0
+    
+    results['exclusivity_scores'] = exclusivity_scores
+    
+    # 2. Diversity Score - senators who trade a wide variety of stocks
+    diversity_scores = {}
+    for senator in senator_nodes:
+        diversity_scores[senator] = len(list(bipartite_graph.neighbors(senator)))
+    
+    results['diversity_scores'] = diversity_scores
+    
+    # 3. Clustering Coefficient - how interconnected a senator's stocks are
+    senator_graph = compute_senator_connections(bipartite_graph, senator_nodes, ticker_nodes)
+    clustering_coefficients = nx.clustering(senator_graph, weight='weight')
+    results['clustering_coefficients'] = clustering_coefficients
+    
+    # 4. Eigenvector Centrality - influence in the network
+    eigenvector_centrality = nx.eigenvector_centrality_numpy(senator_graph, weight='weight')
+    results['eigenvector_centrality'] = eigenvector_centrality
+    
+    # 5. Betweenness Centrality - senators who bridge different trading communities
+    betweenness_centrality = nx.betweenness_centrality(senator_graph, weight='weight')
+    results['betweenness_centrality'] = betweenness_centrality
+    
+    # 6. Unusual Trading Score - composite score
+    unusual_trading_scores = {}
+    for senator in senator_nodes:
+        # Combine metrics (with weights that can be adjusted)
+        unusual_score = (
+            0.3 * exclusivity_scores.get(senator, 0) +
+            0.2 * (diversity_scores.get(senator, 0) / max(max(diversity_scores.values(), default=1), 1)) +
+            0.2 * clustering_coefficients.get(senator, 0) +
+            0.15 * eigenvector_centrality.get(senator, 0) +
+            0.15 * betweenness_centrality.get(senator, 0)
+        )
+        unusual_trading_scores[senator] = unusual_score
+    
+    results['unusual_trading_scores'] = unusual_trading_scores
+    
+    return results
+
+def analyze_rare_ticker_connections(bipartite_graph, senator_nodes, ticker_nodes):
+    """
+    Identify senators who trade rare combinations of stocks.
+    
+    Args:
+        bipartite_graph (nx.Graph): Bipartite graph
+        senator_nodes (set): Set of senator nodes
+        ticker_nodes (set): Set of ticker nodes
+    
+    Returns:
+        dict: Dictionary with rare ticker connection metrics
+    """
+    # Create ticker graph
+    ticker_graph = compute_ticker_connections(bipartite_graph, senator_nodes, ticker_nodes)
+    
+    # For each senator, calculate how unusual their ticker combinations are
+    unusual_combination_scores = {}
+    
+    for senator in senator_nodes:
+        senator_tickers = set(bipartite_graph.neighbors(senator))
+        if len(senator_tickers) < 2:
+            unusual_combination_scores[senator] = 0
+            continue
+        
+        # Calculate average connection weight between this senator's tickers
+        total_weight = 0
+        pair_count = 0
+        
+        for ticker1 in senator_tickers:
+            for ticker2 in senator_tickers:
+                if ticker1 < ticker2 and ticker_graph.has_edge(ticker1, ticker2):
+                    total_weight += ticker_graph[ticker1][ticker2]['weight']
+                    pair_count += 1
+        
+        # Lower average weight means more unusual combinations
+        if pair_count > 0:
+            avg_weight = total_weight / pair_count
+            # Invert so higher score means more unusual
+            unusual_combination_scores[senator] = 1.0 / (avg_weight + 1)
+        else:
+            # If no connections, this is extremely unusual
+            unusual_combination_scores[senator] = 1.0
+    
+    return unusual_combination_scores
 
 def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     """
@@ -162,7 +278,7 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     plt.axis('off')
     plt.tight_layout()
     plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300)
-    plt.show()
+    # plt.show()
 
 # Replace your visualize_connection_graph function with these parameters
 def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True, 
@@ -222,7 +338,50 @@ def visualize_connection_graph(G, title, node_color='skyblue', with_labels=True,
     plt.axis('off')
     plt.tight_layout()
     plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300, bbox_inches='tight')
-    plt.show()
+    # plt.show()
+
+def analyze_community_overlap(senator_graph, ticker_graph):
+    """
+    Analyze how senators overlap in communities and identify potential collusion.
+    
+    Args:
+        senator_graph (nx.Graph): Graph of senator connections
+        ticker_graph (nx.Graph): Graph of ticker connections
+    
+    Returns:
+        dict: Dictionary with community overlap metrics
+    """
+    from networkx.algorithms.community import louvain_communities
+    
+    # Get communities
+    senator_communities = list(louvain_communities(senator_graph))
+    
+    # Calculate overlap scores
+    overlap_scores = {}
+    
+    for senator in senator_graph.nodes():
+        # Find which community this senator belongs to
+        for i, community in enumerate(senator_communities):
+            if senator in community:
+                community_idx = i
+                break
+        
+        # Calculate how strongly connected this senator is to their community
+        community = senator_communities[community_idx]
+        total_weight = 0
+        possible_connections = len(community) - 1  # Exclude self
+        
+        for other_senator in community:
+            if other_senator != senator and senator_graph.has_edge(senator, other_senator):
+                total_weight += senator_graph[senator][other_senator]['weight']
+        
+        # Calculate community cohesion score
+        if possible_connections > 0:
+            overlap_scores[senator] = total_weight / possible_connections
+        else:
+            overlap_scores[senator] = 0
+    
+    return overlap_scores
 
 def main():
     data_dir = "data"
@@ -244,6 +403,11 @@ def main():
     ticker_graph = compute_ticker_connections(bipartite_graph, senator_nodes, ticker_nodes)
     print(f"Ticker graph created with {ticker_graph.number_of_edges()} connections")
     visualize_connection_graph(ticker_graph, "Ticker Connections", node_color='lightgreen')
+    
+    # Run advanced analysis
+    unusual_patterns = analyze_unusual_trading_patterns(bipartite_graph, senator_nodes, ticker_nodes)
+    rare_connections = analyze_rare_ticker_connections(bipartite_graph, senator_nodes, ticker_nodes)
+    community_overlap = analyze_community_overlap(senator_graph, ticker_graph)
     
     # Analyze and write results to a text file
     with open(output_file, 'w') as f:
@@ -279,20 +443,89 @@ def main():
         
         # Communities in senator graph
         f.write("Senator communities:\n")
+        from networkx.algorithms.community import louvain_communities
         from networkx.algorithms.community import greedy_modularity_communities
-        senator_communities = list(greedy_modularity_communities(senator_graph))
+
+        senator_communities = list(louvain_communities(senator_graph))
         for i, community in enumerate(senator_communities):
             f.write(f"Community {i+1}: {', '.join(community)}\n")
         f.write("\n")
         
         # Communities in ticker graph
         f.write("Ticker communities:\n")
-        ticker_communities = list(greedy_modularity_communities(ticker_graph))
+        ticker_communities = list(louvain_communities(ticker_graph))
         for i, community in enumerate(ticker_communities):
             f.write(f"Community {i+1}: {', '.join(community)}\n")
         f.write("\n")
+        
+        # NEW ANALYSIS SECTIONS
+        
+        # Unusual Trading Patterns
+        f.write("=== POTENTIAL CONCERNING TRADING PATTERNS ===\n\n")
+        
+        # Exclusivity Score - senators trading stocks few others trade
+        f.write("Senators trading unusual stocks (Exclusivity Score):\n")
+        for senator, score in sorted(unusual_patterns['exclusivity_scores'].items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score:.4f}\n")
+        f.write("\n")
+        
+        # Diversity Score - senators trading many different stocks
+        f.write("Senators trading the most diverse portfolios:\n")
+        for senator, score in sorted(unusual_patterns['diversity_scores'].items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score} different stocks\n")
+        f.write("\n")
+        
+        # Eigenvector Centrality - most influential senators in the network
+        f.write("Most influential senators in the trading network (Eigenvector Centrality):\n")
+        for senator, score in sorted(unusual_patterns['eigenvector_centrality'].items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score:.4f}\n")
+        f.write("\n")
+        
+        # Betweenness Centrality - senators bridging different trading communities
+        f.write("Senators bridging different trading communities (Betweenness Centrality):\n")
+        for senator, score in sorted(unusual_patterns['betweenness_centrality'].items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score:.4f}\n")
+        f.write("\n")
+        
+        # Unusual Trading Score - composite score
+        f.write("Senators with most unusual trading patterns (Composite Score):\n")
+        for senator, score in sorted(unusual_patterns['unusual_trading_scores'].items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score:.4f}\n")
+        f.write("\n")
+        
+        # Rare Ticker Connections
+        f.write("Senators trading unusual combinations of stocks:\n")
+        for senator, score in sorted(rare_connections.items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score:.4f}\n")
+        f.write("\n")
+        
+        # Community Overlap
+        f.write("Senators with strongest community cohesion (potential coordination):\n")
+        for senator, score in sorted(community_overlap.items(), key=lambda x: x[1], reverse=True)[:10]:
+            f.write(f"{senator}: {score:.4f}\n")
+        f.write("\n")
+        
+        # Calculate a "Potential Concern Index"
+        f.write("=== POTENTIAL CONCERN INDEX ===\n")
+        f.write("(Higher scores may indicate more unusual trading patterns)\n\n")
+        
+        concern_index = {}
+        for senator in senator_nodes:
+            # Combine multiple metrics with weights
+            index = (
+                0.25 * unusual_patterns['unusual_trading_scores'].get(senator, 0) +
+                0.25 * rare_connections.get(senator, 0) +
+                0.20 * unusual_patterns['betweenness_centrality'].get(senator, 0) +
+                0.15 * unusual_patterns['exclusivity_scores'].get(senator, 0) +
+                0.15 * community_overlap.get(senator, 0)
+            )
+            concern_index[senator] = index
+        
+        for senator, score in sorted(concern_index.items(), key=lambda x: x[1], reverse=True):
+            f.write(f"{senator}: {score:.4f}\n")
     
-    print(f"Graph analysis results written to {output_file}")
+
+    print(f"Enhanced graph analysis results written to {output_file}")
 
 if __name__ == "__main__":
     main()
