@@ -176,7 +176,7 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
 
 def main():
     script_dir = Path(__file__).resolve().parent
-    data_dir   = script_dir.parent / "data"
+    data_dir   = script_dir.parent / "data/senator-transactions"
 
     G, senators, tickers = create_bipartite_graph(data_dir)
     print(f"Original graph: {len(senators)} senators, {len(tickers)} tickers, {G.number_of_edges()} edges")

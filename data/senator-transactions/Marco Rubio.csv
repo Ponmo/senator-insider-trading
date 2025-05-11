@@ -1,0 +1,3 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Self,CSCO,Cisco Systems Inc,Stock,Sale (Full),01/07/2025,"$1,001 - $15,000"
+Self,KO,Coca-Cola Company,Stock,Sale (Full),01/07/2025,"$1,001 - $15,000"

@@ -1,0 +1,3 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Self,AAPL,Apple Inc.,Stock,Sale (Full),02/01/2017,"$15,001 - $50,000"
+Self,AAPL,Apple Inc. (NASDAQ),Stock,Purchase,08/21/2015,"$15,001 - $50,000"

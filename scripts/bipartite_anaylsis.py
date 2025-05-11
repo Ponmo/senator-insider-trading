@@ -46,7 +46,7 @@ def create_bipartite_graph(data_dir):
     senator_nodes = set()
     ticker_nodes = set()
     
-    for filename in os.listdir(os.path.join(os.path.dirname(__file__), "../data")):
+    for filename in os.listdir(os.path.join(os.path.dirname(__file__), "../data/senator-transactions")):
         if not filename.endswith('.csv'):
             continue
         
@@ -384,7 +384,7 @@ def analyze_community_overlap(senator_graph, ticker_graph):
     return overlap_scores
 
 def main():
-    data_dir = "data"
+    data_dir = "data/senator-transactions"
     output_file = "graph_analysis.txt"
     
     # Create bipartite graph

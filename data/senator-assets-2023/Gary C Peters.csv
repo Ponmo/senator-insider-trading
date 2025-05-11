@@ -1,0 +1,37 @@
+Owner,Ticker,Asset Name,Transaction Type,Transaction Date,Amount,Comments
+Spouse,--,Vanguard Federal Money Market Fund,Purchase,05/08/2023,"$1,001 - $15,000",n/a
+Spouse,--,Vanguard Federal Money Market Fund,Purchase,08/08/2024,"$1,001 - $15,000",n/a
+Spouse,VASVX,Vanguard Whitehall Funds Selected Value Fund,Purchase,01/11/2023,"$1,001 - $15,000",n/a
+Spouse,--,VASVX,Purchase,02/10/2023,"$1,001 - $15,000",n/a
+Spouse,VASVX,Vanguard Whitehall Funds Selected Value Fund,Purchase,06/12/2023,"$1,001 - $15,000",n/a
+Spouse,VASVX,Vanguard Whitehall Funds Selected Value Fund,Purchase,06/26/2023,"$1,001 - $15,000",n/a
+Spouse,VASVX,Vanguard Whitehall Funds Selected Value Fund,Purchase,08/30/2023,"$1,001 - $15,000",n/a
+Spouse,VASVX,Vanguard Whitehall Funds Selected Value Fund,Purchase,11/13/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,01/30/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,02/27/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,03/14/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,03/27/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,04/11/2023,"$1,001 - $15,000",
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,04/24/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,05/30/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,07/10/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,07/24/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,08/28/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,09/15/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,10/02/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,10/13/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,10/30/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,11/27/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,12/11/2023,"$1,001 - $15,000",n/a
+Spouse,VWELX,Vanguard Wellington Income Fund,Purchase,12/27/2023,"$1,001 - $15,000",n/a
+Spouse,--,UBS Bk USA Salt La UT US   Rate 4.5000%   Matures 04/19/2027,Purchase,04/14/2023,"$1,001 - $15,000",
+Self,--,Truist Bk NC US   Rate 4.7000%   Matures 02/12/2024,Purchase,02/07/2023,"$15,001 - $50,000",
+Self,--,Wells Fargo Bk NA NV US   Rate 4.5500%   Matures 02/18/2025.,Purchase,02/07/2023,"$15,001 - $50,000",
+Self,--,American Exp Natl UT US   Rate 5.0000%   Matures 03/23/2026,Purchase,03/14/2023,"$15,001 - $50,000",
+Self,--,Lafayette Fed Cred MD US   Rate 5.2500%   Matures 11/30/2026,Purchase,11/22/2023,"$15,001 - $50,000",n/a
+Self,--,Morgan Stanley PRI NY US   Rate 4.8500%   Matures 03/30/2027,Purchase,03/27/2023,"$15,001 - $50,000",
+Self,SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,Purchase,02/15/2023,"$1,001 - $15,000",n/a
+Self,SPBO,SPDR Portfolio Corporate Bond ETF,Purchase,11/22/2023,"$1,001 - $15,000",n/a
+Self,SPBO,SPDR Portfolio Corporate Bond ETF,Purchase,12/18/2023,"$1,001 - $15,000",n/a
+Self,SPHY,SPDR Portfolio High Yield Bond ETF,Purchase,12/18/2023,"$1,001 - $15,000",n/a
+Self,PFFD,Global X U.S. Preferred ETF,Purchase,11/22/2023,"$1,001 - $15,000",n/a

@@ -1,0 +1,10 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Self,--,WI St (FHLB 87% St & Loc Govt Refcorp 2% US Treas Oblig 1%) GORate/Coupon:5%Matures:05/01/2023,Municipal Security,Sale (Full),08/02/2017,"$100,001 - $250,000"
+Self,--,VA Virginia Beach Dev. Auth Pub Fac RevRate/Coupon:4.0%Matures:12/01/2023,Municipal Security,Sale (Full),08/02/2017,"$50,001 - $100,000"
+Self,--,TX Midland GORate/Coupon:4.0%Matures:03/01/2023,Municipal Security,Sale (Full),08/02/2017,"$100,001 - $250,000"
+Self,--,TN Memphis GORate/Coupon:4.5%Matures:04/01/2027,Municipal Security,Sale (Full),08/02/2017,"$100,001 - $250,000"
+Self,--,OH West Chester Twp GORate/Coupon:5%Matures:12/01/2019,Municipal Security,Sale (Full),08/02/2017,"$100,001 - $250,000"
+Self,--,OH Hilliard GORate/Coupon:5%Matures:12/01/2025,Municipal Security,Sale (Full),08/02/2017,"$50,001 - $100,000"
+Self,--,OH Cincinnati City SD GO NCRate/Coupon:5%Matures:12/01/2017,Municipal Security,Sale (Full),08/02/2017,"$100,001 - $250,000"
+Self,--,NV Clark Cnty Wtr Reclamation Dist GORate/Coupon:5.25%Matures:07/01/2020,Municipal Security,Sale (Full),08/02/2017,"$50,001 - $100,000"
+Self,--,FL St Brd Ed GORate/Coupon:5%Matures:06/01/2020,Municipal Security,Sale (Full),08/02/2017,"$50,001 - $100,000"

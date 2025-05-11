@@ -1,0 +1,10 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Joint,ITW,Illinois Tool Works Inc. Common Stock,Stock,Sale (Full),04/11/2023,"$15,001 - $50,000"
+Joint,VZ,Verizon Communications Inc.,Stock,Sale (Full),04/05/2021,"$15,001 - $50,000"
+Joint,ITW,Illinois Tool Works Inc.,Stock,Sale (Partial),04/05/2021,"$1,001 - $15,000"
+Joint,DIS,The Walt Disney Company,Stock,Sale (Full),04/05/2021,"$1,001 - $15,000"
+Joint,WBA,Walgreens Boots Alliance; Inc.,Stock,Sale (Full),08/07/2018,"$1,001 - $15,000"
+Joint,MDLZ,Mondelez International; Inc.,Stock,Sale (Full),08/07/2018,"$1,001 - $15,000"
+Joint,GE,General Electric Company,Stock,Sale (Full),08/07/2018,"$1,001 - $15,000"
+Joint,DWDP,DD - E I duPont de Nemours & Co (Exchanged)DowDuPont Inc. (Received),Stock,Exchange,09/01/2017,"$1,001 - $15,000"
+Joint,BBL,BHP Billiton plc,Stock,Sale (Full),12/21/2017,"$1,001 - $15,000"

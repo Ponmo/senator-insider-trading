@@ -1,0 +1,11 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Spouse,CTECBX,CTECBXCompany:Guggenheim Investments (Chicago; IL)Description:Guggenheim Investments is the global asset management and investment advisory division of Guggenheim Partners,Other Securities,Purchase,05/04/2020,"$1,001 - $15,000"
+Spouse,BIF,Boulder Growth & Income Fund; Inc.Company:Boulder Funds (Denver; CO)Description:mutual fund,Other Securities,Sale (Full),05/04/2020,"$1,001 - $15,000"
+Spouse,BIF,Boulder Growth & Income Fund; Inc.,Other Securities,Purchase,05/17/2019,"$1,001 - $15,000"
+Spouse,GDV,The Gabelli Dividend & Income Trust,Other Securities,Sale (Full),05/17/2019,"$1,001 - $15,000"
+Spouse,GDV,The Gabelli Dividend & Income Trust,Other Securities,Sale (Partial),08/24/2018,"$1,001 - $15,000"
+Spouse,GDV,The Gabelli Dividend & Income Trust,Other Securities,Purchase,04/23/2018,"$1,001 - $15,000"
+Spouse,--,Torchmark Corporation NTS ISIN US891027AP93Rate/Coupon:9.25Matures:06/15/2019,Corporate Bond,Sale (Full),04/23/2018,"$15,001 - $50,000"
+Spouse,--,CSX Corp NTS ISIN US126408GQ05Rate/Coupon:7.375Matures:02/01/2019,Corporate Bond,Sale (Full),04/29/2014,"$15,001 - $50,000"
+Spouse,--,Petrobras International Finance Company NTS ISIN US71645WAN11Rate/Coupon:7.875Matures:03/15/2019,Corporate Bond,Sale (Full),11/17/2014,"$1,001 - $15,000"
+Spouse,--,Bunge Limited Finance Corp NTS ISIN US120568AT72Rate/Coupon:8.5Matures:06/15/2019,Corporate Bond,Sale (Full),01/02/2014,"$15,001 - $50,000"
