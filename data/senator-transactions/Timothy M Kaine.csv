@@ -1,0 +1,4 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Spouse,GE,General Electric Company,Stock,Sale (Full),05/16/2019,"$1,001 - $15,000"
+Child,--,Kinder Morgan Energy Partners (KMP),Stock,Exchange,12/03/2014,"$15,001 - $50,000"
+Child,KMI,Kinder Morgan; Inc.,Stock,Exchange,12/03/2014,"$15,001 - $50,000"

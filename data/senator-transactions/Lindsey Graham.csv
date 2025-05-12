@@ -1,0 +1,6 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Self,VIG,Vanguard Div Appreciation ETF,Stock,Sale (Partial),12/28/2023,"$15,001 - $50,000"
+Self,USFR,Wisdomtree Floating Rate Treasury Fund,Stock,Purchase,12/28/2023,"$15,001 - $50,000"
+Self,VTIP,Vanguard Short-Term Inflation-Protected Securities,Stock,Sale (Full),06/30/2022,"$15,001 - $50,000"
+Self,IBDO,iShares iBonds Dec 2023 Term Corporate ETF,Stock,Purchase,06/30/2022,"$1,001 - $15,000"
+Self,IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,Stock,Purchase,06/30/2022,"$15,001 - $50,000"

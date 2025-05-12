@@ -1,0 +1,4 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Self,WMT,Walmart Inc,Stock,Sale (Full),10/03/2023,"$50,001 - $100,000"
+Self,--,Narya Capital Fund II; L.P.Company:Narya Capital Fund II; L.P. (Cincinnati; OH)Description:Venture capital fund,Other Securities,Purchase,08/31/2023,"$100,001 - $250,000"
+Self,--,Narya Capital Management LLCCompany:Narya Capital Management LLC (Cincinnati; OH)Description:Venture capital fund management services,Non-Public Stock,Sale (Full),08/30/2023,"$1,000,001 - $5,000,000"

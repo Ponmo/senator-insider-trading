@@ -1,0 +1,6 @@
+Owner,Ticker,Asset Name,Asset Type,Transaction Type,Transaction Date,Amount
+Self,KEY,KeyCorp.,Stock,Sale (Full),02/10/2016,"$1,001 - $15,000"
+Joint,--,Leander Texas Independent School DistRate/Coupon:0.0%Matures:08/15/2035,Municipal Security,Purchase,08/25/2015,"$1,001 - $15,000"
+Joint,--,WYOMING COMMUNITY DEVELOPMENT AUTHORITY HOUSING REVENUE BONDS 2013 SERIES 2Rate/Coupon:3.75%Matures:12/01/2032,Municipal Security,Purchase,06/12/2015,"$15,001 - $50,000"
+Joint,--,MITCHELL SOUTH DAKOTA SCHOOL DISTRICT NUMBER 17-2 LIMITED TAX CAPITAL OUTLAY CERTIFICATESRate/Coupon:3.2%Matures:06/15/2027,Municipal Security,Purchase,06/03/2015,"$1,001 - $15,000"
+Joint,--,Minot North Dakota Airport Rev Series DRate/Coupon:3.5%Matures:10/01/2030,Corporate Bond,Purchase,01/08/2015,"$15,001 - $50,000"
