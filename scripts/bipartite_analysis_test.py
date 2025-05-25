@@ -5,6 +5,10 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from pathlib import Path
 from matplotlib.lines import Line2D
+from networkx.algorithms import community
+from networkx.algorithms.bipartite.projection import generic_weighted_projected_graph, weighted_projected_graph
+import numpy as np
+import pandas as pd
 
 
 def parse_amount(amount_str):
@@ -104,6 +108,41 @@ def filter_by_degree(G, senator_nodes, ticker_nodes, min_degree):
     H = G.subgraph(sub_nodes).copy()
     return H, filtered_senators, filtered_tickers
 
+def get_communities(G, senator_nodes):
+    """
+    1) Projects G onto senator_nodes, summing each shared ticker's 'weight'
+       (we add the two senators' amounts for every ticker they both trade).
+    2) Runs Louvain on that projection.
+    """
+    def weight_fn(B, u, v):
+        # find all tickers both u and v are connected to
+        shared = set(B[u]) & set(B[v])
+        total = 0.0
+        for t in shared:
+            w_u = B[u][t].get('weight', 0)
+            w_v = B[v][t].get('weight', 0)
+            total += (w_u + w_v)
+        return total
+
+    # build the projection
+    P = generic_weighted_projected_graph(
+        G,
+        senator_nodes,
+        weight_function=weight_fn
+    )
+
+    # detect Louvain communities (it will look at P[u][v]['weight'])
+    communities = community.louvain_communities(P, weight='weight', seed=42)
+
+    # flatten into a node→community index map
+    membership = {
+        node: idx
+        for idx, comm in enumerate(communities)
+        for node in comm
+    }
+
+    return P, communities, membership
+
 
 def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     """
@@ -181,10 +220,46 @@ def main():
     G, senators, tickers = create_bipartite_graph(data_dir)
     print(f"Original graph: {len(senators)} senators, {len(tickers)} tickers, {G.number_of_edges()} edges")
 
-    H, filtered_senators, filtered_tickers = filter_by_degree(G, senators, tickers, min_degree=3)
+    H, filtered_senators, filtered_tickers = filter_by_degree(G, senators, tickers, min_degree=10)
     print(f"Filtered graph: {len(filtered_senators)} senators, {len(filtered_tickers)} tickers, {H.number_of_edges()} edges")
 
-    visualize_bipartite_graph(H, filtered_senators, filtered_tickers, "Filtered Bipartite")
+    # visualize_bipartite_graph(H, filtered_senators, filtered_tickers, "Filtered Bipartite")
+
+    # community detection on the filtered graph
+    P, communities, membership = get_communities(H, filtered_senators)
+    
+    # print summary
+    for i, comm in enumerate(communities):
+        print(f"Community {i} (size={len(comm)}): {comm}")
+
+    # visualize
+    plt.figure(figsize=(10,8))
+    pos = nx.spring_layout(P, seed=42)
+    colors = [membership[node] for node in P.nodes()]
+    nx.draw_networkx_nodes(P, pos, node_color=colors, cmap=plt.cm.tab20, node_size=200, alpha=0.9)
+    nx.draw_networkx_edges(P, pos, alpha=0.3)
+    nx.draw_networkx_labels(P, pos, font_size=7)
+    plt.title("Senator-Senator Projection, Colored by Louvain Community")
+    plt.axis('off')
+    plt.tight_layout()
+    plt.show()
+    
+    P_tickers = weighted_projected_graph(H, filtered_tickers)
+
+    eig_cent_t   = nx.eigenvector_centrality_numpy(P_tickers, weight='weight')
+
+    df_t = pd.DataFrame({
+        'ticker':      list(P_tickers.nodes()),
+        'eigenvector': [eig_cent_t[n]   for n in P_tickers.nodes()],
+    })
+
+    print("\nTop 10 tickers by eigenvector centrality:")
+    print(
+        df_t
+        .sort_values('eigenvector', ascending=False)
+        .head(10)
+        .to_string(index=False)
+    )
 
 
 if __name__ == '__main__':
