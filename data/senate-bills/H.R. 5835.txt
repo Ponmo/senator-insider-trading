@@ -1,0 +1,468 @@
+--H.R.5835--
+
+H.R.5835
+
+One Hundred First Congress of the United States of America
+
+AT THE SECOND SESSION
+
+Begun and held at the City of Washington on Tuesday, the twenty-third day of January,
+
+one thousand nine hundred and ninety
+
+An Act
+
+To provide for reconciliation pursuant to section 4 of the concurrent resolution on the
+
+budget for fiscal year 1991.
+
+Be it enacted by the Senate and House of Representatives of the Unit ed States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the `Omnibus Budget Reconciliation Act of 1990' .
+SEC. 2. TABLE OF TITLES.
+Title I. Agriculture and related programs.
+Title II. Banking, housing, and related programs.
+Title III. Student loans and labor provisions.
+Title IV. Medicare, medicaid, and other health-related programs.
+Title V. Income security, human resources, and related programs.
+Title VI. Energy and environmental programs.
+Title VII. Civil service and postal service programs.
+Title VIII. Veterans' programs.
+Title IX. Transportation.
+Title X. Miscellaneous user fees and other provisions.
+Title XI. Revenue provisions.
+Title XII. Pensions.
+Title XIII. Budget enforcement.
+TITLE I--AGRICULTURE AND RELATED PROGRAMS
+SEC. 1001. SHORT TITLE; TABLE OF CONTENTS.
+(a) SHORT TITLE- This title may be cited as the `Agricultural Reconcilia tion Act of 1990'.
+(b) TABLE OF CONTENTS- The table of contents of this title is as follows :
+Sec. 1001. Short title; table of contents.
+Subtitle A--Commodity Programs
+Sec. 1101. Triple base for deficiency payments.
+Sec. 1102. Calculation of deficiency payments based on 12-month avera ge.
+Sec. 1103. Acreage reduction program for 1991 crop.
+Sec. 1104. Acreage reduction programs for 1992 through 1995 crops.
+Sec. 1105. Loan origination fees and other savings.
+Subtitle B--Other Agricultural Programs
+Sec. 1201. Authorization levels for rural electric and telephone loan s.
+Sec. 1202. Authorization levels for FmHA loans.
+Sec. 1203. APHIS inspection user fee on international passengers.
+Sec. 1204. Additional savings and other provisions.
+Subtitle C--Effective Date
+Sec. 1301. Effective date.
+Sec. 1302. Readjustment of support levels.
+enrollment errata
+
+Pursuant to the provisions of H.J. Res. 682, waiving certain enrollment requ irements with respect to any reconciliation bill, appropriation bill, or continu ing resolution for the remainder of the One Hundred First Congress, and providin g for the subsequent preparation and certification of printed enrollments, this printed enrollment contains corrections in indentation, type face, and type size and includes identifying obvious errors in spelling and punctuation in the hand enrollment.
+
+Subtitle A--Commodity Programs
+SEC. 1101. TRIPLE BASE FOR DEFICIENCY PAYMENTS.
+(a) WHEAT- Section 107B(c)(1)(C)(ii) of the Agricultural Act of 1949 (as added by section 301 of the Food, Agriculture, Conservation, and Trade Act of 1 990) is amended by striking `100 percent' and inserting `85 percent'.
+(b) FEED GRAINS- Section 105B(c)(1)(C)(ii) of the Agricultural Act of 19 49 (as added by section 401 of the Food, Agriculture, Conservation, and Trade Ac t of 1990) is amended by striking `100 percent' and inserting `85 percent'.
+(c) UPLAND COTTON- Section 103B(c)(1)(C)(ii) of the Agricultural Act of 1949 (as added by section 501 of the Food, Agriculture, Conservation, and Trade Act of 1990) is amended by striking `100 percent' and inserting `85 percent'.
+(d) RICE- Section 101B(c)(1)(C)(ii) of the Agricultural Act of 1949 (as added by section 601 of the Food, Agriculture, Conservation, and Trade Act of 19 90) is amended by striking `100 percent' and inserting `85 percent'.
+SEC. 1102. CALCULATION OF DEFICIENCY PAYMENTS BASED ON 12-MONTH AVERAGE.
+
+(a) WHEAT- Clause (ii) of section 107B(c)(1)(B) of the Agricultural Act of 1949 (as added by section 301 of the Food, Agriculture, Conservation, and Tra de Act of 1990) is amended to read as follows:
+`(ii) PAYMENT RATE OF 1994 AND 1995 CROPS- The payment rate for each of the 1994 and 1995 crops of wheat shall be the amount by which the es tablished price for the crop of wheat exceeds the higher of--
+`(I) the lesser of--
+`(aa) the national weighted average market price received by produce rs during the marketing year for the crop, as determined by the Secretary; or
+
+`(bb) the national weighted average market price received by produce rs during the first 5 months of the marketing year for the crop, as determined b y the Secretary, plus 10 cents per bushel; or
+
+`(II) the loan level determined for the crop, prior to a ny adjustment made under subsection (a)(3) for the marketing year for the crop o f wheat.'.
+(b) FEED GRAINS- Clause (ii) of section 105B(c)(1)(B) of the Agricultura l Act of 1949 (as added by section 401 of the Food, Agriculture, Conservation, a nd Trade Act of 1990) is amended to read as follows:
+`(ii) PAYMENT RATE OF 1994 AND 1995 CROPS- The payment rate for each of the 1994 and 1995 crops of corn, grain sorghums, oats, and barley sh all be the amount by which the established price for the respective crop of feed grains exceeds the higher of--
+`(I) the lesser of--
+`(aa) the national weighted average market price received by produce rs during the marketing year for the crop, as determined by the Secretary; or
+
+`(bb) the national weighted average market price received by produce rs during the first 5 months of the marketing year for the crop, as determined b y the Secretary, plus 7 cents per bushel; or
+
+`(II) the loan level determined for the crop, prior to a ny adjustment made under subsection (a)(3) for the marketing year for the respec tive crop of feed grains.'.
+(c) RICE- Clause (ii) of section 101B(c)(1)(B) of the Agricultural Act o f 1949 (as added by section 601 of the Food, Agriculture, Conservation, and Trad e Act of 1990) is amended to read as follows:
+`(ii) PAYMENT RATE OF 1994 AND 1995 CROPS- The payment rate for each of the 1994 and 1995 crops of rice shall be the amount by which the est ablished price for the crop of rice exceeds the higher of--
+`(I) the lesser of--
+`(aa) the national average market price received by producers during the calendar year that contains the first 5 months of the marketing year for th e crop, as determined by the Secretary; or
+
+`(bb) the national average market price received by producers during the first 5 months of the marketing year for the crop, as determined by the Sec retary, plus an appropriate amount that is fair and equitable in relation to whe at and feed grains (as determined by the Secretary); or
+
+`(II) the loan level determined for the crop.'.
+(d) CONFORMING AMENDMENT- Section 114(c) of the Agricultural Act of 1949 (as amended by section 1121(a) of the Food, Agriculture, Conservation, and Trad e Act of 1990 and redesignated by section 1161(a)(1) of such Act) by striking `w heat, feed grains, and rice which payments are calculated on the basis of the na tional weighted average market price (or, in the case of rice, the national aver age market price) for the marketing year for the crop' and inserting `wheat and feed grains which payments are calculated as provided in sections 107B(c)(1)(B)( ii), 107B(p), or 105B(c)(1)(B)(ii)'.
+SEC. 1103. ACREAGE REDUCTION PROGRAM FOR 1991 CROP.
+(a) WHEAT- In the case of the 1991 crop of wheat, the Secretary of Agric ulture shall provide for an acreage limitation program as described in section 1 07B(e)(1)(F) of the Agricultural Act of 1949 (as added by section 301 of the Foo d, Agriculture, Conservation, and Trade Act of 1990).
+(b) FEED GRAINS- Subparagraph (F) of section 105B(e)(1) of the Agricultu ral Act of 1949 (as added by section 401 of the Food, Agriculture, Conservation, and Trade Act of 1990) is amended to read as follows:
+`(F) ACREAGE LIMITATION PROGRAM FOR 1991 CROP- In the case of th e 1991 crop of corn, the Secretary shall provide for an acreage limitation progr am (as described in paragraph (2)) under which the acreage planted to corn for h arvest on a farm would be limited to the corn crop acreage base for the farm for the crop reduced by not less than 7.5 percent.'.
+SEC. 1104. ACREAGE REDUCTION PROGRAMS FOR 1992 THROUGH 1995 CROPS.
+
+(a) IN GENERAL- Notwithstanding any other provision of law, except as pr ovided in subsections (b) and (c), the Secretary of Agriculture shall announce a n acreage limitation program for each of the 1992 through 1995 crops of--
+(1) wheat under which the acreage planted to wheat for harvest on a farm would be limited to the wheat crop acreage base for the farm for the crop r educed by--
+(A) in the case of the 1992 crop of wheat, not less than 6 perce nt;
+(B) in the case of the 1993 crop of wheat, not less than 5 perce nt;
+(C) in the case of the 1994 crop of wheat, not less than 7 perce nt; and
+(D) in the case of the 1995 crop of wheat, not less than 5 perce nt; and
+(2) corn, grain sorghum, and barley under which the acreage planted to the respective feed grain for harvest on a farm would be limited to the respe ctive feed grain crop acreage base for the farm for the crop reduced by not less than 7 1/2 percent.
+(b) STOCKS-TO-USE RATIO- Subsection (a) shall not apply to a crop if the Secretary estimates for such crop that the stocks-to-use ratio will be less tha n--
+(1) in the case of wheat, 34 percent; and
+(2) in the case of corn, grain sorghum, and barley, 20 percent.
+(c) TERMINATION- If the Secretary determines that the quantity of soybea ns on hand in the United States on the first day of the marketing year for the 1 991 crop of soybeans (not including any quantity of soybeans of the 1991 crop) w ill be less than 325,000,000 bushels, subsection (a) shall not apply to any of t he 1992 through 1995 crops of wheat and feed grains.
+SEC. 1105. LOAN ORIGINATION FEES AND OTHER SAVINGS.
+(a) OILSEEDS- Section 205 of the Agricultural Act of 1949 (as added by s ection 701(2) of the Food, Agriculture, Conservation, and Trade Act of 1990) is amended--
+(1) by redesignating subsection (m) as subsection (n); and
+(2) by inserting after subsection (1) the following new subsection:< /ul>
+`(m) Loan Origination Fee-
+`(1) LOANS- The Secretary shall charge a producer a loan origination fee for a crop of oilseeds, in connection with making a loan, equal to the prod uct obtained by multiplying--
+`(A) the loan level determined for the crop under subsection (c) ; by
+`(B) 2 percent; by
+`(C) the quantity of oilseeds for which the producer obtains the loan.
+`(2) LOAN DEFICIENCY PAYMENTS- The Secretary shall deduct, from the amount of any loan deficiency payment made under subsection (e), an amount equal to the amount of the loan origination fee that would otherwise be paid under pa ragraph (1) if the producer obtained a loan rather a loan deficiency payment.'.< /ul>
+(b) PEANUTS-
+(1) IN GENERAL- Section 108B of the Agricultural Act of 1949 (as add ed by section 806 of the Food, Agriculture, Conservation, and Trade Act of 1990) is amended--
+(A) by redesignating subsection (g) as subsection (h); and
+< /ul>
+(B) by inserting after subsection (f) the following new subsecti on:
+`(g) MARKETING ASSESSMENT-
+`(1) IN GENERAL- The Secretary shall provide, by regulation, for a n onrefundable marketing assessment applicable to each of the 1991 through 1995 cr ops of peanuts. The assessment shall be made in accordance with this subsection and shall be on a per pound basis in an amount equal to 1 percent of the nationa l average quota or additional peanut support rate per pound, as applicable, for the applicable crop. No peanuts shall be assessed more than 1 percent of the app licable support rate under this subsection.
+`(2) FIRST PURCHASERS-
+`(A) IN GENERAL- Except as provided under paragraphs (3) and (4) , the first purchaser of peanuts shall--
+`(i) collect from the producer a marketing assessment equal to 1/2 percent of the applicable national average support rate times the quant ity of peanuts acquired;
+`(ii) pay, in addition to the amount collected under clause (i), a marketing assessment in an amount equal to 1/2 percent of the applicabl e national average support rate times the quantity of peanuts acquired; and
+`(iii) remit the amounts required under clauses (i) and (ii) to the Commodity Credit Corporation in a manner specified by the Secretary.
+`(B) DEFINITION- For purposes of this subsection, the term `firs t purchaser' means a person acquiring peanuts from a producer except that in the case of peanuts forfeited by a producer to the Commodity Credit Corporation, su ch term means the person acquiring the peanuts from the Commodity Credit Corpora tion.
+`(3) OTHER PRIVATE MARKETINGS- In the case of a private marketing by a producer directly to a consumer through a retail or wholesale outlet or in th e case of a marketing by the producer outside of the continental United States, the producer shall be responsible for the full amount of the assessment and shal l remit the assessment by such time as is specified by the Secretary.
+`(4) LOAN PEANUTS- In the case of peanuts that are pledged as collat eral for a price support loan made under this section, 1/2 of the assessment s hall be deducted from the proceeds of the loan. The remainder of the assessment shall be paid by the first purchaser of the peanuts. For purposes of computing n et gains on peanuts under this section, the reduction in loan proceeds shall be treated as having been paid to the producer.
+`(5) PENALTIES- If any person fails to collect or remit the reductio n required by this subsection or fails to comply with such requirements for reco rdkeeping or otherwise as are required by the Secretary to carry out this subsec tion, the person shall be liable to the Secretary for a civil penalty up to an a mount determined by multiplying--
+`(A) the quantity of peanuts involved in the violation; by
+< /ul>
+`(B) the national average quota peanut price support level for t he applicable crop year.
+`(6) ENFORCEMENT- The Secretary may enforce this subsection in the c ourts of the United States.'.
+(2) CONFORMING AMENDMENT- Section 108B(a)(2) of the Agricultural Act of 1949 (as added by section 806(3) of the Food, Agriculture, Conservation, and Trade Act of 1990) is amended by inserting after `cost of land' the following: `and the cost of any assessments required under subsection (g)'.
+(c) SUGAR- Section 206 of the Agricultural Act of 1949 (as added by sect ion 901(2) of the Food, Agriculture, Conservation, and Trade Act of 1990) is ame nded--
+(1) by redesignating subsection (i) as subsection (j); and
+(2) by inserting after subsection (h) the following new subsection:< /ul>
+`(i) Marketing Assessment-
+`(1) SUGARCANE- Effective only for each of the 1991 through 1995 cro ps of sugarcane, the first processor of sugarcane shall remit to the Commodity C redit Corporation a nonrefundable marketing assessment in an amount equal to .18 cents per pound of raw cane sugar processed by the processor from domestically produced sugarcane.
+`(2) SUGAR BEETS- Effective only for each of the 1991 through 1995 c rops of sugar beets, the first processor of sugar beets shall remit to the Commo dity Credit Corporation a nonrefundable marketing assessment in an amount equal to .193 cents per pound of beet sugar processed by the processor from domestical ly produced sugar beets.
+`(3) COLLECTION- Marketing assessments required under this subsectio n shall be collected and remitted to the Commodity Credit Corporation in the man ner prescribed by the Secretary and shall be nonrefundable.
+`(4) PENALTIES- If any person fails to collect or remit the reductio n required by this subsection or fails to comply with such requirements for reco rdkeeping or otherwise as are required by the Secretary to carry out this subsec tion, the person shall be liable to the Secretary for a civil penalty up to an a mount determined by multiplying--
+`(A) the quantity of cane sugar or beet sugar involved in the vi olation; by
+`(B) the support level for the applicable crop of sugarcane or s ugar beets.
+`(5) ENFORCEMENT- The Secretary may enforce this subsection in the c ourts of the United States.'.
+(d) HONEY- Section 207 of the Agricultural Act of 1949 (as added by sect ion 1001 of the Food, Agriculture, Conservation, and Trade Act of 1990) is amend ed--
+(1) by redesignating subsection (i) as subsection (j); and
+(2) by inserting after subsection (h) the following new subsection:< /ul>
+`(i) Marketing Assessment-
+`(1) IN GENERAL- Effective only for each of the 1991 through 1995 cr ops of honey, producers and producer-packers of honey (as defined in paragraphs (5) and (9), respectively, of section 3 of the Honey Research, Promotion, and Co nsumer Information Act (7 U.S.C. 4602)) shall remit to the Commodity Credit Corp oration a nonrefundable marketing assessment on a per pound basis in an amount e qual to 1 percent of the national price support level for each such crop as othe rwise provided in this section.
+`(2) COLLECTION- The assessment shall be collected and remitted by t he first handler of honey in the manner prescribed by the Secretary which, to th e extent practicable, shall be as provided for in the Honey Research, Promotion, and Consumer Information Act.
+`(3) EXEMPTIONS- All persons who are exempt from the payment of the assessment authorized by such Act, and all imported honey, shall be exempt from the payment of the assessment required by this subsection.
+`(4) PENALTIES- If any person fails to collect or remit the reductio n required by this subsection or fails to comply with such requirements for reco rdkeeping or otherwise as are required by the Secretary to carry out this subsec tion, the person shall be liable to the Secretary for a civil penalty up to an a mount determined by multiplying--
+`(A) the quantity of honey involved in the violation; by
+`(B) the support level for the applicable crop of honey.
+`(5) ENFORCEMENT- The Secretary may enforce this subsection in the c ourts of the United States.'.
+(e) WOOL AND MOHAIR- Section 704 of the National Wool Act of 1954 (7 U.S .C. 1783) (as amended by section 201(b) of the Food, Agriculture, Conservation, and Trade Act of 1990) is amended by adding at the following new subsection:
+`(c) MARKETING ASSESSMENTS- Effective only for each of the 1991 through 1995 marketing years for wool and mohair, the Secretary shall deduct an amount f rom the payment to be made available to producers of wool and mohair under subse ction (a) equal to 1 percent of the payment.'.
+(f) TOBACCO- Section 106 of the Agricultural Act of 1949 (7 U.S.C. 1445) is amended by adding at the end the following new subsection:
+`(g)(1) Effective only for each of the 1991 through 1995 crops of tobacc o for which price support is made available under this Act, producers and purcha sers of such tobacco shall each remit to the Commodity Credit Corporation a nonr efundable marketing assessment in an amount equal to .5 percent of the national price support level for each such crop as otherwise provided for in this section .
+`(2) Such producer assessments and purchaser assessments shall be--
+`(A) collected in the same manner as provided for in section 106A(d) (2) or 106B(d)(3), as applicable; and
+`(B) enforced in the same manner as provided in section 106A(h) or 1 06B(j), as applicable.
+`(3) The Secretary may enforce this subsection in the courts of the Unit ed States.'.
+(g) OTHER SAVINGS- Section 204 of the Agricultural Act of 1949 (as added by section 101 of the Food, Agriculture, Conservation, and Trade Act of 1990) i s amended--
+(1) in subsection (g)--
+(A) in paragraph (1), by striking `1991 through 1994' and insert ing `1992 through 1995';
+(B) in the matter preceding subparagraph (A) of paragraph (2)--< /ul>
+(i) by inserting after `purchases' the following: `in the fo llowing calendar year'; and
+(ii) by inserting after `producers' the following: `in such following calendar year'; and
+(C) in paragraph (2)(B), by striking `that calendar year' and in serting `such following calendar year';
+(2) by redesignating subsections (h) and (i) as subsections (j) and (k), respectively; and
+(3) by inserting after subsection (g) the following new subsections:
+`(h) Reduction in Price Received-
+`(1) IN GENERAL- Beginning January 1, 1991, the Secretary shall prov ide for a reduction in the price received by producers for all milk produced in the United States and marketed by producers for commercial use, in addition to a ny reduction in price required under subsection (g).
+`(2) AMOUNT- The amount of the reduction under paragraph (1) in the price received by producers shall be--
+`(A) during calendar year 1991, 5 cents per hundredweight of mil k marketed; and
+`(B) during each of the calendar years 1992 through 1995, 11.25 cents per hundredweight of milk marketed, which rate shall be adjusted on or bef ore May 1 of each of the calendar years 1992 through 1995 by an amount per hundr edweight that is necessary to compensate for refunds made under paragraph (3) on the basis of marketings in the previous calendar year.
+`(3) REFUND- The Secretary shall provide a refund of the entire redu ction under paragraph (2) in the price of milk received by a producer during a c alendar year, if the producer provides evidence that the producer did not increa se marketings in the calendar year that such reduction was in effect when compar ed to the immediately preceding calendar year.
+`(i) Enforcement-
+`(1) COLLECTION- Reductions in price required under subsection (g) o r (h) shall be collected and remitted to the Commodity Credit Corporation in the manner prescribed by the Secretary.
+`(2) PENALTIES- If any person fails to collect or remit the reductio n required by subsection (g) or (h) or fails to comply with such requirements fo r recordkeeping or otherwise as are required by the Secretary to carry out such subsection, the person shall be liable to the Secretary for a civil penalty up t o an amount determined by multiplying--
+`(A) the quantity of milk involved in the violation; by
+`(B) the support rate for the applicable calendar year for milk.
+`(3) ENFORCEMENT- The Secretary may enforce subsection (g) or (h) in the courts of the United States.'.
+Subtitle B--Other Agricultural Programs
+SEC. 1201. AUTHORIZATION LEVELS FOR RURAL ELECTRIC AND TELEPHONE LOANS.
+
+Title III of the Rural Electrification Act of 1936 (7 U.S.C. 931 et seq. ) is amended by adding at the end the following new section:
+`SEC. 314. AUTHORIZATION LEVELS FOR RURAL ELECTRIC AND TELEPHONE LOANS.
+
+`(a) IN GENERAL- Subject to the other provisions of this section and not withstanding any other provision of law, for each of fiscal years 1991 through 1 995, insured loans may be made in accordance with this title from the Rural Elec trification and Telephone Revolving Fund established under section 301 in amount s equal to the following levels:
+`(1) For fiscal year 1991, $896,000,000.
+`(2) For fiscal year 1992, $932,000,000.
+`(3) For fiscal year 1993, $969,000,000.
+`(4) For fiscal year 1994, $1,008,000,000.
+`(5) For fiscal year 1995, $1,048,000,000.
+`(b) REDUCTION- Notwithstanding any other provision of law, for each of fiscal years 1991 through 1995, the Administrator shall--
+`(1) reduce the amounts otherwise made available for insured loans m ade from the Rural Electrification and Telephone Revolving Fund by--
+`(A) $224,000,000 for fiscal year 1991;
+`(B) $234,000,000 for fiscal year 1992;
+`(C) $244,000,000 for fiscal year 1993;
+`(D) $256,000,000 for fiscal year 1994; and
+`(E) $267,000,000 for fiscal year 1995; and
+`(2) use the funds made available from such reductions in each fisca l year to guarantee loans under subsection (d).
+`(c) MANDATORY LEVELS- Notwithstanding any other provision of law, the A dministrator shall make insured loans at the levels authorized by this section f or each of fiscal years 1991 through 1995 taking into account any reductions und er subsection (b).
+`(d) GUARANTEED LOANS--
+`(1) IN GENERAL- Except as otherwise provided in this subsection and subsection (e) and notwithstanding any other provision of law, in carrying out this Act, the Administrator shall guarantee loans made by legally organized lend ing agencies to the extent of the reduction in insured loans as provided in subs ection (b).
+`(2) AMOUNT OF GUARANTEE- The guarantees authorized under paragraph (1) shall be 90 percent of the principal of and interest on the loan and shall b e made only upon the request of the borrower.
+`(3) NO FEDERAL INSTRUMENTALITY- The Administrator may not provide a ny such guarantee for a loan made by the Federal Financing Bank, the Rural Telep hone Bank, or any other lending agency that is an agency or instrumentality of t he United States other than banks for cooperatives.
+`(4) AUTHORITY- The Administrator is authorized to approve such guar antees subject to full use being made during each fiscal year of insured loan am ounts made available during the fiscal year.
+`(5) CONSTRUCTION- Nothing in this subsection shall be construed as modifying the authority provided in section 306.
+`(e) IMPLEMENTATION-
+`(1) IN GENERAL- The Administrator shall implement the reduction in insured loans provided by subsection (b) in a manner that will lessen its advers e effect.
+`(2) ALLOCATION BETWEEN ELECTRIC AND TELEPHONE PROGRAMS- The reducti ons required by subsection (b) shall be allocated between the electric and telep hone programs for each fiscal year in proportion to the amount of insured funds made available for each such program during the fiscal year in annual appropriat ions Acts.
+`(3) ELECTRIC BORROWER'S OPTION- If the amount of an insured electri c loan is reduced as a result of the requirements of subsection (b), the electri c borrower may, at the option of such borrower, obtain capital to replace the am ount of the reduction--
+`(A) with the assistance of a loan guarantee (as provided by sub section (d));
+`(B) from internally generated funds of the electric borrower;
+`(C) from private credit sources with a lien accommodation provi ded by the Administrator; or
+`(D) from other private sources.'.
+SEC. 1202. AUTHORIZATION LEVELS FOR FmHA LOANS.
+(a) IN GENERAL- Subsection (b) of section 346 of the Consolidated Farm a nd Rural Development Act (7 U.S.C. 1994(b)) is amended to read as follows:
+`(b)(1) For each of the fiscal years 1991 through 1995, real estate and operating loans may be insured, made to be sold and insured, or guaranteed in ac cordance with subtitles A and B, respectively, from the Agricultural Credit Insu rance Fund established under section 309 in amounts equal to the following level s:
+`(A) For fiscal year 1991, $4,175,000,000, of which not less than $8 27,000,000 shall be for farm ownership loans under subtitle A.
+`(B) For fiscal year 1992, $4,343,000,000, of which not less than $8 61,000,000 shall be for farm ownership loans under subtitle A.
+`(C) For fiscal year 1993, $4,516,000,000, of which not less than $8 95,000,000 shall be for farm ownership loans under subtitle A.
+`(D) For fiscal year 1994, $4,697,000,000, of which not less than $9 31,000,000 shall be for farm ownership loans under subtitle A.
+`(E) For fiscal year 1995, $4,885,000,000, of which not less than $9 68,000,000 shall be for farm ownership loans under subtitle A.
+`(2) Subject to paragraph (3), such amounts set forth in paragraph (1) s hall be apportioned as follows:
+`(A) For fiscal year 1991--
+`(i) $1,019,000,000 for insured loans, of which not less than $8 3,000,000 shall be for farm ownership loans; and
+`(ii) $3,156,000,000 for guaranteed loans, of which not less tha n $744,000,000 shall be for guarantees of farm ownership loans.
+`(B) For fiscal year 1992--
+`(i) $1,060,000,000 for insured loans, of which not less than $8 7,000,000 shall be for farm ownership loans; and
+`(ii) $3,283,000,000 for guaranteed loans, of which not less tha n $774,000,000 shall be for guarantees of farm ownership loans.
+`(C) For fiscal year 1993--
+`(i) $1,102,000,000 for insured loans, of which not less than $9 0,000,000 shall be for farm ownership loans; and
+`(ii) $3,414,000,000 for guaranteed loans, of which not less tha n $805,000,000 shall be for guarantees of farm ownership loans.
+`(D) For fiscal year 1994--
+`(i) $1,147,000,000 for insured loans, of which not less than $9 4,000,000 shall be for farm ownership loans; and
+`(ii) $3,550,000,000 for guaranteed loans, of which not less tha n $837,000,000 shall be for guarantees of farm ownership loans.
+`(E) For fiscal year 1995--
+`(i) $1,192,000,000 for insured loans, of which not less than $9 7,000,000 shall be for farm ownership loans; and
+`(ii) $3,693,000,000 for guaranteed loans, of which not less tha n $871,000,000 shall be for guarantees of farm ownership loans.
+`(3) Notwithstanding any other provision of law:
+`(A) The Secretary shall--
+`(i) reduce the amounts otherwise made available for insured loa ns by--
+`(I) $482,000,000, for fiscal year 1991;
+`(II) $614,000,000, for fiscal year 1992;
+`(III) $760,000,000, for fiscal year 1993;
+`(IV) $859,000,000, for fiscal year 1994; and
+`(V) $907,000,000, for fiscal year 1995; and
+< /ul>
+`(ii) use the funds made available from such reductions in each fiscal year to guarantee loans under section 351.
+`(B) The total amount of insured loans shall bear the same ratio to the amount of insured farm ownership loans as the dollar amount specified in par agraph (2)(A)(i) for insured loans bears to the dollar amount specified therein for insured farm ownership loans.
+`(C) If more than 70 percent of the number of loans guaranteed under section 351 in a fiscal year have been guaranteed to persons to whom the Secret ary had not previously made an insured loan under this Act, in lieu of the dolla r amounts specified in subparagraph (A) for the immediately succeeding fiscal ye ar, the dollar amounts which shall apply shall each be the product obtained by m ultiplying--
+`(i) such dollar amount; by
+`(ii) the quotient of--
+`(I) the number of persons provided with guaranteed loans un der section 351 in the fiscal year to whom the Secretary had not previously made an insured or a guaranteed loan under this Act; divided by
+`(II) the total number of persons provided with guaranteed l oans under section 351 in the fiscal year.
+`(4) Notwithstanding subsection (a), the Secretary shall, as soon as pra cticable after the date of enactment of this subsection, make, insure, or guaran tee loans at the levels authorized by this subsection for each of the fiscal yea rs 1991 through 1995.'.
+(b) Interest Rate Reduction Program-
+(1) IN GENERAL- Section 351 of such Act (7 U.S.C. 1999) is amended--
+(A) in subsection (c)--
+(i) by striking `50 percent' and inserting `100 percent'; an d
+(ii) by striking `2 percent' and inserting `4 percent'; and< /ul>
+(B) in subsection (d), by striking `, or 3 years, whichever is l ess'.
+(2) EXTENSION OF PROGRAM FOR 2 YEARS- Section 1320 of the Food Secur ity Act of 1985 (7 U.S.C. 1999 note) is amended by striking `1993' and inserting `1995'.
+(c) DEMONSTRATION PROJECT FOR PURCHASE OF SYSTEM LAND- Section 351(h)(1) of such Act (7 U.S.C. 1999(h)(1)) is amended by striking `3-year' and inserting `4-year'.
+SEC. 1203. APHIS INSPECTION USER FEE ON INTERNATIONAL PASSENGERS.
+
+Section 2509(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 is amended--
+(1) in paragraph (1), by striking `a commercial vessel, commercial a ircraft, commercial truck, or railroad car,' and inserting `an international pas senger, commercial vessel, commercial aircraft, commercial truck, or railroad ca r.'; and
+(2) in paragraph (3)(B)--
+(A) by adding at the end of clause (ii) the following: `Any such reimbursement shall be subject to appropriations under clause (v).'; and
+(B) by adding at the end the following new clause:
+`(v) AUTHORIZATION OF APPROPRIATIONS- There are authorized t o be appropriated each fiscal year amounts in the Fund for use for quarantine or inspection services.'.
+SEC. 1204. ADDITIONAL SAVINGS AND OTHER PROVISIONS.
+(a) INTEGRATED FARM MANAGEMENT PROGRAM- Section 1451 of the Food, Agricu lture, Conservation, and Trade Act of 1990 is amended--
+(1) in subsection (d), by striking `enroll not more than' and insert ing `enroll not less than'; and
+(2) in subsection (h)(7)(A), by striking `shall not be eligible' and inserting `shall be eligible'.
+(b) FOOD AID ASSISTANCE- The Agricultural Trade, Development, and Assist ance Act of 1954 (as amended by section 1512 of the Food, Agriculture, Conservat ion, and Trade Act of 1990) is amended--
+(1) in section 202(e)(1), by striking `private' and all that follows through `Administrator' and inserting `the Administrator, not less than $10,000 ,000, and not more than $13,500,000, shall be made available in each fiscal year to private voluntary organizations and cooperatives';
+(2) in section 406, by adding at the end the following new subsectio n:
+`(d) AVAILABILITY OF FUNDS- Funds shall be available under this Act only to the extent provided in advance in appropriation Acts.'; and
+(3) in section 407(c)(4), by striking `providing ocean' and insertin g `providing ocean transportation or'.
+(c) TOBACCO PROGRAM ADJUSTMENT- Section 213 of the Dairy and Tobacco Adj ustment Act of 1983 (7 U.S.C. 511r) is amended--
+(1) in subsection (d), by inserting before the period the following: `, subsection (e), and subsection (f)'; and
+(2) in subsection (f), by adding at the end the following new paragr aph:
+`(4) Subsection (d) shall apply with respect to fees and charges imposed to cover the costs of such end user identification, certification, and reportin g activities.'.
+(d) EMERGENCY LOANS- Section 2269 of the Food, Agriculture, Conservation , and Trade Act of 1990 is amended by--
+(1) striking `(7 U.S.C. 1981(b))' and inserting `(7 U.S.C. 1961(b))' ; and
+(2) striking `1988' and inserting `1990'.
+(e) FIFRA USER FEES- Notwithstanding any provision of the Omnibus Budget Reconciliation Act of 1990, nothing in this title or the other provisions of th is Act shall be construed to require or authorize the Administrator of the Envir onmental Protection Agency to assess or collect any fees or charges for services and activities authorized under the Federal Insecticide, Fungicide, and Rodenti cide Act (7 U.S.C. 136 et seq.).
+Subtitle C--Effective Date
+SEC. 1301. EFFECTIVE DATE.
+This title and the amendments made by this title shall become effective 1 day after the date of enactment of the Food, Agriculture, Conservation, and Tr ade Act of 1990, or December 1, 1990, whichever is earlier.
+SEC. 1302. READJUSTMENT OF SUPPORT LEVELS.
+(a) FAILURE TO ENTER INTO AGREEMENT- If by June 30, 1992, the United Sta tes does not enter into (within the context of section 1102(a) of the Omnibus Tr ade and Competitiveness Act of 1988 (19 U.S.C. 2902)) an agricultural trade agre ement in the Uruguay Round of multilateral trade negotiations under the General Agreement on Tariffs and Trade (GATT), agricultural acreage limitation and price support and production adjustment programs and export promotion levels shall be reconsidered and adjusted by the Secretary of Agriculture (hereafter in this se ction referred to as the `Secretary') in accordance with subsection (b), as appr opriate to protect the interests of American agricultural producers and ensure t he international competitiveness of United States agriculture.
+(b) REQUIRED MEASURES- Pursuant to subsection (a), in order to protect t he interests of American agricultural producers and en- sure the competitive pos ition of United States agriculture, the Secretary--
+(1) is authorized to waive any minimum level for any acreage limitat ion program required or authorized for any of the 1993 through 1995 crops of whe at, feed grains, upland cotton, or rice established under section 107B(e), 105B( e), 103B(e), or 101B(e) of the Agricultural Act of 1949 (as amended by sections 301, 401, 501, and 601 of the Food, Agriculture, Conservation, and Trade Act of 1990), respectively;
+(2) shall increase by $1,000,000,000 for the period beginning Octobe r 1, 1993, and ending September 30, 1995, the level of export promotion programs authorized under the Agricultural Trade Act of 1978 (as amended by section 1531 of the Food, Agriculture, Conservation, and Trade Act of 1990), in addition to any amounts otherwise required or made available under such programs; and
+(3) shall permit producers to repay price support loans for any of t he 1993 through 1995 crops of wheat and feed grains at the levels provided under sections 107B(a)(4) and 105B(a)(4) of the Agricultural Act of 1949, respectivel y.
+(c) FAILURE OF AGREEMENT TO ENTER INTO FORCE- If by June 30, 1993, an ag ricultural trade agreement under the Uruguay Round of multilateral trade negotia tions under the General Agreement on Tariffs and Trade has not entered into forc e for the United States, agricultural price support and other programs and expor t promotion levels shall be reconsidered and adjusted by the Secretary in accord ance with subsection (d), if the Secretary determines such action is appropriate to protect the interests of American agricultural producers and ensure the inte rnational competitiveness of United States agriculture.
+(d) SPECIFIC MEASURES-
+(1) MEASURES TO BE CONSIDERED- Pursuant to subsection (c), the Secre tary shall consider--
+(A) waiving all or part of the requirements of this title, and t he amendments made by this title, requiring reductions in agricultural spending;
+(B) increasing the level of funds made available for the program s authorized under the Agricultural Trade Act of 1978; and
+(C) permitting producers to repay price support loans for any of the 1993 through 1995 crops of wheat and feed grains at the levels provided und er sections 107B(a)(4) and 105B(a)(4) of the Agricultural Act of 1949, respectiv ely.
+(2) AUTHORITY- The Secretary is authorized to implement the measures specified in subparagraphs (A), (B), and (C) of paragraph (1). This authority s hall be in addition to, and not in place of, any other authority under any other provision of law.
+(3) IMPLEMENTATION- If the Secretary determines the action is approp riate pursuant to subsection (c), the Secretary shall implement measures specifi ed in subparagraph (A) of paragraph (1) and either or both of the measures speci fied in subparagraph (B) or (C) of paragraph (1).
+(e) LIMITATION- This section shall not be construed to authorize the Sec retary to reduce the level of income support provided to agricultural producers in the United States.
+(f) TERMINATION- The provisions of subsections (a) and (b) shall cease t o be effective if the President certifies to Congress that the failure referred to in subsection (a) to enter into an agricultural trade agreement in the Urugua y Round of multilateral trade negotiations under the GATT is a result in whole o r in part of the provisions of section 151 of the Trade Act of 1974 (19 U.S.C. 2 191), or essentially similar provisions, not applying or in effect not applying during the period ending May 31, 1991 (or during the period June 1, 1991, throug h May 31, 1993, if the condition of section 1103(b)(1)(B)(i) is satisfied) to im plementing bills submitted with respect to such an agreement entered into during the applicable period under section 1102(b) of the Omnibus Trade and Competitiv eness Act of 1988 (19 U.S.C. 2902(b)).
+TITLE II--BANKING, HOUSING, AND RELATED PROGRAMS
+Subtitle A--Federal Deposit Insurance Assessments
+Sec. 2001. Short title.
+
+Sec. 2002. FDIC authorized to increase assessment rates as necessary to prote ct insurance funds.
+
+Sec. 2003. FDIC authorized to make mid-year adjustments in assessment rates.
+
+Sec. 2004. FDIC authorized to set designated reserve ratio as necessary in fa ce of significant risk of substantial losses to insurance fund.
+
+Sec. 2005. FDIC authorized to borrow from Federal Financing Bank.
+
+Subtitle B--FHA Mortgage Insurance
+Sec. 2101. Increase in mortgage limit.
+
+Sec. 2102. Mortgagor equity.
+
+Sec. 2103. Mortgage insurance premiums.
+
+Sec. 2104. Mutual mortgage insurance fund distributions.
+
+Sec. 2105. Actuarial soundness of mutual mortgage insurance fund.
+
+Sec. 2106. Home equity conversion mortgage insurance demonstration.
+
+Subtitle C--Auction of Federally Insured Mortgages
+Sec. 2201. Auction of multifamily mortgages.
+
+Subtitle D--Crime and Flood Insurance Programs
+Sec. 2301. Crime insurance program.
+Sec. 2302. Flood insurance program.
+Subtitle E--Effective Date
+Sec. 2401. Effective date.
+TITLE II--BANKING, HOUSING, AND RELATED PROGRAMS
+Subtitle A--Federal Deposit Insurance Assessments
+SEC. 2001. SHORT TITLE.
+This Act may be cited as the `FDIC Assessment Rate Act of 1990'.
+SEC. 2002. FDIC AUTHORIZED TO INCREASE ASSESSMENT RATES AS NECESSARY TO PROTE CT INSURANCE FUNDS.
+
+(a) BANK INSURANCE FUND- Section 7(b)(1)(C) of the Federal Deposit Insur ance Act (12 U.S.C. 1817(b)(1)(C)) is amended to read as follows:
+`(C) ASSESSMENT RATE FOR BANK INSURANCE FUND MEMBERS-
+`(i) IN GENERAL- The assessment rate for Bank Insurance Fund mem bers shall be the greater of 0.15 percent or such rate as the Board of Directors , in its sole discretion, determines to be appropriate--
+`(I) to maintain the reserve ratio at the designated reserve ratio; or
+`(II) if the reserve ratio is less than the designated reser ve ratio, to increase the reserve ratio to the designated reserve ratio within a reasonable period of time.
+`(ii) FACTORS TO BE CONSIDERED- In making any determination unde r clause (i), the Board of Directors shall consider the Bank Insurance Fund's ex pected operating expenses, case resolution expenditures, and income, the effect of the assessment rate on members' earnings and capital, and such other factors as the Board of Directors may deem appropriate.
+`(iii) MINIMUM ASSESSMENT- Notwithstanding clause (i), the asses sment shall not be less than $1,000 for each member in each year.'.
+(b) SAVINGS ASSOCIATION INSURANCE FUND- Section 7(b)(1)(D) of the Federa l Deposit Insurance Act (12 U.S.C. 1817(b)(1)(D)) is amended to read as follows:
+`(D) ASSESSMENT RATE FOR SAVINGS ASSOCIATION INSURANCE FUND MEMBERS-
+`(i) IN GENERAL- The assessment rate for Savings Association Ins urance Fund members shall be the greater of 0.15 percent or such rate as the Boa rd of Directors, in its sole discretion, determines to be appropriate--
+`(I) to maintain the reserve ratio at the designated reserve ratio; or
+`(II) if the reserve ratio is less than the designated reser ve ratio, to increase the reserve ratio to the designated reserve ratio within a reasonable period of time.
+`(ii) FACTORS TO BE CONSIDERED- In making any determination unde r clause (i), the Board of Directors shall consider the Savings Association Insu rance Fund's expected operating expenses, case resolution expenditures, and inco me, the effect of the assessment rate on members' earnings and capital, and such other factors as the Board of Directors may deem appropriate.
+`(iii) MINIMUM ASSESSMENT- Notwithstanding clause (i), the asses sment shall not be less than $1,000 for each member in each year.
+`(iv) TRANSITION RULE- Until December 31, 1997, the assessment r ate for Savings Association Insurance Fund members shall not be less than the fo llowing:
+`(I) From January 1, 1990, through December 31, 1990, 0.208 percent.
+`(II) From January 1, 1991, through December 31, 1993, 0.23 percent.
+`(III) From January 1, 1994, through December 31, 1997, 0.18 percent.'.
+(c) CLERICAL AMENDMENTS REFLECTING $1,000 MINIMUM ASSESSMENT PROVISIONS OF CURRENT LAW- Section 7(b)(2)(A) of the Federal Deposit Insurance Act (12 U.S. C. 1817(b)(2)(A)) is amended--
+(1) by inserting `or subparagraph (C)(iii) or (D)(iii) of subsection (b)(1)' after `subsection (c)(2)'; and
+(2) in clauses (i) and (ii), by inserting `the greater of $500 or an amount' before `equal to the product of'.
+SEC. 2003. FDIC AUTHORIZED TO MAKE MID-YEAR ADJUSTMENTS IN ASSESSMENT RATES.
+
+(a) ASSESSMENT RATES- Section 7(b)(1)(A) of the Federal Deposit Insuranc e Act (12 U.S.C. 1817(b)(1)(A)) is amended to read as follows:
+`(A) ASSESSMENT RATES PRESCRIBED-
+`(i) AUTHORITY TO SET RATES- Subject to clause (iii), the Corpor ation shall set assessment rates for insured depository institutions at such tim es as the Corporation, in its sole discretion, determines to be appropriate.
+`(ii) RATE FOR EACH FUND TO BE SET INDEPENDENTLY- The Corporatio n shall fix the assessment rate of Bank Insurance Fund members independently fro m the assessment rate for Savings Association Insurance Fund members.
+< /ul>
+`(iii) DEADLINE FOR ANNOUNCING RATE CHANGES- The Corporation sha ll announce any change in assessment rates-
+`(I) for the semiannual period beginning on January 1 and en ding on June 30, not later than the preceding November 1; and
+`(II) for the semiannual period beginning on July 1 and endi ng on December 31, not later than the preceding May 1.'.
+(b) ASSESSMENT PROCEDURES- Section 7(b)(2)(A) of the Federal Deposit Ins urance Act (12 U.S.C. 1817(b)(2)(A)), as amended by section 2(c) of this Act, is amended--
+(1) by striking `annual' each time it appears;
+(2) in clause (i)(I), by inserting `during that semiannual period' a fter `member'; and
+(3) in clause (ii)(I), by inserting `during that semiannual period' after `member'.
+(c) CONFORMING AMENDMENT ON TIMING OF ASSESSMENT CREDITS- Section 7(d)(1 )(A) of the Federal Deposit Insurance Act (12 U.S.C. 1817(d)(1)(A)) is amended t o read as follows:
+`(A) The Corporation shall prescribe and publish the aggregate amoun t to be credited to insured depository institutions--
+`(i) in the semiannual period beginning on January 1 and ending on June 30, not later than the preceding November 1; and
+`(ii) in the semiannual period beginning on July 1 and ending on December 31, not later than the preceding May 1.'.
+SEC. 2004. FDIC AUTHORIZED TO SET DESIGNATED RESERVE RATIO AS NECESSARY IN FA CE OF SIGNIFICANT RISK OF SUBSTANTIAL LOSSES TO INSURANCE FUND.
+
+Section 7(b)(1)(B) of the Federal Deposit Insurance Act (12 U.S.C. 1817( b)(1)(B)) is amended--
+(1) by striking `, not exceeding 1.50 percent,' each time it appears ;
+(2) in clause (iii)--
+(A) by inserting `and' at the end of subclause (I);
+(B) by striking subclauses (II) and (III); and
+(C) by redesignating subclause (IV) as subclause (II); and
+< /ul>
+(3) in clause (iv)--
+(A) by inserting `and' at the end of subclause (I);
+(B) by striking subclauses (II) and (III); and
+(C) by redesignating subclause (IV) as subclause (II).
+SEC. 2005. FDIC AUTHORIZED TO BORROW FROM FEDERAL FINANCING BANK.
+
+Section 14 of the Federal Deposit Insurance Act (12 U.S.C. 1824) is amen ded--
+(1) in the heading, by striking `SEC. 14.' and inserting:
+`SEC. 14. BORROWING AUTHORITY.
+`(a) BORROWING FROM TREASURY- ';
+(2) in subsection (a), as designated by paragraph (1)--
+(A) by striking `this section' each time it appears and insertin g `this subsection', and
+(B) by striking `The Corporation may employ such funds' and inse rting `The Corporation may employ any funds obtained under this section'; and
+(3) by adding after subsection (a), as amended by paragraph (2), the following new subsection:
+`(b) BORROWING FROM FEDERAL FINANCING BANK- The Corporation is authorize d to issue and sell the Corporation's obligations, on behalf of the Bank Insuran ce Fund or Savings Association Insurance Fund, to the Federal Financing Bank est ablished by the Federal Financing Bank Act of 1973. The Federal Financing Bank i s authorized to purchase and sell the Corporation's obligations on terms and con ditions determined by the Federal Financing Bank. Any such borrowings shall be o bligations subject to the obligation limitation of section 15(c) of this Act. Th is subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.'.
+Subtitle B--FHA Mortgage Insurance
+SEC. 2101. INCREASE IN MORTGAGE LIMIT.
+Section 203(b)(2) of the National Housing Act (12 U.S.C. 1709(b)(2)) is amended by striking `150 percent (185 percent until October 31, 1990) of the dol lar amount specified' and inserting the following: `185 percent of the dollar am ount specified'.
+SEC. 2102. MORTGAGOR EQUITY.
+Section 203(b)(2) of the National Housing Act (12 U.S.C. 1709(b)(2)) is amended by adding at the end the following new undesignated paragraph:
+`Notwithstanding any other provision of this paragraph, a mortgage may n ot involve a principal obligation (including such initial service charges, appra isal, inspection, and other fees as the Secretary shall approve) in excess of 98 .75 percent of the appraised value of the property (97.75 percent, in the case o f a mortgage with an appraised value in excess of $50,000), plus the amount of t he mortgage insurance premium paid at the time the mortgage is insured. For purp oses of the preceding sentence, the term `appraised value' means the amount set forth in the written statement required under section 226, or a similar amount d etermined by the Secretary if section 226 does not apply.'.
+SEC. 2103. MORTGAGE INSURANCE PREMIUMS.
+(a) PREMIUMS- Section 203(c) of the National Housing Act (12 U.S.C. 1709 (c)) is amended--
+(1) by inserting `(1)' after `(c)';
+(2) by striking the last sentence; and
+(3) by adding at the end the following new paragraph:
+`(2) Notwithstanding any other provision of this section, each mortgage secured by a 1- to 4-family dwelling and executed on or after October 1, 1994, t hat is an obligation of the Mutual Mortgage Insurance Fund, shall be subject to the following requirements:
+`(A) The Secretary shall establish and collect, at the time of insur ance, a single premium payment in an amount equal to 2.25 percent of the amount of the original insured principal obligation of the mortgage. Upon payment in fu ll of the principal obligation of a mortgage prior to the maturity date of the m ortgage, the Secretary shall refund all of the unearned premium charges paid on the mortgage pursuant to this subparagraph.
+`(B) In addition to the premium under subparagraph (A), the Secretar y shall establish and collect annual premium payments in an amount equal to 0.50 percent of the remaining insured principal balance (excluding the portion of th e remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments) for the fol lowing periods:
+`(i) For any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is less than 90 p ercent of the appraised value of the property (as of the date the mortgage is ac cepted for insurance), for the first 11 years of the mortgage term.
+`(ii) For any mortgage involving an original principal obligatio n (excluding any premium collected under subparagraph (A)) that is greater than or equal to 90 percent of such value, for the first 30 years of the mortgage ter m; except that notwithstanding the matter preceding clause (i), for any mortgage involving an original principal obligation (excluding any premium collected und er subparagraph (A)) that is greater than 95 percent of such value, the annual p remium collected during the 30-year period under this clause shall be in an amou nt equal to 0.55 percent of the remaining insured principal balance (excluding t he portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayme nts).'.
+(b) TRANSITION PROVISIONS- Notwithstanding section 203(c) of the Nationa l Housing Act (as amended by subsection (a)), mortgage insurance premiums on mor tgages executed during fiscal years 1991 through 1994 and that are obligations o f the Mutual Mortgage Insurance Fund shall be subject to the following requireme nts:
+(1) 1991 AND 1992- For mortgages executed during fiscal years 1991 a nd 1992 (but after the date of the effectiveness of regulations issued under sub section (c)), the Secretary shall establish and collect the following premiums:< /ul>
+(A) UP-FRONT- At the time of insurance, a single premium payment in an amount equal to 3.80 percent of the amount of the original insured princi pal obligation of the mortgage.
+(B) ANNUAL- In addition to the premium under subparagraph (A), a nnual premium payments in an amount equal to 0.50 percent of the remaining insur ed principal balance (excluding the portion of the remaining balance attributabl e to the premium collected under subparagraph (A) and without taking into accoun t delinquent payments or prepayments), for any mortgage involving an original pr incipal obligation (excluding any premium collected under subparagraph (A)) that is--
+(i) less than 90 percent of the appraised value of the prope rty (as of the date the mortgage is accepted for insurance), for the first 5 yea rs of the mortgage term;
+(ii) greater than or equal to 90 percent of such value but e qual to or less than 95 percent of such value, for the first 8 years of the mort gage term; and
+(iii) greater than 95 percent of such value, for the first 1 0 years of the mortgage term.
+(2) 1993 AND 1994- For mortgages executed during fiscal years 1993 a nd 1994, the Secretary shall establish and collect the following premiums:
+< /ul>
+(A) UP-FRONT- At the time of insurance, a single premium payment in an amount equal to 3.00 percent of the amount of the original insured princi pal obligation of the mortgage.
+(B) ANNUAL- In addition to the premium under subparagraph (A), a nnual premium payments in an amount equal to 0.50 percent of the remaining insur ed principal balance (excluding the portion of the remaining balance attributabl e to the premium collected under subparagraph (A) and without taking into accoun t delinquent payments or prepayments), for any mortgage involving an original pr incipal obligation (excluding any premium collected under subparagraph (A)) that is--
+(i) less than 90 percent of the appraised value of the prope rty (as of the date the mortgage is accepted for insurance), for the first 7 yea rs of the mortgage term;
+(ii) greater than or equal to 90 percent of such value but e qual to or less than 95 percent of such value, for the first 12 years of the mor tgage term; and
+(iii) greater than 95 percent of such value, for the first 3 0 years of the mortgage term.
+(3) REFUNDS- With respect to any mortgage subject to premiums under this subsection, the Secretary shall refund all of the unearned premium charges paid on a mortgage pursuant to paragraph (1)(A) or (2)(A) upon payment in full o f the principal obligation of the mortgage prior to the maturity date.
+(c) REGULATIONS- The Secretary shall issue regulations to carry out this section and the amendments made by this section not later than the expiration o f the 90-day period beginning on the date of the enactment of this Act.
+SEC. 2104. MUTUAL MORTGAGE INSURANCE FUND DISTRIBUTIONS.
+Section 205 of the National Housing Act (12 U.S.C. 1711) is amended by a dding at the end the following new subsection:
+`(e) In determining whether there is a surplus for distribution to mortg agors under this section, the Secretary shall take into account the actuarial st atus of the entire Fund.'.
+SEC. 2105. ACTUARIAL SOUNDNESS OF MUTUAL MORTGAGE INSURANCE FUND.
+
+Section 205 of the National Housing Act (12 U.S.C. 1711), as amended by the preceding provisions of this Act, is further amended by adding at the end th e following new subsections:
+`(f)(1) The Secretary shall ensure that the Mutual Mortgage Insurance Fu nd attains a capital ratio of not less than 1.25 percent within 24 months after the date of the enactment of this subsection and maintains such ratio thereafter , subject to paragraph (2).
+`(2) The Secretary shall endeavor to ensure that the Mutual Mortgage Ins urance Fund attains a capital ratio of not less than 2.0 percent within 10 years after the date of the enactment of this subsection, and shall ensure that the F und maintains at least such capital ratio at all times thereafter.
+`(3) Upon the expiration of the 24-month period beginning on the date of the enactment of this subsection, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensure that the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).< /ul>
+`(4) For purposes of this subsection:
+`(A) The term `capital' means the economic net worth of the Mutual M ortgage Insurance Fund, as determined by the Secretary under the annual audit re quired under section 538.
+`(B) The term `capital ratio' means the ratio of capital to unamorti zed insurance-in-force.
+`(C) The term `economic net worth' means the current cash available to the Fund, plus the net present value of all future cash inflows and outflows expected to result from the outstanding mortgages in the Fund.
+`(D) The term `unamortized insurance-in-force' means the remaining o bligation on outstanding mortgages which are obligations of the Mutual Mortgage Insurance Fund, as estimated by the Secretary.
+`(g) The Secretary shall provide for an independent actuarial study of t he Mutual Mortgage Insurance Fund to be conducted annually and shall report annu ally to the Congress regarding the financial status of the Fund.
+`(h)(1) If, pursuant to the independent annual actuarial study of the Mu tual Mortgage Insurance Fund required under subsection (g), the Secretary determ ines that the Mutual Mortgage Insurance Fund is not meeting the operational goal s under paragraph (2), the Secretary may not issue distributions, and may, by re gulation, propose and implement any adjustments to the insurance premiums under section 203(c) or section 2103(b) of the Omnibus Budget Reconciliation Act of 19 90. Upon determining that a premium change is appropriate under the preceding se ntence, the Secretary shall immediately notify Congress of...

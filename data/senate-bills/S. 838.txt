@@ -1,0 +1,1234 @@
+--S.838--
+S.838
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Child Abuse Prevention and Treatment Act to revise and extend
+programs under such Act and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `Child Abuse, Domestic Violence,
+ Adoption and Family Services Act of 1992'.
+ (b) TABLE OF CONTENTS- The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+TITLE I--CHILD ABUSE PREVENTION AND TREATMENT ACT
+Subtitle A--General Provisions
+Sec. 101. Amendatory references.
+Sec. 102. Findings.
+Subtitle B--General Program
+Sec. 111. Advisory board on child abuse and neglect.
+Sec. 112. Research and assistance activities of the National Center on Child
+Abuse and Neglect.
+Sec. 113. Grants to public agencies and nonprofit private organizations for
+demonstration or service programs and projects.
+Sec. 114. Grant program for child abuse neglect prevention and treatment.
+Sec. 115. Emergency grant program.
+Sec. 116. Grant program for investigation and prosecution of child abuse cases.
+Sec. 117. Authorization of appropriations.
+Subtitle C--Community-Based Prevention Grants
+Sec. 121. Title heading and purpose.
+Sec. 122. Grants authorized; authorization of appropriations.
+Sec. 123. State eligibility.
+Sec. 124. Limitations.
+Subtitle D--Certain Preventive Services Regarding Children of Homeless
+Families or Families at Risk of Homelessness
+Sec. 131. Authorization of appropriations.
+Subtitle E--Miscellaneous Provisions
+Sec. 141. Technical amendments.
+Sec. 142. Report concerning voluntary reporting system.
+TITLE II--TEMPORARY CHILD CARE FOR CHILDREN WITH DISABILITIES AND CRISIS
+NURSERIES ACT
+Sec. 201. Short title.
+Sec. 202. Administrative provisions.
+Sec. 203. Authorization of appropriations.
+TITLE III--REAUTHORIZATION OF PROGRAMS WITH RESPECT TO FAMILY VIOLENCE
+Sec. 301. Amendatory references.
+Sec. 302. Expansion of purpose.
+Sec. 303. Expansion of State grant program.
+Sec. 304. Involvement in planning.
+Sec. 305. Confidentiality assurances.
+Sec. 306. Procedure for evicting violent spouses.
+Sec. 307. Penalties for noncompliance.
+Sec. 308. Grants to Indian tribes.
+Sec. 309. Maximum ceiling.
+Sec. 310. Grants to entities other than States; local share.
+Sec. 311. Shelter and related assistance.
+Sec. 312. Allotment of funds.
+Sec. 313. Secretarial responsibilities.
+Sec. 314. Evaluation and report to Congress.
+Sec. 315. Funding for technical assistance centers.
+Sec. 316. Authorization of appropriations.
+Sec. 317. Contracts and grants for State domestic violence coalitions.
+Sec. 318. Regulations.
+Sec. 319. Family member abuse information and documentation.
+Sec. 320. Grants for public information campaigns.
+Sec. 321. Model State leadership incentive grants for domestic violence
+intervention.
+Sec. 322. Educating youth about domestic violence.
+TITLE IV--REAUTHORIZATION OF PROGRAMS WITH RESPECT TO ADOPTION
+Sec. 401. Findings and purpose.
+Sec. 402. Model adoption legislation and procedures.
+Sec. 403. Information and service functions.
+Sec. 404. Authorization of appropriations.
+TITLE I--CHILD ABUSE PREVENTION AND TREATMENT ACT
+Subtitle A--General Provisions
+SEC. 101. AMENDATORY REFERENCES.
+ Except as otherwise provided, whenever in this title an amendment or
+ repeal is expressed in terms of an amendment to, or repeal of, a section
+ or other provision, the reference shall be considered to be made to that
+ section or other provision of the Child Abuse Prevention and Treatment Act
+ (42 U.S.C. 5101 et seq.).
+SEC. 102. FINDINGS.
+ (a) IN GENERAL- The Act is amended by inserting after section 1 the following
+ new section:
+`SEC. 2. FINDINGS.
+ `Congress finds that--
+ `(1) each year, hundreds of thousands of American children are victims of
+ abuse and neglect with such numbers having increased dramatically over the
+ past decade;
+ `(2) many of these children and their families fail to receive adequate
+ protection or treatment;
+ `(3) the problem of child abuse and neglect requires a comprehensive
+ approach that--
+ `(A) integrates the work of social service, legal, health, mental health,
+ education, and substance abuse agencies and organizations;
+ `(B) strengthens coordination among all levels of government, and with
+ private agencies, civic, religious, and professional organizations, and
+ individual volunteers;
+ `(C) emphasizes the need for abuse and neglect prevention, investigation,
+ and treatment at the neighborhood level;
+ `(D) ensures properly trained and support staff with specialized knowledge,
+ to carry out their child protection duties; and
+ `(E) is sensitive to ethnic and cultural diversity;
+ `(4) the failure to coordinate and comprehensively prevent and treat child
+ abuse and neglect threatens the futures of tens of thousands of children and
+ results in a cost to the Nation of billions of dollars in direct expenditures
+ for health, social, and special educational services and ultimately in the
+ loss of work productivity;
+ `(5) all elements of American society have a shared responsibility in
+ responding to this national child and family emergency;
+ `(6) substantial reductions in the prevalence and incidence of child abuse
+ and neglect and the alleviation of its consequences are matters of the
+ highest national priority;
+ `(7) national policy should strengthen families to remedy the causes of child
+ abuse and neglect, provide support for intensive services to prevent the
+ unnecessary removal of children from families, and promote the reunification
+ of families if removal has taken place;
+ `(8) the child protection system should be comprehensive, child-centered,
+ family-focused, and community-based, should incorporate all appropriate
+ measures to prevent the occurrence or recurrence of child abuse and
+ neglect, and should promote physical and psychological recovery and social
+ re-integration in an environment that fosters the health, self-respect,
+ and dignity of the child;
+ `(9) because of the limited resources available in low-income communities,
+ Federal aid for the child protection system should be distributed with due
+ regard to the relative financial need of the communities;
+ `(10) the Federal government should ensure that every community in the United
+ States has the fiscal, human, and technical resources necessary to develop
+ and implement a successful and comprehensive child protection strategy;
+ `(11) the Federal government should provide leadership and assist communities
+ in their child protection efforts by--
+ `(A) promoting coordinated planning among all levels of government;
+ `(B) generating and sharing knowledge relevant to child protection, including
+ the development of models for service delivery;
+ `(C) strengthening the capacity of States to assist communities;
+ `(D) allocating sufficient financial resources to assist States in
+ implementing community plans;
+ `(E) helping communities to carry out their child protection plans by
+ promoting the competence of professional, paraprofessional, and volunteer
+ resources; and
+ `(F) providing leadership to end the abuse and neglect of the nation's
+ children and youth.'.
+ (b) CONFORMING AMENDMENT- The table of contents of the Act is amended by
+ inserting after the item relating to section 1 the following new item:
+`Sec. 2. Findings.'.
+Subtitle B--General Program
+SEC. 111. ADVISORY BOARD ON CHILD ABUSE AND NEGLECT.
+ (a) DUTIES- Section 102(f) (42 U.S.C. 5102(f)) is amended--
+ (1) in paragraph (2), by striking `and' after the semicolon at the end of
+ subparagraph (E);
+ (2) in paragraph (3), by striking the period and inserting `; and'; and
+ (3) by adding at the end the following new paragraph:
+ `(4) not later than 24 months after the date of the enactment of the Child
+ Abuse Programs, Adoption Opportunities, and Family Violence Prevention
+ Amendments Act of 1992, submit to the Secretary and the appropriate committees
+ of the Congress a report containing the recommendations of the Board with
+ respect to--
+ `(A) a national policy designed to reduce and ultimately to prevent child
+ and youth maltreatment-related deaths, detailing appropriate roles and
+ responsibilities for State and local governments and the private sector;
+ `(B) specific changes needed in Federal laws and programs to achieve an
+ effective Federal role in the implementation of the policy specified in
+ subparagraph (A); and
+ `(C) specific changes needed to improve national data collection with
+ respect to child and youth maltreatment-related deaths.'.
+ (b) AUTHORIZATION OF APPROPRIATIONS- Section 102 (42 U.S.C. 5102) is amended
+ by adding at the end thereof the following new subsection:
+ `(h) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, $1,000,000 for fiscal year 1992, and such sums
+ as may be necessary for each of the fiscal years 1993 through 1995.'.
+SEC. 112. RESEARCH AND ASSISTANCE ACTIVITIES OF THE NATIONAL CENTER ON CHILD
+ABUSE AND NEGLECT.
+ (a) RESEARCH TOPICS- Section 105(a)(1) (42 U.S.C. 5105(a)(1)) is amended--
+ (1) in subparagraph (A), by striking `and treatment of' and inserting `,
+ treatment and cultural distinctions of';
+ (2) in subparagraph (B), by striking `appropriate and effective' and inserting
+ `appropriate, effective and culturally sensitive'; and
+ (3) in subparagraph (C)(ii), by inserting `cultural diversity,' after
+ `child support,'.
+ (b) PUBLICATION AND DISSEMINATION OF INFORMATION- Section 105(b)(1)
+ (42 U.S.C. 5105(b)(1)) is amended to read as follows:
+ `(1) as a part of research activities, establish a national data collection
+ and analysis program--
+ `(A) which, to the extent practicable, coordinates existing State child
+ abuse and neglect reports and which shall include--
+ `(i) standardized data on false, unfounded, or unsubstantiated reports; and
+ `(ii) information on the number of deaths due to child abuse and neglect; and
+ `(B) which shall collect, compile, analyze, and make available State child
+ abuse and neglect reporting information which, to the extent practical,
+ is universal and case specific, and integrated with other case-based foster
+ care and adoption data collected by the Secretary;'.
+ (c) PEER REVIEW FOR GRANTS- Section 105(e) (42 U.S.C. 5105(e)) is amended--
+ (1) in paragraph (1)--
+ (A) in subparagraph (A), by inserting `and reviewing' after `evaluating'; and
+ (B) by amending subparagraph (B) to read as follows:
+ `(B) In establishing the process required by subparagraph (A), the Secretary
+ shall appoint to the peer review panels only members who are experts in the
+ field of child abuse and neglect or related disciplines, with appropriate
+ expertise in the application to be reviewed, and who are not individuals who
+ are officers or employees of the Office of Human Development. The panels
+ shall meet as often as is necessary to facilitate the expeditious review
+ of applications for grants and contracts under this section, but may not
+ meet less than once a year.';
+ (2) in paragraph (2)--
+ (A) in subparagraph (A), by inserting `and evaluate' after `determine'; and
+ (B)(i) by striking `and' after the semicolon at the end of subparagraph (A);
+ (ii) by striking the period at the end of subparagraph (B) and inserting
+ `; and'; and
+ (iii) by adding at the end the following new subparagraph:
+ `(C) make recommendations to the Secretary concerning whether the application
+ for the project shall be approved.'; and
+ (3) in paragraph (3), by amending subparagraph (A) to read as follows: `(A)
+ The Secretary shall provide grants and contracts under this section from
+ among the projects which the peer review panels established under paragraph
+ (1)(A) have determined to have merit.'.
+SEC. 113. GRANTS TO PUBLIC AGENCIES AND NONPROFIT PRIVATE ORGANIZATIONS FOR
+DEMONSTRATION OR SERVICE PROGRAMS AND PROJECTS.
+ (a) GENERAL AUTHORITY- Section 106(a) (42 U.S.C. 5106(a)) is amended--
+ (1) by striking `(a)' and all that follows through `Secretary' and inserting
+ the following:
+ `(a) GENERAL AUTHORITY-
+ `(1) DEMONSTRATION OR SERVICE PROGRAMS AND PROJECTS- The Secretary'; and
+ (2) by adding at the end the following paragraph:
+ `(2) EVALUATIONS- In making grants or entering into contracts for
+ demonstration projects, the Secretary shall require all such projects to
+ be evaluated for their effectiveness. Funding for such evaluations shall
+ be provided either as a stated percentage of a demonstration grant or
+ contract, or as a separate grant or contract entered into by the Secretary
+ for the purpose of evaluating a particular demonstration project or group
+ of projects.'.
+ (b) DISCRETIONARY GRANTS- Section 106(c)(1) (42 U.S.C. 5106(c)(1))
+ is amended--
+ (1) in subparagraph (B), by inserting `culturally specific' before
+ `instruction'; and
+ (2)(A) in subparagraph (A), by striking `or' after the semicolon at the end;
+ (B) in subparagraph (B), by striking the period and inserting `; or'; and
+ (C) by adding at the end the following subparagraph:
+ `(C) to improve the recruitment, selection, and training of volunteers
+ serving in private and public nonprofit children, youth and family
+ service organizations in order to prevent child abuse and neglect through
+ collaborative analysis of current recruitment, selection, and training
+ programs and development of model programs for dissemination and replication
+ nationally.'.
+SEC. 114. GRANT PROGRAM FOR CHILD ABUSE NEGLECT PREVENTION AND TREATMENT.
+ (a) DEVELOPMENT AND OPERATION GRANTS- Section 107(a) (42 U.S.C. 5106a(a))
+ is amended to read as follows:
+ `(a) DEVELOPMENT AND OPERATION GRANTS- The Secretary, acting through
+ the Center, shall make grants to the States, based on the population of
+ children under the age of 18 in each State that applies for a grant under
+ this section, for purposes of assisting the States in improving the child
+ protective service system of each such State in--
+ `(1) the intake and screening of reports of abuse and neglect through the
+ improvement of the receipt of information, decisionmaking, public awareness,
+ and training of staff;
+ `(2)(A) investigating such reports through improving response time,
+ decisionmaking, referral to services, and training of staff;
+ `(B) creating and improving the use of multidisciplinary teams and interagency
+ protocols to enhance investigations; and
+ `(C) improving legal preparation and representation;
+ `(3) case management and delivery services provided to families through the
+ improvement of response time in service provision, improving the training
+ of staff, and increasing the numbers of families to be served;
+ `(4) enhancing the general child protective system by improving assessment
+ tools, automation systems that support the program, information referral
+ systems, and the overall training of staff to meet minimum competencies; or
+ `(5) developing, strengthening, and carrying out child abuse and neglect
+ prevention, treatment, and research programs.
+Not more than 15 percent of a grant under this subsection may be expended
+for carrying out paragraph (5). The preceding sentence does not apply to
+any program or activity authorized in any of paragraphs (1) through (4).'.
+ (b) ESTABLISHMENT OF CERTAIN REQUIREMENT- Section 107 (42 U.S.C. 5106a)
+ is amended--
+ (1) by redesignating subsections (c) through (f) as subsections (d) through
+ (g), respectively; and
+ (2) by inserting after subsection (b) the following new subsection:
+ `(c) STATE PROGRAM PLAN- To be eligible to receive a grant under this section,
+ a State shall submit every four years a plan to the Secretary that specifies
+ the child protective service system area or areas described in subsection (a)
+ that the State intends to address with funds received under the grant. The
+ plan shall describe the current system capacity of the State in the relevant
+ area or areas from which to assess programs with grant funds and specify
+ the manner in which funds from the State's programs will be used to make
+ improvements. The plan required under this subsection shall contain, with
+ respect to each area in which the State intends to use funds from the grant,
+ the following information with respect to the State:
+ `(1) INTAKE AND SCREENING-
+ `(A) STAFFING- The number of child protective service workers responsible
+ for the intake and screening of reports of abuse and neglect relative to
+ the number of reports filed in the previous year.
+ `(B) TRAINING- The types and frequency of pre-service and in-service training
+ programs available to support direct line and supervisory personnel in
+ report-taking, screening, decision-making, and referral for investigation.
+ `(C) PUBLIC EDUCATION- An assessment of the State or local agency's public
+ education program with respect to--
+ `(i) what is child abuse and neglect;
+ `(ii) who is obligated to report and who may choose to report; and
+ `(iii) how to report.
+ `(2) INVESTIGATION OF REPORTS-
+ `(A) RESPONSE TIME- The number of reports of child abuse and neglect filed in
+ the State in the previous year where appropriate, the agency response time
+ to each with respect to initial investigation, the number of substantiated
+ and unsubstantiated reports, and where appropriate, the response time with
+ respect to the provision of services.
+ `(B) STAFFING- The number of child protective service workers responsible
+ for the investigation of child abuse and neglect reports relative to the
+ number of reports investigated in the previous year.
+ `(C) INTERAGENCY COORDINATION- A description of the extent to which
+ interagency coordination processes exist and are available Statewide, and
+ whether protocols or formal policies governing interagency relationships
+ exist in the following areas--
+ `(i) multidisciplinary investigation teams among child welfare and law
+ enforcement agencies;
+ `(ii) interagency coordination for the prevention, intervention and treatment
+ of child abuse and neglect among agencies responsible for child protective
+ services, criminal justice, schools, health, mental health, and substance
+ abuse; and
+ `(iii) special interagency child fatality review panels, including a listing
+ of those agencies that are involved.
+ `(D) TRAINING- The types and frequency of pre-service and in-service training
+ programs available to support direct line and supervisory personnel in such
+ areas as investigation, risk assessment, court preparation, and referral
+ to and provision of services.
+ `(E) LEGAL REPRESENTATION- A description of the State agency's current
+ capacity for legal representation, including the manner in which workers
+ are prepared and trained for court preparation and attendance, including
+ procedures for appealing substantiated reports of abuse and neglect.
+ `(3) CASE MANAGEMENT AND DELIVERY OF ONGOING FAMILY SERVICES- For children for
+ whom a report of abuse and neglect has been substantiated and the children
+ remain in their own homes and are not currently at risk of removal, the
+ State shall assess the activities and the outcomes of the following services:
+ `(A) RESPONSE TIME- The number of cases opened for services as a result of
+ investigation of child abuse and neglect reports filed in the previous year,
+ including the response time with respect to the provision of services from
+ the time of initial report and initial investigation.
+ `(B) STAFFING- The number of child protective service workers responsible
+ for providing services to children and their families in their own homes
+ as a result of investigation of reports of child abuse and neglect.
+ `(C) TRAINING- The types and frequency of pre-service  and in-service
+ training programs available to support direct line and supervisory personnel
+ in such areas as risk assessment, court preparation, provision of services
+ and determination of case disposition, including how such training is
+ evaluated for effectiveness.
+ `(D) INTERAGENCY COORDINATION- The extent to which treatment services for
+ the child and other family members are coordinated with child welfare,
+ social service, mental health, education, and other agencies.
+ `(4) GENERAL SYSTEM ENHANCEMENT-
+ `(A) AUTOMATION- A description of the capacity of current automated systems
+ for tracking reports of child abuse and neglect from intake through final
+ disposition and how personnel are trained in the use of such system.
+ `(B) ASSESSMENT TOOLS- A description of whether, how, and what risk assessment
+ tools are used for screening reports of abuse and neglect, determining
+ whether child abuse and neglect has occurred, and assessing the appropriate
+ level of State agency protection and intervention, including the extent to
+ which such tool is used statewide and how workers are trained in its use.
+ `(C) INFORMATION AND REFERRAL- A description and assessment of the extent
+ to which a State has in place--
+ `(i) information and referral systems, including their availability and
+ ability to link families to various child welfare services such as homemakers,
+ intensive family-based services, emergency caretakers, home health visitors,
+ daycare and services outside the child welfare system such as housing,
+ nutrition, health care, special education, income support, and emergency
+ resource assistance; and
+ `(ii) efforts undertaken to disseminate to the public information concerning
+ the problem of child abuse and neglect and the prevention and treatment
+ programs and services available to combat instances of such abuse and neglect.
+ `(D) STAFF CAPACITY AND COMPETENCE- An assessment of basic and specialized
+ training needs of all staff and current training provided staff. Assessment of
+ the competencies of staff with respect to minimum knowledge in areas such as
+ child development, cultural and ethnic diversity, functions and relationship
+ of other systems to child protective services and in specific skills such
+ as interviewing, assessment, and decisionmaking relative to the child and
+ family, and the need for training consistent with such minimum competencies.
+ `(5) INNOVATIVE APPROACHES- A description of--
+ `(A) research and demonstration efforts for developing, strengthening, and
+ carrying out child abuse and neglect prevention, treatment, and research
+ programs, including the interagency efforts at the State level; and
+ `(B) the manner in which proposed research and development activities build
+ on existing capacity in the programs being addressed.'.
+ (c) TECHNICAL CORRECTION- Section 107(d), as redesignated by subsection
+ (b) of this section, is amended in the matter preceding subparagraph (A)
+ by striking `this subsection' and inserting `subsection (a)'.
+ (d) DELAYED EFFECTIVE DATE FOR NEW REQUIREMENTS- The amendments described
+ in subsections (a) and (b) are made upon the date of the enactment of this
+ Act. Such amendments take effect on October 1, 1993, or on October 1 of
+ the first fiscal year for which $40,000,000 or more is made available under
+ subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and
+ Treatment Act (as amended by section 117 of this Act), whichever occurs
+ first. Prior to such amendments taking effect, section 107(a) of the Child
+ Abuse Prevention and Treatment Act, as in effect on the day before the date
+ of the enactment of this Act, continues to be in effect.
+SEC. 115. EMERGENCY GRANT PROGRAM.
+ (a) IN GENERAL- Section 107A(e) (42 U.S.C. 5106a-1(e)) is amended by striking
+ out `and such sums' and all that follows through the end thereof and inserting
+ `such sums as may be necessary for fiscal year 1991, $40,000,000 for fiscal
+ year 1992, and such sums as may be necessary for each of the fiscal years
+ 1993 through 1995.'.
+ (b) TECHNICAL AMENDMENT- Section 1 is amended in the table of contents by
+ inserting after the item relating to section 107 the following:
+`Sec. 107A. Emergency child abuse prevention services grant.'.
+SEC. 116. GRANT PROGRAM FOR INVESTIGATION AND PROSECUTION OF CHILD ABUSE CASES.
+ (a) IN GENERAL- Section 109 (42 U.S.C. 5106c) is amended--
+ (1) by striking out the section heading and inserting in lieu thereof
+ the following:
+`SEC. 109. GRANTS TO STATES FOR PROGRAMS RELATING TO THE INVESTIGATION AND
+PROSECUTION OF CHILD ABUSE AND NEGLECT CASES.';
+ (2) in subsection (a), by striking out paragraphs (1) and (2), and inserting
+ in lieu thereof the following new paragraphs:
+ `(1) the handling of child abuse and neglect cases, particularly cases of
+ child sexual abuse and exploitation, in a manner which limits additional
+ trauma to the child victim;
+ `(2) the handling of cases of suspected child abuse or neglect related
+ fatalities; and
+ `(3) the investigation and prosecution of cases of child abuse and neglect,
+ particularly child sexual abuse and exploitation.';
+ (3) in subsection (b)--
+ (A) by striking out `and 107(e) or receive a waiver under section 107(c)'
+ in paragraph (1);
+ (B) by striking out `and' at the end of paragraph (3);
+ (C) by inserting `annually' after `submit' in paragraph (4); and
+ (D) by striking out the period at the end thereof and inserting the following:
+ `; and
+ `(5) submit annually to the Secretary a report on the manner in which
+ assistance received under this program was expended throughout the State,
+ with particular attention focused on the areas described in paragraphs (1)
+ through (3) of subsection (a).';
+ (4) in subsection (c)(1)--
+ (A) in the matter preceding subparagraph (A)--
+ (i) by inserting `, and maintain' after `designate'; and
+ (ii) by striking out `child abuse' and inserting in lieu thereof `child
+ physical abuse, child neglect, child sexual abuse and exploitation, and
+ child maltreatment related fatalities';
+ (B) by striking out `judicial and legal officers', in subparagraph (B)
+ and inserting in lieu thereof `judges and attorneys involved in both civil
+ and criminal court proceedings related to child abuse and neglect';
+ (C) by inserting before the semicolon in subparagraph (C), the following:
+ `, including both attorneys for children and, where such programs are in
+ operation, court appointed special advocates'; and
+ (D) by striking out `handicaps;' in subparagraph (F), and inserting in lieu
+ thereof `disabilities'.
+ (5) in subsection (d)--
+ (A) by striking out `the State task force shall' in the matter preceding
+ paragraph (1), and inserting in lieu thereof `and at three year intervals
+ thereafter, the State task force shall comprehensively';
+ (B) by striking out `judicial' and all that follows in paragraph (1),
+ and inserting in lieu thereof the following: `both civil and criminal
+ judicial handling of cases of child abuse and neglect, particularly child
+ sexual abuse and exploitation, as well as cases involving suspected child
+ maltreatment related fatalities and cases involving a potential combination
+ of jurisdictions, such as interstate, Federal-State, and State-Tribal;';
+ (C) by inserting `policy and training' before `recommendations' in paragraph
+ (2); and
+ (6) in subsection (e)(1)--
+ (A) by striking out `child abuse' and all that follows through `child
+ victim' in subparagraph (A), and inserting in lieu thereof the following:
+ `child abuse and neglect, particularly child sexual abuse and exploitation,
+ as well as cases involving suspected child maltreatment related fatalities and
+ cases involving a potential combination of jurisdictions, such as interstate,
+ Federal-State, and State-Tribal, in a manner which reduces the additional
+ trauma to the child victim and the victim's family';
+ (B) by striking out `improve the rate' and all that follows through `abuse
+ cases' in subparagraph (B), and inserting in lieu thereof the following:
+ `improve the prompt and successful resolution of civil and criminal court
+ proceedings or enhance the effectiveness of judicial and administrative
+ action in child abuse and neglect cases, particularly child sexual abuse
+ and exploitation cases, including the enhancement of performance of
+ court-appointed attorneys and guardians ad litem for children'; and
+ (C) in subparagraph (C)--
+ (i) by inserting `, protocols' after `regulations'; and
+ (ii) by inserting `and exploitation' after `sexual abuse'.
+ (b) CONFORMING AMENDMENT- Section 1 is amended in the item relating to section
+ 109 in the table of contents by striking `Grants' and all that follows and
+ inserting the following: `Grants to States for programs relating to the
+ investigation and prosecution of child abuse and neglect cases.'.
+SEC. 117. AUTHORIZATION OF APPROPRIATIONS.
+ (a) IN GENERAL- Section 114(a) (42 U.S.C. 5106h(a)) is amended to read
+ as follows:
+ `(a) IN GENERAL-
+ `(1) AUTHORIZATION- There are authorized to be appropriated to carry out
+ this title, except for section 107A, $100,000,000 for fiscal year 1992, and
+ such sums as may be necessary for each of the fiscal years 1993 through 1995.
+ `(2) ALLOCATIONS-
+ `(A) Of the amounts appropriated under paragraph (1) for a fiscal year,
+ $5,000,000 shall be available for the purpose of making additional grants
+ to the States to carry out the provisions of section 107(g).
+ `(B) Of the amounts appropriated under paragraph (1) for a fiscal year and
+ available after compliance with subparagraph (A)--
+ `(i) 33 1/3  percent shall be available for activities under sections 104,
+ 105 and 106; and
+ `(ii) 66 2/3  percent of such amounts shall be made available in each such
+ fiscal year for activities under sections 107 and 108.'.
+ (b) DELAYED EFFECTIVE DATE- Paragraph (2) of section 114(a), as amended by
+ subsection (a), shall become effective on October 1 of the first fiscal
+ year for which $30,000,000 or more would be available under subsection
+ (a)(2)(B)(ii) of such section 114 (if such subsection were in effect), and
+ until such fiscal year, the second and third sentences of section 114(a)
+ (as in effect prior to the amendment made by such subsection (a)) shall
+ continue in effect.
+Subtitle C--Community-Based Prevention Grants
+SEC. 121. TITLE HEADING AND PURPOSE.
+ (a) TITLE HEADING- The heading for title II (42 U.S.C. 5116 et seq.) is
+ amended to read as follows:
+`TITLE II--COMMUNITY-BASED CHILD ABUSE AND NEGLECT PREVENTION GRANTS'.
+ (b) PURPOSE- Section 201 (42 U.S.C. 5116) is amended--
+ (1) in the section heading to read as follows:
+`SEC. 201. PURPOSES.'
+; and
+ (2) by striking out subsections (a) and (b) and inserting in lieu thereof
+ the following:
+ `It is the purpose of this title, through the provision of community-based
+ child abuse and neglect prevention grants, to assist States in supporting
+ child abuse and neglect prevention activities.'.
+SEC. 122. GRANTS AUTHORIZED; AUTHORIZATION OF APPROPRIATIONS.
+ Section 203 (42 U.S.C. 5116b) is amended--
+ (1) by striking out subsection (b);
+ (2) by redesignating subsection (c) as subsection (b); and
+ (3) in subsection (b) (as so redesignated), by striking out `such sums'
+ and all that follows through the period and inserting in lieu thereof
+ `$45,000,000 for fiscal year 1992, and such sums as may be necessary for
+ each of the fiscal years 1993 through 1995.'.
+SEC. 123. STATE ELIGIBILITY.
+ Section 204 (42 U.S.C. 5116c) is amended--
+ (1) by striking out `or other funding mechanism'; and
+ (2) by striking out `which is available only for child' and all that follows
+ through the end thereof, and inserting `which includes (in whole or in part)
+ legislative provisions making funding available only for the broad range
+ of child abuse and neglect prevention activities.'.
+SEC. 124. LIMITATIONS.
+ Section 205 (42 U.S.C. 5116d) is amended--
+ (1) by striking out paragraph (1) of subsection (a) and inserting in lieu
+ thereof the following new paragraph:
+ `(1) ALLOTMENT FORMULA-
+ `(A) IN GENERAL- Amounts appropriated to provide grants under this title
+ shall be allotted among eligible States in each fiscal year so that--
+ `(i) 50 percent of the total amount appropriated is allotted among each
+ State based on the number of children under the age of 18 in each such State,
+ except that each State shall receive not less than $30,000; and
+ `(ii) the remaining 50 percent of the total amount appropriated is allotted
+ in an amount equal to 25 percent of the total amount collected by each such
+ State, in the fiscal year prior to the fiscal year for which the allotment
+ is being determined, for the children's trust fund of the State for child
+ abuse and neglect prevention activities.
+ `(B) USE OF AMOUNTS- Not less than 50 percent of the amount of a grant
+ made to a State under this title in each fiscal year shall be utilized to
+ support community-based prevention programs as authorized in section 204(a),
+ except that this subparagraph shall not become applicable until amounts
+ appropriated under section 203(b) exceed $10,000,000.'; and
+ (2) in subsection (b)(1)--
+ (A) by redesignating subparagraphs (B) and (C) as subparagraphs (F) and
+ (G), respectively; and
+ (B) by inserting after subparagraph (A), the following new subparagraphs:
+ `(B) demonstrate coordination with other child abuse and neglect prevention
+ activities and agencies at the State and local levels;
+ `(C) demonstrate the outcome of services and activities funded under
+ this title;
+ `(D) provide evidence that Federal assistance received under this title
+ has been supplemented with non-Federal public and private assistance
+ (including in-kind contributions) at the local level (Federal assistance
+ expended in support of activities authorized under paragraphs (1), (2),
+ and (3) of section 204 shall be supplemented by State assistance);
+ `(E) demonstrate the extent to which funds received under this title are
+ used to support community prevention activities in underserved areas,
+ in which case the supplemental support required under subparagraph (D)
+ shall be waived for the first 3 years in which assistance is provided to
+ a grantee described in this subparagraph;'.
+Subtitle D--Certain Preventive Services Regarding Children of Homeless
+Families or Families at Risk of Homelessness
+SEC. 131. AUTHORIZATION OF APPROPRIATIONS.
+ Section 306(a) (42 U.S.C. 5118e(a)) is amended by inserting `, and such
+ sums as may be necessary for each of the fiscal years 1993 through 1995'
+ before the period.
+Subtitle E--Miscellaneous Provisions
+SEC. 141. TECHNICAL AMENDMENTS.
+ The Act (42 U.S.C. 5101 et seq.) is amended--
+ (1) by striking `handicapped child' each place such term appears and inserting
+ `child with disabilities';
+ (2) by striking `child with handicaps' each place such term appears and
+ inserting `child with disabilities';
+ (3) by striking `handicap' each place such term appears and inserting
+ `disability';
+ (4) by striking `handicapped' each place such term appears and inserting
+ `disabled'; and
+ (5) in the case of any variation of a term struck by paragraph (1), (2),
+ (3), or (4)  that results from the capitalization of any of the letters
+ of such term, from the use of the plural or the singular, from the use
+ of the possessive, from the use of a different tense, from the use of a
+ different form of typeface, or from any combination thereof, by striking
+ such variation each place the variation appears and inserting the analogous
+ variation of the term inserted in lieu of the term struck by paragraph (1),
+ (2), (3), or (4), respectively.
+SEC. 142. REPORT CONCERNING VOLUNTARY REPORTING SYSTEM.
+ Not later than April 30, 1993, and annually thereafter, the Secretary of
+ Health and Human Services, acting through the Director of the National Center
+ on Child Abuse and Neglect, shall prepare and submit to the appropriate
+ committees of Congress a report concerning the measures being taken to
+ assist States in implementing a voluntary reporting system for child abuse
+ and neglect. Such reports shall contain information concerning the extent to
+ which the child abuse and neglect reporting systems developed by the States
+ are coordinated with the automated foster care and adoption reporting system
+ required under section 479 of the Social Security Act.
+TITLE II--TEMPORARY CHILD CARE FOR CHILDREN WITH DISABILITIES AND CRISIS
+NURSERIES ACT
+SEC. 201. SHORT TITLE.
+ This title may be cited as the `Temporary Child Care for Children With
+ Disabilities and Crisis Nurseries Act Amendments of 1992'.
+SEC. 202. ADMINISTRATIVE PROVISIONS.
+ (a) DEFINITIONS- Section 205(d)(2) of the Temporary Child Care for Children
+ With Disabilities and Crisis Nurseries Act of 1986 (42 U.S.C. 5117c(d)(2)) is
+ amended by striking `given' and all that follows and inserting the following:
+ `given such term in section 602(a)(1) of the Individuals with Disabilities
+ Education Act;'.
+ (b) TECHNICAL AMENDMENT- Section 205(a)(1)(A)(vi) of the Temporary Child
+ Care for Children With Disabilities and Crisis Nurseries Act of 1986 (42
+ U.S.C. 5117c(a)(1)(A)(vi)) is amended by striking out `(vi)' and inserting
+ in lieu thereof `(v)'.
+SEC. 203. AUTHORIZATION OF APPROPRIATIONS.
+ Section 206 of the Temporary Child Care for Children With Disabilities
+ and Crisis Nurseries Act of 1986 (42 U.S.C. 5117d) is amended in the first
+ sentence--
+ (1) by striking `and' after `1989,'; and
+ (2) by inserting before the period the following: `, and $20,000,000 for
+ each of the fiscal years 1992 through 1995'.
+TITLE III--REAUTHORIZATION OF PROGRAMS WITH RESPECT TO FAMILY VIOLENCE
+SEC. 301. AMENDATORY REFERENCES.
+ Except as otherwise provided, whenever in this title an amendment or repeal
+ is expressed in terms of an amendment to, or repeal of, a section or other
+ provision, the reference shall be considered to be made to that section
+ or other provision of the Family Violence Prevention and Services Act
+ (42 U.S.C. 10401 et seq.).
+SEC. 302. EXPANSION OF PURPOSE.
+ Section 302 (42 U.S.C. 10401) is amended--
+ (1) in paragraph (1)--
+ (A) by striking out `demonstration the effectiveness of assisting' and
+ inserting in lieu thereof `assist'; and
+ (B) by striking out `to prevent' and inserting in lieu thereof `to increase
+ public awareness about and prevent'; and
+ (2) in paragraph (2), by inserting `, courts, legal, social service, and
+ health care professionals' after `(including law enforcement agencies'.
+SEC. 303. EXPANSION OF STATE GRANT PROGRAM.
+ Section 303(a) (42 U.S.C. 10402(a)) is amended--
+ (1) in paragraph (1), by striking out `demonstration grants' and inserting
+ in lieu thereof `grants'; and
+ (2) in paragraph (2)--
+ (A) by striking out `demonstration grant' in the matter preceding subparagraph
+ (A), and inserting in lieu thereof `grant';
+ (B) by striking out `demonstration grant' in subparagraph (A), and inserting
+ in lieu thereof `grant'; and
+ (C) by striking out `particularly those projects' in subparagraph (B)(ii)
+ and all that follows through the end thereof, and inserting in lieu thereof
+ the following: `the primary purpose of which is to operate shelters for
+ victims of family violence and their dependents, and those which provide
+ counseling, advocacy, and self-help services to victims and their children.'.
+SEC. 304. INVOLVEMENT IN PLANNING.
+ Section 303(a)(2)(C) (42 U.S.C. 10402(a)(2)(C)) is amended by inserting
+ `State domestic violence coalitions' after `involve'.
+SEC. 305. CONFIDENTIALITY ASSURANCES.
+ Section 303(a)(2)(E) (42 U.S.C. 10402(a)(2)(E)) is amended by striking out
+ `assurances that procedures will be developed' and inserting in lieu thereof
+ `documentation that procedures have been developed, and implemented including
+ copies of the policies and procedure,'.
+SEC. 306. PROCEDURE FOR EVICTING VIOLENT SPOUSES.
+ Section 303(a)(2)(F) (42 U.S.C. 10402(a)(2)(F)) is amended to read as follows:
+ `(F) provide documentation to the Secretary that the State has a law or
+ procedure that has been implemented for the eviction of an abusing spouse
+ from a share household;'.
+SEC. 307. PENALTIES FOR NONCOMPLIANCE.
+ Section 303(a)(3) (42 U.S.C. 10402(a)(3)) is amended--
+ (1) by inserting `a 6-month period providing an' before `opportunity'; and
+ (2) by adding at the end thereof the following new sentences: `The Secretary
+ shall provide such notice within 45 days of the date of the application
+ if any of the provisions of paragraph (2) have not been satisfied in
+ such application. If the State has not corrected the deficiencies in such
+ application within the 6-month period following the receipt of the Secretary's
+ notice of intention to disapprove, the Secretary shall withhold payment of
+ any grant funds to such State until the date that is 30 days prior to the
+ end of the fiscal year for which such grant funds are appropriated or until
+ such time as the State provides documentation that the deficiencies have
+ been corrected, whichever occurs first. State Domestic Violence Coalitions
+ shall be permitted to participate in determining whether a grantee is in
+ compliance with paragraph (2), except that no funds made available to State
+ Domestic Violence Coalitions under section 311 shall be used to challenge
+ a determination as to whether a grantee is in compliance with, or to seek
+ the enforcement of, the eligibility requirements of such paragraph.'.
+SEC. 308. GRANTS TO INDIAN TRIBES.
+ Section 303(b) (42 U.S.C. 10402(b)) is amended--
+ (1) in paragraph (1)--
+ (A) by striking out `is authorized to make demonstration grants' and inserting
+ in lieu thereof `, from amounts appropriated to carry out this section,
+ shall make available not less than 10 percent of such amounts to make grants';
+ (B) by striking out `and tribal' and inserting in lieu thereof `, tribal'; and
+ (C) by inserting `and nonprofit private organizations approved by an Indian
+ Tribe for the operation of a family violence shelter on a Reservation',
+ after `tribal organizations';
+ (2) in paragraph (2)--
+ (A) by striking out `demonstration grant' and inserting in lieu thereof
+ `grant';
+ (B) by striking out `and (E)' and inserting in lieu thereof `(E) and (F)'; and
+ (C) by adding at the end thereof the following new sentence: `No entity
+ eligible to submit an application under paragraph (1) shall be prohibited from
+ making an application during any fiscal year for which funds are available
+ because such entity has not previously applied or received funding under
+ this section.'; and
+ (3) by adding at the end the following new paragraph:
+ `(3) In the case of a project for which the initial application for a
+ demonstration grant under this subsection is made on or after the date
+ of the enactment of the Child Abuse Programs, Adoption Opportunities, and
+ Family Violence Prevention Amendments Act of 1992, the terms `Indian tribe'
+ and `tribal organization', for purposes of this subsection, have the meaning
+ given such terms in section 4 of the Indian Self-Determination and Education
+ Assistance Act.'.
+SEC. 309. MAXIMUM CEILING.
+ (a) IN GENERAL- Section 303 (42 U.S.C. 10402) is amended--
+ (1) by striking out subsection (c); and
+ (2) by redesignating subsections (d) through (g) as subsections (c) through
+ (f), respectively.
+ (b) EFFECTIVITY OF AMENDMENTS- The amendments made by subsection (a) are
+ effective in the case of amounts appropriated for fiscal year 1992 and
+ subsequent fiscal years.
+SEC. 310. GRANTS TO ENTITIES OTHER THAN STATES; LOCAL SHARE.
+ Section 303(e) (as redesignated by section 309 of this Act) is amended--
+ (1) in the first sentence--
+ (A) by striking out `demonstration grant' and inserting in lieu thereof
+ `grant';
+ (B) by inserting `or an Indian Tribe' after `State';
+ (C) by striking out `35 percent' and inserting in lieu thereof `20 percent';
+ (D) by striking out `55 percent' and inserting in lieu thereof `35 percent';
+ (E) by striking out `and 65 percent in the third such year' and inserting
+ in lieu thereof `and 50 percent in the third such year and in any such year
+ thereafter'; and
+ (2) in the second sentence, by striking out `50 percent' and inserting in
+ lieu thereof `25 percent'.
+SEC. 311. SHELTER AND RELATED ASSISTANCE.
+ (a) SHELTER- Section 303(f) (42 U.S.C. 10402(g)) (as so redesignated by
+ section 309) is amended--
+ (1) by striking out `60 percent' and inserting in lieu thereof `70 percent';
+ and
+ (2) by inserting before the period the following `as defined in section
+ 309(4). Not less than 25 percent of the funds distributed under subsection (a)
+ or (b) shall be distributed for the purpose of providing related assistance
+ as defined under section 309(5)(A)'.
+ (b) DEFINITION- Paragraph (5) of section 309 (42 U.S.C. 10408(5)) is amended
+ to read as follows:
+ `(5) The term `related assistance' means the provision of direct assistance
+ to victims of family violence and their dependents for the purpose of
+ preventing further violence, helping such victims to gain access to civil
+ and criminal courts and other community services, facilitating the efforts
+ of such victims to make decisions concerning their lives in the interest
+ of safety, and assisting such victims in healing from the effects of the
+ violence. Related assistance shall include--
+ `(A) prevention services such as outreach and prevention services for victims
+ and their children, employment training, parenting and other educational
+ services for victims and their children, preventive health services within
+ domestic violence programs (including nutrition, disease prevention, exercise,
+ and prevention of substance abuse), domestic violence prevention programs
+ for school age children, family violence public awareness campaigns, and
+ violence prevention counseling services to abusers;
+ `(B) counseling with respect to family violence, counseling by peers
+ individually or in groups, and referral to community social services;
+ `(C) transportation, technical assistance with respect to obtaining financial
+ assistance under Federal and State programs, and referrals for appropriate
+ health-care services (including alcohol and drug abuse treatment), but
+ shall not include reimbursement for any health-care services;
+ `(D) legal advocacy to provide victims with information and assistance
+ through the civil and criminal courts, and legal assistance; or
+ `(E) children's counseling and support services, and child care services
+ for children who are victims of family violence or the dependents of such
+ victims.'.
+SEC. 312. ALLOTMENT OF FUNDS.
+ Section 304(a)(1) (42 U.S.C. 10403(a)(1)) is amended--
+ (1) by striking out `whichever is the greater of the following amounts:
+ one-half of'; and
+ (2) by striking out `$50,000' and inserting in lieu thereof `$200,000,
+ whichever is the lessor amount'.
+SEC. 313. SECRETARIAL RESPONSIBILITIES.
+ Section 305(b)(2)(A) (42 U.S.C. 10404(b)(2)(A)) is amended--
+ (1) by striking out `into the causes of family violence';
+ (2) by inserting `most effective' before `prevention';
+ (3) by striking out `and (ii)' and inserting in lieu thereof `(ii)'; and
+ (4) by inserting before `and (B)' the following: `(iii) the effectiveness of
+ providing safety and support to maternal and child victims of family violence
+ as a way to eliminate the abuse experienced by children in such situations,
+ (iv) identification of intervention approaches to child abuse prevention
+ services which appear to be successful in preventing child abuse where both
+ mother and child are abused, (v) effective and appropriate treatment services
+ for children where both mother and child are abused, and (vi) the individual
+ and situational factors leading to the end of violent and abusive behavior by
+ persons who commit acts of family violence, including such factors as history
+ of previous violence and the legal and service interventions received,'.
+SEC. 314. EVALUATION AND REPORT TO CONGRESS.
+ Section 306 (42 U.S.C. 10405) is amended--
+ (1) by inserting `and every two years thereafter,' after `the first time
+ after the date of the enactment of this title,';
+ (2) by striking out `assurances' and inserting in lieu thereof
+ `documentation'; and
+ (3) by striking out `303(a)(2)(F)' and inserting in lieu `303(a)(2)(B)
+ through 303(a)(2)(F)'.
+SEC. 315. FUNDING FOR TECHNICAL ASSISTANCE CENTERS.
+ Section 308 (42 U.S.C. 10407) is amended to read as follows:
+`SEC. 308. INFORMATION AND TECHNICAL ASSISTANCE CENTERS.
+ `(a) PURPOSE AND GRANTS-
+ `(1) PURPOSE- It is the purpose of this section to provide resource
+ information, training, and technical assistance to Federal, State, and
+ Indian tribal agencies, as well as to local domestic violence programs and
+ to other professionals who provide services to victims of domestic violence.
+ `(2) GRANTS- From the amounts appropriated under this title, the Secretary
+ shall award grants to private nonprofit organizations for the establishment
+ and maintenance of one national resource center (as provided for in subsection
+ (b)) and not to exceed six special issue resource centers (as provided for
+ in subsection (c)) focusing on one or more issues of concern to domestic
+ violence victims.
+ `(b) NATIONAL RESOURCE CENTER- The national resource center established under
+ subsection (a)(2) shall offer resource, policy and training assistance to
+ Federal, State, and local government agencies, to domestic violence service
+ providers, and to other professionals and interested parties on issues
+ pertaining to domestic violence, and shall maintain a central resource
+ library in order to collect, prepare, analyze, and disseminate information
+ and statistics and analyses thereof relating to the incidence and prevention
+ of family violence (particularly the prevention of repeated incidents of
+ violence) and the provision of immediate shelter and related assistance.
+ `(c) SPECIAL ISSUE RESOURCE CENTERS- The special issue resource centers
+ established under subsection (a)(2) shall provide information, training and
+ technical assistance to State and local domestic violence service providers,
+ and shall specialize in at least one of the following areas of domestic
+ violence service, prevention, or law:
+ `(1) Criminal justice response to domestic violence, including court-mandated
+ abuser treatment.
+ `(2) Improving the response of Child Protective Service agencies to battered
+ mothers of abused children.
+ `(3) Child custody issues in domestic violence cases.
+ `(4) The use of the self-defense plea by domestic violence victims.
+ `(5) Improving interdisciplinary health care responses and access to health
+ care resources for victims of domestic violence.
+ `(6) Improving access to and the quality of legal representation for victims
+ of domestic violence in civil litigation.
+ `(d) ELIGIBILITY- To be eligible to receive a grant under this section an
+ entity shall be a private nonprofit organization that--
+ `(1) focuses primarily on domestic violence;
+ `(2) provides documentation to the Secretary demonstrating experience
+ working directly on issues of domestic violence, particularly in the specific
+ subject area for which it is applying;
+ `(3) include on its advisory boards representatives from domestic violence
+ programs in the region who are geographically and culturally diverse; and
+ `(4) demonstrate the strong support of domestic violence advocates from
+ across the country and the region for their designation as the national or
+ a special issue resource center.
+ `(e) REPORTING- Not later than 6 months after receiving a grant under this
+ section, a grantee shall prepare and submit a report to the Secretary that
+ evaluates the effectiveness of the use of amounts received under such grant
+ by such grantee and containing such additional information as the Secretary
+ may prescribe.
+ `(f) DEFINITION- For purposes of this section, the term `Indian tribal
+ agency' means an Indian tribe or tribal organization, as defined in section
+ 4 of the Indian Self-Determination and Education Assistance Act.
+ `(g) REGULATIONS- Not later than 90 days after the date of enactment of
+ this section, the Secretary shall publish proposed regulations implementing
+ this section. Not later than 120 days after such date of enactment, the
+ Secretary shall publish final regulations.'.
+SEC. 316. AUTHORIZATION OF APPROPRIATIONS.
+ Section 310 (42 U.S.C. 10409) is amended to read as follows:
+`SEC. 310. AUTHORIZATION OF APPROPRIATIONS.
+ `(a) IN GENERAL- There are authorized to be appropriated to carry out the
+ provisions of sections 303 through 309 and section 313, $60,000,000 for
+ fiscal year 1992, and such sums as may be necessary for each of the fiscal
+ years 1993 through 1995.
+ `(b) SECTION 303 (a) AND (b)- Of the amounts appropriated under subsection
+ (a) for each fiscal year, not less than 80 percent shall be used for making
+ grants under subsection 303(a), and not less than 10 percent shall be used
+ for the purpose of carrying out section 303(b).
+ `(c) SECTION 308- Of the amounts appropriated under subsection (a) for each
+ fiscal year, 5 percent shall be used by the Secretary for making grants
+ under section 308.'.
+SEC. 317. CONTRACTS AND GRANTS FOR STATE DOMESTIC VIOLENCE COALITIONS.
+ Section 311 (42 U.S.C. 10410) is amended to read as follows:
+`SEC. 311. GRANTS FOR STATE DOMESTIC VIOLENCE COALITIONS.
+ `(a) IN GENERAL- The Secretary shall award grants for the funding of State
+ domestic violence coalitions. Such coalitions shall further the purposes of
+ domestic violence intervention and prevention through activities, including--
+ `(1) working with judicial and law enforcement agencies to encourage
+ appropriate responses to domestic violence cases and examine issues
+ including--
+ `(A) the inappropriateness of mutual protection orders;
+ `(B) the prohibition of mediation when domestic violence is involved;
+ `(C) the use of mandatory arrests of accused offenders;
+ `(D) the discouragement of dual arrests;
+ `(E) the adoption of aggressive and vertical prosecution policies and
+ procedures;
+ `(F) the use of mandatory requirements for presentence investigations;
+ `(G) the length of time taken to prosecute cases or reach plea agreements;
+ `(H) the use of plea agreements;
+ `(I) the consistency of sentencing, including comparisons of domestic
+ violence crimes with other violent crimes;
+ `(J) the restitution of victims;
+ `(K) the use of training and technical assistance to law enforcement and
+ court officials and other professionals;
+ `(L) the reporting practices of, and significance to be accorded to, prior
+ convictions (both felony and misdemeanor) and protection orders;
+ `(M) the use of interstate extradition in cases of domestic violence crimes;
+ `(N) the use of statewide and regional planning; and
+ `(O) any other matters as the Secretary and the State domestic violence
+ coalitions believe merit investigations;
+ `(2) work with family law judges, Child Protective Services agencies, and
+ children's advocates to develop appropriate responses to child custody and
+ visitation issues in domestic violence cases as well as cases where domestic
+ violence and child abuse are both present, including--
+ `(A) the inappropriateness of mutual protection orders;
+ `(B) the prohibition of mediation where domestic violence is involved;
+ `(C) the inappropriate use of marital or conjoint counseling in domestic
+ violence cases;
+ `(D) the use of training and technical assistance for family law judges
+ and court personnel;
+ `(E) the presumption of custody to domestic violence victims;
+ `(F) the use of comprehensive protection orders to grant fullest protections
+ possible to victims of domestic violence, including temporary support
+ and maintenance;
+ `(G) the development by Child Protective Service of supportive responses
+ that enable victims to protect their children;
+ `(H) the implementation of supervised visitations that do not endanger
+ victims and their children; and
+ `(I) the possibility of permitting domestic violence victims to remove
+ children from the State when the safety of the children or the victim is
+ at risk;
+ `(3) conduct public education campaigns regarding domestic violence through
+ the use of public service announcements and informative materials that are
+ designed for print media, billboards, public transit advertising, electronic
+ broadcast media, and other vehicles for information that shall inform the
+ public concerning domestic violence; and
+ `(4) participate in planning and monitoring of the distribution of grants
+ and grant funds to their State under section 303(a).
+ `(b) ELIGIBILITY- To be eligible for a grant under this section, an entity
+ shall be a statewide nonprofit State domestic violence coalition meeting
+ the following conditions:
+ `(1) The membership of the coalition includes representatives from a majority
+ of the programs for victims of domestic violence in the State.
+ `(2) The board membership of the coalition is representative of such programs.
+ `(3) The purpose of the coalition is to provide services, community education,
+ and technical assistance to such programs to establish and maintain shelter
+ and related services for victims of domestic violence and their children.
+ `(4) In the application submitted by the coalition for the grant, the
+ coalition provides assurances satisfactory to the Secretary that the
+ coalition--
+ `(A) has actively sought and encouraged the participation of law enforcement
+ agencies and other legal or judicial entities in the preparation of the
+ application; and
+ `(B) will actively seek and encourage the participation of such entities
+ in the activities carried out with the grant.
+ `(c) ALLOTMENT OF FUNDS- From amounts appropriated under this section for
+ each fiscal year, the Secretary shall allot to each State, the District of
+ Columbia, the Commonwealth of Puerto Rico, and the combined U.S. Territories
+ an amount equal to  1/53  of the amount appropriated for such fiscal year. For
+ purposes of this section, the term `combined U.S. Territories' means Guam,
+ American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands,
+ and the Trust Territory of the Pacific Islands and shall not receive less
+ than 1.5 percent of the funds appropriated for each fiscal year.
+ `(d) PROHIBITION ON LOBBYING- No funds made available to entities under this
+ section shall be used, directly or indirectly, to influence the issuance,
+ amendment, or revocation of any executive order or similar promulgation
+ by any Federal, State or local agency, or to undertake to influence the
+ passage or defeat of any legislation by Congress, or by any State or local
+ legislative body, or State proposals by initiative petition, except that
+ the representatives of the entity may testify or make other appropriate
+ communication--
+ `(1) when formally requested to do so by a legislative body, a committee,
+ or a member thereof; or
+ `(2) in connection with legislation or appropriations directly affecting
+ the activities of the entity.
+ `(e) REPORTING- Each State domestic violence coalition receiving amounts
+ under this section shall submit a report to the Secretary describing
+ the coordination, training and technical assistance and public education
+ services performed with such amounts and evaluating the effectiveness of
+ those services.
+ `(f) DEFINITION- For purposes of this section, a State domestic violence
+ coalition may include representatives of Indian tribes and tribal
+ organizations, as defined in section 4 of the Indian Self-Determination
+ and Education Assistance Act.
+ `(g) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to be used to award grants under this section $8,000,000 for fiscal year
+ 1992, and such sums as may be necessary for each of the fiscal years 1993
+ through 1995.
+ `(h) REGULATIONS- Not later than 90 days after the date of enactment of
+ this section, the Secretary shall publish proposed regulations implementing
+ this section. Not later than 120 days after such date of enactment, the
+ Secretary shall publish final regulations implementing this section.'.
+SEC. 318. REGULATIONS.
+ Section 312(a) (42 U.S.C. 10409(a)) is amended by adding at the end thereof
+ the following new sentence:
+`Not later than 90 days after the date of enactment of this sentence, the
+Secretary shall publish proposed regulations implementing sections 303, 308,
+and 314. Not later than 120 days after such date of enactment, the Secretary
+shall publish final regulations implementing such sections.'.
+SEC. 319. FAMILY MEMBER ABUSE INFORMATION AND DOCUMENTATION.
+ Section 313(1) (42 U.S.C. 10409(1)) is amended by striking out
+ `characteristics relating to family violence' and inserting in lieu thereof
+ `develop data on the number of victims of family violence and their dependents
+ who are homeless or institutionalized as a result of the violence and abuse
+ they have experienced'.
+SEC. 320. GRANTS FOR PUBLIC INFORMATION CAMPAIGNS.
+ The Act is amended by adding at the end thereof the following new section:
+`SEC. 314. GRANTS FOR PUBLIC INFORMATION CAMPAIGNS.
+ `(a) IN GENERAL- The Secretary may make grants to public or private nonprofit
+ entities to provide public information campaigns regarding domestic violence
+ through the use of public service announcements and informative materials
+ that are designed for print media, billboards, public transit advertising,
+ electronic broadcast media, and other vehicles for information that shall
+ inform the public concerning domestic violence.
+ `(b) APPLICATION- No grant, contract, or cooperative agreement shall be
+ made or entered into under this section unless an application that meets
+ the requirements of subsection (c) has been approved by the Secretary.
+ `(c) REQUIREMENTS- An application submitted under subsection (b) shall--
+ `(1) provide such agreements, assurances, and information, be in such form
+ and be submitted in such manner as the Secretary shall prescribe through
+ notice in the Federal Register, including a description of how the proposed
+ public information campaign will target the population at risk, including
+ pregnant women;
+ `(2) include a complete description of the plan of the application for the
+ development of a public information campaign;
+ `(3) identify the specific audiences that will be educated, including
+ communities and groups with the highest prevalence of domestic violence;
+ `(4) identify the media to be used in the campaign and the geographic
+ distribution of the campaign;
+ `(5) describe plans to test market a development plan with a relevant
+ population group and in a relevant geographic area and give assurance that
+ effectiveness criteria will be implemented prior to the completion of the
+ final plan that will include an evaluation component to measure the overall
+ effectiveness of the campaign;
+ `(6) describe the kind, amount, distribution, and timing of informational
+ messages and such other information as the Secretary may require, with
+ assurances that media organizations and other groups with which such
+ messages are placed will not lower the current frequency of public service
+ announcements; and
+ `(7) contain such other information as the Secretary may require.
+ `(d) USE- A grant, contract, or agreement made or entered into under this
+ section shall be used for the development of a public information campaign
+ that may include public service announcements, paid educational messages
+ for print media, public transit advertising, electronic broadcast media,
+ and any other mode of conveying information that the Secretary determines
+ to be appropriate.
+ `(e) CRITERIA- The criteria for awarding grants shall ensure that an
+ applicant--
+ `(1) will conduct activities that educate communities and groups at
+ greatest risk;
+ `(2) has a record of high quality campaigns of a comparable type; and
+ `(3) has a record of high quality campaigns that educate the population
+ groups identified as most at risk.
+ `(f) For purposes of this section, the term `public or private nonprofit
+ entity' includes an `Indian tribe' or `tribal organization', as defined in
+ section 4 of the Indian Self-Determination and Education Assistance Act.'.
+SEC. 321. MODEL STATE LEADERSHIP INCENTIVE GRANTS FOR DOMESTIC VIOLENCE
+INTERVENTION.
+ The Act (as amended by section 320) is further amended by adding at the
+ end thereof the following new section:
+`SEC. 315. MODEL STATE LEADERSHIP GRANTS FOR DOMESTIC VIOLENCE INTERVENTION.
+ `(a) IN GENERAL- The Secretary, in cooperation with the Attorney General,
+ shall award grants to not more than 10 States to assist such States in
+ becoming model demonstration States and in meeting the costs of improving
+ State leadership concerning activities that will--
+ `(1) increase the number of prosecutions for domestic violence crimes;
+ `(2) encourage the reporting of incidences of domestic violence; and
+ `(3) facilitate `arrests and aggressive' prosecution policies.
+ `(b) DESIGNATION AS MODEL STATE- To be designated as a model State under
+ subsection (a), a State shall have in effect--
+ `(1) a law that requires mandatory arrest of a person that police have
+ probable cause to believe has committed an act of domestic violence or
+ probable cause to believe has violated an outstanding civil protection order;
+ `(2) a law or policy that discourages `dual' arrests;
+ `(3) statewide prosecution policies that--
+ `(A) authorize and encourage prosecutors to pursue cases where a criminal
+ case can be proved, including proceeding without the active involvement of
+ the victim if necessary; and
+ `(B) implement model projects that include either--
+ `(i) a `no-drop' prosecution policy; or
+ `(ii) a vertical prosecution policy; and
+ `(C) limit diversion to extraordinary cases, and then only after an admission
+ before a judicial officer has been entered;
+ `(4) statewide guidelines for judges that--
+ `(A) reduce the automatic issuance of mutual restraining or protective orders
+ in cases where only one spouse has sought a restraining or protective order;
+ `(B) discourage custody or joint custody orders by spouse abusers; and
+ `(C) encourage the understanding of domestic violence as a serious criminal
+ offense and not a trivial dispute; and
+ `(5) develop and disseminate methods to improve the criminal justice system's
+ response to domestic violence to make existing remedies as easily available
+ as possible to victims of domestic violence, including reducing delay,
+ eliminating court fees, and providing easily understandable court forms.
+ `(c) AUTHORIZATION OF APPROPRIATIONS-
+ `(1) IN GENERAL- In addition to the funds authorized to be appropriated
+ under section 310, there are authorized to be appropriated to make grants
+ under this section $25,000,000 for fiscal year 1992, and such sums as may
+ be necessary for each of the fiscal years 1993 through 1995.
+ `(2) LIMITATION- A grant may not be made under this section in an amount
+ less than $2,000,000.
+ `(3) DELEGATION AND TRANSFER- The Secretary shall delegate to the Attorney
+ General the Secretary's responsibilities for carrying out this section and
+ shall transfer to the Attorney General the funds appropriated under this
+ section for the purpose of making grants under this section.'.
+SEC. 322. EDUCATING YOUTH ABOUT DOMESTIC VIOLENCE.
+ (a) GENERAL PURPOSE- For purposes of this section, the Secretary of Education,
+ hereinafter referred to as the `Secretary' shall develop model programs
+ for education of young people about domestic violence and violence among
+ intimate partners.
+ (b) NATURE OF PROGRAM- The Secretary, in consultation with the Secretary of
+ Health and Human Services, shall through grants or contracts develop three
+ separate programs, one each for primary and middle schools, secondary schools,
+ and institutions of higher education. Such model programs shall be developed
+ with the input of educational experts, law enforcement personnel, legal
+ and psychological experts on battering, and victim advocate organizations
+ such as battered women's shelters. The participation of each such group
+ or individual consultants from such groups is essential to the development
+ of a program that meets both the needs of educational institutions and the
+ needs of the domestic violence problem.
+ (c) REVIEW AND DISSEMINATION- Not later than 9 months after the date of
+ enactment of this Act, the Secretary shall transmit the model programs,
+ along with a plan and cost estimate for nationwide distribution, to the
+ relevant committees of Congress for review.
+ (d) AUTHORIZATION- There are authorized to be appropriated under this section
+ for fiscal year 1992, $200,000 to carry out the purposes of this section.
+TITLE IV--REAUTHORIZATION OF PROGRAMS WITH RESPECT TO ADOPTION
+SEC. 401. FINDINGS AND PURPOSE.
+ Section 201 of the Child Abuse Prevention and Treatment and Adoption Reform
+ Act of 1978 (42 U.S.C. 5111) is amended to read as follows:
+`SEC. 201. CONGRESSIONAL FINDINGS AND DECLARATION OF PURPOSE.
+ `(a) FINDINGS- Congress finds that--
+ `(1) the number of children in substitute care increased by nearly 50 percent
+ between 1985 and 1990, as our Nation's foster care population included more
+ than 400,000 children at the end of June, 1990;
+ `(2) increasingly children entering foster care have complex problems which
+ require intensive services;
+ `(3) an increasing number of infants are born to mothers who did not receive
+ prenatal care, are born addicted to alcohol and other drugs, and exposed
+ to infection with the etiologic agent for the human immunodeficiency virus,
+ are medically fragile, and technology dependent;
+ `(4) the welfare of thousands of children in institutions and foster homes and
+ disabled infants with life-threatening conditions may be in serious jeopardy
+ and some such children are in need of placement in permanent, adoptive homes;
+ `(5) many thousands of children remain in institutions or foster homes
+ solely because of local and other barriers to their placement in permanent,
+ adoptive homes;
+ `(6) the majority of such children are of school age, members of sibling
+ groups or disabled;
+ `(7) currently one-half of children free for adoption and awaiting placement
+ are minorities;
+ `(8) adoption may be the best alternative for assuring the healthy development
+ of such children;
+ `(9) there are qualified persons seeking to adopt such children who are
+ unable to do so because of barriers to their placement; and
+ `(10) in order both to enhance the stability and love of the child's home
+ environment and to avoid wasteful expenditures of public funds, such children
+ should not have medically indicated treatment withheld from them nor be
+ maintained in foster care or institutions when adoption is appropriate and
+ families can be found for such children.
+ `(b) PURPOSE- It is the purpose of this title to facilitate the elimination of
+ barriers to adoption and to provide permanent and loving home environments for
+ children who would benefit from adoption, particularly children with special
+ needs, including disabled infants with life-threatening conditions, by--
+ `(1) promoting model adoption legislation and procedures in the States and
+ territories of the United States in order to eliminate jurisdictional and
+ legal obstacles to adoption; and
+ `(2) providing a mechanism for the Department of Health and Human Services
+ to--
+ `(A) promote quality standards for adoption services, pre-placement,
+ post-placement, and post-legal adoption counseling, and standards to protect
+ the rights of children in need of adoption;
+ `(B) maintain a national adoption information exchange system to bring
+ together children who would benefit from adoption and qualified prospective
+ adoptive parents who are seeking such children, and conduct national
+ recruitment efforts in order to reach prospective parents for children
+ awaiting adoption; and
+ `(C) demonstrate expeditious ways to free children for adoption for whom
+ it has been determined that adoption is the appropriate plan.'.
+SEC. 402. MODEL ADOPTION LEGISLATION AND PROCEDURES.
+ Section 202 of the Child Abuse Prevention and Treatment and Adoption Reform
+ Act of 1978 (42 U.S.C. 5112) is repealed.
+SEC. 403. INFORMATION AND SERVICE FUNCTIONS.
+ Section 203 of the Child Abuse Prevention and Treatment and Adoption Reform
+ Act of 1978 (42 U.S.C. 5113) is amended--
+ (1) in subsection (a)--
+ (A) by inserting `, on-site technical assistance' after `consultant services'
+ in the second sentence;
+ (B) by inserting `including salaries and travel costs,' after `administrative
+ expenses,' in the second sentence; and
+ (C) by adding at the end thereof the following new sentence: `The Secretary
+ shall, not later than 12 months after the date of enactment of this sentence,
+ prepare and submit to the committees of Congress having jurisdiction over
+ such services reports, as appropriate, containing appropriate data concerning
+ the manner in which activities were carried out under this title, and such
+ reports shall be made available to the public.'; and
+ (2) in subsection (b)--
+ (A) by striking out paragraph (1) and redesignating paragraph (2) as paragraph
+ (1);
+ (B) by inserting after paragraph (1) (as so redesignated) the following
+ new paragraph:
+ `(2) conduct, directly or by grant or contract with public or private
+ nonprofit organizations, ongoing, extensive recruitment efforts on a national
+ level, develop national public awareness efforts to unite children in need
+ of adoption with appropriate adoptive parents, and establish a coordinated
+ referral system of recruited families with appropriate State or regional
+ adoption resources to ensure that families are served in a timely fashion;';
+ (C) in paragraph (4), by inserting before the semicolon the following:
+ `, and to promote professional leadership training of minorities in the
+ adoption field'; and
+ (D)(i) in paragraph (7), by striking `and' after the semicolon at the end;
+ (ii) by redesignating paragraph (8) as paragraph (9); and
+ (iii) by inserting after paragraph (7) the following new paragraph:
+ `(8) maintain (directly or by grant to or contract with public or private
+ nonprofit agencies or organizations) a National Resource Center for Special
+ Needs Adoption to--
+ `(A) promote professional leadership development of minorities in the
+ adoption field;
+ `(B) provide training and technical assistance to service providers and
+ State agencies to improve professional competency in the field of adoption
+ and the adoption of children with special needs; and
+ `(C) facilitate the development of interdisciplinary approaches to meet the
+ needs of children who are waiting for adoption and the needs of adoptive
+ families; and'.
+SEC. 404. AUTHORIZATION OF APPROPRIATIONS.
+ Section 205 of the Child Abuse Prevention and Treatment and Adoption Reform
+ Act of 1978 (42 U.S.C. 5115) is amended--
+ (1) by striking out subsection (a) and inserting in lieu thereof the
+ following new subsection:
+ `(a) There are authorized to be appropriated, $10,000,000 for fiscal year
+ 1992, and such sums as may be necessary for each of the fiscal years
+ 1993 through 1995, to carry out programs and activities under this Act
+ except for programs and activities authorized under sections 203(b)(9)
+ and 203(c)(1).'; and
+ (2) in subsection (b), by striking out `$3,000,000', the first place that
+ such appears, and all that follows through the end thereof, and inserting
+ in lieu thereof the following:  `$10,000,000 for fiscal year 1992, and such
+ sums as may be necessary for each of the fiscal years 1993 through 1995,
+ to carry out section 203(b)(9), and there are authorized to be appropriated
+ $10,000,000 for fiscal year 1992, and such sums as may be necessary for
+ each of the fiscal years 1993 through 1995, to carry out section 203(c)(1).'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

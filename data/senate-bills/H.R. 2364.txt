@@ -1,0 +1,198 @@
+--H.R.2364--
+H.R.2364
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Rail Passenger Service Act to authorize appropriations for the
+National Railroad Passenger Corporation, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Amtrak Reauthorization and Improvement Act
+ of 1990'.
+SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+ Section 601(b)(2) of the Rail Passenger Service Act (45 U.S.C. 601(b)(2))
+ is amended--
+ (1) by striking `and' at the end of subparagraph (D);
+ (2) by striking the period at the end of subparagraph (E) and inserting in
+ lieu thereof a semicolon; and
+ (3) by adding at the end thereof the following:
+ `(F) not to exceed $630,000,000 for the fiscal year ending September 30, 1989;
+ `(G) not to exceed $656,000,000 for the fiscal year ending September 30, 1990;
+ `(H) not to exceed $684,000,000 for the fiscal year ending September 30,
+ 1991; and
+ `(I) not to exceed $712,000,000 for the fiscal year ending September 30,
+ 1992.'.
+SEC. 3. INCENTIVES FOR PASSENGER SERVICE AGREEMENTS.
+ Title VIII of the Rail Passenger Service Act (45 U.S.C. 642 et seq.) is
+ amended by adding at the end thereof the following new section:
+`SEC. 810. INCENTIVES FOR PASSENGER SERVICE AGREEMENTS.
+ `(a) Notwithstanding any other provision of law, in instances where a
+ publicly funded commuter transportation authority established under Virginia
+ law contracts to indemnify the Corporation for liability for operations
+ conducted by or on behalf of the publicly funded commuter transportation
+ authority or to indemnify a railroad over whose tracks such operations are
+ conducted, liability for all claims, whether for compensatory or punitive
+ damages, arising from any accident or incident occurring in the District
+ of Columbia against the Corporation or the publicly funded commuter
+ transportation authority in connection with operations conducted by or
+ on behalf of such publicly funded commuter transportation authority, or
+ against a railroad over whose tracks such operations were conducted at the
+ time of the accident or incident, shall not be in an amount greater than the
+ limits of the liability coverage maintained by the publicly funded commuter
+ transportation authority to indemnify the Corporation or the railroad. In no
+ event shall the publicly funded commuter transportation authority maintain
+ an aggregate limit of liability coverage less than $200,000,000.
+ `(b) Subsection (a) shall not be effective unless the Corporation or a
+ railroad seeking coverage hereunder has entered into an operating agreement
+ with a publicly funded commuter transportation authority established
+ under Virginia law to provide access for revenue service to its property in
+ connection with the operations of the publicly funded commuter transportation
+ authority.'.
+SEC. 4. AUTHORIZATION TO USE FUNDS FOR SIMILAR PURPOSES.
+ Proceeds from the sale of all or part of the railroad line for which funds
+ were provided, for acquisition and rehabilitation, under section 511 of the
+ Rail Safety and Service Improvement Act of 1982 may be used for similar
+ purposes with respect to any railroad line connecting with such line,
+ for the purpose of continued rail service on such lines.
+SEC. 5. COOPERATION WITH STUDY.
+ The National Railroad Passenger Corporation shall cooperate with the
+ efforts of the Washington State Department of Transportation in designing
+ and carrying out a study of the feasibility of reestablishing rail service
+ between Seattle, Washington, and Vancouver, British Columbia.
+SEC. 6. ROUTING FEASIBILITY STUDY.
+ The National Railroad Passenger Corporation shall conduct a study to
+ evaluate the short-term and long-term revenue and cost implications of
+ separating the existing California Zephyr-Desert Wind-Pioneer train into two
+ service routes serving separate western destinations via a southern route
+ and a central route through Iowa. The Corporation shall include in this
+ evaluation the projected cost for required additional passenger equipment,
+ any projected loss, and any revenue and ridership gains, associated with
+ offering a second service route. A detailed report on the findings of the
+ study shall be submitted by the Corporation to the Congress within 6 months
+ after the date of enactment of this Act.
+SEC. 7. RESIDENCE OF EMPLOYEES.
+ (a) Section 11504(a) of title 49, United States Code, is amended to read
+ as follows:
+ `(a) No part of the compensation paid by a rail carrier providing
+ transportation subject to the jurisdiction of the Commission under subchapter
+ I of chapter 105 of this title to an employee who performs regularly assigned
+ duties as such an employee on a railroad in more than one State shall be
+ subject to the income tax laws of any State or subdivision of that State,
+ other than the State or subdivision thereof of the employee's residence.'.
+ (b) Section 11504(b) of title 49, United States Code, is amended to read
+ as follows:
+ `(b)(1) No part of the compensation paid by a motor carrier providing
+ transportation subject to the jurisdiction of the Commission under subchapter
+ II of chapter 105 of this title or by a motor private carrier to an employee
+ who performs regularly assigned duties in 2 or more States as such an
+ employee with respect to a motor vehicle shall be subject to the income
+ tax laws of any State or subdivision of that State, other than the State
+ or subdivision thereof of the employee's residence.
+ `(2) In this subsection `employee' has the meaning given such term in
+ section 204 of the Motor Carrier Safety Act of 1984 (49 App. U.S.C. 2503).'.
+ (c) Section 11504(d) of title 49, United States Code, is amended--
+ (1) by striking `express, sleeping car,'; and
+ (2) by striking `with--' and all that follows and inserting in lieu thereof
+ the following: `with the State and subdivision of residence of the employee.'.
+SEC. 8. JURISDICTION OF THE INTERSTATE COMMERCE COMMISSION OVER ACQUISITION
+OF CONTROL OF CERTAIN RAIL CARRIERS.
+ (a) Section 11348 of title 49, United States Code, is amended by redesignating
+ subsections (a) and (b) as subsections (b) and (c), respectively, and by
+ inserting before subsection (b) the following new subsection:
+ `(a)(1) Acquisition of direct or indirect control of a class I rail carrier by
+ a person that is not a carrier and does not directly or indirectly control,
+ and is not directly or indirectly controlled by, a carrier may be carried
+ out only with the approval and authorization of the Commission.
+ `(2) The Commission may begin a proceeding to approve and authorize a
+ transaction referred to in paragraph (1) on application of the person
+ seeking that authority. When an application is filed with the Commission, the
+ Commission shall notify the chief executive officer of each State in which
+ property of the carrier involved in the proposed transaction is located,
+ and shall notify that carrier.
+ `(3) In a proceeding under this subsection, the Commission shall consider
+ the following:
+ `(A) The effect of the proposed transaction on the adequacy of transportation
+ to the public.
+ `(B) The total fixed charges that result from the proposed transaction.
+ `(C) The interest of carrier employees affected by the proposed transaction.
+ `(4) The Commission shall approve and authorize a transaction under this
+ subsection when it finds the transaction is consistent with the public
+ interest. The Commission may impose conditions governing the transaction,
+ including the subordination of all or any portion of any new debt created
+ as part of the proposed transaction to any pre-existing debt owed to the
+ United States sufficient to provide reasonable protection to the United
+ States. When the transaction contemplates a guarantee or assumption, by a
+ carrier, of payment of dividends or of fixed charges or will result in an
+ increase of total fixed charges, the Commission may approve and authorize
+ the transaction only if it finds that the guarantee, assumption, or increase
+ is consistent with the public interest.
+ `(5) The Commission shall publish notice of an application under this
+ subsection in the Federal Register by the 15th day after the application is
+ filed with the Commission and after a certified copy of it is furnished to
+ the Secretary of Transportation. However, if the application is incomplete,
+ the Commission shall reject it by the end of that period. The order of
+ rejection is a final action of the Commission under section 10327 of this
+ title. The published notice shall indicate that the application involves
+ the acquisition of control of a class I rail carrier, to be decided within
+ the time limits specified in paragraph (6).
+ `(6) Commission procedures with respect to an application filed under this
+ subsection shall be as follows:
+ `(A) Written comments about an application may be filed with the
+ Commission within 20 days after notice of the application is published
+ under paragraph (5). Copies of such comments shall be served on the
+ Secretary of Transportation, who may decide to intervene as a party to
+ the proceeding. That decision must be made by the 15th day after the date
+ of receipt of the written comments, and if the decision is to intervene,
+ preliminary comments about the application must be sent to the Commission
+ by the 15th day after the date of receipt of the written comments.
+ `(B) The Commission must conclude evidentiary proceedings by the 75th day
+ after the date of publication of notice under paragraph (5). The Commission
+ must issue a final decision by the 15th day after the date on which it
+ concludes the evidentiary proceedings.
+ `(7) The final decision of the Commission under paragraph (6)(B) is a final
+ action of the Commission under section 10327 of this title. If the Commission
+ does not issue a final decision within the time limits provided under this
+ subsection, it shall send a written notice to Congress that a decision was
+ not issued and the reasons why it was not issued, and shall thereafter on
+ a weekly basis report to Congress on the steps that have been taken toward
+ the issuance of such final decision.
+ `(8) Nothing in this subsection shall preclude the Commission from approving
+ more than one application filed under this subsection with respect to the
+ acquisition of control of the same rail carrier.
+ `(9) In this subsection, the term `control' does not refer to use of a
+ voting trust in a proceeding subject to section 11343 of this title.'.
+ (b) Within 30 days after the date of enactment of this Act, the Commission
+ shall issue interim regulations implementing the provisions of the amendment
+ made by subsection (a). Such interim regulations shall take effect upon
+ issuance, notwithstanding section 553 of title 5, United States Code. Final
+ implementing regulations shall be issued and in force not later than 180
+ days after such date of enactment.
+SEC. 9. RAILROAD UNEMPLOYMENT INSURANCE ACT AMENDMENT.
+ (a) Section 8(a)(1)(B)(vi) of the Railroad Unemployment Insurance Act (45
+ U.S.C. 358(a)(1)(B)(vi)) is amended by inserting `the National Railroad
+ Passenger Corporation and' immediately after `the contribution of' in the
+ first sentence.
+ (b) The amendment made by subsection (a) shall be effective as of January
+ 1, 1989.
+SEC. 10. STUDY OF LOAN GUARANTEE NEEDS.
+ The Secretary of Transportation, in consultation with the Administrator of
+ the Federal Railroad Administration, shall study and survey the present and
+ potential need and demand among class II and class III railroads for Federal
+ guarantees of obligations as provided for by section 511 of the Railroad
+ Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 831). Such study
+ and survey shall examine the present and potential need and demand for such
+ guarantees to fund rehabilitation and improvement of facilities or equipment,
+ acquisition of new railroad facilities, and refinancing of existing debt. The
+ Secretary of Transportation shall report to Congress no later than 90 days
+ following the date of the enactment of this Act the results of such study and
+ survey. Such report shall include an analysis of the present and potential
+ need and demand for Federal guarantees of class II and class III railroad
+ debt, the amount of guarantee authority required to meet that need, and a
+ projection of demand for such Federal guarantees through fiscal year 1995.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

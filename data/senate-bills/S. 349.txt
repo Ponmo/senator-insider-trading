@@ -1,0 +1,1545 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 349 Engrossed Amendment House (EAH)]
+
+103d CONGRESS
+
+  2d Session
+
+                                 S. 349
+
+_______________________________________________________________________
+
+                               AMENDMENT
+                In the House of Representatives, U. S.,
+
+                                                        March 24, 1994.
+      Resolved, That the bill from the Senate (S. 349) entitled ``An 
+Act to provide for the disclosure of lobbying activities to influence 
+the Federal Government, and for other purposes'', do pass with the 
+following
+
+                               AMENDMENT:
+
+        Strike out all after the enacting clause, and insert:
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Lobbying Disclosure Act of 1994''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds that--
+            (1) responsible representative Government requires public 
+        awareness of the efforts of paid lobbyists to influence the 
+        public decision making process in both the legislative and 
+        executive branches of the Federal Government;
+            (2) existing lobbying disclosure statutes have been 
+        ineffective because of unclear statutory language, weak 
+        administrative and enforcement provisions, and an absence of 
+        clear guidance as to who is required to register and what they 
+        are required to disclose; and
+            (3) the effective public disclosure of the identity and 
+        extent of the efforts of paid lobbyists to influence Federal 
+        officials in the conduct of Government actions will increase 
+        public confidence in the integrity of Government.
+
+SEC. 3. DEFINITIONS.
+
+    As used in this Act:
+            (1) Agency.--The term ``agency'' has the meaning given that 
+        term in section 551(1) of title 5, United States Code.
+            (2) Client.--The term ``client'' means any person or entity 
+        (including a State or local government) who employs or retains 
+        another person for financial or other compensation to conduct 
+        lobbying activities on behalf of that person or entity or 
+        another person or entity. An organization whose employees act 
+        as lobbyists on its own behalf is both a client and an employer 
+        of such employees. In the case of any person or entity that 
+        employs or retains a lobbyist to conduct lobbying activities on 
+        behalf of another person or entity, the client is both the 
+        person or entity that employs or retains the lobbyist and the 
+        person or entity on whose behalf the lobbyist conducts lobbying 
+        activities. In the case of a coalition or association that 
+        employs or retains other persons to conduct lobbying 
+        activities, the client is--
+                    (A) the coalition or association and not its 
+                individual members when the lobbying activities are 
+                conducted on behalf of its membership and financed by 
+                the coalition's or association's dues and assessments, 
+                or
+                    (B) the individual member or members, when the 
+                lobbying activities are, directly or indirectly, 
+                financed separately by one or more individual members 
+                and not by the coalition's or association's dues and 
+                assessments.
+            (3) Covered executive branch official.--The term ``covered 
+        executive branch official'' means--
+                    (A) the President or the President-elect;
+                    (B) the Vice President or the Vice President-elect;
+                    (C) any officer or employee (other than a clerical 
+                or secretarial employee) of the Executive Office of the 
+                President or any individual functioning in the capacity 
+                of such an officer or employee on an unpaid basis;
+                    (D) any officer or employee serving in a position 
+                in level I, II, III, IV, or V of the Executive 
+                Schedule, as designated by statute or executive order;
+                    (E) any officer or employee serving in a Senior 
+                Executive Service position, as defined in section 3132 
+                (a)(2) of title 5, United States Code;
+                    (F) any member of the uniformed services whose pay 
+                grade is at or above O-7 under section 201 of title 37, 
+                United States Code; and
+                    (G) any officer or employee serving in a position 
+                of a confidential, policy-determining, policy-making, 
+                or policy-advocating character described in section 
+                7511(b)(2) of title 5, United States Code, including an 
+                employee listed in schedule C of subpart C of part 213 
+                of title 5 of the Code of Federal Regulations.
+            (4) Covered legislative branch official.--
+                    (A) In general.--The term ``covered legislative 
+                branch official'' means--
+                            (i) a Member of Congress or a Member-elect 
+                        of Congress;
+                            (ii) an elected officer of either House of 
+                        Congress;
+                            (iii) any employee of a Member of Congress 
+                        or of a committee of either House of Congress;
+                            (iv) any employee on the leadership staff 
+                        of the House of Representatives and any 
+                        employee on the leadership staff of the Senate;
+                            (v) any employee of a joint committee of 
+                        the Congress; and
+                            (vi) any employee of a working group or 
+                        caucus organized to provide legislative 
+                        services or other assistance to Members of 
+                        Congress.
+            (B) Definitions.--For purposes of subparagraph (A)--
+                    (i) the terms ``employee on the leadership staff of 
+                the House of Representatives'' and ``employee on the 
+                leadership staff of the Senate'' have the meanings 
+                given these terms in section 207(e)(4) of title 18, 
+                United States Code;
+                    (ii) the term ``employee'' includes any individual 
+                functioning in the capacity of an employee described in 
+                subparagraph (A) on an unpaid basis but the term does 
+                not include a clerical or secretarial employee, and
+                    (iii) the term ``Member of Congress'' means a 
+                Senator or a Representative in, or Delegate or Resident 
+                Commissioner, to the Congress.
+            (5) Director.--The term ``Director'' means the Director of 
+        the Office of Lobbying Registration and Public Disclosure.
+            (6) Employee.--Except as provided in paragraph (4)(B)(ii), 
+        the term ``employee'' means any individual who is an officer, 
+        employee, partner, director, or proprietor of an organization, 
+        but does not include--
+                    (A) independent contractors; or
+                    (B) volunteers who receive no financial or other 
+                compensation from the organization for their services.
+            (7) Foreign entity.--The term ``foreign entity'' means a 
+        foreign principal as such term is defined in subsection (b) of 
+        section 1 of the Foreign Agents Registration Act of 1938 (22 
+        U.S.C. 611 (b)).
+            (8) Grass roots lobbying communications.--The term ``grass 
+        roots lobbying communications'' means--
+                    (A) any communication that attempts to influence 
+                any legislation through an attempt to affect the 
+                opinions of the general public or any segment thereof;
+                    (B) any communication between an organization and 
+                any bona fide member of such organization to directly 
+                encourage such member to make a communication to a 
+                covered executive branch official or a covered 
+                legislative branch official with regard to a matter 
+                described in clause (i), (ii), (iii), or (iv) of 
+                paragraph (10)(A) of section 3; and
+                    (C) any communication between an organization and 
+                any bona fide member of such organization to directly 
+                encourage such member to urge persons other than 
+                members to communicate as provided in either 
+                subparagraph (A) or subparagraph (B).
+            (9) Lobbying activities.--
+                    (A) Definition.--The term ``lobbying activities'' 
+                means lobbying contacts and efforts in support of such 
+                contacts, including preparation and planning 
+                activities, research and other background work that is 
+                intended at the time it is performed, for use in 
+                contacts, and coordination with the lobbying activities 
+                of others. Except as provided in subparagraph (B), 
+                lobbying activities also include--
+                            (i) grass roots lobbying communications, 
+                        and
+                            (ii) any communication described in clause 
+                        (iii), (v), (vii), (viii), or (xvi) of 
+                        paragraph (10)(B),
+                to the extent that such communications are made in 
+                support of a lobbying contact.
+                    (B) Religious organizations.--Lobbying activities 
+                do not include grass roots lobbying communications by 
+                churches, their integrated auxiliaries, conventions or 
+                associations of churches, and religious orders that are 
+                exempt from filing Federal income tax returns under 
+                paragraph (2)(A)(i) or (2)(A)(iii) of section 6033(a) 
+                of the Internal Revenue Code of 1986, unless such 
+                communications are made by any person or organization 
+                required to be identified under section 4(b)(5) of this 
+                Act.
+            (10) Lobbying contact.--
+                    (A) Definition.--The term ``lobbying contact'' 
+                means any oral or written communication (including an 
+                electronic communication) to a covered executive branch 
+                official or a covered legislative branch official that 
+                is made on behalf of a client with regard to--
+                            (i) the formulation, modification, or 
+                        adoption of Federal legislation (including 
+                        legislative proposals);
+                            (ii) the formulation, modification, or 
+                        adoption of a Federal regulation, Executive 
+                        order, or any other program, policy, or 
+                        position of the United States Government;
+                            (iii) the administration or execution of a 
+                        Federal program or policy (including the 
+                        negotiation, award, or administration of a 
+                        Federal contract, grant, loan, permit, or 
+                        license), except that this clause does not 
+                        include communications that are made to any 
+                        covered executive branch official--
+                                    (I) who is serving in a Senior 
+                                Executive Service position described in 
+                                paragraph (3)(E), or
+                                    (II) who is a member of the 
+                                uniformed services whose pay grade is 
+                                lower than O-9 under section 201 of 
+                                title 37, United States Code,
+                        in the agency responsible for taking such 
+                        administrative or executive action; or
+                            (iv) the nomination or confirmation of a 
+                        person for a position subject to confirmation 
+                        by the Senate.
+                    (B) Exceptions.--The term ``lobbying contact'' does 
+                not include communications that are--
+                            (i) made by public officials acting in 
+                        their official capacity;
+                            (ii) made by representatives of a media 
+                        organization if the purpose of the 
+                        communication is gathering and disseminating 
+                        news and information to the public;
+                            (iii) made in a speech, article, 
+                        publication, or other material which is widely 
+                        distributed to the public through radio, 
+                        television, cable television, or other medium 
+                        of mass communication;
+                            (iv) made on behalf of a government of a 
+                        foreign country or a foreign political party 
+                        and disclosed under the Foreign Agents 
+                        Registration Act of 1938 (22 U.S.C. 611 et 
+                        seq.);
+                            (v) requests for meetings, requests for the 
+                        status of matters described in clauses (i), 
+                        (ii), (iii), and (iv) of subparagraph (A), or 
+                        other similar requests, if the requests do not 
+                        include attempts to influence a covered 
+                        executive branch official or a covered 
+                        legislative branch official;
+                            (vi) made in the course of participation in 
+                        an advisory committee subject to the Federal 
+                        Advisory Committee Act;
+                            (vii) testimony given before a committee, 
+                        subcommittee, or task force of the Congress, or 
+                        submitted for inclusion in the public record of 
+                        a hearing conducted by such committee, 
+                        subcommittee, or task force;
+                            (viii) information provided in writing in 
+                        response to a written request for specific 
+                        information from a covered executive branch 
+                        official or a covered legislative branch 
+                        official;
+                            (ix) required by subpoena, civil 
+                        investigative demand, or otherwise compelled by 
+                        statute, regulation, or other action of the 
+                        Congress or an agency;
+                            (x) made in response to a notice in the 
+                        Federal Register, Commerce Business Daily, or 
+                        other similar publication soliciting 
+                        communications from the public and directed to 
+                        the agency official specifically designated in 
+                        the notice to receive such communications;
+                            (xi) not possible to report without 
+                        disclosing information, the unauthorized 
+                        disclosure of which is prohibited by law;
+                            (xii) made to officials in an agency with 
+                        regard to--
+                                    (I) a judicial proceeding or a 
+                                criminal or civil law enforcement 
+                                inquiry, investigation, or proceeding, 
+                                or
+                                    (II) a filing or proceeding that 
+                                the Government is specifically required 
+                                by statute or regulation to maintain or 
+                                conduct on a confidential basis,
+                        if that agency is charged with responsibility 
+                        for such proceeding, inquiry, investigation, or 
+                        filing;
+                            (xiii) made in compliance with written 
+                        agency procedures regarding an adjudication 
+                        conducted by the agency under section 554 of 
+                        title 5, United States Code, or substantially 
+                        similar provisions;
+                            (xiv) written comments filed in the course 
+                        of a public proceeding or other communications 
+                        that are made on the record in a public 
+                        proceeding;
+                            (xv) a petition for agency action made in 
+                        writing pursuant to established agency 
+                        procedures;
+                            (xvi) made on behalf of an individual with 
+                        regard to that individual's benefits, 
+                        employment, or other personal matters involving 
+                        only that individual, except that this 
+                        subclause does not apply to any communication 
+                        with respect to the formulation, modification, 
+                        or adoption of private legislation for the 
+                        relief of that individual;
+                            (xvii) disclosures by an individual to the 
+                        appropriate authority on account of which that 
+                        individual is protected against adverse 
+                        personnel actions, or other reprisals, under 
+                        the amendments made by the Whistleblower 
+                        Protection Act of 1989, the Inspector General 
+                        Act of 1978, or other provision of law;
+                            (xviii) made by a church, its integrated 
+                        auxiliary, a convention or association of 
+                        churches, or a religious order that is exempt 
+                        from filing a Federal income tax return under 
+                        paragraph (2)(A)(i) or (2)(A)(iii) of section 
+                        6033(a) of the Internal Revenue Code of 1986 if 
+                        the communication constitutes the free exercise 
+                        of religion or is for the purpose of protecting 
+                        the right to the free exercise of religion; and
+                            (xix) between--
+                                    (I) officials of a self-regulatory 
+                                organization recognized by Federal law, 
+                                and
+                                    (II) the Federal regulatory agency 
+                                with jurisdiction over such 
+                                organization,
+                        relating to the regulatory responsibilities of 
+                        such organization under such law.
+                The term ``media organization'', as used in clause 
+                (ii), means an organization engaged in disseminating 
+                information to the general public through a newspaper, 
+                magazine, other publication, radio, television, cable 
+                television, or other medium of mass communication.
+            (11) Lobbyist.--The term ``lobbyist'' means any individual 
+        who is employed or retained by a client for financial or other 
+        compensation for services that include one or more lobbying 
+        contacts, other than an individual whose lobbying activities 
+        constitute less than 10 percent of the time engaged in the 
+        services provided by such individual to that client.
+            (12) Organization.--The term ``organization'' means any 
+        corporation, company, foundation, association, labor 
+        organization, firm, partnership, society, joint stock company, 
+        or group of organizations.
+            (13) Public official.--The term ``public official'' means 
+        any elected official, appointed official, or an employee of--
+                    (A) a Federal, State, or local unit of government 
+                in the United States other than--
+                            (i) a college or university which is an 
+                        agency or instrumentality of the government of 
+                        any State or of a local unit of government 
+                        thereof, or which is owned or operated by such 
+                        a government or by any agency or 
+                        instrumentality of one or more such 
+                        governments;
+                            (ii) a government-sponsored enterprise as 
+                        defined in section 3(8) of the Congressional 
+                        Budget and Impoundment Control Act of 1974; or
+                            (iii) a public utility, including any 
+                        entity that provides gas, electricity, water, 
+                        or communications, which is an agency or 
+                        instrumentality of the government of any State 
+                        or States or of a local unit of government of a 
+                        State or which is owned, controlled, or 
+                        operated by such a government or by any agency 
+                        or instrumentality of one or more such 
+                        governments;
+                    (B) a Government corporation (as defined in section 
+                9101 of title 31, United States Code);
+                    (C) an organization of State or local elected or 
+                appointed officials other than officials of an entity 
+                described in clause (i), (ii), or (iii) of subparagraph 
+                (A);
+                    (D) an Indian tribe (as defined in section 4(e) of 
+                the Indian Self-Determination and Education Assistance 
+                Act (25 U.S.C. 450b(e)),
+                    (E) a national or State political party or any 
+                organizational unit thereof, or
+                    (F) a national, regional, or local unit of any 
+                foreign government.
+            (14) The term ``State'' means each of the several States, 
+        the District of Columbia, and any commonwealth territory, or 
+        possession of the United States.
+
+SEC. 4. REGISTRATION OF LOBBYISTS.
+
+    (a) Registration.--
+            (1) General rule.--Not later than 30 days after a lobbyist 
+        first makes a lobbying contact or is employed or retained to 
+        make a lobbying contact, whichever is earlier, such lobbyist 
+        (or, as provided under paragraph (2), the organization 
+        employing such lobbyist), shall register with the Office of 
+        Lobbying Registration and Public Disclosure.
+            (2) Organization rule.--Any organization that has one or 
+        more employees who are lobbyists shall make the registration 
+        required by paragraph (1) on behalf of such employees.
+            (3) Exemption.--
+                    (A) General rule.--Notwithstanding paragraph (1) or 
+                (2), an individual or organization whose--
+                            (i) total income for matters related to 
+                        lobbying activities on behalf of a particular 
+                        client (in the case of a lobbyist making 
+                        lobbying contacts on behalf of a client other 
+                        than the organization employing such lobbyist), 
+                        or
+                            (ii) total expenses in connection with 
+                        lobbying activities (in the case of a lobbyist 
+                        making lobbying contacts on behalf of the 
+                        organization employing such lobbyist),
+                do not exceed, or are not expected to exceed $2,500 (as 
+                estimated under section 5) in the semiannual period 
+                described in section 5(a) during which the registration 
+                would be made is not required to register under 
+                subsection (a) with respect to such client.
+                    (B) Adjustment.--The $2,500 figure in subparagraph 
+                (A) shall be adjusted--
+                            (i) on January 1, 1997, to reflect changes 
+                        in the Consumer Price Index (as determined by 
+                        the Secretary of Labor) since the date of the 
+                        enactment of this Act, and
+                            (ii) on January 1 of each fourth year 
+                        occurring after January 1, 1997, to reflect 
+                        changes in the Consumer Price Index (as 
+                        determined by the Secretary of Labor) during 
+                        the preceding 4-year period,
+                rounded to the nearest $100.
+    (b) Contents of Registration.--Each registration under this section 
+shall be in such form as the Director shall prescribe by regulation and 
+shall contain--
+            (1) the name, address, business telephone number, and 
+        principal place of business of the registrant, and a general 
+        description of its business or activities;
+            (2) the name, address, and principal place of business of 
+        the registrant's client, and a general description of its 
+        business or activities (if different from paragraph (1));
+            (3) the name, address, and principal place of business of 
+        any organization, other than the client, that--
+                    (A) contributes or has agreed to contribute more 
+                than $5,000 toward the lobbying activities of the 
+                registrant in the semiannual period described in 
+                section 5(a) in which the registration is made; and
+                    (B) significantly participates or has agreed to 
+                participate significantly in the planning, supervision, 
+                or control of such lobbying activities;
+            (4) the name, address, principal place of business, amount 
+        of any contribution of more than $5,000 to the lobbying 
+        activities of the registrant, and approximate percentage of 
+        equitable ownership in the client (if any) of any foreign 
+        entity that--
+                    (A) holds at least 20 percent equitable ownership 
+                in the client or any organization identified under 
+                paragraph (3);
+                    (B) directly or indirectly, in whole or in major 
+                part, plans, supervises, controls, directs, finances, 
+                or subsidizes the lobbying activities of the 
+                registrant; or
+                    (C) is an affiliate of the client or any 
+                organization identified under paragraph (3) and has a 
+                direct interest in the outcome of the lobbying 
+                activity;
+            (5) the name, address, and principal place of business of 
+        any person or organization retained by the registrant (other 
+        than an employee of the registrant) to conduct grass roots 
+        lobbying communications on behalf of the registrant or the 
+        client of the registrant (other than a person or organization 
+        that is separately registered under this Act in connection with 
+        such representation);
+            (6) a statement of--
+                    (A) the general issue areas in which the registrant 
+                expects to engage in lobbying activities on behalf of 
+                the client, and
+                    (B) to the extent practicable, specific issues that 
+                have (as of the date of the registration) already been 
+                addressed or are likely to be addressed in lobbying 
+                activities; and
+            (7) the name of each employee of the registrant who has 
+        acted or whom the registrant expects to act as a lobbyist on 
+        behalf of the client and, if any such employee has served as a 
+        covered executive branch official or a covered legislative 
+        branch official in the 2 years before the date on which such 
+        employee was first required to register as a lobbyist on behalf 
+        of the client, the position in which such employee served.
+    (c) Guidelines for Registration.--
+            (1) Multiple clients.--In the case of a registrant making 
+        lobbying contacts on behalf of more than one client, a separate 
+        registration under this section shall be filed for each such 
+        client.
+            (2) Multiple lobbyists.--Any organization that has one or 
+        more employees who are lobbyists shall file a single 
+        registration under this section for each client on whose behalf 
+        its employees act as lobbyists covering all lobbying contacts 
+        made by such employees on behalf of such client.
+            (3) Multiple contacts.--If a registrant makes another 
+        lobbying contact for the same client with a covered executive 
+        branch official or covered legislative branch official, such 
+        contact will not require another registration under paragraph 
+        (1).
+    (d) Termination of Registration.--A registrant who after 
+registration does not--
+            (1) engage in any lobbying activities in a semiannual 
+        reporting period on behalf of the client with respect to which 
+        the registrant registered, and
+            (2) anticipate any additional lobbying activities for such 
+        client in the 12-month period following such reporting period,
+shall notify the Director of the termination of such activities and 
+shall not be required to file any additional reports with respect to 
+such client under this section.
+
+SEC. 5. REPORTS BY REGISTERED LOBBYISTS.
+
+    (a) Semiannual Report.--
+            (1) In general.--No later than 30 days after the end of the 
+        semiannual period beginning on the first day of each January 
+        and the first day of July of each year in which a registrant is 
+        registered under section 4, each registrant shall file a report 
+        with the Office of Lobbying Registration and Public Disclosure 
+        on its lobbying activities during such semiannual period. A 
+        separate report shall be filed for each client of the 
+        registrant.
+            (2) Exemption.--
+                    (A) Income or expenses of less than $2,500.--Any 
+                registrant whose--
+                            (i) total income for a particular client 
+                        for matters that are related to lobbying 
+                        activities on behalf of that client (in the 
+                        case of a registrant described in subsection 
+                        (b)(3)), or
+                            (ii) total expenses in connection with 
+                        lobbying activities (in the case of a 
+                        registrant described in subsection (b)(4)),
+                are less than $2,500 in a semiannual period (as 
+                estimated under paragraph (3) or (4) of subsection (b), 
+                or paragraph (3) of subsection (c), as applicable) is 
+                deemed to be inactive during such period and may comply 
+                with the reporting requirements of this section by so 
+                notifying the Director in such form as the Director may 
+                prescribe.
+                    (B) Adjustment.--The $2,500 figure in subparagraph 
+                (A) shall be adjusted as provided in section 
+                4(a)(3)(B).
+    (b) Contents of Report.--Each semiannual report filed under 
+subsection (a) shall be in such form as the Director shall prescribe by 
+regulation and shall contain--
+            (1) the name of the registrant, the name of the client, and 
+        any changes or updates to the information provided in the 
+        initial registration;
+            (2) for each general issue area in which the registrant 
+        engaged in lobbying activities on behalf of the client during 
+        the semiannual filing period--
+                    (A) a list of the specific issues upon which the 
+                registrant engaged in lobbying activities, including, 
+                to the maximum extent practicable, a list of bill 
+                numbers and references to specific regulatory actions, 
+                programs, projects, contracts, grants, and loans;
+                    (B) a statement of the Houses and committees of 
+                Congress and the Federal agencies contacted by 
+                lobbyists employed by the registrant on behalf of the 
+                client during the semiannual filing period;
+                    (C) a list of the employees of the registrant who 
+                acted as lobbyists on behalf of the client;
+                    (D) a description of the interest in the specific 
+                issues, if any, of any foreign entity identified under 
+                section 4(b)(4); and
+                    (E) a list of the specific issues on which any 
+                person or organization required to be identified under 
+                section 4(b)(5) has engaged in grassroots lobbying 
+                communications on behalf of the client;
+            (3) in the case of a registrant engaged in lobbying 
+        activities on behalf of a client other than the registrant, a 
+        good faith estimate of the total amount of all income from the 
+        client (including any payments to the registrant by any other 
+        person for lobbying activities on behalf of the client) during 
+        the semiannual period, other than income for matters that are 
+        unrelated to lobbying activities;
+            (4) in the case of a registrant engaged in lobbying 
+        activities on its own behalf, a good faith estimate of the 
+        total expenses that the registrant and its employees incurred 
+        in connection with lobbying activities during the semiannual 
+        filing period; and
+            (5) a good faith estimate of the total expenses that the 
+        registrant and its employees incurred in connection with 
+        grassroots lobbying communications on behalf of the client 
+        (including any amount paid in connection with such 
+        communications to a person or organization required to be 
+        identified under section 4(b)(5)).
+    (c) Estimates of Income or Expenses.--For purposes of this section, 
+estimates of income or expenses shall be made as follows:
+            (1) $200,000 or less.--Income or expenses of $200,000 or 
+        less shall be estimated in accordance with the following 
+        categories:
+                    (A) At least $2,500 but not more than $10,000.
+                    (B) More than $10,000 but not more than $20,000.
+                    (C) More than $20,000 but not more than $50,000.
+                    (D) More than $50,000 but not more than $100,000.
+                    (E) More than $100,000 but not more than $200,000.
+            (2) More than $200,000.--Income or expenses in excess of 
+        $200,000 shall be estimated and rounded to the nearest 
+        $100,000.
+            (3) Estimates based on tax reporting system.--In the case 
+        of any registrant that reports lobbying expenditures as 
+        required by section 6033 of the Internal Revenue Code of 1986, 
+        regulations prescribed under section 7 of this Act shall 
+        provide that the registrant may make a good faith estimate of 
+        amounts that would be required to be disclosed under such 
+        section of the Internal Revenue Code of 1986 for the applicable 
+        semiannual period (by category of dollar value) to meet the 
+        requirements of subsection (b)(4), if each time the registrant 
+        makes such an estimate, the registrant informs the Director 
+        that the registrant is making such an estimate.
+            (4) Construction.--In estimating total income or expenses 
+        under this section, a registrant is not required to include--
+                    (A) the value of contributed services for which no 
+                payment is made; or
+                    (B) the expenses for services provided by an 
+                independent contractor of the registrant who is 
+                separately registered under this Act.
+    (d) Contacts.--
+            (1) Contacts considered contacts with committees.--For 
+        purposes of subsection (b)(2), any contact with a member of a 
+        committee of Congress, an employee of a committee of Congress, 
+        or an employee of a member of a committee of Congress regarding 
+        a matter within the jurisdiction of such committee shall be 
+        considered a contact with the committee.
+            (2) Contacts considered contacts with house of congress.--
+        For purposes of subsection (b)(2), any contact with a Member of 
+        Congress or an employee of a Member of Congress regarding a 
+        matter which is not within the jurisdiction of a committee of 
+        Congress of which that Member is a member shall be considered a 
+        contact with the House of Congress of that Member.
+            (3) Contacts considered contacts with federal agencies.--
+        For purposes of subsection (b)(2), any contact with a covered 
+        executive branch official shall be considered a contact with 
+        the Federal agency that employs that official.
+    (e) Extension for Filing.--The Director may grant an extension of 
+time of not more than 30 days for the filing of any report under this 
+section, upon the request of the registrant, for good cause shown.
+
+SEC. 6. PROHIBITION ON GIFTS, MEALS, TRAVEL, ENTERTAINMENT, 
+              REIMBURSEMENTS, AND LOANS; ITEMIZATION OF CERTAIN 
+              EXPENDITURES
+
+    (a) In General.--
+            (1) Registrants and lobbyists.--In accordance with this 
+        section, each registrant (including a lobbyist employed by, or 
+        a lobbyist who is a member of, a registrant) or any client of a 
+        registrant shall be--
+                    (A) prohibited from providing, directly or 
+                indirectly, gifts, meals, travel, entertainment, 
+                reimbursements, and loans described in subsection (b), 
+                and
+                    (B) required to make an itemized disclosure of 
+                expenditures described in subsection (c) and provided, 
+                directly or indirectly,
+        to a covered legislative branch official, to an entity that is 
+        maintained or controlled by a covered legislative branch 
+        official, or to any other person or entity on behalf of a 
+        covered legislative branch official (collectively referred to 
+        in this subsection as a ``covered person or entity'').
+            (2) Foreign lobbyists.--For purposes of this section, a 
+        registrant or any client of a registrant shall include a 
+        foreign principal (as defined in section 1(b) of the Foreign 
+        Agents Registration Act) and an agent of a foreign principal 
+        (as defined in section 1(c) of such Act).
+    (b) Prohibition.--A registrant (including a lobbyist) or any client 
+of a registrant may not provide, directly or indirectly (with funds of 
+a registrant or a client), to or on behalf of or for a covered person 
+or entity:
+            (1) Travel, entertainment, food, and lodging.--Payment for 
+        local or long-distance transportation, entertainment, food, or 
+        lodging, whether provided in kind, by purchase of a ticket, by 
+        payment in advance or by reimbursement, or otherwise.
+            (2) Reimbursement.--Reimbursement of an expense.
+            (3) Loan.--A loan.
+            (4) Gifts.--Any other item of value.
+    (c) Disclosure.--With respect to expenditures described in this 
+subsection, the prohibitions prescribed by subsection (b) with respect 
+to an expenditure will not apply to a registrant or any client of a 
+registrant if the registrant discloses the expenditure of the 
+registrant or the client, in the registrant's semiannual report under 
+section 5(a) or in a separate report on itemized expenditures subject 
+to the same filing requirements, as follows:
+            (1) In general.--With respect to each expenditure described 
+        in paragraph (2), the registrant shall disclose--
+                    (A) the name and position of the covered 
+                legislative branch official or other covered person or 
+                entity to whom or which or on behalf of whom or which 
+                the expenditure was made;
+                    (B) the type of the expenditure;
+                    (C) the date on which the expenditure was made; and
+                    (D) the amount of the expenditure.
+            (2) Expenditures subject to disclosure.--The following 
+        expenditures are subject to disclosure under paragraph (1):
+                    (A) Necessary travel-related expenditures made by a 
+                registrant described in section 5(b)(4) or a client of 
+                a registrant described in section 5(b)(3) for a covered 
+                legislative branch official or a person on behalf of 
+                such an official in connection with speaking 
+                engagements, fact finding trips, substantial 
+                participation in an event sponsored by an entity 
+                described in section 170(c) or 527(e) of the Internal 
+                Revenue Code of 1986, and similar events if the 
+                expenditure covers the costs of a trip for a period of 
+                not more than--
+                            (i) 4 consecutive days in the case of 
+                        domestic travel and 7 consecutive days 
+                        (excluding travel days) in the case of 
+                        international travel, and
+                            (ii) 24 hours before or after such person's 
+                        actual participation in the event in the case 
+                        of domestic travel or 48 hours before or after 
+                        such person's actual participation in the event 
+                        in the case of international travel.
+                Necessary travel-related expenditures include 
+                reimbursements for necessary transportation whether or 
+                not such transportation occurs within the periods 
+                described in clause (i) or (ii), but does not include 
+                expenditures for travel, lodging, or entertainment 
+                collateral to the event or meals taken other than in a 
+                group setting to which all other attendees are invited.
+                    (B) Honorary degrees and associated meals and 
+                entertainment provided to a covered person or entity.
+                    (C) Food, refreshment, or entertainment provided a 
+                covered person or entity while attending a meeting or 
+                event with persons who are not United States citizens 
+                while on official travel to a foreign area.
+            (3) Conferences.--With respect to each financial 
+        contribution or expenditure relating to a conference, retreat, 
+        or similar event for or on behalf of covered legislative branch 
+        officials which is sponsored by or affiliated with an official 
+        congressional organization, the registrant shall disclose--
+                    (A) the nature of the conference, retreat, or 
+                similar event;
+                    (B) the date or dates on which the conference, 
+                retreat, or other event occurred;
+                    (C) the identity of the organization that sponsored 
+                or is affiliated with the event; and
+                    (D) a single aggregate figure for the contributions 
+                or expenditures made by the registrant or client of the 
+                registrant in connection with the conference, retreat, 
+                or similar event.
+            (4) Events.--With respect to each financial contribution or 
+        expenditure that relates to a widely attended event that is 
+        hosted or cohosted with, or in honor of, 1 or more covered 
+        legislative branch officials, the registrant shall disclose--
+                    (A) the name and position of each such covered 
+                legislative branch official that hosted, cohosted, or 
+                was honored at such event
+                    (B) the nature of the event;
+                    (C) the date on which the event occurred; and
+                    (D) a single aggregate figure for the contributions 
+                or expenditures made by the registrant in connection 
+                with the event.
+            (5) Charitable contributions.--With respect to each 
+        charitable contribution (as defined in section 170(c) of the 
+        Internal Revenue Code of 1986) made in lieu of an honorarium on 
+        the basis of a designation, recommendation, or other 
+        specification made by a covered legislative branch official, 
+        the registrant shall disclose--
+                    (A) the name and position of each such covered 
+                legislative branch official;
+                    (B) the name of any covered person or entity to 
+                whom or which the contribution was made;
+                    (C) the date on which the contribution was made; 
+                and
+                    (D) the value of the contribution.
+            (6) Contributions to legal defense fund.--With respect to 
+        each contribution or other payment made to a legal defense fund 
+        established for the benefit of a covered legislative branch 
+        official, the registrant shall disclose--
+                    (A) the name and position of each such covered 
+                legislative branch official;
+                    (B) the name of any other person or entity to whom 
+                or which the contribution was made;
+                    (C) the date on which the contribution was made; 
+                and
+                    (D) the value of the contribution.
+            (7) Notification.--Not less than 3 weeks after an 
+        expenditure required to be reported under this subsection is 
+        made, the registrant or any client of a registrant who made or 
+        for whom was made such expenditure shall provide, in a standard 
+        format determined by the Office of Lobbying Registration and 
+        Public Disclosure, to any covered person or entity, whose name 
+        the registrant or client intends for the registrant to include 
+        in either the registrant's semiannual report under section 5(a) 
+        or a separate report on itemized expenditures under this 
+        subsection, a complete list of the information the registrant 
+        intends to disclose relative to that covered person or entity. 
+        The registrant shall not list in its report referred to in this 
+        paragraph any information relative to a covered person or 
+        entity who--
+                    (A) was not the subject of the expenditure referred 
+                to in the preceding sentence, or
+                    (B) reimburses the person making such expenditure 
+                the full amount of such expenditure within 30 days of 
+                the receipt of notification under this paragraph.
+    (d) Exceptions.--The following are not subject to subsection (b) or 
+(c):
+            (1) Anything for which market value is paid by the 
+        recipient.
+            (2) A contribution, as defined in the Federal Election 
+        Campaign Act of 1971 (2 U.S.C. 431 et seq.) that is lawfully 
+        made under that Act.
+            (3) An item of little intrinsic value such as a greeting 
+        card, baseball cap, or a T-shirt or a personalized item such as 
+        a plaque, certificate, or trophy that is intended solely for 
+        recognition of a covered legislative branch official.
+            (4) Food and attendance provided to a covered person or 
+        entity at an event sponsored by an organization described in 
+        section 170(c) or 527(e) of the Internal Revenue Code of 1986.
+            (5)(A) An item described in subsection (b) (hereafter in 
+        this paragraph referred to as an ``item'') given under 
+        circumstances which make it clear that the item is given for a 
+        nonbusiness purpose and is motivated by a family relationship 
+        or personal friendship and not by the position of the 
+        recipient. In determining if the giving of an item is motivated 
+        by a family relationship or personal friendship, at least the 
+        following factors shall be considered:
+                    (i) The history of the relationship between the 
+                individual giving the item and the individual receiving 
+                the item, including whether or not items have 
+                previously been exchanged by such individuals.
+                    (ii) Whether the item was purchased by the 
+                individual who gave the item.
+                    (iii) Whether the individual who gave the item also 
+                at the same time gave the same or similar item to other 
+                covered persons or entities.
+            (B) The giving of an item shall not be considered to be 
+        motivated by a family relationship or personal friendship if 
+        the family member or friend seeks--
+                    (i) to deduct the value of such item as a business 
+                expense on the family member's or friend's Federal 
+                income tax return, or
+                    (ii) reimbursement either from a registrant or from 
+                a client.
+            (6) Items which are not used and which are promptly 
+        returned to the donor.
+            (7) Except with respect to items described in subsection 
+        (c)--
+                    (A) attendance, food, and refreshments at widely 
+                attended gatherings, including conventions, 
+                conferences, symposiums, retreats, dinners, receptions, 
+                viewings, or similar events if such attendance, food, 
+                and refreshments are unsolicited by the recipient and 
+                provided by the sponsor of the event,
+                    (B) meals or entertainment that are unsolicited by 
+                the recipient and not paid for either directly or 
+                indirectly (including with funds of a registrant or 
+                client) by a lobbyist or an agent of a foreign 
+                principal (as defined in section 1(c) of the Foreign 
+                Agents Registration Act) and not paid for either 
+                directly or indirectly by a registrant described in 
+                section 5(b)(3), if an employee (other than a lobbyist) 
+                of--
+                            (i) a registrant described in section 
+                        5(b)(4), or
+                            (ii) a client of a registrant described in 
+                        section 5(b)(3),
+                acting in a representational capacity, substantially 
+                participates in the meal or entertainment, and
+                    (C) modest items of food or refreshment such as 
+                soft drinks, coffee, or doughnuts offered other than as 
+                part of a meal.
+            (8) Rewards and prizes given to competitors in contests or 
+        events, including random drawings open to the public.
+            (9) Loans from financial institutions on terms generally 
+        available to the public.
+            (10) Opportunities and benefits, including favorable rates 
+        and commercial discounts, available to the public or to a class 
+        consisting of all Government employees whether or not 
+        restricted on the basis of geographical considerations.
+            (11) Pension and other benefits resulting from continued 
+        participation in an employee welfare and benefits plan 
+        maintained by a former employer.
+            (12) Anything which is paid for by the Government or 
+        secured by the Government under Government contract.
+            (13) Any gift accepted under specific statutory authority 
+        except section 901 of the Ethics Reform Act of 1989 (2 U.S.C. 
+        31-2).
+            (14) Reduced membership or other fees for participation in 
+        organizational activities offered to all Government employees 
+        by professional organizations if the only restrictions on 
+        membership relate to professional qualifications.
+            (15) Opportunities and benefits offered to members of a 
+        group or class in which membership is unrelated to 
+        congressional employment.
+            (16) Opportunities and benefits offered to members of an 
+        organization, such as credit unions, in which membership is 
+        related to congressional employment if similar benefits are 
+        broadly available to large segments of the public through 
+        organizations of similar size.
+            (17) Gifts resulting from the covered legislative branch 
+        official's outside business or employment activities when it is 
+        clear that such benefits have not been offered or enhanced 
+        because of the covered legislative branch official's official 
+        status.
+            (18) Gifts resulting from the business or employment 
+        activities of a covered legislative branch official's spouse 
+        when it is clear that such benefits have not been offered or 
+        enhanced because of the covered legislative branch official's 
+        official position.
+            (19) Informational materials that are sent to a covered 
+        legislative branch official's office in the form of books, 
+        articles, periodicals, other written materials, audio tapes, 
+        videotapes, or other forms of communication.
+            (20) Home State products, food, or other items of minimal 
+        value used primarily for promotional purposes.
+    (e) Definition.--For purposes of this section, the term ``market 
+value'' when applied to a gift means the retail cost a person would 
+incur to purchase the gift. The market value of a gift of a ticket 
+entitling the holder to food, refreshments, or entertainment is the 
+retail cost of similar food, refreshments, or entertainment.
+    (f) Clients.--
+            (1) Notice to clients.--A registrant described in section 
+        5(b)(3) shall by written notice inform any client of the 
+        registrant of the requirements of this section applicable to 
+        the client. Such notice shall be provided at the time the 
+        registrant registers on behalf of such client under section 4 
+        and at the beginning of each semiannual reporting period under 
+        section 5(a).
+            (2) Notice by clients.--If a client of a registrant makes 
+        an expenditure which such registrant will be required to report 
+        under subsection (c), the client shall promptly notify the 
+        registrant of such expenditure. Failure to provide such notice 
+        shall be considered to be a violation of this Act.
+    (g) House Rules.--Clause (4) of Rule XLIII of the Rules of the 
+House of Representatives is amended by adding at the end the following: 
+``A Member, officer, or employee of the House of Representatives shall 
+not accept a gift given by a lobbyist or registrant subject to the 
+Lobbying Disclosure Act of 1994 in knowing violation of that Act.''.
+
+SEC. 7. ESTABLISHMENT AND DUTIES OF OFFICE OF LOBBYING REGISTRATION AND 
+              PUBLIC DISCLOSURE.
+
+    (a)  Establishment.--
+            (1) Office and director.--There is established as an 
+        independent agency in the executive branch an Office of 
+        Lobbying Registration and Public Disclosure, which shall be 
+        headed by a Director. The Director shall be appointed by the 
+        President, by and with the advice and consent of the Senate. 
+        The Director shall be an individual who, by demonstrated 
+        ability, background, training, and experience, is especially 
+        qualified to carry out the functions of the position. The term 
+        of service of the Director shall be 5 years.
+            (2) Compensation.--Section 5316 of title 5, United States 
+        Code, is amended by adding at the end thereof the following:
+            ``Director of the Office of Lobbying Registration and 
+        Public Disclosure.''.
+            (3) Employees and services.--The Director may--
+                    (A) appoint officers and employees, including 
+                attorneys, in accordance with chapter 51 and subchapter 
+                III of chapter 53 of title 5, United States Code; and
+                    (B) contract for financial and administrative 
+                services (including those related to budget and 
+                accounting, financial reporting, personnel, and 
+                procurement) with the General Services Administration 
+                or such other Federal agency as the Director determines 
+                appropriate, for which payment shall be made in advance 
+                or by reimbursement from funds of the Office in such 
+                amounts as may be agreed upon by the Director and the 
+                head of the agency providing such services.
+        Contract authority under subparagraph (B) shall be effective 
+        for any fiscal year only to the extent that appropriations are 
+        available for that purpose.
+    (b) Duties.--The Director of the Office of Lobbying Registration 
+and Public Disclosure shall--
+            (1) after notice and a reasonable opportunity for public 
+        comment, and consultation with the Secretary of the Senate, the 
+        Clerk of the House of Representatives, and the Administrative 
+        Conference of the United States, prescribe such regulations, 
+        forms, and penalty schedules as are necessary to carry out this 
+        Act;
+            (2) provide guidance and assistance on the registration and 
+        reporting requirements of this Act, including the issuance of 
+        published decisions and advisory opinions;
+            (3) review the registrations and reports filed under this 
+        Act and make such verifications or inquiries as are necessary 
+        to ensure the completeness, accuracy, and timeliness of the 
+        registrations and reports;
+            (4) develop filing, coding, and cross-indexing systems to 
+        carry out the purposes of this Act, including computerized 
+        systems designed to minimize the burden of filing and maximize 
+        public access to materials filed under this Act;
+            (5) ensure that the computer systems developed pursuant to 
+        paragraph (4)--
+                    (A) allow the materials filed under this Act to be 
+                accessed by client name, lobbyist name, and registrant 
+                name;
+                    (B) are compatible with computer systems developed 
+                and maintained by the Federal Election Commission, and 
+                that information filed in the two systems can be 
+                readily cross-referenced; and
+                    (C) are compatible with computer systems developed 
+                and maintained by the Secretary of the Senate and the 
+                Clerk of the House of Representatives;
+            (6) make copies of each registration and report filed under 
+        this Act available to the public, upon the payment of 
+        reasonable fees, not to exceed the cost of such copies, as 
+        determined by the Director, in electronic and hard copy formats 
+        as soon as practicable after the date on which such 
+        registration or report is received;
+            (7) preserve the originals or accurate reproduction of--
+                    (A) registrations filed under this Act, and
+                    (B) of reports filed under this Act,
+        for a period of not less than 3 years from the date on which 
+        the registration or report is received;
+            (8) maintain a computer record of--
+                    (A) the information contained in registrations, and
+                    (B) the information contained in reports filed 
+                under this Act for not less than 5 years after the date 
+                on which such reports are received;
+            (9) compile and summarize, with respect to each semiannual 
+        period, the information contained in registrations and reports 
+        filed with respect to such period in a manner which clearly 
+        presents the extent and nature of expenditures on lobbying 
+        activities during such period;
+            (10) make information compiled and summarized under 
+        paragraph (9) available to the public in electronic and hard 
+        copy formats as soon as practicable after the close of each 
+        semiannual filing period;
+            (11) provide, by computer telecommunication or other 
+        transmittal in a form accessible by computer, to the Secretary 
+        of the Senate and the Clerk of the House of Representatives 
+        copies of all registrations and reports received under sections 
+        4 and 5 and all compilations, cross-indexes, and summaries of 
+        such registrations and reports, as soon as practicable (but not 
+        later than 3 working days) after such material is received or 
+        created;
+            (12) make available to the public a list of all persons 
+        whom the Director determines, under section 9(c) or 10(c), to 
+        have violated this Act and submit such list to the Congress on 
+        a semiannual basis;
+            (13) upon request, indicate if an individual who may have 
+        been the subject of a lobbying contact is or has been within 3 
+        years before the date of the request a covered executive branch 
+        official or a covered legislative branch official; and
+            (14) transmit to the President and the Congress a report, 
+        not later than March 31 of each year, describing the activities 
+        of the Office and the implementation of this Act, including--
+                    (A) a financial statement for the preceding fiscal 
+                year;
+                    (B) a summary of the registrations and reports 
+                filed with the Office with respect to the preceding 
+                calendar year;
+                    (C) a summary of the registrations and reports 
+                filed on behalf of foreign entities with respect to the 
+                preceding calendar year; and
+                    (D) recommendations for such legislative or other 
+                action as the Director considers appropriate.
+
+SEC. 8. INITIAL PROCEDURE FOR ALLEGED VIOLATIONS.
+
+    (a) Allegation of a Violation.--Whenever the Office of Lobbying 
+Registration and Public Disclosure has reason to believe that a person 
+may be in violation of the requirements of this Act, the Director shall 
+notify the person in writing of the nature of the alleged violation and 
+provide an opportunity for the person to respond in writing to the 
+allegation within 30 days after the notification is sent or such longer 
+period as the Director may determine appropriate in the circumstances.
+    (b) Initial Determination.--If the person responds within the 
+period described in the notification under subsection (a), the Director 
+shall--
+            (1) issue a written determination that the person has not 
+        violated this Act if the person provides adequate information 
+        or explanation to make such determination; or
+             (2) make a formal request for information under subsection 
+        (c) or a determination under section 9, if the information or 
+        explanation provided indicates that such person may have 
+        violated this Act.
+A determination under paragraph (1) may be published by the Director 
+with the names redacted if the Director determines the determination 
+without the names provides useful guidance.
+    (c) Formal Request for Information.--If a person fails to respond 
+in writing within the period described in the notification under 
+subsection (a) or the response is not adequate to determine whether 
+such person has violated this Act, the Director may make a formal 
+request for specific additional written information (subject to 
+applicable privileges) that is reasonably necessary for the Director to 
+make such determination. Each such request shall be structured to 
+minimize any burden imposed, consistent with the need to determine 
+whether the person is in compliance with this Act, and shall--
+            (1) state the nature of the conduct constituting the 
+        alleged violation which is the basis for the inquiry and the 
+        provision of law applicable thereto;
+            (2) describe the class or classes of material to be 
+        produced pursuant to the request with such definiteness and 
+        certainty as to permit such material to be readily identified; 
+        and
+            (3) prescribe a return date or dates which provide a 
+        reasonable period of time within which the person may assemble 
+        and make available for inspection and copying or reproduction 
+        the material so requested.
+    (d) Nondisclosure of Information.--Information provided to the 
+Director under this section and sections 9 and 10 shall not be made 
+available to the public without the consent of the person providing the 
+information, except to the extent such information may be included in--
+            (1) any new or amended registration or report filed in 
+        connection with an inquiry under this section; or
+            (2) a written decision issued by the Director under section 
+        9 or 10 after appropriate redaction by the Director to protect 
+        the interests of innocent parties.
+
+SEC. 9. DETERMINATIONS OF VIOLATIONS.
+
+    (a) Notification and Hearing.--If the information provided to the 
+Director under section 8 indicates that a person may have violated this 
+Act, the Director shall--
+            (1) notify the person in writing of this finding and, if 
+        appropriate, a proposed penalty assessment and provide such 
+        person with an opportunity to respond in writing within 30 days 
+        after the notice is sent; and
+            (2) if requested in writing by that person within that 30-
+        day period, afford the person an opportunity for a hearing on 
+        the record under the provisions of section 554 of title 5, 
+        United States Code.
+    (b) Determination.--Upon the receipt of a written response under 
+subsection (a)(1) when no hearing under subsection (a)(2) is requested, 
+upon the completion of a hearing requested under subsection (a)(2), or 
+upon the expiration of 30 days in a case in which no such written 
+response is received, the Director shall review the information 
+received under this section (including evidence presented at any such 
+hearing) and section 8 and make a final determination whether there was 
+a violation and a final determination of the penalty, if any. If no 
+written response was received under this section within the 30-day 
+period provided, the determination and penalty assessment shall 
+constitute a final order not subject to appeal.
+    (c) Written Decision.--
+            (1) Determination of violation.--If the Director makes a 
+        final determination under subsection (b) that there was a 
+        violation, the Director shall issue a public written decision--
+                    (A) directing the person to correct the violation; 
+                and
+                    (B) assessing a civil monetary penalty in an amount 
+                determined as follows:
+                            (i) In the case of a minor violation, the 
+                        amount shall be no more than $10,000, depending 
+                        on the nature and extent of the violation.
+                            (ii) In the case of a significant 
+                        violation, the amount shall be more than 
+                        $10,000, but no more than $200,000, depending 
+                        on the nature and extent of the violation and 
+                        the extent to which the person may have 
+                        profited from the violation.
+            (2) Determination of no violation or insufficient 
+        Evidence.--If the Director determines that no violation 
+        occurred or there was not sufficient evidence that a violation 
+        occurred, the Director shall issue a written notice of such 
+        determination to the person charged. Such notice may be 
+        published by the Director with names redacted if the Director 
+        determines it provides useful guidance.
+    (d) Civil Injunctive Relief.--If a person fails to comply with a 
+directive to correct a violation under subsection (c), the Director 
+shall refer the case to the Attorney General to seek civil injunctive 
+relief in the appropriate court of the United States to compel such 
+person to comply with such directive.
+    (e) Penalty Assessments.--
+            (1) General rule.--No penalty shall be assessed under this 
+        section unless the Director finds that the person subject to 
+        the penalty knew or should have known that such person was in 
+        violation of this Act. In determining the amount of a penalty 
+        to be assessed, the Director shall take into account the 
+        totality of the circumstances, including the extent and gravity 
+        of the violation and such other matters as justice may require.
+            (2) Regulations.--Regulations prescribed by the Director 
+        under section 7 shall define minor and significant violations. 
+        Significant violations shall be defined to include a failure to 
+        register and any other violation that is extensive or repeated 
+        if the person who commits such violation knew or should have 
+        known that the action constituting the violation was a 
+        violation of this Act.
+    (f) Limitation.--No proceeding shall be initiated under this 
+section relating to a registration or report filed or required to be 
+filed under this Act unless the Director notifies the person who is to 
+be the subject to the proceeding of the alleged violation within 3 
+years after the date on which such registration or report was filed or 
+was required to be filed.
+
+SEC. 10. OTHER VIOLATIONS.
+
+    (a) Late Registration or Filing; Failure To Provide Information.--
+If a person registers or files a report after a registration or filing 
+is required under this Act, or fails to provide information requested 
+by the Director under section 8(c), the Director shall--
+            (1) notify the person in writing of the violation and a 
+        proposed penalty assessment and provide such person with an 
+        opportunity to respond in writing within 30 days after the 
+        notice is sent; and
+            (2) if requested by that person within that 30-day period, 
+        afford the person a hearing in accordance with section 9(a)(2).
+    (b) Determination.--Upon the receipt of a written response under 
+subsection (a)(1) when no hearing under subsection (a)(2) is requested, 
+upon the completion of a hearing requested under subsection (a)(2), or 
+upon the expiration of 30 days in a case in which no such written 
+response is received, the Director shall review the information 
+received under subsection (a) (including evidence presented at any such 
+hearing) and, unless the Director determines, on the basis of such 
+information, that the late filing or failure to provide information was 
+justified, the Director shall make a final determination of a violation 
+and a final determination of the penalty, if any. If no written 
+response or request for a hearing was received under subsection (a) 
+within the 30-day period provided, the determination and penalty 
+assessment shall constitute a final order not subject to appeal.
+    (c) Written Decision.--
+            (1) Determination of violation.--If the Director makes a 
+        final determination under subsection (b) that there was a 
+        violation, the Director shall issue a public written decision--
+                    (A) in the case of a late registration or filing, 
+                assessing a civil monetary penalty of $200 for each 
+                week by which the filing was late, with the total 
+                penalty not to exceed $10,000; or
+                    (B) in the case of a failure to provide 
+                information--
+                            (i) directing the person to provide the 
+                        information within a reasonable period of time; 
+                        and
+                            (ii) except where the Director determines 
+                        that the violation was the result of a good 
+                        faith dispute over the validity or appropriate 
+                        scope of a request for information, assessing a 
+                        civil monetary penalty in an amount not to 
+                        exceed $10,000.
+            (2) Determination of no violation or insufficient 
+        evidence.--If the Director determines that no violation 
+        occurred or there was not sufficient evidence that a violation 
+        occurred, the Director shall issue a written notice of such 
+        determination to the person charged. Such notice may be 
+        published by the Director with names redacted if the Director 
+        determines it provides useful guidance.
+    (d) Civil Injunctive Relief.--In the case of a person failing to 
+comply with a directive issued under subsection (c)(2)(A), the Director 
+shall refer such matter to the Attorney General, who shall seek civil 
+injunctive relief in the appropriate court of the United States to 
+compel such person to comply with such directive unless the Attorney 
+General finds no reasonable likelihood that the Government would 
+prevail.
+
+SEC. 11. JUDICIAL REVIEW.
+
+    (a) Final Decision.--A written decision issued by the Director 
+under section 9 or 10 shall become final 60 days after the date on 
+which the Director provides notice of the decision, unless such 
+decision is appealed under subsection (b) of this section.
+    (b) Appeal.--Any person adversely affected by a written decision 
+issued by the Director under section 9 or 10 may appeal such decision, 
+except as provided under section 9(b) or 10(b), to the appropriate 
+United States court of appeals. Such review may be obtained by filing a 
+written notice of appeal in such court no later than 60 days after the 
+date on which the Director provides notice of the Director's decision 
+and by simultaneously sending a copy of such notice of appeal to the 
+Director. The Director shall file in such court the record upon which 
+the decision was issued, as provided under section 2112 of title 28, 
+United States Code. The findings of fact of the Director shall be 
+conclusive, unless found to be unsupported by substantial evidence, as 
+provided under section 706(2)(E) of title 5, United States Code. Any 
+penalty assessed or other action taken in the decision shall be stayed 
+during the pendency of the appeal.
+    (c) Recovery of Penalty.--Any penalty assessed in a written 
+decision which has become final under this Act may be recovered in a 
+civil action brought by the Attorney General in an appropriate United 
+States district court. In any such action, no matter that was raised or 
+that could have been raised before the Director or pursuant to judicial 
+review under subsection (b) may be raised as a defense, and the 
+determination of liability and the determination of amounts of 
+penalties and assessments shall not be subject to review.
+
+SEC. 12. RULES OF CONSTRUCTION.
+
+    (a) Constitutional Rights.--Nothing in this Act shall be construed 
+to prohibit or interfere with--
+            (1) the right to petition the government for the redress of 
+        grievances,
+            (2) the right to express a personal opinion, or
+            (3) the right of association,
+protected by the First Amendment to the Constitution.
+    (b) Prohibition of Activities.--Nothing in this Act shall be 
+construed to prohibit, or to authorize the Director or any court to 
+prohibit lobbying activities or lobbying contacts by any person, 
+regardless of whether such person is in compliance with the 
+requirements of this Act.
+    (c) Audit and Investigations.--Nothing in this Act shall be 
+construed to grant general audit or investigative authority to the 
+Director, or to authorize the Director to review the files of a 
+registrant, except in accordance with the requirements of section 8.
+
+SEC. 13. AMENDMENTS TO THE FOREIGN AGENTS REGISTRATION ACT.
+
+    The Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et 
+seq.), is amended--
+            (1) in section 1--
+                    (A) by striking out subsection (j);
+                    (B) in subsection (o), by striking out ``the 
+                dissemination of political propaganda and any other 
+                activity which the person engaging therein believes 
+                will, or which he intends to, prevail upon, 
+                indoctrinate, convert, induce, persuade, or in any 
+                other way influence'' and inserting in lieu thereof 
+                ``any activity which the person engaging in believes 
+                will, or which he intends to, in any way influence'';
+                    (C) in subsection (p) by striking out the semicolon 
+                and inserting in lieu thereof a period; and
+                    (D) by striking out subsection (q);
+            (2) in section 3(g) (22 U.S.C. 613(g)), by striking out 
+        ``established agency proceedings, whether formal or informal.'' 
+        and inserting in lieu thereof ``judicial proceedings, criminal 
+        or civil law enforcement inquiries, investigations or 
+        proceedings, or agency proceedings required by statute or 
+        regulation to be conducted on the record.'';
+            (3) in section 3 (22 U.S.C. 613), by adding at the end the 
+        following:
+    ``(h) Any agent of a person described in section 1(b)(2) or an 
+entity described in section 1(b)(3) of this Act if the agent is 
+required to register and does register under the Lobbying Disclosure 
+Act of 1994 in connection with the agent's representation of such 
+person or entity.''.
+            (4) in section 4(a) (22 U.S.C. 614(a))--
+                    (A) by striking out ``political propaganda'' and 
+                inserting in lieu thereof ``informational materials''; 
+                and
+                    (B) by striking out ``and a statement, duly signed 
+                by or on behalf of such an agent, setting forth full 
+                information as to the places, times, and extent of such 
+                transmittal'';
+            (5) in section 4(b) (22 U.S.C. 614(b))--
+                    (A) in the matter preceding clause (i) by striking 
+                out ``political propaganda'' and inserting in lieu 
+                thereof ``informational materials''; and
+                    (B) by striking out ``(i) in the form of prints, 
+                or'' and all that follows through the end of the 
+                subsection and inserting in lieu thereof ``without 
+                placing in such informational materials a conspicuous 
+                statement that the materials are distributed by the 
+                agent on behalf of the foreign principal, and that 
+                additional information is on file with the Department 
+                of Justice, Washington, District of Columbia. The 
+                Attorney General may by rule define what constitutes a 
+                conspicuous statement for the purposes of this 
+                subsection.'';
+            (6) in section 4(c) (22 U.S.C. 614(c)), by striking out 
+        ``political propaganda'' and inserting in lieu thereof 
+        ``informational materials'';
+            (7) in section 6 (22 U.S.C. 616)--
+                    (A) in subsection (a), by striking out ``and all 
+                statements concerning the distribution of political 
+                propaganda'';
+                    (B) in subsection (b), by striking out ``, and one 
+                copy of every item of political propaganda''; and
+                    (C) in subsection (c), by striking out ``copies of 
+                political propaganda,'';
+            (8) in section 8 (22 U.S.C. 618)--
+                    (A) in subsection (a)(2), by striking out ``or in 
+                any statement under section 4(a) hereof concerning the 
+                distribution of political propaganda''; and
+                    (B) by striking out subsection (d); and
+            (9) in section 11 (22 U.S.C. 621), by striking out ``, 
+        including the nature, sources, and content of political 
+        propaganda disseminated or distributed''.
+
+SEC. 14. AMENDMENTS TO THE BYRD AMENDMENT.
+
+    (a) Revised Certification Requirements.--Section 1352(b) of title 
+31, United States Code, is amended--
+            (1) in paragraph (2), by striking out subparagraphs (A), 
+        (B), and (C) and inserting in lieu thereof the following:
+                    ``(A) the name of any registrant under the Lobbying 
+                Disclosure Act of 1994 who has made lobbying contacts 
+                on behalf of the person with respect to that Federal 
+                contract, grant, loan, or cooperative agreement; and
+                    ``(B) a certification that the person making the 
+                declaration has not made, and will not make, any 
+                payment prohibited by subsection (a).'';
+            (2) in paragraph (3), by striking out all that follows 
+        ``loan shall contain'' and inserting in lieu thereof ``the name 
+        of any registrant under the Lobbying Disclosure Act of 1994 who 
+        has made lobbying contacts on behalf of the person in 
+        connection with that loan insurance or guarantee.''; and
+            (3) by striking out paragraph (6) and redesignating 
+        paragraph (7) as paragraph (6).
+    (b) Removal of Obsolete Reporting Requirement.--Section 1352 of 
+title 31, United States Code, is further amended--
+            (1) by striking subsection (d); and
+            (2) by redesignating subsections (e), (f), (g), and (h) as 
+        subsections (d), (e), (f), and (g), respectively.
+
+SEC. 15. REPEAL OF CERTAIN LOBBYING PROVISIONS.
+
+    (a) Repeal of the Federal Regulation of Lobbying Act.--The Federal 
+Regulation of Lobbying Act (2 U.S.C. 261 et seq.) is repealed.
+    (b) Repeal of Provisions Relating to Housing Lobbyist Activities.--
+            (1) Section 13 of the Department of Housing and Urban 
+        Development Act (42 U.S.C. 3537b) is repealed.
+            (2) Section 536(d) of the Housing Act of 1949 (42 U.S.C. 
+        1490p(d)) is repealed.
+
+SEC. 16. CONFORMING AMENDMENTS TO OTHER STATUTES.
+
+    (a) Amendment to Competitiveness Policy Council Act.--Section 
+5205(e) of the Competitiveness Policy Council Act (15 U.S.C. 4804(e)) 
+is amended by inserting ``or a lobbyist for a foreign entity (as the 
+terms `lobbyist' and `foreign entity' are defined in section 3 of the 
+Lobbying Disclosure Act of 1994)'' after ``an agent for a foreign 
+principal''.
+    (b) Amendments to Title 18, United States Code.--Section 219(a) of 
+title 18, United States Code, is amended (1) by inserting ``or a 
+lobbyist required to register under the Lobbying Disclosure Act of 1994 
+in connection with the representation of a foreign entity, as defined 
+in section 3(7) of that Act'' after ``an agent of a foreign principal 
+required to register under the Foreign Agents Registration Act of 
+1938'', and (2) by striking out ``, as amended,''. Section 201(c)(1) of 
+such title is amended by inserting ``or rule or regulation issued 
+pursuant to section 7353(b) by the supervising ethics office as defined 
+in section 7353(d)(1) (A) through (E) of title 5'' after ``as provided 
+by law''.
+    (c) Amendment to Foreign Service Act of 1980.--Section 602(c) of 
+the Foreign Service Act of 1980 (22 U.S.C. 4002(c)) is amended by 
+inserting ``or a lobbyist for a foreign entity (as defined in section 
+3(7) of the Lobbying Disclosure Act of 1994)'' after ``an agent of a 
+foreign principal (as defined by section 1(b) of the Foreign Agents 
+Registration Act of 1938)''.
+
+SEC. 17. IDENTIFICATION OF FOREIGN CLIENT.
+
+    (a) Oral Lobbying Contact.--Any person who makes an oral lobbying 
+contact with a covered legislative branch official or a covered 
+executive branch official on behalf of a foreign client shall, on the 
+request of the official, identify the client on whose behalf the 
+lobbying contact was made, state that such client is considered a 
+foreign client under this section, and state whether such person is 
+registered on behalf of that client under section 4. Such person shall, 
+within one week of such lobbying contact, send to the covered 
+legislative branch official or the covered executive branch official 
+written confirmation of the information provided.
+    (b) Written Lobbying Contact.--Any person who makes a written 
+lobbying contact (including an electronic communication) with a covered 
+legislative branch official or a covered executive branch official on 
+behalf of a foreign client shall identify the client on whose behalf 
+the lobbying contact was made, state that such client is considered a 
+foreign client under this section, and state whether such person is 
+registered on behalf of that client under section 4.
+    (c) Definition.--For purposes of subsections (a) and (b), the term 
+``foreign client'' means a foreign entity as defined in section 3(7) or 
+any organization or combination of persons under United States or 
+foreign law if more than 50 percent of its members are foreign 
+entities, if more than 50 percent of the equitable ownership of the 
+organization or combination is held by foreign entities, or if more 
+than 50 percent of its financial support is provided by foreign 
+entities.
+
+SEC. 18. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated for each fiscal year such 
+sums as may be necessary to carry out this Act.
+
+SEC. 19. SEVERABILITY.
+
+    If any provision of this Act, or the application thereof, is held 
+invalid, the validity of the remainder of this Act and the application 
+of such provision to other persons and circumstances shall not be 
+affected thereby.
+
+SEC. 20. EFFECTIVE DATES AND INTERIM RULE.
+
+    (a) In General.--Except as otherwise provided in this section, the 
+provisions of this Act shall take effect 1 year after the date of the 
+enactment of this Act.
+    (b) Establishment of Office.--The provisions of sections 7 and 18 
+and the amendments made by section 16 shall take effect on the date of 
+the enactment of this Act.
+    (c) Repeals and Amendments.--The repeals and amendments made under 
+sections 13, 14, and 15 shall take effect as provided under subsection 
+(a), except that such repeals and amendments--
+            (1) shall not affect any proceeding or suit commenced 
+        before the effective date under subsection (a), and in all such 
+        proceedings or suits, proceedings shall be had, appeals taken, 
+        and judgments rendered in the same manner and with the same 
+        effect as if this Act had not been enacted; and
+            (2) shall not affect the requirements of Federal agencies 
+        to compile, publish, and retain information filed or received 
+        before the effective date of such repeals and amendments.
+    (d) Regulations.--Proposed regulations required to implement this 
+Act shall be published for public comment no later than 270 days after 
+the date of the enactment of this Act. No later than 1 year after the 
+date of the enactment of this Act, final regulations required to 
+implement this Act shall be published.
+    (e) Phase-in-Period.--No penalty shall be assessed by the Director 
+under section 9(e) for a violation of this Act, other than for a 
+violation of section 6, which occurs during the first semiannual 
+reporting period under section 5 after the effective date prescribed by 
+subsection (a).
+    (f) Interim Reporting Rule.--
+            (1) Rule.--For 3 years after the date of the enactment of 
+        this Act, any registrant engaged in lobbying activities on its 
+        own behalf that is denied a deduction for expenditures 
+        associated with such lobbying activities under section 162(e) 
+        of the Internal Revenue Code of 1986, may make a good faith 
+        estimate (by category of dollar value) of the amount of the 
+        deduction denied for the applicable semiannual period to meet 
+        the requirements of section 5(b)(4) of this Act. Each time a 
+        registrant elects to estimate lobbying expenditures pursuant to 
+        this paragraph, the registrant shall inform the Director that 
+        it is making such an estimate.
+            (2) Study.--Within 120 days of the filing of reports by 
+        registrants under section 5 in the second semiannual reporting 
+        period, the Comptroller General of the United States shall 
+        review reporting by registrants under paragraph (1) in such 
+        periods and report to the Congress--
+                    (A) the differences between the definition of 
+                lobbying activities in section 3 and the definition of 
+                lobbying expenditures in such section 162(e) as each 
+                are implemented by regulations;
+                    (B) the impact any such differences may have on the 
+                amounts reported by the registrants who elect to 
+                estimate lobbying expenditures pursuant to paragraph 
+                (1); and
+                    (C) any changes to this Act or to such section 
+                162(e) which the Comptroller General may recommend to 
+                harmonize the two definitions.
+    (g) Transitional Filing Requirement.--
+            (1) Simultaneous filing.--Subject to the provisions of 
+        paragraph (2), each registrant shall transmit simultaneously to 
+        the Secretary of the Senate and the Clerk of the House of 
+        Representatives an identical copy of each registration and 
+        report required to be filed under this Act.
+            (2) Sunset provision.--The simultaneous filing requirement 
+        under paragraph (1) shall be effective until such time as the 
+        Director, in consultation with the Secretary of the Senate and 
+        the Clerk of the House of Representatives, determines that the 
+        Office of Lobbying Registration and Public Disclosure is able 
+        to provide computer telecommunication or other transmittal of 
+        registrations and reports as required under section 7(b)(11).
+            (3) Implementation.--The Director, the Secretary of the 
+        Senate, and the Clerk of the House of Representatives shall 
+        take such actions as necessary to ensure that the Office of 
+        Lobbying Registration and Public Disclosure is able to provide 
+        computer telecommunication or other transmittal of 
+        registrations and reports as required under section 7(b)(11) on 
+        the effective date of this Act, or as soon thereafter as 
+        reasonably practicable.
+            Attest:
+
+
+
+
+
+
+                                                                 Clerk.
+S 349 EAH----2
+S 349 EAH----3
+S 349 EAH----4
+S 349 EAH----5

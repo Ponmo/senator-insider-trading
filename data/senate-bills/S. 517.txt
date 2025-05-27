@@ -1,0 +1,581 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Publishing Office]
+[S. 517 Reported in Senate (RS)]
+
+
+
+
+
+
+                                                        Calendar No. 65
+107th CONGRESS
+  1st Session
+                                 S. 517
+
+                          [Report No. 107-30]
+
+ To authorize funding the Department of Energy to enhance its mission 
+  areas through technology transfer and partnerships for fiscal years 
+               2002 through 2006, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 12, 2001
+
+ Mr. Bingaman (for himself, Mr. Domenici, Mrs. Murray, and Mr. Crapo) 
+introduced the following bill; which was read twice and referred to the 
+               Committee on Energy and Natural Resources
+
+                              June 5, 2001
+
+              Reported by Mr. Murkowski, without amendment
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To authorize funding the Department of Energy to enhance its mission 
+  areas through technology transfer and partnerships for fiscal years 
+               2002 through 2006, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``National Laboratories Partnership 
+Improvement Act of 2001''.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act--
+            (1) the term ``Department'' means the Department of Energy;
+            (2) the term ``departmental mission'' means any of the 
+        functions vested in the Secretary of Energy by the Department 
+        of Energy Organization Act (42 U.S.C. 7101 et seq.) or other 
+        law;
+            (3) the term ``institution of higher education'' has the 
+        meaning given such term in section 1201(a) of the Higher 
+        Education Act of 1965 (20 U.S.C. 1141(a));
+            (4) the term ``National Laboratory'' means any of the 
+        following institutions owned by the Department of Energy--
+                    (A) Argonne National Laboratory;
+                    (B) Brookhaven National Laboratory;
+                    (C) Idaho National Engineering and Environmental 
+                Laboratory;
+                    (D) Lawrence Berkeley National Laboratory;
+                    (E) Lawrence Livermore National Laboratory;
+                    (F) Los Alamos National Laboratory;
+                    (G) National Renewable Energy Laboratory;
+                    (H) Oak Ridge National Laboratory;
+                    (I) Pacific Northwest National Laboratory; or
+                    (J) Sandia National Laboratory;
+            (5) the term ``facility'' means any of the following 
+        institutions owned by the Department of Energy--
+                    (A) Ames Laboratory;
+                    (B) East Tennessee Technology Park;
+                    (C) Environmental Measurement Laboratory;
+                    (D) Fermi National Accelerator Laboratory;
+                    (E) Kansas City Plant;
+                    (F) National Energy Technology Laboratory;
+                    (G) Nevada Test Site;
+                    (H) Princeton Plasma Physics Laboratory;
+                    (I) Savannah River Technology Center;
+                    (J) Stanford Linear Accelerator Center;
+                    (K) Thomas Jefferson National Accelerator Facility;
+                    (L) Waste Isolation Pilot Plant;
+                    (M) Y-12 facility at Oak Ridge National Laboratory; 
+                or
+                    (N) other similar organization of the Department 
+                designated by the Secretary that engages in technology 
+                transfer, partnering, or licensing activities;
+            (6) the term ``nonprofit institution'' has the meaning 
+        given such term in section 4 of the Stevenson-Wydler Technology 
+        Innovation Act of 1980 (15 U.S.C. 3703(5));
+            (7) the term ``Secretary'' means the Secretary of Energy;
+            (8) the term ``small business concern'' has the meaning 
+        given such term in section 3 of the Small Business Act (15 
+        U.S.C. 632);
+            (9) the term ``technology-related business concern'' means 
+        a for-profit corporation, company, association, firm, 
+        partnership, or small business concern that--
+                    (A) conducts scientific or engineering research,
+                    (B) develops new technologies,
+                    (C) manufacturers products based on new 
+                technologies, or
+                    (D) performs technological services;
+            (10) the term ``technology cluster'' means a concentration 
+        of--
+                    (A) technology-related business concerns;
+                    (B) institutions of higher education; or
+                    (C) other nonprofit institutions,
+        that reinforce each other's performance through formal or 
+        informal relationships;
+            (11) the term ``socially and economically disadvantaged 
+        small business concerns'' has the meaning given such term in 
+        section 8(a)(4) of the Small Business Act (15 U.S.C. 
+        637(a)(4)); and
+            (12) the term ``NNSA'' means the National Nuclear Security 
+        Administration established by title XXXII of the National 
+        Defense Authorization Act for Fiscal Year 2000 (Public Law 106-
+        65).
+
+SEC. 3. TECHNOLOGY INFRASTRUCTURE PILOT PROGRAM.
+
+    (a) Establishment.--The Secretary, through the appropriate 
+officials of the Department, shall establish a Technology 
+Infrastructure Pilot Program in accordance with this section.
+    (b) Purpose.--The purpose of the program shall be to improve the 
+ability of National Laboratories or facilities to support departmental 
+missions by--
+            (1) stimulating the development of technology clusters that 
+        can support the missions of the National Laboratories or 
+        facilities;
+            (2) improving the ability of National Laboratories or 
+        facilities to leverage and benefit from commercial research, 
+        technology, products, processes, and services; and
+            (3) encouraging the exchange of scientific and 
+        technological expertise between National Laboratories or 
+        facilities and--
+                    (A) institutions of higher education,
+                    (B) technology-related business concerns,
+                    (C) nonprofit institutions, and
+                    (D) agencies of State, tribal, or local 
+                governments,
+        that can support the missions of the National Laboratories and 
+        facilities.
+    (c) Pilot Program.--In each of the first three fiscal years after 
+the date of enactment of this section, the Secretary may provide no 
+more than $10,000,000, divided equally, among no more than ten National 
+Laboratories or facilities selected by the Secretary to conduct 
+Technology Infrastructure Program Pilot Programs.
+    (d) Projects.--The Secretary shall authorize the Director of each 
+National Laboratory or facility designated under subsection (c) to 
+implement the Technology Infrastructure Pilot Program at such National 
+Laboratory or facility through projects that meet the requirements of 
+subsections (e) and (f).
+    (e) Program Requirements.--Each project funded under this section 
+shall meet the following requirements:
+            (1) Minimum participants.--Each project shall at a minimum 
+        include--
+                    (A) a National Laboratory or facility; and
+                    (B) one of the following entities--
+                            (i) a business,
+                            (ii) an institution of higher education,
+                            (iii) a nonprofit institution, or
+                            (iv) an agency of a State, local, or tribal 
+                        government.
+            (2) Cost sharing.--
+                    (A) Minimum amount.--Not less than 50 percent of 
+                the costs of each project funded under this section 
+                shall be provided from non-Federal sources.
+                    (B) Qualified funding and resources.--
+                            (i) The calculation of costs paid by the 
+                        non-Federal sources to a project shall include 
+                        cash, personnel, services, equipment, and other 
+                        resources expended on the project.
+                            (ii) Independent research and development 
+                        expenses of government contractors that qualify 
+                        for reimbursement under section 31-205-18(e) of 
+                        the Federal Acquisition Regulations issued 
+                        pursuant to section 25(c)(1) of the Office of 
+                        Federal Procurement Policy Act (41 U.S.C. 
+                        421(c)(1)) may be credited towards costs paid 
+                        by non-Federal sources to a project, if the 
+                        expenses meet the other requirements of this 
+                        section.
+                            (iii) No funds or other resources expended 
+                        either before the start of a project under this 
+                        section or outside the project's scope of work 
+                        shall be credited toward the costs paid by the 
+                        non-Federal sources to the project.
+            (3) Competitive selection.--All projects where a party 
+        other than the Department or a National Laboratory or facility 
+        receives funding under this section shall, to the extent 
+        practicable, be competitively selected by the National 
+        Laboratory or facility using procedures determined to be 
+        appropriate by the Secretary or his designee.
+            (4) Accounting standards.--Any participant receiving 
+        funding under this section, other than a National Laboratory or 
+        facility, may use generally accepted accounting principles for 
+        maintaining accounts, books, and records relating to the 
+        project.
+            (5) Limitations.--No Federal funds shall be made available 
+        under this section for--
+                    (A) construction; or
+                    (B) any project for more than five years.
+    (f) Selection Criteria.--
+            (1) Threshold funding criteria.--The Secretary shall 
+        authorize the provision of Federal funds for projects under 
+        this section only when the Director of the National Laboratory 
+        or facility managing such a project determines that the project 
+        is likely to improve the participating National Laboratory or 
+        facility's ability to achieve technical success in meeting 
+        departmental missions.
+            (2) Additional criteria.--The Secretary shall also require 
+        the Director of the National Laboratory or facility managing a 
+        project under this section to consider the following criteria 
+        in selecting a project to receive Federal funds--
+                    (A) the potential of the project to succeed, based 
+                on its technical merit, team members, management 
+                approach, resources, and project plan;
+                    (B) the potential of the project to promote the 
+                development of a commercially sustainable technology 
+                cluster, one that will derive most of the demand for 
+                its products or services from the private sector, that 
+                can support the missions of the participating National 
+                Laboratory or facility;
+                    (C) the potential of the project to promote the use 
+                of commercial research, technology, products, 
+                processes, and services by the participating National 
+                Laboratory or facility to achieve its departmental 
+                mission or the commercial development of technological 
+                innovations made at the participating National 
+                Laboratory or facility;
+                    (D) the commitment shown by non-Federal 
+                organizations to the project, based primarily on the 
+                nature and amount of the financial and other resources 
+                they will risk on the project;
+                    (E) the extent to which the project involves a wide 
+                variety and number of institutions of higher education, 
+                nonprofit institutions, and technology-related business 
+                concerns that can support the missions of the 
+                participating National Laboratory or facility and that 
+                will make substantive contributions to achieving the 
+                goals of the project;
+                    (F) the extent of participation in the project by 
+                agencies of State, tribal, or local governments that 
+                will make substantive contributions to achieving the 
+                goals of the project; and
+                    (G) the extent to which the project focuses on 
+                promoting the development of technology-related 
+                business concerns that are small business concerns or 
+                involves such small business concerns substantively in 
+                the project.
+            (3) Savings clause.--Nothing in this subsection shall limit 
+        the Secretary from requiring the consideration of other 
+        criteria, as appropriate, in determining whether projects 
+        should be funded under this section.
+    (g) Report to Congress on Full Implementation.--Not later than 120 
+days after the start of the third fiscal year after the date of 
+enactment of this section, the Secretary shall report to Congress on 
+whether the Technology Infrastructure Program should be continued 
+beyond the pilot stage, and, if so, how the fully implemented program 
+should be managed. This report shall take into consideration the 
+results of the pilot program to date and the views of the relevant 
+Directors of the National laboratories and facilities. The report shall 
+include any proposals for legislation considered necessary by the 
+Secretary to fully implement the program.
+
+SEC. 4. SMALL BUSINESS ADVOCACY AND ASSISTANCE.
+
+    (a) Advocacy Function.--The Secretary shall direct the Director of 
+each National Laboratory, and may direct the Director of each facility 
+the Secretary determines to be appropriate, to establish a small 
+business advocacy function that is organizationally independent of the 
+procurement function at the National Laboratory or facility. The person 
+or office vested with the small business advocacy function shall--
+            (1) work to increase the participation of small business 
+        concerns, including socially and economically disadvantaged 
+        small business concerns, in procurements, collaborative 
+        research, technology licensing, and technology transfer 
+        activities conducted by the National Laboratory or facility;
+            (2) report to the Director of the National Laboratory or 
+        facility on the actual participation of small business concerns 
+        in procurements and collaborative research along with 
+        recommendations, if appropriate, on how to improve 
+        participation;
+            (3) make available to small business concerns training, 
+        mentoring, and clear, up-to-date information on how to 
+        participate in the procurements and collaborative research, 
+        including how to submit effective proposals;
+            (4) increase the awareness inside the National Laboratory 
+        or facility of the capabilities and opportunities presented by 
+        small business concerns; and
+            (5) establish guidelines for the program under subsection 
+        (b) and report on the effectiveness of such program to the 
+        Director of the National Laboratory or facility.
+    (b) Establishment of Small Business Assistance Program.--The 
+Secretary shall direct the Director of each National Laboratory, and 
+may direct the Director of each facility the Secretary determines to be 
+appropriate, to establish a program to provide small business 
+concerns--
+            (1) assistance directed at making them more effective and 
+        efficient subcontractors or suppliers to the National 
+        Laboratory or facility; or
+            (2) general technical assistance, the cost of which shall 
+        not exceed $10,000 per instance of assistance, to improve the 
+        small business concern's products or services.
+    (c) Use of Funds.--None of the funds expended under subsection (b) 
+may be used for direct grants to the small business concerns.
+
+SEC. 5. TECHNOLOGY PARTNERSHIPS OMBUDSMAN.
+
+    (a) Appointment of Ombudsman.--The Secretary shall direct the 
+Director of each National Laboratory, and may direct the Director of 
+each facility the Secretary determines to be appropriate, to appoint a 
+technology partnership ombudsman to hear and help resolve complaints 
+from outside organizations regarding each laboratory's policies and 
+actions with respect to technology partnerships (including cooperative 
+research and development agreements), patents, and technology 
+licensing. Each ombudsman shall--
+            (1) be a senior official of the National Laboratory or 
+        facility who is not involved in day-to-day technology 
+        partnerships, patents, or technology licensing, or, if 
+        appointed from outside the laboratory, function as such a 
+        senior official; and
+            (2) have direct access to the Director of the National 
+        Laboratory or facility.
+    (b) Duties.--Each ombudsman shall--
+            (1) serve as the focal point for assisting the public and 
+        industry in resolving complaints and disputes with the 
+        laboratory regarding technology partnerships, patents, and 
+        technology licensing;
+            (2) promote the use of collaborative alternative dispute 
+        resolution techniques such as mediation to facilitate the 
+        speedy and low-cost resolution of complaints and disputes, when 
+        appropriate; and
+            (3) report, through the Director of the National Laboratory 
+        or facility, to the Department annually on the number and 
+        nature of complaints and disputes raised, along with the 
+        ombudsman's assessment of their resolution, consistent with the 
+        protection of confidential and sensitive information.
+    (c) Dual Appointment.--A person vested with the small business 
+advocacy function of section 4 may also serve as the technology 
+partnership ombudsman.
+
+SEC. 6. STUDIES RELATED TO IMPROVING MISSION EFFECTIVENESS, 
+              PARTNERSHIPS, AND TECHNOLOGY TRANSFER AT NATIONAL 
+              LABORATORIES.
+
+    (a) Studies.--The Secretary shall direct the Laboratory Operations 
+Board to study and report to him, not later than one year after the 
+date of enactment of this section, on the following topics--
+            (1) the possible benefits from and need for policies and 
+        procedures to facilitate the transfer of scientific, technical, 
+        and professional personnel among National Laboratories and 
+        facilities; and
+            (2) the possible benefits from and need for changes in--
+                    (A) the indemnification requirements for patents or 
+                other intellectual property licensed from a National 
+                Laboratory or facility;
+                    (B) the royalty and fee schedules and types of 
+                compensation that may be used for patents or other 
+                intellectual property licensed to a small business 
+                concern from a National Laboratory or facility;
+                    (C) the licensing procedures and requirements for 
+                patents and other intellectual property;
+                    (D) the rights given to a small business concern 
+                that has licensed a patent or other intellectual 
+                property from a National Laboratory or facility to 
+                bring suit against third parties infringing such 
+                intellectual property;
+                    (E) the advance funding requirements for a small 
+                business concern funding a project at a National 
+                Laboratory or facility through a Funds-In-Agreement;
+                    (F) the intellectual property rights allocated to a 
+                business when it is funding a project at a National 
+                Laboratory or facility through a Funds-In-Agreement; 
+                and
+                    (G) policies on royalty payments to inventors 
+                employed by a contractor-operated National Laboratory 
+                or facility, including those for inventions made under 
+                a Funds-In-Agreement.
+    (b) Definition.--For the purposes of this section, the term 
+``Funds-In-Agreement'' means a contract between the Department and a 
+non-Federal organization where that organization pays the Department to 
+provide a service or material not otherwise available in the domestic 
+private sector.
+    (c) Report to Congress.--Not later than one month after receiving 
+the report under subsection (a), the Secretary shall transmit the 
+report, along with his recommendations for action and proposals for 
+legislation to implement the recommendations, to Congress.
+
+SEC. 7. OTHER TRANSACTIONS AUTHORITY.
+
+    (a) New Authority.--Section 646 of the Department of Energy 
+Organization Act (42 U.S.C. 7256) is amended by adding at the end the 
+following new subsection:
+    ``(g) Other Transactions Authority.--(1) In addition to other 
+authorities granted to the Secretary to enter into procurement 
+contracts, leases, cooperative agreements, grants, and other similar 
+arrangements, the Secretary may enter into other transactions with 
+public agencies, private organizations, or persons on such terms as the 
+Secretary may deem appropriate in furtherance of basic, applied, and 
+advanced research functions now or hereafter vested in the Secretary. 
+Such other transactions shall not be subject to the provisions of 
+section 9 of the Federal Nonnuclear Energy Research and Development Act 
+of 1974 (42 U.S.C. 5908).
+    ``(2)(A) The Secretary of Energy shall ensure that--
+            ``(i) to the maximum extent practicable, no transaction 
+        entered into under paragraph (1) provides for research that 
+        duplicates research being conducted under existing programs 
+        carried out by the Department of Energy; and
+            ``(ii) to the extent that the Secretary determines 
+        practicable, the funds provided by the Government under a 
+        transaction authorized by paragraph (1) do not exceed the total 
+        amount provided by other parties to the transaction.
+    ``(B) A transaction authorized by paragraph (1) may be used for a 
+research project when the use of a standard contract, grant, or 
+cooperative agreement for such project is not feasible or appropriate.
+    ``(3)(A) The Secretary shall not disclose any trade secret or 
+commercial or financial information submitted by a non-Federal entity 
+under paragraph (1) that is privileged and confidential.
+    ``(B) The Secretary shall not disclose, for five years after the 
+date the information is received, any other information submitted by a 
+non-Federal entity under paragraph (1), including any proposal, 
+proposal abstract, document supporting a proposal, business plan, or 
+technical information that is privileged and confidential.
+    ``(C) The Secretary may protect from disclosure, for up to five 
+years, any information developed pursuant to a transaction under 
+paragraph (1) that would be protected from disclosure under section 
+552(b)(4) of title 5, United States Code, if obtained from a person 
+other than a Federal agency.''.
+    (b) Implementation.--Not later than six months after the date of 
+enactment of this section, the Department shall establish guidelines 
+for the use of other transactions. Other transactions shall be made 
+available, if needed, in order to implement projects funded under 
+section 3.
+
+SEC. 8. CONFORMANCE WITH NNSA ORGANIZATIONAL STRUCTURE.
+
+    All actions taken by the Secretary in carrying out this Act with 
+respect to National Laboratories and facilities that are part of the 
+NNSA shall be through the Administrator for Nuclear Security in 
+accordance with the requirements of title XXXII of the National Defense 
+Authorization Act for Fiscal Year 2000.
+
+SEC. 9. COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENTS FOR GOVERNMENT-
+              OWNED, CONTRACTOR-OPERATED LABORATORIES.
+
+    (a) Strategic Plans.--Subsection (a) of section 12 of the 
+Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) is 
+amended by striking ``joint work statement,'' and inserting ``joint 
+work statement or, if permitted by the agency, in an agency-approved 
+annual strategic plan,''.
+    (b) Experimental Federal Waivers.--Subsection (b) of that section 
+is amended by adding at the end the following new paragraph:
+            ``(6)(A) In the case of a Department of Energy laboratory, 
+        a designated official of the Department of Energy may waive any 
+        license retained by the Government under paragraph (1)(A), (2), 
+        or (3)(D), in whole or in part and according to negotiated 
+        terms and conditions, if the designated official finds that the 
+        retention of the license by the Department of Energy would 
+        substantially inhibit the commercialization of an invention 
+        that would otherwise serve an important Federal mission.
+            ``(B) The authority to grant a waiver under subparagraph 
+        (A) shall expire on the date that is 5 years after the date of 
+        the enactment of the National Defense Authorization Act for 
+        Fiscal Year 2001.
+            ``(C) The expiration under subparagraph (B) of authority to 
+        grant a waiver under subparagraph (A) shall not effect any 
+        waiver granted under subparagraph (A) before the expiration of 
+        such authority.''.
+    (c) Time Required for Approval.--Subsection (c)(5) of that section 
+is amended--
+            (1) by striking subparagraph (C);
+            (2) by redesignating subparagraph (D) as subparagraph (C); 
+        and
+            (3) in subparagraph (C) as so redesignated--
+                    (A) in clause (i)--
+                            (i) by striking ``with a small business 
+                        firm''; and
+                            (ii) by inserting ``if'' after 
+                        ``statement''; and
+                    (B) by adding at the end the following new clauses:
+                            ``(iv) Any agency that has contracted with 
+                        a non-Federal entity to operate a laboratory 
+                        may develop and provide to such laboratory one 
+                        or more model cooperative research and 
+                        development agreements, for the purposes of 
+                        standardizing practices and procedures, 
+                        resolving common legal issues, and enabling 
+                        review of cooperative research and development 
+                        agreements to be carried out in a routine and 
+                        prompt manner.
+                            ``(v) A Federal agency may waive the 
+                        requirements of clause (i) or (ii) under such 
+                        circumstances as the agency considers 
+                        appropriate. However, the agency may not take 
+                        longer than 30 days to review and approve, 
+                        request modifications to, or disapprove any 
+                        proposed agreement or joint work statement that 
+                        it elects to receive.''.
+
+SEC. 10. COOPERATIVE RESEARCH AND DEVELOPMENT OF THE NATIONAL NUCLEAR 
+              SECURITY ADMINISTRATION.
+
+    (a) Objective for Obligation of Funds.--It shall be an objective of 
+the Administrator of the National Nuclear Security Administration to 
+obligate funds for cooperative research and development agreements (as 
+that term is defined in section 12(d)(1) of the Stevenson-Wydler 
+Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(1))), or similar 
+cooperative, cost-shared research partnerships with non-Federal 
+organizations, in a fiscal year covered by subsection (b) in an amount 
+at least equal to the percentage of the total amount appropriated for 
+the Administration for such fiscal year that is specified for such 
+fiscal year under subsection (b).
+    (b) Fiscal Year Percentages.--The percentages of funds appropriated 
+for the National Nuclear Security Administration that are obligated in 
+accordance with the objective under subsection (a) are as follows:
+            (1) In each of fiscal years 2001 and 2002, 0.5 percent.
+            (2) In any fiscal year after fiscal year 2002, the 
+        percentage recommended by the Administrator for each such 
+        fiscal year in the report under subsection (c).
+    (c) Recommendtions for Percentages in Later Fiscal Years.--Not 
+later than one year after the date of the enactment of this Act, the 
+Administrator shall submit to the congressional defense committees a 
+report setting forth the Administrator's recommendations for 
+appropriate percentages of funds appropriated for the National Nuclear 
+Security Administration to be obligated for agreements described in 
+subsection (a) during each fiscal year covered by the report.
+    (d) Consistency of Agreements.--Any agreement entered into under 
+this section shall be consistent with and in support of the mission of 
+the National Nuclear Security Administration.
+    (e) Reports on Achievement of Objective.--(1) Not later than March 
+30, 2002, and each year thereafter, the Administrator shall submit to 
+the congressional defense committees a report on whether funds of the 
+National Nuclear Security Administration were obligated in the fiscal 
+year ending in the preceding year in accordance with the objective for 
+such fiscal year under this section.
+    (2) If funds were not obligated in a fiscal year in accordance with 
+the objective under this section for such fiscal year, the report under 
+paragraph (1) shall--
+            (A) describe the actions the Administrator proposes to take 
+        to ensure that the objective under this section for the current 
+        fiscal year and future fiscal years will be met; and
+            (B) include any recommendations for legislation required to 
+        achieve such actions.
+
+
+
+
+                                                        Calendar No. 65
+
+107th CONGRESS
+
+  1st Session
+
+                                 S. 517
+
+                          [Report No. 107-30]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To authorize funding the Department of Energy to enhance its mission 
+  areas through technology transfer and partnerships for fiscal years 
+               2002 through 2006, and for other purposes.
+
+_______________________________________________________________________
+
+                              June 5, 2001
+
+                       Reported without amendment

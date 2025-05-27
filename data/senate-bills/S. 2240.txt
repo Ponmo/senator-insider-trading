@@ -1,0 +1,2366 @@
+--
+--
+--
+--
+--
+--S.2240--
+S.2240
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Public Health Service Act to provide grants to improve the
+quality and availability of care for individuals and families with HIV disease,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Ryan White Comprehensive AIDS Resources
+ Emergency Act of 1990'.
+SEC. 2. PURPOSE.
+ It is the purpose of this Act to provide emergency assistance to localities
+ that are disproportionately affected by the Human Immunodeficiency Virus
+ epidemic and to make financial assistance available to States and other public
+ or private nonprofit entities to provide for the development, organization,
+ coordination and operation of more effective and cost efficient systems
+ for the delivery of essential services to individuals and families with
+ HIV disease.
+TITLE I--HIV EMERGENCY RELIEF GRANT PROGRAM
+SEC. 101. HIV EMERGENCY RELIEF GRANT PROGRAM.
+ The Public Health Service Act is amended--
+ (1) by redesignating title XXVI as title XXVII;
+ (2) by redesignating sections 2601 through 2614 as sections 2701 through
+ 2714, respectively; and
+ (3) by inserting after title XXV (42 U.S.C. 300ee et seq.) the following
+ new title:
+`TITLE XXVI--HIV HEALTH CARE SERVICES PROGRAM
+`Part A--Emergency Relief for Areas With Substantial Need for Services
+`SEC. 2601. ESTABLISHMENT OF PROGRAM OF GRANTS.
+ `(a) ELIGIBLE AREAS- The Secretary, acting through the Administrator of the
+ Health Resources and Services Administration, shall, subject to subsection
+ (b), make grants in accordance with section 2603 for the purpose of assisting
+ in the provision of the services specified in 2604 in any metropolitan area
+ for which, as of June 30, 1990, in the case of grants for fiscal year 1991,
+ and as of March 31 of the most recent fiscal year for which such data is
+ available in the case of a grant for any subsequent fiscal year--
+ `(1) there has been reported to and confirmed by the Director of the Centers
+ for Disease Control a cumulative total of more than 2,000 cases of acquired
+ immune deficiency syndrome; or
+ `(2) the per capita incidence of cumulative cases of such syndrome (computed
+ on the basis of the most recently available data on the population of the
+ area) is not less than 0.0025.
+ `(b) REQUIREMENT REGARDING CONFIRMATION OF CASES- The Secretary may not
+ make a grant under subsection (a) for a metropolitan area unless, before
+ making any payments under the grant, the cases of acquired immune deficiency
+ syndrome reported for purposes of such subsection have been confirmed by
+ the Secretary, acting through the Director of the Centers for Disease Control.
+`SEC. 2602. ADMINISTRATION AND PLANNING COUNCIL.
+ `(a) ADMINISTRATION-
+ `(1) IN GENERAL- Assistance made available under grants awarded under this
+ part shall be directed to the chief elected official of the city or urban
+ county that administers the public health agency that provides outpatient
+ and ambulatory services to the greatest number of individuals with AIDS,
+ as reported to and confirmed by the Centers for Disease Control, in the
+ eligible area that is awarded such a grant.
+ `(2) REQUIREMENTS-
+ `(A) IN GENERAL- To receive assistance under section 2601(a), the chief
+ elected official of the eligible area involved shall--
+ `(i) establish, through intergovernmental agreements with the chief elected
+ officials of the political subdivisions described in subparagraph (B),
+ an administrative mechanism to allocate funds and services based on--
+ `(I) the number of AIDS cases in such subdivisions;
+ `(II) the severity of need for outpatient and ambulatory care services in
+ such subdivisions; and
+ `(III) the health and support services personnel needs of such subdivisions;
+ and
+ `(ii) establish an HIV health services planning council in accordance with
+ subsection (b).
+ `(B) LOCAL POLITICAL SUBDIVISION- The political subdivisions referred to
+ in subparagraph (A) are those political subdivisions in the eligible area--
+ `(i) that provide HIV-related health services; and
+ `(ii) for which the number of cases reported for purposes of section 2601(a)
+ constitutes not less than 10 percent of the number of such cases reported
+ for the eligible area.
+ `(b) HIV HEALTH SERVICES PLANNING COUNCIL-
+ `(1) ESTABLISHMENT- To be eligible for assistance under this part, the
+ chief elected official described in subsection (a)(1) shall establish
+ or designate an HIV health services planning council that shall include
+ representatives of--
+ `(A) health care providers;
+ `(B) community-based and AIDS service organizations;
+ `(C) social service providers;
+ `(D) mental health care providers;
+ `(E) local public health agencies;
+ `(F) hospital planning agencies or health care planning agencies;
+ `(G) affected communities, including individuals with HIV disease;
+ `(H) non-elected community leaders;
+ `(I) State government;
+ `(J) grantees under subpart II of part C; and
+ `(K) the lead agency of any Health Resources and Services Administration
+ adult and pediatric HIV-related care demonstration project operating in
+ the area to be served.
+ `(2) METHOD OF PROVIDING FOR COUNCIL-
+ `(A) IN GENERAL- In providing for a council for purposes of paragraph
+ (1), a chief elected official receiving a grant under section 2601(a) may
+ establish the council directly or designate an existing entity to serve as
+ the council, subject to subparagraph (B).
+ `(B) CONSIDERATION REGARDING DESIGNATION OF COUNCIL- In making a determination
+ of whether to establish or designate a council under subparagraph (A), a
+ chief elected official receiving a grant under section 2601(a) shall give
+ priority to the designation of an existing entity that has demonstrated
+ experience in planning for the HIV health care service needs within the
+ eligible area and in the implementation of such plans in addressing those
+ needs. Any existing entity so designated shall be expanded to include
+ a broad representation of the full range of entities that provide such
+ services within the geographic area to be served.
+ `(3) DUTIES- The planning council established or designated under paragraph
+ (1) shall--
+ `(A) establish priorities for the allocation of funds within the eligible
+ area;
+ `(B) develop a comprehensive plan for the organization and delivery of
+ health services described in section 2604 that is compatible with any
+ existing State or local plan regarding the provision of health services to
+ individuals with HIV disease; and
+ `(C) assess the efficiency of the administrative mechanism in rapidly
+ allocating funds to the areas of greatest need within the eligible area.
+`SEC. 2603. TYPE AND DISTRIBUTION OF GRANTS.
+ `(a) GRANTS BASED ON RELATIVE NEED OF AREA-
+ `(1) IN GENERAL- In carrying out section 2601(a), the Secretary shall make a
+ grant for each eligible area for which an application under section 2605(a)
+ has been approved. Each such grant shall be made in an amount determined
+ in accordance with paragraph (3).
+ `(2) EXPEDITED DISTRIBUTION- Not later than--
+ `(A) 90 days after an appropriation becomes available to carry out this
+ part for fiscal year 1991; and
+ `(B) 60 days after an appropriation becomes available to carry out this
+ part for each of fiscal years 1992 through 1995;
+the Secretary shall, except in the case of waivers granted under section
+2605(c), disburse 50 percent of the amount appropriated under section 2608
+for such fiscal year through grants to eligible areas under section 2601(a).
+ `(3) AMOUNT OF GRANT-
+ `(A) IN GENERAL- Subject to the extent of amounts made available in
+ appropriations Acts, a grant made for purposes of this paragraph for an
+ eligible area shall be made in an amount equal to the sum of--
+ `(i) an amount determined in accordance with subparagraph (B); and
+ `(ii) an amount determined in accordance with subparagraph (C).
+ `(B) AMOUNT RELATING TO CUMULATIVE NUMBER OF CASES- The amount referred to
+ in clause (i) of subparagraph (A) is an amount equal to the product of--
+ `(i) an amount equal to 75 percent of the amounts available for distribution
+ under paragraph (2) for the fiscal year involved; and
+ `(ii) a percentage equal to the quotient of--
+ `(I) the cumulative number of cases of acquired immune deficiency syndrome
+ in the eligible area involved, as indicated by the number of such cases
+ reported to and confirmed by the Director of the Centers for Disease Control
+ on the applicable date described in section 2601(a); divided by
+ `(II) the sum of the cumulative number of such cases in all eligible areas
+ for which an application for a grant under paragraph (1) has been approved.
+ `(C) AMOUNT RELATING TO PER CAPITA INCIDENCE OF CASES- The amount referred
+ to in clause (ii) of subparagraph (A) is an amount equal to the product of--
+ `(i) an amount equal to 25 percent of the amounts available for distribution
+ under paragraph (2) for the fiscal year involved; and
+ `(ii) a percentage developed by the Secretary through consideration of the
+ ratio of--
+ `(I) the per capita incidence of cumulative cases of acquired immune
+ deficiency syndrome in the eligible area involved (computed on the basis
+ of the most recently available data on the population of the area); to
+ `(II) the per capita incidence of such cumulative cases in all eligible
+ areas for which an application for a grant under paragraph (1) has been
+ approved (computed on the basis of the most recently available data on the
+ population of such areas).
+ `(b) SUPPLEMENTAL GRANTS-
+ `(1) IN GENERAL- Not later than 150 days after the date on which
+ appropriations are made under section 2608 for a fiscal year, the Secretary
+ shall disburse the remainder of amounts not disbursed under section 2603(a)(2)
+ for such fiscal year for the purpose of making grants under section 2601(a)
+ to eligible areas whose application under section 2605(b)--
+ `(A) contains a report concerning the dissemination of emergency relief
+ funds under subsection (a) and the plan for utilization of such funds;
+ `(B) demonstrates the severe need in such area for supplemental financial
+ assistance to combat the HIV epidemic;
+ `(C) demonstrates the existing commitment of local resources of the area,
+ both financial and in-kind, to combating the HIV epidemic;
+ `(D) demonstrates the ability of the area to utilize such supplemental
+ financial resources in a manner that is immediately responsive and cost
+ effective; and
+ `(E) demonstrates that resources will be allocated in accordance with the
+ local demographic incidence of AIDS including appropriate allocations for
+ services for infants, children, women, and families with HIV disease.
+ `(2) REMAINDER OF AMOUNTS- In determining the amount of funds to be obligated
+ under paragraph (1), the Secretary shall include amounts that are not paid
+ to the eligible areas under expedited procedures under section 2603(a)(2)
+ as a result of--
+ `(A) the failure of any eligible area to submit an application under section
+ 2605(c); or
+ `(B) any eligible area informing the Secretary that such eligible area does
+ not intend to expend the full amount of its grant under such section.
+ `(3) AMOUNT OF GRANT- The amount of each grant made for purposes of this
+ subsection shall be determined by the Secretary based on the application
+ submitted by the eligible area under section 2605(b).
+ `(4) FAILURE TO SUBMIT-
+ `(A) IN GENERAL- The failure of an eligible area to submit an application
+ for an expedited grant under section 2603(a)(2) shall not result in such
+ area being ineligible for a grant under this subsection.
+ `(B) APPLICATION- The application of an eligible area submitted under
+ section 2605(b) shall contain the assurances required under subsection (a)
+ of such section if such eligible area fails to submit an application for
+ an expedited grants under section 2603(a)(2).
+`SEC. 2604. USE OF AMOUNTS.
+ `(a) REQUIREMENTS- The Secretary may not make a grant under section 2601(a)
+ to the chief elected official of an eligible area unless such political
+ subdivision agrees that--
+ `(1) subject to paragraph (2), the allocation of funds and services within the
+ eligible area will be made in accordance with the priorities established,
+ pursuant to section 2602(b)(3)(A), by the HIV health services planning
+ council that serves such eligible area; and
+ `(2) funds provided under section 2601 will be expended only for the purposes
+ described in subsections (b) and (c).
+ `(b) PRIMARY PURPOSES-
+ `(1) IN GENERAL- The chief elected official shall use amounts received
+ under a grant under section 2601 to provide direct financial assistance
+ to entities described in paragraph (2) for the purpose of delivering or
+ enhancing HIV-related--
+ `(A) outpatient and ambulatory health and support services, including case
+ management and comprehensive treatment services, for individuals and families
+ with HIV disease; and
+ `(B) inpatient case management services that prevent unnecessary
+ hospitalization or that expedite discharge, as medically appropriate,
+ from inpatient facilities.
+ `(2) APPROPRIATE ENTITIES-
+ `(A) IN GENERAL- Subject to subparagraph (B), direct financial assistance
+ may be provided under paragraph (1) to public or nonprofit private entities,
+ including hospitals (which may include Veterans Administration facilities),
+ community-based organizations, hospices, ambulatory care facilities,
+ community health centers, migrant health centers, and homeless health centers.
+ `(B) PRIORITY- In providing direct financial assistance under paragraph
+ (1) the chief elected official shall give priority to entities that are
+ currently participating in Health Resources and Services Administration
+ HIV health care demonstration projects.
+ `(c) LIMITED EXPENDITURES FOR PERSONNEL NEEDS-
+ `(1) IN GENERAL- A chief elected official, in accordance with paragraph (3),
+ may use not to exceed 10 percent of amounts received under a grant under
+ section 2601 to provide financial assistance or services, for the purposes
+ described in paragraph (2), to any public or nonprofit private entity,
+ including hospitals (which may include Veterans Administration facilities),
+ nursing homes, subacute and transitional care facilities, and hospices that--
+ `(A) provide HIV-related care or services to a disproportionate share of
+ low-income individuals and families with HIV disease;
+ `(B) incur uncompensated costs in the provision of such care or services
+ to such individuals and families;
+ `(C) have established, and agree to implement, a plan to evaluate the
+ utilization of services provided in the care of individuals and families
+ with HIV disease; and
+ `(D) have established a system designed to ensure that such individuals
+ and families are referred to the most medically appropriate level of care
+ as soon as such referral is medically indicated.
+ `(2) USE- A chief elected official may use amounts referred to in paragraph
+ (1) to--
+ `(A) provide direct financial assistance to institutions and entities of
+ the type referred to in such paragraph to assist such institutions and
+ entities in recruiting or training and paying compensation to qualified
+ personnel determined, under paragraph (3), to be necessary by the HIV health
+ services planning council, specifically for the care of individuals with
+ HIV disease; or
+ `(B) in lieu of providing direct financial assistance, make arrangements
+ for the provision of the services of such qualified personnel to such
+ institutions and entities.
+ `(3) REQUIREMENT OF DETERMINATION BY COUNCIL- A chief elected official shall
+ not use any of the amounts received under a grant under section 2601(a)
+ to provide assistance or services under paragraph (2) unless the HIV health
+ services planning council of the eligible area has made a determination that,
+ with respect to the care of individuals with HIV disease--
+ `(A) a shortage of specific health, mental health or support service personnel
+ exists within specific institutions or entities in the eligible area;
+ `(B) the shortage of such personnel has resulted in the inappropriate
+ utilization of inpatient services within the area; and
+ `(C) assistance or services provided to an institution or entity under
+ paragraph (2), will not be used to supplant the existing resources devoted
+ by such institution or entity to the uses described in such paragraph.
+ `(d) REQUIREMENT OF STATUS AS MEDICAID PROVIDER-
+ `(1) PROVISION OF SERVICE- Subject to paragraph (2), the Secretary may not
+ make a grant under section 2601(a) for the provision of services under this
+ section in a State unless, in the case of any such service that is available
+ pursuant to the State plan approved under title XIX of the Social Security
+ Act for the State--
+ `(A) the political subdivision involved will provide the service directly,
+ and the political subdivision has entered into a participation agreement
+ under the State plan and is qualified to receive payments under such plan; or
+ `(B) the political subdivision will enter into an agreement with a public or
+ nonprofit private entity under which the entity will provide the service,
+ and the entity has entered into such a participation agreement and is
+ qualified to receive such payments.
+ `(2) WAIVER-
+ `(A) IN GENERAL- In the case of an entity making an agreement pursuant
+ to paragraph (1)(B) regarding the provision of services, the requirement
+ established in such paragraph shall be waived by the HIV health services
+ planning council for the eligible area if the entity does not, in providing
+ health care services, impose a charge or accept reimbursement available
+ from any third-party payor, including reimbursement under any insurance
+ policy or under any Federal or State health benefits program.
+ `(B) DETERMINATION- A determination by the HIV health services planning
+ council of whether an entity referred to in subparagraph (A) meets the
+ criteria for a waiver under such subparagraph shall be made without regard to
+ whether the entity accepts voluntary donations for the purpose of providing
+ services to the public.
+ `(e) ADMINISTRATION AND PLANNING- The chief executive officer of an eligible
+ area shall not use in excess of 5 percent of amounts received under a
+ grant awarded under this part for administration, accounting, reporting,
+ and program oversight functions.
+ `(f) CONSTRUCTION- A State may not use amounts received under a grant awarded
+ under this part to purchase or improve land, or to purchase, construct,
+ or permanently improve (other than minor remodeling) any building or other
+ facility, or to make cash payments to intended recipients of services.
+`SEC. 2605. APPLICATION.
+ `(a) IN GENERAL- To be eligible to receive a grant under section 2601, an
+ eligible area shall prepare and submit to the Secretary an application at
+ such time, in such form, and containing such information as the Secretary
+ shall require, including assurances adequate to ensure--
+ `(1)(A) that funds received under a grant awarded under this part will be
+ utilized to supplement not supplant State funds made available in the year
+ for which the grant is awarded to provide HIV-related services to individuals
+ with HIV disease;
+ `(B) that the political subdivisions within the eligible area will maintain
+ the level of expenditures by such political subdivisions for HIV-related
+ services for individuals with HIV disease at a level that is equal to the
+ level of such expenditures by such political subdivisions for the 1-year
+ period preceding the first fiscal year for which a grant is received by
+ the eligible area; and
+ `(C) that political subdivisions within the eligible area will not use funds
+ received under a grant awarded under this part in maintaining the level of
+ expenditures for HIV-related services as required in subparagraph (B);
+ `(2) that the eligible area has an HIV health services planning council
+ and has entered into intergovernmental agreements pursuant to section 2602,
+ and has developed or will develop the comprehensive plan in accordance with
+ section 2602(b)(3)(B);
+ `(3) that entities within the eligible area that will receive funds under
+ a grant provided under section 2601(a) shall participate in an established
+ HIV community-based continuum of care if such continuum exists within the
+ eligible area;
+ `(4) that funds received under a grant awarded under this part will not be
+ utilized to make payments for any item or service to the extent that payment
+ has been made, or can reasonably be expected to be made, with respect to
+ that item or service--
+ `(A) under any State compensation program, under an insurance policy,
+ or under any Federal or State health benefits program; or
+ `(B) by an entity that provides health services on a prepaid basis; and
+ `(5) to the maximum extent practicable, that--
+ `(A) HIV health care and support services provided with assistance made
+ available under this part will be provided without regard--
+ `(i) to the ability of the individual to pay for such services; and
+ `(ii) to the current or past health condition of the individual to be served;
+ `(B) such services will be provided in a setting that is accessible to
+ low-income individuals with HIV-disease; and
+ `(C) a program of outreach will be provided to low-income individuals with
+ HIV-disease to inform such individuals of such services.
+ `(b) ADDITIONAL APPLICATION- An eligible area that desires to receive a
+ grant under section 2603(b) shall prepare and submit to the Secretary an
+ additional application at such time, in such form, and containing such
+ information as the Secretary shall require, including the information
+ required under such subsection and information concerning--
+ `(1) the number of individuals to be served within the eligible area with
+ assistance provided under the grant;
+ `(2) demographic data on the population of such individuals;
+ `(3) the average cost of providing each category of HIV-related health
+ services and the extent to which such cost is paid by third-party payors; and
+ `(4) the aggregate amounts expended for each such category of services.
+ `(c) DATE CERTAIN FOR SUBMISSION-
+ `(1) REQUIREMENT- Except as provided in paragraph (2), to be eligible to
+ receive a grant under section 2601(a) for a fiscal year, an application
+ under subsection (a) shall be submitted not later than 45 days after the
+ date on which appropriations are made under section 2608 for the fiscal year.
+ `(2) EXCEPTION- The Secretary may extend the time for the submission of
+ an application under paragraph (1) for a period of not to exceed 60 days
+ if the Secretary determines that the eligible area has made a good faith
+ effort to comply with the requirement of such paragraph but has otherwise
+ been unable to submit its application.
+ `(3) DISTRIBUTION BY SECRETARY- Not later than 45 days after receiving an
+ application that meets the requirements of subsection (a) from an eligible
+ area, the Secretary shall distribute to such eligible area the amounts
+ awarded under the grant for which the application was submitted.
+ `(4) REDISTRIBUTION- Any amounts appropriated in any fiscal year under this
+ part and not obligated to an eligible entity as a result of the failure of
+ such entity to submit an application shall be redistributed by the Secretary
+ to other eligible entities in proportion to the original grants made to
+ such eligible areas under 2601(a).
+ `(d) REQUIREMENTS REGARDING IMPOSITION OF CHARGES FOR SERVICES-
+ `(1) IN GENERAL- The Secretary may not make a grant under section 2601 to
+ an eligible area unless the eligible area provides assurances that in the
+ provision of services with assistance provided under the grant--
+ `(A) in the case of individuals with an income less than or equal to 100
+ percent of the official poverty line, the provider will not impose charges
+ on any such individual for the provision of services under the grant;
+ `(B) in the case of individuals with an income greater than 100 percent of
+ the official poverty line, the provider--
+ `(i) will impose a charge on each such individual for the provision of such
+ services; and
+ `(ii) will impose the charge according to a schedule of charges that is
+ made available to the public;
+ `(C) in the case of individuals with an income greater than 100 percent of
+ the official poverty line and not exceeding 200 percent of such poverty line,
+ the provider will not, for any calendar year, impose charges in an amount
+ exceeding 5 percent of the annual gross income of the individual involved;
+ `(D) in the case of individuals with an income greater than 200 percent of
+ the official poverty line and not exceeding 300 percent of such poverty line,
+ the provider will not, for any calendar year, impose charges in an amount
+ exceeding 7 percent of the annual gross income of the individual involved; and
+ `(E) in the case of individuals with an income greater than 300 percent of
+ the official poverty line, the provider will not, for any calendar year,
+ impose charges in an amount exceeding 10 percent of the annual gross income
+ of the individual involved.
+ `(2) ASSESSMENT OF CHARGE- With respect to compliance with the assurance
+ made under paragraph (1), a grantee or entity receiving assistance under
+ this part may, in the case of individuals subject to a charge for purposes
+ of such paragraph--
+ `(A) assess the amount of the charge in the discretion of the grantee,
+ including imposing only a nominal charge for the provision of services,
+ subject to the provisions of such paragraph regarding public schedules and
+ regarding limitations on the maximum amount of charges; and
+ `(B) take into consideration the medical expenses of individuals in assessing
+ the amount of the charge, subject to such provisions.
+ `(3) APPLICABILITY OF LIMITATION ON AMOUNT OF CHARGE- The Secretary may not
+ make a grant under section 2601 to an eligible area unless the eligible area
+ agrees that the limitations established in subparagraphs (C), (D) and (E)
+ of paragraph (1) regarding the imposition of charges for services applies
+ to the annual aggregate of charges imposed for such services, without regard
+ to whether they are characterized as enrollment fees, premiums, deductibles,
+ cost sharing, copayments, coinsurance, or other charges.
+ `(4) WAIVER REGARDING SECONDARY AGREEMENTS- The requirements established
+ in paragraphs (1) through (3) shall be waived in accordance with section
+ 2604(d)(2).
+`SEC. 2606. TECHNICAL ASSISTANCE.
+ `The Administrator of the Health Resources and Services Administration may,
+ beginning on the date of enactment of this title, provide technical assistance
+ to assist entities in complying with the requirements of this part in order
+ to make such entities eligible to receive a grant under this part.
+`SEC. 2607. DEFINITIONS.
+ `For purposes of this part:
+ `(1) ELIGIBLE AREA- The term `eligible area' means a metropolitan area
+ described in section 2601(a)(1).
+ `(2) METROPOLITAN AREA- The term `metropolitan area' means an area referred
+ to in the HIV/AIDS Surveillance Report of the Centers for Disease Control
+ as a metropolitan area.
+`SEC. 2608. AUTHORIZATION OF APPROPRIATIONS.
+ `There are authorized to be appropriated to make grants under this part,
+ $275,000,000 in each of the fiscal years 1991 and 1992, and such sums as
+ may be necessary in each of the fiscal years 1993 through 1995.'.
+SEC. 102. TECHNICAL AND CONFORMING AMENDMENTS.
+ The Public Health Service Act (42 U.S.C. 201 et seq.) is amended--
+ (1) in section 406(a)(2), by striking `2101' and inserting `2701';
+ (2) in section 465(f), by striking `2601' and inserting `2701';
+ (3) in section 480(a)(2), by striking `2101' and inserting `2701';
+ (4) in section 485(a)(2), by striking `2101' and inserting `2701';
+ (5) in section 497, by striking `2601' and inserting `2701'; and
+ (6) in section 505(a)(2), by striking `2101' and inserting `2701'; and
+ (7) in section 926(b) (as added by section 6103(c)(1) of Public Law 101-239),
+ by striking `2611' each place such term appears and inserting `2711'.
+TITLE II--HIV CARE GRANTS
+SEC. 201. HIV CARE GRANTS.
+ Title XXVI of the Public Health Service Act (as added by section 101)
+ is amended by adding at the end thereof the following new part:
+`Part B--Care Grant Program
+`SEC. 2611. GRANTS.
+ `The Secretary shall, subject to the availability of appropriations, make
+ grants to States to enable such States to improve the quality, availability
+ and organization of health care and support services for individuals and
+ families with HIV disease.
+`SEC. 2612. GENERAL USE OF GRANTS.
+ `(a) IN GENERAL- A State may use amounts provided under grants made under
+ this part--
+ `(1) to establish and operate HIV care consortia within areas most affected
+ by HIV disease that shall be designed to provide a comprehensive continuum
+ of care to individuals and families with HIV disease in accordance with
+ section 2613;
+ `(2) to provide home- and community-based care services for individuals
+ with HIV disease in accordance with section 2614;
+ `(3) to provide assistance to assure the continuity of health insurance
+ coverage for individuals with HIV disease in accordance with section 2615; and
+ `(4) to provide treatments, that have been determined to prolong life or
+ prevent serious deterioration of health, to individuals with HIV disease
+ in accordance with section 2616.
+ `(b) INFANTS AND WOMEN, ETC- A State shall use not less than 15 percent of
+ funds allocated under this part to provide health and support services to
+ infants, children, women, and families with HIV disease.
+`SEC. 2613. GRANTS TO ESTABLISH HIV CARE CONSORTIA.
+ `(a) CONSORTIA- A State may use amounts provided under a grant awarded under
+ this part to provide assistance under section 2612(a)(1) to an entity that--
+ `(1) is an association of one or more public, and one or more nonprofit
+ private, health care and support service providers and community based
+ organizations operating within areas determined by the State to be most
+ affected by HIV disease; and
+ `(2) agrees to use such assistance for the planning, development and delivery,
+ through the direct provision of services or through entering into agreements
+ with other entities for the provision of such services, of comprehensive
+ outpatient health and support services for individuals with HIV disease,
+ that may include--
+ `(A) essential health services such as case management services, medical,
+ nursing, and dental care, diagnostics, monitoring, and medical follow-up
+ services, mental health, developmental, and rehabilitation services, home
+ health and hospice care; and
+ `(B) essential support services such as transportation services, attendant
+ care, homemaker services, day or respite care, benefits advocacy, advocacy
+ services provided through public and nonprofit private entities, and services
+ that are incidental to the provision of health care services for individuals
+ with HIV disease including nutrition services, housing referral services,
+ and child welfare and family services (including foster care and adoption
+ services).
+An entity or entities of the type described in this subsection shall
+hereinafter be referred to in this title as a `consortium' or `consortia'.
+ `(b) ASSURANCES-
+ `(1) REQUIREMENT- To receive assistance from a State under subsection (a),
+ an applicant consortium shall provide the State with assurances that--
+ `(A) within any locality in which such consortium is to operate, the
+ populations and subpopulations of individuals and families with HIV disease
+ have been identified by the consortium;
+ `(B) the service plan established under subsection (c)(2) by such consortium
+ addresses the special care and service needs of the populations and
+ subpopulations identified under subparagraph (A); and
+ `(C) except as provided in paragraph (2), the consortium will be a single
+ coordinating entity that will integrate the delivery of services among the
+ populations and subpopulations identified under subparagraph (A).
+ `(2) EXCEPTION- Subparagraph (C) of paragraph (1) shall not apply to any
+ applicant consortium that the State determines will operate in a community or
+ locality in which it has been demonstrated by the applicant consortium that--
+ `(A) subpopulations exist within the community to be served that have unique
+ service requirements; and
+ `(B) such unique service requirements cannot be adequately and efficiently
+ addressed by a single consortium serving the entire community or locality.
+ `(c) APPLICATION-
+ `(1) IN GENERAL- To receive assistance from the State under subsection (a),
+ a consortium shall prepare and submit to the State, an application that--
+ `(A) demonstrates that the consortium includes agencies and community-based
+ organizations--
+ `(i) with a record of service to populations and subpopulations with HIV
+ disease requiring care within the community to be served; and
+ `(ii) that are representative of populations and subpopulations reflecting
+ the local incidence of HIV and that are located in areas in which such
+ populations reside;
+ `(B) demonstrates that the consortium has carried out an assessment of service
+ needs within the geographic area to be served and, after consultation with
+ the entities described in paragraph (2), has established a plan to ensure
+ the delivery of services to meet such identified needs that shall include--
+ `(i) assurances that service needs will be addressed through the coordination
+ and expansion of existing programs before new programs are created;
+ `(ii) assurances that, in metropolitan areas, the geographic area to be
+ served by the consortium corresponds to the geographic boundaries of local
+ health and support services delivery systems to the extent practicable;
+ `(iii) assurances that, in the case of services for individuals residing in
+ rural areas, the applicant consortium shall deliver case management services
+ that link available community support services to appropriate specialized
+ medical services; and
+ `(iv) assurances that the assessment of service needs and the planning of
+ the delivery of services will include participation by individuals with
+ HIV disease;
+ `(C) demonstrates that adequate planning has occurred to meet the special
+ needs of families with HIV disease, including family centered care;
+ `(D) demonstrates that the consortium has created a mechanism to evaluate
+ periodically--
+ `(i) the success of the consortium in responding to identified needs; and
+ `(ii) the cost-effectiveness of the mechanisms employed by the consortium
+ to deliver comprehensive care; and
+ `(E) demonstrates that the consortium will report to the State the results
+ of the evaluations described in subparagraph (D) and shall make available
+ to the State or the Secretary, on request, such data and information on the
+ program methodology that may be required to perform an independent evaluation.
+ `(2) CONSULTATION- In establishing the plan required under paragraph (1)(B),
+ the consortium shall consult with--
+ `(A)(i) the public health agency that provides or supports ambulatory and
+ outpatient HIV-related health care services within the geographic area to
+ be served; or
+ `(ii) in the case of a public health agency that does not directly provide
+ such HIV-related health care services such agency shall consult with
+ an entity or entities that directly provide ambulatory and outpatient
+ HIV-related health care services within the geographic area to be served; and
+ `(B) not less than one community-based organization that is organized solely
+ for the purpose of providing HIV-related support services to individuals
+ with HIV disease.
+The organization to be consulted under subparagraph (B) shall be at the
+discretion of the applicant consortium.
+ `(d) DEFINITION- As used in this part, the term `family centered care'
+ means the system of services described in this section that is targeted
+ specifically to the special needs of infants, children, women, and
+ families. Family centered care shall be based on a partnership between
+ parents, professionals, and the community designed to ensure an integrated,
+ coordinated, culturally sensitive, and community-based continuum of care
+ for children, women, and families with HIV disease.
+ `(e) PRIORITY- In providing assistance under subsection (a), the State shall,
+ among applicants that meet the requirements of this section, give priority--
+ `(1) first to consortia that are receiving assistance from the Health
+ Resources and Services Administration for adult and pediatric HIV-related
+ care demonstration projects; and then
+ `(2) to any other existing HIV care consortia.
+`SEC. 2614. GRANTS FOR HOME- AND COMMUNITY-BASED CARE.
+ `(a) USES- A State may use amounts provided under a grant awarded under
+ this part to make grants under section 2612(a)(2) to entities to--
+ `(1) provide home- and community-based health services for individuals with
+ HIV disease pursuant to written plans of care prepared by a case management
+ team, that shall include appropriate health care professionals, in such
+ State for providing such services to such individuals;
+ `(2) provide outreach services to individuals with HIV disease, including
+ those individuals in rural areas; and
+ `(3) provide for the coordination of the provision of services under this
+ section with the provision of HIV-related health services provided by public
+ and private entities.
+ `(b) PRIORITY- In awarding grants under subsection (a), a State shall give
+ priority to entities that provide assurances to the State that--
+ `(1) such entities will participate in HIV care consortia if such consortia
+ exist within the State; and
+ `(2) such entities will utilize amounts provided under such grants for the
+ provision of home- and community-based services to low-income individuals
+ with HIV disease.
+ `(c) DEFINITION- As used in this part, the term `home- and community-based
+ health services'--
+ `(1) means, with respect to an individual with HIV disease, skilled health
+ services furnished to the individual in the individual's home pursuant to
+ a written plan of care established by a case management team, that shall
+ include appropriate health care professionals, for the provision of such
+ services and items described in paragraph (2);
+ `(2) includes--
+ `(A) durable medical equipment;
+ `(B) homemaker or home health aide services and personal care services
+ furnished in the home of the individual;
+ `(C) day treatment or other partial hospitalization services;
+ `(D) home intravenous and aerosolized drug therapy (including prescription
+ drugs administered as part of such therapy);
+ `(E) routine diagnostic testing administered in the home of the individual;
+ and
+ `(F) appropriate mental health, developmental, and rehabilitation services;
+ and
+ `(3) does not include--
+ `(A) inpatient hospital services; and
+ `(B) nursing home and other long term care facilities.
+`SEC. 2615. CONTINUUM OF HEALTH INSURANCE COVERAGE.
+ `(a) IN GENERAL- A State may use amounts received under a grant awarded
+ under this part to establish a program of financial assistance under section
+ 2612(a)(3) to assist eligible low-income individuals with HIV disease in--
+ `(1) maintaining a continuity of health insurance; or
+ `(2) receiving medical benefits under a health insurance program, including
+ risk-pools.
+ `(b) LIMITATIONS- Assistance shall not be utilized under subsection (a)--
+ `(1) to pay any costs associated with the creation, capitalization, or
+ administration of a liability risk pool (other than those costs paid on
+ behalf of individuals as part of premium contributions to existing liability
+ risk pools); and
+ `(2) to pay any amount expended by a State under title XIX of the Social
+ Security Act.
+`SEC. 2616. PROVISION OF TREATMENTS.
+ `(a) IN GENERAL- A State may use amounts provided under a grant awarded
+ under this part to establish a program under section 2612(a)(4) to provide
+ treatments that have been determined to prolong life or prevent the serious
+ deterioration of health arising from HIV disease in eligible individuals.
+ `(b) ELIGIBLE INDIVIDUAL- To be eligible to receive assistance from a State
+ under this section an individual shall--
+ `(1) have a medical diagnosis of HIV disease; and
+ `(2) be a low-income individual, as defined by the State.
+ `(c) STATE DUTIES- In carrying out this section the State shall--
+ `(1) determine, in accordance with guidelines issued by the Secretary,
+ which treatments are eligible to be included under the program established
+ under this section;
+ `(2) provide assistance for the purchase of treatments determined to be
+ eligible under paragraph (1), and the provision of such ancillary devices
+ that are essential to administer such treatments;
+ `(3) provide outreach to individuals with HIV disease, and as appropriate
+ to the families of such individuals; and
+ `(4) facilitate access to treatments for such individuals.
+`SEC. 2617. STATE APPLICATION.
+ `(a) IN GENERAL- The Secretary shall not make a grant to a State under
+ this part for a fiscal year unless the State prepares and submits, to the
+ Secretary, an application at such time, in such form, and containing such
+ agreements, assurances, and information as the Secretary determines to be
+ necessary to carry out this part.
+ `(b) DESCRIPTION OF INTENDED USES AND AGREEMENTS- The application submitted
+ under subsection (a) shall contain--
+ `(1) a detailed description of the HIV-related services provided in the State
+ to individuals and families with HIV disease during the year preceding the
+ year for which the grant is requested, and the number of individuals and
+ families receiving such services, that shall include--
+ `(A) a description of the types of programs operated or funded by the State
+ for the provision of HIV-related services during the year preceding the year
+ for which the grant is requested and the methods utilized by the State to
+ finance such programs;
+ `(B) an accounting of the amount of funds that the State has expended for
+ such services and programs during the year preceding the year for which
+ the grant is requested; and
+ `(C) information concerning--
+ `(i) the number of individuals to be served with assistance provided under
+ the grant;
+ `(ii) demographic data on the population of the individuals to be served;
+ `(iii) the average cost of providing each category of HIV-related health
+ services and the extent to which such cost is paid by third-party payors; and
+ `(iv) the aggregate amounts expended for each such category of services;
+ `(2) a comprehensive plan for the organization and delivery of HIV health
+ care and support services to be funded with assistance received under this
+ part that shall include a description of the purposes for which the State
+ intends to use such assistance, including--
+ `(A) the services and activities to be provided and an explanation of the
+ manner in which the elements of the program to be implemented by the State
+ with such assistance will maximize the quality of health and support services
+ available to individuals with HIV disease throughout the State; and
+ `(B) a description of the manner in which services funded with assistance
+ provided under this part will be coordinated with other available related
+ services for individuals with HIV disease; and
+ `(3) an assurance by the State that--
+ `(A) the public health agency that is administering the grant for the State
+ will conduct public hearings concerning the proposed use and distribution
+ of the assistance to be received under this part;
+ `(B) the State will--
+ `(i) to the maximum extent practicable, ensure that HIV-related health
+ care and support services delivered pursuant to a program established with
+ assistance provided under this part will be provided without regard to the
+ ability of the individual to pay for such services and without regard to
+ the current or past health condition of the individual with HIV disease;
+ `(ii) ensure that such services will be provided in a setting that is
+ accessible to low-income individuals with HIV disease;
+ `(iii) provide outreach to low-income individuals with HIV disease to inform
+ such individuals of the services available under this part; and
+ `(iv) in the case of a State that intends to use amounts provided under
+ the grant for purposes described in 2615, submit a plan to the Secretary
+ that demonstrates that the State has established a program that assures that--
+ `(I) such amounts will be targeted to individuals who would not otherwise
+ be able to afford health insurance coverage; and
+ `(II) income, asset, and medical expense criteria will be established and
+ applied by the State to identify those individuals who qualify for assistance
+ under such program, and information concerning such criteria shall be made
+ available to the public;
+ `(C) the State will provide for periodic independent peer review to assess
+ the quality and appropriateness of health and support services provided by
+ entities that receive funds from the State under this part;
+ `(D) the State will permit and cooperate with any Federal investigations
+ undertaken regarding programs conducted under this part;
+ `(E) the State will maintain HIV-related activities at a level that is equal
+ to not less than the level of such expenditures by the State for the 1-year
+ period preceding the fiscal year for which the State is applying to receive
+ a grant under this part; and
+ `(F) the State will ensure that grant funds are not utilized to make payments
+ for any item or service to the extent that payment has been made, or can
+ reasonably be expected to be made, with respect to that item or service--
+ `(i) under any State compensation program, under an insurance policy,
+ or under any Federal or State health benefits program; or
+ `(ii) by an entity that provides health services on a prepaid basis.
+ `(c) REQUIREMENTS REGARDING IMPOSITION OF CHARGES FOR SERVICES-
+ `(1) IN GENERAL- The Secretary may not make a grant under section 2611
+ to a State unless the State provides assurances that in the provision of
+ services with assistance provided under the grant--
+ `(A) in the case of individuals with an income less than or equal to 100
+ percent of the official poverty line, the provider will not impose charges
+ on any such individual for the provision of services under the grant;
+ `(B) in the case of individuals with an income greater than 100 percent of
+ the official poverty line, the provider--
+ `(i) will impose charges on each such individual for the provision of such
+ services; and
+ `(ii) will impose charges according to a schedule of charges that is made
+ available to the public;
+ `(C) in the case of individuals with an income greater than 100 percent of
+ the official poverty line and not exceeding 200 percent of such poverty line,
+ the provider will not, for any calendar year, impose charges in an amount
+ exceeding 5 percent of the annual gross income of the individual involved;
+ `(D) in the case of individuals with an income greater than 200 percent of
+ the official poverty line and not exceeding 300 percent of such poverty line,
+ the provider will not, for any calendar year, impose charges in an amount
+ exceeding 7 percent of the annual gross income of the individual involved; and
+ `(E) in the case of individuals with an income greater than 300 percent of
+ the official poverty line, the provider will not, for any calendar year,
+ impose charges in an amount exceeding 10 percent of the annual gross income
+ of the individual involved.
+ `(2) ASSESSMENT OF CHARGE- With respect to compliance with the assurance
+ made under paragraph (1), a grantee under this part may, in the case of
+ individuals subject to a charge for purposes of such paragraph--
+ `(A) assess the amount of the charge in the discretion of the grantee,
+ including imposing only a nominal charge for the provision of services,
+ subject to the provisions of such paragraph regarding public schedules
+ regarding limitation on the maximum amount of charges; and
+ `(B) take into consideration the medical expenses of individuals in assessing
+ the amount of the charge, subject to such provisions.
+ `(3) APPLICABILITY OF LIMITATION ON AMOUNT OF CHARGE- The Secretary may not
+ make a grant under section 2611 unless the applicant of the grant agrees
+ that the limitations established in subparagraphs (C), (D), and (E) of
+ paragraph (1) regarding the imposition of charges for services applies to
+ the annual aggregate of charges imposed for such services, without regard
+ to whether they are characterized as enrollment fees, premiums, deductibles,
+ cost sharing, copayments, coinsurance, or other charges.
+ `(4) WAIVER-
+ `(A) IN GENERAL- The State shall waive the requirements established in
+ paragraphs (1) through (3) in the case of an entity that does not, in
+ providing health care services, impose a charge or accept reimbursement
+ from any third-party payor, including reimbursement under any insurance
+ policy or under any Federal or State health benefits program.
+ `(B) DETERMINATION- A determination by the State of whether an entity
+ referred to in subparagraph (A) meets the criteria for a waiver under such
+ subparagraph shall be made without regard to whether the entity accepts
+ voluntary donations regarding the provision of services to the public.
+ `(d) REQUIREMENT OF MATCHING FUNDS REGARDING STATE ALLOTMENTS-
+ `(1) IN GENERAL- In the case of any State to which the criterion described
+ in paragraph (3) applies, the Secretary may not make a grant under this
+ part unless the State agrees that, with respect to the costs to be incurred
+ by the State in carrying out the program for which the grant was awarded,
+ the State will, subject to subsection (b)(2), make available (directly or
+ through donations from public or private entities) non-Federal contributions
+ toward such costs in an amount equal to--
+ `(A) for the first fiscal year of payments under the grant, not less than
+ 16 2/3  percent of such costs ($1 for each $5 of Federal funds provided in
+ the grant);
+ `(B) for any second fiscal year of such payments, not less than 20 percent
+ of such costs ($1 for each $4 of Federal funds provided in the grant);
+ `(C) for any third fiscal year of such payments, not less than 25 percent
+ of such costs ($1 for each $3 of Federal funds provided in the grant);
+ `(D) for any fourth fiscal year of such payments, not less than 33 1/3
+ percent of such costs ($1 for each $2 of Federal funds provided in the
+ grant); and
+ `(E) for any subsequent fiscal year of such payments, not less than 33 1/3
+ percent of such costs ($1 for each $2 of Federal funds provided in the grant).
+ `(2) DETERMINATION OF AMOUNT OF NON-FEDERAL CONTRIBUTION-
+ `(A) IN GENERAL- Non-Federal contributions required in paragraph (1)
+ may be in cash or in kind, fairly evaluated, including plant, equipment,
+ or services. Amounts provided by the Federal Government, and any portion
+ of any service subsidized by the Federal Government, may not be included
+ in determining the amount of such non-Federal contributions.
+ `(B) INCLUSION OF CERTAIN AMOUNTS-
+ `(i) In making a determination of the amount of non-Federal contributions
+ made by a State for purposes of paragraph (1), the Secretary shall, subject
+ to clause (ii), include any non-Federal contributions provided by the State
+ for HIV-related services, without regard to whether the contributions are
+ made for programs established pursuant to this title;
+ `(ii) In making a determination for purposes of clause (i), the Secretary
+ may not include any non-Federal contributions provided by the State as a
+ condition of receiving Federal funds under any program under this title
+ (except for the program established in this part) or under other provisions
+ of law.
+ `(3) Applicability of requirement-
+ `(A) NUMBER OF CASES- A State referred to in paragraph (1) is any State for
+ which the number of cases of acquired immune deficiency syndrome reported
+ to and confirmed by the Director of the Centers for Disease Control for the
+ period described in subparagraph (B) constitutes in excess of 1 percent of
+ the aggregate number of such cases reported to and confirmed by the Director
+ for such period for the United States.
+ `(B) PERIOD OF TIME- The period referred to in subparagraph (A) is the
+ 2-year period preceding the fiscal year for which the State involved is
+ applying to receive a grant under subsection (a).
+ `(C) PUERTO RICO- For purposes of paragraph (1), the number of cases
+ of acquired immune deficiency syndrome reported and confirmed for the
+ Commonwealth of Puerto Rico for any fiscal year shall be deemed to be less
+ than 1 percent.
+ `(4) DIMINISHED STATE CONTRIBUTION- With respect to a State that does not
+ make available the entire amount of the non-Federal contribution referred
+ to in paragraph (1), the State shall continue to be eligible to receive
+ Federal funds under a grant under this part, except that the Secretary
+ in providing Federal funds under the grant shall provide such funds (in
+ accordance with the ratios prescribed in paragraph (1)) only with respect
+ to the amount of funds contributed by such State.
+`SEC. 2618. DISTRIBUTION OF FUNDS.
+ `(a) SPECIAL PROJECTS OF A NATIONAL SIGNIFICANCE-
+ `(1) IN GENERAL- Of the amount appropriated under section 2620 for each
+ fiscal year, the Secretary shall use not to exceed 10 percent of such amount
+ to establish and administer a special projects of national significance
+ program to award direct grants to public and nonprofit private entities
+ including community-based organizations to fund special programs for the
+ care and treatment of individuals with HIV disease.
+ `(2) GRANTS- The Secretary shall award grants under subsection (a) based on--
+ `(A) the need to assess the effectiveness of a particular model for the
+ care and treatment of individuals with HIV disease;
+ `(B) the innovative nature of the proposed activity; and
+ `(C) the potential replicability of the proposed activity in other similar
+ localities or nationally.
+ `(3) SPECIAL PROJECTS- Special projects of a national significance may
+ include those that are designed to--
+ `(A) establish a system designed to increase the number of health care
+ facilities willing and able to serve low-income individuals and families
+ with HIV disease;
+ `(B) deliver drug abuse treatment and HIV health care services at a single
+ location, through either an outpatient or residential facility;
+ `(C) provide support and respite care for participants in family-based
+ care networks critical to the delivery of comprehensive HIV care in the
+ minority community;
+ `(D) deliver an enhanced spectrum of comprehensive health care and support
+ services to underserved hemophilia populations, including minorities and those
+ in rural and underserved areas, utilizing established networks of hemophilia
+ diagnostic and treatment centers and community-based outreach systems;
+ `(E) deliver HIV health care and support services to Indians with HIV
+ disease and their families;
+ `(F) improve the provision of HIV health care and support services to
+ individuals and families with HIV disease located in rural areas;
+ `(G) deliver HIV health care and support services to homeless individuals
+ and families with HIV disease; and
+ `(H) deliver HIV health care and support services to individuals with HIV
+ disease who are incarcerated.
+ `(b) AMOUNT OF GRANT TO STATE-
+ `(1) MINIMUM ALLOTMENT- Subject to the extent of amounts made available
+ under section 2620, the amount of a grant to be made under this part for--
+ `(A) each of the several States and the District of Columbia for a fiscal
+ year shall be the greater of--
+ `(i) $100,000, and
+ `(ii) an amount determined under paragraph (2); and
+ `(B) each territory of the United States, as defined in paragraph 3, shall
+ be an amount determined under paragraph (2).
+ `(2) DETERMINATION-
+ `(A) FORMULA- The amount referred to in paragraph (1)(A)(ii) for a State
+ and paragraph (1)(B) for a territory of the United States shall be the
+ product of--
+ `(i) an amount equal to the amount appropriated under section 2620 for the
+ fiscal year involved; and
+ `(ii) the ratio of the distribution factor for the State or territory to
+ the sum of the distribution factors for all the States or territories.
+ `(B) DISTRIBUTION FACTOR- As used in subparagraph (A)(ii), the term
+ `distribution factor' means--
+ `(i) in the case of a State, the product of--
+ `(I) the number of cases of acquired immune deficiency syndrome in the State,
+ as indicated by the number of cases reported to and confirmed by the Secretary
+ for the 2 most recent fiscal years for which such data are available; and
+ `(II) the cube root of the ratio (based on the most recent available data)
+ of--
+ `(aa) the average per capita income of individuals in the United States
+ (including the territories); to
+ `(bb) the average per capita income of individuals in the State; and
+ `(ii) in the case of a territory of the United States the number of additional
+ cases of such syndrome in the specific territory, as indicated by the number
+ of cases reported to and confirmed by the Secretary for the 2 most recent
+ fiscal years for which such data is available.
+ `(3) DEFINITIONS- As used in this subsection--
+ `(A) the term `State' means each of the 50 States, the District of Columbia
+ and the Commonwealth of Puerto Rico; and
+ `(B) the term `territory of the United States' means the Virgin Islands,
+ Guam, American Samoa, the Commonwealth of the Northern Mariana Islands,
+ and the Republic of the Marshall Islands.
+ `(c) ALLOCATION OF ASSISTANCE BY STATES-
+ `(1) CONSORTIA- In a State that has reported 1 percent or more of all
+ AIDS cases reported to and confirmed by the Centers for Disease Control in
+ all States, not less than 50 percent of the amount received by the State
+ under a grant awarded under this part shall be utilized for the creation and
+ operation of community-based comprehensive care consortia under section 2613,
+ in those areas within the State in which the largest number of individuals
+ with HIV disease reside.
+ `(2) ALLOWANCES- Prior to allocating assistance under this subsection, a
+ State shall consider the unmet needs of those areas that have not received
+ financial assistance under part A.
+ `(3) PLANNING AND EVALUATIONS- A State may not use in excess of 5 percent
+ of amounts received under a grant awarded under this part for planning and
+ evaluation activities.
+ `(4) ADMINISTRATION- A State may not use in excess of 5 percent of amounts
+ received under a grant awarded under this part for administration, accounting,
+ reporting, and program oversight functions.
+ `(5) CONSTRUCTION- A State may not use amounts received under a grant awarded
+ under this part to purchase or improve land, or to purchase, construct,
+ or permanently improve (other than minor remodeling) any building or other
+ facility, or to make cash payments to intended recipients of services.
+ `(d) EXPEDITED DISTRIBUTION-
+ `(1) IN GENERAL- Not less than 75 percent of the amounts received under
+ a grant awarded to a State under this part shall be obligated to specific
+ programs and projects and made available for expenditure not later than--
+ `(A) in the case of the first fiscal year for which amounts are received,
+ 150 days after the receipt of such amounts by the State; and
+ `(B) in the case of succeeding fiscal years, 120 days after the receipt of
+ such amounts by the State.
+ `(2) PUBLIC COMMENT- Within the time periods referred to in paragraph (1),
+ the State shall invite and receive public comment concerning methods for
+ the utilization of such amounts.
+ `(e) REALLOCATION- Any amounts appropriated in any fiscal year and made
+ available to a State under this part that have not been obligated as described
+ in subsection (d) shall be repaid to the Secretary and reallotted to other
+ States in proportion to the original grants made to such States.
+`SEC. 2619. TECHNICAL ASSISTANCE.
+ `The Secretary may provide technical assistance in administering and
+ coordinating the activities authorized under section 2612.
+`SEC. 2620. AUTHORIZATION OF APPROPRIATIONS.
+ `There are authorized to be appropriated to make grants under this part,
+ $275,000,000 in each of the fiscal years 1991 and 1992, and such sums as
+ may be necessary in each of the fiscal years 1993 through 1995.'.
+TITLE III--EARLY INTERVENTION SERVICES
+SEC. 301. GRANTS FOR PROVISION OF SERVICES.
+ (a) IN GENERAL- Title XXVI of the Public Health Service Act (as amended by
+ section 201) is further amended by adding at the end the following new part:
+`Part C--Early Intervention Services
+`Subpart I--Formula Grants for States
+`SEC. 2641. ESTABLISHMENT OF PROGRAM.
+ `(a) ALLOTMENTS FOR STATES- For the purposes described in subsection (b),
+ the Secretary, acting through the Director of the Centers for Disease
+ Control and in consultation with the Administrator of the Health Resources
+ and Services Administration, shall for each of the fiscal years 1991
+ through 1995 make an allotment for each State in an amount determined in
+ accordance with section 2649. The Secretary shall make payments, as grants,
+ to each State from the allotment for the State for the fiscal year involved
+ if the Secretary approves for the fiscal year an application submitted by
+ the State pursuant to section 2665.
+ `(b) PURPOSES OF GRANTS-
+ `(1) IN GENERAL- The Secretary may not make a grant under subsection (a)
+ unless the State involved agrees to expend the grant for the purposes of
+ providing, on an outpatient basis, each of the early intervention services
+ specified in paragraph (2) with respect to HIV disease.
+ `(2) SPECIFICATION OF EARLY INTERVENTION SERVICES- The early intervention
+ services referred to in paragraph (1) are--
+ `(A) counseling individuals with respect to HIV disease in accordance with
+ section 2662;
+ `(B) testing individuals with respect to such disease, including tests
+ to confirm the presence of the disease, tests to diagnose the extent of
+ the deficiency in the immune system, and tests to provide information on
+ appropriate therapeutic measures for preventing and treating the deterioration
+ of the immune system and for preventing and treating conditions arising
+ from the disease;
+ `(C) referrals described in paragraph (3);
+ `(D) other clinical and diagnostic services with respect to HIV disease,
+ and periodic medical evaluations of individuals with the disease; and
+ `(E) providing the therapeutic measures described in subparagraph (B).
+ `(3) REFERRALS- The services referred to in paragraph (2)(C) are referrals
+ of individuals with HIV disease to appropriate providers of health and
+ support services, including, as appropriate--
+ `(A) to entities receiving amounts under part A or B for the provision of
+ such services;
+ `(B) to biomedical research facilities of institutions of higher education
+ that offer experimental treatment for such disease, or to community-based
+ organizations or other entities that provide such treatment; or
+ `(C) to grantees under section 2671, in the case of pregnant women.
+ `(4) REQUIREMENT OF AVAILABILITY OF ALL EARLY INTERVENTION SERVICES
+ THROUGH EACH GRANTEE- The Secretary may not make a grant under subsection
+ (a) unless the State involved agrees that each of the early intervention
+ services specified in paragraph (2) will be available through the State. With
+ respect to compliance with such agreement, a State may expend the grant to
+ provide the early intervention services directly, and may expend the grant
+ to enter into agreements with public or nonprofit private entities under
+ which the entities provide the services.
+ `(5) OPTIONAL SERVICES- A State receiving a grant under subsection (a)--
+ `(A) may expend not more than 5 percent of the grant to provide early
+ intervention services through making grants to hospitals that--
+ `(i) for the most recent fiscal year for which the data is available,
+ have admitted--
+ `(I) not fewer than 250 individuals with acquired immune deficiency
+ syndrome; or
+ `(II) a number of such individuals constituting 20 percent of the number
+ of inpatients of the hospital admitted during such period;
+ `(ii) agree to offer and encourage such services with respect to inpatients
+ of the hospitals; and
+ `(iii) agree that subsections (c) and (d) of section 2644 will apply to
+ the hospitals to the same extent and in the same manner as such subsections
+ apply to entities described in such section;
+ `(B) may expend the grant to provide outreach services to individuals who
+ may have HIV disease, or may be at risk of the disease, and who may be
+ unaware of the availability and potential benefits of early treatment of
+ the disease, and to provide outreach services to health care professionals
+ who may be unaware of such availability and potential benefits; and
+ `(C) may, in the case of individuals who seek early intervention services
+ from the grantee, expend the grant--
+ `(i) for case management to provide coordination in the provision of health
+ care services to the individuals and to review the extent of utilization
+ of the services by the individuals; and
+ `(ii) to provide assistance to the individuals regarding establishing the
+ eligibility of the individuals for financial assistance and services under
+ Federal, State, or local programs providing for health services, mental
+ health services, social services, or other appropriate services.
+ `(6) ALLOCATIONS-
+ `(A) Subject to subparagraphs (B) and (C), the Secretary may not make a
+ grant under subsection (a) unless the State involved agrees--
+ `(i) to expend not less than 35 percent of the grant to provide the early
+ intervention services specified in subparagraphs (A) through (C) of paragraph
+ (2); and
+ `(ii) to expend not less than 35 percent of the grant to provide the
+ early intervention services specified in subparagraphs (D) and (E) of
+ such paragraph.
+ `(B) With respect to compliance with the agreement under subparagraph (A),
+ amounts reserved by a State for fiscal year 1991 for purposes of clauses
+ (i) and (ii) of such subparagraph may be expended to provide the services
+ specified in paragraph (5).
+ `(C) The Secretary shall ensure that, of the amounts appropriated under
+ section 2650 for fiscal year 1991, an amount equal to $130,000,000 is expended
+ to provide the early intervention services specified in subparagraphs (A)
+ through (C) of paragraph (2).
+`SEC. 2642. PROVISION OF SERVICES THROUGH MEDICAID PROVIDERS.
+ `(a) IN GENERAL- Subject to subsection (b), the Secretary may not make a grant
+ under section 2641 to a State unless, in the case of any service described
+ in subsection (b) of such section that is available pursuant to the State
+ plan approved under title XIX of the Social Security Act for the State--
+ `(1) the State will provide the service through a State entity, and the
+ State entity has entered into a participation agreement under the State
+ plan and is qualified to receive payments under such plan; or
+ `(2) the State will enter into an agreement with a public or nonprofit
+ private entity under which the entity will provide the service, and the
+ entity has entered into such a participation agreement and is qualified to
+ receive such payments.
+ `(b) WAIVER REGARDING CERTAIN SECONDARY AGREEMENTS-
+ `(1) IN GENERAL- In the case of an entity making an agreement pursuant
+ to subsection (a)(2) regarding the provision of services, the requirement
+ established in such subsection regarding a participation agreement shall
+ be waived by the Secretary if the entity does not, in providing health
+ care services, impose a charge or accept reimbursement available from any
+ third-party payor, including reimbursement under any insurance policy or
+ under any Federal or State health benefits program.
+ `(2) ACCEPTANCE OF VOLUNTARY DONATIONS- A determination by the Secretary
+ of whether an entity referred to in paragraph (1) meets the criteria for a
+ waiver under such subparagraph shall be made without regard to whether the
+ entity accepts voluntary donations for the purpose of providing services
+ to the public.
+`SEC. 2643. REQUIREMENT OF MATCHING FUNDS.
+ `(a) IN GENERAL- In the case of any State to which the criterion described
+ in subsection (c) applies, the Secretary may not make a grant under section
+ 2641 unless the State agrees that, with respect to the costs to be incurred
+ by the State in carrying out the purpose referred to in such subsection,
+ the State will, subject to subsection (b)(2), make available (directly or
+ through donations from public or private entities) non-Federal contributions
+ toward such costs in an amount equal to--
+ `(1) for the first fiscal year for which such criterion applies to the
+ State, not less than 16 2/3  percent of such costs ($1 for each $5 of
+ Federal funds provided in the grant);
+ `(2) for any second such fiscal year, not less than 20 percent of such costs
+ ($1 for each $4 of Federal funds provided in the grant);
+ `(3) for any third such fiscal year, not less than 25 percent of such costs
+ ($1 for each $3 of Federal funds provided in the grant); and
+ `(4) for any subsequent fiscal year, not less than 33 1/3  percent of such
+ costs ($1 for each $2 of Federal funds provided in the grant).
+ `(b) DETERMINATION OF AMOUNT OF NON-FEDERAL CONTRIBUTION-
+ `(1) IN GENERAL- Non-Federal contributions required in subsection (a)
+ may be in cash or in kind, fairly evaluated, including plant, equipment,
+ or services. Amounts provided by the Federal Government, and any portion
+ of any service subsidized by the Federal Government, may not be included
+ in determining the amount of such non-Federal contributions.
+ `(2) INCLUSION OF CERTAIN AMOUNTS-
+ `(A) In making a determination of the amount of non-Federal contributions
+ made by a State for purposes of subsection (a), the Secretary shall, subject
+ to subparagraph (B), include any non-Federal contributions provided by the
+ State for HIV-related services, without regard to whether the contributions
+ are made for programs established pursuant to this title.
+ `(B) In making a determination for purposes of subparagraph (A), the
+ Secretary may not include any non-Federal contributions provided by the
+ State as a condition of receiving Federal funds under any program under
+ this title (except for the program established in section 2641) or under
+ other provisions of law.
+ `(c) APPLICABILITY OF MATCHING REQUIREMENT-
+ `(1) PERCENTAGE OF NATIONAL NUMBER OF CASES-
+ `(A) The criterion referred to in subsection (a) is, with respect to a State,
+ that the number of cases of acquired immune deficiency syndrome reported
+ to and confirmed by the Director of the Centers for Disease Control for
+ the State for the period described in subparagraph (B) constitutes more
+ than 1 percent of the number of such cases reported to and confirmed by
+ the Director for the United States for such period.
+ `(B) The period referred to in subparagraph (A) is the 2-year period preceding
+ the fiscal year for which the State involved is applying to receive a grant
+ under section 2641.
+ `(2) EXEMPTION- For purposes of paragraph (1), the number of cases of acquired
+ immune deficiency syndrome reported and confirmed for the Commonwealth of
+ Puerto Rico for any fiscal year shall be deemed to be less than 1 percent.
+ `(d) DIMINISHED STATE CONTRIBUTION- With respect to a State that does not
+ make available the entire amount of the non-Federal contribution referred
+ to in subsection (a), the State shall continue to be eligible to receive
+ Federal funds under a grant under section 2641, except that the Secretary
+ in providing Federal funds under the grant shall provide such funds (in
+ accordance with the ratios prescribed in paragraph (1)) only with respect
+ to the amount of funds contributed by such State.
+`SEC. 2644. OFFERING AND ENCOURAGING EARLY INTERVENTION SERVICES.
+ `(a) IN GENERAL- The Secretary may not make a grant under section 2641 unless,
+ in the case of entities to which the State provides amounts from the grant for
+ the provision of early intervention services, the State involved agrees that--
+ `(1) if the entity is a health care provider that regularly provides
+ treatment for sexually transmitted diseases, the entity will offer and
+ encourage such services with respect to individuals to whom the entity
+ provides such treatment;
+ `(2) if the entity is a health care provider that regularly provides
+ treatment for intravenous substance abuse, the entity will offer and
+ encourage such services with respect to individuals to whom the entity
+ provides such treatment;
+ `(3) if the entity is a family planning clinic, the entity will offer and
+ encourage such services with respect to individuals to whom the entity
+ provides family planning services and whom the entity has reason to believe
+ has HIV disease; and
+ `(4) if the entity is a health care provider that provides treatment for
+ tuberculosis, the entity will offer and encourage such services with respect
+ to individuals to whom the entity provides such treatment.
+ `(b) SUFFICIENCY OF AMOUNT OF GRANT- With respect to compliance with the
+ agreement made under subsection (a), an entity to which subsection (a)
+ applies may be required to offer, encourage, and provide early intervention
+ services only to the extent that the amount of the grant is sufficient to
+ pay the costs of offering, encouraging, and providing the services.
+ `(c) CRITERIA FOR OFFERING AND ENCOURAGING- Subject to section 2641(b)(4), an
+ entity to which subsection (a) applies is, for purposes of such subsection,
+ offering and encouraging early intervention services with respect to the
+ individuals involved if the entity--
+ `(1) offers such services to the individuals, and encourages the individuals
+ to receive the services, as a regular practice in the course of providing
+ the health care involved; and
+ `(2) provides the early intervention services only with the consent of
+ the individuals.
+`SEC. 2645. NOTIFICATION OF CERTAIN INDIVIDUALS RECEIVING BLOOD TRANSFUSIONS.
+ `(a) IN GENERAL- The Secretary may not make a grant under section 2641 unless
+ the State involved provides assurances satisfactory to the Secretary that,
+ with respect to individuals in the State receiving, between January 1,
+ 1978, and April 1, 1985 (inclusive), a transfusion of whole blood or
+ a blood-clotting factor, the State will provide public education and
+ information for the purpose of--
+ `(1) encouraging the population of such individuals to receive early
+ intervention services; and
+ `(2) informing such population of any health facilities in the geographic
+ area involved that provide such services.
+ `(b) RULE OF CONSTRUCTION- An agreement made under subsection (a) may not
+ be construed to require that, in carrying out the activities described
+ in such subsection, a State receiving a grant under section 2641 provide
+ individual notifications to the individuals described in such subsection.
+`SEC. 2646. REPORTING AND PARTNER NOTIFICATION.
+ `(a) REPORTING- The Secretary may not make a grant under section 2641
+ unless, with respect to testing for HIV disease, the State involved provides
+ assurances satisfactory to the Secretary that the State will require that
+ any entity carrying out such testing confidentially report to the State
+ public health officer information sufficient--
+ `(1) to perform statistical and epidemiological analyses of the incidence
+ in the State of cases of such disease;
+ `(2) to perform statistical and epidemiological analyses of the demographic
+ characteristics of the population of individuals in the State who have the
+ disease; and
+ `(3) to assess the adequacy of early intervention services in the State.
+ `(b) PARTNER NOTIFICATION- The Secretary may not make a grant under section
+ 2641 unless the State involved provides assurances satisfactory to the
+ Secretary that the State will require that the public health officer of
+ the State, to the extent appropriate in the determination of the officer,
+ carry out a program of partner notification regarding cases of HIV disease.
+ `(c) RULES OF CONSTRUCTION- An agreement made under this section may not
+ be construed--
+ `(1) to require or prohibit any State from providing that identifying
+ information concerning individuals with HIV disease is required to be
+ submitted to the State; or
+ `(2) to require any State to establish a requirement that entities other than
+ the public health officer of the State are required to make the notifications
+ referred to in subsection (b).
+`SEC. 2647. REQUIREMENT OF STATE LAW PROTECTION AGAINST INTENTIONAL
+TRANSMISSION.
+ `(a) IN GENERAL- The Secretary may not make a grant under section 2641 to
+ a State unless the chief executive officer determines that the criminal
+ laws of the State are adequate to prosecute any HIV infected individual,
+ subject to the condition described in subsection (b), who--
+ `(1) makes a donation of blood, semen, or breast milk, if the individual
+ knows that he or she is infected with HIV and intends, through such donation,
+ to expose another HIV in the event that the donation is utilized;
+ `(2) engages in sexual activity if the individual knows that he or she
+ is infected with HIV and intends, through such sexual activity, to expose
+ another to HIV; and
+ `(3) injects himself or herself with a hypodermic needle and subsequently
+ provides the needle to another person for purposes of hypodermic injection,
+ if the individual knows that he or she is infected and intends, through
+ the provision of the needle, to expose another to such etiologic agent in
+ the event that the needle is utilized.
+ `(b) CONSENT TO RISK OF TRANSMISSION- The State laws described in subsection
+ (a) need not apply to circumstances under which the conduct described
+ in paragraphs (1) through (3) of subsection (a) if the individual who
+ is subjected to the behavior involved knows that the other individual is
+ infected and provides prior informed consent to the activity.
+ `(c) STATE CERTIFICATION WITH RESPECT TO REQUIRED LAWS- With respect to
+ complying with subsection (a) as a condition of receiving a grant under
+ section 2601, the Secretary may not require a State to enact any statute,
+ or to issue any regulation, if the chief executive officer of the State
+ are adequate. The existence of a criminal law of general application,
+ which can be applied to the conduct described in paragraphs (1) through
+ (3) of subsection (a) is sufficient for compliance with this section.
+ `(d) TIME LIMITATIONS WITH RESPECT TO REQUIRED LAWS- With respect to
+ receiving a grant under section 2601, if a State is unable to certify
+ compliance with subsection (a), the Secretary may make a grant to a State
+ under such section if--
+ `(1) for each of the fiscal years 1991 and 1992, the State provides assurances
+ satisfactory to the Secretary that by not later than October 1, 1992, the
+ State has in place or will establish the prohibitions described in subsection
+ (a); and
+ `(2) for fiscal year 1993 and subsequent fiscal years, the State has
+ established such prohibitions.
+`SEC. 2649. DETERMINATION OF AMOUNT OF ALLOTMENTS.
+ `(a) MINIMUM ALLOTMENT- Subject to the extent of amounts made available
+ in appropriations Acts, the amount of an allotment under section 2641(a)
+ for a State for a fiscal year shall be the greater of--
+ `(1) $100,000 for each of the several States, the District of Columbia,
+ and the Commonwealth of Puerto Rico, and $50,000 for each of the territories
+ of the United States other than the Commonwealth of Puerto Rico; and
+ `(2) an amount determined under subsection (b).
+ `(b) DETERMINATION UNDER FORMULA- The amount referred to in subsection
+ (a)(2) is the product of--
+ `(1) an amount equal to the amount appropriated under subsection (a) of
+ section 2650 for the fiscal year involved; and
+ `(2) a percentage equal to the quotient of--
+ `(A) an amount equal to the number of cases of acquired immune deficiency
+ syndrome reported to and confirmed by the Director of the Centers for
+ Disease Control for the State involved for the most recent fiscal year for
+ which such data is available; divided by
+ `(B) an amount equal to the number of cases of acquired immune deficiency
+ syndrome reported to and confirmed by the Director of the Centers for
+ Disease Control for the United States for the most recent fiscal year for
+ which such data is available.
+ `(c) CERTAIN ALLOCATIONS BY SECRETARY- After determining the amount of an
+ allotment under this subsection (a) for a fiscal year, the Secretary shall
+ reduce the amount of the allotment of each State by 10 percent. From the
+ amounts available as a result of such reductions, the Secretary shall, on a
+ discretionary basis, make grants to States receiving allotments for the fiscal
+ year involved. Such grants shall be made subject to each of the agreements
+ and assurances required as a condition of receiving grants under section 2641.
+ `(d) DISPOSITION OF CERTAIN FUNDS APPROPRIATED FOR ALLOTMENTS-
+ `(1) IN GENERAL- Any amounts available pursuant to paragraph (2) shall,
+ in accordance with paragraph (3), be allotted by the Secretary each fiscal
+ year to States receiving payments under section 2641(a) for the fiscal year
+ (other than any State referred to in paragraph (2)(C)). The Secretary shall
+ make payments, as grants, to each such State from any such allotment for
+ the State for the fiscal year involved.
+ `(2) SPECIFICATION OF AMOUNTS- The amounts referred to in paragraph (1) are
+ any amounts that are not paid to States under section 2641(a) as a result of--
+ `(A) the failure of any State to submit an application under section 2651;
+ `(B) the failure, in the determination of the Secretary, of any State to
+ prepare the application in compliance with such section or to submit the
+ application within a reasonable period of time; or
+ `(C) any State informing the Secretary that the State does not intend to
+ expend the full amount of the allotment made to the State.
+ `(3) AMOUNT OF ALLOTMENT- The amount of an allotment under paragraph (1)
+ for a State for a fiscal year shall be an amount equal to the product of--
+ `(A) an amount equal to the amount available pursuant to paragraph (2)
+ for the fiscal year involved; and
+ `(B) the percentage determined under subsection (b)(2) for the State.
+ `(e) TRANSITION RULES-
+ `(1) For the fiscal years 1991 through 1993, the amount of an allotment under
+ section 2641 shall be the greater of the amount determined under subsection
+ (a) and an amount equal to the amount applicable under paragraph (2) for
+ the fiscal year involved.
+ `(2) For purposes of paragraph (1)--
+ `(A) the amount applicable for fiscal year 1991 is an amount equal to the
+ amount received by the State involved from the Secretary, acting through
+ the Director of the Centers for Disease Control, for fiscal year 1990 for
+ the provision of counseling and testing services with respect to HIV;
+ `(B) the amount applicable for fiscal year 1992 is 85 percent of the amount
+ specified in subparagraph (A); and
+ `(C) the amount applicable for fiscal year 1993 is 70 percent of the amount
+ specified in subparagraph (A).
+`SEC. 2649A. MISCELLANEOUS PROVISIONS.
+ The Secretary may not make a grant under section 2641 unless--
+ `(1) the State involved submits to the Secretary a comprehensive plan
+ for the organization and delivery of the early intervention services to
+ be funded with the grant that includes a description of the purposes for
+ which the State intends to use such assistance, including--
+ `(A) the services and activities to be provided and an explanation of the
+ manner in which the elements of the program to be implemented by the State
+ with the grant will maximize the quality of early intervention services
+ available to individuals with HIV disease throughout the State; and
+ `(B) a description of the manner in which services funded with the grant
+ will be coordinated with other available related services for individuals
+ with HIV disease; and
+ `(2) the State agrees that--
+ `(A) the public health agency administering the grant will conduct public
+ hearings regarding the proposed use and distribution of the grant;
+ `(B) to the maximum extent practicable, early intervention services delivered
+ pursuant to the grant will be provided without regard to the ability of
+ the individual to pay for such services and without regard to the current
+ or past health condition of the individual with HIV disease;
+ `(C) early intervention services under the grant will be provided in settings
+ accessible to low-income individuals with HIV disease; and
+ `(D) outreach to low-income individuals with HIV disease will be provided
+ to inform such individuals of the services available pursuant to the grant.
+`SEC. 2650. AUTHORIZATION OF APPROPRIATIONS.
+ `For the purpose of making grants under section 2641, there are authorized
+ to be appropriated $230,000,000 for fiscal year 1991, and such sums as may
+ be necessary for each of the fiscal years 1992 through 1995.
+`Subpart II--Categorical Grants
+`SEC. 2651. ESTABLISHMENT OF PROGRAM.
+ `(a) IN GENERAL- For the purposes described in subsection (b), the Secretary,
+ acting through the Administrator of the Health Resources and Services
+ Administration, may make grants to public and nonprofit private entities
+ specified in section 2652(a)(1).
+ `(b) PURPOSES OF GRANTS-
+ `(1) IN GENERAL- The Secretary may not make a grant under subsection (a)
+ unless the applicant for the grant agrees to expend the grant for the purposes
+ of providing, on an outpatient basis, each of the early intervention services
+ specified in paragraph (2) with respect to HIV disease.
+ `(2) SPECIFICATION OF EARLY INTERVENTION SERVICES- The early intervention
+ services referred to in paragraph (1) are--
+ `(A) counseling individuals with respect to HIV disease in accordance with
+ section 2662;
+ `(B) testing individuals with respect to such disease, including tests
+ to confirm the presence of the disease, tests to diagnose the extent of
+ the deficiency in the immune system, and tests to provide information on
+ appropriate therapeutic measures for preventing and treating the deterioration
+ of the immune system and for preventing and treating conditions arising
+ from the disease;
+ `(C) referrals described in paragraph (3);
+ `(D) other clinical and diagnostic services regarding HIV disease, and
+ periodic medical evaluations of individuals with the disease;
+ `(E) providing the therapeutic measures described in subparagraph (B).
+ `(3) REFERRALS- The services referred to in paragraph (2)(C) are referrals
+ of individuals with HIV disease to appropriate providers of health and
+ support services, including, as appropriate--
+ `(A) to entities receiving amounts under part A or B for the provision of
+ such services;
+ `(B) to biomedical research facility of institutions of higher education
+ that offer experimental treatment for such disease, or to community-based
+ organizations or other entities that provide such treatment; or
+ `(C) to grantees under section 2671, in the case of a pregnant woman.
+ `(4) REQUIREMENT OF AVAILABILITY OF ALL EARLY INTERVENTION SERVICES
+ THROUGH EACH GRANTEE- The Secretary may not make a grant under subsection
+ (a) unless the applicant for the grant agrees that each of the early
+ intervention services specified in paragraph (2) will be available through
+ the grantee. With respect to compliance with such agreement, such a grantee
+ may expend the grant to provide the early intervention services directly,
+ and may expend the grant to enter into agreements with public or nonprofit
+ private entities under which the entities provide the services.
+ `(5) OPTIONAL SERVICES- A grantee under subsection (a)--
+ `(A) may expend the grant to provide outreach services to individuals who may
+ have HIV disease or may be at risk of the disease, and who may be unaware of
+ the availability and potential benefits of early treatment of the disease,
+ and to provide outreach services to health care professionals who may be
+ unaware of such availability and potential benefits; and
+ `(B) may, in the case of individuals who seek early intervention services
+ from the grantee, expend the grant--
+ `(i) for case management to provide coordination in the provision of health
+ care services to the individuals and to review the extent of utilization
+ of the services by the individuals; and
+ `(ii) to provide assistance to the individuals regarding establishing the
+ eligibility of the individuals for financial assistance and services under
+ Federal, State, or local programs providing for health services, mental
+ health services, social services, or other appropriate services.
+ `(c) PARTICIPATION IN CERTAIN CONSORTIUM- The Secretary may not make a
+ grant under subsection (a) unless the applicant for the grant agrees to make
+ reasonable efforts to participate in a consortium established with a grant
+ under section 2612(a)(1) regarding comprehensive services to individuals
+ with HIV disease, if such a consortium exist in the geographic area with
+ respect to which the applicant is applying to receive such a grant.
+`SEC. 2652. MINIMUM QUALIFICATIONS OF GRANTEES.
+ `(a) IN GENERAL- The entities referred to in subsection (b) are public
+ entities and nonprofit private entities that are--
+ `(A) migrant health centers under section 329 or community health centers
+ under section 330;
+ `(B) grantees under section 340 (regarding health services for the homeless);
+ `(C) grantees under section 1001 (regarding family planning) other than
+ States;
+ `(D) comprehensive hemophilia diagnostic and treatment centers;
+ `(E) Federally-qualified health centers under section 1905(l)(2)(B) of the
+ Social Security Act; or
+ `(F) a nonprofit private entity that provides comprehensive primary care
+ services to populations at risk of HIV disease.
+ `(b) STATUS AS MEDICAID PROVIDER-
+ `(1) IN GENERAL- Subject to paragraph (2), the Secretary may not make a grant
+ under section 2651 for the provision of services described in subsection
+ (b) of such section in a State unless, in the case of any such service
+ that is available pursuant to the State plan approved under title XIX of
+ the Social Security Act for the State--
+ `(A) the applicant for the grant will provide the service directly, and
+ the applicant has entered into a participation agreement under the State
+ plan and is qualified to receive payments under such plan; or
+ `(B) the applicant for the grant will enter into an agreement with a public
+ or nonprofit private entity under which the entity will provide the service,
+ and the entity has entered into such a participation agreement and is
+ qualified to receive such payments.
+ `(2) WAIVER REGARDING CERTAIN SECONDARY AGREEMENTS-
+ `(A) In the case of an entity making an agreement pursuant to paragraph
+ (1)(B) regarding the provision of services, the requirement established
+ in such paragraph regarding a participation agreement shall be waived by
+ the Secretary if the entity does not, in providing health care services,
+ impose a charge or accept reimbursement available from any third-party payor,
+ including reimbursement under any insurance policy or under any Federal or
+ State health benefits program.
+ `(B) A determination by the Secretary of whether an entity referred to in
+ subparagraph (A) meets the criteria for a waiver under such subparagraph
+ shall be made without regard to whether the entity accepts voluntary
+ donations regarding the provision of services to the public.
+`SEC. 2653. PREFERENCES IN MAKING GRANTS.
+ `(a) IN GENERAL- In making grants under section 2651, the Secretary shall
+ give preference to any qualified applicant experiencing an increase in the
+ burden of providing services regarding HIV disease, as indicated by the
+ factors specified in subsection (b).
+ `(b) SPECIFICATION OF FACTORS-
+ `(1) IN GENERAL- In the case of the geographic area with respect to which
+ the entity involved is applying for a grant under section 2651, the factors
+ referred to in subsection (a), as determined for the period specified in
+ paragraph (2), are--
+ `(A) the number of cases of acquired immune deficiency syndrome;
+ `(B) the rate of increase in such cases;
+ `(C) the lack of availability of early intervention services;
+ `(D) the number of other cases of sexually transmitted diseases, and the
+ number of cases of tuberculosis and of drug abuse;
+ `(E) the rate of increase in each of the cases specified in subparagraph (D);
+ `(F) the lack of availability of primary health services from providers
+ other than such applicant; and
+ `(G) the distance between such area and the nearest community that has
+ an adequate level of availability of appropriate HIV-related services,
+ and the length of time required to travel such distance.
+ `(2) RELEVANT PERIOD OF TIME- The period referred to in paragraph (1) is
+ the 2-year period preceding the fiscal year for which the entity involved
+ is applying to receive a grant under section 2651.
+ `(c) EQUITABLE ALLOCATIONS- In providing preferences for purposes of
+ subsection (b), the Secretary shall equitably allocate the preferences
+ among urban and rural areas.
+`SEC. 2654. MISCELLANEOUS PROVISIONS.
+ `(a) SERVICES FOR INDIVIDUALS WITH HEMOPHILIA- In making grants under section
+ 2651, the Secretary shall ensure that any such grants made regarding the
+ provision of early intervention services to individuals with hemophilia
+ are made through the network of comprehensive hemophilia diagnostic and
+ treatment centers.
+ `(b) TECHNICAL ASSISTANCE- The Secretary may, directly or through grants
+ or contracts, provide technical assistance to nonprofit private entities
+ regarding the process of submitting to the Secretary applications for grants
+ under section 2651, and may provide technical assistance with respect to
+ the planning, development, and operation of any program or service carried
+ out pursuant to such section.
+`SEC. 2655. AUTHORIZATION OF APPROPRIATIONS.
+ `For the purpose of making grants under section 2651, there are authorized
+ to be appropriated $75,000,000 for fiscal years 1991, and such sums as may
+ be necessary for each of the fiscal years 1992 through 1995.
+`Subpart III--General Provisions
+`SEC. 2661. CONFIDENTIALITY AND INFORMED CONSENT.
+ `(a) CONFIDENTIALITY- The Secretary may not make a grant under this part
+ unless--
+ `(1) in the case of any State applying for a grant under section 2641,
+ the State agrees to ensure that information regarding the receipt of early
+ intervention services is maintained confidentially pursuant to law or
+ regulations in a manner not inconsistent with applicable law; and
+ `(2) in the case of any entity applying for a grant under section 2651,
+ the entity agrees to ensure that information regarding the receipt of early
+ intervention services pursuant to the grant is maintained confidentially
+ in a manner not inconsistent with applicable law.
+ `(b) INFORMED CONSENT-
+ `(1) IN GENERAL- The Secretary may not make a grant under this part unless
+ the applicant for the grant agrees that, in testing an individual for HIV
+ disease, the applicant will test an individual only after obtaining from
+ the individual a statement, made in writing and signed by the individual,
+ declaring that the individual has undergone the counseling described in
+ section 2662(a) and that the decision of the individual with respect to
+ undergoing such testing is voluntarily made.
+ `(2) PROVISIONS REGARDING ANONYMOUS TESTING-
+ `(A) If, pursuant to section 2664(b), an individual will undergo testing
+ pursuant to this part through the use of a pseudonym, a grantee under such
+ section shall be considered to be in compliance with the agreement made
+ under paragraph (1) if the individual signs the statement described in such
+ subsection using the pseudonym.
+ `(B) If, pursuant to section 2664(b), an individual will undergo testing
+ pursuant to this part without providing any information relating to
+ the identity of the individual, a grantee under such section shall be
+ considered to be in compliance with the agreement made under paragraph (1)
+ if the individual orally provides the declaration described in such paragraph.
+`SEC. 2662. PROVISION OF CERTAIN COUNSELING SERVICES.
+ `(a) COUNSELING BEFORE TESTING- The Secretary may not make a grant under
+ this part unless the applicant for the grant agrees that, before testing an
+ individual for HIV disease, the applicant will provide to the individual
+ appropriate counseling regarding the disease (based on the most recently
+ available scientific data), including counseling on--
+ `(1) measures for the prevention of exposure to, and the transmission of, HIV;
+ `(2) the accuracy and reliability of the results of testing for HIV disease;
+ `(3) the significance of the results of such testing, including the potential
+ for developing acquired immune deficiency syndrome;
+ `(4) encouraging the individual, as appropriate, to undergo such testing;
+ `(5) the benefits of such testing, including the medical benefits of
+ diagnosing HIV disease in the early stages and the medical benefits of
+ receiving early intervention services during such stages;
+ `(6) provisions of law relating to the confidentiality of the process of
+ receiving such services, including information regarding any disclosures
+ that may be authorized under applicable law and information regarding
+ the availability of anonymous counseling and testing pursuant to section
+ 2664(b); and
+ `(7) provisions of applicable law relating to discrimination against
+ individuals with HIV disease.
+ `(b) COUNSELING OF INDIVIDUALS WITH NEGATIVE TEST RESULTS- The Secretary may
+ not make a grant under this part unless the applicant for the grant agrees
+ that, if the results of testing conducted for HIV disease indicate that
+ an individual does not have the disease, the applicant will review for the
+ individual the information provided pursuant to subsection (a), including--
+ `(1) the information described in paragraphs (1) through (3) of such
+ subsection; and
+ `(2) the appropriateness of further counseling, testing, and education of
+ the individual regarding such disease.
+ `(c) COUNSELING OF INDIVIDUALS WITH POSITIVE TEST RESULTS- The Secretary
+ may not make a grant under this part unless the applicant for the grant
+ agrees that, if the results of testing for HIV disease indicate that the
+ individual has the disease, the applicant will provide to the individual
+ appropriate counseling regarding such disease, including--
+ `(1) reviewing the information described in paragraphs (1) through (3)
+ of subsection (a);
+ `(2) reviewing the appropriateness of further counseling, testing, and
+ education of the individual regarding such disease; and
+ `(3) providing counseling on--
+ `(A) the availability, through the applicant, of early intervention services;
+ `(B) the availability in the geographic area of appropriate health care,
+ mental health care, and social and support services, including providing
+ referrals for such services, as appropriate;
+ `(C) the benefits of locating and counseling any individual by whom the
+ infected individual may have been exposed to HIV and any individual whom
+ the infected individual may have exposed to HIV; and
+ `(D) the availability of the services of public health authorities with
+ respect to locating and counseling any individual described in subparagraph
+ (C).
+ `(d) ADDITIONAL REQUIREMENTS REGARDING APPROPRIATE COUNSELING- The Secretary
+ may not make a grant under this part unless the applicant for the grant
+ agrees that, in counseling individuals with respect to HIV disease, the
+ applicant will ensure that the counseling is provided under conditions
+ appropriate to the needs of the individuals.
+ `(e) COUNSELING OF EMERGENCY RESPONSE EMPLOYEES- The Secretary may not
+ make a grant under this part to a State unless the State agrees that,
+ in counseling individuals with respect to HIV disease, the State will
+ ensure that, in the case of emergency response employees, the counseling
+ is provided to such employees under conditions appropriate to the needs of
+ the employees regarding the counseling.
+ `(f) RULE OF CONSTRUCTION REGARDING COUNSELING WITHOUT TESTING- Agreements
+ made pursuant to this section may not be construed to prohibit any grantee
+ under this part from expending the grant for the purpose of providing
+ counseling services described in this section to an individual who does not
+ undergo testing for HIV disease as a result of the grantee or the individual
+ determining that such testing of the individual is not appropriate.
+`SEC. 2663. APPLICABILITY OF REQUIREMENTS REGARDING CONFIDENTIALITY, INFORMED
+CONSENT, AND COUNSELING.
+ `The Secretary may not make a grant under this part unless the applicant
+ for the grant agrees that, with respect to testing for HIV disease, any
+ such testing carried out by the applicant will, without regard to whether
+ such testing is carried out with Federal funds, be carried out in accordance
+ with conditions described in sections 2661 and 2662.
+`SEC. 2664. ADDITIONAL REQUIRED AGREEMENTS.
+ `(a) REPORTS TO SECRETARY- The Secretary may not make a grant under this
+ part unless--
+ `(1) the applicant submits to the Secretary--
+ `(A) a specification of the expenditures made by the applicant for early
+ intervention services for the fiscal year preceding the fiscal year for
+ which the applicant is applying to receive the grant; and
+ `(B) an estimate of the number of individuals to whom the applicant has
+ provided such services for such fiscal year; and
+ `(2) the applicant agrees to submit to the Secretary a report providing--
+ `(A) the number of individuals to whom the applicant provides early
+ intervention services pursuant to the grant;
+ `(B) epidemiological and demographic data on the population of such
+ individuals;
+ `(C) the extent to which the costs of HIV-related health care for such
+ individuals are paid by third-party payors;
+ `(D) the average costs of providing each category of early intervention
+ service; and
+ `(E) the aggregate amounts expended for each such category.
+ `(b) PROVISION OF OPPORTUNITIES FOR ANONYMOUS COUNSELING AND TESTING- The
+ Secretary may not make a grant under this part unless the applicant for the
+ grant agrees that, to the extent permitted under State law, regulation or
+ rule, the applicant will offer substantial opportunities for an individual--
+ `(1) to undergo counseling and testing regarding HIV disease without
+ being required to provide any information relating to the identity of the
+ individual; and
+ `(2) to undergo such counseling and testing through the use of a pseudonym.
+ `(c) PROHIBITION AGAINST REQUIRING TESTING AS CONDITION OF RECEIVING OTHER
+ HEALTH SERVICES- The Secretary may not make a grant under this part unless
+ the applicant for the grant agrees that, with respect to an individual
+ seeking health services from the applicant, the applicant will not require
+ the individual to undergo testing for HIV as a condition of receiving any
+ health services unless such testing is medically indicated in the provision
+ of the health services sought by the individual.
+ `(d) MAINTENANCE OF SUPPORT- The Secretary may not make a grant under this
+ part unless the applicant for the grant agrees to maintain the expenditures
+ of the applicant for early intervention services at a level equal to not
+ less than the level of such expenditures maintained by the State for the
+ fiscal year preceding the fiscal year for which the applicant is applying
+ to receive the grant.
+ `(e) REQUIREMENTS REGARDING IMPOSITION OF CHARGES FOR SERVICES-
+ `(1) IN GENERAL- The Secretary may not make a grant under this part unless,
+ subject to paragraph (5), the applicant for the grant agrees that--
+ `(A) in the case of individuals with an income less than or equal to 100
+ percent of the official poverty line, the applicant will not impose a charge
+ on any such individual for the provision of early intervention services
+ under the grant;
+ `(B) in the case of individuals with an income greater than 100 percent of
+ the official poverty line, the applicant--
+ `(i) will impose a charge on each such individual for the provision of such
+ services; and
+ `(ii) will impose the charge according to a schedule of charges that is
+ made available to the public.
+ `(2) LIMITATION ON CHARGES REGARDING INDIVIDUALS SUBJECT TO CHARGES-
+ With respect to the imposition of a charge for purposes of paragraph
+ (1)(B)(ii), the Secretary may not make a grant under this part unless,
+ subject to paragraph (5), the applicant for the grant agrees that--
+ `(A) in the case of individuals with an income greater than 100 percent of
+ the official poverty line and not exceeding 200 percent of such poverty line,
+ the applicant will not, for any calendar year, impose charges in an amount
+ exceeding 5 percent of the annual gross income of the individual involved;
+ `(B) in the case of individuals with an income greater than 200 percent of
+ the official poverty line and not exceeding 300 percent of such poverty line,
+ the applicant will not, for any calendar year, impose charges in an amount
+ exceeding 7 percent of the annual gross income of the individual involved; and
+ `(C) in the case of individuals with an income greater than 300 percent of
+ the official poverty line, the applicant will not, for any calendar year,
+ impose charges in an amount exceeding 10 percent of the annual gross income
+ of the individual involved.
+ `(3) ASSESSMENT OF CHARGE- With respect to compliance with the agreement
+ made under paragraph (1), a grantee under this part may, in the case of
+ individuals subject to a charge for purposes of such paragraph--
+ `(A) assess the amount of the charge in the discretion of the grantee,
+ including imposing only a nominal charge for the provision of services,
+ subject to the provisions of such paragraph regarding public schedules and
+ of paragraph (2) regarding limitations on the maximum amount of charges; and
+ `(B) take into consideration the medical expenses of individuals in assessing
+ the amount of the charge, subject to such provisions.
+ `(4) APPLICABILITY OF LIMITATION ON AMOUNT OF CHARGE- The Secretary may not
+ make a grant under this part unless the applicant for the grant agrees that
+ the limitations established in paragraph (2) regarding the imposition of
+ charges for services applies to the annual aggregate of charges imposed for
+ such services, without regard to whether they are characterized as enrollment
+ fees, premiums, deductibles, cost sharing, copayments, coinsurance, or
+ similar charges.
+ (5) WAIVER REGARDING CERTAIN SECONDARY AGREEMENTS- The requirement established
+ in paragraph (1)(B)(i) shall be waived by the Secretary in the case of any
+ entity for whom the Secretary has granted a waiver under section 2642(b)
+ or 2652(b)(2).
+ `(f) RELATIONSHIP TO ITEMS AND SERVICES UNDER OTHER PROGRAMS-
+ `(1) IN GENERAL- The Secretary may not make a grant under this part unless
+ the applicant for the grant agrees that, subject to paragraph (2), the grant
+ will not be expended by the applicant, or by any entity receiving amounts
+ from the applicant for the provision of early intervention services, to
+ make payment for any such service to the extent that payment has been made,
+ or can reasonably be expected to be made, with respect to such service--
+ `(A) under any State compensation program, under an insurance policy,
+ or under any Federal or State health benefits program; or
+ `(B) by an entity that provides health services on a prepaid basis.
+ `(2) APPLICABILITY TO CERTAIN SECONDARY AGREEMENTS FOR PROVISION OF SERVICES-
+ An agreement made under paragraph (1) shall not apply in the case of an
+ entity through which a grantee under this part provides early intervention
+ services if the Secretary has provided a waiver under section 2642(b)
+ or 2652(b)(2) regarding the entity.
+ `(g) ADMINISTRATION OF GRANT- The Secretary may not make a grant under this
+ part unless the applicant for the grant agrees that--
+ `(1) the applicant will not expend amounts received pursuant to this part
+ for any purpose other than the purposes described in the subpart under
+ which the grant involved is made;
+ `(2) the applicant will establish such procedures for fiscal control and
+ fund accounting as may be necessary to ensure proper disbursement and
+ accounting with respect to the grant; and
+ `(3) the applicant will not expend more than 5 percent of the grant for
+ administrative expenses with respect to the grant.
+ `(h) CONSTRUCTION- A State may not use amounts received under a grant awarded
+ under section 2641 to purchase or improve land, or to purchase, construct,
+ or permanently improve (other than minor remodeling) any building or other
+ facility, or to make cash payments to intended recipients of services.
+`SEC. 2665. REQUIREMENT OF SUBMISSION OF APPLICATION CONTAINING CERTAIN
+AGREEMENTS AND ASSURANCES.
+ `The Secretary may not make a grant under this part unless--
+ `(1) an application for the grant is submitted to the Secretary containing
+ agreements and assurances in accordance with this part and containing the
+ information specified in section 2664(a)(1);
+ `(2) with respect to such agreements, the application provides assurances
+ of compliance satisfactory to the Secretary; and
+ `(3) the application otherwise is in such form, is made in such manner,
+ and contains such agreements, assurances, and information as the Secretary
+ determines to be necessary to carry out this part.
+`SEC. 2666. PROVISION BY SECRETARY OF SUPPLIES AND SERVICES IN LIEU OF
+GRANT FUNDS.
+ `(a) IN GENERAL- Upon the request of a grantee under this part, the Secretary
+ may, subject to subsection (b), provide supplies, equipment, and services for
+ the purpose of aiding the grantee in providing early intervention services
+ and, for such purpose, may detail to the State any officer or employee of
+ the Department of Health and Human Services.
+ `(b) LIMITATION- With respect to a request described in subsection (a),
+ the Secretary shall reduce the amount of payments under the grant involved
+ by an amount equal to the costs of detailing personnel and the fair market
+ value of any supplies, equipment, or services provided by the Secretary. The
+ Secretary shall, for the payment of expenses incurred in complying with
+ such request, expend the amounts withheld.
+`SEC. 2667. USE OF FUNDS.
+ `Counseling programs carried out under this part--
+ `(1) shall not be designed to promote or encourage, directly, intravenous
+ drug abuse or sexual activity, homosexual or heterosexual;
+ `(2) shall be designed to reduce exposure to and transmission of HIV disease
+ by providing accurate information; and
+ `(3) shall provide information on the health risks of promiscuous sexual
+ activity and intravenous drug abuse.'.
+ (b) REVISION, EXTENSION, AND TRANSFER OF PROGRAM OF PRISON TESTING ACT
+ OF 1988-
+ (1) TRANSFER OF PROGRAM- Section 902 of Public Law 100-607--
+ (A) is transferred to part C of title XXVI of the Public Health Service Act,
+ as added by subsection (a) of this Act;
+ (B) is redesignated as section 2648; and
+ (C) is inserted after section 2647 of such part C.
+ (2) EXTENSION OF AUTHORIZATION OF APPROPRIATIONS FOR PROGRAM- Section 2648(g)
+ of the Public Health Service Act, as transferred and added by paragraph
+ (1) of this subsection, is amended by striking `1990' and inserting `1995'.
+ (3) REVISION OF PROGRAM- Section 2648 of the Public Health Service Act,
+ as transferred and added by paragraph (1) of this subsection, is amended
+ by striking subsections (a) through (f) and inserting the following:
+ `(a) IN GENERAL- In addition to grants under section 2641, the Secretary may
+ make grants to States for the purpose of assisting the States in providing
+ early intervention services to individuals sentenced by the State to a
+ term of imprisonment. The Secretary may make such a grant only if the State
+ involved requires, subject to subsection (d), that--
+ `(1) the services be provided to such individuals; and
+ `(2) each such individual be informed of the requirements of subsection
+ (c) regarding testing and be informed of the results of such testing of
+ the individual.
+ `(b) REQUIREMENT OF MATCHING FUNDS-
+ `(1) IN GENERAL- The Secretary may not make a grant under subsection
+ (a) unless the State involved agrees that, with respect to the costs to
+ be incurred by the State in carrying out the purpose described in such
+ subsection, the State will make available (directly or through donations
+ from public or private entities) non-Federal contributions toward such
+ costs in an amount equal to--
+ `(A) for the first fiscal year of payments under the grant, not less than
+ $1 for each $2 of Federal funds provided in the grant; and
+ `(B) for any subsequent fiscal year of such payments, not less than $1 for
+ each $1 of Federal funds provided in the grant.
+ `(2) DETERMINATION OF AMOUNT OF NON-FEDERAL CONTRIBUTION- Non-Federal
+ contributions required in paragraph (1) may be in cash or in kind, fairly
+ evaluated, including plant, equipment, or services. Amounts provided by
+ the Federal Government, and services (or portions of services) subsidized
+ by the Federal Government, may not be included in determining the amount
+ of such non-Federal contributions.
+ `(c) TESTING- The Secretary may not make a grant under subsection (a) unless--
+ `(1) the State involved requires that, subject to subsection (d), any
+ individual sentenced by the State to a term of imprisonment be tested for
+ HIV disease--
+ `(A) upon entering the State penal system; and
+ `(B) during the 30-day period preceding the date on which the individual
+ is released from such system;
+ `(2) with respect to informing employees of the penal system of the results
+ of such testing of the individual, the State--
+ `(A) upon the request of any such employee, provides the results to the
+ employee in any case in which the medical officer of the prison determines
+ that there is a reasonable basis for believing that the employee has been
+ exposed by the individual to such disease; and
+ `(B) informs the employees of the availability to the employees of such
+ results under the conditions described in subparagraph (A);
+ `(3) with respect to informing the spouse of the individual of the results
+ of such testing of the individual, the State--
+ `(A) upon the request of the spouse, provides such results to the spouse
+ prior to any conjugal visit and provides such results to the spouse during
+ the period described in paragraph (1)(B); and
+ `(B) informs the spouse of the availability to the spouse of such results
+ under the conditions described in subparagraph (A);
+ `(4) with respect to such testing upon entering the State penal system
+ of such an individual who has been convicted of rape or aggravated sexual
+ assault, the State--
+ `(A) upon the request of the victim of the rape or assault, provides such
+ results to the victim; and
+ `(B) informs the victim of the availability to the victim of such results; and
+ `(5) the State, except as provided in any of paragraphs (2) through (4),
+ maintains the confidentiality of the results of testing for HIV disease in
+ each prison operated by the State or with amounts provided by the State,
+ and makes disclosures of such results only as medically necessary.
+ `(d) DETERMINATION OF PRISONS SUBJECT TO REQUIREMENT-
+ `(1) IN GENERAL- The Secretary may not make a grant under subsection (a)
+ unless the State involved agrees that the requirement established in such
+ subsection regarding the provision of early intervention services to inmates
+ will apply only to inmates who are incarcerated in prisons with respect to
+ which the State public health officer, after consultation with the chief
+ State correctional officer, has, on the basis of the criteria described in
+ paragraph (2), determined that the provision of such services is appropriate
+ with respect to the public health and safety.
+ `(2) DESCRIPTION OF CRITERIA- The criteria to be considered for purposes
+ of paragraph (1) are--
+ `(A) with respect to the geographic areas in which inmates of the prison
+ involved resided before incarceration in the prison--
+ `(i) the severity of the epidemic of HIV disease in the areas during the
+ period in which the inmates resided in the areas; and
+ `(ii) the incidence, in the areas during such period, of behavior that
+ places individuals at significant risk of developing HIV disease; and
+ `(B) the extent to which medical examinations conducted by the State for
+ inmates of the prison involved indicate that the inmates have engaged in
+ such behavior.
+ `(e) APPLICABILITY OF PROVISIONS REGARDING INFORMED CONSENT, COUNSELING,
+ AND OTHER MATTERS- The Secretary may not make a grant under subsection (a)
+ unless the State involved agrees that sections 2641(b)(4), 2662, and 2664(c)
+ will apply to the provision of early intervention services pursuant to the
+ grant in the same manner and to the same extent as such sections apply to
+ the provision of such services by grantees under section 2641.
+ `(f) REQUIREMENT OF APPLICATION- The Secretary may not make a grant under
+ subsection (a) unless an application for the grant is submitted to the
+ Secretary and the application is in such form, is made in such manner,
+ and contains such agreements, assurances, and information as the Secretary
+ determines to be necessary to carry out this section.
+ `(g) RULE OF CONSTRUCTION- With respect to testing inmates of State prisons
+ for HIV disease without the consent of the inmates, the agreements made
+ under this section may not be construed to authorize, prohibit, or require
+ any State to conduct such testing, except as provided in subparagraphs (A)
+ and (B) of subsection (c)(1).'.
+ (4) TECHNICAL AMENDMENTS- Section 2648 of the Public Health Service Act,
+ as transferred and added by paragraph (1) of this subsection, is amended
+ by striking the heading and inserting the following: `TESTING AND OTHER
+ EARLY INTERVENTION SERVICES FOR STATE PRISONERS.'.
+TITLE IV--GENERAL PROVISIONS, REPORTS AND EVALUATIONS
+Subtitle A--General Provisions
+SEC. 401. GENERAL PROVISIONS.
+ Title XXVI of the Public Health Service Act (as added by section 101 and
+ amended by sections 201 and 301) is further amended by adding at the end
+ thereof the following new part:
+`Part D--General Provisions
+`SEC. 2671. DEMONSTRATION GRANTS FOR RESEARCH AND SERVICES FOR PEDIATRIC
+PATIENTS REGARDING ACQUIRED IMMUNE DEFICIENCY SYNDROME.
+ `(a) IN GENERAL- The Secretary, acting through the Administrator of the
+ Health Resources and Services Administration and the Director of the National
+ Institutes of Health, shall make demonstration grants to community health
+ centers, and other appropriate public or nonprofit private entities that
+ provide primary health care to the public, for the purpose of--
+ `(1) conducting, at the health facilities of such entities, clinical research
+ on therapies for pediatric patients with HIV disease as well as pregnant
+ women with HIV disease; and
+ `(2) with respect to the pediatric patients who participate in such
+ research, providing health care on an outpatient basis to such patients
+ and the families of such patients.
+ `(b) MINIMUM QUALIFICATIONS OF GRANTEES- The Secretary may not make a grant
+ under subsection (a) unless the health facility operated by the applicant
+ for the grant serves a significant number of pediatric patients and pregnant
+ women with HIV disease.
+ `(c) COOPERATION WITH BIOMEDICAL INSTITUTIONS-
+ `(1) DESIGN OF RESEARCH PROTOCOL- The Secretary may not make a grant under
+ subsection (a) unless the applicant for the grant--
+ `(A) has entered into a cooperative agreement or contract with an
+ appropriately qualified entity with expertise in biomedical research under
+ which the entity will assist the applicant in designing and conducting a
+ protocol for the research to be conducted pursuant to the grant; and
+ `(B) agrees to provide the clinical data developed in the research to the
+ Director of the National Institutes of Health.
+ `(2) ANALYSIS AND EVALUATION- The Secretary, acting through the Director
+ of the National Institutes of Health--
+ `(A) may assist grantees under subsection (a) in designing and conducting
+ protocols described in subparagraph (A) of paragraph (1); and
+ `(B) shall analyze and evaluate the data submitted to the Director pursuant
+ to subparagraph (B) of such paragraph.
+ `(d) CASE MANAGEMENT- The Secretary may not make a grant under subsection
+ (a) unless the applicant for the grant agrees to provide for the case
+ management of the pediatric patient involved and the family of the patient.
+ `(e) REFERRALS FOR ADDITIONAL SERVICES- The Secretary may not make a grant
+ under subsection (a) unless the applicant for the grant agrees to provide
+ for the pediatric patient involved and the family of the patient--
+ `(1) referrals for inpatient hospital services, treatment for substance
+ abuse, and mental health services; and
+ `(2) referrals for other social and support services, as appropriate.
+ `(f) INCIDENTAL SERVICES- The Secretary may not make a grant under subsection
+ (a) unless the applicant for the grant agrees to provide the family of the
+ pediatric patient involved with such transportation, child care, and other
+ incidental services as may be necessary to enable the pediatric patient and
+ the family of the patient to participate in the program established by the
+ applicant pursuant to such subsection.
+ `(g) APPLICATION- The Secretary may not make a grant under subsection (a)
+ unless an application for the grant is submitted to the Secretary and the
+ application is in such form, is made in such manner, and contains such
+ agreements, assurances, and information as the Secretary determines to be
+ necessary to carry out this section.
+ `(h) EVALUATIONS- The Secretary shall, directly or through contracts with
+ public and private entities, provide for evaluations of programs carried
+ out pursuant to subsection (a).
+ `(i) DEFINITION- For purposes of this section, the term `community health
+ center' has the meaning given such term in section 330(a).
+ `(j) AUTHORIZATION OF APPROPRIATIONS- For the purpose of carrying out this
+ section, there are authorized to be appropriated $20,000,000 for fiscal
+ year 1991, and such sums as may be necessary for each of the fiscal years
+ 1992 through 1995.
+`SEC. 2672. PROVISIONS RELATING TO BLOOD BANKS.
+ `(a) INFORMATIONAL AND TRAINING PROGRAMS- The Secretary shall--
+ `(1) develop and make available to technical and supervisory personnel
+ employed at blood banks and facilities that produce blood products, materials
+ and information concerning measures that may be implemented to protect the
+ safety of the blood supply with respect to the activities of such personnel,
+ including--
+ `(A) state-of-the-art diagnostic and testing procedures relating to pathogens
+ in the blood supply; and
+ `(B) quality assurance procedures relating to the safety of the blood supply
+ and of blood products; and
+ `(2) develop and implement a training program that is designed to increase
+ the number of employees of the Department of Health and Human Services who
+ are qualified to conduct inspections of blood banks and facilities that
+ produce blood products.
+ `(b) UPDATES- The Secretary shall periodically review and update the
+ materials and information made available under informational or training
+ programs conducted under subsection (a).
+ `(c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, $1,500,000 for fiscal year 1991, and such sums
+ as may be necessary in each of the fiscal years 1992 through 1995.
+`SEC. 2673. RESEARCH, EVALUATION, AND ASSESSMENT PROGRAM.
+ `(a) ESTABLISHMENT- The Secretary, acting through the Agency for Health
+ Care Policy and Research, shall establish a program to enable independent
+ research to be conducted by individuals and organizations with appropriate
+ expertise in the fields of health, health policy, and economics (particularly
+ health care economics) to develop--
+ `(1) a comparative assessment of the impact and cost-effectiveness of major
+ models for organizing and delivering HIV-related health care, mental health
+ care, early intervention, and support services, that shall include a report
+ concerning patient outcomes, satisfaction, perceived quality of care, and
+ total cumulative cost, and a review of the appropriateness of such models
+ for the delivery of health and support services to infants, children, women,
+ and families with HIV disease;
+ `(2) through a review of private sector financing mechanisms for the delivery
+ of HIV-related health and support services, an assessment of strategies
+ for maintaining private health benefits for individuals with HIV disease
+ and an assessment of specific business practices or regulatory barriers
+ that could serve to reduce access to private sector benefit programs;
+ `(3) an assessment of the manner in which different points-of-entry to the
+ health care system affect the cost, quality, and outcome of the care and
+ treatment of individuals and families with HIV disease; and
+ `(4) a summary report concerning the major and continuing unmet needs in
+ health care, mental health care, early intervention, and support services
+ for individuals and families with HIV disease in urban and rural areas.
+ `(b) REPORT- Not later than 2 years after the date of enactment of this
+ title, and periodically thereafter, the Secretary shall prepare and submit,
+ to the Committee on Energy and Commerce of the House of Representatives and
+ the Committee on Labor and Human Resources of the Senate, a progress report
+ that contains the findings and assessments developed under subsection (a).
+ `(c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, such sums as may be necessary for each of the
+ fiscal years 1991 through 1995.
+`SEC. 2674. EVALUATIONS AND REPORTS.
+ `(a) EVALUATIONS- The Secretary shall, directly or through grants and
+ contracts, evaluate programs carried out under this title.
+ `(b) REPORT TO CONGRESS- The Secretary shall, not later than 1 year after
+ the date on which amounts are first appropriated under this title, and
+ annually thereafter, prepare and submit to the appropriate Committees of
+ Congress a report--
+ `(1) summarizing all of the reports that are required to be submitted to
+ the Secretary under this title;
+ `(2) recommending criteria to be used in determining the geographic areas
+ with the most substantial need for HIV-related health services;
+ `(3) summarizing all of the evaluations carried out pursuant to subsection (a)
+ during the period for which the report under this subsection is prepared; and
+ `(4) making such recommendations for administrative and legislative
+ initiatives with respect to this title as the Secretary determines to
+ be appropriate.
+ `(c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, such sums as may be necessary for each of the
+ fiscal years 1991 through 1995.
+`SEC. 2675. COORDINATION.
+ `(a) REQUIREMENT- The Secretary shall assure that the Health Resources and
+ Services Administration and the Centers for Disease Control will coordinate
+ the planning of the funding of programs authorized under this title to
+ assure that health support services for individuals with HIV disease are
+ integrated with each other and that the continuity of care of individuals
+ with HIV disease is enhanced. In coordinating the allocation of funds made
+ available under this title the Health Resources and Services Administration
+ and the Centers for Disease Control shall utilize planning information
+ submitted to such agencies by the States and entities eligible for support.
+ `(b) INTEGRATION BY STATE- As a condition of receipt of funds under this
+ title, a State shall assure the Secretary that health support services
+ funded under this title will be integrated with each other, that programs
+ will be coordinated with other available programs (including Medicaid)
+ and that the continuity of care of individuals with HIV disease is enhanced.
+ `(c) INTEGRATION BY LOCAL OR PRIVATE ENTITIES- As a condition of receipt
+ of funds under this title, a local government or private nonprofit entity
+ shall assure the Secretary that services funded under this title will be
+ integrated with each other, that programs will be coordinated with other
+ available programs (including Medicaid) and that the continuity of care of
+ individuals with HIV is enhanced.
+`SEC. 2676. DEFINITIONS.
+ `For purposes of this title:
+ `(1) COUNSELING- The term `counseling' means such counseling provided by
+ an individual trained to provide such counseling.
+ `(2) DESIGNATED OFFICER OF EMERGENCY RESPONSE EMPLOYEES- The term `designated
+ officer of emergency response employees' means an individual designated
+ under section 26XX by the public health officer of the State involved.
+ `(3) EMERGENCY- The term `emergency' means an emergency involving injury
+ or illness.
+ `(4) EMERGENCY RESPONSE EMPLOYEE- The term `emergency response employees'
+ means firefighters, law enforcement officers, paramedics, emergency medical
+ technicians, and other individuals (including employees of legally organized
+ and recognized volunteer organizations, without regard to whether such
+ employees receive nominal compensation) who, in the course of professional
+ duties, respond to emergencies in the geographic area involved.
+ `(5) EMPLOYER OF EMERGENCY RESPONSE EMPLOYEES- The term `employer of emergency
+ response employees' means an organization that, in the course of professional
+ duties, responds to emergencies in the geographic area involved.
+ `(6) EXPOSED- The term `exposed', with respect to HIV disease or any
+ other infectious disease, means to be in circumstances in which there is
+ a significant risk of becoming infected with the etiologic agent for the
+ disease involved.
+ `(7) FAMILIES WITH HIV DISEASE- The term `families with HIV disease' means
+ families in which one or more members have HIV disease.
+ `(8) HIV- The term `HIV' means infection with the etiologic agent for
+ acquired immune deficiency syndrome.
+ `(9) HIV DISEASE- The term `HIV disease' means infection with the etiologic
+ agent for acquired immune deficiency syndrome, and includes any condition
+ arising from such syndrome.
+ `(10) OFFICIAL POVERTY LINE- The term `official poverty line' means the
+ poverty line established by the Director of the Office of Management and
+ Budget and revised by the Secretary in accordance with section 673(a)
+ of the Omnibus Budget Reconciliation Act of 1981.
+ `(11) PERSON- The term `person' includes one or more individuals, governments
+ (including the Federal Government and the governments of the States),
+ governmental agencies, political subdivisions, labor unions, partnerships,
+ associations, corporations, legal representatives, mutual companies,
+ joint-stock companies, trusts, unincorporated organizations, receivers,
+ trustees, and trustees in cases under title 11, United States Code.
+ `(12) STATE- The term `State', except as otherwise specifically provided,
+ means each of the 50 States, the District of Columbia, the Virgin Islands,
+ Guam, American Samoa, the Commonwealth of the Northern Mariana Islands,
+ Puerto Rico, and the Republic of the Marshall Islands.'.
+SEC. 402. STUDY REGARDING PARTNER NOTIFICATION.
+ (a) IN GENERAL- The Secretary shall conduct a study of programs of HIV
+ partner notification for the purpose of determining--
+ (1) in the case of individuals who have been notified under such programs,
+ the percentage of such individuals who undergo counseling and testing
+ regarding HIV disease;
+ (2) in the case of such individuals who have undergone HIV testing, the
+ number of such individuals determined through such tests to have HIV disease;
+ (3) the extent to which such programs have, in the case of such individuals,
+ resulted in behavioral changes that are effective regarding the prevention
+ of exposure to, and the transmission of, HIV disease; and
+ (4) the extent to which such programs represent a cost effective use of
+ available HIV-related resources.
+ (b) REPORT- Not later than 1 year after the date of enactment of this Act,
+ the Secretary of Health and Human Services shall complete the study required
+ under subsection (a) and prepare and submit, to the appropriate committees
+ of Congress, a report describing the findings made as a result of such study.
+SEC. 403. STUDY REGARDING HIV DISEASE IN RURAL AREAS.
+ (a) IN GENERAL- The Secretary of Health and Human Services, after consultation
+ with the Director of the Office of Rural Health Policy, shall--
+ (1) conduct a study for the purpose of estimating the incidence and prevalence
+ in rural areas of cases of acquired immune deficiency syndrome and cases
+ of infection with the etiologic agent for such syndrome; and
+ (2) in carrying out such study, determine the adequacy in rural areas of
+ services for diagnosing such cases and providing treatment for such cases
+ that are in the early stages of infection.
+ (b) REPORT- Not later than 1 year after the date of the enactment of this Act,
+ the Secretary of Health and Human Services shall complete the study required
+ under subsection (a) and prepare and submit, to the appropriate committees
+ of Congress a report describing the findings made as a result of such study.
+ (c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, such sums as may be necessary for each of the
+ fiscal years 1991 through 1995.
+Subtitle B--Emergency Response Employees
+SEC. 411. ESTABLISHMENT OF PROGRAM.
+ (a) IN GENERAL- Title XXVI of the Public Health Service Act (as amended by
+ section 401) is further amended by adding at the end the following new part:
+`Part E--Emergency Response Employees
+`Subpart I--Guidelines and Model Curriculum
+`SEC. 2680. GRANTS FOR IMPLEMENTATION.
+ `(a) IN GENERAL- With respect to the recommendations contained in the
+ guidelines and the model curriculum developed under section 253 of Public
+ Law 100-607, the Secretary shall make grants to States and political
+ subdivisions of States for the purpose of assisting grantees regarding
+ the initial implementation of such portions of the recommendations as are
+ applicable to emergency response employees.
+ `(b) REQUIREMENT OF APPLICATION- The Secretary may not make a grant under
+ subsection (a) unless an application for the grant is submitted to the
+ Secretary and the application is in such form, is made in such manner,
+ and contains such agreements, assurances, and information as the Secretary
+ determines to be necessary to carry out this section.
+ `(c) AUTHORIZATION OF APPROPRIATIONS- For the purpose of carrying out this
+ section, there is authorized to be appropriated $5,000,000 for each of the
+ fiscal years 1991 through 1995.
+`Subpart II--Notifications of Possible Exposure to Infectious Diseases
+`SEC. 2681. INFECTIOUS DISEASES AND CIRCUMSTANCES RELEVANT TO NOTIFICATION
+REQUIREMENTS.
+ `(a) IN GENERAL- Not later than 180 days after the date of the enactment
+ of the Ryan White Comprehensive AIDS Resources Emergency Act of 1990,
+ the Secretary shall complete the development of--
+ `(1) a list of potentially life-threatening infectious diseases to which
+ emergency response employees may be exposed in responding to emergencies;
+ `(2) guidelines describing the circumstances in which such employees may
+ be exposed to such diseases, taking into account the conditions under which
+ emergency response is provided; and
+ `(3) guidelines describing the manner in which medical facilities should
+ make determinations for purposes of section 2683(d).
+ `(b) SPECIFICATION OF AIRBORNE INFECTIOUS DISEASES- The list developed
+ by the Secretary under subsection (a)(1) shall include a specification
+ of those infectious diseases on the list that are routinely transmitted
+ through airborne or aerosolized means.
+ `(c) DISSEMINATION- The Secretary shall--
+ `(1) transmit to State public health officers copies of the list and
+ guidelines developed by the Secretary under subsection (a) with the request
+ that the officers disseminate such copies as appropriate throughout the
+ States; and
+ `(2) make such copies available to the public.
+`SEC. 2682. ROUTINE NOTIFICATIONS WITH RESPECT TO AIRBORNE INFECTIOUS DISEASES
+IN VICTIMS ASSISTED.
+ `(a) ROUTINE NOTIFICATION OF DESIGNATED OFFICER-
+ `(1) DETERMINATION BY TREATING FACILITY- If a victim of an emergency is
+ transported by emergency response employees to a medical facility and the
+ medical facility makes a determination that the victim has an airborne
+ infectious disease, the medical facility shall notify the designated
+ officer of the emergency response employees who transported the victim to
+ the medical facility of the determination.
+ `(2) DETERMINATION BY FACILITY ASCERTAINING CAUSE OF DEATH- If a victim of
+ an emergency is transported by emergency response employees to a medical
+ facility and the victim dies at or before reaching the medical facility,
+ the medical facility ascertaining the cause of death shall notify the
+ designated officer of the emergency response employees who transported the
+ victim to the initial medical facility of any determination by the medical
+ facility that the victim had an airborne infectious disease.
+ `(b) REQUIREMENT OF PROMPT NOTIFICATION- With respect to a determination
+ described in paragraph (1) or (2), the notification required in each of such
+ paragraphs shall be made as soon as is practicable, but not later than 48
+ hours after the determination is made.
+`SEC. 2683. REQUEST FOR NOTIFICATIONS WITH RESPECT TO VICTIMS ASSISTED.
+ `(a) INITIATION OF PROCESS BY EMPLOYEE- If an emergency response employee
+ believes that the employee may have been exposed to an infectious disease
+ by a victim of an emergency who was transported to a medical facility as a
+ result of the emergency, and if the employee attended, treated, assisted,
+ or transported the victim pursuant to the emergency, then the designated
+ officer of the employee shall, upon the request of the employee, carry out
+ the duties described in subsection (b) regarding a determination of whether
+ the employee may have been exposed to an infectious disease by the victim.
+ `(b) INITIAL DETERMINATION BY DESIGNATED OFFICER- The duties referred to
+ in subsection (a) are that--
+ `(1) the designated officer involved collect the facts relating to the
+ circumstances under which, for purposes of subsection (a), the employee
+ involved may have been exposed to an infectious disease; and
+ `(2) the designated officer evaluate such facts and make a determination
+ of whether, if the victim involved had any infectious disease included
+ on the list issued under paragraph (1) of section 2681(a), the employee
+ would have been exposed to the disease under such facts, as indicated by
+ the guidelines issued under paragraph (2) of such section.
+ `(c) SUBMISSION OF REQUEST TO MEDICAL FACILITY-
+ `(1) IN GENERAL- If a designated officer makes a determination under
+ subsection (b)(2) that an emergency response employee may have been exposed
+ to an infectious disease, the designated officer shall submit to the medical
+ facility to which the victim involved was transported a request for a
+ response under subsection (d) regarding the victim of the emergency involved.
+ `(2) FORM OF REQUEST- A request under paragraph (1) shall be in writing and
+ be signed by the designated officer involved, and shall contain a statement
+ of the facts collected pursuant to subsection (b)(1).
+ `(d) EVALUATION AND RESPONSE REGARDING REQUEST TO MEDICAL FACILITY-
+ `(1) IN GENERAL- If a medical facility receives a request under subsection
+ (c), the medical facility shall evaluate the facts submitted in the
+ request and make a determination of whether, on the basis of the medical
+ information possessed by the facility regarding the victim involved, the
+ emergency response employee was exposed to an infectious disease included
+ on the list issued under paragraph (1) of section 2681(a), as indicated by
+ the guidelines issued under paragraph (2) of such section.
+ `(2) NOTIFICATION OF EXPOSURE- If a medical facility makes a determination
+ under paragraph (1) that the emergency response employee involved has been
+ exposed to an infectious disease, the medical facility shall, in writing,
+ notify the designated officer who submitted the request under subsection
+ (c) of the determination.
+ `(3) FINDING OF NO EXPOSURE- If a medical facility makes a determination under
+ paragraph (1) that the emergency response employee involved has not been
+ exposed to an infectious disease, the medical facility shall, in writing,
+ inform the designated officer who submitted the request under subsection
+ (c) of the determination.
+ `(4) INSUFFICIENT INFORMATION-
+ `(A) If a medical facility finds in evaluating facts for purposes of
+ paragraph (1) that the facts are insufficient to make the determination
+ described in such paragraph, the medical facility shall, in writing,
+ inform the designated officer who submitted the request under subsection
+ (c) of the insufficiency of the facts.
+ `(B)(i) If a medical facility finds in making a determination under paragraph
+ (1) that the facility possesses no information on whether the victim involved
+ has an infectious disease included on the list under section 2681(a),
+ the medical facility shall, in writing, inform the designated officer who
+ submitted the request under subsection (c) of the insufficiency of such
+ medical information.
+ `(ii) If after making a response under clause (i) a medical facility
+ determines that the victim involved has an infectious disease, the medical
+ facility shall make the determination described in paragraph (1) and provide
+ the applicable response specified in this subsection.
+ `(e) TIME FOR MAKING RESPONSE- After receiving a request under subsection
+ (c) (including any such request resubmitted under subsection (g)(2)), a
+ medical facility shall make the applicable response specified in subsection
+ (d) as soon as is practicable, but not later than 48 hours after receiving
+ the request.
+ `(f) DEATH OF VICTIM OF EMERGENCY-
+ `(1) FACILITY ASCERTAINING CAUSE OF DEATH- If a victim described in subsection
+ (a) dies at or before reaching the medical facility involved, and the medical
+ facility receives a request under subsection (c), the medical facility
+ shall provide a copy of the request to the medical facility ascertaining
+ the cause of death of the victim, if such facility is a different medical
+ facility than the facility that received the original request.
+ `(2) RESPONSIBILITY OF FACILITY- Upon the receipt of a copy of a request for
+ purposes of paragraph (1), the duties otherwise established in this subpart
+ regarding medical facilities shall apply to the medical facility ascertaining
+ the cause of death of the victim in the same manner and to the same extent
+ as such duties apply to the medical facility originally receiving the request.
+ `(g) ASSISTANCE OF PUBLIC HEALTH OFFICER-
+ `(1) EVALUATION OF RESPONSE OF MEDICAL FACILITY REGARDING INSUFFICIENT FACTS-
+ `(A) In the case of a request under subsection (c) to which a medical
+ facility has made the response specified in subsection (d)(4)(A) regarding
+ the insufficiency of facts, the public health officer for the community in
+ which the medical facility is located shall evaluate the request and the
+ response, if the designated officer involved submits such documents to the
+ officer with the request that the officer make such an evaluation.
+ `(B) As soon as is practicable after a public health officer receives a
+ request under paragraph (1), but not later than 48 hours after receipt
+ of the request, the public health officer shall complete the evaluation
+ required in such paragraph and inform the designated officer of the results
+ of the evaluation.
+ `(2) FINDINGS OF EVALUATION-
+ `(A) If an evaluation under paragraph (1)(A) indicates that the facts
+ provided to the medical facility pursuant to subsection (c) were sufficient
+ for purposes of determinations under subsection (d)(1)--
+ `(i) the public health officer shall, on behalf of the designated officer
+ involved, resubmit the request to the medical facility; and
+ `(ii) the medical facility shall provide to the designated officer the
+ applicable response specified in subsection (d).
+ `(B) If an evaluation under paragraph (1)(A) indicates that the facts
+ provided in the request to the medical facility were insufficient for
+ purposes of determinations specified in subsection (c)--
+ `(i) the public health officer shall provide advice to the designated
+ officer regarding the collection and description of appropriate facts; and
+ `(ii) if sufficient facts are obtained by the designated officer--
+ `(I) the public health officer shall, on behalf of the designated officer
+ involved, resubmit the request to the medical facility; and
+ `(II) the medical facility shall provide to the designated officer the
+ appropriate response under subsection (c).
+`SEC. 2684. PROCEDURES FOR NOTIFICATION OF EXPOSURE.
+ `(a) CONTENTS OF NOTIFICATION TO OFFICER- In making a notification required
+ under section 2682 or section 2683(d)(2), a medical facility shall provide--
+ `(1) the name of the infectious disease involved; and
+ `(2) the date on which the victim of the emergency involved was transported
+ by emergency response employees to the medical facility involved.
+ `(b) MANNER OF NOTIFICATION- If a notification under section 2682 or section
+ 2682(d)(2) is mailed or otherwise indirectly made--
+ `(1) the medical facility sending the notification shall, upon sending the
+ notification, inform the designated officer to whom the notification is
+ sent of the fact that the notification has been sent; and
+ `(2) such designated officer shall, not later than 10 days after being
+ informed by the medical facility that the notification has been sent,
+ inform such medical facility whether the designated officer has received
+ the notification.
+`SEC. 2685. NOTIFICATION OF EMPLOYEE.
+ `(a) IN GENERAL- After receiving a notification for purposes of section 2682
+ or 2683(d)(2), a designated officer of emergency response employees shall,
+ to the extent practicable, immediately notify each of such employees who--
+ `(1) responded to the emergency involved; and
+ `(2) as indicated by guidelines developed by the Secretary, may have been
+ exposed to an infectious disease.
+ `(b) CERTAIN CONTENTS OF NOTIFICATION TO EMPLOYEE- A notification under this
+ subsection to an emergency response employee shall inform the employee of--
+ `(1) the fact that the employee may have been exposed to an infectious
+ disease and the name of the disease involved;
+ `(2) any action by the employee that, as indicated by guidelines developed
+ by the Secretary, is medically appropriate; and
+ `(3) if medically appropriate under such criteria, the date of such emergency.
+ `(c) RESPONSES OTHER THAN NOTIFICATION OF EXPOSURE- After receiving a
+ response under paragraph (3) or (4) of subsection (d) of section 2683, or
+ a response under subsection (g)(1) of such section, the designated officer
+ for the employee shall, to the extent practicable, immediately inform the
+ employee of the response.
+`SEC. 2686. SELECTION OF DESIGNATED OFFICERS.
+ `(a) IN GENERAL- For the purposes of receiving notifications and responses
+ and making requests under this subpart on behalf of emergency response
+ employees, the public health officer of each State shall designate 1 official
+ or officer of each employer of emergency response employees in the State.
+ `(b) PREFERENCE IN MAKING DESIGNATIONS- In making the designations
+ required in subsection (a), a public health officer shall give preference
+ to individuals who are trained in the provision of health care or in the
+ control of infectious diseases.
+`SEC. 2687. LIMITATIONS WITH RESPECT TO DUTIES OF MEDICAL FACILITIES.
+ `The duties established in this subpart for a medical facility--
+ `(1) shall apply only to medical information possessed by the facility during
+ the period in which the facility is treating the victim for conditions
+ arising from the emergency, or during the 60-day period beginning on the
+ date on which the victim is transported by emergency response employees to
+ the facility, whichever period expires first; and
+ `(2) shall not apply to any extent after the expiration of the 30-day period
+ beginning on the expiration of the applicable period referred to in paragraph
+ (1), except that such duties shall apply with respect to any request under
+ section 2683(c) received by a medical facility before the expiration of
+ such 30-day period.
+`SEC. 2688. RULES OF CONSTRUCTION.
+ `(a) LIABILITY OF MEDICAL FACILITIES AND DESIGNATED OFFICERS- This subpart
+ may not be construed to authorize any cause of action for damages or any
+ civil penalty against any medical facility, or any designated officer,
+ for failure to comply with the duties established in this subpart.
+ `(b) TESTING- This subpart may not, with respect to victims of emergencies,
+ be construed to authorize or require a medical facility to test any such
+ victim for any infectious disease.
+ `(c) CONFIDENTIALITY- This subpart may not be construed to authorize or
+ require any medical facility, any designated officer of emergency response
+ employees, or any such employee, to disclose identifying information with
+ respect to a victim of an emergency or with respect to an emergency response
+ employee.
+ `(d) FAILURE TO PROVIDE EMERGENCY SERVICES- This subpart may not be construed
+ to authorize any emergency response employee to fail to respond, or to deny
+ services, to any victim of an emergency.
+`SEC. 2689. INJUNCTIONS REGARDING VIOLATION OF PROHIBITION.
+ `(a) IN GENERAL- The Secretary may, in any court of competent jurisdiction,
+ commence a civil action for the purpose of obtaining temporary or permanent
+ injunctive relief with respect to any violation of this subpart.
+ `(b) FACILITATION OF INFORMATION ON VIOLATIONS- The Secretary shall
+ establish an administrative process for encouraging emergency response
+ employees to provide information to the Secretary regarding violations of
+ this subpart. As appropriate, the Secretary shall investigate alleged such
+ violations and seek appropriate injunctive relief.
+`SEC. 2690. APPLICABILITY OF SUBPART.
+ `This subpart shall not apply in a State if the chief executive officer
+ of the State certifies to the Secretary that the law of the State is in
+ substantial compliance with this subpart.'.
+ (b) EFFECTIVE DATE- Sections 2680 and 2681 of part E of title XXVI of the
+ Public Health Service Act, as added by subsection (a) of this section, shall
+ take effect upon the date of the enactment of this Act. Such part shall
+ otherwise take effect upon the expiration of the 30-day period beginning
+ on the date on which the Secretary issues guidelines under section 2681(a).
+Subtitle C--Miscellaneous Provisions
+SEC. 421. ADAMHA IV DRUG ABUSE WAIVER.
+ Any State that received a waiver under section 1916(c)(7) of the Public Health
+ Service Act (42 U.S.C. 300x-4(a)(7)) of $100,000 or less for fiscal year 1989
+ shall be granted a waiver under such section for fiscal years 1990 and 1991.
+SEC. 422. PROHIBITION ON USE OF FUNDS.
+ None of the funds made available under this Act, or an amendment made by
+ this Act, shall be used to provide individuals with hypodermic needles or
+ syringes so that such individuals may use illegal drugs.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,965 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Publishing Office]
+[S. 565 Reported in Senate (RS)]
+
+
+
+
+
+
+                                                       Calendar No. 239
+107th CONGRESS
+  1st Session
+                                 S. 565
+
+ To establish the Commission on Voting Rights and Procedures to study 
+  and make recommendations regarding election technology, voting, and 
+ election administration, to establish a grant program under which the 
+    Office of Justice Programs and the Civil Rights Division of the 
+Department of Justice shall provide assistance to States and localities 
+  in improving election technology and the administration of Federal 
+  elections, to require States to meet uniform and nondiscriminatory 
+   election technology and administration requirements for the 2004 
+               Federal elections, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 19, 2001
+
+Mr. Dodd (for himself, Mr. Daschle, Mr. Inouye, Mr. Dayton, Mr. Kerry, 
+Mr. Kennedy, Mr. Corzine, Mr. Leahy, Mr. Reid, Mrs. Clinton, Mr. Bayh, 
+ Mr. Reed, Mr. Nelson of Florida, Mrs. Boxer, Mr. Edwards, Mr. Biden, 
+ Mrs. Carnahan, Ms. Mikulski, Mrs. Murray, Mr. Sarbanes, Ms. Stabenow, 
+ Mr. Wellstone, Mr. Torricelli, Ms. Landrieu, Mr. Johnson, Mr. Levin, 
+Mr. Lieberman, Mr. Miller, Mr. Nelson of Nebraska, Mr. Rockefeller, Mr. 
+ Wyden, Mr. Harkin, Ms. Cantwell, Mr. Akaka, Mr. Baucus, Mr. Bingaman, 
+ Mr. Dorgan, Mr. Durbin, Mr. Feingold, Mrs. Feinstein, Mr. Graham, Mr. 
+Hollings, Mrs. Lincoln, Mr. Schumer, Mr. Cleland, Mr. Kohl, Mr. Breaux, 
+  Mr. Conrad, Mr. Byrd, Mr. Carper, and Mr. Jeffords) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                        Rules and Administration
+
+                           November 28, 2001
+
+                Reported by Mr. Dodd, without amendment
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To establish the Commission on Voting Rights and Procedures to study 
+  and make recommendations regarding election technology, voting, and 
+ election administration, to establish a grant program under which the 
+    Office of Justice Programs and the Civil Rights Division of the 
+Department of Justice shall provide assistance to States and localities 
+  in improving election technology and the administration of Federal 
+  elections, to require States to meet uniform and nondiscriminatory 
+   election technology and administration requirements for the 2004 
+               Federal elections, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Equal Protection 
+of Voting Rights Act of 2001''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+  TITLE I--ESTABLISHMENT OF COMMISSION ON VOTING RIGHTS AND PROCEDURES
+
+Sec. 101. Establishment.
+Sec. 102. Membership of the Commission.
+Sec. 103. Duties of the Commission.
+Sec. 104. Powers of the Commission.
+Sec. 105. Commission personnel matters.
+Sec. 106. Termination of the Commission.
+Sec. 107. Authorization of appropriations for the Commission.
+  TITLE II--ELECTION TECHNOLOGY AND ADMINISTRATION IMPROVEMENT GRANT 
+                                PROGRAM
+
+Sec. 201. Establishment of grant program.
+Sec. 202. Authorized activities.
+Sec. 203. General policies and criteria for the approval of 
+                            applications of States and localities; 
+                            requirements of State plans.
+Sec. 204. Submission of applications of States and localities.
+Sec. 205. Approval of applications of States and localities.
+Sec. 206. Federal matching funds.
+Sec. 207. Audits and examinations of States and localities.
+Sec. 208. Reports to Congress and the Attorney General.
+Sec. 209. Definitions of State and locality.
+Sec. 210. Authorization of appropriations.
+   TITLE III--REQUIREMENTS FOR ELECTION TECHNOLOGY AND ADMINISTRATION
+
+Sec. 301. Uniform and nondiscriminatory requirements for election 
+                            technology and administration.
+Sec. 302. Guidelines and technical specifications.
+Sec. 303. Requiring States to meet requirements.
+Sec. 304. Enforcement by Attorney General.
+                        TITLE IV--MISCELLANEOUS
+
+Sec. 401. Relationship to other laws.
+
+SEC. 2. FINDINGS.
+
+    Congress makes the following findings:
+            (1) The right to vote is a fundamental and incontrovertible 
+        right under the Constitution.
+            (2) There is a need for Congress to encourage and enable 
+        every eligible American to vote by reaffirming that the right 
+        to vote is a fundamental right under the Constitution.
+            (3) There is a need for Congress to encourage and enable 
+        every eligible American to vote by reaffirming that the United 
+        States is a democratic Government ``of the people, by the 
+        people, and for the people'' where every vote counts.
+            (4) There is a need for Congress to encourage and enable 
+        every eligible American to vote by eliminating procedural, 
+        physical, and technological obstacles to voting.
+            (5) There is a need to counter discrimination in voting by 
+        removing barriers to the exercise of the constitutionally 
+        protected right to vote.
+            (6) There is a concern that persons with disabilities and 
+        impairments face difficulties in voting.
+            (7) There are practices designed to purge illegal voters 
+        from voter rolls which result in the elimination of legal 
+        voters as well.
+            (8) State governments have already begun to examine ways to 
+        improve the administration of elections and to modernize 
+        mechanisms and machinery for voting.
+            (9) Congress has authority under section 4 of article I of 
+        the Constitution of the United States, section 5 of the 14th 
+        amendment to the Constitution of the United States, and section 
+        2 of the 15th amendment to the Constitution of the United 
+        States to enact legislation to address the equal protection 
+        violations that may be caused by outdated voting systems.
+            (10) Congress has an obligation to ensure that the 
+        necessary resources are available to States and localities to 
+        improve election technology and election administration and to 
+        ensure the integrity of and full participation of all Americans 
+        in the democratic elections process.
+
+  TITLE I--ESTABLISHMENT OF COMMISSION ON VOTING RIGHTS AND PROCEDURES
+
+SEC. 101. ESTABLISHMENT.
+
+    There is established the Commission on Voting Rights and Procedures 
+(in this title referred to as the ``Commission'').
+
+SEC. 102. MEMBERSHIP OF THE COMMISSION.
+
+    (a) Number and Appointment.--The Commission shall be composed of 12 
+members of whom--
+            (1) 6 members shall be appointed by the President;
+            (2) 3 members shall be appointed by the Minority Leader of 
+        the Senate (or, if the Minority Leader is a member of the same 
+        political party as the President, by the Majority Leader of the 
+        Senate); and
+            (3) 3 members shall be appointed by the Minority Leader of 
+        the House of Representatives (or, if the Minority Leader is a 
+        member of the same political party as the President, by the 
+        Majority Leader of the House of Representatives).
+    (b) Qualifications.--Each member appointed under subsection (a) 
+shall be chosen on the basis of--
+            (1) experience with, and knowledge of--
+                    (A) election law;
+                    (B) election technology;
+                    (C) Federal, State, or local election 
+                administration;
+                    (D) the Constitution; or
+                    (E) the history of the United States; and
+            (2) integrity, impartiality, and good judgment.
+    (c) Period of Appointment; Vacancies.--
+            (1) Period of appointment.--Each member shall be appointed 
+        for the life of the Commission.
+            (2) Vacancies.--
+                    (A) In general.--A vacancy in the Commission shall 
+                not affect its powers.
+                    (B) Manner of replacement.--Not later than 60 days 
+                after the date of the vacancy, a vacancy on the 
+                Commission shall be filled in the same manner as the 
+                original appointment was made and shall be subject to 
+                any conditions which applied with respect to the 
+                original appointment.
+    (d) Chairperson; Vice Chairperson.--
+            (1) In general.--The Commission shall elect a chairperson 
+        and vice chairperson from among its members.
+            (2) Political affiliation.--The chairperson and vice 
+        chairperson may not be affiliated with the same political 
+        party.
+    (e) Date of Appointment.--The appointments of the members of the 
+Commission shall be made not later than 45 days after the date of 
+enactment of this Act.
+    (f) Meetings.--
+            (1) In general.--The Commission shall meet at the call of 
+        the chairperson.
+            (2) Initial meeting.--Not later than 20 days after the date 
+        on which all members of the Commission have been appointed, the 
+        Commission shall hold its first meeting.
+            (3) Quorum.--A majority of the members of the Commission 
+        shall constitute a quorum, but a lesser number of members may 
+        hold hearings.
+    (g) Voting.--Each action of the Commission shall be approved by a 
+majority vote of the entire Commission. Each member shall have 1 vote.
+
+SEC. 103. DUTIES OF THE COMMISSION.
+
+    (a) Study.--
+            (1) In general.--The Commission shall conduct a thorough 
+        study of--
+                    (A) election technology and systems;
+                    (B) designs of ballots and the uniformity of 
+                ballots;
+                    (C) access to ballots and polling places, including 
+                timely notice of voting locations and matters relating 
+                to access for--
+                            (i) voters with disabilities;
+                            (ii) voters with visual impairments;
+                            (iii) voters with limited English language 
+                        proficiency;
+                            (iv) voters who need assistance in order to 
+                        understand the voting process or how to cast a 
+                        ballot; and
+                            (v) other voters with special needs;
+                    (D) the effect of the capacity of voting systems on 
+                the efficiency of election administration, including 
+                how the number of ballots which may be processed by a 
+                single machine over a period of time affects the number 
+                of machines needed to carry out an election at a 
+                particular polling place and the number of polling 
+                places and other facilities necessary to serve the 
+                voters;
+                    (E) voter registration and maintenance of voter 
+                rolls, including the use of provisional voting and 
+                standards for reenfranchisement of voters;
+                    (F) alternative voting methods;
+                    (G) voter intimidation, both real and perceived;
+                    (H) accuracy of voting, election procedures, and 
+                election technology;
+                    (I) voter education;
+                    (J) election personnel and volunteer training;
+                    (K)(i) the implementation of title I of the 
+                Uniformed and Overseas Citizens Absentee Voting Act (42 
+                U.S.C. 1973ff et seq.) and the amendments made by title 
+                II of that Act by--
+                            (I) the Secretary of Defense, acting as the 
+                        Presidential designee under section 101 of that 
+                        Act (42 U.S.C. 1973ff);
+                            (II) each other Federal Government official 
+                        having responsibilities under that Act; and
+                            (III) each State; and
+                    (ii) whether any legislative or administrative 
+                action is necessary to provide a meaningful opportunity 
+                for each absent uniformed services voter (as defined in 
+                section 107(1) of that Act (42 U.S.C. 1973ff-6(1))) and 
+                each overseas voter (as defined in section 107(5) of 
+                that Act (42 U.S.C. 1973ff-6(5))) to register to vote 
+                and vote in elections for Federal office;
+                    (L) the feasibility and advisability of 
+                establishing the date on which elections for Federal 
+                office are held as a Federal or State holiday;
+                    (M) the feasibility and advisability of 
+                establishing modified polling place hours, and the 
+                effects thereof; and
+                    (N)(i) how the Federal Government can, on a 
+                permanent basis, best provide ongoing assistance to 
+                State and local authorities to improve the 
+                administration of elections for Federal office;
+                    (ii) how the requirements for voting systems, 
+                provisional voting, and sample ballots described in 
+                section 301 can, on a permanent basis, best be 
+                administered; and
+                    (iii) whether an existing or a new Federal agency 
+                should provide such assistance.
+            (2) Website.--In addition to any other publication 
+        activities the Commission may be required to carry out, for 
+        purposes of conducting the study under this subsection the 
+        Commission shall establish an Internet website to facilitate 
+        public comment and participation.
+    (b) Recommendations.--
+            (1) Recommendations of best practices in voting and 
+        election administration.--The Commission shall develop specific 
+        recommendations with respect to the matters studied under 
+        subsection (a) that identify those methods of voting and 
+        administering elections studied by the Commission that would--
+                    (A) be convenient, accessible, nondiscriminatory, 
+                and easy to use for voters in elections for Federal 
+                office, including voters with disabilities, voters with 
+                visual impairments, absent uniformed services voters, 
+                overseas voters, and other voters with special needs, 
+                including voters with limited English language 
+                proficiency or who otherwise need assistance in order 
+                to understand the voting process or to cast a ballot;
+                    (B) yield the broadest participation; and
+                    (C) produce accurate results.
+            (2) Recommendations for providing assistance in federal 
+        elections.--The Commission shall develop specific 
+        recommendations with respect to the matters studied under 
+        subsection (a)(1)(N) on how the Federal Government can, on a 
+        permanent basis, best provide ongoing assistance to State and 
+        local authorities to improve the administration of elections 
+        for Federal office, and identify whether an existing or a new 
+        Federal agency should provide such assistance.
+            (3) Recommendations for voter participation in federal 
+        elections.--The Commission shall develop specific 
+        recommendations with respect to the matters studied under 
+        subsection (a) on methods--
+                    (A) to increase voter registration;
+                    (B) to increase the accuracy of voter rolls and 
+                participation and inclusion of legal voters;
+                    (C) to improve voter education; and
+                    (D) to improve the training of election personnel 
+                and volunteers.
+            (4) Consistency with election technology and administration 
+        requirements.--The Commission shall ensure that the specific 
+        recommendations developed under this subsection are consistent 
+        with the uniform and nondiscriminatory election technology and 
+        administration requirements under section 301.
+    (c) Reports.--
+            (1) Interim reports.--Not later than the date on which the 
+        Commission submits the final report under paragraph (2), the 
+        Commission may submit to the President and Congress such 
+        interim reports as a majority of the members of the Commission 
+        determine appropriate.
+            (2) Final report.--
+                    (A) In general.--Not later than 1 year after the 
+                date of enactment of this Act, the Commission shall 
+                submit to the President and Congress a final report 
+                that has received the approval of a majority of the 
+                members of the Commission.
+                    (B) Content.--The final report shall contain--
+                            (i) a detailed statement of the findings 
+                        and conclusions of the Commission on the 
+                        matters studied under subsection (a);
+                            (ii) a detailed statement of the 
+                        recommendations developed under subsection (b) 
+                        which received a majority vote of the members 
+                        of the Commission; and
+                            (iii) any dissenting or minority opinions 
+                        of the members of the Commission.
+
+SEC. 104. POWERS OF THE COMMISSION.
+
+    (a) Hearings.--The Commission or, at its direction, any 
+subcommittee or member of the Commission, may, for the purpose of 
+carrying out this title--
+            (1) hold such hearings, sit and act at such times and 
+        places, take such testimony, receive such evidence, and 
+        administer such oaths; and
+            (2) require, by subpoena or otherwise, the attendance and 
+        testimony of such witnesses and the production of such books, 
+        records, correspondence, memoranda, papers, documents, tapes, 
+        and materials as the Commission or such subcommittee or member 
+        considers advisable.
+    (b) Issuance and Enforcement of Subpoenas.--
+            (1) Issuance.--Any subpoena issued under subsection (a) 
+        shall be issued by the chairperson and vice chairperson of the 
+        Commission acting jointly. Each subpoena shall bear the 
+        signature of the chairperson of the Commission and shall be 
+        served by any person or class of persons designated by the 
+        chairperson for that purpose.
+            (2) Enforcement.--In the case of contumacy or failure to 
+        obey a subpoena issued under subsection (a), the United States 
+        district court for the judicial district in which the 
+        subpoenaed person resides, is served, or may be found may issue 
+        an order requiring such person to appear at any designated 
+        place to testify or to produce documentary or other evidence. 
+        Any failure to obey the order of the court may be punished by 
+        the court as a contempt of that court.
+    (c) Witness Allowances and Fees.--Section 1821 of title 28, United 
+States Code, shall apply to witnesses requested or subpoenaed to appear 
+at any hearing  of the Commission. The per diem and mileage allowances 
+for witnesses shall be paid from funds available to pay the expenses of 
+the Commission.
+    (d) Information From Federal Agencies.--The Commission may secure 
+directly from any Federal department or agency such information as the 
+Commission considers necessary to carry out this title. Upon request of 
+the chairperson and vice chairperson of the Commission acting jointly, 
+the head of such department or agency shall furnish such information to 
+the Commission.
+    (e) Postal Services.--The Commission may use the United States 
+mails in the same manner and under the same conditions as other 
+departments and agencies of the Federal Government.
+    (f) Administrative Support Services.--Upon the request of the 
+chairperson and vice chairperson of the Commission acting jointly, the 
+Administrator of the General Services Administration shall provide to 
+the Commission, on a reimbursable basis, the administrative support 
+services that are necessary to enable the Commission to carry out its 
+duties under this title.
+    (g) Gifts and Donations.--The Commission may accept, use, and 
+dispose of gifts or donations of services or property to carry out this 
+title.
+    (h) Application of Federal Advisory Committee Act.--Except as 
+otherwise provided in this Act, the Commission shall be subject to the 
+requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+
+SEC. 105. COMMISSION PERSONNEL MATTERS.
+
+    (a) Compensation of Members.--Each member of the Commission who is 
+not an officer or employee of the Federal Government shall be 
+compensated at a rate equal to the daily equivalent of the annual rate 
+of basic pay prescribed for level IV of the Executive Schedule under 
+section 5315 of title 5, United States Code, for each day (including 
+travel time) during which such member is engaged in the performance of 
+the duties of the Commission. All members of the Commission who are 
+officers or employees of the United States shall serve without 
+compensation in addition to that received for their services as 
+officers or employees of the United States.
+    (b) Travel Expenses.--The members of the Commission shall be 
+allowed travel expenses, including per diem in lieu of subsistence, at 
+rates authorized for employees of agencies under subchapter I of 
+chapter 57 of title 5, United States Code, while away from their homes 
+or regular places of business in the performance of services for the 
+Commission.
+    (c) Staff.--
+            (1) In general.--The chairperson and vice chairperson of 
+        the Commission, acting jointly, may, without regard to the 
+        civil service laws and regulations, appoint and terminate an 
+        executive director and such other additional personnel as may 
+        be necessary to enable the Commission to perform its duties. 
+        The employment of an executive director shall be subject to 
+        confirmation by the Commission.
+            (2) Compensation.--The chairperson and vice chairperson of 
+        the Commission, acting jointly, may fix the compensation of the 
+        executive director and other personnel without regard to 
+        chapter 51 and subchapter III of chapter 53 of title 5, United 
+        States Code, relating to classification of positions and 
+        General Schedule pay rates, except that the rate of pay for the 
+        executive director and other personnel may not exceed the rate 
+        payable for level V of the Executive Schedule under section 
+        5316 of such title.
+    (d) Detail of Government Employees.--Any Federal Government 
+employee may be detailed to the Commission without reimbursement, and 
+such detail shall be without interruption or loss of civil service 
+status or privilege.
+    (e) Procurement of Temporary and Intermittent Services.--The 
+chairperson and vice chairperson of the Commission, acting jointly, may 
+procure temporary and intermittent services under section 3109(b) of 
+title 5, United States Code, at rates for individuals which do not 
+exceed the daily equivalent of the annual rate of basic pay prescribed 
+for level V of the Executive Schedule under section 5316 of such title.
+
+SEC. 106. TERMINATION OF THE COMMISSION.
+
+    The Commission shall terminate 45 days after the date on which the 
+Commission submits its final report and recommendations under section 
+103(c)(2).
+
+SEC. 107. AUTHORIZATION OF APPROPRIATIONS FOR THE COMMISSION.
+
+    (a) In General.--There are authorized to be appropriated such sums 
+as may be necessary to carry out the purposes of this title.
+    (b) Availability.--Any sums appropriated under the authorization 
+contained in this section shall remain available, without fiscal year 
+limitation, until expended.
+
+  TITLE II--ELECTION TECHNOLOGY AND ADMINISTRATION IMPROVEMENT GRANT 
+                                PROGRAM
+
+SEC. 201. ESTABLISHMENT OF GRANT PROGRAM.
+
+    (a) In General.--The Attorney General, subject to the general 
+policies and criteria for the approval of applications established 
+under section 203 and in consultation with the Federal Election 
+Commission, is authorized to make grants to States and localities to 
+pay the Federal share of the costs of the activities described in 
+section 202.
+    (b) Action Through Office of Justice Programs and Assistant 
+Attorney General for Civil Rights.--In carrying out this title, the 
+Attorney General shall act through the Assistant Attorney General for 
+the Office of Justice Programs and the Assistant Attorney General for 
+the Civil Rights Division.
+
+SEC. 202. AUTHORIZED ACTIVITIES.
+
+    (a) In General.--A State or locality may use grant payments 
+received under this title--
+            (1) to improve, acquire, or replace voting equipment or 
+        technology and improve the accessibility of polling places, 
+        including providing physical access for persons with 
+        disabilities and to other individuals with special needs, and 
+        nonvisual access for voters with visual impairments, and 
+        assistance to voters with limited proficiency in the English 
+        language;
+            (2) to implement new election administration procedures to 
+        increase voter participation and reduce disenfranchisement, 
+        such as ``same-day'' voter registration procedures;
+            (3) to educate voters concerning voting procedures, voting 
+        rights or voting technology, and to train election personnel; 
+        or
+            (4) upon completion of the final report under section 
+        103(c)(2), to implement recommendations contained in such 
+        report under section 103(c)(2)(B)(ii).
+    (b) Requirements for Election Technology and Administration.--A 
+State or locality may use grant payments received under this title--
+            (1) on or after the date on which the voting system 
+        requirements specifications are issued under section 302(a), to 
+        implement the requirements under section 301(a);
+            (2) on or after the date on which the provisional voting 
+        requirements guidelines are issued under section 302(b), to 
+        implement the requirements under section 301(b); and
+            (3) on or after the date on which the sample ballot 
+        requirements guidelines are issued under section 302(c), to 
+        implement the requirements under section 301(c).
+
+SEC. 203. GENERAL POLICIES AND CRITERIA FOR THE APPROVAL OF 
+              APPLICATIONS OF STATES AND LOCALITIES; REQUIREMENTS OF 
+              STATE PLANS.
+
+    (a) General Policies.--The Attorney General shall establish general 
+policies with respect to the approval of applications of States and 
+localities, the awarding of grants, and the use of assistance made 
+available under this title.
+    (b) Criteria.--
+            (1) In general.--The Attorney General shall establish 
+        criteria with respect to the approval of applications of States 
+        and localities submitted under section 204, including the 
+        requirements for State plans under paragraph (2).
+            (2) Requirements of state plans.--The Attorney General 
+        shall not approve an application of a State unless the State 
+        plan of that State provides for each of the following:
+                    (A) Uniform nondiscriminatory voting standards 
+                within the State for election administration and 
+                technology that--
+                            (i) meet the requirements for voting 
+                        systems, provisional voting, and sample ballots 
+                        described in section 301;
+                            (ii) provide for ease and convenience of 
+                        voting for all voters, including accuracy, 
+                        nonintimidation, and nondiscrimination;
+                            (iii) ensure conditions for voters with 
+                        disabilities, including nonvisual access for 
+                        voters with visual impairments, provide the 
+                        same opportunity for access and participation 
+                        by such voters, including privacy and 
+                        independence;
+                            (iv) ensure access for voters with limited 
+                        English language proficiency, voters who need 
+                        assistance in order to understand the voting 
+                        process or how to cast a ballot, and other 
+                        voters with special needs;
+                            (v) ensure compliance with the Voting 
+                        Accessibility for the Elderly and Handicapped 
+                        Act (42 U.S.C. 1973ee et seq.);
+                            (vi) ensure compliance with the Voting 
+                        Rights Act of 1965 (42 U.S.C. 1973 et seq.), 
+                        including sections 4(f)(4) and 203 of such Act 
+                        (42 U.S.C. 1973b(f)(4) and 1973aa-1a);
+                            (vii) ensure compliance with the National 
+                        Voter Registration Act of 1993 (42 U.S.C. 
+                        1973gg et seq.); and
+                            (viii) ensure that overseas voters and 
+                        absent uniformed service voters (as such terms 
+                        are defined in section 107 of the Uniformed and 
+                        Overseas Citizens Absentee Voting Act (42 
+                        U.S.C. 1973ff-6)) have a meaningful opportunity 
+                        to exercise their voting rights as citizens of 
+                        the United States.
+                    (B) Accuracy of the records of eligible voters in 
+                the States to ensure that legally registered voters 
+                appear in such records and prevent any purging of such 
+                records to remove illegal voters that result in the 
+                elimination of legal voters as well.
+                    (C) Voter education programs regarding the right to 
+                vote and methodology and procedures for participating 
+                in elections and training programs for election 
+                personnel and volunteers, including procedures to carry 
+                out subparagraph (D).
+                    (D) An effective method of notifying voters at 
+                polling places on the day of election of basic voting 
+                procedures to effectuate their vote as provided for in 
+                State and Federal law.
+                    (E) A timetable for meeting the elements of the 
+                plan.
+            (3) Consistency with election technology and administration 
+        requirements.--The criteria established by the Attorney General 
+        under this subsection and the State plans required under this 
+        subsection shall be consistent with the uniform and 
+        nondiscriminatory election technology and administration 
+        requirements under section 301.
+    (c) Consultation.--In establishing the general policies and 
+criteria under this section, the Attorney General shall consult with 
+the Federal Election Commission.
+
+SEC. 204. SUBMISSION OF APPLICATIONS OF STATES AND LOCALITIES.
+
+    (a) Submission of Applications by States.--
+            (1) In general.--Subject to paragraph (3), the chief 
+        executive officer of each State desiring to receive a grant 
+        under this title shall submit an application to the Attorney 
+        General at such time, in such manner, and accompanied by such 
+        additional information as the Attorney General, in consultation 
+        with the Federal Election Commission, may reasonably require.
+            (2) Contents of applications.--Each application submitted 
+        under paragraph (1) shall include the following:
+                    (A) State plan.--A State plan that--
+                            (i) is developed in consultation with State 
+                        and local election officials;
+                            (ii) describes the activities authorized 
+                        under section 202 for which assistance under 
+                        this title is sought; and
+                            (iii) contains a detailed explanation of 
+                        how the State will comply with the requirements 
+                        described in section 203(b).
+                    (B) Compliance with federal matching 
+                requirements.--An assurance that the State will pay the 
+                non-Federal share of the costs of the activities for 
+                which assistance is sought from non-Federal sources 
+                that may be accompanied by a request for a waiver of 
+                the matching requirements under section 206(b)(2).
+                    (C) Additional assurances.--Such additional 
+                assurances as the Attorney General, in consultation 
+                with the Federal Election Commission, determines to be 
+                essential to ensure compliance with the requirements of 
+                this title.
+            (3) Availability of state plans for review and comment.--A 
+        State submitting an application under this section shall make 
+        the State plan proposed to be included in that application 
+        available to the public for review and comment prior to the 
+        submission of the application.
+    (b) Submission of Applications by Localities.--
+            (1) In general.--If a State has submitted an application 
+        under subsection (a), a locality of that State may submit an 
+        application for assistance to the Attorney General at such 
+        time, in such manner, and accompanied by such additional 
+        information as the Attorney General, in consultation with the 
+        Federal Election Commission, may reasonably require.
+            (2) Contents of applications.--Each application submitted 
+        by a locality under paragraph (1) shall include the following:
+                    (A) Consistency with state plan.--Information 
+                similar to the information required to be submitted 
+                under the State plan under subsection (a)(2)(A) that is 
+                not inconsistent with that plan.
+                    (B) Nonduplication of effort.--Assurances that any 
+                assistance directly provided to the locality under this 
+                title is not available to that locality through the 
+                State.
+                    (C) Compliance with federal matching 
+                requirements.--A description of how the locality will 
+                pay the non-Federal share from non-Federal sources that 
+                may be accompanied by a request for a waiver of the 
+                matching requirements under section 206(b)(2).
+                    (D) Additional assurances.--Such additional 
+                assurances as the Attorney General, in consultation 
+                with the Federal Election Commission, determines to be 
+                essential to ensure compliance with the requirements of 
+                this title.
+
+SEC. 205. APPROVAL OF APPLICATIONS OF STATES AND LOCALITIES.
+
+    (a) Approval of State Applications.--
+            (1) In general.--The Attorney General, in consultation with 
+        the Federal Election Commission, shall approve applications in 
+        accordance with the general policies and criteria for the 
+        approval of applications established under section 203.
+            (2) Publication of state plans and solicitation of 
+        comments.--After receiving an application of a State submitted 
+        under section 204(a)(1), the Attorney General shall publish the 
+        State plan contained in that application in the Federal 
+        Register and solicit comments on the plan from the public. The 
+        publication of and the solicitation of comments on such a plan 
+        pursuant to this subsection shall not be treated as an exercise 
+        of rulemaking authority by the Attorney General for purposes of 
+        subchapter II of chapter 5 of title 5, United States Code.
+            (3) Approval.--At any time after the expiration of the 30-
+        day period which begins on the date the State plan is published 
+        in the Federal Register under subsection (a), and taking into 
+        consideration any comments received under such subsection, the 
+        Attorney General, in consultation with the Federal Election 
+        Commission, shall approve or disapprove the application that 
+        contains the State plan published under paragraph (2) in 
+        accordance with the general policies and criteria established 
+        under section 203.
+    (b) Approval of Applications of Localities.--If the Attorney 
+General has approved the application of a State under subsection (a), 
+the Attorney General, in consultation with the Federal Election 
+Commission, may approve an application submitted by a locality of that 
+State under section 204(b) in accordance with the general policies and 
+criteria established under section 203.
+
+SEC. 206. FEDERAL MATCHING FUNDS.
+
+    (a) Payments.--The Attorney General shall pay to each State or 
+locality having an application approved under section 205 the Federal 
+share of the cost of the activities described in that application.
+    (b) Federal Share.--
+            (1) In general.--Subject to paragraphs (2), (3), and (4), 
+        for purposes of subsection (a), the Federal share shall be 80 
+        percent.
+            (2) Waiver.--The Attorney General may specify a Federal 
+        share greater than 80 percent under terms and conditions 
+        consistent with this title.
+            (3) Incentive for early action.--For any recipient of a 
+        grant whose application was received prior to March 1, 2002, 
+        the Federal share shall be 90 percent.
+            (4) Reimbursement for cost of meeting requirements.--With 
+        respect to the authorized activities described in section 
+        202(b) insofar as a State or locality incurs expenses to meet 
+        the requirements of section 301, the Federal share shall be 100 
+        percent.
+    (c) Non-Federal Share.--The non-Federal share of payments under 
+this title may be in cash or in kind fairly evaluated, including 
+planned equipment or services.
+
+SEC. 207. AUDITS AND EXAMINATIONS OF STATES AND LOCALITIES.
+
+    (a) Recordkeeping Requirement.--Each recipient of a grant under 
+this title shall keep such records as the Attorney General, in 
+consultation with the Federal Election Commission, shall prescribe.
+    (b) Audit and Examination.--The Attorney General and the 
+Comptroller General, or any authorized representative of the Attorney 
+General or the Comptroller General, shall audit any recipient of a 
+grant under this title and shall have access to any record of a 
+recipient of a grant under this title that the Attorney General or the 
+Comptroller General determines may be related to a grant received under 
+this title for the purpose of conducting an audit or examination.
+
+SEC. 208. REPORTS TO CONGRESS AND THE ATTORNEY GENERAL.
+
+    (a) Reports to Congress.--Not later than January 31, 2003, and each 
+year thereafter, the Attorney General shall submit to the President and 
+Congress a report on the program under this title for the preceding 
+year. Each report shall contain the following:
+            (1) A description and analysis of any activities funded by 
+        a grant awarded under this title.
+            (2) Any recommendation for legislative or administrative 
+        action that the Attorney General considers appropriate.
+    (b) Reports to the Attorney General.--The Attorney General shall 
+require each recipient of a grant under this title to submit reports to 
+the Attorney General, at such time, in such manner, and containing such 
+information as the Attorney General considers appropriate.
+
+SEC. 209. DEFINITIONS OF STATE AND LOCALITY.
+
+    In this title:
+            (1) State.--The term ``State'' means each of the several 
+        States, the District of Columbia, the Commonwealth of Puerto 
+        Rico, American Samoa, Guam, and the United States Virgin 
+        Islands.
+            (2) Locality.--The term ``locality'' means a political 
+        subdivision of a State.
+
+SEC. 210. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) Authorization.--
+            (1) In general.--There are authorized to be appropriated to 
+        the Department of Justice such sums as may be necessary for 
+        each of fiscal years 2002, 2003, 2004, 2005, and 2006.
+            (2) Use of amounts.--Amounts appropriated under paragraph 
+        (1) shall be for the purpose of--
+                    (A) awarding grants under this Act; and
+                    (B) paying for the costs of administering the 
+                program to award such grants.
+            (3) Federal election commission.--There are authorized to 
+        be appropriated to the Federal Election Commission for each of 
+        fiscal years 2002, 2003, 2004, 2005, and 2006 such sums as may 
+        be necessary for the purpose of carrying out the provisions of 
+        this Act.
+    (b) Limitation.--Not more than 1 percent of any sums appropriated 
+under paragraph (1) of subsection (a) may be used to pay for the 
+administrative costs described in paragraph (2)(B) of such subsection.
+    (c) Supplemental Appropriations.--There are authorized to be 
+appropriated as supplemental appropriations for fiscal year 2001, such 
+sums as the Department of Justice and the Federal Election Commission 
+consider necessary to carry out the provisions of this Act.
+
+   TITLE III--REQUIREMENTS FOR ELECTION TECHNOLOGY AND ADMINISTRATION
+
+SEC. 301. UNIFORM AND NONDISCRIMINATORY REQUIREMENTS FOR ELECTION 
+              TECHNOLOGY AND ADMINISTRATION.
+
+    (a) Voting Systems.--Each voting system used in an election for 
+Federal office shall meet the following requirements:
+            (1) The voting system shall permit the voter to verify the 
+        votes selected by the voter on a ballot before the ballot is 
+        cast and tabulated, and shall provide the voter with the 
+        opportunity to correct any error before the ballot is cast and 
+        tabulated.
+            (2) If the voter selects votes for more than one candidate 
+        for a single office, the voting system shall notify the voter 
+        before the ballot is cast and tabulated of the effect of 
+        casting multiple votes for the office, and shall provide the 
+        voter with the opportunity to correct the ballot before the 
+        ballot is cast and tabulated.
+            (3) If the voter selects votes for fewer than the number of 
+        candidates for which votes may be cast, the voting system shall 
+        notify the voter before the ballot is cast and tabulated of the 
+        effect of such selection, and shall provide the voter with the 
+        opportunity to correct the ballot before the ballot is cast and 
+        tabulated.
+            (4) The voting system shall produce a record with an audit 
+        capacity for each ballot cast.
+            (5) The voting system shall be accessible for individuals 
+        with disabilities and other individuals with special needs, 
+        including providing nonvisual accessibility for the blind and 
+        visually impaired, which provides the same opportunity for 
+        access and participation (including privacy and independence) 
+        as for other voters, and shall provide alternative language 
+        accessibility for individuals with limited proficiency in the 
+        English language.
+            (6) The error rate of a voting system in counting and 
+        tabulating ballots (determined by taking into account only 
+        those errors which are attributable to the voting system and 
+        not attributable to the act of the voter) shall not exceed the 
+        error rate standards as established in the national Voting 
+        Systems Standards issued and maintained by the Office of 
+        Election Administration of the Federal Election Commission in 
+        effect on the date of enactment of this Act and shall not be 
+        inconsistent with respect to the requirements under section 
+        301.
+    (b) Provisional Voting.--If the name of an individual who declares 
+to be a registrant eligible to vote at a polling place in an election 
+for Federal office does not appear on the official list of registrants 
+eligible to vote at the polling place, or it is otherwise asserted by 
+an election official that the individual is not eligible to vote at the 
+polling place--
+            (1) an election official at the polling place shall notify 
+        the individual that the individual may cast a provisional 
+        ballot in the election;
+            (2) the individual shall be permitted to cast a vote at 
+        that polling place upon written affirmation by the individual 
+        before an election official at that polling place that the 
+        individual is so eligible;
+            (3) an election official at the polling place shall 
+        transfer the ballot cast by the individual to an appropriate 
+        State or local election official for prompt verification of the 
+        declaration made by the individual in the affirmation required 
+        under paragraph (2);
+            (4) if the appropriate State or local election official 
+        verifies the declaration made by the individual in the 
+        affirmation, the individual's vote shall be tabulated; and
+            (5) the appropriate State or local election official shall 
+        notify the individual in writing of the final  disposition of 
+the individual's affirmation and the treatment of the individual's 
+vote.
+    (c) Sample Ballot.--
+            (1) Mailings to voters.--Not later than 10 days prior to 
+        the date of an election for Federal office, the appropriate 
+        election official shall mail to each individual who is 
+        registered to vote in such election a sample version of the 
+        ballot which will be used for the election together with--
+                    (A) information regarding the date of the election 
+                and the hours during which polling places will be open;
+                    (B) instructions on how to cast a vote on the 
+                ballot; and
+                    (C) general information on voting rights under 
+                Federal and applicable State laws and instructions on 
+                how to contact the appropriate officials if these 
+                rights are alleged to be violated.
+            (2) Publication and posting.--The sample version of the 
+        ballot which will be used for an election for Federal office 
+        and which is mailed under paragraph (1) shall be published in a 
+        newspaper of general circulation in the applicable geographic 
+        area not later than 10 days prior to the date of the election, 
+        and shall be posted publicly at each polling place on the date 
+        of the election.
+
+SEC. 302. GUIDELINES AND TECHNICAL SPECIFICATIONS.
+
+    (a) Voting Systems Requirement Specifications.--In accordance with 
+the requirements of this title regarding technical specifications, the 
+Office of Election Administration of the Federal Election Commission 
+shall develop national Voting Systems Specifications with respect to 
+the voting systems requirement provided under section 301(a).
+    (b) Provisional Voting Guidelines.--In accordance with the 
+requirements of this title regarding provisional voting, the Civil 
+Rights Division of the Department of Justice shall develop initial 
+guidelines with respect to the provisional voting requirement provided 
+for under section 301(b).
+    (c) Sample Ballot Guidelines.--In accordance with the requirements 
+of this title regarding sample ballots, the Civil Rights Division of 
+the Department of Justice shall develop initial guidelines with respect 
+to the sample ballot requirement provided for under section 301(c).
+
+SEC. 303. REQUIRING STATES TO MEET REQUIREMENTS.
+
+    (a) In General.--Subject to subsection (b), a State or locality 
+shall meet the requirements of section 301 with respect to the 
+regularly scheduled election for Federal office held in the State in 
+2004 and each subsequent election for Federal office held in the State, 
+except that a State is not required to meet the guidelines and 
+technical specifications under section 302 prior to the publication of 
+such guidelines and specifications.
+    (b) Treatment of Activities Relating to Voting Systems Under Grant 
+Program.--To the extent that a State has used funds provided under the 
+Election Technology and Administration Improvement grant program under 
+section 202(a) to purchase or modify voting systems in accordance with 
+the State plan contained in its approved application under such 
+program, the State shall be deemed to meet the requirements of section 
+301(a).
+
+SEC. 304. ENFORCEMENT BY ATTORNEY GENERAL.
+
+    (a) In General.--The Attorney General may bring a civil action in 
+an appropriate district court for such relief (including declaratory or 
+injunctive relief) as may be necessary to carry out this title.
+    (b) Action Through Office of Civil Rights.--The Attorney General 
+shall carry out this section through the Office of Civil Rights of the 
+Department of Justice.
+    (c) Relation to Other Laws.--The remedies established by this 
+section are in addition to all other rights and remedies provided by 
+law.
+
+                        TITLE IV--MISCELLANEOUS
+
+SEC. 401. RELATIONSHIP TO OTHER LAWS.
+
+    (a) In General.--Nothing in this Act may be construed to authorize 
+or require conduct prohibited under the following laws, or supersede, 
+restrict, or limit such laws:
+            (1) The National Voter Registration Act of 1993 (42 U.S.C. 
+        1973gg et seq.).
+            (2) The Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.).
+            (3) The Voting Accessibility for the Elderly and 
+        Handicapped Act (42 U.S.C. 1973ee et seq.).
+            (4) The Uniformed and Overseas Citizens Absentee Voting Act 
+        (42 U.S.C. 1973ff et seq.).
+            (5) The Americans with Disabilities Act of 1990 (42 U.S.C. 
+        1994 et seq.).
+    (b) No Effect on Preclearance or Other Requirements Under Voting 
+Rights Act.--The approval by the Attorney General of a State's 
+application for a grant under title II, or any other action taken by 
+the Attorney General or a State under such title, shall not be 
+considered to have any effect on requirements for preclearance under 
+section 5 of the Voting Rights Act of 1965 or any other requirements of 
+such Act.
+
+
+
+
+                                                       Calendar No. 239
+
+107th CONGRESS
+
+  1st Session
+
+                                 S. 565
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To establish the Commission on Voting Rights and Procedures to study 
+  and make recommendations regarding election technology, voting, and 
+ election administration, to establish a grant program under which the 
+    Office of Justice Programs and the Civil Rights Division of the 
+Department of Justice shall provide assistance to States and localities 
+  in improving election technology and the administration of Federal 
+  elections, to require States to meet uniform and nondiscriminatory 
+   election technology and administration requirements for the 2004 
+               Federal elections, and for other purposes.
+
+_______________________________________________________________________
+
+                           November 28, 2001
+
+                       Reported without amendment

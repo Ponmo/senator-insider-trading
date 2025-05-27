@@ -1,0 +1,564 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1025 Enrolled Bill (ENR)]
+
+        H.R.1025
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To provide for a waiting period before the purchase of a handgun, and 
+for the establishment of a national instant criminal background check 
+system to be contacted by firearms dealers before the transfer of any 
+firearm.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+                     TITLE I--BRADY HANDGUN CONTROL
+
+SEC. 101. SHORT TITLE.
+
+    This title may be cited as the ``Brady Handgun Violence Prevention 
+Act''.
+    SEC. 102. FEDERAL FIREARMS LICENSEE REQUIRED TO CONDUCT CRIMINAL 
+      BACKGROUND CHECK BEFORE TRANSFER OF FIREARM TO NON-LICENSEE.
+    (a) Interim Provision.--
+        (1) In general.--Section 922 of title 18, United States Code, is 
+    amended by adding at the end the following:
+    ``(s)(1) Beginning on the date that is 90 days after the date of 
+enactment of this subsection and ending on the day before the date that 
+is 60 months after such date of enactment, it shall be unlawful for any 
+licensed importer, licensed manufacturer, or licensed dealer to sell, 
+deliver, or transfer a handgun to an individual who is not licensed 
+under section 923, unless--
+        ``(A) after the most recent proposal of such transfer by the 
+    transferee--
+            ``(i) the transferor has--
+                ``(I) received from the transferee a statement of the 
+            transferee containing the information described in paragraph 
+            (3);
+                ``(II) verified the identity of the transferee by 
+            examining the identification document presented;
+                ``(III) within 1 day after the transferee furnishes the 
+            statement, provided notice of the contents of the statement 
+            to the chief law enforcement officer of the place of 
+            residence of the transferee; and
+                ``(IV) within 1 day after the transferee furnishes the 
+            statement, transmitted a copy of the statementP
+            to the chief law enforcement officer of the place of 
+            residence of the transferee; and
+            ``(ii)(I) 5 business days (meaning days on which State 
+        offices are open) have elapsed from the date the transferor 
+        furnished notice of the contents of the statement to the chief 
+        law enforcement officer, during which period the transferor has 
+        not received information from the chief law enforcement officer 
+        that receipt or possession of the handgun by the transferee 
+        would be in violation of Federal, State, or local law; or
+            ``(II) the transferor has received notice from the chief law 
+        enforcement officer that the officer has no information 
+        indicating that receipt or possession of the handgun by the 
+        transferee would violate Federal, State, or local law;
+        ``(B) the transferee has presented to the transferor a written 
+    statement, issued by the chief law enforcement officer of the place 
+    of residence of the transferee during the 10-day period ending on 
+    the date of the most recent proposal of such transfer by the 
+    transferee, stating that the transferee requires access to a handgun 
+    because of a threat to the life of the transferee or of any member 
+    of the household of the transferee;
+        ``(C)(i) the transferee has presented to the transferor a permit 
+    that--
+            ``(I) allows the transferee to possess or acquire a handgun; 
+        and
+            ``(II) was issued not more than 5 years earlier by the State 
+        in which the transfer is to take place; and
+        ``(ii) the law of the State provides that such a permit is to be 
+    issued only after an authorized government official has verified 
+    that the information available to such official does not indicate 
+    that possession of a handgun by the transferee would be in violation 
+    of the law;
+        ``(D) the law of the State requires that, before any licensed 
+    importer, licensed manufacturer, or licensed dealer completes the 
+    transfer of a handgun to an individual who is not licensed under 
+    section 923, an authorized government official verify that the 
+    information available to such official does not indicate that 
+    possession of a handgun by the transferee would be in violation of 
+    law;
+        ``(E) the Secretary has approved the transfer under section 5812 
+    of the Internal Revenue Code of 1986; or
+        ``(F) on application of the transferor, the Secretary has 
+    certified that compliance with subparagraph (A)(i)(III) is 
+    impracticable because--
+            ``(i) the ratio of the number of law enforcement officers of 
+        the State in which the transfer is to occur to the number of 
+        square miles of land area of the State does not exceed 0.0025;
+            ``(ii) the business premises of the transferor at which the 
+        transfer is to occur are extremely remote in relation to the 
+        chief law enforcement officer; and
+            ``(iii) there is an absence of telecommunications facilities 
+        in the geographical area in which the business premises are 
+        located.
+    ``(2) A chief law enforcement officer to whom a transferor has 
+provided notice pursuant to paragraph (1)(A)(i)(III) shall make a 
+reasonable effort to ascertain within 5 business days whether receipt or 
+possession would be in violation of the law, including research in 
+whatever State and local recordkeeping systems are available and in a 
+national system designated by the Attorney General.
+    ``(3) The statement referred to in paragraph (1)(A)(i)(I) shall 
+contain only--
+        ``(A) the name, address, and date of birth appearing on a valid 
+    identification document (as defined in section 1028(d)(1)) of the 
+    transferee containing a photograph of the transferee and a 
+    description of the identification used;
+        ``(B) a statement that the transferee--
+            ``(i) is not under indictment for, and has not been 
+        convicted in any court of, a crime punishable by imprisonment 
+        for a term exceeding 1 year;
+            ``(ii) is not a fugitive from justice;
+            ``(iii) is not an unlawful user of or addicted to any 
+        controlled substance (as defined in section 102 of the 
+        Controlled Substances Act);
+            ``(iv) has not been adjudicated as a mental defective or 
+        been committed to a mental institution;
+            ``(v) is not an alien who is illegally or unlawfully in the 
+        United States;
+            ``(vi) has not been discharged from the Armed Forces under 
+        dishonorable conditions; and
+            ``(vii) is not a person who, having been a citizen of the 
+        United States, has renounced such citizenship;
+        ``(C) the date the statement is made; and
+        ``(D) notice that the transferee intends to obtain a handgun 
+    from the transferor.
+    ``(4) Any transferor of a handgun who, after such transfer, receives 
+a report from a chief law enforcement officer containing information 
+that receipt or possession of the handgun by the transferee violates 
+Federal, State, or local law shall, within 1 business day after receipt 
+of such request, communicate any information related to the transfer 
+that the transferor has about the transfer and the transferee to--
+        ``(A) the chief law enforcement officer of the place of business 
+    of the transferor; and
+        ``(B) the chief law enforcement officer of the place of 
+    residence of the transferee.
+    ``(5) Any transferor who receives information, not otherwise 
+available to the public, in a report under this subsection shall not 
+disclose such information except to the transferee, to law enforcement 
+authorities, or pursuant to the direction of a court of law.
+    ``(6)(A) Any transferor who sells, delivers, or otherwise transfers 
+a handgun to a transferee shall retain the copy of the statement of the 
+transferee with respect to the handgun transaction, and shall retain 
+evidence that the transferor has complied with subclauses (III) and (IV) 
+of paragraph (1)(A)(i) with respect to the statement.
+    ``(B) Unless the chief law enforcement officer to whom a statement 
+is transmitted under paragraph (1)(A)(i)(IV) determines that a 
+transaction would violate Federal, State, or local law--
+        ``(i) the officer shall, within 20 business days after the date 
+    the transferee made the statement on the basis of which the notice 
+    was provided, destroy the statement, any record containing 
+    information derived from the statement, and any record created as a 
+    result of the notice required by paragraph (1)(A)(i)(III);
+        ``(ii) the information contained in the statement shall not be 
+    conveyed to any person except a person who has a need to know in 
+    order to carry out this subsection; and
+        ``(iii) the information contained in the statement shall not be 
+    used for any purpose other than to carry out this subsection.
+    ``(C) If a chief law enforcement officer determines that an 
+individual is ineligible to receive a handgun and the individual 
+requests the officer to provide the reason for such determination, the 
+officer shall provide such reasons to the individual in writing within 
+20 business days after receipt of the request.
+    ``(7) A chief law enforcement officer or other person responsible 
+for providing criminal history background information pursuant to this 
+subsection shall not be liable in an action at law for damages--
+        ``(A) for failure to prevent the sale or transfer of a handgun 
+    to a person whose receipt or possession of the handgun is unlawful 
+    under this section; or
+        ``(B) for preventing such a sale or transfer to a person who may 
+    lawfully receive or possess a handgun.
+    ``(8) For purposes of this subsection, the term `chief law 
+enforcement officer' means the chief of police, the sheriff, or an 
+equivalent officer or the designee of any such individual.
+    ``(9) The Secretary shall take necessary actions to ensure that the 
+provisions of this subsection are published and disseminated to licensed 
+dealers, law enforcement officials, and the public.''.
+        (2) Handgun defined.--Section 921(a) of title 18, United States 
+    Code, is amended by adding at the end the following:
+    ``(29) The term `handgun' means--
+        ``(A) a firearm which has a short stock and is designed to be 
+    held and fired by the use of a single hand; and
+        ``(B) any combination of parts from which a firearm described in 
+    subparagraph (A) can be assembled.''.
+    (b) Permanent Provision.--Section 922 of title 18, United States 
+Code, as amended by subsection (a)(1), is amended by adding at the end 
+the following:
+    ``(t)(1) Beginning on the date that is 30 days after the Attorney 
+General notifies licensees under section 103(d) of the Brady Handgun 
+Violence Prevention Act that the national instant criminal background 
+check system is established, a licensed importer, licensed manufacturer, 
+or licensed dealer shall not transfer a firearm to any other person who 
+is not licensed under this chapter, unless--
+        ``(A) before the completion of the transfer, the licensee 
+    contacts the national instant criminal background check system 
+    established under section 103 of that Act;
+        ``(B)(i) the system provides the licensee with a unique 
+    identification number; or
+        ``(ii) 3 business days (meaning a day on which State offices are 
+    open) have elapsed since the licensee contacted the system, and the 
+    system has not notified the licensee that the receipt of a firearm 
+    by such other person would violate subsection (g) or (n) of this 
+    section; and
+        ``(C) the transferor has verified the identity of the transferee 
+    by examining a valid identification document (as defined in section 
+    1028(d)(1) of this title) of the transferee containing a photograph 
+    of the transferee.
+    ``(2) If receipt of a firearm would not violate section 922 (g) or 
+(n) or State law, the system shall--
+        ``(A) assign a unique identification number to the transfer;
+        ``(B) provide the licensee with the number; and
+        ``(C) destroy all records of the system with respect to the call 
+    (other than the identifying number and the date the number was 
+    assigned) and all records of the system relating to the person or 
+    the transfer.
+    ``(3) Paragraph (1) shall not apply to a firearm transfer between a 
+licensee and another person if--
+        ``(A)(i) such other person has presented to the licensee a 
+    permit that--
+            ``(I) allows such other person to possess or acquire a 
+        firearm; and
+            ``(II) was issued not more than 5 years earlier by the State 
+        in which the transfer is to take place; and
+        ``(ii) the law of the State provides that such a permit is to be 
+    issued only after an authorized government official has verified 
+    that the information available to such official does not indicate 
+    that possession of a firearm by such other person would be in 
+    violation of law;
+        ``(B) the Secretary has approved the transfer under section 5812 
+    of the Internal Revenue Code of 1986; or
+        ``(C) on application of the transferor, the Secretary has 
+    certified that compliance with paragraph (1)(A) is impracticable 
+    because--
+            ``(i) the ratio of the number of law enforcement officers of 
+        the State in which the transfer is to occur to the number of 
+        square miles of land area of the State does not exceed 0.0025;
+            ``(ii) the business premises of the licensee at which the 
+        transfer is to occur are extremely remote in relation to the 
+        chief law enforcement officer (as defined in subsection (s)(8)); 
+        and
+            ``(iii) there is an absence of telecommunications facilities 
+        in the geographical area in which the business premises are 
+        located.
+    ``(4) If the national instant criminal background check system 
+notifies the licensee that the information available to the system does 
+not demonstrate that the receipt of a firearm by such other person would 
+violate subsection (g) or (n) or State law, and the licensee transfers a 
+firearm to such other person, the licensee shall include in the record 
+of the transfer the unique identification number provided by the system 
+with respect to the transfer.
+    ``(5) If the licensee knowingly transfers a firearm to such other 
+person and knowingly fails to comply with paragraph (1) of this 
+subsection with respect to the transfer and, at the time such other 
+person most recently proposed the transfer, the national instant 
+criminal background check system was operating and information was 
+available to the system demonstrating that receipt of a firearm by such 
+other person would violate subsection (g) or (n) of this section or 
+State law, the Secretary may, after notice and opportunity for a 
+hearing, suspend for not more than 6 months or revoke any license issued 
+to the licensee under section 923, and may impose on the licensee a 
+civil fine of not more than $5,000.
+    ``(6) Neither a local government nor an employee of the Federal 
+Government or of any State or local government, responsible for 
+providing information to the national instant criminal background check 
+system shall be liable in an action at law for damages--
+        ``(A) for failure to prevent the sale or transfer of a firearm 
+    to a person whose receipt or possession of the firearm is unlawful 
+    under this section; or
+        ``(B) for preventing such a sale or transfer to a person who may 
+    lawfully receive or possess a firearm.''.
+    (c) Penalty.--Section 924(a) of title 18, United States Code, is 
+amended--
+        (1) in paragraph (1), by striking ``paragraph (2) or (3) of''; 
+    and
+        (2) by adding at the end the following:
+    ``(5) Whoever knowingly violates subsection (s) or (t) of section 
+922 shall be fined not more than $1,000, imprisoned for not more than 1 
+year, or both.''.
+    SEC. 103. NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM.
+    (a) Determination of Timetables.--Not later than 6 months after the 
+date of enactment of this Act, the Attorney General shall--
+        (1) determine the type of computer hardware and software that 
+    will be used to operate the national instant criminal background 
+    check system and the means by which State criminal records systems 
+    and the telephone or electronic device of licensees will communicate 
+    with the national system;
+        (2) investigate the criminal records system of each State and 
+    determine for each State a timetable by which the State should be 
+    able to provide criminal records on an on-line capacity basis to the 
+    national system; and
+        (3) notify each State of the determinations made pursuant to 
+    paragraphs (1) and (2).
+    (b) Establishment of System.--Not later than 60 months after the 
+date of the enactment of this Act, the Attorney General shall establish 
+a national instant criminal background check system that any licensee 
+may contact, by telephone or by other electronic means in addition to 
+the telephone, for information, to be supplied immediately, on whether 
+receipt of a firearm by a prospective transferee would violate section 
+922 of title 18, United States Code, or State law.
+    (c) Expedited Action by the Attorney General.--The Attorney General 
+shall expedite--
+        (1) the upgrading and indexing of State criminal history records 
+    in the Federal criminal records system maintained by the Federal 
+    Bureau of Investigation;
+        (2) the development of hardware and software systems to link 
+    State criminal history check systems into the national instant 
+    criminal background check system established by the Attorney General 
+    pursuant to this section; and
+        (3) the current revitalization initiatives by the Federal Bureau 
+    of Investigation for technologically advanced fingerprint and 
+    criminal records identification.
+    (d) Notification of Licensees.--On establishment of the system under 
+this section, the Attorney General shall notify each licensee and the 
+chief law enforcement officer of each State of the existence and purpose 
+of the system and the means to be used to contact the system.
+    (e) Administrative Provisions.--
+        (1) Authority to obtain official information.--Notwithstanding 
+    any other law, the Attorney General may secure directly from any 
+    department or agency of the United States such information on 
+    persons for whom receipt of a firearm would violate subsection (g) 
+    or (n) of section 922 of title 18, United States Code or State law, 
+    as is necessary to enable the system to operate in accordance with 
+    this section. On request of the Attorney General, the head of such 
+    department or agency shall furnish such information to the system.
+        (2) Other authority.--The Attorney General shall develop such 
+    computer software, design and obtain such telecommunications and 
+    computer hardware, and employ such personnel, as are necessary to 
+    establish and operate the system in accordance with this section.
+    (f) Written Reasons Provided on Request.--If the national instant 
+criminal background check system determines that an individual is 
+ineligible to receive a firearm and the individual requests the system 
+to provide the reasons for the determination, the system shall provide 
+such reasons to the individual, in writing, within 5 business days after 
+the date of the request.
+    (g) Correction of Erroneous System Information.--If the system 
+established under this section informs an individual contacting the 
+system that receipt of a firearm by a prospective transferee would 
+violate subsection (g) or (n) of section 922 of title 18, United States 
+Code or State law, the prospective transferee may request the Attorney 
+General to provide the prospective transferee with the reasons therefor. 
+Upon receipt of such a request, the Attorney General shall immediately 
+comply with the request. The prospective transferee may submit to the 
+Attorney General information to correct, clarify, or supplement records 
+of the system with respect to the prospective transferee. After receipt 
+of such information, the Attorney General shall immediately consider the 
+information, investigate the matter further, and correct all erroneous 
+Federal records relating to the prospective transferee and give notice 
+of the error to any Federal department or agency or any State that was 
+the source of such erroneous records.
+    (h) Regulations.--After 90 days' notice to the public and an 
+opportunity for hearing by interested parties, the Attorney General 
+shall prescribe regulations to ensure the privacy and security of the 
+information of the system established under this section.
+    (i) Prohibition Relating To Establishment of Registration Systems 
+With Respect to Firearms.--No department, agency, officer, or employee 
+of the United States may--
+        (1) require that any record or portion thereof generated by the 
+    system established under this section be recorded at or transferred 
+    to a facility owned, managed, or controlled by the United States or 
+    any State or political subdivision thereof; or
+        (2) use the system established under this section to establish 
+    any system for the registration of firearms, firearm owners, or 
+    firearm transactions or dispositions, except with respect to 
+    persons, prohibited by section 922 (g) or (n) of title 18, United 
+    States Code or State law, from receiving a firearm.
+    (j) Definitions.--As used in this section:
+        (1) Licensee.--The term ``licensee'' means a licensed importer 
+    (as defined in section 921(a)(9) of title 18, United States Code), a 
+    licensed manufacturer (as defined in section 921(a)(10) of that 
+    title), or a licensed dealer (as defined in section 921(a)(11) of 
+    that title).
+        (2) Other terms.--The terms ``firearm'', ``handgun'', ``licensed 
+    importer'', ``licensed manufacturer'', and ``licensed dealer'' have 
+    the meanings stated in section 921(a) of title 18, United States 
+    Code, as amended by subsection (a)(2).
+    (k) Authorization of Appropriations.--There are authorized to be 
+appropriated, which may be appropriated from the Violent Crime Reduction 
+Trust Fund established by section 1115 of title 31, United States Code, 
+such sums as are necessary to enable the Attorney General to carry out 
+this section.
+
+SEC. 104. REMEDY FOR ERRONEOUS DENIAL OF FIREARM.
+
+    (a) In General.--Chapter 44 of title 18, United States Code, is 
+amended by inserting after section 925 the following new section:
+
+``§925A. Remedy for erroneous denial of firearm
+
+    ``Any person denied a firearm pursuant to subsection (s) or (t) of 
+section 922--
+        ``(1) due to the provision of erroneous information relating to 
+    the person by any State or political subdivision thereof, or by the 
+    national instant criminal background check system established under 
+    section 103 of the Brady Handgun Violence Prevention Act; or
+        ``(2) who was not prohibited from receipt of a firearm pursuant 
+    to subsection (g) or (n) of section 922,
+may bring an action against the State or political subdivision 
+responsible for providing the erroneous information, or responsible for 
+denying the transfer, or against the United States, as the case may be, 
+for an order directing that the erroneous information be corrected or 
+that the transfer be approved, as the case may be. In any action under 
+this section, the court, in its discretion, may allow the prevailing 
+party a reasonable attorney's fee as part of the costs.''.
+    (b) Technical Amendment.--The chapter analysis for chapter 44 of 
+title 18, United States Code, is amended by inserting after the item 
+relating to section 925 the following new item:
+``925A. Remedy for erroneous denial of firearm.''.
+
+SEC. 105. RULE OF CONSTRUCTION.
+
+    This Act and the amendments made by this Act shall not be construed 
+to alter or impair any right or remedy under section 552a of title 5, 
+United States Code.
+
+SEC. 106. FUNDING FOR IMPROVEMENT OF CRIMINAL RECORDS.
+
+    (a) Use of Formula Grants.--Section 509(b) of title I of the Omnibus 
+Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3759(b)) is 
+amended--
+        (1) in paragraph (2) by striking ``and'' after the semicolon;
+        (2) in paragraph (3) by striking the period and inserting ``; 
+    and''; and
+        (3) by adding at the end the following new paragraph:
+        ``(4) the improvement of State record systems and the sharing 
+    with the Attorney General of all of the records described in 
+    paragraphs (1), (2), and (3) of this subsection and the records 
+    required by the Attorney General under section 103 of the Brady 
+    Handgun Violence Prevention Act, for the purpose of implementing 
+    that Act.''.
+    (b) Additional Funding.--
+        (1) Grants for the improvement of criminal records.--The 
+    Attorney General, through the Bureau of Justice Statistics, shall, 
+    subject to appropriations and with preference to States that as of 
+    the date of enactment of this Act have the lowest percent currency 
+    of case dispositions in computerized criminal history files, make a 
+    grant to each State to be used--
+            (A) for the creation of a computerized criminal history 
+        record system or improvement of an existing system;
+            (B) to improve accessibility to the national instant 
+        criminal background system; and
+            (C) upon establishment of the national system, to assist the 
+        State in the transmittal of criminal records to the national 
+        system.
+        (2) Authorization of appropriations.--There are authorized to be 
+    appropriated for grants under paragraph (1), which may be 
+    appropriated from the Violent Crime Reduction Trust Fund established 
+    by section 1115 of title 31, United States Code, a total of 
+    $200,000,000 for fiscal year 1994 and all fiscal years thereafter.
+     TITLE II--MULTIPLE FIREARM PURCHASES TO STATE AND LOCAL POLICE
+
+SEC. 201. REPORTING REQUIREMENT.
+
+    Section 923(g)(3) of title 18, United States Code, is amended--
+        (1) in the second sentence by inserting after ``thereon,'' the 
+    following: ``and to the department of State police or State law 
+    enforcement agency of the State or local law enforcement agency of 
+    the local jurisdiction in which the sale or other disposition took 
+    place,'';
+        (2) by inserting ``(A)'' after ``(3)''; and
+        (3) by adding at the end thereof the following:
+        ``(B) Except in the case of forms and contents thereof regarding 
+    a purchaser who is prohibited by subsection (g) or (n) of section 
+    922 of this title from receipt of a firearm, the department of State 
+    police or State law enforcement agency or local law enforcement 
+    agency of the local jurisdiction shall not disclose any such form or 
+    the contents thereof to any person or entity, and shall destroy each 
+    such form and any record of the contents thereof no more than 20 
+    days from the date such form is received. No later than the date 
+    that is 6 months after the effective date of this subparagraph, and 
+    at the end of each 6-month period thereafter, the department of 
+    State police or State law enforcement agency or local law 
+    enforcement agency of the local jurisdiction shall certify to the 
+    Attorney General of the United States that no disclosure contrary to 
+    this subparagraph has been made and that all forms and any record of 
+    the contents thereof have been destroyed as provided in this 
+    subparagraph.''.
+               TITLE III--FEDERAL FIREARMS LICENSE REFORM
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Federal Firearms License Reform Act 
+of 1993''.
+
+SEC. 302. PREVENTION OF THEFT OF FIREARMS.
+
+    (a) Common Carriers.--Section 922(e) of title 18, United States 
+Code, is amended by adding at the end the following: ``No common or 
+contract carrier shall require or cause any label, tag, or other written 
+notice to be placed on the outside of any package, luggage, or other 
+container that such package, luggage, or other container contains a 
+firearm.''.
+    (b) Receipt Requirement.--Section 922(f) of title 18, United States 
+Code, is amended--
+        (1) by inserting ``(1)'' after ``(f)''; and
+        (2) by adding at the end the following new paragraph:
+    ``(2) It shall be unlawful for any common or contract carrier to 
+deliver in interstate or foreign commerce any firearm without obtaining 
+written acknowledgement of receipt from the recipient of the package or 
+other container in which there is a firearm.''.
+    (c) Unlawful Acts.--Section 922 of title 18, United States Code, as 
+amended by section 102, is amended by adding at the end the following 
+new subsection:
+    ``(u) It shall be unlawful for a person to steal or unlawfully take 
+or carry away from the person or the premises of a person who is 
+licensed to engage in the business of importing, manufacturing, or 
+dealing in firearms, any firearm in the licensee's business inventory 
+that has been shipped or transported in interstate or foreign 
+commerce.''.
+    (d) Penalties.--Section 924 of title 18, United States Code, is 
+amended by adding at the end the following new subsection:
+    ``(i)(1) A person who knowingly violates section 922(u) shall be 
+fined not more than $10,000, imprisoned not more than 10 years, or both.
+    ``(2) Nothing contained in this subsection shall be construed as 
+indicating an intent on the part of Congress to occupy the field in 
+which provisions of this subsection operate to the exclusion of State 
+laws on the same subject matter, nor shall any provision of this 
+subsection be construed as invalidating any provision of State law 
+unless such provision is inconsistent with any of the purposes of this 
+subsection.''.
+
+SEC. 303. LICENSE APPLICATION FEES FOR DEALERS IN FIREARMS.
+
+    Section 923(a)(3) of title 18, United States Code, is amended--
+        (1) in subparagraph (A), by adding ``or'' at the end;
+        (2) in subparagraph (B) by striking ``a pawnbroker dealing in 
+    firearms other than'' and inserting ``not a dealer in'';
+        (3) in subparagraph (B) by striking ``$25 per year; or'' and 
+    inserting ``$200 for 3 years, except that the fee for renewal of a 
+    valid license shall be $90 for 3 years.''; and
+        (4) by striking subparagraph (C).
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

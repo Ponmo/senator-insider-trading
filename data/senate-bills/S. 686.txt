@@ -1,0 +1,1515 @@
+Calendar No. 181
+101st CONGRESS
+1st Session
+S. 686
+[Report No. 101-94]
+A BILL
+To consolidate and improve Federal laws providing compensation and establishing
+liability for oilspills.
+July 28, 1989
+Reported with amendments
+S 686 RS
+Calendar No. 181
+101st CONGRESS
+1st Session
+S. 686
+[Report No. 101-94]
+To consolidate and improve Federal laws providing compensation and establishing
+liability for oilspills.
+IN THE SENATE OF THE UNITED STATES
+April 4, (legislative day, JANUARY 3), 1989
+Mr. MITCHELL (for himself, Mr. Baucus, Mr. LAUTENBERG, Mr. BIDEN, Mr. KENNEDY,
+Mr. ADAMS, Mr. LEVIN, Mr. FOWLER, Mr. CRANSTON, and Mr. COHEN) introduced
+the following bill; which was read twice and referred to the Committee on
+Environment and Public Works
+July 28, 1989
+Reported, under authority of the order of the Senate of July 27 (legislative
+day, January 3), 1989, by Mr. BURDICK, with amendments
+[Omit the part struck through and insert the part printed in italic]
+A BILL
+To consolidate and improve Federal laws providing compensation and establishing
+liability for oilspills.
+  Be it enacted by the Senate and House of Representatives of the United States
+  of America in Congress assembled,  [Struck out->] That this Act may be cited
+  as the `Oil Pollution Liability and Compensation Act of 1989'. [<-Struck out]
+  SECTION 1. SHORT TITLE- This Act may be cited as the `Oil Pollution
+  Liability and Compensation Act of 1989'.
+  SEC. 2. Table of Contents-
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Findings.
+TITLE I--OIL POLLUTION LIABILITY AND COMPENSATION
+Sec. 101. Definitions.
+Sec. 102. Liability.
+Sec. 103. Uses of fund.
+Sec. 104. Financial responsibility.
+Sec. 105. Litigation, jurisdiction, and venue.
+Sec. 106. State laws and programs.
+TITLE II--OIL POLLUTION PREVENTION AND RESPONSE
+Sec. 201. Federal responsibility.
+Sec. 202. National contingency plan.
+Sec. 203. Regional oil spill response teams.
+Sec. 204. Oil spill contingency plan development and approval.
+Sec. 205. Oil spill research and development program.
+Sec. 206. Penalties.
+Sec. 207. Study of spill prevention in restricted waters.
+TITLE III--CONFORMING AMENDMENTS
+Sec. 301. Trans-Alaska pipeline fund.
+Sec. 302. Intervention on the High Seas Act.
+Sec. 303. Clean Water Act.
+Sec. 304. Deep Water Port Act.
+Sec. 305. Outer Continental Shelf Lands Act.
+  SEC. 3. FINDINGS- The Congress finds that--
+  (1) oil spills in coastal and inland waters that are not contained and
+  removed promptly and completely can cause serious environmental damage,
+  including contamination of water, fouling of shorelines, and injury to fish,
+  shellfish, and wildlife;
+  (2) oil spills in coastal and inland waters that are not contained and
+  removed promptly and completely can cause significant economic impacts
+  including damage to commercial and recreational fisheries, loss of
+  recreational opportunities, and declines in tourism and related activities;
+  (3) oil spills occur on a regular basis in United States coastal and inland
+  waters, with over ten thousand oil spills reported each year between 1973
+  and 1985;
+  (4) in March of this year, the largest oil spill in United States history
+  occurred when the tanker Exxon Valdez ran aground in Prince William Sound,
+  Alaska, spilling eleven million gallons of crude oil to the surrounding
+  waters;
+  (5) the Exxon Valdez spill caused widespread and significant adverse
+  impacts to the marine environment, to fish, birds, marine mammals, and
+  other wildlife, to the commercial fishery of Southeast Alaska and to
+  Native villages and subsistence users, and the cleanup of the spill will
+  cost millions of dollars;
+  (6) in the several months since the wreck of the Exxon Valdez, three
+  additional major oil spills occurred within a twenty-four hour period
+  in waters off Rhode Island, in the Delaware River, and in the Houston
+  Ship Channel;
+  (7) there is a need to establish an adequate system of liability and
+  compensation to assure prompt and complete cleanup of spilled oil and to
+  compensate those damaged by such pollution;
+  (8) it is essential that State oil pollution liability and compensation
+  statutes not be preempted in any manner by Federal law or international
+  protocols;
+  (9) there is a need to provide clear direction to the President to ensure
+  prompt and proper response to oil spills unless the President specifically
+  determines that a private party is providing such a response;
+  (10) there is a need to establish minimum Federal standards and requirements
+  for Federal approval in contingency planning to assure the prompt and
+  effective response to oil spills from facilities and vessels;
+  (11) there is a need to establish an adequate and effective system of
+  response centers storing necessary vessels, equipment, and supplies and
+  housing necessary personnel to assure the prompt and effective response
+  to oil spills from facilities and vessels;
+  (12) there is a need to provide for full and sustained involvement of
+  local citizens and interested groups including fishing, business, and
+  environmental interests, in the development of oil spill contingency plans
+  and the oversight of operations at major oil facilities and terminals;
+  (13) there is a need to establish a clear and sufficient structure of
+  penalties to effectively deter those who would discharge oil to the waters
+  of the United States or to punish those who cause such discharges;
+  (14) there is a need to establish an adequate program of research to
+  develop technologies and practices to clean up oil spills, to understand the
+  environmental impacts of such spills, or to develop the necessary baseline
+  information on the marine environment to understand the long-term effects
+  of such spills; and
+  (15) it is essential that measures to address the problems associated with
+  prevention, response, cleanup, and compensation relating to oil spills be
+  enacted into law at the earliest possible date.
+TITLE I--OIL POLLUTION LIABILITY AND COMPENSATION
+DEFINITIONS
+  SEC. 101. For the purposes of this Act--
+  (1) the terms `vessel', `public vessel', `owner or operator', `remove' or
+  `removal', `contiguous zone', `onshore facility', `offshore facility', and
+  `barrel' shall have the meaning provided in section 311(a) of the Clean
+  Water Act;
+  (2) the terms `person', `navigable waters', and `territorial seas' shall
+  have the meaning provided in section 502 of the Clean Water Act;
+  (3) the term `act of God' means an unanticipated grave natural disaster or
+  other natural phenomenon of an exceptional, inevitable, and irresistible
+  character the effects of which could not have been prevented or avoided
+  by the exercise of due care or foresight;
+  (4) the term `claim' means a request, made in writing for a sum certain, for
+  compensation for damages or removal costs resulting from a discharge of oil;
+  (5) the term `claimant' means any person who presents a claim for
+  compensation under this Act;
+  (6) the term `damages' means damages for economic loss or the loss of or
+  injury to natural resources as specified in section 102(a) of this Act;
+  (7) the term `deepwater port facility' means an offshore facility which
+  is or was licensed under the Deepwater Port Act of 1974;
+  (8) the term `discharge' means any emission other than natural seepage,
+  intentional or unintentional, into the environment, and includes, but is
+  not limited to, spilling, leaking, pumping, pouring, emitting, emptying,
+  or dumping;
+  (9) the term `environment' means the navigable waters, the waters of
+  the contiguous zone, the ocean waters of which the natural resources are
+  under the exclusive management authority of the United States under the
+  Magnuson Fishery Conservation and Management Act, adjoining shorelines,
+  and the ambient air above such waters and shorelines;
+  (10) the term `foreign offshore unit' means a structure or group of
+  structures which is located, in whole or in part, in the territorial sea
+  or on the continental shelf of a foreign country and is or was used for one
+  or more of the following purposes: exploring for, drilling for, producing,
+  storing, handling, transferring, processing, or transporting oil produced
+  from the seabed beneath the foreign country's territorial sea or from the
+  foreign country's continental shelf;
+  (11) the term `Fund' means the Oil Spill Compensation Fund, hereby
+  established under this Act;
+  (12) the term `guarantor' means any person, other than the owner or operator,
+  who provides evidence of financial responsibility for an owner or operator
+  under this Act or section 311(p) of the Clean Water Act;
+  (13) the term `lessee' means a person holding a leasehold interest in
+  an oil or gas lease on submerged lands of the Outer Continental Shelf,
+  granted or maintained under the Outer Continental Shelf Lands Act;
+  (14) the term `liable' or `liability' under this Act shall be construed
+  to be the standard of liability which obtains under section 311 of the
+  Clean Water Act;
+  (15) the term `mobile offshore drilling unit' means a vessel capable of
+  use as an Outer Continental Shelf facility to drill for oil;
+  (16) the term `natural resources' includes land, fish, wildlife, biota,
+  air, water, ground water, drinking water supplies, and other such resources
+  belonging to, managed by, held in trust by, appertaining to, or otherwise
+  controlled by the United States (including the resources of the fishery
+  conservation zone established by the Magnuson Fishery Conservation and
+  Management Act), any State or local government, or any foreign government;
+  (17) the term `oil' means petroleum, including crude oil or any fraction
+  or residue therefrom;
+  (18) the term `Outer Continental Shelf facility' means an offshore facility
+  which is located, in whole or in part, on the Outer Continental Shelf and
+  is or was used for one or more of the following purposes: exploring for,
+  drilling for, producing, storing, handling, transferring, processing,
+  or transporting oil produced from the Outer Continental Shelf;
+  (19) the term `owner or operator' means--
+  (A) with respect to an Outer Continental Shelf facility other than a
+  pipeline or mobile offshore drilling unit, the lessee or permittee of the
+  area in which the facility is located, or the holder of a right of use and
+  easement granted under the Outer Continental Shelf Lands Act for the area
+  in which the facility is located (where the holder is a different person
+  than the lessee or permittee);
+  (B) with respect to a mobile offshore drilling unit being used as an
+  Outer Continental Shelf facility, from which oil is discharged on or
+  above the surface of the water (or which posed a substantial threat of
+  such a discharge), the owner or operator of the unit, and such unit shall
+  be deemed to be a tanker;
+  (C) with respect to a mobile offshore drilling unit being used as an Outer
+  Continental Shelf facility--
+  (i) from which oil is discharged on or above the surface of the water (or
+  which posed a substantial threat of such a discharge), to the extent removal
+  costs or damages exceed the limitation specified in section 102(c)(1)(A), or
+  (ii) from which oil is discharged below the surface of the water (or which
+  posed a substantial threat of such a discharge),
+the lessee or permittee of the area in which the unit is located, or the
+holder of a right of use and easement granted under the Outer Continental
+Shelf Lands Act for the area in which the unit is located (where the holder
+is a different person than the lessee or permittee);
+  (20) the term `permittee' means a person holding an authorization, license,
+  or permit for geological exploration issued under section 11 of the Outer
+  Continental Shelf Lands Act;
+  (21) the term `removal costs' means the costs of removal taken after a
+  discharge of oil has occurred or where there was a substantial threat of
+  a discharge of oil, to prevent, minimize, or mitigate oil pollution from
+  that incident, including all costs of completing removal as determined
+  under section 106(d). Such removal costs are (1) actual costs incurred by
+  the United States, or when under the direction of the responsible Federal
+  official, a State or an Indian tribe, not inconsistent with the National
+  Contingency Plan, and (2) any other necessary costs of response incurred
+  by any other person consistent with the National Contingency Plan;
+  (22) the term `tanker' means a vessel constructed or adapted for the
+  carriage of oil in bulk or in commercial quantities as cargo; and
+  (23) the terms `United States' and `State' mean the several States of the
+  United States, the District of Columbia, the Commonwealth of Puerto Rico,
+  Guam, American Samoa, the United States Virgin Islands, the Commonwealth
+  of the Northern Marianas, and any other territory or possession over which
+  the United States has jurisdiction.
+LIABILITY
+  SEC. 102. (a) Notwithstanding any other provision or rule of law, and
+  subject only to the defenses set forth in subsection (b) of this section,
+  the owner or operator of a vessel or an onshore or offshore facility from
+  which oil is discharged, or which posed the threat of a discharge which
+  causes the incurrence of removal costs, shall be liable for--
+  (1)(A) all removal costs incurred by the United States Government or a
+  State under subsection (c), (d), (e), (f)(4), or (l) of section 311 of the
+  Clean Water Act or under the Intervention on the High Seas or section 18
+  of the Deepwater Port Act of 1974; and
+  (B) any removal costs incurred by any person, including, but not limited
+  to, any State; and
+  (2) all damages for economic loss or loss of natural resources resulting
+  from such a discharge, including--
+  (A) any injury to, destruction of, or loss of any real or personal property;
+  (B) any loss of use of real or personal property;
+  (C) any injury to, destruction,  [Struck out->] of,  [<-Struck out]
+  mitigation, or loss of natural resources, including the reasonable costs
+  of assessing such injury, destruction, or loss;
+  (D) any loss of use, including loss of subsistence use, of any natural
+  resources, without regard to the ownership or management of such resources;
+  (E) any loss of income or profits or impairment of earning capacity resulting
+  from injury to or destruction of real or personal property or natural
+  resources, without regard to the ownership of such property or resources; and
+  (F) any direct or indirect loss of tax, royalty, rental, or net profits
+  share revenue by the Federal Government or any State or political subdivision
+  thereof, for a period of not to exceed one year.
+  (b)(1) There shall be no liability under subsection (a) of this section
+  for a person otherwise liable who can establish by a preponderance of the
+  evidence that the discharge or threat of discharge of oil and the damages
+  resulting therefrom were caused solely by--
+  (A) an act of God;
+  (B) an act of war;
+  (C) an act or omission of a third party other than an employee or agent
+  of the defendant, or than one whose act or omission occurs in connection
+  with a contractual relationship, existing directly or indirectly, with
+  the defendant (except where the sole contractual arrangement arises from a
+  published tariff and acceptance for carriage by a common carrier by rail),
+  if the defendant establishes by a preponderance of the evidence that
+  (i) the defendant exercised due care with respect to the oil concerned,
+  taking into consideration the characteristics of such oil, in light of all
+  relevant facts and circumstances, and (ii) the defendant took precautions
+  against foreseeable acts or omissions of any such third party and the
+  consequences that could foreseeably result from such acts or omissions; or
+  (D) any combination of the foregoing paragraphs.
+  (2) In any case where the owner or operator of a vessel or an onshore or
+  offshore facility can establish by a preponderance of the evidence that
+  a discharge and the damages resulting therefrom were caused solely by
+  an act or omission of a third party in accordance with paragraph (1)(C)
+  (or solely by such an act or omission in combination with an act of God
+  or an act of war), such third party shall be liable under this section as
+  if such third party were the owner or operator of a vessel or onshore or
+  offshore facility from which the discharge actually occurred. Where the
+  owner or operator of a tanker or an onshore or offshore facility which
+  handles or stores oil in bulk or commercial quantities, from which oil is
+  discharged, alleges that such discharge was caused solely by an act or
+  omission of a third party, such owner or operator shall promptly pay to
+  the United States Government, and any other claimant, the costs of removal
+  or damages claimed and shall be entitled by subrogation to all rights of
+  the United States Government or other claimant to recover such costs of
+  removal or damages from such third party under this sub-section.
+  (c)(1) The liability of an owner or operator of a vessel or an onshore
+  or offshore facility for damages and removal costs under this section for
+  each discharge or incident shall not exceed--
+  (A) $500 per gross ton or $10,000,000, whichever is greater, of any tanker
+  carrying oil in bulk or in commercial quantities as cargo, including any
+  such barge operating in the navigable waters;
+  (B) $300 per gross ton or $500,000, whichever is greater, of any other
+  vessel;
+  (C)  [Struck out->] the total of all removal costs under subsection (a)(1)
+  of this section plus $75,000,000  [<-Struck out] $100,000,000 for any
+  Outer Continental Shelf facility;
+  (D) $100,000,000 for any deepwater port facility (including the liability
+  of the licensee for a discharge from any vessel moored at such port,
+  in any case where $100,000,000 exceeds $500 per gross ton of such vessel); or
+  (E) $100,000,000 for any other onshore or offshore facility.
+The liability of an owner or operator under this section for interest
+(including prejudgment interest) shall not be subject to the limitations of
+this paragraph.
+  (2) Notwithstanding the limitations of paragraph (1) of this subsection,
+  the liability of the owner or operator of a vessel or an onshore or
+  offshore facility under subsection (a) of this section shall be the
+  full and total damages and removal costs not offset by any removal costs
+  incurred on behalf of such owner or operator, if (A) the discharge of oil
+  was the result of willful misconduct or gross negligence  [Struck out->]
+  within the privity or knowledge of the owner or operator  [<-Struck out]
+  or of a violation  [Struck out->] (within the privity or knowledge of the
+  owner or operator)  [<-Struck out] of applicable safety, construction,
+  or operating standards or regulations; or (B) the owner or operator fails
+  or refuses to report the discharge where required by law or to provide all
+  reasonable cooperation and assistance requested by a responsible official in
+  connection with removal activities or to provide removal action upon order
+  of a responsible official. For the purpose of this paragraph, applicable
+  standards or regulations with respect to a vessel shall be those adopted
+  or promulgated by a Federal agency.
+  (3) Notwithstanding the limitations of paragraph (1) of this subsection or
+  the defenses of subsection (b) of this section, all removal costs incurred
+  by the United States Government or any State or local official or agency
+  in connection with a discharge of oil from any Outer Continental Shelf
+  facility or a vessel carrying oil as cargo from such a facility shall be
+  borne by the owner or operator of such facility or vessel.
+  (4)(A) The President is authorized to establish by regulation, with
+  respect to any class or category of onshore or offshore facility subject to
+  paragraph (1) (D) or (E) of this subsection, a maximum limit of liability
+  under this section of less than $100,000,000, but not less than $8,000,000,
+  taking into account the size, storage capacity, oil throughput, proximity
+  to sensitive areas, type of oil handled, history of discharges, and other
+  factors relevant to risks posed by the class or category of facility.
+  (B) The President shall, by regulation, not less often than every three
+  years, adjust the limits of liability specified in paragraph (1) of this
+  subsection to reflect significant increases in the Consumer Price Index.
+  (5) If any person who is liable for a discharge or threat of discharge of
+  oil from a vessel or onshore or offshore facility fails without sufficient
+  cause to properly provide removal action upon order of the President
+  pursuant to this Act, such person may be liable to the United States for
+  punitive damages in an amount at least equal to three times the amount of
+  any costs incurred by the Fund as a result of such failure to take proper
+  action. The President is authorized to commence a civil action against
+  any such person to recover the punitive damages. Any moneys received by
+  the United States pursuant to this subsection shall be deposited in the Fund.
+  (6)(A) Any person who receives and complies with the terms of any order
+  issued under paragraph (1) may, within 60 days after completion of the
+  required action, petition the President for reimbursement from the Fund
+  established under this section for the reasonable costs of such action,
+  plus interest. Any interest payable under this subparagraph shall accrue
+  on the amounts expended from the date of expenditure at the same rate as
+  specified for interest on investments of the Fund.
+  (B) If the President refuses to grant all or part of a petition made under
+  this paragraph, the petitioner may within 30 days of receipt of such
+  refusal file an action against the President in the appropriate United
+  States district court seeking reimbursement from the Fund established
+  under this section.
+  (C) Except as provided in clause (D), to obtain reimbursement, the
+  petitioner shall establish by a preponderance of the evidence that it is
+  not liable for  [Struck out->] response  [<-Struck out] removal costs and
+  damages under subsection (f) of this section and that costs for which it
+  seeks reimbursement are reasonable in light of the action required by the
+  relevant order.
+  (D) A petitioner who is liable for  [Struck out->] response  [<-Struck out]
+  removal costs and damages under  [Struck out->] subsection (f)  [<-Struck
+  out] of this section may also recover its reasonable costs of response to
+  the extent that it can demonstrate, on the administrative record, that the
+  President's decision in selecting the removal action ordered was arbitrary
+  and capricious or was otherwise not in accordance with law. Reimbursement
+  awarded under this subparagraph shall include all reasonable removal costs
+  incurred by the petitioner pursuant to the portions of the order found to
+  be arbitrary and capricious or otherwise not in accordance with law.
+  (E) Reimbursement awarded by a court under clause (C) or (D) may include
+  appropriate costs, fees, and other expenses in accordance with subsections
+  (a) and (d) of section 2412 of title 28, United States Code.
+  (d)(1) In the case of an injury to, destruction of, or loss of natural
+  resources under subsection (a)(2)(C) of this section, liability shall be
+  (A) to the United States Government for natural resources belonging to,
+  managed by, controlled by, or appertaining to the United States, and
+  (B) to any State for natural resources within the State or belonging to,
+  managed by, controlled by, or appertaining to such State, and (C) where
+  subsection (e) of this section applies, to the government of a foreign
+  country for natural resources belonging to, managed by, controlled by,
+  or appertaining to such government. The President, or the authorized
+  representative of any State or of the foreign government, shall act on
+  behalf of the public as trustee of such natural resources to recover for
+  such damages. Sums recovered by the United States Government as trustee
+  under this subsection shall be retained by the trustee, without further
+  appropriation, for use only to restore, replace, or acquire the equivalent
+  of such natural resources. Sums recovered by a State as trustee under
+  this subsection shall be available for use only to restore, replace, or
+  acquire the equivalent of such natural resources by the State. The measure
+  of damages in any action under subsection (a)(2)(C) shall not be limited
+  by the sums which can be used to restore or replace such resources. There
+  shall be no double recovery under this Act for natural resource damages,
+  including the costs of damage assessment or restoration, rehabilitation,
+  or acquisition for the same discharge and natural resource.
+  (2)(A) The President shall designate the Federal officials who shall
+  act on behalf of the public as trustees for natural resources under this
+  Act. Such officials shall assess damages for injury to, destruction of,
+  or loss of natural resources for purposes of this Act for those resources
+  under their trusteeship and may, upon request of and reimbursement from
+  a State and at the Federal officials discretion, assess damages for those
+  natural resources under the State's trusteeship.
+  (B) The Governor of each State shall designate State officials who may act
+  on behalf of the public as trustee for natural resources under this Act
+  and shall notify the President of such designations. Such State officials
+  shall assess damages to natural resources for the purposes of this Act
+  for those natural resources under their trusteeship.
+  (C) Any determination or assessment of damages to natural resources for
+  the purposes of this Act made by a Federal or State trustee in accordance
+  with the regulations promulgated under paragraph (3) of this subsection
+  shall have the force and effect of a rebuttable presumption on behalf of
+  the trustee in any administrative or judicial proceeding under this Act.
+  (3)(A) The President, acting through the Administrator of the National
+  Oceanic and Atmospheric Administration, in consultation with the
+  Administrator of the Environmental Protection Agency, the Director of
+  the Fish and Wildlife Service, and the heads of other affected agencies,
+  not later than two years after the enactment of this Act, shall promulgate
+  regulations for the assessment of damages for injury to, destruction of,
+  or loss of natural resources resulting from a discharge of oil for the
+  purpose of this Act.
+  (B) Such regulations shall specify:  [Struck out->] (i)  [<-Struck out]
+  standard procedures for simplified assessments requiring minimal field
+  observation, including establishing measures of damages based on units
+  of discharge or units of affected areas, where damages equal the costs of
+  restoration, replacement, or acquisition of equivalent resources,  [Struck
+  out->] plus demonstrated additional lost use value or other damages beyond
+  such costs,  [<-Struck out] the diminutions in value of those resources
+  pending restoration;  [Struck out->] and (ii) alternative protocols for
+  conducting assessments in individual cases to determine the type and extent
+  of short and long term injury, destruction, mitigation, or loss. Such
+  regulations shall identify the best available procedures to determine such
+  damages, including both direct and indirect injury, destruction, or loss,
+  and shall take into consideration factors including, but not limited to,
+  replacement value, use value, and ability of the ecosystem or resource
+  to recover.  [<-Struck out] and the need for individual assessments. Such
+  regulations shall identify the best available procedures to determine
+  such damages.
+  (C) Such regulations shall be reviewed and revised as appropriate every
+  two years.
+  (e)(1) The recovery of removal costs and damages by (A) persons residing
+  in a foreign country, (B) the government of a foreign country, or (C)
+  any agency or political subdivision of a foreign country, under this Act,
+  shall be exclusively in accordance with this subsection.
+  (2) A claimant under this subsection must demonstrate that the claimant has
+  not been otherwise compensated for incurred removal costs or damages. Except
+  with respect to paragraph (3)(D) of this subsection, a claimant under this
+  subsection must demonstrate (A) that recovery is authorized by a treaty or
+  executive agreement between the United States and the claimant's country, or
+  (B) that the Secretary of State, in consultation with the Attorney General
+  and other appropriate officials, has certified that the claimant's country
+  provides a comparable remedy for United States claimants.
+  (3) Where a discharge, or substantial threat of a discharge of oil in or
+  on the territorial sea, internal waters, or adjacent shoreline of a foreign
+  country occurs, claims for removal costs and damages may be made under this
+  subsection if the removal costs or damages resulted from a discharge of,
+  or substantial threat of a discharge, of oil from--
+  (A) an Outer Continental Shelf facility or a deepwater port facility,
+  (B) a vessel occurring in the navigable waters of the United States,
+  (C) a vessel carrying oil as cargo between two ports subject to the
+  jurisdiction of the United States; or
+  (D) a tanker that received oil at the terminal of the pipeline constructed
+  under the Trans-Alaska Pipeline Authorization Act for transportation to a
+  port in the United States, the discharge or threat having occurred prior
+  to delivery to that port.
+  (4) This subsection shall apply only in the case of discharges of oil
+  occurring after the enactment of this Act.
+  (f)(1) No indemnification, hold harmless, or similar agreement or conveyance
+  shall be effective to transfer from the owner or operator of any vessel
+  or onshore or offshore facility or from any person who may be liable for
+  a discharge or threat of discharge under this section, to any other person
+  the liability imposed under this section. Nothing in this subsection shall
+  bar any agreement to insure, hold harmless, or indemnify a party to such
+  agreement for any liability under this section.
+  (2) Nothing in this Act, including the provisions of paragraph (1) of this
+  subsection, shall bar a cause of action that an owner or operator subject
+  to liability under this section, or a guarantor, has or would have, by
+  reason of subrogation or otherwise against any person.
+  (g) The owner or operator of a vessel shall be liable in accordance with this
+  section and section 311 of the Clean Water Act, under maritime tort law,
+  and as provided in section 106 of this Act, notwithstanding any provision
+  of the Act of March 3, 1851 (46 U.S.C. 183), or the absence of any physical
+  damage to the proprietary interest of the claimant.
+USES OF FUND
+  SEC. 103. (a) The President shall use the money in the Fund for the
+  following purposes:
+  (1) all removal costs or other costs of carrying out the purposes of
+  subsections (c), (d), (i), and (l) of section 311 of the Clean Water Act,
+  sections 5 and 7 of the Intervention on the High Seas Act, and section 18 of
+  the Deepwater Port Act, with respect to discharges, or substantial threats
+  of discharges, of oil (as the term `oil' is defined in each respective Act);
+  (2) payment of any claim for removal costs or damages--
+  (A) in excess of the amount for which the owner or operator of the vessel
+  or onshore or offshore facility from which oil is discharged is liable
+  under section 102 of this Act;
+  (B) where the source of the discharge of oil is not known or cannot be
+  identified; or
+  (C) in any case where the claim has not been satisfied in accordance with
+  subsection (c) of this section;
+  (3) payment of any claim for removal costs and damages that have resulted
+  from the discharge, or substantial threat of a discharge, of oil from a
+  foreign offshore unit;
+  (4)(A) payment of costs incurred by any State in responding to a discharge,
+  or substantial threat of a discharge, of oil into the navigable waters
+  or adjoining shorelines from a vessel, an onshore facility, an offshore
+  facility, or a foreign offshore unit, as provided in subsection (d) of
+  this section;
+  (B) reimbursement to any State for the payment of any claims for removal
+  costs or damages payable under this Act which such State has paid with
+  funds under the control of such State, including payment pursuant to a
+  delegation under subsection (c) of this section;
+  (5) the costs of assessing both short-term and long-term injury to,
+  destruction of, or loss of any natural resources resulting from a discharge
+  of oil;
+  (6) the costs of Federal or State efforts in the res-toration,
+  rehabilitation, or replacement or acquiring the equivalent of any natural
+  resources injured, destroyed, or lost as a result of any discharge of oil;
+ [Struck out->]   (7) subject to such amounts as are provided in appropriation
+ Acts, the costs of providing equipment and similar overhead, related to
+ the purposes of this Act and section 311 of the Clean Water Act, and of
+ establishing and maintaining damage assessment capability, for any Federal
+ agency involved in strike forces, emergency task forces, or other response
+ teams; [<-Struck out]
+  (7) the costs of establishing and operating the regional oil spill response
+  teams required under section 311(s) of the Clean Water Act, of providing
+  other equipment, personnel, and similar overhead related to the purposes of
+  this Act and section 311 of the Clean Water Act, and of establishing and
+  maintaining damage assessment capability for any Federal agency involved
+  in regional oil spill response teams, strike forces, emergency task forces,
+  or other response teams;
+ (8) subject to such amounts as are provided in appropriation Acts, the
+ costs of establishing and maintaining the oil spill research and development
+ program required under section 311(u) of the Clean Water Act;
+   [Struck out->] (8)  [<-Struck out] (9) the costs of a program to identify,
+   investigate, and take enforcement and abatement action against discharges
+   of oil, including the provisions of section 311(j)(1) (C) and (D) of the
+   Clean Water Act; and
+   [Struck out->] (9)  [<-Struck out] (10) all administrative and personnel
+   costs of administering the Fund and this Act.
+  (b) The maximum amount which may be paid from the Fund with respect to any
+  single discharge or incident shall not exceed  [Struck out->] $500,000,000
+  [<-Struck out] $1,000,000,000.
+  (c)(1) The President is authorized to promulgate regulations designating one
+  or more Federal officials who may obligate money in the Fund in accordance
+  with subsection (a) of this section or portions thereof. The President is
+  also authorized to delegate authority to obligate money in the Fund or to
+  settle claims to officials of a State with an adequate program operating
+  under a cooperative agreement with the Federal Government.
+  (2) The President is authorized to delegate the administration of his duties
+  and authorities under this Act to the heads of those Federal departments,
+  agencies, and instrumentalities which the President determines appropriate.
+  (3)(A) Notwithstanding section 9509(d) of the Internal Revenue Code of
+  1954, as revised, the Secretary of the Treasury shall, at the request
+  of the Secretary, advance such sums to the Fund in such amount and at
+  such times as are necessary: Provided, That amounts advanced shall not
+  be greater than $1,000,000,000 per incident: Provided further, That the
+  aggregate amount of repayable advances to the Fund which is outstanding
+  at any one time shall not exceed $1,000,000,000: And provided further,
+  That such advances shall be repaid with interest on or before five years
+  from the date the advance is received into the Fund.
+  (B) Advances made pursuant to this paragraph shall be repaid, and interest
+  on such advances shall be paid, to the general fund of the Treasury. Such
+  interest shall be calculated at the average of the highest rate for
+  commercial and finance company paper of maturities of one hundred and
+  eighty days or less obtaining on each of the days included within the
+  period for which the interest must be paid to the claimant, as published
+  in the Federal Reserve bulletin.
+   [Struck out->] (3)(A)  [<-Struck out] (4)(A) The President shall promulgate,
+   and may from time to time amend, regulations for the presentation, filing,
+   processing, settlement, and adjudication of claims for removal costs or
+   damages resulting from the discharge, or substantial threat of a discharge,
+   of oil under this Act.
+  (B) Whenever the President receives information from any person alleging
+  that a person has incurred removal costs or damages resulting from the
+  discharge, or substantial threat of a discharge, of oil respecting which
+  the owner or operator of a vessel or onshore or offshore facility is or
+  may be liable under section 102 of this Act, the President shall notify
+  the owner, operator, or guarantor or such vessel or facility of that
+  allegation. Such owner or operator or guarantor may, within five days after
+  receiving the notification or presentation of any claim by a claimant,
+  deny the allegation, or deny liability for removal costs and damages for
+  any of the reasons set forth in subsection (b) of section 102 of this Act.
+  (C) The owner or operator of any vessel or onshore or offshore facility
+  from which oil has been discharged shall provide notice to all potentially
+  injured parties.
+  (D) No claims may be asserted against the Fund pursuant to subsection
+  (a) unless such claim is presented in the first instance to the owner
+  or operator or guarantor of the vessel or onshore or offshore facility
+  from which oil has been discharged, if known to the claimant, and to any
+  other person known to the claimant who may be liable under section 102. In
+  any case where the claim has not been satisfied within one hundred eighty
+  days of presentation in accordance with this subsection, the claimant may
+  present the claim to the Fund for payment. No claim against the Fund may
+  be approved or certified during the pendency of an action by the claimant
+  in court to recover costs which are the subject of the claim.
+  (d) The Governor of each State, or any appropriate State official
+  designated by the Governor, is authorized to obligate the Fund for the
+  payment of removal costs in an amount not to exceed $250,000 per discharge
+  or substantial threat of discharge of oil, for the purpose of immediate
+  response, subject only to the requirement that the President be notified
+  within twenty-four hours of any such obligation under the authority of this
+  sentence. In addition, the President shall enter into an agreement with the
+  Governor of any interested State to provide a procedure by which the Governor
+  or designated State official may undertake additional removal action or
+  obligate the Fund for the additional payment of removal costs for response
+  to a particular discharge or substantial threat of discharge, subject to
+  such terms and conditions as may be agreed upon. Payments under subsection
+  (a)(4)(A) of this section, other than as authorized by the first sentence
+  of this subsection, shall be made in accordance with such agreements. The
+  President shall, not later than six months after the enactment of this Act,
+  publish proposed regulations further establishing how the authority of this
+  subsection to obligate the Fund or enter into agreements is to be exercised,
+  and, not later than three months after the close of the comment period on
+  such proposed regulations, shall promulgate such regulations.
+  (e)(1) Payment of any claim by the Fund under this section shall be subject
+  to the United States Government acquiring by subrogation all rights of the
+  claimant to recover the removal costs or damages from the responsible party.
+  (2) Any person, including the Fund, who pays compensation pursuant to this
+  Act to any claimant for costs or damages shall be subrogated to all rights,
+  claims, and causes of action for those costs and damages that the claimant
+  has under this Act or under any other law.
+  (3) Upon request of the President, the Attorney General shall commence an
+  action on behalf of the Fund to recover any compensation paid by the Fund
+  to any claimant pursuant to this Act, and, without regard to any limitation
+  of liability with respect to an owner or operator under section 102(c),
+  all costs incurred by the Fund by reason of the claim, including interest
+  (including prejudgment interest), administrative and adjudicative costs,
+  and attorney's fees. Such an action may be commenced against any owner or
+  operator or (subject to section 104(e)) guarantor, or against any other
+  person who is liable, pursuant to any law, to the compensated claimant
+  or to the Fund, for the cost or damages for which the compensation was
+  paid. Such an action shall be commenced against the responsible foreign
+  government or other responsible party to recover any removal costs or
+  damages paid from the Fund as the result of the discharge, or substantial
+  threat of discharge, of oil from a foreign offshore unit.
+  (f) The Fund shall not be available to pay any claim for costs or damages
+  to the extent the discharge or the damages had been caused by the gross
+  negligence or willful misconduct of that particular claimant.
+  (g) The Comptroller General shall provide an audit review team to audit
+  all payments, obligations, reimbursements, or other uses of the Fund,
+  to assure that the Fund is being properly administered and that claims
+  are being appropriately and expeditiously considered. The Comptroller
+  General shall submit to the Congress an interim report one year after
+  the establishment of the Fund. The Comptroller General shall thereafter
+  provide such auditing of the Fund as is appropriate. Each Federal agency
+  shall cooperate with the Comptroller General in carrying out this subsection.
+  (h)(1) No claim may be presented under this section for recovery of
+  removal costs after the date six years after the date of completion of
+  all removal action.
+  (2) No claim may be presented under this section for recovery of damages
+  unless the claim is presented within three years after the date of the
+  discovery of the loss and its connection with the release in question, or
+  in the case of damages under section 102(a)(2)(C), if later, the date on
+  which final regulations are promulgated under section 102(d)(3) of this Act.
+  (3) The time limitations contained herein shall not begin to run--
+  (A) against a minor until the earlier of the date when such minor reaches
+  eighteen years of age or the date on which a legal representative is duly
+  appointed for the minor, or
+  (B) against an incompetent person until the earlier of the date on which such
+  incompetent's incompetency ends or the date on which a legal representative
+  is duly appointed for such incompetent.
+  (i) Where the President has paid out of the Fund for any removal costs or
+  any costs specified under subsection (a) (5) or (6), no other claim may
+  be paid out of the Fund for the same costs.
+  (j) Except in a situation requiring action to avoid an irreversible loss
+  of natural resources or to prevent or reduce any continuing danger to
+  natural resources or similar need for emergency action, funds may not be
+  used under this Act for the restoration, rehabilitation, or replacement
+  or acquisition of the equivalent of any natural resources until a plan for
+  the use of such funds for such purposes has been developed and adopted by
+  affected Federal agencies and the Governor or Governors of any State having
+  sustained damage to natural resources within its borders, belonging to,
+  managed by or appertaining to such State, after adequate public notice
+  and opportunity for hearing and consideration of all public comment.
+FINANCIAL RESPONSIBILITY
+  SEC. 104. (a)(1) The owner or operator of any vessel over three hundred gross
+  tons (except a non-self-propelled barge that does not carry oil as cargo or
+  fuel), using any port or place in the United States or the navigable waters
+  or any outer continental shelf facility or deepwater port facility or the
+  water of the exclusive economic zone to transship or lighter oil destined
+  for a port or place subject to the jurisdiction of the United States,
+  shall establish and maintain, in accordance with regulations promulgated
+  by the President, evidence of financial responsibility sufficient to meet
+  the maximum amount of liability to which, in the case of a tanker, the
+  owner or operator could be subjected under section 102(c)(1)(A) of this
+  Act, or to which, in the case of any other vessel, the owner or operator
+  could be subjected under section 102(c)(1)(B) of this Act, in a case where
+  the owner or operator would be entitled to limit liability under that
+  section. If the owner or operator owns or operates more than one vessel,
+  evidence of financial responsibility need be established only to meet the
+  maximum liability applicable to the largest of such vessels.
+  (2) The Secretary of the Treasury shall withhold or revoke the clearance
+  required by section 4197 of the Revised Statutes of the United States of
+  any vessel subject to this subsection that does not have the certification
+  required under this subsection or the regulations issued hereunder.
+  (3) The Secretary of the department in which the Coast Guard is operating
+  may (A) deny entry to any outer continental shelf facility, and deepwater
+  port facility, or any port or place in the United States, or (B) detain at
+  such a facility or port or place, any vessel that, upon request, does not
+  produce the certification required under this subsection or the regulations
+  issued hereunder.
+  (4) Any vessel subject to the requirements of this subsection which is
+  found in the navigable waters without the necessary evidence of financial
+  responsibility shall be subject to seizure by the United States of any
+  oil carried as cargo.
+  (b) Each owner or operator with respect to an outer continental shelf
+  facility, deepwater port facility, or other offshore facility, shall
+  establish and maintain evidence of financial responsibility sufficient
+  to meet the maximum amount of liability to which the owner or operator
+  could be subjected under section 102 of this Act in a case where the
+  owner or operator would be entitled to limit liability under that section,
+  or, in the case of an Outer Continental Shelf facility, in the amount of
+  $100,000,000. Such evidence of financial responsibility shall be established
+  according to regulations prescribed by the President.
+  (c) Financial responsibility under this section may be established by any
+  one, or by any combination, of the following methods, which the President
+  determines to be acceptable: evidence of insurance, surety bond, guarantee,
+  letter of credit, qualification as a self-insurer, or other evidence of
+  financial responsibility. Any bond filed shall be issued by a bonding
+  company authorized to do business in the United States. In promulgating
+  requirements under this section, the President is authorized to specify
+  policy or other contractual terms, conditions, or defenses which are
+  necessary, or which are unacceptable, in establishing such evidence of
+  financial responsibility in order to effectuate the purposes of this Act.
+  (d) Any claim for which liability may be established under section 102 of
+  this Act may be asserted directly against any guarantor providing evidence
+  of financial responsibility for an owner or operator liable under that
+  section for costs and damages to which the claim pertains. In defending
+  against such a claim, the guarantor may invoke all rights and defenses
+  which would be available to the responsible party under section 102. The
+  guarantor may also invoke the defense that the discharge was caused by the
+  willful misconduct of the owner or operator, but the guarantor may not
+  invoke any other defense that might be available in proceedings brought
+  by the owner or operator against the guarantor.
+  (e) The total liability of any guarantor in a direct action suit brought
+  under this section shall be limited to the aggregate amount of the monetary
+  limits of the policy of insurance, guarantee, surety bond, letter of credit,
+  or similar instrument obtained from the guarantor by the person subject to
+  liability under section 102 for the purpose of satisfying the requirement
+  for evidence of financial responsibility. Nothing in this subsection shall
+  be construed to limit any other State or Federal statutory, contractual,
+  or common law liability of a guarantor, including, but not limited to,
+  the liability of such guarantor for bad faith either in negotiation or in
+  failing to negotiate the settlement of any claim. Nothing in this subsection
+  shall be construed, interpreted, or applied to diminish the liability of
+  any person under section 102 of this Act or other applicable law.
+  (f)(1) Any person who, after notice and an opportunity for a hearing,
+  is found to have failed to comply with the requirements of this section
+  or the regulations issued thereunder, or with a denial or detention order
+  issued under subsection (a)(3) of this section, shall be liable to the United
+  States for a civil penalty, not to exceed $25,000 per day of violation. The
+  amount of the civil penalty shall be assessed by the President by written
+  notice. In determining the amount of the penalty, the President shall take
+  into account the nature, circumstances, extent, and gravity of the violation,
+  the degree of culpability, any history of prior violation, ability to pay,
+  and such other matters as justice may require. The President may compromise,
+  modify, or remit, with or without conditions, any civil penalty which is
+  subject to imposition or which has been imposed under this paragraph. If
+  any person fails to pay an assessed civil penalty after it has become final,
+  the President may refer the matter to the Attorney General for collection.
+  (2) In addition to, or in lieu of, assessing a penalty under paragraph
+  (1) of this subsection, the President may request the Attorney General to
+  secure such relief as necessary to compel compliance with this section,
+  including, but not limited to, a judicial order terminating operations. The
+  district courts of the United States shall have jurisdiction to grant such
+  relief as the public interest and the equities of the case may require.
+  (g) Any regulation respecting financial responsibility, which has been issued
+  pursuant to any provision of law repealed or superseded by this Act, and
+  which is in effect on the date immediately preceding the effective date of
+  this Act, shall be deemed and construed to be a regulation issued pursuant
+  to this section. Such a regulation shall remain in full force and effect
+  unless and until superseded by new regulations issued under this section.
+LITIGATION, JURISDICTION AND VENUE
+  SEC. 105. (a) Review of any regulation promulgated under this Act may be
+  had upon application by any interested person only in the Circuit Court
+  of Appeals of the United States for the District of Columbia. Any such
+  application shall be made within ninety days from the date of promulgation
+  of such regulations. Any matter with respect to which review could have been
+  obtained under this subsection shall not be subject to judicial review in
+  any civil or criminal proceeding for enforcement or to obtain damages or
+  recovery of response costs.
+  (b) Except as provided in subsections (a) and (c) of this section, the
+  United States district courts shall have exclusive original jurisdiction
+  over all controversies arising under this Act, without regard to the
+  citizenship of the parties or the amount in controversy. Venue shall lie
+  in any district in which the discharge or injury or damages occurred, or
+  in which the defendant resides, may be found, has its principal office,
+  or has appointed an agent for service of process. For the purposes of this
+  section, the Fund shall reside in the District of Columbia.
+  (c) A State trial court of competent jurisdiction over similar claims may
+  consider claims under section 102 or State law and any final judgment of
+  such court (when no longer subject to ordinary forms of review) shall be
+  recognized, valid, and enforceable for all purposes of section 102 and
+  section 103 of this Act.
+  (d) The provisions of subsections (a), (b), and (c) of this section shall
+  not apply to any controversy or other matter resulting from the assessment
+  or collection of any tax, or to the review of any regulation promulgated
+  under the Internal Revenue Code of 1954.
+  (e) The President may prescribe the necessary regulations to carry out
+  this Act.
+  (f) No provision of this Act shall be deemed or held to moot any litigation
+  concerning any discharge of oil, or any damages associated therewith,
+  commenced prior to enactment of this Act.
+  (g)(1) Except as provided in paragraphs (3) and (4), no action may be
+  commenced for damages (as defined in section 101(6)) under this Act,
+  unless that action is commenced within three years after the date of the
+  discovery of the loss and its connection with the release in question,
+  or in the case of damages under section 102(a)(2)(C), if later, the date
+  on which regulations are promulgated under section 102(d)(3) of this Act.
+  (2) An action for recovery of removal costs referred to in section 102(a)(1)
+  must be commenced within three years after completion of the removal
+  action. In any such action described in this subsection, the court shall
+  enter a declaratory judgment on liability for removal costs or damages
+  that will be binding on any subsequent action or actions to recover further
+  removal costs or damages. Except as otherwise provided in this paragraph,
+  an action may be commenced under section 102 for recovery of removal costs
+  at any time after such costs have been incurred.
+  (3) No action for contribution for any removal costs or damages may be
+  commenced more than three years after--
+  (A) the date of judgment in any action under this Act for recovery of such
+  costs or damages, or
+  (B) the date of entry of a judicially approved settlement with respect to
+  such costs or damages.
+  (4) No action based on rights subrogated pursuant to this Act by reason of
+  payment of a claim may be commenced under this Act more than three years
+  after the date of payment of such claim.
+  (5) The time limitations contained herein shall not begin to run--
+  (A) against a minor until the earlier of the date when such minor reaches
+  eighteen years of age or the date on which a legal representative is duly
+  appointed for such minor, or
+  (B) against an incompetent person until the earlier of the date on which such
+  incompetent's incompetency ends or the date on which a legal representative
+  is duly appointed for such incompetent.
+STATE LAWS AND PROGRAMS
+  SEC. 106. (a) Nothing in this Act shall be construed or interpreted as
+  preempting any State from imposing any additional liability or requirements
+  with respect to the discharge of oil or other pollution by oil within
+  such State. Nothing in this Act shall affect or modify in any way the
+  obligations or liabilities of any person under other Federal or State law,
+  including common law, with respect to discharges of oil.
+  (b) Nothing in this Act or in section 9507 of the Internal Revenue Code
+  of 1954 shall in any way affect, or be construed to affect, the authority
+  of any State--
+  (1) to establish, or to continue in effect, a fund any purpose of which
+  is to pay for costs or damages arising out of, or directly resulting from,
+  oil pollution or the substantial threat of oil pollution; or
+  (2) to require any person to contribute to such a fund.
+  (c) A State may enforce, on the navigable waters of such State, the
+  requirements for evidence of financial responsibility applicable under
+  section 104 of this Act.
+  (d) The President shall consult with the affected State or States on
+  the appropriate removal action to be taken. Removal with respect to any
+  discharge or incident shall be considered completed when so determined by
+  the President and the Governor or Governors of the affected State or States.
+  (e) Nothing in this Act, the Act of March 3, 1851, as amended (46 U.S.C. 183
+  et seq.), or section 9507 of the Internal Revenue Code of 1954, shall in
+  any way affect, or be construed to affect, the authority of the United
+  States or any State or political subdivision thereof--
+  (1) to impose additional liability or additional requirements, or
+  (2) to impose, or to determine the amount of, any fine or penalty (whether
+  criminal or civil in nature) for any violation of law,
+relating to the discharge, or substantial threat of a discharge, of oil.
+ [Struck out->] STUDY OF SPILL PREVENTION IN RESTRICTED WATERS [<-Struck out]
+ [Struck out->]   SEC. 107. The President shall conduct a study, and report
+ the results of such study to the Congress not later than one year after the
+ enactment of this Act, on improved methods for the prevention of discharges
+ of oil in restricted waters and similar portions of bays, estuaries, and near
+ shore waters. In the conduct of such study, the President shall examine the
+ causes of recent major discharges of oil from vessels in the Delaware River,
+ and consider modifications in tanker construction and operation standards,
+ crew training and locale familiarization requirements, improvements in
+ navigation aids, and other approaches with the potential for reducing the
+ likelihood for discharges of oil in such waters. [<-Struck out]
+ [Struck out->] FEDERAL RESPONSIBILITY [<-Struck out]
+ [Struck out->]   SEC. 108. Section 311(c)(1) of the Federal Water Pollution
+ Control Act is amended by striking all that follows after `1976)', and
+ inserting the following in lieu thereof: `the President shall remove or
+ arrange for the removal of such oil or substance at any time. The President
+ is not required to remove or arrange for removal of such oil or substance
+ only if the President finds that such removal will be done properly and
+ promptly by the owner or operator of the vessel, onshore facility, or
+ offshore facility, from which the discharge occurs. Such owner or operator
+ must demonstrate to the satisfaction of the President that such owner or
+ operator has the financial resources and technical capability necessary to
+ effectively remove the oil or hazardous substance.' [<-Struck out]
+TITLE II--OIL POLLUTION PREVENTION AND RESPONSE
+FEDERAL RESPONSIBILITY
+  SEC. 201. (a) Section 311(c)(1) of the Federal Water Pollution Control Act
+  is amended by striking all that follows after `1976)', and inserting the
+  following in lieu thereof: `the President shall remove or arrange for the
+  removal of such oil or substance at any time, unless the President determines
+  such removal will be done properly and promptly by a State or by the owner
+  or operator of the vessel, onshore facility, or offshore facility, from
+  which the discharge occurs. Such owner or operator must demonstrate to the
+  satisfaction of the President that such owner or operator has the financial
+  resources and technical capability necessary to effectively remove the oil
+  or hazardous substance. The President is authorized to order such owner
+  or operator to remove or arrange to remove the oil or hazardous substance
+  and to continue such removal actions until the President determines that
+  such actions are no longer necessary to minimize or mitigate damage to the
+  public health or welfare, including, but not limited to, fish, shellfish,
+  wildlife, and public and private property, shorelines, and beaches.'
+  (b) Section 311(d) of the Federal Water Pollution Control Act (33
+  U.S.C. 1321(d)) is amended by striking out that section and inserting in
+  lieu thereof the following:
+  `(d) SUBSTANTIAL THREAT OF POLLUTION HAZARD- Notwithstanding subsection
+  (c)(1) of this section, whenever a marine disaster in or upon the navigable
+  waters of the United States has created a substantial threat of a pollution
+  hazard to the public health or welfare of the United States, including,
+  but not limited to, fish, shellfish, wildlife, and the public and private
+  shorelines and beaches of the United States, because of a discharge, or
+  an imminent discharge, of oil, or of a hazardous substance, from a vessel
+  or a facility--
+  `(1) the President shall, acting through the person designated under
+  subsection (c)(2)(L) of this section, coordinate and direct all public
+  and private efforts directed at the removal or elimination of such threat,
+  including direction of the activities of the strike force established by
+  subsection (c)(2)(C) of this section and the regional oil spill response
+  teams established by subsection (s) of this section;
+  `(2) the President may summarily remove, and, if necessary, destroy such
+  vessel by whatever means are available;
+  `(3) the President may, if necessary to ensure prompt and proper removal
+  or elimination of such threat, or removal or destruction of such vessel,
+  take any action to achieve such ends without regard to any provisions
+  of law governing competitive bidding, the employment of personnel or the
+  expenditure of appropriate funds;
+  `(4) each Federal agency, State, owner or operator of a vessel or a facility,
+  or other person shall participate in any efforts under this subsection
+  as required under the National Contingency Plan and as directed by the
+  person designated under subsection (c)(2)(L) of this section, and may be
+  reimbursed for the costs incurred from the Fund established under the Oil
+  Pollution Liability and Compensation Act of 1989 to the extent authorized
+  by that Act and the National Contingency Plan;
+  `(5) any costs incurred by the United States under this subsection or under
+  the Intervention on the High Seas Act or the convention defined in section
+  2(3) thereof shall be a cost incurred by the United States Government for the
+  purposes of subsection (f) in the removal of oil or hazardous substance; and
+  `(6) the person designated under subsection (c)(2)(L) of this section shall
+  consult with the trustees for natural resources designated under the Oil
+  Pollution Liability and Compensation Act of 1989 concerning actions taken
+  pursaunt to this subsection.'.
+NATIONAL CONTINGENCY PLAN
+  SEC. 202. Section 311(c) of the Federal Water Pollution Control Act (33
+  U.S.C. 1321 (c)) is amended by striking paragraph (2) and inserting the
+  following new paragraph in lieu thereof:
+  `(2) NATIONAL CONTINGENCY PLAN- Within sixty days after the effective
+  date of this section, the President shall prepare and publish a National
+  Contingency Plan (hereinafter referred to in this paragraph as the `Plan')
+  for removal of oil and hazardous substances, pursuant to this subsection
+  and subsection (d) of this section. Such plan shall provide for efficient,
+  coordinated, and effective action to minimize damage from oil and hazardous
+  substance discharges, including containment, dispersal, and removal of
+  oil and hazardous substances, and shall include, but not be limited to--
+  `(A) assignment of duties and responsibilities among Federal departments
+  and agencies in coordination with State and local agencies, including,
+  but not limited to, water pollution control, port authorities, conservation
+  and trusteeship of natural resources;
+  `(B) identification, procurement, maintenance, and storage of equipment
+  and supplies;
+  `(C) establishment or designation of a strike force, in addition to regional
+  oil spill response teams consisting of personnel who shall be trained,
+  prepared, and available to provide necessary services to carry out the Plan,
+  including the establishment at major ports as provided under subsection
+  (s) of this section (regional oil spill response teams), to be determined
+  by the President, of emergency task forces of trained personnel, adequate
+  oil and hazardous substance pollution control equipment and material, and a
+  detailed oil and hazardous substance pollution prevention and removal plan,
+  including measures to protect and restore fisheries and wildlife;
+  `(D) a system of surveillance and notice designed to insure earliest possible
+  notice of discharges of oil and hazardous substances and imminent threats
+  of such discharges to the appropriate State and Federal agencies;
+  `(E) establishment of a national center to provide coordination and direction
+  for operations by strike forces, the regional oil spill response teams
+  required under subsection (s) of this section, and others in carrying out
+  the Plan;
+  `(F) procedures and techniques to be employed in identifying, containing,
+  dispersing, and removing oil and hazardous substances;
+  `(G) a schedule, prepared in cooperation with the States, identifying
+  dispersants, chemicals and other spill mitigating devices, if any, that
+  may be used in carrying out the Plan; the waters in which such dispersants,
+  chemicals and other spill mitigating devices may be used; and the quantities
+  of such dispersant, chemical or other spill mitigating devices which can
+  be used safely in such waters, which schedule shall provide in the case of
+  any dispersant, chemicals and other spill mitigating devices, or waters
+  not specifically identified in such schedule that the President, or his
+  delegate, may, on a case-by-case basis, identify the dispersants, chemicals
+  and other spill mitigating devices which may be used, the waters in which
+  they may be used, and the quantities which can be used safely in such waters;
+  `(H) a system whereby the State or States affected by a discharge of oil
+  or hazardous substance may act where necessary to remove such discharge
+  and such State or States may be reimbursed in the case of any discharges
+  of oil from a vessel or facility, for the reasonable costs incurred in
+  such removal from the Fund established under the Oil Spill Liability and
+  Compensation Act of 1989;
+  `(I) procedures to provide equipment that is adequate to minimize damage
+  resulting from a discharge of oil or a hazardous substance and that is
+  appropriate for the environmental features of the area for which it is
+  provided, and to require that all such equipment be certified at least
+  once every three years by the Secretary of the department in which the
+  Coast Guard is operating;
+  `(J) provisions to assure that the Federal On Scene Coordinator designated
+  pursuant to the Plan takes steps within a minimum amount of time to assume
+  control of a response to a spill or discharge, resolve State and local
+  concerns, and implement approved procedures promptly;
+  `(K) development and maintenance of a periodically updated international
+  inventory of equipment and personnel to remove discharges of oil and
+  hazardous substances, available to the public, which shall, to the
+  extent of available information list all equipment, whether in private or
+  governmental custody, capable of containing or cleaning up discharges of
+  oil and hazardous substances and specify for such equipment the nature,
+  type, age, manufacturer, precise current location, name of current owner,
+  name and phone number of the individual with authority over its disposition,
+  and list all contractors and other persons qualified in the containment
+  or cleanup of oil and hazardous substance discharges and specify for each
+  such contractor or other persons the number of available personnel and their
+  skills, the nature and capabilities of available equipment, the name of the
+  principal officer, the name and phone number of an individual with emergency
+  response authority, and such other information as the President may require;
+  `(L) designation of a person who shall be primarily responsible for carrying
+  out the President's authority under this subsection, and who shall direct
+  or coordinate all Federal, State, and private efforts under subsection
+  (d) of this section to prepare for and respond to a substantial threat
+  of a pollution hazard to the public health and welfare, including any
+  such efforts of a strike force established under subparagraph (C) of this
+  paragraph and of the regional oil spill response teams established under
+  subsection (s) of this section;
+  `(M) establishment of criteria and procedures to ensure prompt and
+  proper identification of, and response to, marine disasters that create a
+  substantial threat of a pollution hazard to the public health or welfare
+  of the United States, as required under subsection (d) of this section;
+  `(N) establishment of standards and procedures which comply with the
+  provisions of the Oil Pollution Liability and Compensation Act of 1989 for
+  reimbursement from the Fund established under that Act of removal costs
+  incurred under this subsection and subsection (d) of this section by the
+  United States or other persons; and
+  `(O) establishment of procedures to notify and inform all entities that
+  may be involved in removal of discharges of oil and hazardous substances,
+  including Federal agencies, States, and other persons, of each such
+  entity's duties and rights and of the procedures each such entity shall
+  follow under this subsection and subsection (d) of this section.
+The President may, from time to time, as he deems advisable revise or
+otherwise amend the National Contingency Plan. After publication of the
+National Contingency Plan, the removal of oil and hazardous substances
+and actions to minimize damage from oil and hazardous substance discharges
+shall, to the greatest extent possible, be in accordance with the National
+Contingency Plan.'.
+REGIONAL OIL SPILL RESPONSE TEAMS
+  SEC. 203. Section 311 of the Federal Water Pollution Control Act (33
+  U.S.C. 1321) is amended by adding at the end thereof the following new
+  subsection:
+  `(s)(1) REGIONAL OIL SPILL RESPONSE TEAMS- The President shall revise the
+  National Contingency Plan prepared and published pursuant to subsection
+  (c)(2) of this section to require establishment, operation, and maintenance
+  of an oil spill response team, including use of existing public or private
+  personnel and equipment, for each region that the President determines is
+  in need of such a response team, including, but not limited to, the regions
+  of Alaska, the Pacific Northwest, California, the Gulf of Mexico, and the
+  south Atlantic coast, New England, the mid-Atlantic coast, and for inland
+  waters that is capable of promptly and properly removing oil from a worst
+  case discharge, defined as a discharge, in adverse weather conditions, of
+  the largest vessel which is known to transit a given region. Such response
+  teams shall--
+  `(A) consist of time, dedicated and trained personnel, fully operational
+  vessels and equipment, or have immediate access to use of such personnel,
+  vessels, and equipment, for spill containment, recovery, dispersal,
+  shoreline cleanup and protection and rescue of fisheries and wildlife;
+  `(B) have continuous twenty-four-hour communications capability to assure
+  rapid notification and coordination with the national center and strike
+  forces established under subsection (c)(2) of this section, State and local
+  officials, and other appropriate entities and ensure that response teams,
+  and all equipment and vessels required for those response teams, are properly
+  and immediately in use upon receiving notice of any discharge of oil;
+  `(C) conduct training and periodic drills, without prior notice, to
+  demonstrate their continued effectiveness and readiness;
+  `(D) work with State and local officials to enhance the contingency
+  planning of such officials and assure pre-planning of joint response
+  efforts, including appropriate procedures for mechanical recovery,
+  dispersal, shoreline cleanup and protection and rescue of fisheries and
+  wildlife. Response teams also shall work with State and local officials
+  to obtain agreements for use of dispersants and other mitigating devices
+  as part of regional contingency plans; and
+  `(E) establish and maintain an inventory of personnel and equipment, in
+  coordination with the international inventory developed under the National
+  Contingency Plan, to support spill response activities, consisting at a
+  minimum of locations, status, and availability of spill response resources
+  and related information.
+  `(2) FUNDING- Amounts in the Fund established under the Oil Pollution
+  Liability and Compensation Act of 1989 shall be available, without fiscal
+  year limitation, to establish and maintain the oil spill response teams
+  required under this paragraph.'.
+OIL SPILL CONTINGENCY PLAN DEVELOPMENT AND APPROVAL
+  SEC. 204. Section 311 of the Federal Water Pollution Control Act (33
+  U.S.C. 1321) is amended by adding at the end thereof the following new
+  subsection:
+  `(t)(1) IN GENERAL- This subsection applies to (1) operators of all tank
+  vessels (other than public vessels) which carry oil in bulk as cargo or
+  cargo residue or transfer oil in any port located in or upon the navigable
+  waters of the United States and the exclusive economic zone and (2)
+  operators of oil producing, refining, or transportation facilities that
+  due to their location, reasonably could be expected to spill oil into or
+  upon navigable waters of the United States, adjoining shorelines or the
+  waters of the exclusive economic zone.
+  `(2) OIL SPILL CONTINGENCY PLAN DEVELOPMENT- The President shall, within one
+  year after enactment of the Oil Pollution Liability and Compensation Act
+  of 1989, issue a final rule requiring owners and operators of vessels and
+  facilities subject to this paragraph to prepare and submit a contingency
+  plan for the prevention, containment and cleanup of oil spills from their
+  vessels or facilities and for the protection of fisheries and wildlife
+  from such spills. Contingency plans required under this subsection shall--
+  `(A) provide full details of the method of response to a worst case oil
+  spill, defined as a discharge, in adverse weather conditions, of the
+  largest vessel which is known to transit the area covered by the plan;
+  `(B) if implemented, be capable, in terms of personnel, materials and
+  equipment, of promptly and properly removing any oil spill and minimizing
+  any damage to the environment, to the maximum extent practicable;
+  `(C) provide a clear and precise, detailed description of how the
+  plan relates to and is integrated into other approved contingency plans
+  prepared by cooperatives, ports, regional entities and States, and regional
+  oil spill response teams, strike forces and Federal agencies under the
+  National Contingency Plan prepared and published pursuant to subsection
+  (c)(2) of this section;
+  `(D) provide procedures for early detection of oil spills and timely
+  notification of such spills to the Federal On Scene Coordinator, regional
+  oil spill response teams and strike forces under the National Contingency
+  Plan, prepared and published pursuant to subsection (c)(2) of this section,
+  and other authorities;
+  `(E) state the number, types, operational capacity and availability of
+  the oil spill containment equipment to be provided to implement the plan;
+  `(F) state the number, training preparedness and fitness of all full-time,
+  dedicated, pre-positioned personnel assigned to direct and implement
+  the plan;
+  `(G) incorporate periodic training and drill programs to assure that
+  personnel and equipment to be provided under the plan are in a state of
+  operational readiness at all times;
+  `(H) state the means of protecting and mitigating effects on the
+  environment, including fish, marine mammals and other wildlife, and ensure
+  that implementation of the plan does not pose unacceptable risks to the
+  public or the environment;
+  `(I) provide a detailed description of equipment and procedures to be used
+  by the crew of each vessel concerned to minimize damage, stop any spilling
+  from the vessel, contain and cleanup the spilled oil promptly and properly,
+  and determine if and when additional equipment and personnel are needed;
+  `(J) provide arrangements for the pre-positioning of oil spill containment
+  and cleanup equipment and trained personnel at strategic locations from
+  which they can be deployed to the spill site to promptly and properly
+  remove spilled oil;
+  `(K) provide arrangements for enlisting the use of additional personnel,
+  such as commercial fishermen and other volunteers, to implement the plan; and
+  `(L) provide for disposal of recovered spilled oil in accordance with
+  Federal, State, and local laws; and
+  `(M) describe how implementation of the plan will be coordinated with removal
+  efforts by regional oil spill response teams, including the extent to which
+  dedicated and trained personnel, fully operational vessels, and equipment
+  will be made available to such teams.
+  `(3) INSPECTION- Subsequent to issuance of the final rule described in
+  paragraph (2) of this subsection, the President shall provide for regular
+  inspection of vessels, equipment, and facilities to ensure compliance with
+  the requirements of the final rule.
+  `(4) CONTINGENCY PLAN APPROVAL- In approving the contingency plans required
+  by this subsection, the President shall consider--
+  `(A) the adequacy of containment and cleanup equipment, personnel,
+  communications equipment, response time and logistical arrangements for
+  coordination and implementation of response efforts to promptly and properly
+  remove oil spills and protect the environment;
+  `(B) the nature and amount of vessel traffic within the area covered by
+  the plan;
+  `(C) the volume and type of oil being transported within the area covered
+  by the plan;
+  `(D) the existence of navigational hazards within the area covered by
+  the plan;
+  `(E) any history of prior discharges of oil within the area covered by
+  the plan;
+  `(F) the value and sensitivity of fisheries and wildlife and other natural
+  resources within the area covered by the plan;
+  `(G) the comments of potentially affected third parties; and
+  `(H) relevant information on previous discharges contained in On Scene
+  Coordinator reports prepared by the Coast Guard.
+No plan shall be approved unless the President determines that such plan meets
+the requirements of this subsection and subsection (s) of this section and
+that such plan, if implemented, is capable, in terms of personnel, materials
+and equipment, of promptly and properly removing any oil spill and minimizing
+any damage to the environment to the maximum extent practicable.
+  `(5) NOTIFICATION OF CHANGES- An owner or operator of a vessel or facility
+  shall immediately notify the President, in writing, of any significant
+  change in any factor set forth under paragraph (5) of this subsection,
+  in order for the President to require changes, if needed, in the plan
+  submitted by such owner or operator.
+  `(6) STATE APPROVAL OF PLANS- The President may enter into a cooperative
+  agreement with the chief executive officer of any State to delegate to
+  that State the authority to approve contingency plans consistent with the
+  requirements of this subsection and subsection (t) of this section.
+  `(7) PROHIBITION- It shall be unlawful to operate a vessel in or upon the
+  navigable waters of the United States and the exclusive economic zone or
+  to operate a facility that is not in compliance with a contingency plan
+  submitted and approved under this subsection.
+  `(8) LEGAL EFFECT OF CONTINGENCY PLANS- The provisions of contingency plans
+  submitted to and approved by the President pursuant to this subsection
+  shall be deemed to be legally binding upon those persons submitting them
+  to the President. The district courts of the United States shall have
+  jurisdiction to restrain a violation of, compel specific performance of,
+  or otherwise enforce such plans upon application by the President or by
+  any State to which the President has delegated authority for approval of
+  contingency plans under paragraph (7) of this subsection. The President,
+  or any State to which the President has delegated authority for approval
+  of contingency plans under paragraph (6) of this subsection, may issue an
+  order requiring compliance with any contingency plan.
+  `(9) PUBLIC AWARENESS AND PRACTICE DRILLS- The President shall publish
+  annually an up-to-date description of the contingency plans for oil spills
+  submitted and approved pursaunt to this subsection and an inventory of
+  equipment available for responding to such spills. The President shall
+  require practice drills under the contingency plans approved pursuant to
+  this subsection not less than twice each year. The President shall review
+  and publish a report on such drills, including an assessment of actual
+  response time and available equipment and personnel compared to those
+  listed in the contingency plans, and requirements, if any, for changes
+  in the plans or their implementation. The President shall require such
+  additional drills and changes in arrangements for implementing approved
+  plans as are necessary to ensure their effective implementation.
+  `(10) Each contingency plan submitted and approved pursuant to this
+  subsection shall be kept on file and readily accessible by the oil spill
+  response teams and other officials designated under the National Contingency
+  Plan, relevant State and local officials, affected vessels or facilities
+  and the owner or operator involved.
+  `(11) Any owner or operator of a vessel or an onshore facility or an offshore
+  facility and any other person subject to any regulation or any order of the
+  President isued under this subsection who fails to refuses to comply with
+  the provisions of this subsection, or any regulations issued thereunder,
+  shall be liable to a civil penalty of not more than $25,000 for each such
+  violation. Each violation shall be a separate offense. The President may
+  assess and compromise such penalty. No penalty shall be assessed until the
+  owner, operator, or other person charged shall have been given notice and
+  an opportunity for a hearing on such charge. In determining the amount
+  of the penalty, or the amount agreed upon in compromise, the gravity of
+  the violation, and the demonstrated good faith of the owner, operator,
+  of other person charged in attempting to achieve rapid compliance after
+  notification of a violation, shall be considered by the President.'.
+OIL SPILL RESEARCH AND DEVELOPMENT PROGRAM
+  SEC. 205. Section 311 of the Federal Water Pollution Control Act (33
+  U.S.C. 1321) is amended by adding at the end thereof the following new
+  subsection:
+  `(u)(1) ESTABLISHMENT OF PROGRAM- The President shall establish a research
+  and development program on scientific and operational aspects of spill
+  prevention, response, containment and recovery which shall, at a minimum,
+  give priority to on-water oil recovery and treatment; prevention of loss
+  from and away from vessels, including the use of values for such purposes
+  and onshore and offshore facilities; prevention and mitigation of shoreline
+  impacts; fisheries and wildlife protection, mitigation and recovery;
+  and protection of public health and safety.
+  `(2) In undertaking such a program, the President shall coordinate research
+  and development efforts with other nations, industry, academia, and private
+  research and development groups.
+  `(3) FUNDING- Amounts in the Fund established under the Oil Pollution
+  Liability and Compensation Act of 1989 shall be available, without fiscal
+  year limitation, to establish and maintain the research and development
+  program required under this paragraph not to exceed $25,000,000 annually.'.
+PENALTIES
+  SEC. 206. (a) INSPECTION AND ENTRY- Section 308 of the Federal Water
+  Pollution Control Act is amended as follows:
+  (1) Subsection (a) is amended by--
+  (A) adding a new clause (4) providing:
+  `(4) obtaining information regarding the identification, nature and quantity
+  of materials on a vessel or at a facility,';
+  (B) adding a new clause (5) providing:
+  `(5) obtaining information regarding the source or nature or extent of a
+  discharge or threatened discharge of oil or other pollutants from a vessel
+  or a facility,';
+  (C) adding a new clause (6) providing:
+  `(6) obtaining information relating to the ability of a person to pay for
+  or to perform cleanup or other remedial action,';
+  (D) renumbering existing clause (4) as clause (7);
+  (E) in clause (A), inserting `, vessel, or facility' after the words
+  `point source';
+  (F) in clause (B)--
+  (i) replacing subclause (i) with the following:
+  `(i) shall have a right of entry to, upon, or through any premises, vessel,
+  or facility in which an effluent source is located or from which there is
+  a discharge or threat of discharge of oil or other pollutants into waters
+  of the United States, or in which any records required to be maintained
+  under clause (A) of this subsection are located,';
+  (ii) in subclause (ii), striking the words `which the owner or operator of
+  such source is required to sample under such clause' and insert in lieu
+  thereof the words `or discharge or threatened discharges of oil or other
+  pollutants,'; and
+ (iii) adding a new subclause (iii) providing:
+  `(iii) may at reasonable times enter any premises, vessel, or facility
+  where oil or other pollutants are stored to determine the need for response
+  action, to effectuate response action, or to obtain samples of oil or
+  other pollutants.'.
+  (b) CRIMINAL PENALTIES- (1) Section 309(c) of the Clean Water Act (33
+  U.S.C. 1319(c)) is amended by inserting immediately after `308,' each time
+  it appears therein the following: `311,'.
+  (2) Section 309(c)(4) of the Federal Water Pollution Control Act is amended
+  by inserting the words `omits material information or' after the word
+  `knowingly'.
+  (c) ADMINISTRATIVE PENALTIES- (1) Subparagraph (A) of paragraph (1) of
+  subsection (g) of the Clean Water Act (33 U.S.C. 1319(g)(1)(A)) is amended
+  by inserting immediately after `the Administrator' the first time it appears
+  therein the following: `the Secretary of the Department in which the Coast
+  Guard is operating'.
+  (2) Subparagraph (A) of paragraph (1) of subsection (g) of the Clean Water
+  Act (33 U.S.C. 1319(g)(1)(A)) is amended by inserting immediately after
+  `308' the following: `311'.
+  (3) Paragraph (1) of subsection (g) of the Clean Water Act (33
+  U.S.C. 1319(g)(1)(A)) is amended by inserting immediately after `the
+  Administrator' the third time it appears therein the following: `, the
+  Secretary of the Department in which the Coast Guard is operating, or the'.
+  (4) Subparagraph (A) of paragraph (6) of subsection (g) of section 309 of
+  the Clean Water Act (33 U.S.C. 1319(g)(6)(A)) is amended by inserting a
+  comma immediately before the period at the end thereof, and the following:
+  `except that any action under a State law shall not affect or limit the
+  authority of the Administrator or the Secretary of the Department under
+  which the Coast Guard is operating with respect to discharges of oil or
+  hazardous substances under this subsection or section 311 of this Act'.
+  (d) CIVIL PENALTIES- (1) Subparagraphs (A) and (B) of paragraph (6) of
+  subsection (b) of section 311 of the Clean Water Act (33 U.S.C. 1321(b)(6)
+  (A) and (B) are deleted and the following inserted in lieu thereof--
+  `(A) Any owner, operator, or person in charge of any onshore facility,
+  offshore facility, or vessel from which oil or a hazardous substance is
+  discharged in violation of paragraph (3) (i) or (ii) of this subsection
+  shall be subject to a civil penalty in an amount up to $25,000 per day
+  of violation or up to $1,000 per barrel of oil or hazardous substances
+  discharged in violation of paragraph (3) of this subsection, whichever
+  is greater.
+  `(B) In determining the amount of the civil penalty under this paragraph and
+  paragraph (5), the court shall consider the seriousness of the violation
+  or violations, the economic benefit to the violator, if any, resulting
+  from the violation, any history of prior violations, the nature, extent,
+  and degree of success of any efforts to minimize or mitigate the effects
+  of such discharge, the economic impact of the penalty on the violator,
+  and any other matters as justice may require.
+  `(C) Where the United States can show that a discharge in violation of
+  paragraph (3)(i) or (ii) of this subsection was the result of willful
+  negligence, willful misconduct or a violation of applicable safety,
+  construction, or operating regulations, the penalty pursuant to paragraph
+  (A) of this subsection shall be no less than $250,000.00.
+  (D) The Secretary of the Department in which the Coast Guard is operating
+  or the Administrator of the Environmental Protection Agency may request
+  the Attorney General to commence a civil action to recover civil penalties
+  against any person in the district court in the district in which such
+  person is located, resides, or is doing business, and any such court shall
+  have jurisdiction to assess such civil penalty.'.
+  (2) Subparagraph (C) of paragraph (6) of subsection (b) of section 311 is
+  redesignated as subparagraph `(E)'.
+  (3) Subparagraph (D) of paragraph (6) of subsection (b) of section 311 is
+  redesignated as subparagraph (F).
+  (4) Subparagraph (E) of paragraph (6) of subsection (b) of section 311 of
+  the Clean Water Act (33 U.S.C. 1321(b)(6)(E)) is repealed.
+  (e) ENVIRONMENTAL EFFECTS- Paragraph (4) of subsection (b) of section 311
+  of the Clean Water Act (33 U.S.C. 1321(b)(4)) is amended by inserting
+  immediately after `public health or welfare' the following: `or the
+  environment'.
+  (f) REPORTING- Paragraph (5) of subsection (b) of section 311 of the Clean
+  Water Act (33 U.S.C. 1321(b)(5)) is amended by deleting all after the first
+  sentence and inserting the following in lieu thereof: `any such person (A)
+  in charge of a vessel from which oil or a hazardous substance is discharged,
+  in violation of paragraph (3)(i) of this subsection or (B) in charge of a
+  vessel from which oil or a hazardous substance is discharged in violation
+  of paragraph (3)(ii) of this subsection and who is otherwise subject to the
+  jurisdiction of the United States at the time of the discharge, or (C) in
+  charge of an onshore facility or an offshore facility, who fails to notify
+  immediately such agency of such discharge shall, upon conviction, be fined
+  in accordance with the applicable provisions of title 18 or imprisoned for
+  not more than three years (or not more than five years in the case of a
+  second or subsequent conviction), or both. Notification received pursuant
+  to this paragraph or information that could not have been obtained but
+  for the exploitation of such notification shall not be used against any
+  natural person who gives such notification in any criminal case, except
+  a prosecution for perjury or for giving a false statement. In addition,
+  any such person who knowingly fails to provide the notice required by this
+  subsection shall not be entitled to any of the defenses to liability set
+  out the Oil Pollution Liability and Compensation Act of 1989.'.
+  (g) USE OF PENALTIES- Notwithstanding any other provision of law, penalties
+  paid pursuant to section 309(c) or 309(g) of the Federal Water Pollution
+  Control Act as a result of violations of section 311(b) and penalties paid
+  pursuant to section 311(b)(6) of the Federal Water Pollution Control Act
+  shall be deposited in Fund established under the Oil Pollution Liability
+  and Compensation Act of 1989.
+STUDY OF SPILL PREVENTION IN RESTRICTED WATERS
+  SEC. 207. (a) STUDY- The President shall conduct a study, and report the
+  results of such study to the Congress not later than one year after the
+  enactment of this Act, on improved methods for the prevention of discharges
+  of oil in restricted waters and similar portions of bays, estuaries,
+  and near shore waters. In the conduct of the study, the President shall
+  examine the causes of recent major discharges of oil from vessels in
+  the Delaware River, and consider modifications in tanker construction and
+  operation standards, crew training and locale familiarization requirements,
+  improvements in navigation aids, and other approaches with the potential
+  for reducing the likelihood for discharges of oil in such waters.
+  (b) REPORT TO CONGRESS- Section 311(c) of the Federal Water Pollution Control
+  Act is amended by adding at the end thereof the following new paragraph:
+  `(3) The Administrator, in consultation with the Secretary of the
+  Department in which the Coast Guard is operating, shall submit to the
+  Congress within one year of the date of enactment of this paragraph and
+  biennially thereafter a report assessing the adequacy of provisions of
+  the National Contingency Plan, and any regulations pursuant to subsection
+  (j), concerning discharges of oil. The report shall include a summary of
+  discharges of oil prohibited pursuant to paragraph (b)(3) of this section,
+  an assessment of the actions taken in response to such discharges, and any
+  recommendations for needed improvements to existing statutes, regulations,
+  or programs for preventing and responding to oil spills.'.
+ [Struck out->] TITLE II  [<-Struck out] TITLE III--CONFORMING AMENDMENTS
+TRANS-ALASKA PIPELINE FUND
+  SEC. [Struck out->]  201.  [<-Struck out] 301. (a) Section 204(b) of the
+  Trans-Alaska Pipeline Authorization Act is amended, in the first sentence--
+  (1) by inserting after the words `any area' the words `in the State
+  of Alaska';
+  (2) by inserting after the words `any activities' the words `related to
+  the Trans-Alaska Oil Pipeline'; and
+  (3) by inserting at the end of the subsection the following new sentence:
+  `This subsection shall not apply to removal costs covered by the Oil Spill
+  Liability and Compensation Act of  [Struck out->] 1988.  [<-Struck out]
+  1989.'.
+  Subsection (c) of section 204 of the Trans-Alaska Pipeline Authorization Act
+  is repealed. The Trans-Alaska Pipeline Liability Fund is abolished. All
+  assets of that fund, as of the effective date of this section, shall
+  be tranferred to the Fund established under this Act. The Oil Spill
+  Compensation Fund shall assure all liability incurred by the Trans-Alaska
+  Pipeline Liability Fund under the terms of subsection (c) of section 204
+  of the Trans-Alaska Pipeline Authorization Act.
+  (c) Trustees and former trustees of the Trans-Alaska Pipeline Liability
+  Fund who were designated by the Secretary of the Interior shall not be
+  subject to any liability incurred by that Fund or by the present and
+  past officers and trustees of that Fund, other than liability for gross
+  negligence or willful misconduct.
+INTERVENTION ON THE HIGH SEAS ACT
+  SEC.  [Struck out->] 202. [<-Struck out]  302. Section 17 of the Intervention
+  on the High Seas Act is amended to read as follows:
+  `SEC. 17. The Fund established under the Oil Spill Liability and Compensation
+  Act of  [Struck out->] 1988  [<-Struck out] 1989 shall be available to
+  the Secretary for actions taken under sections 5 and 7 of this Act.'.
+CLEAN WATER ACT
+  SEC. [Struck out->]  203.  [<-Struck out] 303. Section 311 of the Clean
+  Water Act is amended as follows:
+ [Struck out->]   (a) Subparagraph (H) of paragraph (2) of subsection (c)
+ amended by striking out `from the fund established under subsection (k)
+ of this section for the reasonable costs incurred in such removal' and
+ inserting in lieu thereof the following: `in the case of any discharges
+ of oil from a vessel or facility, for the reasonable costs incurred in
+ such removal from the Fund established under the Oil Spill Liability and
+ Compensation Act of 1988'. [<-Struck out]
+   [Struck out->] (b)  [<-Struck out] (a) Subsection (d) is amended by
+   striking out the last sentence.
+   [Struck out->] (c)(1)  [<-Struck out] (b)(1) Subsections (f), (g), and
+   (i) of section 311 of the Clean Water Act shall not apply with respect to
+   any discharge of oil resulting in removal costs for which liability is
+   established under section 102 of this Act, except that natural resource
+   damage assessment regulations, promulgated under section 311(f) of the
+   Clean Water Act shall apply to any such discharges pending the entry into
+   force of such regulations promulgated under section 102 of this Act.
+  (2) Paragraphs (2) and (3) of subsection (f) are amended by striking out
+  `under subsection (c) for the removal of such oil or substance by the United
+  States Government' each place it appears and inserting in lieu thereof
+  `under subsection (c) for the removal of such oil or substance by the United
+  States Government and for payments made pursuant to section 103(a)(4)(A)
+  of the Oil Pollution Liability and Compensation Act of  [Struck out->]
+  1988  [<-Struck out] 1989'.
+   [Struck out->] (d)  [<-Struck out] (c) Subsection (i) is amended by
+   striking out `(1)' after `(i)' and striking out paragraphs (2) and (3).
+   [Struck out->] (e)  [<-Struck out] (d) Subsection (k) is repealed. Any
+   amounts remaining in the revolving fund established under that subsection
+   shall be deposited in the Fund established under this Act. The Oil Spill
+   Compensation Fund shall assume all liability incurred by the revolving
+   fund established under section 311(k) of the Clean Water Act.
+   [Struck out->] (f)  [<-Struck out] (e) Subsection (l) is amended by
+   striking out the second sentence.
+   [Struck out->] (g)  [<-Struck out] (f) Subsection (p) is repealed.
+   [Struck out->] (h)  [<-Struck out] (g) Section 311 is amended by adding
+   at the end thereof the following new subsection:
+  `(s) The Oil Spill Compensation Fund, established under the Oil Pollution
+  Liability and Compensation Act of  [Struck out->] 1988,  [<-Struck out]
+  1989, shall be available to carry out subsections (c), (d), (i), and
+  (l) as those subsections apply to discharges, or substantial threats of
+  discharges, of oil. Any amounts received by the United States under this
+  section shall be deposited in such Oil Spill Compensation Fund.'.
+DEEPWATER PORT ACT
+  SEC.  [Struck out->] 204. [<-Struck out]  304. The Deepwater Port Act of
+  1974 is amended as follows:
+  (a) In section 4(c)(1) strike `section 18(l) of this Act;' and insert in
+  lieu thereof `section 104 of the Oil Spill Liability and Compensation Act of
+  [Struck out->] 1988,  [<-Struck out] 1989,'.
+  (b) Subsections (b), (d), (e), (f), (g), (h), (i), (j), (l), (n), and
+  paragraph (1) of subsection (m) of section 18 are deleted.
+  (c) Paragraph (3) of subsection (c) of section 18 is amended by striking
+  `Deepwater Port Liability Fund established pursuant to subsection (f)
+  of this section', and inserting in lieu thereof `fund established under
+  the Oil Spill Liability and Compensation Act of  [Struck out->] 1988
+  [<-Struck out] 1989'.
+  (d) Subsections (c), (k), and (m) of section 18 are redesignated (b),
+  (c), and (d) respectively, and paragraphs (2), (3), and (4) of subsection
+  (m) are redesignated (1), (2), and (3), respectively.
+  (e) Any amounts remaining in the Deepwater Port Liability Fund, established
+  under section 18(f) of the Deepwater Port Act of 1974, shall be deposited
+  in the Fund established under this Act. The Oil Spill Compensation Fund
+  shall assume all liability incurred by the Deepwater Port Liability Fund.
+OUTER CONTINENTAL SHELF LANDS ACT AMENDMENTS
+  SEC.  [Struck out->] 205. [<-Struck out]  305. Title III of the Outer
+  Continental Shelf Lands Act Amendments of 1978 is hereby repealed. Any
+  amounts remaining in the Offshore Oil Pollution Compensation Fund established
+  under section 302 of that title shall be deposited in the Fund established
+  under this Act. The Oil Spill Compensation Fund shall assume all liability
+  incurred by the Offshore Oil Pollution Compensation Fund.
+ [Struck out->] NOTICE TO STATE; INCREASED PENALTIES FOR FAILURE TO REPORT
+ [<-Struck out]
+ [Struck out->]   SEC. 206. (a) The first sentence of section 311(b)(5)
+ of the Clean Water Act is amended by inserting after `of the United States
+ Government' the phrase `and of any affected State'. [<-Struck out]
+ [Struck out->]   (b) The second sentence of section 311(b)(5) of the Clean
+ Water Act is amended by striking `fined not more than $10,000, or imprisoned
+ for not more than one year, or both' and inserting in lieu thereof `fined in
+ accordance with the applicable provisions of title 18 of the United States
+ Code, or imprisoned for not more than three years (or not more than five years
+ in the case of a second or subsequent conviction), or both'. [<-Struck out]
+S 686 RS----2
+S 686 RS----3
+S 686 RS----4
+S 686 RS----5
+S 686 RS----6riking `Deepwater Port Liability Fund established pursuant to sub

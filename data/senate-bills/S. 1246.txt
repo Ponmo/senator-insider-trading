@@ -1,0 +1,1182 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1246 Placed on Calendar Senate (PCS)]
+
+
+
+
+
+
+                                                       Calendar No. 102
+107th CONGRESS
+  1st Session
+                                S. 1246
+
+   To respond to the continuing economic crisis adversely affecting 
+                    American agricultural producers.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 25, 2001
+
+Mr. Harkin, from the Committee on Agriculture, Nutrition, and Forestry, 
+ reported the following original bill; which was read twice and placed 
+                            on the calendar
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To respond to the continuing economic crisis adversely affecting 
+                    American agricultural producers.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Emergency 
+Agricultural Assistance Act of 2001''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                    TITLE I--MARKET LOSS ASSISTANCE
+
+Sec. 101. Market loss assistance.
+Sec. 102. Oilseeds.
+Sec. 103. Peanuts.
+Sec. 104. Sugar.
+Sec. 105. Honey.
+Sec. 106. Wool and mohair.
+Sec. 107. Cottonseed.
+Sec. 108. Commodity purchases.
+Sec. 109. Loan deficiency payments.
+Sec. 110. Milk.
+Sec. 111. Pulse crops.
+Sec. 112. Tobacco.
+Sec. 113. Apples.
+                         TITLE II--CONSERVATION
+
+Sec. 201. Conservation reserve program.
+Sec. 202. Wetlands reserve program.
+Sec. 203. Environmental quality incentives program.
+Sec. 204. Wildlife Habitat Incentive Program.
+Sec. 205. Farmland protection program.
+Sec. 206. Risk management conservation assistance.
+                          TITLE III--NUTRITION
+
+Sec. 301. Bonus commodities.
+Sec. 302. Information and assistance concerning reimbursement options.
+Sec. 303. Distribution of commodities.
+Sec. 304. Seniors Farmers' Market Nutrition Pilot Program.
+                 TITLE IV--CREDIT AND RURAL DEVELOPMENT
+
+                           Subtitle A--Credit
+
+Sec. 401. Farm energy emergency loans.
+Sec. 402. Definition of rural area for community programs guaranteed 
+                            loans.
+                     Subtitle B--Rural Development
+
+Sec. 411. Value-added intermediary relending program.
+Sec. 412. Business and industry loans.
+Sec. 413. Value-added agricultural product market development grants.
+Sec. 414. Regulations; notice of acceptance of applications.
+Sec. 415. Funding.
+                           TITLE V--RESEARCH
+
+Sec. 501. Sustainable agriculture technology development and transfer 
+                            program.
+Sec. 502. Senior Scientific Research Service.
+                     TITLE VI--DISASTER ASSISTANCE
+
+Sec. 601. Crop and pasture flood compensation program.
+Sec. 602. Purchase of floodplain easements.
+Sec. 603. Compensation of producers for forage losses due to army 
+                            worms.
+                        TITLE VII--MISCELLANEOUS
+
+Sec. 701. National organic certification cost-share program.
+Sec. 702. Use of value-added commodities.
+                       TITLE VII--ADMINISTRATION
+
+Sec. 801. Obligation period.
+Sec. 802. Commodity Credit Corporation.
+Sec. 803. Regulations.
+
+                    TITLE I--MARKET LOSS ASSISTANCE
+
+SEC. 101. MARKET LOSS ASSISTANCE.
+
+    (a) In General.--The Secretary of Agriculture (referred to in this 
+Act as the ``Secretary'') shall use funds of the Commodity Credit 
+Corporation to provide assistance in the form of a market loss 
+assistance payment to owners and producers on a farm that are eligible 
+for a final payment for fiscal year 2001 under a production flexibility 
+contract for the farm under the Agricultural Market Transition Act (7 
+U.S.C. 7201 et seq.).
+    (b) Amount and Manner.--In providing payments under this section, 
+the Secretary shall--
+            (1) use the same contract payment rates as are used under 
+        section 802(b) of the Agriculture, Rural Development, Food and 
+        Drug Administration, and Related Agencies Appropriations Act, 
+        2000 (7 U.S.C. 1421 note; Public Law 106-78); and
+            (2) provide the payments in a manner that is consistent 
+        with section 802(c) of that Act.
+
+SEC. 102. OILSEEDS.
+
+    (a) In General.--The Secretary shall use $500,000,000 of funds of 
+the Commodity Credit Corporation to make payments to producers of the 
+2001 crop of oilseeds that are eligible to obtain a marketing 
+assistance loan under section 131 of the Agricultural Market Transition 
+Act (7 U.S.C. 7231).
+    (b) Computation.--A payment to producers on a farm under this 
+section for an oilseed shall be equal to the product obtained by 
+multiplying--
+            (1) a payment rate determined by the Secretary;
+            (2) the acreage of the producers on the farm for the 
+        oilseed, as determined under subsection (c); and
+            (3) the yield of the producers on the farm for the oilseed, 
+        as determined under subsection (d).
+    (c) Acreage.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        acreage of the producers on the farm for an oilseed under 
+        subsection (b)(2) shall be equal to the number of acres planted 
+        to the oilseed by the producers on the farm during the 1998, 
+        1999, or 2000 crop year, whichever is greatest, as reported by 
+        the producers on the farm to the Secretary (including any 
+        acreage reports that are filed late).
+            (2) New producers.--In the case of producers on a farm that 
+        planted acreage to an oilseed during the 2001 crop year but not 
+        the 1998, 1999, or 2000 crop year, the acreage of the producers 
+        for the oilseed under subsection (b)(2) shall be equal to the 
+        number of acres planted to the oilseed by the producers on the 
+        farm during the 2001 crop year, as reported by the producers on 
+        the farm to the Secretary (including any acreage reports that 
+        are filed late).
+    (d) Yield.--
+            (1) Soybeans.--Except as provided in paragraph (3), in the 
+        case of soybeans, the yield of the producers on a farm under 
+        subsection (b)(3) shall be equal to the greater of--
+                    (A) the average county yield per harvested acre for 
+                each of the 1996 through 2000 crop years, excluding the 
+                crop year with the greatest yield per harvested acre 
+                and the crop year with the lowest yield per harvested 
+                acre; or
+                    (B) the actual yield of the producers on the farm 
+                for the 1998, 1999, or 2000 crop year.
+            (2) Other oilseeds.--Except as provided in paragraph (3), 
+        in the case of oilseeds other than soybeans, the yield of the 
+        producers on a farm under subsection (b)(3) shall be equal to 
+        the greater of--
+                    (A) the average national yield per harvested acre 
+                for each of the 1996 through 2000 crop years, excluding 
+                the crop year with the greatest yield per harvested 
+                acre and the crop year with the lowest yield per 
+                harvested acre; or
+                    (B) the actual yield of the producers on the farm 
+                for the 1998, 1999, or 2000 crop year.
+            (3) New producers.--In the case of producers on a farm that 
+        planted acreage to an oilseed during the 2001 crop year but not 
+        the 1998, 1999, or 2000 crop year, the yield of the producers 
+        on a farm under subsection (b)(3) shall be equal to the greater 
+        of--
+                    (A) the average county yield per harvested acre for 
+                each of the 1996 through 2000 crop years, excluding the 
+                crop year with the greatest yield per harvested acre 
+                and the crop year with the lowest yield per harvested 
+                acre; or
+                    (B) the actual yield of the producers on the farm 
+                for the 2001 crop.
+            (4) Data source.--To the maximum extent available, the 
+        Secretary shall use data provided by the National Agricultural 
+        Statistics Service to carry out this subsection.
+
+SEC. 103. PEANUTS.
+
+    The Secretary shall use $55,210,000 of funds of the Commodity 
+Credit Corporation to provide a supplemental payment under section 
+204(a) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1421 
+note; Public Law 106-224) to producers of quota peanuts or additional 
+peanuts for the 2000 crop year that received a payment under that 
+section.
+
+SEC. 104. SUGAR.
+
+    (a) Marketing Assessment.--Section 156(f) of the Agricultural 
+Market Transition Act (7 U.S.C. 7272(f)) shall not apply with respect 
+to the 2001 crop of sugarcane and sugar beets.
+    (b) Emergency Financial Assistance for 2000 Crop of Sugar Beets.--
+Notwithstanding section 815(d)(1) of the Agriculture, Rural 
+Development, Food and Drug Administration, and Related Agencies 
+Appropriations Act, 2001 (114 Stat. 1549, 1549A-56), in making payments 
+under that section for quality losses for the 2000 crop of sugar beets 
+of producers on a farm in an area covered by Manager's Bulletin MGR-01-
+010 issued by the Federal Crop Insurance Corporation on March 2, 2001--
+            (1) the Secretary shall calculate the amount of a quality 
+        loss, regardless of whether the sugar beets are processed, on 
+        an aggregate basis by cooperative;
+            (2) the Secretary shall make the quality loss payments to a 
+        cooperative for distribution to cooperative members; and
+            (3) the amount of a quality loss, regardless of whether the 
+        sugar beets are processed, shall be equal to the difference 
+        between--
+                    (A) the per unit payment that the producers on the 
+                farm would have received for the crop from the 
+                cooperative if the crop had not suffered a quality 
+                loss; and
+                    (B) the average per unit payment that the producers 
+                on the farm received from the cooperative for the 
+                affected sugar beets.
+
+SEC. 105. HONEY.
+
+    (a) In General.--The Secretary shall use funds of the Commodity 
+Credit Corporation to make nonrecourse loans available to producers of 
+the 2001 crop of honey on fair and reasonable terms and conditions, as 
+determined by the Secretary.
+    (b) Loan Rate.--The loan rate for a loan under subsection (a) for 
+honey shall be equal to 85 percent of the simple average price received 
+by producers of honey, as determined by the Secretary, during the 
+marketing years for the immediately preceding 5 crops of honey, 
+excluding the year in which the average price was the highest and the 
+year in which the average price was the lowest.
+
+SEC. 106. WOOL AND MOHAIR.
+
+    (a) In General.--The Secretary shall use $16,940,000 of funds of 
+the Commodity Credit Corporation to provide a supplemental payment 
+under section 814 of the Agriculture, Rural Development, Food and Drug 
+Administration, and Related Agencies Appropriations Act, 2001 (114 
+Stat. 1549, 1549A-55), to producers of wool, and producers of mohair, 
+for the 2000 marketing year that received a payment under that section.
+    (b) Payment Rate.--The Secretary shall adjust the payment rate 
+specified in that section to reflect the amount made available for 
+payments under this section.
+
+SEC. 107. COTTONSEED.
+
+    (a) Fiscal Year 2001.--The Secretary shall use $34,000,000 of funds 
+of the Commodity Credit Corporation for fiscal year 2001 to provide 
+assistance to producers and first handlers of the 2000 crop of 
+cottonseed.
+    (b) Fiscal Year 2002.--The Secretary shall use $66,000,000 of funds 
+of the Commodity Credit Corporation for fiscal year 2002 to provide 
+assistance to producers and first handlers of the 2001 crop of 
+cottonseed.
+
+SEC. 108. COMMODITY PURCHASES.
+
+    (a) In General.--The Secretary shall use $220,000,000 of funds of 
+the Commodity Credit Corporation to purchase agricultural commodities, 
+especially agricultural commodities that have experienced low prices 
+during the 2000 or 2001 crop years, such as apples, apricots, 
+asparagus, bell peppers, bison meat, black beans, black-eyed peas, 
+blueberries (wild and cultivated), cabbage, cantaloupe, cauliflower, 
+chickpeas, cranberries, cucumbers, dried plums, dry peas, eggplants, 
+lemons, lentils, melons, onions, peaches (including freestone), pears, 
+potatoes (summer and fall), pumpkins, raisins, raspberries, red tart 
+cherries, snap beans, spinach, strawberries, sweet corn, tomatoes, and 
+watermelons.
+    (b) Geographic Diversity.--The Secretary is encouraged to purchase 
+agricultural commodities under this section in a manner that reflects 
+the geographic diversity of agricultural production in the United 
+States, particularly agricultural production in the Northeast and Mid-
+Atlantic States.
+    (c) Other Purchases.--The Secretary shall ensure that purchases of 
+agricultural commodities under this section are in addition to 
+purchases by the Secretary under any other law.
+    (d) Transportation and Distribution Costs.--The Secretary may use 
+not more than $20,000,000 of the funds made available under subsection 
+(a) to provide assistance to States to cover costs incurred by the 
+States in transporting and distributing agricultural commodities 
+purchased under this section.
+    (e) Purchases for School Nutrition Programs.--The Secretary shall 
+use not less than $55,000,000 of the funds made available under 
+subsection (a) to purchase agricultural commodities of the type 
+distributed under section 6(a) of the Richard B. Russell National 
+School Lunch Act (42 U.S.C. 1755(a)) for distribution to schools and 
+service institutions in accordance with section 6(a) of that Act.
+
+SEC. 109. LOAN DEFICIENCY PAYMENTS.
+
+    Section 135(a)(2) of the Agricultural Market Transition Act (7 
+U.S.C. 7235(a)(2)) is amended by striking ``2000 crop year'' and 
+inserting ``each of the 2000 and 2001 crop years''.
+
+SEC. 110. MILK.
+
+    (a) Extension of Milk Price Support Program.--Section 141 of the 
+Agricultural Market Transition Act (7 U.S.C. 7251) is amended by 
+striking ``2001'' each place it appears in subsections (b)(4) and (h) 
+and inserting ``2002''.
+    (b) Repeal of Recourse Loan Program for Processors.--Section 142 of 
+the Agricultural Market Transition Act (7 U.S.C. 7252) is repealed.
+
+SEC. 111. PULSE CROPS.
+
+    (a) In General.--The Secretary shall use $20,000,000 of funds of 
+the Commodity Credit Corporation to provide assistance in the form of a 
+market loss assistance payment to owners and producers on a farm that 
+grow dry peas, lentils, or chickpeas (collectively referred to in this 
+section as a ``pulse crop'').
+    (b) Computation.--A payment to owners and producers on a farm under 
+this section for a pulse crop shall be equal to the product obtained by 
+multiplying--
+            (1) a payment rate determined by the Secretary; by
+            (2) the acreage of the producers on the farm for the pulse 
+        crop determined under subsection (c).
+    (c) Acreage.--
+            (1) In general.--The acreage of the producers on the farm 
+        for a pulse crop under subsection (b)(2) shall be equal to the 
+        number of acres planted to the pulse crop by the owners and 
+        producers on the farm during the 1998, 1999, or 2000 crop year, 
+        whichever is greatest.
+            (2) Basis.--For the purpose of paragraph (1), the number of 
+        acres planted to a pulse crop by the owners and producers on 
+        the farm for a crop year shall be based on (as determined by 
+        the Secretary)--
+                    (A) the number of acres planted to the pulse crop 
+                for the crop year, as reported to the Secretary by the 
+                owners and producers on the farm, including any acreage 
+                that is included in reports that are filed late; or
+                    (B) the number of acres planted to the pulse crop 
+                for the crop year for the purpose of the Federal crop 
+                insurance program established under the Federal Crop 
+                Insurance Act (7 U.S.C. 1501 et seq.).
+
+SEC. 112. TOBACCO.
+
+    (a) Tobacco Payments.--
+            (1) Definitions.--In this subsection:
+                    (A) Eligible person.--The term ``eligible person'' 
+                means a person that--
+                            (i) owns a farm for which, regardless of 
+                        temporary transfers or undermarketings, a basic 
+                        quota or allotment for eligible tobacco is 
+                        established for the 2001 crop year under part I 
+                        of subtitle B of title III of the Agricultural 
+                        Adjustment Act of 1938 (7 U.S.C. 1311 et seq.);
+                            (ii) controls the farm from which, under 
+                        the quota or allotment for the relevant period, 
+                        eligible tobacco is marketed, could have been 
+                        marketed, or can be marketed, taking into 
+                        account temporary transfers; or
+                            (iii) grows, could have grown, or can grow 
+                        eligible tobacco that is marketed, could have 
+                        been marketed, or can be marketed under the 
+                        quota or allotment for the 2001 crop year, 
+                        taking into account temporary transfers.
+                    (B) Eligible tobacco.--The term ``eligible 
+                tobacco'' means each of the following kinds of tobacco:
+                            (i) Flue-cured tobacco, comprising types 
+                        11, 12, 13, and 14.
+                            (ii) Fire-cured tobacco, comprising types 
+                        21, 22, and 23.
+                            (iii) Dark air-cured tobacco, comprising 
+                        types 35 and 36.
+                            (iv) Virginia sun-cured tobacco, comprising 
+                        type 37.
+                            (v) Burley tobacco, comprising type 31.
+                            (vi) Cigar-filler and cigar-binder tobacco, 
+                        comprising types 42, 43, 44, 54, and 55.
+            (2) Payments.--Not later than September 30, 2002, the 
+        Secretary shall use funds of the Commodity Credit Corporation 
+        to make payments under this subsection.
+            (3) Poundage payment quantities.--For the purposes of this 
+        subsection, individual tobacco quotas and allotments shall be 
+        converted to poundage payment quantities as follows:
+                    (A) Flue-cured and burley tobacco.--In the case of 
+                Flue-cured tobacco (types 11, 12, 13, and 14) and 
+                Burley tobacco (type 31), the poundage payment quantity 
+                shall equal the number of pounds of the basic poundage 
+                quota of the kind of tobacco, irrespective of temporary 
+                transfers or undermarketings, under part I of subtitle 
+                B of title III of the Agricultural Adjustment Act of 
+                1938 (7 U.S.C. 1311 et seq.) for the 2001 crop year.
+                    (B) Other kinds of eligible tobacco.--In the case 
+                of each other kind of eligible tobacco, individual 
+                allotments shall be converted to poundage payment 
+                quantities by multiplying--
+                            (i) the number of acres that may, 
+                        irrespective of temporary transfers or 
+                        undermarketings, be devoted, without penalty, 
+                        to the production of the kind of tobacco under 
+                        the allotment under part I of subtitle B of 
+                        title III of the Agricultural Adjustment Act of 
+                        1938 (7 U.S.C. 1311 et seq.) for the 2001 crop 
+                        year; by
+                            (ii)(I) in the case of fire-cured tobacco 
+                        (type 21), 1,630 pounds per acre;
+                            (II) in the case of fire-cured tobacco 
+                        (types 22 and 23), 2,601 pounds per acre;
+                            (III) in the case of dark air-cured tobacco 
+                        (types 35 and 36), 2,337 pounds per acre;
+                            (IV) in the case of Virginia sun-cured 
+                        tobacco (type 37), 1,512 pounds per acre; and
+                            (V) in the case of cigar-filler and cigar-
+                        binder tobacco (types 42, 43, 44, 54, and 55), 
+                        2,165 pounds per acre.
+            (4) Available payment amounts.--The available payment 
+        amount for pounds of a payment quantity under paragraph (2) 
+        shall be equal to--
+                    (A) in the case of fire-cured tobacco (types 21, 
+                22, and 23) and dark air-cured tobacco (types 35 and 
+                36), 16.12 cents per pound; and
+                    (B) in the case of each other kind of eligible 
+                tobacco not covered by subparagraph (A), 8.06 cents per 
+                pound.
+            (5) Division of payments among eligible persons.--
+                    (A) In general.--Payments available with respect to 
+                a pound of payment quantity, as determined under 
+                paragraph (4), shall be made available to eligible 
+                persons in accordance with this paragraph.
+                    (B) Flue-cured and cigar tobacco.--In the case of 
+                payments made available in a State under paragraph (2) 
+                for Flue-cured tobacco (types 11, 12, 13, and 14) and 
+                cigar-filler and cigar-binder tobacco (types 42, 43, 
+                44, 54, and 55), the Secretary shall distribute (as 
+                determined by the Secretary)--
+                            (i) 50 percent of the payments to eligible 
+                        persons that are owners described in paragraph 
+                        (1)(A)(i); and
+                            (ii) 50 percent of the payments to eligible 
+                        persons that are growers described in paragraph 
+                        (1)(A)(iii).
+                    (C) Other kinds of eligible tobacco.--In the case 
+                of payments made available in a State under paragraph 
+                (2) for each other kind of eligible tobacco not covered 
+                by subparagraph (A), the Secretary shall distribute (as 
+                determined by the Secretary)--
+                            (i) 33\1/3\ percent of the payments to 
+                        eligible persons that are owners described in 
+                        paragraph (1)(A)(i);
+                            (ii) 33\1/3\ percent of the payments to 
+                        eligible persons that are controllers described 
+                        in paragraph (1)(A)(ii); and
+                            (iii) 33\1/3\ percent of the payments to 
+                        eligible persons that are growers described in 
+                        paragraph (1)(A)(iii).
+            (6) Standards.--In carrying out this subsection, the 
+        Secretary shall use, to the maximum extent practicable, the 
+        same standards for payments that were used for making payments 
+        under section 204(b) of the Agricultural Risk Protection Act of 
+        2000 (7 U.S.C. 1421 note; Public Law 106-224).
+            (7) Judicial review.--A determination by the Secretary 
+        under this subsection shall not be subject to judicial review.
+    (b) Grading of Price-Support Tobacco.--
+            (1) In general.--Not later than November 30, 2001, the 
+        Secretary shall conduct a referendum among producers of each 
+        kind of tobacco that is eligible for price support under the 
+        Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) to determine 
+        whether the producers favor the mandatory grading of the 
+        tobacco by the Secretary.
+            (2) Mandatory grading.--If the Secretary determines that 
+        mandatory grading of each kind of tobacco described in 
+        paragraph (1) is favored by a majority of the producers voting 
+        in the referendum, effective for the 2002 and subsequent 
+        marketing years, the Secretary shall ensure that all kinds of 
+        the tobacco are graded at the time of sale.
+            (3) Judicial review.--A determination by the Secretary 
+        under this subsection shall not be subject to judicial review.
+
+SEC. 113. APPLES.
+
+    (a) In General.--The Secretary shall use $150,000,000 of funds of 
+the Commodity Credit Corporation to make payments to apple producers to 
+provide relief for the loss of markets during the 2000 crop year.
+    (b) Payment Quantity.--
+            (1) In general.--Subject to paragraph (2), the payment 
+        quantity of apples for which the producers on a farm are 
+        eligible for payments under this section shall be equal to the 
+        quantity of the 2000 crop of apples produced by the producers 
+        on the farm.
+            (2) Maximum quantity.--The payment quantity of apples for 
+        which the producers on a farm are eligible for payments under 
+        this section shall not exceed 5,000,000 pounds of apples 
+        produced on the farm.
+    (c) Limitations.--Subject to subsection (b)(2), the Secretary shall 
+not establish a payment limitation, or gross income eligibility 
+limitation, with respect to payments made under this section.
+    (d) Applicability.--This section applies only with respect to the 
+2000 crop of apples and producers of that crop.
+
+                         TITLE II--CONSERVATION
+
+SEC. 201. CONSERVATION RESERVE PROGRAM.
+
+    (a) Technical Assistance.--Notwithstanding section 11 of the 
+Commodity Credit Corporation Charter Act (15 U.S.C. 714i), in addition 
+to amounts made available under section 801 of the Agriculture, Rural 
+Development, Food and Drug Administration, and Related Agencies 
+Appropriations Act, 2001 (114 Stat. 1549, 1549A-49), the Secretary 
+shall use $44,000,000 of funds of the Commodity Credit Corporation to 
+provide technical assistance under the conservation reserve program 
+established under subchapter B of chapter 1 of subtitle D of title XII 
+of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+    (b) Extension of Contracts.--Notwithstanding section 1231(e)(1) of 
+the Food Security Act of 1985 (16 U.S.C. 3831(e)(1)), an owner or 
+operator that has entered into a contract under the conservation 
+reserve program that would otherwise expire during calendar year 2001 
+may extend the contract for 1 year.
+    (c) Payments.--
+            (1) In general.--Subject to paragraph (2), during the 2001 
+        and 2002 calendar years, the Secretary shall include among 
+        practices that are eligible for payments under the conservation 
+        reserve program--
+                    (A) the preservation of shallow water areas for 
+                wildlife;
+                    (B) the establishment of permanent vegetative 
+                cover, such as contour grass strips and cross-wind trap 
+                strips; and
+                    (C) the preservation of wellhead protection areas.
+            (2) Other practices.--The Secretary shall administer 
+        paragraph (1) in a manner that does not reduce the amount of 
+        payments made by the Secretary for other practices under the 
+        conservation reserve program.
+    (d) Pilot Program for Enrollment of Wetland and Buffer Acreage in 
+Conservation Reserve.--
+            (1) In general.--Section 1231(h)(4)(B) of the Food Security 
+        Act of 1985 (16 U.S.C. 3831(h)(4)(B)) is amended by inserting 
+        ``(which may include emerging vegetation in water)'' after 
+        ``vegetative cover''.
+            (2) Conforming amendment.--Section 1232(a)(4) of the Food 
+        Security Act of 1985 (16 U.S.C. 3832(a)(4)) is amended by 
+        inserting ``(which may include emerging vegetation in water)'' 
+        after ``vegetative cover''.
+
+SEC. 202. WETLANDS RESERVE PROGRAM.
+
+    (a) Maximum Enrollment.--Notwithstanding section 1237(b)(1) of the 
+Food Security Act of 1985 (16 U.S.C. 3837(b)(1)) and section 808 of the 
+Agriculture, Rural Development, Food and Drug Administration, and 
+Related Agencies Appropriations Act, 2001 (114 Stat. 1549, 1549A-52), 
+subject to subsection (b), the Secretary shall use $200,000,000 of 
+funds of the Commodity Credit Corporation for enrollment of additional 
+acres beginning in fiscal year 2002 in the wetlands reserve program 
+established under subchapter C of chapter 1 of subtitle D of title XII 
+of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.).
+    (b) Technical Assistance; Monitoring and Maintenance Expenses.--
+Notwithstanding section 11 of the Commodity Credit Corporation Charter 
+Act (15 U.S.C. 714i), of the funds made available under subsection (a), 
+the Secretary shall use--
+            (1) not less than $12,000,000, but not more than 
+        $15,000,000, to provide technical assistance under the wetlands 
+        reserve program; and
+            (2) not less than $8,000,000, but not more than 
+        $10,000,000, for monitoring and maintenance expenses incurred 
+        by the Secretary for land enrolled in the wetlands reserve 
+        program as of the date of enactment of this Act.
+
+SEC. 203. ENVIRONMENTAL QUALITY INCENTIVES PROGRAM.
+
+    In addition to amounts made available under section 1241 of the 
+Food Security Act of 1985 (16 U.S.C. 3841), the Secretary shall use 
+$250,000,000 of funds of the Commodity Credit Corporation to carry out 
+the environmental quality incentives program established under chapter 
+4 of subtitle D of title XII of the Food Security Act of 1985 (16 
+U.S.C. 3839aa et seq.).
+
+SEC. 204. WILDLIFE HABITAT INCENTIVE PROGRAM.
+
+    In addition to amounts made available under section 387(c) of the 
+Federal Agriculture Improvement and Reform Act of 1996 (16 U.S.C. 
+3836a(c)), the Secretary shall use $7,000,000 of funds of the Commodity 
+Credit Corporation to carry out the Wildlife Habitat Incentive Program 
+established under section 387 of that Act.
+
+SEC. 205. FARMLAND PROTECTION PROGRAM.
+
+    (a) In General.--In addition to amounts made available under 
+section 388(c) of the Federal Agriculture Improvement and Reform Act of 
+1996 (16 U.S.C. 3830 note; Public Law 104-127) and section 211(a) of 
+the Agricultural Risk Protection Act of 2000 (16 U.S.C. 3830 note; 
+Public Law 106-224), the Secretary shall use $40,000,000 of funds of 
+the Commodity Credit Corporation to make payments under the farmland 
+protection program established under section 388 of the Federal 
+Agriculture Improvement and Reform Act of 1996 to--
+            (1) any agency of any State or local government, or 
+        federally recognized Indian tribe, including farmland 
+        protection boards and land resource councils established under 
+        State law; and
+            (2) any organization that--
+                    (A) is organized for, and at all times since the 
+                formation of the organization has been operated 
+                principally for, 1 or more of the conservation purposes 
+                specified in clauses (i), (ii), and (iii) of section 
+                170(h)(4)(A) of the Internal Revenue Code of 1986;
+                    (B) is an organization described in section 
+                501(c)(3) of that Code that is exempt from taxation 
+                under section 501(a) of that Code;
+                    (C) is described in section 509(a)(2) of that Code; 
+                or
+                    (D) is described in section 509(a)(3) of that Code 
+                and is controlled by an organization described in 
+                section 509(a)(2) of that Code.
+    (b) Technical Assistance.--Notwithstanding section 11 of the 
+Commodity Credit Corporation Charter Act (15 U.S.C. 714i), of the funds 
+made available under subsection (a), the Secretary may use not more 
+than $3,000,000 to provide technical assistance under the farmland 
+protection program.
+
+SEC. 206. RISK MANAGEMENT CONSERVATION ASSISTANCE.
+
+    (a) In General.--Notwithstanding sections 201 through 205, subject 
+to subsection (d), of the amount of funds made available under this 
+title (other than section 201(a)), the Secretary shall use $100,000,000 
+to address critical risk management needs (including such needs under 
+programs specified in subsection (b)) in States that are described in 
+section 522(c)(1)(A) of the Federal Crop Insurance Act (7 U.S.C. 
+1522(c)(1)(A)).
+    (b) Minimum Amount.--Subject to subsection (d), the minimum amount 
+each State described in subsection (a) shall receive under subsection 
+(a) shall be $5,000,000.
+    (c) Programs.--For the purpose of subsection (a), the programs 
+specified in this subsection are--
+            (1) the wetlands reserve program established under 
+        subchapter C of chapter 1 of subtitle D of title XII of the 
+        Food Security Act of 1985 (16 U.S.C. 3837 et seq.);
+            (2) the environmental quality incentives program 
+        established under chapter 4 of subtitle D of title XII of the 
+        Food Security Act of 1985 (16 U.S.C. 3839aa et seq.);
+            (3) the Wildlife Habitat Incentive Program established 
+        under section 387 of the Federal Agriculture Improvement and 
+        Reform Act of 1996 (16 U.S.C. 3836a); and
+            (4) the farmland protection program established under 
+        section 388 of the Federal Agriculture Improvement and Reform 
+        Act of 1996 (16 U.S.C. 3830 note; Public Law 104-127).
+    (d) Other States.--The Secretary shall use any funds made available 
+under subsection (a) that have not been obligated by June 1, 2002, to 
+provide assistance under the environmental quality incentives program 
+established under chapter 4 of subtitle D of title XII of the Food 
+Security Act of 1985 (16 U.S.C. 3839aa et seq.) in States that are not 
+described in section 522(c)(1)(A) of the Federal Crop Insurance Act (7 
+U.S.C. 1522(c)(1)(A)).
+
+                          TITLE III--NUTRITION
+
+SEC. 301. BONUS COMMODITIES.
+
+    Section 6(e)(1)(B) of the Richard B. Russell National School Lunch 
+Act (42 U.S.C. 1755(e)(1)(B)) is amended by striking ``2001'' and 
+inserting ``2002''.
+
+SEC. 302. INFORMATION AND ASSISTANCE CONCERNING REIMBURSEMENT OPTIONS.
+
+    Section 11(f) of the Richard B. Russell National School Lunch Act 
+(42 U.S.C. 1759a(f)) is amended--
+            (1) in paragraph (1)(E), by striking ``2001'' and inserting 
+        ``2003''; and
+            (2) in paragraph (2)--
+                    (A) by striking subparagraph (A) and inserting the 
+                following:
+                    ``(A) In general.--The Secretary shall submit to 
+                the Committee on Education and the Workforce of the 
+                House of Representatives and the Committee on 
+                Agriculture, Nutrition and Forestry of the Senate--
+                            ``(i) not later than January 1, 2003, an 
+                        interim report on the activities of the State 
+                        agencies receiving grants under this 
+                        subsection; and
+                            ``(ii) not later than January 1, 2004, a 
+                        final report on the activities of the State 
+                        agencies receiving grants under this 
+                        subsection.''; and
+                    (B) in subparagraph (B), by striking ``report'' and 
+                inserting ``reports''.
+
+SEC. 303. DISTRIBUTION OF COMMODITIES.
+
+    (a) In General.--The Secretary shall use $10,000,000 of funds of 
+the Commodity Credit Corporation to cover direct and indirect costs 
+related to the processing, transportation, and distribution of 
+commodities to eligible recipient agencies under the Emergency Food 
+Assistance Act of 1983 (7 U.S.C. 7501 et seq.).
+    (b) Allocation.--Funds made available under subsection (a) shall be 
+allocated to States in accordance with section 204(a) of the Emergency 
+Food Assistance Act of 1983 (7 U.S.C. 7508(a)).
+
+SEC. 304. SENIORS FARMERS' MARKET NUTRITION PILOT PROGRAM.
+
+    The Secretary shall use $20,000,000 of funds of the Commodity 
+Credit Corporation to carry out the Seniors Farmers' Market Nutrition 
+Pilot Program announced on November 2, 2000 (65 Fed. Reg. 65825).
+
+                 TITLE IV--CREDIT AND RURAL DEVELOPMENT
+
+                           Subtitle A--Credit
+
+SEC. 401. FARM ENERGY EMERGENCY LOANS.
+
+    (a) In General.--Section 321(a) of the Consolidated Farm and Rural 
+Development Act (7 U.S.C. 1961(a)) is amended--
+            (1) in the first sentence--
+                    (A) by striking ``aquaculture operations have'' and 
+                inserting ``aquaculture operations (i) have''; and
+                    (B) by striking ``the Disaster Relief and Emergency 
+                Assistance Act:'' and inserting ``the Robert T. 
+                Stafford Disaster Relief and Emergency Assistance Act 
+                (42 U.S.C. 5121 et seq.), or (ii) have suffered or are 
+                likely to suffer substantial economic injury on or 
+                after June 1, 2000, as the result of a sharp and 
+                significant increase in energy costs or input costs 
+                from energy sources occurring on or after June 1, 2000, 
+                in connection with an energy emergency declared by the 
+                President or the Secretary:'';
+            (2) in the third sentence, by striking ``the Disaster 
+        Relief and Emergency Assistance Act'' and inserting ``the 
+        Robert T. Stafford Disaster Relief and Emergency Assistance Act 
+        (42 U.S.C. 5121 et seq.) or by an energy emergency declared by 
+        the President or the Secretary''; and
+            (3) in the fourth sentence--
+                    (A) by inserting ``or energy emergency'' after 
+                ``natural disaster'' each place it appears; and
+                    (B) by inserting ``or declaration'' after 
+                ``emergency designation''.
+    (b) Funding.--Funds available for emergency loans under subtitle C 
+of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et 
+seq.) to meet the needs resulting from natural disasters shall be 
+available to carry out the amendments made by subsection (a).
+    (c) Guidelines.--Not later than 30 days after the date of enactment 
+of this Act, the Secretary shall issue such guidelines as the Secretary 
+determines to be necessary to carry out the amendments made by 
+subsection (a).
+    (d) Report.--Not later than 18 months after the date of final 
+publication by the Secretary of the guidelines issued under subsection 
+(c), the Secretary shall submit to the Committee on Agriculture of the 
+House of Representatives and the Committee on Agriculture, Nutrition, 
+and Forestry of the Senate a report on the effectiveness of loans made 
+available as a result of the amendments made by subsection (a), 
+together with recommendations for improvements to the loans, if any.
+
+SEC. 402. DEFINITION OF RURAL AREA FOR COMMUNITY PROGRAMS GUARANTEED 
+              LOANS.
+
+    (a) In General.--Section 730 of the Agriculture, Rural Development, 
+Food and Drug Administration, and Related Agencies Appropriations Act, 
+2000 (Public Law 106-78; 113 Stat. 1164; 7 U.S.C. 2009 note), is 
+amended by inserting ``(other than the Community Programs Guaranteed 
+Loans program)'' after ``Housing Service''.
+    (b) Conforming Amendment.--Section 735 of the Agriculture, Rural 
+Development, Food and Drug Administration, and Related Agencies 
+Appropriations Act, 1999 (Public Law 105-277; 112 Stat. 2681-29), is 
+repealed.
+
+                     Subtitle B--Rural Development
+
+SEC. 411. VALUE-ADDED INTERMEDIARY RELENDING
+              PROGRAM.
+
+    Section 310B of the Consolidated Farm and Rural Development Act (7 
+U.S.C. 1932) is amended by adding at the end the following:
+    ``(h) Value-Added Intermediary Relending Program.--
+            ``(1) In general.--In accordance with this subsection, the 
+        Secretary shall make loans under the intermediary relending 
+        program established under section 1323(b)(2)(C) of the Food 
+        Security Act of 1985 (7 U.S.C. 1932 note; Public Law 99-198).
+            ``(2) Loans.--Using funds made available to carry out this 
+        subsection, the Secretary shall make loans to eligible 
+        intermediaries to make loans to ultimate recipients, under the 
+        terms and conditions of  the intermediary relending program, 
+for projects to establish, enlarge, and operate enterprises that add 
+value to agricultural commodities and products of agricultural 
+commodities.
+            ``(3) Eligible intermediaries.--Intermediaries that shall 
+        be eligible to receive loans under paragraph (2) shall include 
+        State agencies.
+            ``(4) Preference for bioenergy projects.--In making loans 
+        using loan funds made available under paragraph (2), an 
+        eligible intermediary shall give preference to bioenergy 
+        projects in accordance with regulations promulgated by the 
+        Secretary.
+            ``(5) Composition of capital.--The capital for a project 
+        carried out by an ultimate recipient and assisted with loan 
+        funds made available under paragraph (2) shall be comprised 
+        of--
+                    ``(A) not more than 15 percent of the total cost of 
+                a project; and
+                    ``(B) not less than 50 percent of the equity funds 
+                provided by agricultural producers.
+            ``(6) Loan conditions.--
+                    ``(A) Terms of loans.--A loan made to an 
+                intermediary using loan funds made available under 
+                paragraph (2) shall have a term of not exceed 30 years.
+                    ``(B) Interest.--The interest rate on such a loan 
+                shall be--
+                            ``(i) in the case of each of the first 2 
+                        years of the loan period, 0 percent; and
+                            ``(ii) in the case of each of the remaining 
+                        years of the loan period, 2 percent.
+            ``(7) Limitations on amount of loan funds provided.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), an intermediary or ultimate recipient 
+                shall be eligible to receive not more than $2,000,000 
+                of the loan funds made available under paragraph (2).
+                    ``(B) State agencies.--Subparagraph (A) shall not 
+                apply in the case of a State agency with respect to 
+                loan funds provided to the State agency as an 
+                intermediary.''.
+
+SEC. 412. BUSINESS AND INDUSTRY LOANS.
+
+    (a) In General.--The Secretary shall use funds made available under 
+section 415(a)(2) to pay the cost of business and industry guaranteed 
+loans under section 310B(a)(1) of the Consolidated Farm and Rural 
+Development Act (7 U.S.C. 1932(a)(1)).
+    (b) Use of Funds.--To the maximum extent practicable, loan funds 
+made available under subsection (a) shall be used in conjunction with 
+value-added intermediary relending program loan funds made available by 
+section 310B(h) of the Consolidated Farm and Rural Development Act (as 
+added by section 411), except that the aggregate of all such loan funds 
+(including the amount of guaranteed loans) made available for a project 
+shall comprise not more than 65 percent of the cost of a project.
+    (c) Fees.--Section 310B(a) of the Consolidated Farm and Rural 
+Development Act (7 U.S.C. 1932(a)) is amended by adding at the end the 
+following: ``The amount of a fee paid by a borrower to the Secretary 
+for a business and industry direct or guaranteed loan under paragraph 
+(1) shall not exceed 2 percent of the amount of the loan.''.
+
+SEC. 413. VALUE-ADDED AGRICULTURAL PRODUCT MARKET DEVELOPMENT GRANTS.
+
+    The Secretary shall use funds made available under section 
+415(a)(3) to award grants for projects under the terms and conditions 
+provided in section 231(a) of the Agricultural Risk Protection Act of 
+2000 (Public Law 106-224; 7 U.S.C. 1621 note), except that the 
+Secretary shall give preference to bioenergy projects.
+
+SEC. 414. REGULATIONS; NOTICE OF ACCEPTANCE OF
+              APPLICATIONS.
+
+    (a) In General.--Not later than 75 days after the date of enactment 
+of this Act, the Secretary shall promulgate final regulations to carry 
+out this subtitle and the amendments made by this subtitle.
+    (b) Notice of Acceptance of Applications.--Not later than 20 days 
+after the date of promulgation of regulations under subsection (a), the 
+Secretary shall publish in the Federal Register a notice that the 
+Secretary is accepting applications for grants and loans for which 
+funds are made available under this subtitle and the amendments made by 
+this subtitle.
+
+SEC. 415. FUNDING.
+
+    (a) In General.--On October 1, 2001, out of any funds in the 
+Treasury not otherwise appropriated, the Secretary of the Treasury 
+shall transfer to the Secretary--
+            (1) $18,000,000 for the cost of loans to carry out section 
+        310B(h) of the Consolidated Farm and Rural Development Act (as 
+        added by section 411);
+            (2) $5,000,000 for the cost of loans to carry out section 
+        412; and
+            (3) $20,000,000 to carry out section 413.
+    (b) Entitlement.--The Secretary shall be entitled to receive the 
+funds transferred under subsection (a) and shall accept the funds.
+    (c) Availability of New Budget Authority.--For the purposes of 
+section 504(b)(1) of the Federal Credit Reform Act of 1990 (2 U.S.C. 
+661c(b)(1)), this section shall be considered to be an appropriations 
+Act.
+
+                           TITLE V--RESEARCH
+
+SEC. 501. SUSTAINABLE AGRICULTURE TECHNOLOGY
+              DEVELOPMENT AND TRANSFER PROGRAM.
+
+    In addition to funds made available under section 1629(i) of the 
+Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 
+5832(i)), the Secretary shall use $3,000,000 of funds of the Commodity 
+Credit Corporation for fiscal year 2002 to make producer grants under 
+chapter 3 of subtitle B of title XVI of that Act (7 U.S.C. 5831 et 
+seq.).
+
+SEC. 502. SENIOR SCIENTIFIC RESEARCH SERVICE.
+
+    Subtitle B of title VI of the Agricultural Research, Extension, and 
+Education Reform Act of 1998 (7 U.S.C. 7651 et seq.) is amended by 
+adding at the end the following:
+
+``SEC. 620. SENIOR SCIENTIFIC RESEARCH SERVICE.
+
+    ``(a) In General.--There is established in the Department of 
+Agriculture the Senior Scientific Research Service (referred to in this 
+section as the `Service').
+    ``(b) Members.--
+            ``(1) In general.--Subject to paragraphs (2) through (4), 
+        the Secretary shall appoint the members of the Service.
+            ``(2) Qualifications.--To be eligible for appointment to 
+        the Service, an individual shall--
+                    ``(A) have conducted outstanding research in the 
+                field of agriculture or forestry;
+                    ``(B) have earned a doctoral level degree at an 
+                institution of higher education (as defined in section 
+                101 of the Higher Education Act of 1965 (20 U.S.C. 
+                1001)); and
+                    ``(C) meet qualification standards prescribed by 
+                the Director of the Office of Personnel Management for 
+                appointment to a position at level GS-15 of the General 
+                Schedule.
+            ``(3) Number.--The Secretary shall appoint not more than 
+        100 individuals to serve as members of the Service at any time.
+            ``(4) Other requirements.--Subject to subsection (d)(2), 
+        the Secretary may appoint and employ a member of the Service 
+        without regard to--
+                    ``(A) the provisions of title 5, United States 
+                Code, governing appointments in the competitive 
+                service;
+                    ``(B) the provisions of subchapter I of chapter 35 
+                of title 5, United States Code, relating to retention 
+                preference;
+                    ``(C) the provisions of chapter 43 of title 5, 
+                United States Code, relating to performance appraisal 
+                and performance actions;
+                    ``(D) the provisions of chapter 51 and subchapter 
+                III of chapter 53 of title 5, United States Code, 
+                relating to classification and General Schedule pay 
+                rates; and
+                    ``(E) the provisions of chapter 75 of title 5, 
+                United States Code, relating to adverse actions.
+    ``(c) Performance Appraisal System.--The Secretary shall develop a 
+performance appraisal system for members of the Service that is 
+designed to--
+            ``(1) provide for the systematic appraisal of the 
+        employment performance of the members; and
+            ``(2) encourage excellence in employment performance by the 
+        members.
+    ``(d) Compensation.--
+            ``(1) In general.--Subject to paragraph (2), the Secretary 
+        shall determine the compensation of members of the Service.
+            ``(2) Limitations.--The rate of pay for a member of the 
+        Service shall--
+                    ``(A) not be less than the minimum rate payable for 
+                a position at level GS-15 of the General Schedule; and
+                    ``(B) not be more than the rate payable for a 
+                position at level I of the Executive Schedule, unless 
+                the rate is approved by the President under section 
+                5377(d)(2) of title 5, United States Code.
+    ``(e) Retirement Contributions.--
+            ``(1) In general.--On the request of a member of the 
+        Service who was an employee of an institution of higher 
+        education (as defined in section 101 of the Higher Education 
+        Act of 1965 (20 U.S.C. 1001)) immediately prior to appointment 
+        as a member of the Service and who retains the right to 
+        continue to make contributions to the retirement system of the 
+        institution, the Secretary may contribute an amount not to 
+        exceed 10 percent of the basic pay of the member to the 
+        retirement system of the institution on behalf of the member.
+            ``(2) Federal retirement system.--
+                    ``(A) In general.--Subject to subparagraph (B), a 
+                member for whom a contribution is made under paragraph 
+                (1) shall not, as a result of serving as a member of 
+                the Service, be covered by, or earn service credit 
+                under, chapter 83 or 84 of title 5, United States Code.
+                    ``(B) Annual leave.--Service of a member of the 
+                Service described in subparagraph (A) shall be 
+                creditable for determining years of service under 
+                section 6303(a) of title 5, United States Code.
+    ``(f) Involuntary Separation.--
+            ``(1) In general.--Subject to paragraph (2) and 
+        notwithstanding the provisions of title 5, United States Code, 
+        governing appointment in the competitive service, in the case 
+        of an individual who is separated from the Service 
+        involuntarily and without cause--
+                    ``(A) the Secretary may appoint the individual to a 
+                position in the competitive civil service at level GS-
+                15 of the General Schedule; and
+                    ``(B) the appointment shall be a career 
+                appointment.
+            ``(2) Excepted civil service.--In the case of an individual 
+        described in paragraph (1) who immediately prior to appointment 
+        as a member of the Service was not a career appointee in the 
+        civil service or the Senior Executive Service, the appointment 
+        of the individual under paragraph (1)--
+                    ``(A) shall be to the excepted civil service; and
+                    ``(B) may not exceed a period of 2 years.''.
+
+                     TITLE VI--DISASTER ASSISTANCE
+
+SEC. 601. CROP AND PASTURE FLOOD COMPENSATION
+              PROGRAM.
+
+    (a) Definition of Covered Land.--In this section:
+            (1) In general.--The term ``covered land'' means land 
+        that--
+                    (A) was unusable for agricultural production during 
+                the 2001 crop year as the result of flooding;
+                    (B) was used for agricultural production during at 
+                least 1 of the 1992 through 2000 crop years; and
+                    (C) is a contiguous parcel of land of at least 1 
+                acre.
+            (2) Exclusions.--The term ``covered land'' excludes any 
+        land for which a producer is insured, enrolled, or assisted 
+        during the 2001 crop year under--
+                    (A) a policy or plan of insurance authorized under 
+                the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);
+                    (B) the noninsured crop assistance program operated 
+                under section 196 of the Agricultural Market Transition 
+                Act (7 U.S.C. 7333);
+                    (C) any crop disaster program established for the 
+                2001 crop year;
+                    (D) the conservation reserve program established 
+                under subchapter B of chapter 1 of subtitle D of title 
+                XII of the Food Security Act of 1985 (16 U.S.C. 3831 et 
+                seq.);
+                    (E) the wetlands reserve program established under 
+                subchapter C of chapter 1 of subtitle D of title XII of 
+                the Food Security Act of 1985 (16 U.S.C. 3837 et seq.);
+                    (F) any emergency watershed protection program or 
+                Federal easement program that prohibits crop production 
+                or grazing; or
+                    (G) any other Federal or State water storage 
+                program, as determined by the Secretary.
+    (b) Compensation.--The Secretary shall use not more than 
+$24,000,000 of funds of the Commodity Credit Corporation to compensate 
+producers with covered land for losses from long-term flooding.
+    (c) Payment Rate.--The payment rate for compensation provided to a 
+producer under this section shall be equal to the average county cash 
+rental rate per acre established by the National Agricultural 
+Statistics Service for the 2001 crop year.
+    (d) Payment Limitation.--The total amount of payments made to a 
+person (as defined in section 1001(5) of the Food Security Act of 1985 
+(7 U.S.C. 1308(5))) under this section may not exceed $40,000.
+
+SEC. 602. PURCHASE OF FLOODPLAIN EASEMENTS.
+
+    (a) In General.--The Secretary shall use $10,000,000 of funds of 
+the Commodity Credit Corporation for fiscal year 2002 to purchase 
+permanent easements under the emergency watershed protection program.
+    (b) Priority.--In carrying out this section, the Secretary shall 
+provide a higher priority to the purchase of easements on floodplains 
+of the Mississippi River and the Missouri River.
+
+SEC. 603. COMPENSATION OF PRODUCERS FOR FORAGE LOSSES DUE TO ARMY 
+              WORMS.
+
+    (a) In General.--The Secretary shall use not more than $25,000,000 
+of funds of the Commodity Credit Corporation to provide payments to 
+producers of forage crops for losses due to army worms.
+    (b) Amount.--
+            (1) In general.--The amount of a payment made to a producer 
+        under this section shall be equal to 65 percent of the average 
+        price received by producers of a forage crop in the crop year 
+        (as determined under paragraph (2)) for any deficiency in 
+        production greater than 35 percent of the established yield for 
+        the crop for the crop year, as determined by the Secretary.
+            (2) Average price.--For the purpose of paragraph (1), the 
+        average price received by producers of a forage crop shall be 
+        equal to the simple average price received by producers of the 
+        crop, as determined by the Secretary, during the immediately 
+        preceding 5 crop years, excluding the year in which the average 
+        price was the highest and the year in which the average price 
+        was the lowest.
+            (3) Administration.--Except as provided in paragraph (1), 
+        the amount of a payment made to a producer under this section 
+        shall be made in accordance with the terms and conditions 
+        specified in section 196 of the Agricultural Market Transition 
+        Act (7 U.S.C. 7333).
+
+                        TITLE VII--MISCELLANEOUS
+
+SEC. 701. NATIONAL ORGANIC CERTIFICATION COST-SHARE PROGRAM.
+
+    (a) In General.--The Secretary (acting through the Agricultural 
+Marketing Service) shall use $3,500,000 of funds of the Commodity 
+Credit Corporation for fiscal year 2002 to establish a national organic 
+certification cost-share program to assist producers and handlers of 
+agricultural products in obtaining certification under the national 
+organic production program established under the Organic Foods 
+Production Act of 1990 (7 U.S.C. 6501 et seq.).
+    (b) Federal Share.--
+            (1) In general.--Subject to paragraph (2), the Secretary 
+        shall pay under this section not more than 75 percent of the 
+        costs incurred by a producer or handler in obtaining 
+        certification under the national organic production program, as 
+        certified to and approved by the Secretary.
+            (2) Maximum amount.--The maximum amount of a payment made 
+        to a producer or handler under this section shall be $500.
+
+SEC. 702. USE OF VALUE-ADDED COMMODITIES.
+
+    Section 204(b)(1) of the Agricultural Trade Development and 
+Assistance Act of 1954 (7 U.S.C. 1724(b)(1)) is amended by inserting 
+``(including crude degummed soybean oil and soybean meal)'' after 
+``processed, fortified, or bagged commodities''.
+
+                       TITLE VII--ADMINISTRATION
+
+SEC. 801. OBLIGATION PERIOD.
+
+    (a) Fiscal Year 2001.--Except as otherwise provided in this Act, 
+the Secretary and the Commodity Credit Corporation shall obligate and 
+expend funds only during fiscal year 2001 to carry out the following:
+            (1) Section 101.
+            (2) Section 107(a).
+    (b) Fiscal Year 2002.--
+            (1) In general.--Except as otherwise provided in this Act, 
+        the Secretary and the Commodity Credit Corporation shall 
+        obligate and, to the maximum extent practicable, expend funds 
+        during fiscal year 2002 to carry out the following:
+                    (A) Title I (other than sections 101 and 107(a)).
+                    (B) Title II.
+                    (C) Sections 303 and 304.
+                    (D) Subtitle B of title IV.
+                    (E) Section 501.
+                    (F) Title VI.
+                    (G) Section 701.
+            (2) Availability.--Funds described in paragraph (1) shall 
+        remain available until expended.
+
+SEC. 802. COMMODITY CREDIT CORPORATION.
+
+    Except as otherwise provided in this Act, the Secretary shall use 
+the funds, facilities, and authorities of the Commodity Credit 
+Corporation to carry out this Act.
+
+SEC. 803. REGULATIONS.
+
+    (a) In General.--The Secretary may promulgate such regulations as 
+are necessary to implement this Act and the amendments made by this 
+Act.
+    (b) Procedure.--The promulgation of the regulations and 
+administration of the amendments made by this Act shall be made without 
+regard to--
+            (1) the notice and comment provisions of section 553 of 
+        title 5, United States Code;
+            (2) the Statement of Policy of the Secretary of Agriculture 
+        effective July 24, 1971 (36 Fed. Reg. 13804), relating to 
+        notices of proposed rulemaking and public participation in 
+        rulemaking; and
+            (3) chapter 35 of title 44, United States Code (commonly 
+        known as the ``Paperwork Reduction Act'').
+    (c) Congressional Review of Agency Rulemaking.--In carrying out 
+this section, the Secretary shall use the authority provided under 
+section 808 of title 5, United States Code.
+
+
+
+
+                                                       Calendar No. 102
+
+107th CONGRESS
+
+  1st Session
+
+                                S. 1246
+
+_______________________________________________________________________
+
+                                 A BILL
+
+              To respond to the continuing economic crisis
+          adversely affecting American agricultural producers.
+
+_______________________________________________________________________
+
+                             July 25, 2001
+
+                 Read twice and placed on the calendar

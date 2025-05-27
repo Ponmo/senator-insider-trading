@@ -1,0 +1,182 @@
+Calendar No. 337
+112th CONGRESS
+2d Session
+S. 2204
+
+To eliminate unnecessary tax subsidies and promote renewable energy and energy conservation.
+IN THE SENATE OF THE UNITED STATES
+March 19, 2012
+Mr. Menendez (for himself and Mr. Reid) introduced the following bill; which was read the first time
+March 20, 2012
+Read the second time and placed on the calendar
+A BILL
+To eliminate unnecessary tax subsidies and promote renewable energy and energy conservation.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Repeal Big Oil Tax Subsidies Act”.
+TITLE I—TAX EXTENSIONS RELATING TO ENERGY
+SEC. 101. EXTENSION OF CREDIT FOR ENERGY-EFFICIENT EXISTING HOMES.
+(a) In General.—Paragraph (2) of section 25C(g) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendment made by this section shall apply to property placed in service after December 31, 2011.
+SEC. 102. EXTENSION OF CREDIT FOR CERTAIN PLUG-IN ELECTRIC VEHICLES.
+(a) In General.—Subsection (f) of section 30 of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendment made by this section shall apply to vehicles acquired after December 31, 2011.
+SEC. 103. EXTENSION OF CREDIT FOR ALTERNATIVE FUEL VEHICLE REFUELING PROPERTY.
+(a) Extension.—Paragraph (2) of section 30C(g) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011.” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendment made by this section shall apply to property placed in service after December 31, 2011.
+SEC. 104. EXTENSION OF CELLULOSIC BIOFUEL PRODUCER CREDIT.
+(a) In General.—Subparagraph (H) of section 40(b)(6) of the Internal Revenue Code of 1986 is amended to read as follows:
+“(H) APPLICATION OF PARAGRAPH.—
+“(i) IN GENERAL.—This paragraph shall apply with respect to qualified cellulosic biofuel production after December 31, 2008, and before January 1, 2014.
+“(ii) NO CARRYOVER TO CERTAIN YEARS AFTER EXPIRATION.—If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.”.
+(b) Conforming Amendment.—
+(1) IN GENERAL.—Paragraph (2) of section 40(e) of the Internal Revenue Code of 1986 is amended by striking “or subsection (b)(6)(H)”.
+(2) EFFECTIVE DATE.—The amendment made by this subsection shall take effect as if included in section 15321(b) of the Heartland, Habitat, and Horticulture Act of 2008.
+SEC. 105. ALGAE TREATED AS A QUALIFIED FEEDSTOCK FOR PURPOSES OF THE CELLULOSIC BIOFUEL PRODUCER CREDIT, ETC.
+(a) In General.—Subclause (I) of section 40(b)(6)(E)(i) of the Internal Revenue Code of 1986 is amended to read as follows:
+“(I) is derived by, or from, qualified feedstocks, and”.
+(b) Qualified Feedstock; Special Rules For Algae.—Paragraph (6) of section 40(b) of the Internal Revenue Code of 1986 is amended by redesignating subparagraphs (F), (G), and (H), as amended by this Act, as subparagraphs (H), (I), and (J), respectively, and by inserting after subparagraph (E) the following new subparagraphs:
+“(F) QUALIFIED FEEDSTOCK.—For purposes of this paragraph, the term ‘qualified feedstock’ means—
+“(i) any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and
+“(ii) any cultivated algae, cyanobacteria, or lemna.
+“(G) SPECIAL RULES FOR ALGAE.—In the case of fuel which is derived by, or from, feedstock described in subparagraph (F)(ii) and which is sold by the taxpayer to another person for refining by such other person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the refined fuel is not excluded under subparagraph (E)(iii)—
+“(i) such sale shall be treated as described in subparagraph (C)(i),
+“(ii) such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II) and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer, and
+“(iii) except as provided in this subparagraph, such fuel (and any fuel derived from such fuel) shall not be taken into account under subparagraph (C) with respect to the taxpayer or any other person.”.
+(c) Algae Treated As A Qualified Feedstock For Purposes Of Bonus Depreciation For Biofuel Plant Property.—
+(1) IN GENERAL.—Subparagraph (A) of section 168(l)(2) of the Internal Revenue Code of 1986 is amended by striking “solely to produce cellulosic biofuel” and inserting “solely to produce second generation biofuel (as defined in section 40(b)(6)(E))”.
+(2) CONFORMING AMENDMENTS.—Subsection (l) of section 168 of such Code is amended—
+(A) by striking “cellulosic biofuel” each place it appears in the text thereof and inserting “second generation biofuel”,
+(B) by striking paragraph (3) and redesignating paragraphs (4) through (8) as paragraphs (3) through (7), respectively,
+(C) by striking “Cellulosic” in the heading of such subsection and inserting “Second Generation”, and
+(D) by striking “CELLULOSIC” in the heading of paragraph (2) and inserting “SECOND GENERATION”.
+(d) Conforming Amendments.—
+(1) Section 40 of the Internal Revenue Code of 1986, as amended by subsection (b), is amended—
+(A) by striking “cellulosic biofuel” each place it appears in the text thereof and inserting “second generation biofuel”,
+(B) by striking “CELLULOSIC” in the headings of subsections (b)(6), (b)(6)(E), and (d)(3)(D) and inserting “SECOND GENERATION”, and
+(C) by striking “CELLULOSIC” in the headings of subsections (b)(6)(C), (b)(6)(D), (b)(6)(H), (d)(6), and (e)(3) and inserting “SECOND GENERATION”.
+(2) Clause (ii) of section 40(b)(6)(E) of such Code is amended by striking “Such term shall not” and inserting “The term ‘second generation biofuel’ shall not”.
+(3) Paragraph (1) of section 4101(a) of such Code is amended by striking “cellulosic biofuel” and inserting “second generation biofuel”.
+(e) Effective Dates.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the amendments made by this section shall apply to fuels sold or used after the date of the enactment of this Act.
+(2) APPLICATION TO BONUS DEPRECIATION.—The amendments made by subsection (c) shall apply to property placed in service after the date of the enactment of this Act.
+SEC. 106. EXTENSION OF INCENTIVES FOR BIODIESEL AND RENEWABLE DIESEL.
+(a) Credits For Biodiesel And Renewable Diesel Used As Fuel.—Subsection (g) of section 40A of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Excise Tax Credits And Outlay Payments For Biodiesel And Renewable Diesel Fuel Mixtures.—
+(1) Paragraph (6) of section 6426(c) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(2) Subparagraph (B) of section 6427(e)(6) of such Code is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(c) Effective Date.—The amendments made by this section shall apply to fuel sold or used after December 31, 2011.
+SEC. 107. EXTENSION OF PRODUCTION CREDIT FOR REFINED COAL.
+(a) In General.—Subparagraph (B) of section 45(d)(8) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2012” and inserting “January 1, 2013”.
+(b) Effective Date.—The amendment made by this section shall apply to facilities placed in service after December 31, 2011.
+SEC. 108. EXTENSION OF PRODUCTION CREDIT.
+(a) In General.—Section 45(d) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2014” each place it appears in paragraphs (2), (3), (4), (6), (7), (9), and (11) and inserting “January 1, 2015”.
+(b) Wind Facilities.—Paragraph (1) of section 45(d) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2013” and inserting “January 1, 2014”.
+(c) Increased Credit Amount For Indian Coal Facilities Placed In Service Before 2009.—Subparagraph (A) of section 45(e)(10) of the Internal Revenue Code of 1986 is amended by striking “7-year period” each place it appears and inserting “8-year period”.
+(d) Conforming Amendments.—Subsection (e) of section 1603 of division B of the American Recovery and Reinvestment Act of 2009 is amended—
+(1) by striking “January 1, 2013” in paragraph (1) and inserting “January 1, 2014”, and
+(2) by striking “January 1, 2014” in paragraph (2) and inserting “January 1, 2015”.
+(e) Effective Dates.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the amendments made by this section shall apply to facilities placed in service after December 31, 2012.
+(2) INDIAN COAL.—The amendment made by subsection (c) shall take effect on the date of the enactment of this Act.
+SEC. 109. EXTENSION OF CREDIT FOR ENERGY-EFFICIENT NEW HOMES.
+(a) In General.—Subsection (g) of section 45L of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendment made by this section shall apply to homes acquired after December 31, 2011.
+SEC. 110. EXTENSION OF CREDIT FOR ENERGY-EFFICIENT APPLIANCES.
+(a) In General.—Section 45M(b) of the Internal Revenue Code of 1986 is amended by striking “2011” each place it appears other than in the provisions specified in subsection (b), and inserting “2011 or 2012”.
+(b) Provisions Specified.—The provisions of section 45M(b) of the Internal Revenue Code of 1986 specified in this subsection are subparagraph (C) of paragraph (1) and subparagraph (E) of paragraph (2).
+(c) Effective Date.—The amendments made by this section shall apply to appliances produced after December 31, 2011.
+SEC. 111. EXTENSION OF ELECTION OF INVESTMENT TAX CREDIT IN LIEU OF PRODUCTION CREDIT.
+(a) In General.—Clause (ii) of section 48(a)(5)(C) of the Internal Revenue Code of 1986 is amended by striking “or 2013” and inserting “2013, or 2014”.
+(b) Wind Facilities.—Clause (i) of section 48(a)(5)(C) of the Internal Revenue Code of 1986 is amended by striking “Any qualified facility” and all that follows and inserting “Any facility which is—
+“(I) a qualified facility (within the meaning of section 45) described in paragraph (1) of section 45(d) if such facility is placed in service in 2009, 2010, 2011, 2012, or 2013, or
+“(II) a qualifying offshore wind facility, if such facility is placed in service in 2012, 2013, or 2014.”.
+(c) Qualifying Offshore Wind Facility.—Paragraph (5) of section 48(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+“(E) QUALIFYING OFFSHORE WIND FACILITY.—For purposes of this paragraph—
+“(i) IN GENERAL.—The term ‘qualifying offshore wind facility’ means an offshore facility using wind to produce electricity.
+“(ii) OFFSHORE FACILITY.—The term ‘offshore facility’ means any facility located in the inland navigable waters of the United States, including the Great Lakes, or in the coastal waters of the United States, including the territorial seas of the United States, the exclusive economic zone of the United States, and the Outer Continental Shelf of the United States. For purposes of the preceding sentence, the term ‘United States’ has the meaning given in section 638(1).”.
+(d) Effective Date.—The amendments made by this section shall apply to facilities placed in service after December 31, 2011.
+SEC. 112. EXPANSION OF QUALIFYING ADVANCED ENERGY PROJECT CREDIT.
+(a) In General.—Subparagraph (B) of section 48C(d)(1) of the Internal Revenue Code of 1986 is amended by striking “$2,300,000,000” and inserting “$4,600,000,000”.
+(b) Effective Date.—The amendment made by this section shall take effect on the date of the enactment of this Act.
+SEC. 113. EXTENSION OF SPECIAL ALLOWANCE FOR CELLULOSIC BIOFUEL PLANT PROPERTY.
+(a) In General.—Subparagraph (D) of section 168(l)(2) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2013” and inserting “January 1, 2014”.
+(b) Conforming Amendment.—Paragraph (4) of section 168(l) of the Internal Revenue Code of 1986, as redesignated by this Act, is amended—
+(1) by striking “and” at the end of subparagraph (A),
+(2) by redesignating subparagraph (B) as subparagraph (C), and
+(3) by inserting after subparagraph (A) the following new subparagraph:
+“(B) by substituting ‘January 1, 2014’ for ‘January 1, 2013’ in clause (i) thereof, and”.
+SEC. 114. EXTENSION OF SUSPENSION OF LIMITATION ON PERCENTAGE DEPLETION FOR OIL AND GAS FROM MARGINAL WELLS.
+(a) In General.—Clause (ii) of section 613A(c)(6)(H) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2012” and inserting “January 1, 2013”.
+(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2011.
+SEC. 115. EXTENSION OF ALTERNATIVE FUELS EXCISE TAX CREDITS.
+(a) In General.—Sections 6426(d)(5), 6426(e)(3), and 6427(e)(6)(C) of the Internal Revenue Code of 1986 are each amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendments made by this section shall apply to fuel sold or used after December 31, 2011.
+SEC. 116. EXTENSION OF GRANTS FOR SPECIFIED ENERGY PROPERTY IN LIEU OF TAX CREDITS.
+(a) In General.—Subsection (a) of section 1603 of division B of the American Recovery and Reinvestment Act of 2009, as amended by section 707 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, is amended—
+(1) by striking “or 2011” in paragraph (1) and inserting “2011, or 2012”, and
+(2) in paragraph (2)—
+(A) by striking “after 2011” and inserting “after 2012”, and
+(B) by striking “or 2011” and inserting “2011, or 2012”.
+(b) Conforming Amendment.—Subsection (j) of section 1603 of division B of such Act, as so amended, is amended by striking “2012” and inserting “2013”.
+(c) Effective Date.—The amendments made by this section shall apply to property placed in service after December 31, 2011.
+SEC. 117. EXTENSION OF MINE RESCUE TEAM TRAINING CREDIT.
+(a) In General.—Subsection (e) of section 45N of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2011.
+SEC. 118. EXTENSION OF ELECTION TO EXPENSE MINE SAFETY EQUIPMENT.
+(a) In General.—Subsection (g) of section 179E of the Internal Revenue Code of 1986 is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+(b) Effective Date.—The amendment made by this section shall apply to property placed in service after December 31, 2011.
+TITLE II—REPEAL OF OIL AND GAS SUBSIDIES
+Subtitle A—Close Big Oil Tax Loopholes
+SEC. 201. MODIFICATIONS OF FOREIGN TAX CREDIT RULES APPLICABLE TO MAJOR INTEGRATED OIL COMPANIES WHICH ARE DUAL CAPACITY TAXPAYERS.
+(a) In General.—Section 901 of the Internal Revenue Code of 1986 is amended by redesignating subsection (n) as subsection (o) and by inserting after subsection (m) the following new subsection:
+“(n) Special Rules Relating To Major Integrated Oil Companies Which Are Dual Capacity Taxpayers.—
+“(1) GENERAL RULE.—Notwithstanding any other provision of this chapter, any amount paid or accrued by a dual capacity taxpayer which is a major integrated oil company (as defined in section 167(h)(5)(B)) to a foreign country or possession of the United States for any period shall not be considered a tax—
+“(A) if, for such period, the foreign country or possession does not impose a generally applicable income tax, or
+“(B) to the extent such amount exceeds the amount (determined in accordance with regulations) which—
+“(i) is paid by such dual capacity taxpayer pursuant to the generally applicable income tax imposed by the country or possession, or
+“(ii) would be paid if the generally applicable income tax imposed by the country or possession were applicable to such dual capacity taxpayer.
+Nothing in this paragraph shall be construed to imply the proper treatment of any such amount not in excess of the amount determined under subparagraph (B).
+“(2) DUAL CAPACITY TAXPAYER.—For purposes of this subsection, the term ‘dual capacity taxpayer’ means, with respect to any foreign country or possession of the United States, a person who—
+“(A) is subject to a levy of such country or possession, and
+“(B) receives (or will receive) directly or indirectly a specific economic benefit (as determined in accordance with regulations) from such country or possession.
+“(3) GENERALLY APPLICABLE INCOME TAX.—For purposes of this subsection—
+“(A) IN GENERAL.—The term ‘generally applicable income tax’ means an income tax (or a series of income taxes) which is generally imposed under the laws of a foreign country or possession on income derived from the conduct of a trade or business within such country or possession.
+“(B) EXCEPTIONS.—Such term shall not include a tax unless it has substantial application, by its terms and in practice, to—
+“(i) persons who are not dual capacity taxpayers, and
+“(ii) persons who are citizens or residents of the foreign country or possession.”.
+(b) Effective Date.—
+(1) IN GENERAL.—The amendments made by this section shall apply to taxes paid or accrued in taxable years beginning after the date of the enactment of this Act.
+(2) CONTRARY TREATY OBLIGATIONS UPHELD.—The amendments made by this section shall not apply to the extent contrary to any treaty obligation of the United States.
+SEC. 202. LIMITATION ON SECTION 199 DEDUCTION ATTRIBUTABLE TO OIL, NATURAL GAS, OR PRIMARY PRODUCTS THEREOF.
+(a) Denial Of Deduction.—Paragraph (4) of section 199(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+“(E) SPECIAL RULE FOR CERTAIN OIL AND GAS INCOME.—In the case of any taxpayer who is a major integrated oil company (as defined in section 167(h)(5)(B)) for the taxable year, the term ‘domestic production gross receipts’ shall not include gross receipts from the production, transportation, or distribution of oil, natural gas, or any primary product (within the meaning of subsection (d)(9)) thereof.”.
+(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2011.
+SEC. 203. LIMITATION ON DEDUCTION FOR INTANGIBLE DRILLING AND DEVELOPMENT COSTS.
+(a) In General.—Section 263(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new sentence: “This subsection shall not apply to amounts paid or incurred by a taxpayer in any taxable year in which such taxpayer is a major integrated oil company (as defined in section 167(h)(5)(B)).”.
+(b) Effective Date.—The amendment made by this section shall apply to amounts paid or incurred in taxable years beginning after December 31, 2011.
+SEC. 204. LIMITATION ON PERCENTAGE DEPLETION ALLOWANCE FOR OIL AND GAS WELLS.
+(a) In General.—Section 613A of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+“(f) Application With Respect To Major Integrated Oil Companies.—In the case of any taxable year in which the taxpayer is a major integrated oil company (as defined in section 167(h)(5)(B)), the allowance for percentage depletion shall be zero.”.
+(b) Effective Date.—The amendment made by this section shall apply to taxable years beginning after December 31, 2011.
+SEC. 205. LIMITATION ON DEDUCTION FOR TERTIARY INJECTANTS.
+(a) In General.—Section 193 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+“(d) Application With Respect To Major Integrated Oil Companies.—This section shall not apply to amounts paid or incurred by a taxpayer in any taxable year in which such taxpayer is a major integrated oil company (as defined in section 167(h)(5)(B)).”.
+(b) Effective Date.—The amendment made by this section shall apply to amounts paid or incurred in taxable years beginning after December 31, 2011.
+Subtitle B—Outer Continental Shelf Oil And Natural Gas
+SEC. 211. REPEAL OF OUTER CONTINENTAL SHELF DEEP WATER AND DEEP GAS ROYALTY RELIEF.
+(a) In General.—Sections 344 and 345 of the Energy Policy Act of 2005 (42 U.S.C. 15904, 15905) are repealed.
+(b) Administration.—The Secretary of the Interior shall not be required to provide for royalty relief in the lease sale terms beginning with the first lease sale held on or after the date of enactment of this Act for which a final notice of sale has not been published.
+TITLE III—BUDGETARY EFFECTS
+SEC. 301. DEFICIT REDUCTION.
+The net amount of any savings realized as a result of the enactment of this Act and the amendments made by this Act (after any expenditures authorized by this Act and the amendments made by this Act) shall be deposited in the Treasury and used for Federal budget deficit reduction or, if there is no Federal budget deficit, for reducing the Federal debt in such manner as the Secretary of the Treasury considers appropriate.
+SEC. 302. BUDGETARY EFFECTS.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+Calendar No. 337
+112th CONGRESS
+     2d Session
+S. 2204
+A BILL
+To eliminate unnecessary tax subsidies and promote renewable energy and energy conservation.
+March 20, 2012
+Read the second time and placed on the calendar

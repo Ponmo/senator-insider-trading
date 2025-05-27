@@ -1,0 +1,36 @@
+112th CONGRESS
+2d Session
+S. 3637
+
+To temporarily extend the transaction account guarantee program, and for other purposes.
+IN THE SENATE OF THE UNITED STATES
+November 26, 2012
+Mr. Reid introduced the following bill; which was read the first time
+November 27, 2012
+Read the second time and placed on the calendar
+December 13, 2012
+Committed to the Committee on Banking, Housing, and Urban Affairs pursuant to section 312(f) of the Congressional Budget Act
+A BILL
+To temporarily extend the transaction account guarantee program, and for other purposes.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. INSURED DEPOSITORY INSTITUTION TRANSACTION ACCOUNT GUARANTEE PROGRAM.
+(a) Extension.—Notwithstanding any other provision of law that would repeal subparagraphs (B) and (C) of section (11)(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)) on January 1, 2013, such subparagraphs shall remain in effect until December 31, 2014.
+(b) Prospective Repeal.—Effective on January 1, 2015, section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)) is amended—
+(1) in subparagraph (B)—
+(A) by striking “DEPOSIT.—” and all that follows through “clause (ii), the net amount” in clause (i), and inserting “DEPOSIT.—The net amount”; and
+(B) by striking clauses (ii) and (iii); and
+(2) in subparagraph (C), by striking “subparagraph (B)(i)” and inserting “subparagraph (B)”.
+(c) Cost Recovery.—The Federal Deposit Insurance Corporation (in this section referred to as the “Corporation”) shall fully offset, in each calendar year, any estimated losses to the Deposit Insurance Fund established under section 11(a)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(4)) that may occur as a result of the amendments made under subsections (a) and (b) of this section, by—
+(1) estimating the losses, if any, that are expected to occur for each calendar year; and
+(2) collecting an amount equal to such estimated losses by September 30 of such calendar year, which shall be in addition to the assessments that would otherwise be collected by the Corporation with respect to such year for insured depository institutions (as defined in section 3(c)(2) of that Act (12 U.S.C. 1813(c)(2))) pursuant to section 7(b) of that Act (12 U.S.C. 1817(b)).
+SEC. 2. INSURED CREDIT UNION TRANSACTION ACCOUNT GUARANTEE PROGRAM.
+(a) Extension.—Notwithstanding any other provision of law that would repeal subparagraphs (A) and (B) of section 207(k)(1) of the Federal Credit Union Act (12 U.S.C. 1787(k)(1)) on January 1, 2013, such subparagraphs shall remain in effect until December 31, 2014.
+(b) Prospective Repeal.—Effective on January 1, 2015, section 207(k)(1) of the Federal Credit Union Act (12 U.S.C. 1787(k)(1)) is amended—
+(1) in subparagraph (A)—
+(A) by striking “(A) IN GENERAL.—” and all that follows through “paragraph (2), the net amount” in clause (i), and inserting the following:
+“(1) IN GENERAL.—Subject to the provisions of paragraph (2), the net amount”; and
+(B) by striking clauses (ii) and (iii); and
+(2) in subparagraph (B), by striking “subparagraph (A)(i)” and inserting “subparagraph (A)”.
+(c) Cost Recovery.—The National Credit Union Administration (in this section referred to as the “Administration”) shall fully offset, in each calendar year, any estimated losses to the National Credit Union Share Insurance Fund established under section 203(a) of the Federal Credit Union Act (12 U.S.C. 1783(a)) that may occur as a result of the amendments made under subsections (a) and (b) of this section, by—
+(1) estimating the losses, if any, that are expected to occur for each calendar year; and
+(2) collecting an amount equal to such estimated losses by September 30 of such calendar year, which shall be in addition to the assessments that would otherwise be collected by the Administration with respect to such year for insured credit unions (as defined in section 101 of that Act (12 U.S.C. 1752)) pursuant to section 202 of that Act (12 U.S.C. 1782).

@@ -1,0 +1,151 @@
+Calendar No. 118
+110th CONGRESS
+1st Session
+S. 3
+
+To amend part D of title XVIII of the Social Security Act to provide for fair prescription drug prices for Medicare beneficiaries.
+IN THE SENATE OF THE UNITED STATES
+January 4, 2007
+Mr. Reid (for himself, Mr. Baucus, Mr. Leahy, Ms. Mikulski, Mr. Schumer, Mrs. Clinton, Ms. Cantwell, Mr. Kohl, Ms. Stabenow, Mr. Webb, Mrs. Boxer, Mr. Brown, Ms. Klobuchar, Mr. Casey, and Mr. Levin) introduced the following bill; which was read twice and referred to the Committee on Finance
+April 13, 2007
+Reported under authority of the order of the Senate of April 12, 2007, by Mr. Baucus, with an amendment
+[Strike out all after the enacting clause and insert the part printed in italic]
+A BILL
+To amend part D of title XVIII of the Social Security Act to provide for fair prescription drug prices for Medicare beneficiaries.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE; SENSE OF THE CONGRESS.
+(a) Short Title.—This Act may be cited as the “Medicare Prescription Drug Price Negotiation Act of 2007”.
+(b) Sense Of The Congress.—It is the sense of the Congress that the Congress should enact, and the President should sign, legislation to amend part D of title XVIII of the Social Security Act to provide for fair prescription drug prices for Medicare beneficiaries.
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Medicare Fair Prescription Drug Price Act of 2007”.
+SEC. 2. REPEAL OF PROHIBITION.
+(a)Repeal Of Prohibition.—
+(1)IN GENERAL.—Section 1860D–11(i) of the Social Security Act (42 U.S.C. 1395w–111(i)) is amended by striking “the Secretary—” and all that follows through “may not require” and inserting “the Secretary may not require”.
+(2) RULE OF CONSTRUCTION.—Nothing in the amendment made by paragraph (1) shall be construed as doing any of the following:
+(A)Preventing the sponsor of a prescription drug plan or an MA organization offering an MA–PD plan under part D of title XVIII of the Social Security Act from obtaining a discount or reduction of the price for a covered part D drug.
+(B) Affecting the authority of the Secretary of Health and Human Services to ensure appropriate and adequate access to covered part D drugs under prescription drug plans and under MA–PD plans under such part, including compliance of such plans with formulary requirements under section 1860D–4(b)(3) of the Social Security Act (42 U.S.C. 1395w–104(b)(3)).
+(C) Limiting access by individuals enrolled in such prescription drug plans and MA–PD plans to community pharmacies.
+(3)CONDUCT OF NEGOTIATIONS.—Section 1860D–11 of the Social Security Act (42 U.S.C. 1395w–111) is amended by adding at the end the following new subsection:
+“(k)Efforts To Promote And Ensure Access To Fair Prices.—
+“(1)USE OF AGENCY RESOURCES.—To the extent that the Secretary promotes and ensures access to fair prices by engaging in any direct negotiations with a drug manufacturer with respect to prices for covered part D drugs, the Secretary—
+“(A)may only do so utilizing the resources of the Department of Health and Human Services; and
+“(B) may not enter into a contract with any public or private entity or enter into an Interdepartmental Agreement for the purpose of conducting such negotiations.”.
+(b) Accountability.—Section 1860D–11(k) of the Social Security Act, as added by subsection (a)(3), is amended by adding at the end the following new paragraph:
+“(2)ANNUAL REPORT ON EFFORTS TO PROMOTE AND ENSURE ACCESS TO FAIR PRICES.—The Secretary shall submit to Congress an annual report on the efforts of the Secretary to promote and ensure access to fair prices for prescription drugs under this part.”.
+(c) Effective Date.—The amendments made by this section shall take effect on the date of enactment of this Act.
+SEC. 3. GREATER TRANSPARENCY OF PART D PRICES AND INFORMATION.
+(a) Access Of Congressional Support Agencies To Data On Prescription Drug Plans And Medicare Advantage Plans.—Section 1860D–42 of the Social Security Act (42 U.S.C. 1395w–152) is amended by adding at the end the following new subsection:
+“(c) Providing Part D Data To Congressional Support Agencies.—
+“(1) IN GENERAL.—Notwithstanding any provision under this part that limits the use of prescription drug data collected under this part and subject to the restriction under paragraph (6), upon the request of a congressional support agency, the Secretary shall provide such agency with the following data collected from, or related to, prescription drug plans and MA–PD plans:
+“(A) AGGREGATE NEGOTIATED PRICE CONCESSIONS.—Aggregate negotiated price concessions described in section 1860D–2(d)(2) (as determined necessary and appropriate by the congressional support agency to carry out the legislatively mandated duties of the agency).
+“(B) NEGOTIATED PRICE CONCESSIONS.—The negotiated rebates, discounts, and other price concessions (as currently reported pursuant to section 1860D–2(d)(2)).
+“(C) DRUG CLAIMS DATA.—Data or a representative sample of data regarding drug claims submitted under section 1860D–15(c)(1)(C) (as determined necessary and appropriate by the congressional support agency to carry out the legislatively mandated duties of the agency).
+“(D) REINSURANCE PAYMENTS.—The amount of reinsurance payments paid under section 1860D–15(a)(2), provided at the plan level.
+“(E) RISK-CORRIDOR PAYMENTS.—The amount of any adjustments of payments made under subparagraph (B) or (C) of section 1860D–15(e)(2), provided at the plan level.
+“(2) PROHIBITION ON DISCLOSURE OF DATA BY CONGRESSIONAL SUPPORT AGENCIES.—
+“(A) Data provided to a congressional support agency under this subsection shall not—
+“(i) be disclosed by such agency in the performance of the agency’s duties in cases where such disclosure by the Secretary would be prohibited under applicable Federal law, or where such disclosure would result in the disclosure of trade secrets; and
+“(ii) be disclosed, reported, or released by such agency in identifiable form.
+“(B) IDENTIFIABLE FORM.—For purposes of subparagraph (A)(ii), the term ‘identifiable form’ means any representation of information described in subparagraphs (A) through (E) of paragraph (1) that permits identification of a specific prescription drug plan, MA–PD plan, pharmacy benefit manager, drug manufacturer, drug wholesaler, drug, or individual enrolled in a prescription drug plan or an MA–PD plan under this part.
+“(3) SAFEGUARDING DATA.—Each congressional support agency shall adopt and maintain reasonable safeguards to protect against the unauthorized disclosure of data provided under this subsection. Such safeguards shall only permit the congressional support agency to disclose the data to another agency or entity if the agency or entity is—
+“(A)under a subcontract with the congressional support agency to support any analysis conducted by the congressional support agency with respect to such data; and
+“(B)is subject to the same data disclosure provisions and safeguards as the congressional support agency is subject to under this paragraph and paragraph (2).
+“(4) DISCLOSURE EXEMPTION.—Data provided under this subsection shall be exempt from disclosure under section 552 of title 5, United States Code.
+“(5) CONGRESSIONAL SUPPORT AGENCY DEFINED.—In this subsection, the term ‘congressional support agency’ means—
+“(A) the Medicare Payment Advisory Commission;
+“(B) the Congressional Research Service;
+“(C) the Congressional Budget Office; and
+“(D) the Government Accountability Office.
+“(6) RESTRICTION ON DISCLOSURE OF PRICE CONCESSIONS.—The Secretary may only release data on the negotiated price concessions described in paragraph (1)(B) to the congressional support agency described in paragraph (5)(C).
+“(7) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to limit the ability of a congressional support agency to obtain information not described in paragraph (1).”.
+(b) Study On Market Competition And Reports On Limitations Of Data Elements For Studying The Prescription Drug Program.—
+(1) STUDY AND REPORT ON MARKET COMPETITION BY THE CONGRESSIONAL BUDGET OFFICE.—
+(A)IN GENERAL.—The Director of the Congressional Budget Office shall conduct a study on the effect of market competition on prices for drugs under part D of title XVIII of the Social Security Act (42 U.S.C. 1395w–101 et seq.) that includes a review of—
+(i)the number and extent of discounts and other price concessions received by prescription drug plans and MA–PD plans for covered part D drugs under such part;
+(ii)the relationship between such discounts and price concessions and drug utilization;
+(iii)the relationship between such discounts and price concessions and the manufacturer’s best price (as defined in section 1927(c)(2)(B) of the Social Security Act (42 U.S.C. 1396r–8(c)(2)(B)) for covered outpatient drugs; and
+(iv)the extent to which the efforts of the Secretary of Health and Human Services (as reported by the Secretary under section 1860D–11(k) of the Social Security Act, as added by section 2(b)) to promote and ensure access to fair prices for prescription drugs under such part have an effect upon payers in non-Medicare markets.
+(B)REPORT.—Not later than 1 year after the date of enactment of this Act, the Director of the Congressional Budget Office shall submit a report containing the results of the study conducted under subparagraph (A).
+(2) REPORTS ON LIMITATIONS OF DATA ELEMENTS FOR STUDYING THE PRESCRIPTION DRUG PROGRAM.—Not later than 180 days after the date of enactment of this Act, the Medicare Payment Advisory Commission and the Government Accountability Office shall each submit a report to Congress commenting on the limitations on the usefulness of the data described in subparagraphs (A) through (E) of section 1860D–42(c)(1), as added by subsection (a), to inform Congress on negotiated prices for covered part D drugs (as defined in section 1860D–2(e) of such Act (42 U.S.C. 1395w–102(e)) under the Medicare prescription drug program.
+(c) Disclosure Of Drug Claims Data To The State Agency Responsible For Administering The State Plan Under The Medicaid Program.—Section 1860D–42 of the Social Security Act (42 U.S.C. 1395w–152), as amended by subsection (a), is amended by adding at the end the following new subsection:
+“(d) Disclosure Of Drug Claims Data To The State Agency Responsible For Administering The State Plan Under The Medicaid Program.—Notwithstanding any provision under this part that limits the use of prescription drug data collected under this part, upon the request of a State agency with responsibility for administering the State plan under title XIX, the Secretary shall provide such State agency with the data described in paragraph (1)(C) of subsection (c) with respect to full-benefit dual eligible individuals (as defined in section 1935(c)(6)) who are enrolled in the State plan. The provisions of paragraphs (2) and (3) of subsection (c) shall apply to a State agency with respect to data provided under this subsection in the same manner as such provisions apply to a congressional support agency with respect to data provided under subsection (c).”.
+(d) Public Disclosure Of Data By The Secretary Of Health And Human Services.—Section 1860D–42 of the Social Security Act (42 U.S.C. 1395w–152), as amended by subsections (a) and (c), is amended by adding at the end the following new subsection:
+“(e)Disclosure Of Drug Prices Charged To Enrollees.—
+“(1)IN GENERAL.—The Secretary shall make available to the public, upon request and in an electronic form determined appropriate by the Secretary, data on the prices charged for each covered part D drug under each prescription drug plan and MA–PD plan to individuals enrolled in the plan. Such data shall reflect actual prices posted on the Internet website of the Centers for Medicare & Medicaid Services and shall be made available in a manner that permits linkage of the data to data contained in other public prescription drug plan and MA–PD plan data files.
+“(2)NOMINAL FEE FOR DATA PROVIDED.—The Secretary may charge a nominal fee for data provided under paragraph (1) based on the cost of preparing and providing such data.”.
+(e) Dissemination Of Retail Drug Prices.—Section 1860D–4(k) of the Social Security Act (42 U.S.C. 1395w–104(k)) is amended—
+(1)in the heading, by striking “Pharmaceutical Prices For Equivalent Drugs” and inserting “Prescription Drug Information At Point Of Sale”;
+(2) by striking “IN GENERAL.—A PDP sponsor” and inserting “PHARMACEUTICAL PRICES FOR EQUIVALENT DRUGS.—
+“(A)IN GENERAL.—A PDP sponsor”;
+(3) by redesignating paragraph (2) as subparagraph (B) and indenting appropriately;
+(4) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately;
+(5) in clause (i), as redesignated under paragraph (4)—
+(A)by striking “subparagraph (B)” and inserting “clause (ii)”; and
+(B) by striking “paragraph (1)” and inserting “subparagraph (A)”; and
+(6) by adding at the end the following new paragraph:
+“(2) DRUG PRICES CHARGED TO ENROLLEES.—
+“(A)IN GENERAL.—A PDP sponsor offering a prescription drug plan shall provide that each pharmacy that dispenses a covered part D drug shall inform an enrollee of the price charged for such drug under the prescription drug plan.
+“(B) TIMING OF NOTICE.—The information under subparagraph (A) shall be provided at the time of purchase of the drug involved, including for purchases of covered part D drugs by mail order.”.
+SEC. 4. PRIORITIZING STUDIES OF COMPARATIVE CLINICAL EFFECTIVENESS OF COVERED PART D DRUGS.
+(a) Priorities.—
+(1) IN GENERAL.—The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall develop a comprehensive prioritized list of comparative clinical effectiveness studies that are most critical to building the evidence needed to advance value-based purchasing of covered part D drugs (as defined in section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) under the Medicare prescription drug program under part D of title XVIII of such Act.
+(2) REQUIREMENTS.—
+(A) DEVELOPMENT OF LIST.—In developing the list under paragraph (1), the Secretary shall take into account—
+(i) the work the Agency for Healthcare Research and Quality has already done to identify needed comparative clinical effectiveness and safety research on prescription drugs, including the work identifying issues for which existing scientific evidence is insufficient under subsection (a)(3)(A)(ii) of section 1013 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (42 U.S.C. 299b–7);
+(ii) the initial list of medical conditions considered a priority for research that was developed in response to the requirements of subsection (a)(2)(B) of such section 1013;
+(iii) areas where patients and doctors are most lacking the information needed to make the best decisions regarding covered part D drugs, such as the areas where there is a large gap in knowledge of drug therapies and areas that involve the most widely prescribed covered part D drugs; and
+(iv) any advice provided by the advisory committee established under paragraph (3).
+(B)CONTENTS OF PRIORITIZED LIST.—
+(i)SPECIFICATION OF ITEMS, SERVICES, AND METHODOLOGY.—The prioritized list shall specify the items and services to be evaluated, as well as the general methodology that should be used to conduct each study identified as a priority on the list, taking into consideration the full range of methodologies available, from systematic reviews to clinical trials.
+(ii) STUDIES INCLUDED.—The studies included on the prioritized list may include studies that compare a covered part D drug to any other drug (or biological product), item, or service that is covered under the Medicare program.
+(C) REPORT TO CONGRESS.—
+(i)IN GENERAL.—Not later than 1 year after the date of enactment of this Act and subject to the requirements under clause (ii), the Secretary shall submit to Congress a report that contains the following:
+(I)The prioritized list developed under paragraph (1) and plans for the conduct of studies identified as a priority on such list.
+(II)A summary of the information described in clauses (i) through (iv) of subparagraph (A).
+(III)An explanation of how the Secretary took into account the information described in such clauses (i) through (iv) in developing the prioritized list and in preparing the report.
+(IV) The rationale for why the Secretary included the studies identified as a priority on such list.
+(ii)SUBMISSION OF DRAFT REPORT.—Before submitting the report under clause (i), the Secretary shall—
+(I)submit to Congress a draft version of the report;
+(II) make such draft version available to the public; and
+(III) provide a 60-day period for public comment on such draft version.
+(D)AVAILABILITY OF REPORT.—The Secretary shall make the report submitted under subparagraph (C)(i) available to the public.
+(3) ESTABLISHMENT OF ADVISORY COMMITTEE.—
+(A) ESTABLISHMENT.—The Secretary shall establish an advisory committee for the purpose of providing advice to the Secretary on setting priorities for comparative clinical effectiveness studies across all agencies of the Department of Health and Human Services. The Secretary shall make available to the public any advice provided to the Secretary by the advisory committee.
+(B) MEMBERSHIP.—
+(i)IN GENERAL.—The advisory committee shall include a diverse range of public and private clinical experts, stakeholders, and interests from the following groups:
+(I)The medical and health industries.
+(II)Patients and representatives of patients.
+(III)Researchers.
+(IV)Government.
+(ii)NO MAJORITY OF MEMBERSHIP FROM ANY ONE GROUP.—The Secretary shall ensure that the advisory committee does not have a majority of members from any one of the groups described in subclauses (I) through (IV) of clause (i).
+(C)PUBLIC COMMENT.—The Advisory committee shall provide a substantial opportunity for public comment by accepting oral and written comments from the public prior to making any recommendations or providing any advice to the Secretary.
+(b) Rule Of Construction.—Nothing in this section shall be construed to limit the authority of the Secretary—
+(1) to prioritize comparative clinical effectiveness research needs for procedures, devices, diagnostics, or other medical interventions; or
+(2) to conduct any study on the list developed under subsection (a)(1) or any other study determined appropriate by the Secretary.
+(c) Authorization Of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.
+SEC. 5. AUTHORIZING CONSIDERATION OF COMPARATIVE CLINICAL EFFECTIVENESS STUDIES IN DEVELOPING AND REVIEWING FORMULARIES UNDER THE MEDICARE PRESCRIPTION DRUG PROGRAM.
+(a) In General.—Section 1860D–4(b)(3)(B) of the Social Security Act (42 U.S.C. 1395w–104(b)(3)(B)) is amended—
+(1) in clause (i), by striking “and” at the end;
+(2) in clause (ii), by striking the period at the end and inserting “; and”; and
+(3) by adding at the end the following new clause:
+“(iii) take into account relevant comparative clinical effectiveness studies.”.
+(b) Effective Date.—The amendments made by subsection (a) shall apply to plan years beginning on or after January 1, 2007.
+SENSE OF THE SENATE REGARDING THE RESOURCE STANDARD USED TO DETERMINE ELIGIBILITY FOR PREMIUM AND COST-SHARING SUBSIDIES UNDER PART D.
+(a)Findings.—The Senate makes the following findings:
+(1)Currently, beneficiaries enrolled in the Medicare part D prescription drug program must satisfy a resource standard in order to be eligible for the low-income subsidy.
+(2) The resource standard used to determine eligibility for the low-income subsidy has resulted in many Medicare beneficiaries who are in financial need being disqualified from receiving additional assistance.
+(3) Under S. 1 from the 108th Congress, as passed by the Senate, beneficiaries were not subjected to a resource standard to qualify for additional assistance.
+(b)Sense Of The Senate.—It is the Sense of the Senate that Congress should revisit the resource standard used to determine the eligibility of individuals for premium and cost-sharing subsidies under section 1860D–14 of the Social Security Act (42 U.S.C. 1395w–114).
+SENSE OF THE SENATE REGARDING PHARMACY ISSUES UNDER PART D.
+(a)Findings.—
+(1)Pharmacists play a critical role in delivering prescription drugs to Medicare beneficiaries enrolled in prescription drug plans and MA–PD plans under the Medicare part D prescription drug program.
+(2) Pharmacists have encountered difficulties in providing services under their contracts with PDP sponsors offering prescription drug plans and MA organizations offering MA–PD plans under part D.
+(b)Sense Of The Senate.—It is the sense of the Senate that Congress should address issues related to pharmacies under the Medicare part D prescription drug program.
+Calendar No. 118
+110th CONGRESS
+     1st Session
+S. 3
+A BILL
+To amend part D of title XVIII of the Social Security Act to provide for fair prescription drug prices for Medicare beneficiaries.
+April 13, 2007
+Reported with an amendment

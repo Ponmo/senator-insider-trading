@@ -1,0 +1,2835 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[S. 372 Reported in Senate (RS)]
+
+
+
+
+
+
+                                                        Calendar No. 20
+110th CONGRESS
+  1st Session
+                                 S. 372
+
+                           [Report No. 110-2]
+
+                           [Report No. 110-5]
+
+ To authorize appropriations for fiscal year 2007 for the intelligence 
+ and intelligence-related activities of the United States Government, 
+    the Intelligence Community Management Account, and the Central 
+  Intelligence Agency Retirement and Disability System, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 24, 2007
+
+ Mr. Rockefeller, from the Select Committee on Intelligence, reported 
+  the following original bill; which was read twice and placed on the 
+                                calendar
+
+                            January 24, 2007
+
+Referred to the Committee on Armed Services pursuant to section 3(b) of 
+S. Res. 400, 94th Congress, as amended by S. Res. 445, 108th Congress, 
+             for a period not to exceed 10 days of session
+
+                            February 8, 2007
+
+                Reported by Mr. Levin, without amendment
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To authorize appropriations for fiscal year 2007 for the intelligence 
+ and intelligence-related activities of the United States Government, 
+    the Intelligence Community Management Account, and the Central 
+  Intelligence Agency Retirement and Disability System, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Intelligence 
+Authorization Act for Fiscal Year 2007''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                    TITLE I--INTELLIGENCE ACTIVITIES
+
+Sec. 101. Authorization of appropriations.
+Sec. 102. Classified schedule of authorizations.
+Sec. 103. Incorporation of classified annex.
+Sec. 104. Personnel ceiling adjustments.
+Sec. 105. Intelligence Community Management Account.
+Sec. 106. Incorporation of reporting requirements.
+Sec. 107. Availability to public of certain intelligence funding 
+                            information.
+Sec. 108. Response of intelligence community to requests from Congress 
+                            for intelligence documents and information.
+ TITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM
+
+Sec. 201. Authorization of appropriations.
+   TITLE III--INTELLIGENCE AND GENERAL INTELLIGENCE COMMUNITY MATTERS
+
+Sec. 301. Increase in employee compensation and benefits authorized by 
+                            law.
+Sec. 302. Restriction on conduct of intelligence activities.
+Sec. 303. Clarification of definition of intelligence community under 
+                            the National Security Act of 1947.
+Sec. 304. Improvement of notification of Congress regarding 
+                            intelligence activities of the United 
+                            States Government.
+Sec. 305. Delegation of authority for travel on common carriers for 
+                            intelligence collection personnel.
+Sec. 306. Modification of availability of funds for different 
+                            intelligence activities.
+Sec. 307. Additional limitation on availability of funds for 
+                            intelligence and intelligence-related 
+                            activities.
+Sec. 308. Increase in penalties for disclosure of undercover 
+                            intelligence officers and agents.
+Sec. 309. Retention and use of amounts paid as debts to elements of the 
+                            intelligence community.
+Sec. 310. Pilot program on disclosure of records under the Privacy Act 
+                            relating to certain intelligence 
+                            activities.
+Sec. 311. Extension to intelligence community of authority to delete 
+                            information about receipt and disposition 
+                            of foreign gifts and decorations.
+Sec. 312. Availability of funds for travel and transportation of 
+                            personal effects, household goods, and 
+                            automobiles.
+Sec. 313. Director of National Intelligence report on compliance with 
+                            the Detainee Treatment Act of 2005.
+Sec. 314. Report on any clandestine detention facilities for 
+                            individuals captured in the Global War on 
+                            Terrorism.
+  TITLE IV--MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY
+
+      Subtitle A--Office of the Director of National Intelligence
+
+Sec. 401. Additional authorities of the Director of National 
+                            Intelligence on intelligence information 
+                            sharing.
+Sec. 402. Modification of limitation on delegation by the Director of 
+                            National Intelligence of the protection of 
+                            intelligence sources and methods.
+Sec. 403. Authority of the Director of National Intelligence to manage 
+                            access to human intelligence information.
+Sec. 404. Additional administrative authority of the Director of 
+                            National Intelligence.
+Sec. 405. Clarification of limitation on co-location of the Office of 
+                            the Director of National Intelligence.
+Sec. 406. Additional duties of the Director of Science and Technology 
+                            of the Office of the Director of National 
+                            Intelligence.
+Sec. 407. Appointment and title of Chief Information Officer of the 
+                            Intelligence Community.
+Sec. 408. Inspector General of the Intelligence Community.
+Sec. 409. Leadership and location of certain offices and officials.
+Sec. 410. National Space Intelligence Center.
+Sec. 411. Operational files in the Office of the Director of National 
+                            Intelligence.
+Sec. 412. Eligibility for incentive awards of personnel assigned to the 
+                            Office of the Director of National 
+                            Intelligence.
+Sec. 413. Repeal of certain authorities relating to the Office of the 
+                            National Counterintelligence Executive.
+Sec. 414. Inapplicability of Federal Advisory Committee Act to advisory 
+                            committees of the Office of the Director of 
+                            National Intelligence.
+Sec. 415. Membership of the Director of National Intelligence on the 
+                            Transportation Security Oversight Board.
+Sec. 416. Applicability of the Privacy Act to the Director of National 
+                            Intelligence and the Office of the Director 
+                            of National Intelligence.
+                Subtitle B--Central Intelligence Agency
+
+Sec. 421. Director and Deputy Director of the Central Intelligence 
+                            Agency.
+Sec. 422. Enhanced protection of Central Intelligence Agency 
+                            intelligence sources and methods from 
+                            unauthorized disclosure.
+Sec. 423. Additional exception to foreign language proficiency 
+                            requirement for certain senior level 
+                            positions in the Central Intelligence 
+                            Agency.
+Sec. 424. Additional functions and authorities for protective personnel 
+                            of the Central Intelligence Agency.
+Sec. 425. Director of National Intelligence report on retirement 
+                            benefits for former employees of Air 
+                            America.
+              Subtitle C--Defense Intelligence Components
+
+Sec. 431. Enhancements of National Security Agency training program.
+Sec. 432. Codification of authorities of National Security Agency 
+                            protective personnel.
+Sec. 433. Inspector general matters.
+Sec. 434. Confirmation of appointment of heads of certain components of 
+                            the intelligence community.
+Sec. 435. Clarification of national security missions of National 
+                            Geospatial-Intelligence Agency for analysis 
+                            and dissemination of certain intelligence 
+                            information.
+Sec. 436. Security clearances in the National Geospatial-Intelligence 
+                            Agency.
+                       Subtitle D--Other Elements
+
+Sec. 441. Foreign language incentive for certain non-special agent 
+                            employees of the Federal Bureau of 
+                            Investigation.
+Sec. 442. Authority to secure services by contract for the Bureau of 
+                            Intelligence and Research of the Department 
+                            of State.
+Sec. 443. Clarification of inclusion of Coast Guard and Drug 
+                            Enforcement Administration as elements of 
+                            the intelligence community.
+Sec. 444. Clarifying amendments relating to section 105 of the 
+                            Intelligence Authorization Act for fiscal 
+                            year 2004.
+                         TITLE V--OTHER MATTERS
+
+Sec. 501. Technical amendments to the National Security Act of 1947.
+Sec. 502. Technical clarification of certain references to Joint 
+                            Military Intelligence Program and Tactical 
+                            Intelligence and Related Activities.
+Sec. 503. Technical amendments to the Intelligence Reform and Terrorism 
+                            Prevention Act of 2004.
+Sec. 504. Technical amendments to title 10, United States Code, arising 
+                            from enactment of the Intelligence Reform 
+                            and Terrorism Prevention Act of 2004.
+Sec. 505. Technical amendment to the Central Intelligence Agency Act of 
+                            1949.
+Sec. 506. Technical amendments relating to the multiyear National 
+                            Intelligence Program.
+Sec. 507. Technical amendments to the Executive Schedule.
+Sec. 508. Technical amendments relating to redesignation of the 
+                            National Imagery and Mapping Agency as the 
+                            National Geospatial-Intelligence Agency.
+
+                    TITLE I--INTELLIGENCE ACTIVITIES
+
+SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+
+    Funds are hereby authorized to be appropriated for fiscal year 2007 
+for the conduct of the intelligence and intelligence-related activities 
+of the following elements of the United States Government:
+            (1) The Office of the Director of National Intelligence.
+            (2) The Central Intelligence Agency.
+            (3) The Department of Defense.
+            (4) The Defense Intelligence Agency.
+            (5) The National Security Agency.
+            (6) The Department of the Army, the Department of the Navy, 
+        and the Department of the Air Force.
+            (7) The Department of State.
+            (8) The Department of the Treasury.
+            (9) The Department of Energy.
+            (10) The Department of Justice.
+            (11) The Federal Bureau of Investigation.
+            (12) The National Reconnaissance Office.
+            (13) The National Geospatial-Intelligence Agency.
+            (14) The Coast Guard.
+            (15) The Department of Homeland Security.
+            (16) The Drug Enforcement Administration.
+
+SEC. 102. CLASSIFIED SCHEDULE OF AUTHORIZATIONS.
+
+    (a) Specifications of Amounts and Personnel Ceilings.--The amounts 
+authorized to be appropriated under section 101, and the authorized 
+personnel ceilings as of September 30, 2007, for the conduct of the 
+intelligence and intelligence-related activities of the elements listed 
+in such section, are those specified in the classified Schedule of 
+Authorizations prepared to accompany the conference report on the bill 
+S. 372 of the One Hundred Tenth Congress and in the Classified Annex to 
+such report as incorporated in this Act under section 103.
+    (b) Availability of Classified Schedule of Authorizations.--The 
+Schedule of Authorizations shall be made available to the Committees on 
+Appropriations of the Senate and House of Representatives and to the 
+President. The President shall provide for suitable distribution of the 
+Schedule, or of appropriate portions of the Schedule, within the 
+executive branch.
+
+SEC. 103. INCORPORATION OF CLASSIFIED ANNEX.
+
+    (a) Status of Classified Annex.--The Classified Annex prepared by 
+the Select Committee on Intelligence of the Senate to accompany its 
+report on the bill S. 372 of the One Hundred Tenth Congress and 
+transmitted to the President is hereby incorporated into this Act.
+    (b) Construction With Other Provisions of Division.--Unless 
+otherwise specifically stated, the amounts specified in the Classified 
+Annex are not in addition to amounts authorized to be appropriated by 
+other provisions of this Act.
+    (c) Limitation on Use of Funds.--Funds appropriated pursuant to an 
+authorization contained in this Act that are made available for a 
+program, project, or activity referred to in the Classified Annex may 
+only be expended for such program, project, or activity in accordance 
+with such terms, conditions, limitations, restrictions, and 
+requirements as are set out for that program, project, or activity in 
+the Classified Annex.
+    (d) Distribution of Classified Annex.--The President shall provide 
+for appropriate distribution of the Classified Annex, or of appropriate 
+portions of the annex, within the executive branch of the Government.
+
+SEC. 104. PERSONNEL CEILING ADJUSTMENTS.
+
+    (a) Authority for Adjustments.--With the approval of the Director 
+of the Office of Management and Budget, the Director of National 
+Intelligence may authorize employment of civilian personnel in excess 
+of the number authorized for fiscal year 2007 under section 102 when 
+the Director of National Intelligence determines that such action is 
+necessary to the performance of important intelligence functions, 
+except that the number of personnel employed in excess of the number 
+authorized under such section may not, for any element of the 
+intelligence community, exceed 2 percent of the number of civilian 
+personnel authorized under such section for such element.
+    (b) Notice to Intelligence Committees.--The Director of National 
+Intelligence shall promptly notify the Select Committee on Intelligence 
+of the Senate and the Permanent Select Committee on Intelligence of the 
+House of Representatives whenever the Director exercises the authority 
+granted by this section.
+
+SEC. 105. INTELLIGENCE COMMUNITY MANAGEMENT ACCOUNT.
+
+    (a) Authorization of Appropriations.--There is authorized to be 
+appropriated for the Intelligence Community Management Account of the 
+Director of National Intelligence for fiscal year 2007 the sum of 
+$648,952,000. Within such amount, funds identified in the classified 
+Schedule of Authorizations referred to in section 102(a) for advanced 
+research and development shall remain available until September 30, 
+2008.
+    (b) Authorized Personnel Levels.--The elements within the 
+Intelligence Community Management Account of the Director of National 
+Intelligence are authorized 1,575 full-time personnel as of September 
+30, 2007. Personnel serving in such elements may be permanent employees 
+of the Intelligence Community Management Account or personnel detailed 
+from other elements of the United States Government.
+    (c) Classified Authorizations.--
+            (1) Authorization of appropriations.--In addition to 
+        amounts authorized to be appropriated for the Intelligence 
+        Community Management Account by subsection (a), there are also 
+        authorized to be appropriated for the Intelligence Community 
+        Management Account for fiscal year 2007 such additional amounts 
+        as are specified in the classified Schedule of Authorizations 
+        referred to in section 102(a). Such additional amounts for 
+        research and development shall remain available until September 
+        30, 2008.
+            (2) Authorization of personnel.--In addition to the 
+        personnel authorized by subsection (b) for elements of the 
+        Intelligence Community Management Account as of September 30, 
+        2007, there are also authorized such additional personnel for 
+        such elements as of that date as are specified in the 
+        classified Schedule of Authorizations.
+    (d) Reimbursement.--Except as provided in section 113 of the 
+National Security Act of 1947 (50 U.S.C. 404h), during fiscal year 2007 
+any officer or employee of the United States or a member of the Armed 
+Forces who is detailed to the staff of the Intelligence Community 
+Management Account from another element of the United States Government 
+shall be detailed on a reimbursable basis, except that any such 
+officer, employee, or member may be detailed on a nonreimbursable basis 
+for a period of less than one year for the performance of temporary 
+functions as required by the Director of National Intelligence.
+
+SEC. 106. INCORPORATION OF REPORTING REQUIREMENTS.
+
+    (a) In General.--Each requirement to submit a report to the 
+congressional intelligence committees that is included in the joint 
+explanatory statement to accompany the conference report on the bill 
+___ of the One Hundred Tenth Congress, or in the classified annex to 
+this Act, is hereby incorporated into this Act, and is hereby made a 
+requirement in law.
+    (b) Congressional Intelligence Committees Defined.--In this 
+section, the term ``congressional intelligence committees'' means--
+            (1) the Select Committee on Intelligence of the Senate; and
+            (2) the Permanent Select Committee on Intelligence of the 
+        House of Representatives.
+
+SEC. 107. AVAILABILITY TO PUBLIC OF CERTAIN INTELLIGENCE FUNDING 
+              INFORMATION.
+
+    (a) Amounts Requested Each Fiscal Year.--The President shall 
+disclose to the public for each fiscal year after fiscal year 2007 the 
+aggregate amount of appropriations requested in the budget of the 
+President for such fiscal year for the National Intelligence Program.
+    (b) Amounts Authorized and Appropriated Each Fiscal Year.--Congress 
+shall disclose to the public for each fiscal year after fiscal year 
+2006 the aggregate amount of funds authorized to be appropriated, and 
+the aggregate amount of funds appropriated, by Congress for such fiscal 
+year for the National Intelligence Program.
+    (c) Study on Disclosure of Additional Information.--
+            (1) In general.--The Director of National Intelligence 
+        shall conduct a study to assess the advisability of disclosing 
+        to the public amounts as follows:
+                    (A) The aggregate amount of appropriations 
+                requested in the budget of the President for each 
+                fiscal year for each element of the intelligence 
+                community.
+                    (B) The aggregate amount of funds authorized to be 
+                appropriated, and the aggregate amount of funds 
+                appropriated, by Congress for each fiscal year for each 
+                element of the intelligence community.
+            (2) Requirements.--The study required by paragraph (1) 
+        shall--
+                    (A) address whether or not the disclosure to the 
+                public of the information referred to in that paragraph 
+                would harm the national security of the United States; 
+                and
+                    (B) take into specific account concerns relating to 
+                the disclosure of such information for each element of 
+                the intelligence community.
+            (3) Report.--Not later than 180 days after the date of the 
+        enactment of this Act, the Director shall submit to Congress a 
+        report on the study required by paragraph (1).
+
+SEC. 108. RESPONSE OF INTELLIGENCE COMMUNITY TO REQUESTS FROM CONGRESS 
+              FOR INTELLIGENCE DOCUMENTS AND INFORMATION.
+
+    (a) In General.--Title V of the National Security Act of 1947 (50 
+U.S.C. 413 et seq.) is amended by adding at the end the following new 
+section:
+
+  ``response of intelligence community to requests from congress for 
+                 intelligence documents and information
+
+    ``Sec. 508.  (a) Requests of Committees.--The Director of National 
+Intelligence, the Director of the National Counterterrorism Center, the 
+Director of a national intelligence center, or the head of any other 
+department, agency, or element of the Federal Government, or other 
+organization within the Executive branch, that is an element of the 
+intelligence community shall, not later than 15 days after receiving a 
+request for any intelligence assessment, report, estimate, legal 
+opinion, or other intelligence information from the Select Committee on 
+Intelligence of the Senate, the Permanent Select Committee on 
+Intelligence of the House of Representatives, or any other committee of 
+Congress with jurisdiction over the subject matter to which information 
+in such assessment, report, estimate, legal opinion, or other 
+information relates, make available to such committee such assessment, 
+report, estimate, legal opinion, or other information, as the case may 
+be.
+    ``(b) Requests of Certain Members.--(1) The Director of National 
+Intelligence, the Director of the National Counterterrorism Center, the 
+Director of a national intelligence center, or the head of any other 
+department, agency, or element of the Federal Government, or other 
+organization within the Executive branch, that is an element of the 
+intelligence community shall respond, in the time specified in 
+subsection (a), to a request described in that subsection from the 
+Chairman or Vice Chairman of the Select Committee on Intelligence of 
+the Senate or the Chairman or Ranking Member of the Permanent Select 
+Committee on Intelligence of the House of Representatives.
+    ``(2) Upon making a request covered by paragraph (1)--
+            ``(A) the Chairman or Vice Chairman, as the case may be, of 
+        the Select Committee on Intelligence of the Senate shall notify 
+        the other of the Chairman or Vice Chairman of such request; and
+            ``(B) the Chairman or Ranking Member, as the case may be, 
+        of the Permanent Select Committee on Intelligence of the House 
+        of Representatives shall notify the other of the Chairman or 
+        Ranking Member of such request.
+    ``(c) Assertion of Privilege.--In response to a request covered by 
+subsection (a) or (b), the Director of National Intelligence, the 
+Director of the National Counterterrorism Center, the Director of a 
+national intelligence center, or the head of any other department, 
+agency, or element of the Federal Government, or other organization 
+within the Executive branch, that is an element of the intelligence 
+community shall provide the document or information covered by such 
+request unless the President certifies that such document or 
+information is not being provided because the President is asserting a 
+privilege pursuant to the Constitution of the United States.''.
+    (b) Clerical Amendment.--The table of contents in the first section 
+of that Act is amended by inserting after the item relating to section 
+507 the following new item:
+
+``Sec. 508. Response of intelligence community to requests from 
+                            Congress for intelligence documents and 
+                            information.''.
+
+ TITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM
+
+SEC. 201. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated for the Central Intelligence 
+Agency Retirement and Disability Fund for fiscal year 2007 the sum of 
+$256,400,000.
+
+   TITLE III--INTELLIGENCE AND GENERAL INTELLIGENCE COMMUNITY MATTERS
+
+SEC. 301. INCREASE IN EMPLOYEE COMPENSATION AND BENEFITS AUTHORIZED BY 
+              LAW.
+
+    Appropriations authorized by this Act for salary, pay, retirement, 
+and other benefits for Federal employees may be increased by such 
+additional or supplemental amounts as may be necessary for increases in 
+such compensation or benefits authorized by law.
+
+SEC. 302. RESTRICTION ON CONDUCT OF INTELLIGENCE ACTIVITIES.
+
+    The authorization of appropriations by this Act shall not be deemed 
+to constitute authority for the conduct of any intelligence activity 
+which is not otherwise authorized by the Constitution or the laws of 
+the United States.
+
+SEC. 303. CLARIFICATION OF DEFINITION OF INTELLIGENCE COMMUNITY UNDER 
+              THE NATIONAL SECURITY ACT OF 1947.
+
+    Subparagraph (L) of section 3(4) of the National Security Act of 
+1947 (50 U.S.C. 401a(4)) is amended by striking ``other'' the second 
+place it appears.
+
+SEC. 304. IMPROVEMENT OF NOTIFICATION OF CONGRESS REGARDING 
+              INTELLIGENCE ACTIVITIES OF THE UNITED STATES GOVERNMENT.
+
+    (a) Clarification of Definition of Congressional Intelligence 
+Committees To Include All Members of Committees.--Section 3(7) of the 
+National Security Act of 1947 (50 U.S.C. 401a(7)) is amended--
+            (1) in subparagraph (A), by inserting ``, and includes each 
+        member of the Select Committee'' before the semicolon; and
+            (2) in subparagraph (B), by inserting ``, and includes each 
+        member of the Permanent Select Committee'' before the period.
+    (b) Notice on Information Not Disclosed.--
+            (1) In general.--Section 502 of such Act (50 U.S.C. 413a) 
+        is amended--
+                    (A) by redesignating subsections (b) and (c) as 
+                subsections (c) and (d), respectively; and
+                    (B) by inserting after subsection (a) the following 
+                new subsection (b):
+    ``(b) Notice on Information Not Disclosed.--(1) If the Director of 
+National Intelligence or the head of a department, agency, or other 
+entity of the United States Government does not provide information 
+required by subsection (a) in full or to all the members of the 
+congressional intelligence committees and requests that such 
+information not be provided in full or to all members of the 
+congressional intelligence committees, the Director shall, in a timely 
+fashion--
+            ``(A) notify all the members of such committees of the 
+        determination not to provide such information in full or to all 
+        members of such committees, as the case may be, including a 
+        statement of the reasons for such determination; and
+            ``(B) submit, in writing, to all the members of such 
+        committees a summary of the intelligence activities covered by 
+        such determination that provides sufficient information to 
+        permit such members to assess the legality, benefits, costs, 
+        and advisability of such activities.
+    ``(2) Nothing in this subsection shall be construed as authorizing 
+less than full and current disclosure to all the members of the Select 
+Committee on Intelligence of the Senate and the Permanent Select 
+Committee on Intelligence of the House of Representatives of any 
+information necessary to keep all the members of such committees fully 
+and currently informed on all intelligence activities covered by this 
+section.''.
+            (2) Conforming amendment.--Subsection (d) of such section, 
+        as redesignated by paragraph (1)(A) of this subsection, is 
+        amended by striking ``subsection (b)'' and inserting 
+        ``subsections (b) and (c)''.
+    (c) Reports and Notice on Covert Actions.--
+            (1) Form and content of certain reports.--Subsection (b) of 
+        section 503 of such Act (50 U.S.C. 413b) is amended--
+                    (A) by redesignating paragraphs (1) and (2) as 
+                subparagraphs (A) and (B), respectively;
+                    (B) by inserting ``(1)'' after ``(b)''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+    ``(2) Any report relating to a covert action that is submitted to 
+the congressional intelligence committees for the purposes of paragraph 
+(1) shall be in writing, and shall contain the following:
+            ``(A) A concise statement of any facts pertinent to such 
+        report.
+            ``(B) An explanation of the significance of the covert 
+        action covered by such report.''.
+            (2) Notice on information not disclosed.--Subsection (c) of 
+        such section is amended by adding at the end the following new 
+        paragraph:
+    ``(5) If the Director of National Intelligence or the head of a 
+department, agency, or other entity of the United States Government 
+does not provide information required by subsection (b)(2) in full or 
+to all the members of the congressional intelligence committees, and 
+requests that such information not be provided in full or to all 
+members of the congressional intelligence committees, for the reason 
+specified in paragraph (2), the Director shall, in a timely fashion--
+            ``(A) notify all the members of such committees of the 
+        determination not to provide such information in full or to all 
+        members of such committees, as the case may be, including a 
+        statement of the reasons for such determination; and
+            ``(B) submit, in writing, to all the members of such 
+        committees a summary of the covert action covered by such 
+        determination that provides sufficient information to permit 
+        such members to assess the legality, benefits, costs, and 
+        advisability of such covert action.''.
+            (3) Modification of nature of change of covert action 
+        triggering notice requirements.--Subsection (d) of such section 
+        is amended by striking ``significant'' the first place it 
+        appears.
+
+SEC. 305. DELEGATION OF AUTHORITY FOR TRAVEL ON COMMON CARRIERS FOR 
+              INTELLIGENCE COLLECTION PERSONNEL.
+
+    (a) Delegation of Authority.--Section 116(b) of the National 
+Security Act of 1947 (50 U.S.C. 404k(b)) is amended--
+            (1) by inserting ``(1)'' before ``The Director'';
+            (2) in paragraph (1), by striking ``may only delegate'' and 
+        all that follows and inserting ``may delegate the authority in 
+        subsection (a) to the head of any other element of the 
+        intelligence community.''; and
+            (3) by adding at the end the following new paragraph:
+    ``(2) The head of an element of the intelligence community to whom 
+the authority in subsection (a) is delegated pursuant to paragraph (1) 
+may further delegate such authority to such senior officials of such 
+element as are specified in guidelines prescribed by the Director of 
+National Intelligence for purposes of this paragraph.''.
+    (b) Submittal of Guidelines to Congress.--Not later than six months 
+after the date of the enactment of this Act, the Director of National 
+Intelligence shall prescribe and submit to the congressional 
+intelligence committees the guidelines referred to in paragraph (2) of 
+section 116(b) of the National Security Act of 1947, as added by 
+subsection (a).
+    (c) Congressional Intelligence Committees Defined.--In this 
+section, the term ``congressional intelligence committees'' means--
+            (1) the Select Committee on Intelligence of the Senate; and
+            (2) the Permanent Select Committee on Intelligence of the 
+        House of Representatives.
+
+SEC. 306. MODIFICATION OF AVAILABILITY OF FUNDS FOR DIFFERENT 
+              INTELLIGENCE ACTIVITIES.
+
+    Subparagraph (B) of section 504(a)(3) of the National Security Act 
+of 1947 (50 U.S.C. 414(a)(3)) is amended to read as follows:
+            ``(B) the use of such funds for such activity supports an 
+        emergent need, improves program effectiveness, or increases 
+        efficiency; and''.
+
+SEC. 307. ADDITIONAL LIMITATION ON AVAILABILITY OF FUNDS FOR 
+              INTELLIGENCE AND INTELLIGENCE-RELATED ACTIVITIES.
+
+    Section 504 of the National Security Act of 1947 (50 U.S.C. 414) is 
+amended--
+            (1) in subsection (a), by inserting ``the congressional 
+        intelligence committees have been fully and currently informed 
+        of such activity and if'' after ``only if'';
+            (2) by redesignating subsections (b), (c), (d), and (e) as 
+        subsections (c), (d), (e), and (f), respectively; and
+            (3) by inserting after subsection (a) the following new 
+        subsection (b):
+    ``(b) In any case in which notice to the congressional intelligence 
+committees on an intelligence or intelligence-related activity is 
+covered by section 502(b), or in which notice to the congressional 
+intelligence committees on a covert action is covered by section 
+503(c)(5), the congressional intelligence committees shall be treated 
+as being fully and currently informed on such activity or covert 
+action, as the case may be, for purposes of subsection (a) if the 
+requirements of such section 502(b) or 503(c)(5), as applicable, have 
+been met.''.
+
+SEC. 308. INCREASE IN PENALTIES FOR DISCLOSURE OF UNDERCOVER 
+              INTELLIGENCE OFFICERS AND AGENTS.
+
+    (a) Disclosure of Agent After Access to Information Identifying 
+Agent.--Subsection (a) of section 601 of the National Security Act of 
+1947 (50 U.S.C. 421) is amended by striking ``ten years'' and inserting 
+``15 years''.
+    (b) Disclosure of Agent After Access to Classified Information.--
+Subsection (b) of such section is amended by striking ``five years'' 
+and inserting ``ten years''.
+
+SEC. 309. RETENTION AND USE OF AMOUNTS PAID AS DEBTS TO ELEMENTS OF THE 
+              INTELLIGENCE COMMUNITY.
+
+    (a) In General.--Title XI of the National Security Act of 1947 (50 
+U.S.C. 442 et seq.) is amended by adding at the end the following new 
+section:
+
+    ``retention and use of amounts paid as debts to elements of the 
+                         intelligence community
+
+    ``Sec. 1103.  (a) Authority To Retain Amounts Paid.--
+Notwithstanding section 3302 of title 31, United States Code, or any 
+other provision of law, the head of an element of the intelligence 
+community may retain amounts paid or reimbursed to the United States, 
+including amounts paid by an employee of the Federal Government from 
+personal funds, for repayment of a debt owed to the element of the 
+intelligence community.
+    ``(b) Crediting of Amounts Retained.--(1) Amounts retained under 
+subsection (a) shall be credited to the current appropriation or 
+account from which such funds were derived or whose expenditure formed 
+the basis for the underlying activity from which the debt concerned 
+arose.
+    ``(2) Amounts credited to an appropriation or account under 
+paragraph (1) shall be merged with amounts in such appropriation or 
+account, and shall be available in accordance with subsection (c).
+    ``(c) Availability of Amounts.--Amounts credited to an 
+appropriation or account under subsection (b) with respect to a debt 
+owed to an element of the intelligence community shall be available to 
+the head of such element, for such time as is applicable to amounts in 
+such appropriation or account, or such longer time as may be provided 
+by law, for purposes as follows:
+            ``(1) In the case of a debt arising from lost or damaged 
+        property of such element, the repair of such property or the 
+        replacement of such property with alternative property that 
+        will perform the same or similar functions as such property.
+            ``(2) The funding of any other activities authorized to be 
+        funded by such appropriation or account.
+    ``(d) Debt Owed to an Element of the Intelligence Community 
+Defined.--In this section, the term `debt owed to an element of the 
+intelligence community' means any of the following:
+            ``(1) A debt owed to an element of the intelligence 
+        community by an employee or former employee of such element for 
+        the negligent or willful loss of or damage to property of such 
+        element that was procured by such element using appropriated 
+        funds.
+            ``(2) A debt owed to an element of the intelligence 
+        community by an employee or former employee of such element as 
+        repayment for default on the terms and conditions associated 
+        with a scholarship, fellowship, or other educational assistance 
+        provided to such individual by such element, whether in 
+        exchange for future services or otherwise, using appropriated 
+        funds.
+            ``(3) Any other debt or repayment owed to an element of the 
+        intelligence community by a private person or entity by reason 
+        of the negligent or willful action of such person or entity, as 
+        determined by a court of competent jurisdiction or in a lawful 
+        administrative proceeding.''.
+    (b) Clerical Amendment.--The table of contents in the first section 
+of that Act is amended by adding at the end the following new item:
+
+``Sec. 1103. Retention and use of amounts paid as debts to elements of 
+                            the intelligence community.''.
+
+SEC. 310. PILOT PROGRAM ON DISCLOSURE OF RECORDS UNDER THE PRIVACY ACT 
+              RELATING TO CERTAIN INTELLIGENCE ACTIVITIES.
+
+    (a) In General.--Subsection (b) of section 552a of title 5, United 
+States Code, is amended--
+            (1) in paragraph (11), by striking ``or'' at the end;
+            (2) in paragraph (12), by striking the period and inserting 
+        ``; or''; and
+            (3) by adding at the end the following new paragraph:
+            ``(13) to an element of the intelligence community set 
+        forth in or designated under section 3(4) of the National 
+        Security Act of 1947 (50 U.S.C. 401a(4))--
+                    ``(A) by another element of the intelligence 
+                community that maintains the record, if the record is 
+                relevant to a lawful and authorized foreign 
+                intelligence or counterintelligence activity conducted 
+                by the receiving element of the intelligence community 
+                and pertains to an identifiable individual or, upon the 
+                authorization of the Director of National Intelligence 
+                (or a designee of the Director in a position not lower 
+                than Deputy Director of National Intelligence), other 
+                than an identifiable individual; or
+                    ``(B) by any other agency that maintains the 
+                record, if--
+                            ``(i) the head of the element of the 
+                        intelligence community makes a written request 
+                        to that agency specifying the particular 
+                        portion of the record that is relevant to a 
+                        lawful and authorized activity of the element 
+                        of the intelligence community to protect 
+                        against international terrorism or the 
+                        proliferation of weapons of mass destruction; 
+                        or
+                            ``(ii) the head of that agency determines 
+                        that--
+                                    ``(I) the record, or particular 
+                                portion thereof, constitutes terrorism 
+                                information (as that term is defined in 
+                                section 1016(a)(4) of the National 
+                                Security Intelligence Reform Act of 
+                                2004 (title I of Public Law 108-458)) 
+                                or information concerning the 
+                                proliferation of weapons of mass 
+                                destruction; and
+                                    ``(II) the disclosure of the 
+                                record, or particular portion thereof, 
+                                will be to an element of the 
+                                intelligence community authorized to 
+                                collect and analyze foreign 
+                                intelligence or counterintelligence 
+                                information related to international 
+                                terrorism or the proliferation of 
+                                weapons of mass destruction.''.
+    (b) Exemption From Certain Privacy Act Requirements for Record 
+Access and Accounting for Disclosures.--Elements of the intelligence 
+community set forth in or designated under section 3(4) of the National 
+Security Act of 1947 (50 U.S.C. 401a(4)) receiving a disclosure under 
+subsection (b)(13) of section 552a of title 5, United States Code, 
+shall not be required to comply with subsection (c)(3), (c)(4), or (d) 
+of such section 552a with respect to such disclosure, or the records, 
+or portions thereof, disclosed under subsection (b)(13) of such section 
+552a.
+    (c) Consultation on Determinations of Information Type.--Such 
+section is further amended by adding at the end the following new 
+subsection:
+    ``(w) Authority To Consult on Determinations of Information Type.--
+When determining for purposes of subsection (b)(13)(B)(ii) whether a 
+record constitutes terrorism information (as that term is defined in 
+section 1016(a)(4)) of the National Security Intelligence Reform Act of 
+2004 (title I of Public Law 108-458; 118 Stat. 3665)) or information 
+concerning the proliferation of weapons of mass destruction, the head 
+of an agency may consult with the Director of National Intelligence or 
+the Attorney General.''.
+    (d) Construction.--Nothing in the amendments made by this section 
+shall be deemed to constitute authority for the receipt, collection, or 
+retention of information unless the receipt, collection, or retention 
+of such information by the element of the intelligence community 
+concerned is otherwise authorized by the Constitution, laws, or 
+Executive orders of the United States.
+    (e) Recordkeeping Requirements.--
+            (1) Retention of requests.--Any request made by the head of 
+        an element of the intelligence community to another department 
+        or agency of the Federal Government under paragraph (13)(B)(i) 
+        of section 552a(b) of title 5, United States Code (as added by 
+        subsection (a)), shall be retained by such element of the 
+        intelligence community in a manner consistent with the 
+        protection of intelligence sources and methods. Any request so 
+        retained should be accompanied by an explanation that supports 
+        the assertion of the element of the intelligence community 
+        requesting the record that the information was, at the time of 
+        request, relevant to a lawful and authorized activity to 
+        protect against international terrorism or the proliferation of 
+        weapons of mass destruction.
+            (2) Access to retained requests.--An element of the 
+        intelligence community retaining a request, and any 
+        accompanying explanation, under paragraph (1) shall, consistent 
+        with the protection of intelligence sources and methods, 
+        provide access to such request, and any accompanying 
+        explanation, to the following:
+                    (A) The head of the department or agency of the 
+                Federal Government receiving such request, or the 
+                designee of the head of such department or agency, if--
+                            (i) the access of such official to such 
+                        request, and any accompanying explanation, is 
+                        consistent with the protection of intelligence 
+                        sources and methods;
+                            (ii) such official is appropriately cleared 
+                        for access to such request, and any 
+                        accompanying explanation; and
+                            (iii) the access of such official to such 
+                        request, and any accompanying explanation, is 
+                        necessary for the performance of the duties of 
+                        such official.
+                    (B) The Select Committee on Intelligence of the 
+                Senate or the Permanent Select Committee on 
+                Intelligence of the House of Representatives.
+                    (C) The Inspector General of any element of the 
+                intelligence community having jurisdiction over the 
+                matter.
+    (f) Reports.--
+            (1) Annual reports.--Not later than one year after the date 
+        of the enactment of this Act, and annually thereafter through 
+        the termination of this section and the amendments made by this 
+        section under subsection (j), the Director of National 
+        Intelligence and the Attorney General, in coordination with the 
+        Privacy and Civil Liberties Oversight Board, shall jointly 
+        submit to the appropriate committees of Congress a report on 
+        the administration of this section and the amendments made by 
+        this section.
+            (2) Final report.--Not later than six months before the 
+        date specified in subsection (j), the Director of National 
+        Intelligence and the Attorney General, in coordination with the 
+        Privacy and Civil Liberties Oversight Board, shall jointly 
+        submit to the appropriate committees of Congress a report on 
+        administration of this section and the amendments made by this 
+        section. The report shall include the recommendations of the 
+        Director and the Attorney General, as they consider 
+        appropriate, regarding the continuation in effect of such 
+        amendments after such date.
+            (3) Review and report by privacy and civil liberties 
+        oversight board.--Not later than six months before the date 
+        specified in subsection (j), the Privacy and Civil Liberties 
+        Oversight Board shall--
+                    (A) review the administration of the amendments 
+                made by this section; and
+                    (B) in a manner consistent with section 1061(c)(1) 
+                of the National Security Intelligence Reform Act of 
+                2004 (title I of Public Law 108-458; 118 Stat. 3684; 5 
+                U.S.C. 601 note), submit to the appropriate committees 
+                of Congress a report providing such advice and counsel 
+                on the administration of this section and the 
+                amendments made by this section as the Board considers 
+                appropriate.
+            (4) Form of reports.--Each report under this subsection 
+        shall, to the maximum extent practicable, be submitted in 
+        unclassified form. Any classified annex included with such a 
+        report shall be submitted to the Select Committee on 
+        Intelligence of the Senate and the Permanent Select Committee 
+        on Intelligence of the House of Representatives.
+    (g) Guidelines.--
+            (1) In general.--Not later than six months after the date 
+        of the enactment of this Act, the Attorney General and the 
+        Director of National Intelligence shall, in consultation with 
+        the Secretary of Defense and other appropriate officials, 
+        jointly prescribe guidelines governing the implementation and 
+        exercise of the authorities provided in this section and the 
+        amendments made by this section.
+            (2) Elements.--The guidelines prescribed under paragraph 
+        (1) shall--
+                    (A) ensure that the authorities provided under 
+                paragraph (13) of section 552a(b) of title 5, United 
+                States Code (as added by subsection (a)), are 
+                implemented in a manner that protects the rights under 
+                the Constitution of United States persons;
+                    (B) direct that all applicable policies and 
+                procedures governing the receipt, collection, 
+                retention, analysis, and dissemination of foreign 
+                intelligence information concerning United States 
+                persons are appropriately followed; and
+                    (C) provide that the authorities provided under 
+                paragraph (13) of section 552a(b) of title 5, United 
+                States Code (as so added), are implemented in a manner 
+                consistent with existing laws, regulations, and 
+                Executive orders governing the conduct of intelligence 
+                activities.
+            (3) Form.--The guidelines prescribed under paragraph (1) 
+        shall be unclassified, to the maximum extent practicable, but 
+        may include a classified annex.
+            (4) Submittal to congress.--The guidelines prescribed under 
+        paragraph (1) shall be submitted to the appropriate committees 
+        of Congress. Any classified annex included with such guidelines 
+        shall be submitted to the Select Committee on Intelligence of 
+        the Senate and the Permanent Select Committee on Intelligence 
+        of the House of Representatives.
+    (h) Effective Date.--
+            (1) In general.--Except as provided in paragraph (2), this 
+        section and the amendments made by this section shall take 
+        effect on the date of the issuance of the guidelines required 
+        by subsection (g).
+            (2) Certain requirements.--Subsections (f) and (g) shall 
+        take effect on the date of the enactment of this Act.
+    (i) Appropriate Committees of Congress Defined.--In this section, 
+the term ``appropriate committees of Congress'' means--
+            (1) the Committee on Homeland Security and Governmental 
+        Affairs and the Select Committee on Intelligence of the Senate; 
+        and
+            (2) the Committee on Government Reform and the Permanent 
+        Select Committee on Intelligence of the House of 
+        Representatives.
+    (j) Termination.--This section and the amendments made by this 
+section shall cease to have effect on the date that is three years 
+after the date of the issuance of the guidelines required by subsection 
+(g).
+
+SEC. 311. EXTENSION TO INTELLIGENCE COMMUNITY OF AUTHORITY TO DELETE 
+              INFORMATION ABOUT RECEIPT AND DISPOSITION OF FOREIGN 
+              GIFTS AND DECORATIONS.
+
+    Paragraph (4) of section 7342(f) of title 5, United States Code, is 
+amended to read as follows:
+    ``(4)(A) In transmitting such listings for an element of the 
+intelligence community, the head of such element may delete the 
+information described in subparagraphs (A) and (C) of paragraphs (2) 
+and (3) if the head of such element certifies in writing to the 
+Secretary of State that the publication of such information could 
+adversely affect United States intelligence sources or methods.
+    ``(B) Any information not provided to the Secretary of State 
+pursuant to the authority in subparagraph (A) shall be transmitted to 
+the Director of National Intelligence.
+    ``(C) In this paragraph, the term `element of the intelligence 
+community' means an element of the intelligence community listed in or 
+designated under section 3(4) of the National Security Act of 1947 (50 
+U.S.C. 401a(4)).''.
+
+SEC. 312. AVAILABILITY OF FUNDS FOR TRAVEL AND TRANSPORTATION OF 
+              PERSONAL EFFECTS, HOUSEHOLD GOODS, AND AUTOMOBILES.
+
+    (a) Funds of Office of Director of National Intelligence.--Funds 
+appropriated to the Office of the Director of National Intelligence and 
+available for travel and transportation expenses shall be available for 
+such expenses when any part of the travel or transportation concerned 
+begins in a fiscal year pursuant to travel orders issued in such fiscal 
+year, notwithstanding that such travel or transportation is or may not 
+be completed during such fiscal year.
+    (b) Funds of Central Intelligence Agency.--Funds appropriated to 
+the Central Intelligence Agency and available for travel and 
+transportation expenses shall be available for such expenses when any 
+part of the travel or transportation concerned begins in a fiscal year 
+pursuant to travel orders issued in such fiscal year, notwithstanding 
+that such travel or transportation is or may not be completed during 
+such fiscal year.
+    (c) Travel and Transportation Expenses Defined.--In this section, 
+the term ``travel and transportation expenses'' means the following:
+            (1) Expenses in connection with travel of personnel, 
+        including travel of dependents.
+            (2) Expenses in connection with transportation of personal 
+        effects, household goods, or automobiles of personnel.
+
+SEC. 313. DIRECTOR OF NATIONAL INTELLIGENCE REPORT ON COMPLIANCE WITH 
+              THE DETAINEE TREATMENT ACT OF 2005.
+
+    (a) Report Required.--Not later than May 1, 2007, the Director of 
+National Intelligence shall submit to the congressional intelligence 
+committees a comprehensive report on all measures taken by the Office 
+of the Director of National Intelligence and by each element, if any, 
+of the intelligence community with relevant responsibilities to comply 
+with the provisions of the Detainee Treatment Act of 2005 (title X of 
+division A of Public Law 109-148).
+    (b) Elements.--The report required by subsection (a) shall include 
+the following:
+            (1) A description of the detention or interrogation 
+        methods, if any, that have been determined to comply with 
+        section 1003 of the Detainee Treatment Act of 2005 (119 Stat. 
+        2739; 42 U.S.C. 2000dd), and, with respect to each such 
+        method--
+                    (A) an identification of the official making such 
+                determination; and
+                    (B) a statement of the basis for such 
+                determination.
+            (2) A description of the detention or interrogation 
+        methods, if any, whose use has been discontinued pursuant to 
+        the Detainee Treatment Act of 2005, and, with respect to each 
+        such method--
+                    (A) an identification of the official making the 
+                determination to discontinue such method; and
+                    (B) a statement of the basis for such 
+                determination.
+            (3) A description of any actions that have been taken to 
+        implement section 1004 of the Detainee Treatment Act of 2005 
+        (119 Stat. 2740; 42 U.S.C. 2000dd-1), and, with respect to each 
+        such action--
+                    (A) an identification of the official taking such 
+                action; and
+                    (B) a statement of the basis for such action.
+            (4) Any other matters that the Director considers necessary 
+        to fully and currently inform the congressional intelligence 
+        committees about the implementation of the Detainee Treatment 
+        Act of 2005.
+            (5) An appendix containing--
+                    (A) all guidelines for the application of the 
+                Detainee Treatment Act of 2005 to the detention or 
+                interrogation activities, if any, of any element of the 
+                intelligence community; and
+                    (B) all legal opinions of any office or official of 
+                the Department of Justice about the meaning or 
+                application of Detainee Treatment Act of 2005 with 
+                respect to the detention or interrogation activities, 
+                if any, of any element of the intelligence community.
+    (c) Form.--The report required by subsection (a) shall be submitted 
+in classified form.
+    (d) Definitions.--In this section:
+            (1) The term ``congressional intelligence committees'' 
+        means--
+                    (A) the Select Committee on Intelligence of the 
+                Senate; and
+                    (B) the Permanent Select Committee of the House of 
+                Representatives.
+            (2) The term ``intelligence community'' means the elements 
+        of the intelligence community specified in or designated under 
+        section 3(4) of the National Security Act of 1947 (50 U.S.C. 
+        401a(4)).
+
+SEC. 314. REPORT ON ANY CLANDESTINE DETENTION FACILITIES FOR 
+              INDIVIDUALS CAPTURED IN THE GLOBAL WAR ON TERRORISM.
+
+    (a) In General.--The President shall ensure that the United States 
+Government continues to comply with the authorization, reporting, and 
+notification requirements of title V of the National Security Act of 
+1947 (50 U.S.C. 413 et seq.).
+    (b) Director of National Intelligence Report.--
+            (1) Report required.--Not later than 60 days after the date 
+        of the enactment of this Act, the Director of National 
+        Intelligence shall provide to the members of the Select 
+        Committee on Intelligence of the Senate and the Permanent 
+        Select Committee on Intelligence of the House of 
+        Representatives a detailed report setting forth the nature and 
+        cost of, and otherwise providing a full accounting on, any 
+        clandestine prison or detention facility currently or formerly 
+        operated by the United States Government, regardless of 
+        location, where detainees in the global war on terrorism are or 
+        were being held.
+            (2) Elements.--The report required by paragraph (1) shall 
+        set forth, for each prison or facility, if any, covered by such 
+        report, the following:
+                    (A) The location and size of such prison or 
+                facility.
+                    (B) If such prison or facility is no longer being 
+                operated by the United States Government, the 
+                disposition of such prison or facility.
+                    (C) The number of detainees currently held or 
+                formerly held, as the case may be, at such prison or 
+                facility.
+                    (D) Any plans for the ultimate disposition of any 
+                detainees currently held at such prison or facility.
+                    (E) A description of the interrogation procedures 
+                used or formerly used on detainees at such prison or 
+                facility and a determination, in coordination with 
+                other appropriate officials, on whether such procedures 
+                are or were in compliance with United States 
+                obligations under the Geneva Conventions and the 
+                Convention Against Torture.
+            (3) Form of report.--The report required by paragraph (1) 
+        shall be submitted in classified form.
+
+  TITLE IV--MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY
+
+      Subtitle A--Office of the Director of National Intelligence
+
+SEC. 401. ADDITIONAL AUTHORITIES OF THE DIRECTOR OF NATIONAL 
+              INTELLIGENCE ON INTELLIGENCE INFORMATION SHARING.
+
+    Section 102A(g)(1) of the National Security Act of 1947 (50 U.S.C. 
+403-1(g)(1)) is amended--
+            (1) in subparagraph (E), by striking ``and'' at the end;
+            (2) in subparagraph (F), by striking the period and 
+        inserting a semicolon; and
+            (3) by adding at the end the following new subparagraphs:
+            ``(G) in carrying out this subsection, have the authority--
+                    ``(i) to direct the development, deployment, and 
+                utilization of systems of common concern for elements 
+                of the intelligence community, or that support the 
+                activities of such elements, related to the collection, 
+                processing, analysis, exploitation, and dissemination 
+                of intelligence information; and
+                    ``(ii) without regard to any provision of law 
+                relating to the transfer, reprogramming, obligation, or 
+                expenditure of funds, other than the provisions of this 
+                Act and the National Security Intelligence Reform Act 
+                of 2004 (title I of Public Law 108-458), to expend 
+                funds for purposes associated with the development, 
+                deployment, and utilization of such systems, which 
+                funds may be received and utilized by any department, 
+                agency, or other element of the United States 
+                Government for such purposes; and
+            ``(H) for purposes of addressing critical gaps in 
+        intelligence information sharing or access capabilities, have 
+        the authority to transfer funds appropriated for a program 
+        within the National Intelligence Program to a program funded by 
+        appropriations not within the National Intelligence Program, 
+        consistent with paragraphs (3) through (7) of subsection 
+        (d).''.
+
+SEC. 402. MODIFICATION OF LIMITATION ON DELEGATION BY THE DIRECTOR OF 
+              NATIONAL INTELLIGENCE OF THE PROTECTION OF INTELLIGENCE 
+              SOURCES AND METHODS.
+
+    Section 102A(i)(3) of the National Security Act of 1947 (50 U.S.C. 
+403-1(i)(3)) is amended by inserting before the period the following: 
+``, any Deputy Director of National Intelligence, or the Chief 
+Information Officer of the Intelligence Community''.
+
+SEC. 403. AUTHORITY OF THE DIRECTOR OF NATIONAL INTELLIGENCE TO MANAGE 
+              ACCESS TO HUMAN INTELLIGENCE INFORMATION.
+
+    Section 102A(b) of the National Security Act of 1947 (50 U.S.C. 
+403-1(b)) is amended--
+            (1) by inserting ``(1)'' before ``Unless''; and
+            (2) by adding at the end the following new paragraph:
+    ``(2) The Director of National Intelligence shall--
+            ``(A) have access to all national intelligence, including 
+        intelligence reports, operational data, and other associated 
+        information, concerning the human intelligence operations of 
+        any element of the intelligence community authorized to 
+        undertake such collection;
+            ``(B) consistent with the protection of intelligence 
+        sources and methods and applicable requirements in Executive 
+        Order 12333 (or any successor order) regarding the retention 
+        and dissemination of information concerning United States 
+        persons, ensure maximum access to the intelligence information 
+        contained in the information referred to in subparagraph (A) 
+        throughout the intelligence community; and
+            ``(C) consistent with subparagraph (B), provide within the 
+        Office of the Director of National Intelligence a mechanism for 
+        intelligence community analysts and other officers with 
+        appropriate clearances and an official need-to-know to gain 
+        access to information referred to in subparagraph (A) or (B) 
+        when relevant to their official responsibilities.''.
+
+SEC. 404. ADDITIONAL ADMINISTRATIVE AUTHORITY OF THE DIRECTOR OF 
+              NATIONAL INTELLIGENCE.
+
+    Section 102A of the National Security Act of 1947 (50 U.S.C. 403-1) 
+is amended by adding at the end the following new subsection:
+    ``(s) Additional Administrative Authorities.--(1) Notwithstanding 
+section 1532 of title 31, United States Code, or any other provision of 
+law prohibiting the interagency financing of activities described in 
+clause (i) or (ii) of subparagraph (A), in the performance of the 
+responsibilities, authorities, and duties of the Director of National 
+Intelligence or the Office of the Director of National Intelligence--
+            ``(A) the Director may authorize the use of interagency 
+        financing for--
+                    ``(i) national intelligence centers established by 
+                the Director under section 119B; and
+                    ``(ii) boards, commissions, councils, committees, 
+                and similar groups established by the Director; and
+            ``(B) upon the authorization of the Director, any 
+        department, agency, or element of the United States Government, 
+        including any element of the intelligence community, may fund 
+        or participate in the funding of such activities.
+    ``(2) No provision of law enacted after the date of the enactment 
+of this subsection shall be deemed to limit or supersede the authority 
+in paragraph (1) unless such provision makes specific reference to the 
+authority in that paragraph.''.
+
+SEC. 405. CLARIFICATION OF LIMITATION ON CO-LOCATION OF THE OFFICE OF 
+              THE DIRECTOR OF NATIONAL INTELLIGENCE.
+
+    Section 103(e) of the National Security Act of 1947 (50 U.S.C. 403-
+3(e)) is amended--
+            (1) by striking ``with'' and inserting ``of headquarters 
+        with headquarters of'';
+            (2) by inserting ``the headquarters of'' before ``the 
+        Office''; and
+            (3) by striking ``any other element'' and inserting ``the 
+        headquarters of any other element''.
+
+SEC. 406. ADDITIONAL DUTIES OF THE DIRECTOR OF SCIENCE AND TECHNOLOGY 
+              OF THE OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE.
+
+    (a) Coordination and Prioritization of Research Conducted by 
+Elements of Intelligence Community.--Subsection (d) of section 103E of 
+the National Security Act of 1947 (50 U.S.C. 403-3e) is amended--
+            (1) in paragraph (3)(A), by inserting ``and prioritize'' 
+        after ``coordinate''; and
+            (2) by adding at the end the following new paragraph:
+    ``(4) In carrying out paragraph (3)(A), the Committee shall 
+identify basic, advanced, and applied research programs to be carried 
+out by elements of the intelligence community.''.
+    (b) Development of Technology Goals.--That section is further 
+amended--
+            (1) in subsection (c)--
+                    (A) in paragraph (4), by striking ``and'' at the 
+                end;
+                    (B) by redesignating paragraph (5) as paragraph 
+                (8); and
+                    (C) by inserting after paragraph (4) the following 
+                new paragraphs:
+            ``(5) assist the Director in establishing goals for the 
+        elements of the intelligence community to meet the technology 
+        needs of the intelligence community;
+            ``(6) under the direction of the Director, establish 
+        engineering standards and specifications applicable to each 
+        acquisition of a major system (as that term is defined in 
+        section 506A(e)(3)) by the intelligence community;
+            ``(7) ensure that each acquisition program of the 
+        intelligence community for a major system (as so defined) 
+        complies with the standards and specifications established 
+        under paragraph (6); and''; and
+            (2) by adding at the end the following new subsection:
+    ``(e) Goals for Technology Needs of Intelligence Community.--In 
+carrying out subsection (c)(5), the Director of Science and Technology 
+shall--
+            ``(1) systematically identify and assess the most 
+        significant intelligence challenges that require technical 
+        solutions;
+            ``(2) examine options to enhance the responsiveness of 
+        research and design programs of the elements of the 
+        intelligence community to meet the requirements of the 
+        intelligence community for timely support; and
+            ``(3) assist the Director of National Intelligence in 
+        establishing research and development priorities and projects 
+        for the intelligence community that--
+                    ``(A) are consistent with current or future 
+                national intelligence requirements;
+                    ``(B) address deficiencies or gaps in the 
+                collection, processing, analysis, or dissemination of 
+                national intelligence;
+                    ``(C) take into account funding constraints in 
+                program development and acquisition; and
+                    ``(D) address system requirements from collection 
+                to final dissemination (also known as `end-to-end 
+                architecture').''.
+    (c) Report.--(1) Not later than June 30, 2007, the Director of 
+National Intelligence shall submit to Congress a report containing a 
+strategy for the development and use of technology in the intelligence 
+community through 2021.
+    (2) The report shall include--
+            (A) an assessment of the highest priority intelligence gaps 
+        across the intelligence community that may be resolved by the 
+        use of technology;
+            (B) goals for advanced research and development and a 
+        strategy to achieve such goals;
+            (C) an explanation of how each advanced research and 
+        development project funded under the National Intelligence 
+        Program addresses an identified intelligence gap;
+            (D) a list of all current and projected research and 
+        development projects by research type (basic, advanced, or 
+        applied) with estimated funding levels, estimated initiation 
+        dates, and estimated completion dates; and
+            (E) a plan to incorporate technology from research and 
+        development projects into National Intelligence Program 
+        acquisition programs.
+    (3) The report may be submitted in classified form.
+
+SEC. 407. APPOINTMENT AND TITLE OF CHIEF INFORMATION OFFICER OF THE 
+              INTELLIGENCE COMMUNITY.
+
+    (a) Appointment.--
+            (1) In general.--Subsection (a) of section 103G of the 
+        National Security Act of 1947 (50 U.S.C. 403-3g) is amended by 
+        striking ``the President, by and with the advice and consent of 
+        the Senate'' and inserting ``the Director of National 
+        Intelligence''.
+            (2) Applicability.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act, and 
+        shall apply with respect to any appointment of an individual as 
+        Chief Information Officer of the Intelligence Community that is 
+        made on or after that date.
+    (b) Title.--Such section is further amended--
+            (1) in subsection (a), by inserting ``of the Intelligence 
+        Community'' after ``Chief Information Officer'';
+            (2) in subsection (b), by inserting ``of the Intelligence 
+        Community'' after ``Chief Information Officer'';
+            (3) in subsection (c), by inserting ``of the Intelligence 
+        Community'' after ``Chief Information Officer''; and
+            (4) in subsection (d), by inserting ``of the Intelligence 
+        Community'' after ``Chief Information Officer'' the first place 
+        it appears.
+
+SEC. 408. INSPECTOR GENERAL OF THE INTELLIGENCE COMMUNITY.
+
+    (a) Establishment.--(1) Title I of the National Security Act of 
+1947 (50 U.S.C. 402 et seq.) is amended by inserting after section 103G 
+the following new section:
+
+           ``inspector general of the intelligence community
+
+    ``Sec. 103H.  (a) Office of Inspector General of Intelligence 
+Community.--There is within the Office of the Director of National 
+Intelligence an Office of the Inspector General of the Intelligence 
+Community.
+    ``(b) Purpose.--The purpose of the Office of the Inspector General 
+of the Intelligence Community is to--
+            ``(1) create an objective and effective office, 
+        appropriately accountable to Congress, to initiate and conduct 
+        independently investigations, inspections, and audits relating 
+        to--
+                    ``(A) the programs and operations of the 
+                intelligence community;
+                    ``(B) the elements of the intelligence community 
+                within the National Intelligence Program; and
+                    ``(C) the relationships between the elements of the 
+                intelligence community within the National Intelligence 
+                Program and the other elements of the intelligence 
+                community;
+            ``(2) recommend policies designed--
+                    ``(A) to promote economy, efficiency, and 
+                effectiveness in the administration and implementation 
+                of such programs and operations, and in such 
+                relationships; and
+                    ``(B) to prevent and detect fraud and abuse in such 
+                programs, operations, and relationships;
+            ``(3) provide a means for keeping the Director of National 
+        Intelligence fully and currently informed about--
+                    ``(A) problems and deficiencies relating to the 
+                administration and implementation of such programs and 
+                operations, and to such relationships; and
+                    ``(B) the necessity for, and the progress of, 
+                corrective actions; and
+            ``(4) in the manner prescribed by this section, ensure that 
+        the congressional intelligence committees are kept similarly 
+        informed of--
+                    ``(A) significant problems and deficiencies 
+                relating to the administration and implementation of 
+                such programs and operations, and to such 
+                relationships; and
+                    ``(B) the necessity for, and the progress of, 
+                corrective actions.
+    ``(c) Inspector General of Intelligence Community.--(1) There is an 
+Inspector General of the Intelligence Community, who shall be the head 
+of the Office of the Inspector General of the Intelligence Community, 
+who shall be appointed by the President, by and with the advice and 
+consent of the Senate.
+    ``(2) The nomination of an individual for appointment as Inspector 
+General shall be made--
+            ``(A) without regard to political affiliation;
+            ``(B) solely on the basis of integrity, compliance with the 
+        security standards of the intelligence community, and prior 
+        experience in the field of intelligence or national security; 
+        and
+            ``(C) on the basis of demonstrated ability in accounting, 
+        financial analysis, law, management analysis, public 
+        administration, or auditing.
+    ``(3) The Inspector General shall report directly to and be under 
+the general supervision of the Director of National Intelligence.
+    ``(4) The Inspector General may be removed from office only by the 
+President. The President shall immediately communicate in writing to 
+the congressional intelligence committees the reasons for the removal 
+of any individual from the position of Inspector General.
+    ``(d) Duties and Responsibilities.--Subject to subsections (g) and 
+(h), it shall be the duty and responsibility of the Inspector General 
+of the Intelligence Community--
+            ``(1) to provide policy direction for, and to plan, 
+        conduct, supervise, and coordinate independently, the 
+        investigations, inspections, and audits relating to the 
+        programs and operations of the intelligence community, the 
+        elements of the intelligence community within the National 
+        Intelligence Program, and the relationships between the 
+        elements of the intelligence community within the National 
+        Intelligence Program and the other elements of the intelligence 
+        community to ensure they are conducted efficiently and in 
+        accordance with applicable law and regulations;
+            ``(2) to keep the Director of National Intelligence fully 
+        and currently informed concerning violations of law and 
+        regulations, violations of civil liberties and privacy, and 
+        fraud and other serious problems, abuses, and deficiencies that 
+        may occur in such programs and operations, and in such 
+        relationships, and to report the progress made in implementing 
+        corrective action;
+            ``(3) to take due regard for the protection of intelligence 
+        sources and methods in the preparation of all reports issued by 
+        the Inspector General, and, to the extent consistent with the 
+        purpose and objective of such reports, take such measures as 
+        may be appropriate to minimize the disclosure of intelligence 
+        sources and methods described in such reports; and
+            ``(4) in the execution of the duties and responsibilities 
+        under this section, to comply with generally accepted 
+        government auditing standards.
+    ``(e) Limitations on Activities.--(1) The Director of National 
+Intelligence may prohibit the Inspector General of the Intelligence 
+Community from initiating, carrying out, or completing any 
+investigation, inspection, or audit if the Director determines that 
+such prohibition is necessary to protect vital national security 
+interests of the United States.
+    ``(2) If the Director exercises the authority under paragraph (1), 
+the Director shall submit an appropriately classified statement of the 
+reasons for the exercise of such authority within 7 days to the 
+congressional intelligence committees.
+    ``(3) The Director shall advise the Inspector General at the time a 
+report under paragraph (2) is submitted, and, to the extent consistent 
+with the protection of intelligence sources and methods, provide the 
+Inspector General with a copy of such report.
+    ``(4) The Inspector General may submit to the congressional 
+intelligence committees any comments on a report of which the Inspector 
+General has notice under paragraph (3) that the Inspector General 
+considers appropriate.
+    ``(f) Authorities.--(1) The Inspector General of the Intelligence 
+Community shall have direct and prompt access to the Director of 
+National Intelligence when necessary for any purpose pertaining to the 
+performance of the duties of the Inspector General.
+    ``(2)(A) The Inspector General shall have access to any employee, 
+or any employee of a contractor, of any element of the intelligence 
+community whose testimony is needed for the performance of the duties 
+of the Inspector General.
+    ``(B) The Inspector General shall have direct access to all 
+records, reports, audits, reviews, documents, papers, recommendations, 
+or other material which relate to the programs and operations with 
+respect to which the Inspector General has responsibilities under this 
+section.
+    ``(C) The level of classification or compartmentation of 
+information shall not, in and of itself, provide a sufficient rationale 
+for denying the Inspector General access to any materials under 
+subparagraph (B).
+    ``(D) Failure on the part of any employee, or any employee of a 
+contractor, of any element of the intelligence community to cooperate 
+with the Inspector General shall be grounds for appropriate 
+administrative actions by the Director or, on the recommendation of the 
+Director, other appropriate officials of the intelligence community, 
+including loss of employment or the termination of an existing 
+contractual relationship.
+    ``(3) The Inspector General is authorized to receive and 
+investigate complaints or information from any person concerning the 
+existence of an activity constituting a violation of laws, rules, or 
+regulations, or mismanagement, gross waste of funds, abuse of 
+authority, or a substantial and specific danger to the public health 
+and safety. Once such complaint or information has been received from 
+an employee of the Federal Government--
+            ``(A) the Inspector General shall not disclose the identity 
+        of the employee without the consent of the employee, unless the 
+        Inspector General determines that such disclosure is 
+        unavoidable during the course of the investigation or the 
+        disclosure is made to an official of the Department of Justice 
+        responsible for determining whether a prosecution should be 
+        undertaken; and
+            ``(B) no action constituting a reprisal, or threat of 
+        reprisal, for making such complaint may be taken by any 
+        employee in a position to take such actions, unless the 
+        complaint was made or the information was disclosed with the 
+        knowledge that it was false or with willful disregard for its 
+        truth or falsity.
+    ``(4) The Inspector General shall have authority to administer to 
+or take from any person an oath, affirmation, or affidavit, whenever 
+necessary in the performance of the duties of the Inspector General, 
+which oath, affirmation, or affidavit when administered or taken by or 
+before an employee of the Office of the Inspector General of the 
+Intelligence Community designated by the Inspector General shall have 
+the same force and effect as if administered or taken by or before an 
+officer having a seal.
+    ``(5)(A) Except as provided in subparagraph (B), the Inspector 
+General is authorized to require by subpoena the production of all 
+information, documents, reports, answers, records, accounts, papers, 
+and other data and documentary evidence necessary in the performance of 
+the duties and responsibilities of the Inspector General.
+    ``(B) In the case of departments, agencies, and other elements of 
+the United States Government, the Inspector General shall obtain 
+information, documents, reports, answers, records, accounts, papers, 
+and other data and evidence for the purpose specified in subparagraph 
+(A) using procedures other than by subpoenas.
+    ``(C) The Inspector General may not issue a subpoena for or on 
+behalf of any other element of the intelligence community, including 
+the Office of the Director of National Intelligence.
+    ``(D) In the case of contumacy or refusal to obey a subpoena issued 
+under this paragraph, the subpoena shall be enforceable by order of any 
+appropriate district court of the United States.
+    ``(g) Coordination Among Inspectors General of Intelligence 
+Community.--(1) In the event of a matter within the jurisdiction of the 
+Inspector General of the Intelligence Community that may be subject to 
+an investigation, inspection, or audit by both the Inspector General of 
+the Intelligence Community and an Inspector General, whether statutory 
+or administrative, with oversight responsibility for an element or 
+elements of the intelligence community, the Inspector General of the 
+Intelligence Community and such other Inspector or Inspectors General 
+shall expeditiously resolve which Inspector General shall conduct such 
+investigation, inspection, or audit.
+    ``(2) The Inspector General conducting an investigation, 
+inspection, or audit covered by paragraph (1) shall submit the results 
+of such investigation, inspection, or audit to any other Inspector 
+General, including the Inspector General of the Intelligence Community, 
+with jurisdiction to conduct such investigation, inspection, or audit 
+who did not conduct such investigation, inspection, or audit.
+    ``(3)(A) If an investigation, inspection, or audit covered by 
+paragraph (1) is conducted by an Inspector General other than the 
+Inspector General of the Intelligence Community, the Inspector General 
+of the Intelligence Community may, upon completion of such 
+investigation, inspection, or audit by such other Inspector General, 
+conduct under this section a separate investigation, inspection, or 
+audit of the matter concerned if the Inspector General of the 
+Intelligence Community determines that such initial investigation, 
+inspection, or audit was deficient in some manner or that further 
+investigation, inspection, or audit is required.
+    ``(B) This paragraph shall not apply to the Inspector General of 
+the Department of Defense or to any other Inspector General within the 
+Department of Defense.
+    ``(h) Staff and Other Support.--(1) The Inspector General of the 
+Intelligence Community shall be provided with appropriate and adequate 
+office space at central and field office locations, together with such 
+equipment, office supplies, maintenance services, and communications 
+facilities and services as may be necessary for the operation of such 
+offices.
+    ``(2)(A) Subject to applicable law and the policies of the Director 
+of National Intelligence, the Inspector General shall select, appoint, 
+and employ such officers and employees as may be necessary to carry out 
+the functions of the Inspector General. The Inspector General shall 
+ensure that any officer or employee so selected, appointed, or employed 
+has security clearances appropriate for the assigned duties of such 
+officer or employee.
+    ``(B) In making selections under subparagraph (A), the Inspector 
+General shall ensure that such officers and employees have the 
+requisite training and experience to enable the Inspector General to 
+carry out the duties of the Inspector General effectively.
+    ``(C) In meeting the requirements of this paragraph, the Inspector 
+General shall create within the Office of the Inspector General of the 
+Intelligence Community a career cadre of sufficient size to provide 
+appropriate continuity and objectivity needed for the effective 
+performance of the duties of the Inspector General.
+    ``(3)(A) Subject to the concurrence of the Director, the Inspector 
+General may request such information or assistance as may be necessary 
+for carrying out the duties and responsibilities of the Inspector 
+General from any department, agency, or other element of the United 
+States Government.
+    ``(B) Upon request of the Inspector General for information or 
+assistance under subparagraph (A), the head of the department, agency, 
+or element concerned shall, insofar as is practicable and not in 
+contravention of any existing statutory restriction or regulation of 
+the department, agency, or element, furnish to the Inspector General, 
+or to an authorized designee, such information or assistance.
+    ``(C) The Inspector General of the Intelligence Community may, upon 
+reasonable notice to the head of any element of the intelligence 
+community, conduct, as authorized by this section, an investigation, 
+inspection, or audit of such element and may enter into any place 
+occupied by such element for purposes of the performance of the duties 
+of the Inspector General.
+    ``(i) Reports.--(1)(A) The Inspector General of the Intelligence 
+Community shall, not later than January 31 and July 31 of each year, 
+prepare and submit to the Director of National Intelligence a 
+classified, and, as appropriate, unclassified semiannual report 
+summarizing the activities of the Office of the Inspector General of 
+the Intelligence Community during the immediately preceding 6-month 
+periods ending December 31 (of the preceding year) and June 30, 
+respectively.
+    ``(B) Each report under this paragraph shall include, at a minimum, 
+the following:
+            ``(i) A list of the title or subject of each investigation, 
+        inspection, or audit conducted during the period covered by 
+        such report, including a summary of the progress of each 
+        particular investigation, inspection, or audit since the 
+        preceding report of the Inspector General under this paragraph.
+            ``(ii) A description of significant problems, abuses, and 
+        deficiencies relating to the administration and implementation 
+        of programs and operations of the intelligence community, and 
+        in the relationships between elements of the intelligence 
+        community, identified by the Inspector General during the 
+        period covered by such report.
+            ``(iii) A description of the recommendations for corrective 
+        or disciplinary action made by the Inspector General during the 
+        period covered by such report with respect to significant 
+        problems, abuses, or deficiencies identified in clause (ii).
+            ``(iv) A statement whether or not corrective or 
+        disciplinary action has been completed on each significant 
+        recommendation described in previous semiannual reports, and, 
+        in a case where corrective action has been completed, a 
+        description of such corrective action.
+            ``(v) A certification whether or not the Inspector General 
+        has had full and direct access to all information relevant to 
+        the performance of the functions of the Inspector General.
+            ``(vi) A description of the exercise of the subpoena 
+        authority under subsection (f)(5) by the Inspector General 
+        during the period covered by such report.
+            ``(vii) Such recommendations as the Inspector General 
+        considers appropriate for legislation to promote economy, 
+        efficiency, and effectiveness in the administration and 
+        implementation of programs and operations undertaken by the 
+        intelligence community, and in the relationships between 
+        elements of the intelligence community, and to detect and 
+        eliminate fraud and abuse in such programs and operations and 
+        in such relationships.
+    ``(C) Not later than the 30 days after the date of receipt of a 
+report under subparagraph (A), the Director shall transmit the report 
+to the congressional intelligence committees together with any comments 
+the Director considers appropriate.
+    ``(2)(A) The Inspector General shall report immediately to the 
+Director whenever the Inspector General becomes aware of particularly 
+serious or flagrant problems, abuses, or deficiencies relating to the 
+administration and implementation of programs or operations of the 
+intelligence community or in the relationships between elements of the 
+intelligence community.
+    ``(B) The Director shall transmit to the congressional intelligence 
+committees each report under subparagraph (A) within seven calendar 
+days of receipt of such report, together with such comments as the 
+Director considers appropriate.
+    ``(3) In the event that--
+            ``(A) the Inspector General is unable to resolve any 
+        differences with the Director affecting the execution of the 
+        duties or responsibilities of the Inspector General;
+            ``(B) an investigation, inspection, or audit carried out by 
+        the Inspector General focuses on any current or former 
+        intelligence community official who--
+                    ``(i) holds or held a position in an element of the 
+                intelligence community that is subject to appointment 
+                by the President, whether or not by and with the advice 
+                and consent of the Senate, including such a position 
+                held on an acting basis;
+                    ``(ii) holds or held a position in an element of 
+                the intelligence community, including a position held 
+                on an acting basis, that is appointed by the Director 
+                of National Intelligence; or
+                    ``(iii) holds or held a position as head of an 
+                element of the intelligence community or a position 
+                covered by subsection (b) or (c) of section 106;
+            ``(C) a matter requires a report by the Inspector General 
+        to the Department of Justice on possible criminal conduct by a 
+        current or former official described in subparagraph (B);
+            ``(D) the Inspector General receives notice from the 
+        Department of Justice declining or approving prosecution of 
+        possible criminal conduct of any current or former official 
+        described in subparagraph (B); or
+            ``(E) the Inspector General, after exhausting all possible 
+        alternatives, is unable to obtain significant documentary 
+        information in the course of an investigation, inspection, or 
+        audit,
+the Inspector General shall immediately notify and submit a report on 
+such matter to the congressional intelligence committees.
+    ``(4) Pursuant to title V, the Director shall submit to the 
+congressional intelligence committees any report or findings and 
+recommendations of an investigation, inspection, or audit conducted by 
+the office which has been requested by the Chairman or Vice Chairman or 
+Ranking Minority Member of either committee.
+    ``(5)(A) An employee of an element of the intelligence community, 
+an employee assigned or detailed to an element of the intelligence 
+community, or an employee of a contractor to the intelligence community 
+who intends to report to Congress a complaint or information with 
+respect to an urgent concern may report such complaint or information 
+to the Inspector General.
+    ``(B) Not later than the end of the 14-calendar day period 
+beginning on the date of receipt from an employee of a complaint or 
+information under subparagraph (A), the Inspector General shall 
+determine whether the complaint or information appears credible. Upon 
+making such a determination, the Inspector General shall transmit to 
+the Director a notice of that determination, together with the 
+complaint or information.
+    ``(C) Upon receipt of a transmittal from the Inspector General 
+under subparagraph (B), the Director shall, within seven calendar days 
+of such receipt, forward such transmittal to the congressional 
+intelligence committees, together with any comments the Director 
+considers appropriate.
+    ``(D)(i) If the Inspector General does not find credible under 
+subparagraph (B) a complaint or information submitted under 
+subparagraph (A), or does not transmit the complaint or information to 
+the Director in accurate form under subparagraph (B), the employee 
+(subject to clause (ii)) may submit the complaint or information to 
+Congress by contacting either or both of the congressional intelligence 
+committees directly.
+    ``(ii) An employee may contact the intelligence committees directly 
+as described in clause (i) only if the employee--
+            ``(I) before making such a contact, furnishes to the 
+        Director, through the Inspector General, a statement of the 
+        employee's complaint or information and notice of the 
+        employee's intent to contact the congressional intelligence 
+        committees directly; and
+            ``(II) obtains and follows from the Director, through the 
+        Inspector General, direction on how to contact the intelligence 
+        committees in accordance with appropriate security practices.
+    ``(iii) A member or employee of one of the congressional 
+intelligence committees who receives a complaint or information under 
+clause (i) does so in that member or employee's official capacity as a 
+member or employee of such committee.
+    ``(E) The Inspector General shall notify an employee who reports a 
+complaint or information to the Inspector General under this paragraph 
+of each action taken under this paragraph with respect to the complaint 
+or information. Such notice shall be provided not later than 3 days 
+after any such action is taken.
+    ``(F) An action taken by the Director or the Inspector General 
+under this paragraph shall not be subject to judicial review.
+    ``(G) In this paragraph, the term `urgent concern' means any of the 
+following:
+            ``(i) A serious or flagrant problem, abuse, violation of 
+        law or Executive order, or deficiency relating to the funding, 
+        administration, or operation of an intelligence activity 
+        involving classified information, but does not include 
+        differences of opinions concerning public policy matters.
+            ``(ii) A false statement to Congress, or a willful 
+        withholding from Congress, on an issue of material fact 
+        relating to the funding, administration, or operation of an 
+        intelligence activity.
+            ``(iii) An action, including a personnel action described 
+        in section 2302(a)(2)(A) of title 5, United States Code, 
+        constituting reprisal or threat of reprisal prohibited under 
+        subsection (f)(3)(B) of this section in response to an 
+        employee's reporting an urgent concern in accordance with this 
+        paragraph.
+    ``(H) In support of this paragraph, Congress makes the findings set 
+forth in paragraphs (1) through (6) of section 701(b) of the 
+Intelligence Community Whistleblower Protection Act of 1998 (title VII 
+of Public Law 105-272; 5 U.S.C. App. 8H note).
+    ``(6) In accordance with section 535 of title 28, United States 
+Code, the Inspector General shall report to the Attorney General any 
+information, allegation, or complaint received by the Inspector General 
+relating to violations of Federal criminal law that involves a program 
+or operation of an element of the intelligence community, or in the 
+relationships between the elements of the intelligence community, 
+consistent with such guidelines as may be issued by the Attorney 
+General pursuant to subsection (b)(2) of such section. A copy of each 
+such report shall be furnished to the Director.
+    ``(j) Separate Budget Account.--The Director of National 
+Intelligence shall, in accordance with procedures to be issued by the 
+Director in consultation with the congressional intelligence 
+committees, include in the National Intelligence Program budget a 
+separate account for the Office of Inspector General of the 
+Intelligence Community.
+    ``(k) Construction of Duties Regarding Elements of Intelligence 
+Community.--Except as resolved pursuant to subsection (g), the 
+performance by the Inspector General of the Intelligence Community of 
+any duty, responsibility, or function regarding an element of the 
+intelligence community shall not be construed to modify or effect the 
+duties and responsibilities of any other Inspector General, whether 
+statutory or administrative, having duties and responsibilities 
+relating to such element.''.
+    (2) The table of contents in the first section of the National 
+Security Act of 1947 is amended by inserting after the item relating to 
+section 103G the following new item:
+
+``Sec. 103H. Inspector General of the Intelligence Community.''.
+    (b) Repeal of Superseded Authority To Establish Position.--Section 
+8K of the Inspector General Act of 1978 (5 U.S.C. App.) is repealed.
+    (c) Executive Schedule Level IV.--Section 5314 of title 5, United 
+States Code, is amended by adding at the end the following new item:
+            ``Inspector General of the Intelligence Community.''.
+
+SEC. 409. LEADERSHIP AND LOCATION OF CERTAIN OFFICES AND OFFICIALS.
+
+    (a) National Counter Proliferation Center.--Section 119A(a) of the 
+National Security Act of 1947 (50 U.S.C. 404o-1(a)) is amended--
+            (1) by striking ``(a) Establishment.--Not later than 18 
+        months after the date of the enactment of the National Security 
+        Intelligence Reform Act of 2004, the'' and inserting the 
+        following:
+    ``(a) In General.--
+            ``(1) Establishment.--The''; and
+            (2) by adding at the end the following new paragraphs:
+            ``(2) Director.--The head of the National Counter 
+        Proliferation Center shall be the Director of the National 
+        Counter Proliferation Center, who shall be appointed by the 
+        Director of National Intelligence.
+            ``(3) Location.--The National Counter Proliferation Center 
+        shall be located within the Office of the Director of National 
+        Intelligence.''.
+    (b) Officers.--Section 103(c) of that Act (50 U.S.C. 403-3(c)) is 
+amended--
+            (1) by redesignating paragraph (9) as paragraph (13); and
+            (2) by inserting after paragraph (8) the following new 
+        paragraphs:
+            ``(9) The Chief Information Officer of the Intelligence 
+        Community.
+            ``(10) The Inspector General of the Intelligence Community.
+            ``(11) The Director of the National Counterterrorism 
+        Center.
+            ``(12) The Director of the National Counter Proliferation 
+        Center.''.
+
+SEC. 410. NATIONAL SPACE INTELLIGENCE CENTER.
+
+    (a) Establishment.--
+            (1) In general.--Title I of the National Security Act of 
+        1947 (50 U.S.C. 401 et seq.) is amended by adding after section 
+        119B the following new section:
+
+                  ``national space intelligence center
+
+    ``Sec. 119C.  (a) Establishment.--There is established within the 
+Office of the Director of National Intelligence a National Space 
+Intelligence Center.
+    ``(b) Director of National Space Intelligence Center.--The National 
+Intelligence Officer for Science and Technology, or a successor 
+position designated by the Director of National Intelligence, shall act 
+as the Director of the National Space Intelligence Center.
+    ``(c) Missions.--The National Space Intelligence Center shall have 
+the following missions:
+            ``(1) To coordinate and provide policy direction for the 
+        management of space-related intelligence assets.
+            ``(2) To prioritize collection activities consistent with 
+        the National Intelligence Collection Priorities framework, or a 
+        successor framework or other document designated by the 
+        Director of National Intelligence.
+            ``(3) To provide policy direction for programs designed to 
+        ensure a sufficient cadre of government and nongovernment 
+        personnel in fields relating to space intelligence, including 
+        programs to support education, recruitment, hiring, training, 
+        and retention of qualified personnel.
+            ``(4) To evaluate independent analytic assessments of 
+        threats to classified United States space intelligence systems 
+        throughout all phases of the development, acquisition, and 
+        operation of such systems.
+    ``(d) Access to Information.--The Director of National Intelligence 
+shall ensure that the National Space Intelligence Center has access to 
+all national intelligence information (as appropriate), and such other 
+information (as appropriate and practical), necessary for the Center to 
+carry out the missions of the Center under subsection (c).
+    ``(e) Separate Budget Account.--The Director of National 
+Intelligence shall include in the National Intelligence Program budget 
+a separate line item for the National Space Intelligence Center.''.
+            (2) Clerical amendment.--The table of contents for that Act 
+        is amended by inserting after the item relating to section 119B 
+        the following new item:
+
+``Sec. 119C. National Space Intelligence Center.''.
+    (b) Report on Organization of Center.--
+            (1) Report required.--Not later than 180 days after the 
+        date of the enactment of this Act, the Director of the National 
+        Space Intelligence Center shall submit to the Select Committee 
+        on Intelligence of the Senate and the Permanent Select 
+        Committee on Intelligence of the House of Representatives a 
+        report on the organizational structure of the National Space 
+        Intelligence Center established by section 119C of the National 
+        Security Act of 1947 (as added by subsection (a)).
+            (2) Elements.--The report required by paragraph (1) shall 
+        include the following:
+                    (A) The proposed organizational structure of the 
+                National Space Intelligence Center.
+                    (B) An identification of key participants in the 
+                Center.
+                    (C) A strategic plan for the Center during the 
+                five-year period beginning on the date of the report.
+
+SEC. 411. OPERATIONAL FILES IN THE OFFICE OF THE DIRECTOR OF NATIONAL 
+              INTELLIGENCE.
+
+    (a) In General.--Title VII of the National Security Act of 1947 (50 
+U.S.C. 431 et seq.) is amended by inserting before section 701 the 
+following new section:
+
+     ``operational files in the office of the director of national 
+                              intelligence
+
+    ``Sec. 700.  (a) Exemption of Certain Files From Search, Review, 
+Publication, or Disclosure.--(1) Information and records described in 
+paragraph (2) shall be exempt from the provisions of section 552 of 
+title 5, United States Code, that require search, review, publication, 
+or disclosure in connection therewith when--
+            ``(A) such information or records are not disseminated 
+        outside the Office of the Director of National Intelligence; or
+            ``(B) such information or records are incorporated into new 
+        information or records created by personnel of the Office in a 
+        manner that identifies such new information or records as 
+        incorporating such information or records and such new 
+        information or records are not disseminated outside the Office.
+    ``(2) Information and records described in this paragraph are the 
+following:
+            ``(A) Information disseminated or otherwise provided to an 
+        element of the Office of the Director of National Intelligence 
+        from the operational files of an element of the intelligence 
+        community that have been exempted from search, review, 
+        publication, or disclosure in accordance with this title or any 
+        other provision of law.
+            ``(B) Any information or records created by the Office that 
+        incorporate information described in subparagraph (A).
+    ``(3) An operational file of an element of the intelligence 
+community from which information described in paragraph (2)(A) is 
+disseminated or provided to the Office of the Director of National 
+Intelligence as described in that paragraph shall remain exempt from 
+search, review, publication, or disclosure under section 552 of title 
+5, United States Code, to the extent the operational files from which 
+such information was derived remain exempt from search, review, 
+publication, or disclosure under section 552 of such title.
+    ``(b) Search and Review of Certain Files.--Information disseminated 
+or otherwise provided to the Office of the Director of National 
+Intelligence by another element of the intelligence community that is 
+not exempt from search, review, publication, or disclosure under 
+subsection (a), and that is authorized to be disseminated outside the 
+Office, shall be subject to search and review under section 552 of 
+title 5, United States Code, but may remain exempt from publication and 
+disclosure under such section by the element disseminating or providing 
+such information to the Office to the extent authorized by such 
+section.
+    ``(c) Search and Review for Certain Purposes.--Notwithstanding 
+subsection (a), exempted operational files shall continue to be subject 
+to search and review for information concerning any of the following:
+            ``(1) United States citizens or aliens lawfully admitted 
+        for permanent residence who have requested information on 
+        themselves pursuant to the provisions of section 552 or 552a of 
+        title 5, United States Code.
+            ``(2) Any special activity the existence of which is not 
+        exempt from disclosure under the provisions of section 552 of 
+        title 5, United States Code.
+            ``(3) The specific subject matter of an investigation by 
+        any of the following for any impropriety, or violation of law, 
+        Executive order, or Presidential directive, in the conduct of 
+        an intelligence activity:
+                    ``(A) The Select Committee on Intelligence of the 
+                Senate.
+                    ``(B) The Permanent Select Committee on 
+                Intelligence of the House of Representatives.
+                    ``(C) The Intelligence Oversight Board.
+                    ``(D) The Department of Justice.
+                    ``(E) The Office of the Director of National 
+                Intelligence.
+                    ``(F) The Office of the Inspector General of the 
+                Intelligence Community.''.
+    (b) Clerical Amendment.--The table of contents in the first section 
+of that Act is amended by inserting before the item relating to section 
+701 the following new item:
+
+``Sec. 700. Operational files in the Office of the Director of National 
+                            Intelligence.''.
+
+SEC. 412. ELIGIBILITY FOR INCENTIVE AWARDS OF PERSONNEL ASSIGNED TO THE 
+              OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE.
+
+    (a) In General.--Subsection (a) of section 402 of the Intelligence 
+Authorization Act for Fiscal Year 1984 (50 U.S.C. 403e-1) is amended to 
+read as follows:
+    ``(a) Authority for Payment of Awards.--(1) The Director of 
+National Intelligence may exercise the authority granted in section 
+4503 of title 5, United States Code, with respect to Federal employees 
+and members of the Armed Forces detailed or assigned to the Office of 
+the Director of National Intelligence in the same manner as such 
+authority may be exercised with respect to personnel of the Office.
+    ``(2) The Director of the Central Intelligence Agency may exercise 
+the authority granted in section 4503 of title 5, United States Code, 
+with respect to Federal employees and members of the Armed Forces 
+detailed or assigned to the Central Intelligence Agency in the same 
+manner as such authority may be exercised with respect to personnel of 
+the Agency.''.
+    (b) Repeal of Obsolete Authority.--That section is further 
+amended--
+            (1) by striking subsection (c); and
+            (2) by redesignating subsection (d) as subsection (c).
+    (c) Expeditious Payment.--That section is further amended by adding 
+at the end the following new subsection (d):
+    ``(d) Expeditious Payment.--Payment of an award under this 
+authority in this section shall be made as expeditiously as is 
+practicable after the making of the award.''.
+    (d) Conforming Amendments.--That section is further amended--
+            (1) in subsection (b), by striking ``to the Central 
+        Intelligence Agency or to the Intelligence Community Staff'' 
+        and inserting ``to the Office of the Director of National 
+        Intelligence or to the Central Intelligence Agency''; and
+            (2) in subsection (c), as redesignated by subsection (b)(2) 
+        of this section, by striking ``Director of Central 
+        Intelligence'' and inserting ``Director of National 
+        Intelligence or Director of the Central Intelligence Agency''.
+    (e) Technical and Stylistic Amendments.--That section is further 
+amended--
+            (1) in subsection (b)--
+                    (A) by inserting ``Personnel Eligible for Awards.--
+                '' after ``(b)'';
+                    (B) by striking ``subsection (a) of this section'' 
+                and inserting ``subsection (a)''; and
+                    (C) by striking ``a date five years before the date 
+                of enactment of this section'' and inserting ``December 
+                9, 1978''; and
+            (2) in subsection (c), as so redesignated, by inserting 
+        ``Payment and Acceptance of Awards.--'' after ``(c)''.
+
+SEC. 413. REPEAL OF CERTAIN AUTHORITIES RELATING TO THE OFFICE OF THE 
+              NATIONAL COUNTERINTELLIGENCE EXECUTIVE.
+
+    (a) Repeal of Certain Authorities.--Section 904 of the 
+Counterintelligence Enhancement Act of 2002 (title IX of Public Law 
+107-306; 50 U.S.C. 402c) is amended--
+            (1) by striking subsections (d), (g), (h), (i), and (j); 
+        and
+            (2) by redesignating subsections (e), (f), (k), (l), and 
+        (m) as subsections (d), (e), (f), (g), and (h), respectively.
+    (b) Conforming Amendments.--That section is further amended--
+            (1) in subsection (d), as redesignated by subsection (a)(2) 
+        of this section, by striking ``subsection (f)'' each place it 
+        appears in paragraphs (1) and (2) and inserting ``subsection 
+        (e)''; and
+            (2) in subsection (e), as so redesignated--
+                    (A) in paragraph (1), by striking ``subsection 
+                (e)(1)'' and inserting ``subsection (d)(1)''; and
+                    (B) in paragraph (2), by striking ``subsection 
+                (e)(2)'' and inserting ``subsection (d)(2)''.
+
+SEC. 414. INAPPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT TO ADVISORY 
+              COMMITTEES OF THE OFFICE OF THE DIRECTOR OF NATIONAL 
+              INTELLIGENCE.
+
+    Section 4(b) of the Federal Advisory Committee Act (5 U.S.C. App.) 
+is amended--
+            (1) in paragraph (1), by striking ``or'';
+            (2) in paragraph (2), by striking the period and inserting 
+        ``; or''; and
+            (3) by adding at the end the following new paragraph:
+            ``(3) the Office of the Director of National 
+        Intelligence.''.
+
+SEC. 415. MEMBERSHIP OF THE DIRECTOR OF NATIONAL INTELLIGENCE ON THE 
+              TRANSPORTATION SECURITY OVERSIGHT BOARD.
+
+    Subparagraph (F) of section 115(b)(1) of title 49, United States 
+Code, is amended to read as follows:
+                    ``(F) The Director of National Intelligence, or the 
+                Director's designee.''.
+
+SEC. 416. APPLICABILITY OF THE PRIVACY ACT TO THE DIRECTOR OF NATIONAL 
+              INTELLIGENCE AND THE OFFICE OF THE DIRECTOR OF NATIONAL 
+              INTELLIGENCE.
+
+    (a) Authority To Exempt.--The Director of National Intelligence may 
+prescribe regulations to exempt any system of records within the Office 
+of the Director of National Intelligence from the applicability of the 
+provisions of subsections (c)(3), (c)(4), and (d) of section 552a of 
+title 5, United States Code.
+    (b) Promulgation Requirements.--In prescribing any regulations 
+under subsection (a), the Director shall comply with the requirements 
+(including general notice requirements) of subsections (b), (c), and 
+(e) of section 553 of title 5, United States Code.
+
+                Subtitle B--Central Intelligence Agency
+
+SEC. 421. DIRECTOR AND DEPUTY DIRECTOR OF THE CENTRAL INTELLIGENCE 
+              AGENCY.
+
+    (a) Appointment of Director of Central Intelligence Agency.--
+Subsection (a) of section 104A of the National Security Act of 1947 (50 
+U.S.C. 403-4a) is amended by inserting ``from civilian life'' after 
+``who shall be appointed''.
+    (b) Establishment of Position of Deputy Director of Central 
+Intelligence Agency.--Such section is further amended--
+            (1) by redesignating subsections (b), (c), (d), (e), (f), 
+        and (g) as subsections (c), (d), (e), (f), (g), and (h), 
+        respectively; and
+            (2) by inserting after subsection (a) the following new 
+        subsection (b):
+    ``(b) Deputy Director of Central Intelligence Agency.--(1) There is 
+a Deputy Director of the Central Intelligence Agency who shall be 
+appointed from civilian life by the President, by and with the advice 
+and consent of the Senate.
+    ``(2) The Deputy Director of the Central Intelligence Agency shall 
+assist the Director of the Central Intelligence Agency in carrying out 
+the duties and responsibilities of the Director.
+    ``(3) The Deputy Director of the Central Intelligence Agency shall 
+act for, and exercise the powers of, the Director of the Central 
+Intelligence Agency during the absence or disability of the Director of 
+the Central Intelligence Agency or during a vacancy in the position of 
+Director of the Central Intelligence Agency.''.
+    (c) Conforming Amendment.--Paragraph (2) of subsection (d) of such 
+section, as redesignated by subsection (b)(1) of this section, is 
+further amended by striking ``subsection (d)'' and inserting 
+``subsection (e)''.
+    (d) Executive Schedule Level III.--Section 5314 of title 5, United 
+States Code, is amended by adding at the end the following new item:
+            ``Deputy Director of the Central Intelligence Agency.''.
+    (e) Role of DNI in Appointment.--Section 106(a)(2) of the National 
+Security Act of 1947 (50 U.S.C. 403-6) is amended by adding at the end 
+the following new subparagraph:
+            ``(C) The Deputy Director of the Central Intelligence 
+        Agency.''.
+    (f) Military Status of Individual Serving as Director of Central 
+Intelligence Agency or Administratively Performing Duties of Deputy 
+Director of Central Intelligence Agency.--(1) A commissioned officer of 
+the Armed Forces who is serving as the Director of the Central 
+Intelligence Agency or is engaged in administrative performance of the 
+duties of Deputy Director of the Central Intelligence Agency as of the 
+date of the enactment of this Act shall not, while continuing in such 
+service, or in the administrative performance of such duties, after 
+that date--
+            (A) be subject to supervision or control by the Secretary 
+        of Defense or by any officer or employee of the Department of 
+        Defense; or
+            (B) exercise, by reason of the officer's status as a 
+        commissioned officer, any supervision or control with respect 
+        to any of the military or civilian personnel of the Department 
+        of Defense except as otherwise authorized by law.
+    (2) Except as provided in subparagraph (A) or (B) of paragraph (1), 
+the service, or the administrative performance of duties, described in 
+that paragraph by an officer described in that paragraph shall not 
+affect the status, position, rank, or grade of such officer in the 
+Armed Forces, or any emolument, perquisite, right, privilege, or 
+benefit incident to or arising out of such status, position, rank, or 
+grade.
+    (3) A commissioned officer described in paragraph (1), while 
+serving, or continuing in the administrative performance of duties, as 
+described in that paragraph and while remaining on active duty, shall 
+continue to receive military pay and allowances. Funds from which such 
+pay and allowances are paid shall be reimbursed from funds available to 
+the Director of the Central Intelligence Agency.
+    (g) Effective Date and Applicability.--
+            (1) Director of central intelligence agency.--The amendment 
+        made by subsection (a) shall--
+                    (A) take effect on the date of the enactment of 
+                this Act; and
+                    (B) apply upon the occurrence of any act creating a 
+                vacancy in the position of Director of the Central 
+                Intelligence Agency after such date, except that if the 
+                vacancy occurs by resignation from such position of the 
+                individual serving in such position on such date, that 
+                individual may continue serving in such position after 
+                such resignation until the individual appointed to 
+                succeed such resigning individual as Director of the 
+                Central Intelligence Agency, by and with the advice and 
+                consent of the Senate, assumes the duties of such 
+                position.
+            (2) Deputy director of central intelligence agency.--The 
+        amendments made by subsections (b) through (e) shall take 
+        effect on the date of the enactment of this Act and shall apply 
+        upon the earlier of--
+                    (A) the date of the nomination by the President of 
+                an individual to serve as Deputy Director of the 
+                Central Intelligence Agency, except that the individual 
+                administratively performing the duties of the Deputy 
+                Director of the Central Intelligence Agency as of the 
+                date of the enactment of this Act may continue to 
+                perform such duties after such date of nomination and 
+                until the individual appointed to the position of 
+                Deputy Director of the Central Intelligence Agency, by 
+                and with the advice and consent of the Senate, assumes 
+                the duties of such position; or
+                    (B) the date of the cessation of the performance of 
+                the duties of Deputy Director of the Central 
+                Intelligence Agency by the individual administratively 
+                performing such duties as of the date of the enactment 
+                of this Act.
+
+SEC. 422. ENHANCED PROTECTION OF CENTRAL INTELLIGENCE AGENCY 
+              INTELLIGENCE SOURCES AND METHODS FROM UNAUTHORIZED 
+              DISCLOSURE.
+
+    (a) Responsibility of Director of Central Intelligence Agency Under 
+National Security Act of 1947.--Subsection (e) of section 104A of the 
+National Security Act of 1947 (50 U.S.C. 403-4a), as redesignated by 
+section 421(b)(1) of this Act, is further amended--
+            (1) in paragraph (3), by striking ``and'' at the end;
+            (2) by redesignating paragraph (4) as paragraph (5); and
+            (3) by inserting after paragraph (3) the following new 
+        paragraph (4):
+            ``(4) protect intelligence sources and methods of the 
+        Central Intelligence Agency from unauthorized disclosure, 
+        consistent with any direction issued by the President or the 
+        Director of National Intelligence; and''.
+    (b) Protection Under Central Intelligence Agency Act of 1949.--
+Section 6 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 
+403g) is amended by striking ``section 102A(i)'' and all that follows 
+through ``unauthorized disclosure'' and inserting ``sections 102A(i) 
+and 104A(e)(4) of the National Security Act of 1947 (50 U.S.C. 403-
+1(i), 403-4a(e)(4))''.
+    (c) Construction With Exemption From Requirement for Disclosure of 
+Information to Public.--Section 104A(e)(4) of the National Security Act 
+of 1947, as amended by subsection (a), and section 6 of the Central 
+Intelligence Agency Act of 1949, as amended by subsection (b), shall be 
+treated as statutes that specifically exempt from disclosure the 
+matters specified in such sections for purposes of section 552(b)(3) of 
+title 5, United States Code.
+    (d) Technical Amendments to Central Intelligence Agency Retirement 
+Act.--Section 201(c) of the Central Intelligence Agency Retirement Act 
+(50 U.S.C. 2011(c)) is amended--
+            (1) in the subsection caption, by striking ``of DCI'';
+            (2) by striking ``section 102A(i)'' and inserting 
+        ``sections 102A(i) and 104A(e)(4)'';
+            (3) by striking ``of National Intelligence''; and
+            (4) by inserting ``of the Central Intelligence Agency'' 
+        after ``methods''.
+
+SEC. 423. ADDITIONAL EXCEPTION TO FOREIGN LANGUAGE PROFICIENCY 
+              REQUIREMENT FOR CERTAIN SENIOR LEVEL POSITIONS IN THE 
+              CENTRAL INTELLIGENCE AGENCY.
+
+    (a) Additional Exception.--Subsection (h) of section 104A of the 
+National Security Act of 1947 (50 U.S.C. 403-4a), as redesignated by 
+section 421(b)(1) of this Act, is further amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``paragraph (2)'' and inserting 
+                ``paragraphs (2) and (3)''; and
+                    (B) by striking ``Directorate of Operations'' and 
+                inserting ``National Clandestine Service'';
+            (2) in paragraph (2), by striking ``position or category of 
+        positions'' each place it appears and inserting ``individual, 
+        individuals, position, or category of positions''; and
+            (3) by adding at the end the following new paragraph:
+    ``(3) Paragraph (1) shall not apply to any individual in the 
+Directorate of Intelligence or the National Clandestine Service of the 
+Central Intelligence Agency who is serving in a Senior Intelligence 
+Service position as of December 23, 2005, regardless of whether such 
+individual is a member of the Senior Intelligence Service.''.
+    (b) Report on Waivers.--Section 611(c) of the Intelligence 
+Authorization Act for Fiscal Year 2005 (Public Law 108-487; 118 Stat. 
+3955) is amended--
+            (1) by striking the first sentence and inserting the 
+        following new sentence: ``The Director of the Central 
+        Intelligence Agency shall submit to Congress a report that 
+        identifies individuals who, or positions within the Senior 
+        Intelligence Service in the Directorate of Intelligence or the 
+        National Clandestine Service of the Central Intelligence Agency 
+        that, are determined by the Director to require a waiver under 
+        subsection (h) of section 104A of the National Security Act of 
+        1947, as added by subsection (a) and redesignated by section 
+        421(b)(1) of the Intelligence Authorization Act for Fiscal Year 
+        2007.''; and
+            (2) in the second sentence--
+                    (A) by striking ``section 104A(g)(2), as so added'' 
+                and inserting ``subsection (h)(2) of section 104A, as 
+                so added and redesignated''; and
+                    (B) by striking ``position or category of 
+                positions'' and inserting ``individual, individuals, 
+                position, or category of positions''.
+
+SEC. 424. ADDITIONAL FUNCTIONS AND AUTHORITIES FOR PROTECTIVE PERSONNEL 
+              OF THE CENTRAL INTELLIGENCE AGENCY.
+
+    Section 5(a)(4) of the Central Intelligence Agency Act of 1949 (50 
+U.S.C. 403f(a)(4)) is amended--
+            (1) by inserting ``(A)'' after ``(4)'';
+            (2) in subparagraph (A), as so designated--
+                    (A) by striking ``and the protection'' and 
+                inserting ``the protection''; and
+                    (B) by striking the semicolon and inserting ``, and 
+                the protection of the Director of National Intelligence 
+                and such personnel of the Office of the Director of 
+                National Intelligence as the Director of National 
+                Intelligence may designate; and''; and
+            (3) by adding at the end the following new subparagraph:
+            ``(B) Authorize personnel engaged in the performance of 
+        protective functions authorized pursuant to subparagraph (A), 
+        when engaged in the performance of such functions, to make 
+        arrests without warrant for any offense against the United 
+        States committed in the presence of such personnel, or for any 
+        felony cognizable under the laws of the United States, if such 
+        personnel have reasonable grounds to believe that the person to 
+        be arrested has committed or is committing such felony, except 
+        that any authority pursuant to this subparagraph may be 
+        exercised only in accordance with guidelines approved by the 
+        Director and the Attorney General and such personnel may not 
+        exercise any authority for the service of civil process or for 
+        the investigation of criminal offenses;''.
+
+SEC. 425. DIRECTOR OF NATIONAL INTELLIGENCE REPORT ON RETIREMENT 
+              BENEFITS FOR FORMER EMPLOYEES OF AIR AMERICA.
+
+    (a) In General.--Not later than 120 days after the date of the 
+enactment of this Act, the Director of National Intelligence shall 
+submit to Congress a report on the advisability of providing Federal 
+retirement benefits to United States citizens for the service of such 
+individuals before 1977 as employees of Air America or an associated 
+company while such company was owned or controlled by the United States 
+Government and operated or managed by the Central Intelligence Agency.
+    (b) Report Elements.--(1) The report required by subsection (a) 
+shall include the following:
+            (A) The history of Air America and associated companies 
+        before 1977, including a description of--
+                    (i) the relationship between such companies and the 
+                Central Intelligence Agency and other elements of the 
+                United States Government;
+                    (ii) the workforce of such companies;
+                    (iii) the missions performed by such companies and 
+                their employees for the United States; and
+                    (iv) the casualties suffered by employees of such 
+                companies in the course of their employment with such 
+                companies.
+            (B) A description of the retirement benefits contracted for 
+        or promised to the employees of such companies before 1977, the 
+        contributions made by such employees for such benefits, the 
+        retirement benefits actually paid such employees, the 
+        entitlement of such employees to the payment of future 
+        retirement benefits, and the likelihood that former employees 
+        of such companies will receive any future retirement benefits.
+            (C) An assessment of the difference between--
+                    (i) the retirement benefits that former employees 
+                of such companies have received or will receive by 
+                virtue of their employment with such companies; and
+                    (ii) the retirement benefits that such employees 
+                would have received and in the future receive if such 
+                employees had been, or would now be, treated as 
+                employees of the United States whose services while in 
+                the employ of such companies had been or would now be 
+                credited as Federal service for the purpose of Federal 
+                retirement benefits.
+            (D) The recommendations of the Director regarding the 
+        advisability of legislative action to treat employment at such 
+        companies as Federal service for the purpose of Federal 
+        retirement benefits in light of the relationship between such 
+        companies and the United States Government and the services and 
+        sacrifices of such employees to and for the United States, and 
+        if legislative action is considered advisable, a proposal for 
+        such action and an assessment of its costs.
+    (2) The Director of National Intelligence shall include in the 
+report any views of the Director of the Central Intelligence Agency on 
+the matters covered by the report that the Director of the Central 
+Intelligence Agency considers appropriate.
+    (c) Assistance of Comptroller General.--The Comptroller General of 
+the United States shall, upon the request of the Director of National 
+Intelligence and in a manner consistent with the protection of 
+classified information, assist the Director in the preparation of the 
+report required by subsection (a).
+    (d) Form.--The report required by subsection (a) shall be submitted 
+in unclassified form, but may include a classified annex.
+    (e) Definitions.--In this section:
+            (1) The term ``Air America'' means Air America, 
+        Incorporated.
+            (2) The term ``associated company'' means any company 
+        associated with or subsidiary to Air America, including Air 
+        Asia Company Limited and the Pacific Division of Southern Air 
+        Transport, Incorporated.
+
+              Subtitle C--Defense Intelligence Components
+
+SEC. 431. ENHANCEMENTS OF NATIONAL SECURITY AGENCY TRAINING PROGRAM.
+
+    (a) Termination of Employees.--Subsection (d)(1)(C) of section 16 
+of the National Security Agency Act of 1959 (50 U.S.C. 402 note) is 
+amended by striking ``terminated either by'' and all that follows and 
+inserting ``terminated--
+                    ``(i) by the Agency due to misconduct by the 
+                employee;
+                    ``(ii) by the employee voluntarily; or
+                    ``(iii) by the Agency for the failure of the 
+                employee to maintain such level of academic standing in 
+                the educational course of training as the Director of 
+                the National Security Agency shall have specified in 
+                the agreement of the employee under this subsection; 
+                and''.
+    (b) Authority To Withhold Disclosure of Affiliation With NSA.--
+Subsection (e) of such section is amended by striking ``(1) When an 
+employee'' and all that follows through ``(2) Agency efforts'' and 
+inserting ``Agency efforts''.
+
+SEC. 432. CODIFICATION OF AUTHORITIES OF NATIONAL SECURITY AGENCY 
+              PROTECTIVE PERSONNEL.
+
+    The National Security Agency Act of 1959 (50 U.S.C. 402 note) is 
+amended by adding at the end the following new section:
+    ``Sec. 21. (a) The Director is authorized to designate personnel of 
+the Agency to perform protective functions for the Director and for any 
+personnel of the Agency designated by the Director.
+    ``(b)(1) In the performance of protective functions under this 
+section, personnel of the Agency designated to perform protective 
+functions pursuant to subsection (a) are authorized, when engaged in 
+the performance of such functions, to make arrests without a warrant 
+for--
+            ``(A) any offense against the United States committed in 
+        the presence of such personnel; or
+            ``(B) any felony cognizable under the laws of the United 
+        States if such personnel have reasonable grounds to believe 
+        that the person to be arrested has committed or is committing 
+        such felony.
+    ``(2) The authority in paragraph (1) may be exercised only in 
+accordance with guidelines approved by the Director and the Attorney 
+General.
+    ``(3) Personnel of the Agency designated to perform protective 
+functions pursuant to subsection (a) shall not exercise any authority 
+for the service of civil process or the investigation of criminal 
+offenses.
+    ``(c) Nothing in this section shall be construed to impair or 
+otherwise affect any authority under any other provision of law 
+relating to the performance of protective functions.''.
+
+SEC. 433. INSPECTOR GENERAL MATTERS.
+
+    (a) Coverage Under Inspector General Act of 1978.--Subsection 
+(a)(2) of section 8G of the Inspector General Act of 1978 (5 U.S.C. 
+App. 8G) is amended--
+            (1) by inserting ``the Defense Intelligence Agency,'' after 
+        ``the Corporation for Public Broadcasting,'';
+            (2) by inserting ``the National Geospatial-Intelligence 
+        Agency,'' after ``the National Endowment for the Arts,''; and
+            (3) by inserting ``the National Reconnaissance Office, the 
+        National Security Agency,'' after ``the National Labor 
+        Relations Board,''.
+    (b) Certain Designations Under Inspector General Act of 1978.--
+Subsection (a) of section 8H of the Inspector General Act of 1978 (5 
+U.S.C. App. 8H) is amended by adding at the end the following new 
+paragraph:
+    ``(3) The Inspectors General of the Defense Intelligence Agency, 
+the National Geospatial-Intelligence Agency, the National 
+Reconnaissance Office, and the National Security Agency shall be 
+designees of the Inspector General of the Department of Defense for 
+purposes of this section.''.
+    (c) Power of Heads of Elements Over Investigations.--Subsection (d) 
+of section 8G of that Act--
+            (1) by inserting ``(1)'' after ``(d)'';
+            (2) in the second sentence of paragraph (1), as designated 
+        by paragraph (1) of this subsection, by striking ``The head'' 
+        and inserting ``Except as provided in paragraph (2), the 
+        head''; and
+            (3) by adding at the end the following new paragraph:
+    ``(2)(A) The Director of National Intelligence or the Secretary of 
+Defense may prohibit the Inspector General of an element of the 
+intelligence community specified in subparagraph (D) from initiating, 
+carrying out, or completing any audit or investigation if the Director 
+or the Secretary, as the case may be, determines that the prohibition 
+is necessary to protect vital national security interests of the United 
+States.
+    ``(B) If the Director or the Secretary exercises the authority 
+under subparagraph (A), the Director or the Secretary, as the case may 
+be, shall submit to the committees of Congress specified in 
+subparagraph (E) an appropriately classified statement of the reasons 
+for the exercise of the authority not later than seven days after the 
+exercise of the authority.
+    ``(C) At the same time the Director or the Secretary submits under 
+subparagraph (B) a statement on the exercise of the authority in 
+subparagraph (A) to the committees of Congress specified in 
+subparagraph (E), the Director or the Secretary, as the case may be, 
+shall notify the Inspector General of such element of the submittal of 
+such statement and, to the extent consistent with the protection of 
+intelligence sources and methods, provide the Inspector General with a 
+copy of such statement. The Inspector General may submit to such 
+committees of Congress any comments on a notice or statement received 
+by the Inspector General under this subparagraph that the Inspector 
+General considers appropriate.
+    ``(D) The elements of the intelligence community specified in this 
+subparagraph are as follows:
+            ``(i) The Defense Intelligence Agency.
+            ``(ii) The National Geospatial-Intelligence Agency.
+            ``(iii) The National Reconnaissance Office.
+            ``(iv) The National Security Agency.
+    ``(E) The committees of Congress specified in this subparagraph 
+are--
+            ``(i) the Committee on Armed Services and the Select 
+        Committee on Intelligence of the Senate; and
+            ``(ii) the Committee on Armed Services and the Permanent 
+        Select Committee on Intelligence of the House of 
+        Representatives.''.
+
+SEC. 434. CONFIRMATION OF APPOINTMENT OF HEADS OF CERTAIN COMPONENTS OF 
+              THE INTELLIGENCE COMMUNITY.
+
+    (a) Director of National Security Agency.--The National Security 
+Agency Act of 1959 (50 U.S.C. 402 note) is amended by inserting after 
+the first section the following new section:
+    ``Sec. 2. (a) There is a Director of the National Security Agency.
+    ``(b) The Director of the National Security Agency shall be 
+appointed by the President, by and with the advice and consent of the 
+Senate.
+    ``(c) The Director of the National Security Agency shall be the 
+head of the National Security Agency and shall discharge such functions 
+and duties as are provided by this Act or otherwise by law.''.
+    (b) Director of National Geospatial-Intelligence Agency.--Section 
+441(b) of title 10, United States Code, is amended--
+            (1) by redesignating paragraphs (2) and (3) as paragraphs 
+        (3) and (4), respectively; and
+            (2) by inserting after paragraph (1) the following new 
+        paragraph (2):
+    ``(2) The Director of the National Geospatial Intelligence Agency 
+shall be appointed by the President, by and with the advice and consent 
+of the Senate.''.
+    (c) Director of National Reconnaissance Office.--The Director of 
+the National Reconnaissance Office shall be appointed by the President, 
+by and with the advice and consent of the Senate.
+    (d) Positions of Importance and Responsibility.--
+            (1) Designation of positions.--The President may designate 
+        any of the positions referred to in paragraph (2) as positions 
+        of importance and responsibility under section 601 of title 10, 
+        United States Code.
+            (2) Covered positions.--The positions referred to in this 
+        paragraph are as follows:
+                    (A) The Director of the National Security Agency.
+                    (B) The Director of the National Geospatial-
+                Intelligence Agency.
+                    (C) The Director of the National Reconnaissance 
+                Office.
+    (e) Effective Date and Applicability.--(1) The amendments made by 
+subsections (a) and (b), and subsection (c), shall take effect on the 
+date of the enactment of this Act and shall apply upon the earlier of--
+            (A) the date of the nomination by the President of an 
+        individual to serve in the position concerned, except that the 
+        individual serving in such position as of the date of the 
+        enactment of this Act may continue to perform such duties after 
+        such date of nomination and until the individual appointed to 
+        such position, by and with the advice and consent of the 
+        Senate, assumes the duties of such position; or
+            (B) the date of the cessation of the performance of the 
+        duties of such position by the individual performing such 
+        duties as of the date of the enactment of this Act.
+    (2) Subsection (d) shall take effect on the date of the enactment 
+of this Act.
+
+SEC. 435. CLARIFICATION OF NATIONAL SECURITY MISSIONS OF NATIONAL 
+              GEOSPATIAL-INTELLIGENCE AGENCY FOR ANALYSIS AND 
+              DISSEMINATION OF CERTAIN INTELLIGENCE INFORMATION.
+
+    Section 442(a) of title 10, United States Code, is amended--
+            (1) by redesignating paragraph (2) as paragraph (3);
+            (2) by inserting after paragraph (1) the following new 
+        paragraph (2):
+    ``(2)(A) As directed by the Director of National Intelligence, the 
+National Geospatial-Intelligence Agency shall also analyze, 
+disseminate, and incorporate into the National System for Geospatial-
+Intelligence, likenesses, videos, or presentations produced by ground-
+based platforms, including handheld or clandestine photography taken by 
+or on behalf of human intelligence collection organizations or 
+available as open-source information.
+    ``(B) The authority provided by this paragraph does not include the 
+authority to manage or direct the tasking of, set requirements and 
+priorities for, set technical requirements related to, or modify any 
+classification or dissemination limitations related to the collection 
+of, handheld or clandestine photography taken by or on behalf of human 
+intelligence collection organizations.''; and
+            (3) in paragraph (3), as so redesignated, by striking 
+        ``paragraph (1)'' and inserting ``paragraphs (1) and (2)''.
+
+SEC. 436. SECURITY CLEARANCES IN THE NATIONAL GEOSPATIAL-INTELLIGENCE 
+              AGENCY.
+
+    The Secretary of Defense shall, during the period beginning on the 
+date of the enactment of this Act and ending on December 31, 2007, 
+delegate to the Director of the National Geospatial-Intelligence Agency 
+personnel security authority with respect to the National Geospatial-
+Intelligence Agency (including authority relating to the use of 
+contractor personnel in investigations and adjudications for security 
+clearances) that is identical to the personnel security authority of 
+the Director of the National Security Agency with respect to the 
+National Security Agency.
+
+                       Subtitle D--Other Elements
+
+SEC. 441. FOREIGN LANGUAGE INCENTIVE FOR CERTAIN NON-SPECIAL AGENT 
+              EMPLOYEES OF THE FEDERAL BUREAU OF INVESTIGATION.
+
+    (a) Authority To Pay Incentive.--The Director of the Federal Bureau 
+of Investigation may pay a cash award authorized by section 4523 of 
+title 5, United States Code, in accordance with the provisions of such 
+section, to any employee of the Federal Bureau of Investigation 
+described in subsection (b) as if such employee were a law enforcement 
+officer as specified in such section.
+    (b) Covered Employees.--An employee of the Federal Bureau of 
+Investigation described in this subsection is any employee of the 
+Federal Bureau of Investigation--
+            (1) who uses foreign language skills in support of the 
+        analyses, investigations, or operations of the Bureau to 
+        protect against international terrorism or clandestine 
+        intelligence activities (or maintains foreign language skills 
+        for purposes of such support); and
+            (2) whom the Director of the Federal Bureau of 
+        Investigation, subject to the joint guidance of the Attorney 
+        General and the Director of National Intelligence, may 
+        designate for purposes of this section.
+
+SEC. 442. AUTHORITY TO SECURE SERVICES BY CONTRACT FOR THE BUREAU OF 
+              INTELLIGENCE AND RESEARCH OF THE DEPARTMENT OF STATE.
+
+    Title I of the State Department Basic Authorities Act of 1956 (22 
+U.S.C. 2651a et seq.) is amended by inserting after section 23 the 
+following new section:
+
+     ``services by contract for bureau of intelligence and research
+
+    ``Sec. 23A.  (a) Authority To Enter Into Contracts.--The Secretary 
+may enter into contracts with individuals or organizations for the 
+provision of services in support of the mission of the Bureau of 
+Intelligence and Research of the Department of State if the Secretary 
+determines that--
+            ``(1) the services to be procured are urgent or unique; and
+            ``(2) it would not be practicable for the Department to 
+        obtain such services by other means.
+    ``(b) Treatment as Employees of the United States Government.--(1) 
+Individuals employed under a contract pursuant to the authority in 
+subsection (a) shall not, by virtue of the performance of services 
+under such contract, be considered employees of the United States 
+Government for purposes of any law administered by the Office of 
+Personnel Management.
+    ``(2) The Secretary may provide for the applicability to 
+individuals described in paragraph (1) of any law administered by the 
+Secretary concerning the employment of such individuals.
+    ``(c) Contract To Be Appropriate Means of Securing Services.--The 
+chief contracting officer of the Department of State shall ensure that 
+each contract entered into by the Secretary under this section is the 
+appropriate means of securing the services to be provided under such 
+contract.''.
+
+SEC. 443. CLARIFICATION OF INCLUSION OF COAST GUARD AND DRUG 
+              ENFORCEMENT ADMINISTRATION AS ELEMENTS OF THE 
+              INTELLIGENCE COMMUNITY.
+
+    Section 3(4) of the National Security Act of 1947 (50 U.S.C. 
+401a(4)) is amended--
+            (1) in subparagraph (H)--
+                    (A) by inserting ``the Coast Guard,'' after ``the 
+                Marine Corps,''; and
+                    (B) by inserting ``the Drug Enforcement 
+                Administration,'' after ``the Federal Bureau of 
+                Investigation,''; and
+            (2) in subparagraph (K), by striking ``, including the 
+        Office of Intelligence of the Coast Guard''.
+
+SEC. 444. CLARIFYING AMENDMENTS RELATING TO SECTION 105 OF THE 
+              INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2004.
+
+    Section 105(b) of the Intelligence Authorization Act for Fiscal 
+Year 2004 (Public Law 108-177; 117 Stat. 2603; 31 U.S.C. 311 note) is 
+amended--
+            (1) by striking ``Director of Central Intelligence'' and 
+        inserting ``Director of National Intelligence''; and
+            (2) by inserting ``or in section 313 of such title,'' after 
+        ``subsection (a)),''.
+
+                         TITLE V--OTHER MATTERS
+
+SEC. 501. TECHNICAL AMENDMENTS TO THE NATIONAL SECURITY ACT OF 1947.
+
+    The National Security Act of 1947 (50 U.S.C. 401 et seq.) is 
+amended as follows:
+            (1) In section 102A (50 U.S.C. 403-1)--
+                    (A) in subsection (c)(7)(A), by striking 
+                ``section'' and inserting ``subsection'';
+                    (B) in subsection (d)--
+                            (i) in paragraph (3), by striking 
+                        ``subparagraph (A)'' in the matter preceding 
+                        subparagraph (A) and inserting ``paragraph 
+                        (1)(A)'';
+                            (ii) in paragraph (5)(A), by striking ``or 
+                        personnel'' in the matter preceding clause (i); 
+                        and
+                            (iii) in paragraph (5)(B), by striking ``or 
+                        agency involved'' in the second sentence and 
+                        inserting ``involved or the Director of the 
+                        Central Intelligence Agency (in the case of the 
+                        Central Intelligence Agency)'';
+                    (C) in subsection (l)(2)(B), by striking 
+                ``section'' and inserting ``paragraph''; and
+                    (D) in subsection (n), by inserting ``and Other'' 
+                after ``Acquisition''.
+            (2) In section 119(c)(2)(B) (50 U.S.C. 404o(c)(2)(B)), by 
+        striking ``subsection (h)'' and inserting ``subsection (i)''.
+            (3) In section 705(e)(2)(D)(i) (50 U.S.C. 
+        432c(e)(2)(D)(i)), by striking ``responsible'' and inserting 
+        ``responsive''.
+
+SEC. 502. TECHNICAL CLARIFICATION OF CERTAIN REFERENCES TO JOINT 
+              MILITARY INTELLIGENCE PROGRAM AND TACTICAL INTELLIGENCE 
+              AND RELATED ACTIVITIES.
+
+    Section 102A of the National Security Act of 1947 (50 U.S.C. 403-1) 
+is amended--
+            (1) in subsection (c)(3)(A), by striking ``annual budgets 
+        for the Joint Military Intelligence Program and for Tactical 
+        Intelligence and Related Activities'' and inserting ``annual 
+        budget for the Military Intelligence Program or any successor 
+        program or programs''; and
+            (2) in subsection (d)(1)(B), by striking ``Joint Military 
+        Intelligence Program'' and inserting ``Military Intelligence 
+        Program or any successor program or programs''.
+
+SEC. 503. TECHNICAL AMENDMENTS TO THE INTELLIGENCE REFORM AND TERRORISM 
+              PREVENTION ACT OF 2004.
+
+    (a) Amendments to National Security Intelligence Reform Act of 
+2004.--The National Security Intelligence Reform Act of 2004 (title I 
+of Public Law 108-458) is further amended as follows:
+            (1) In section 1016(e)(10)(B) (6 U.S.C. 458(e)(10)(B)), by 
+        striking ``Attorney General'' the second place it appears and 
+        inserting ``Department of Justice''.
+            (2) In section 1061 (5 U.S.C. 601 note)--
+                    (A) in subsection (d)(4)(A), by striking ``National 
+                Intelligence Director'' and inserting ``Director of 
+                National Intelligence''; and
+                    (B) in subsection (h), by striking ``National 
+                Intelligence Director'' and inserting ``Director of 
+                National Intelligence''.
+            (3) In section 1071(e), by striking ``(1)''.
+            (4) In section 1072(b), by inserting ``Agency'' after 
+        ``Intelligence''.
+    (b) Other Amendments to Intelligence Reform and Terrorism 
+Prevention Act of 2004.--The Intelligence Reform and Terrorism 
+Prevention Act of 2004 (Public Law 108-458) is amended as follows:
+            (1) In section 2001 (28 U.S.C. 532 note)--
+                    (A) in subsection (c)(1), by inserting ``of'' 
+                before ``an institutional culture'';
+                    (B) in subsection (e)(2), by striking ``the 
+                National Intelligence Director in a manner consistent 
+                with section 112(e)'' and inserting ``the Director of 
+                National Intelligence in a manner consistent with 
+                applicable law''; and
+                    (C) in subsection (f), by striking ``shall,'' in 
+                the matter preceding paragraph (1) and inserting 
+                ``shall''.
+            (2) In section 2006 (28 U.S.C. 509 note)--
+                    (A) in paragraph (2), by striking ``the Federal'' 
+                and inserting ``Federal''; and
+                    (B) in paragraph (3), by striking ``the specific'' 
+                and inserting ``specific''.
+
+SEC. 504. TECHNICAL AMENDMENTS TO TITLE 10, UNITED STATES CODE, ARISING 
+              FROM ENACTMENT OF THE INTELLIGENCE REFORM AND TERRORISM 
+              PREVENTION ACT OF 2004.
+
+    (a) References to Head of Intelligence Community.--Title 10, United 
+States Code, is amended by striking ``Director of Central 
+Intelligence'' each place it appears in a provision as follows and 
+inserting ``Director of National Intelligence'':
+            (1) Section 193(d)(2).
+            (2) Section 193(e).
+            (3) Section 201(a).
+            (4) Section 201(b)(1).
+            (5) Section 201(c)(1).
+            (6) Section 425(a).
+            (7) Section 431(b)(1).
+            (8) Section 441(c).
+            (9) Section 441(d).
+            (10) Section 443(d).
+            (11) Section 2273(b)(1).
+            (12) Section 2723(a).
+    (b) Clerical Amendments.--Such title is further amended by striking 
+``Director of Central Intelligence'' each place it appears in a 
+provision as follows and inserting ``Director of National 
+Intelligence'':
+            (1) Section 441(c).
+            (2) Section 443(d).
+    (c) Reference to Head of Central Intelligence Agency.--Section 444 
+of such title is amended by striking ``Director of Central 
+Intelligence'' each place it appears and inserting ``Director of the 
+Central Intelligence Agency''.
+
+SEC. 505. TECHNICAL AMENDMENT TO THE CENTRAL INTELLIGENCE AGENCY ACT OF 
+              1949.
+
+    Section 5(a)(1) of the Central Intelligence Agency Act of 1949 (50 
+U.S.C. 403f(a)(1)) is amended by striking ``authorized under paragraphs 
+(2) and (3) of section 102(a), subsections (c)(7) and (d) of section 
+103, subsections (a) and (g) of section 104, and section 303 of the 
+National Security Act of 1947 (50 U.S.C. 403(a)(2), (3), 403-3(c)(7), 
+(d), 403-4(a), (g), and 405)'' and inserting ``authorized under 
+subsections (d), (e), (f), and (g) of section 104A of the National 
+Security Act of 1947 (50 U.S.C. 403-4a).''.
+
+SEC. 506. TECHNICAL AMENDMENTS RELATING TO THE MULTIYEAR NATIONAL 
+              INTELLIGENCE PROGRAM.
+
+    (a) In General.--Subsection (a) of section 1403 of the National 
+Defense Authorization Act for Fiscal Year 1991 (50 U.S.C. 404b) is 
+amended--
+            (1) in the subsection caption, by striking ``Foreign''; and
+            (2) by striking ``foreign'' each place it appears.
+    (b) Responsibility of DNI.--That section is further amended--
+            (1) in subsections (a) and (c), by striking ``Director of 
+        Central Intelligence'' and inserting ``Director of National 
+        Intelligence''; and
+            (2) in subsection (b), by inserting ``of National 
+        Intelligence'' after ``Director''.
+    (c) Conforming Amendment.--The heading of that section is amended 
+to read as follows:
+
+``SEC. 1403. MULTIYEAR NATIONAL INTELLIGENCE PROGRAM.''.
+
+SEC. 507. TECHNICAL AMENDMENTS TO THE EXECUTIVE SCHEDULE.
+
+    (a) Executive Schedule Level II.--Section 5313 of title 5, United 
+States Code, is amended by striking the item relating to the Director 
+of Central Intelligence and inserting the following new item:
+            ``Director of the Central Intelligence Agency.''.
+    (b) Executive Schedule Level III.--Section 5314 of title 5, United 
+States Code, is amended by striking the item relating to the Deputy 
+Directors of Central Intelligence.
+    (c) Executive Schedule Level IV.--Section 5315 of title 5, United 
+States Code, is amended by striking the item relating to the General 
+Counsel of the Office of the National Intelligence Director and 
+inserting the following new item:
+            ``General Counsel of the Office of the Director of National 
+        Intelligence.''.
+
+SEC. 508. TECHNICAL AMENDMENTS RELATING TO REDESIGNATION OF THE 
+              NATIONAL IMAGERY AND MAPPING AGENCY AS THE NATIONAL 
+              GEOSPATIAL-INTELLIGENCE AGENCY.
+
+    (a) Title 5, United States Code.--(1) Title 5, United States Code, 
+is amended by striking ``National Imagery and Mapping Agency'' each 
+place it appears in a provision as follows and inserting ``National 
+Geospatial-Intelligence Agency'':
+            (A) Section 2302(a)(2)(C)(ii).
+            (B) Section 3132(a)(1)(B).
+            (C) Section 4301(1) (in clause (ii)).
+            (D) Section 4701(a)(1)(B).
+            (E) Section 5102(a)(1) (in clause (x)).
+            (F) Section 5342(a)(1) (in clause (K)).
+            (G) Section 6339(a)(1)(E).
+            (H) Section 7323(b)(2)(B)(i)((XIII).
+    (2) Section 6339(a)(2)(E) of such title is amended by striking 
+``National Imagery and Mapping Agency, the Director of the National 
+Imagery and Mapping Agency'' and inserting ``National Geospatial-
+Intelligence Agency, the Director of the National Geospatial-
+Intelligence Agency''.
+    (b) Title 44, United States Code.--(1)(A) Section 1336 of title 44, 
+United States Code, is amended by striking ``National Imagery and 
+Mapping Agency'' both places it appears and inserting ``National 
+Geospatial-Intelligence Agency''.
+    (B) The heading of such section is amended to read as follows:
+``Sec. 1336. National Geospatial-Intelligence Agency: special 
+              publications''.
+    (2) The table of sections at the beginning of chapter 13 of such 
+title is amended by striking the item relating to section 1336 and 
+inserting the following new item:
+
+``1336. National Geospatial-Intelligence Agency: special 
+                            publications.''.
+    (c) Homeland Security Act of 2002.--Section 201(f)(2)(E) of the 
+Homeland Security Act of 2002 (6 U.S.C. 121(f)(2)(E)) is amended by 
+striking ``National Imagery and Mapping Agency'' and inserting 
+``National Geospatial-Intelligence Agency''.
+    (d) Inspector General Act of 1978.--Section 8H of the Inspector 
+General Act of 1978 (5 U.S.C. App.) is amended by striking ``National 
+Imagery and Mapping Agency'' each place it appears and inserting 
+``National Geospatial-Intelligence Agency''.
+    (e) Ethics in Government Act of 1978.--Section 105(a)(1) of the 
+Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking 
+``National Imagery and Mapping Agency'' and inserting ``National 
+Geospatial-Intelligence Agency''.
+    (f) Other Acts.--(1) Section 7(b)(2)(A)(i) of the Employee 
+Polygraph Protection Act of 1988 (29 U.S.C. 2006(b)(2)(A)(i)) is 
+amended by striking ``National Imagery and Mapping Agency'' and 
+inserting ``National Geospatial-Intelligence Agency''.
+    (2) Section 207(a)(2)(B) of the Legislative Branch Appropriations 
+Act, 1993 (44 U.S.C. 501 note) is amended by striking ``National 
+Imagery and Mapping Agency'' and inserting ``National Geospatial-
+Intelligence Agency''.
+                                                        Calendar No. 20
+
+110th CONGRESS
+
+  1st Session
+
+                                 S. 372
+
+                           [Report No. 110-2]
+
+                           [Report No. 110-5]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To authorize appropriations for fiscal year 2007 for the intelligence 
+ and intelligence-related activities of the United States Government, 
+    the Intelligence Community Management Account, and the Central 
+  Intelligence Agency Retirement and Disability System, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                            February 8, 2007
+
+                       Reported without amendment

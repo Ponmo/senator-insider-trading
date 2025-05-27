@@ -1,0 +1,2224 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1753 Placed on Calendar Senate (PCS)]
+
+
+
+
+
+
+                                                       Calendar No. 312
+108th CONGRESS
+  1st Session
+                                S. 1753
+
+                          [Report No. 108-166]
+
+  To amend the Fair Credit Reporting Act in order to prevent identity 
+ theft, to improve the use of and consumer access to consumer reports, 
+ to enhance the accuracy of consumer reports, to limit the sharing of 
+   certain consumer information, to improve financial education and 
+                   literacy, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 17, 2003
+
+Mr. Shelby, from the Committee on Banking, Housing, and Urban Affairs, 
+ reported the following original bill; which was read twice and placed 
+                            on the calendar
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Fair Credit Reporting Act in order to prevent identity 
+ theft, to improve the use of and consumer access to consumer reports, 
+ to enhance the accuracy of consumer reports, to limit the sharing of 
+   certain consumer information, to improve financial education and 
+                   literacy, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``National Consumer 
+Credit Reporting System Improvement Act of 2003''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+   TITLE I--IDENTITY THEFT PREVENTION AND CREDIT HISTORY RESTORATION
+
+                 Subtitle A--Identity Theft Prevention
+
+Sec. 111. Definitions.
+Sec. 112. Fraud alerts and active duty alerts.
+Sec. 113. Truncation of credit card and debit card account numbers.
+Sec. 114. Establishment of procedures for the identification of 
+                            possible instances of identity theft.
+Sec. 115. Amendments to existing identity theft prohibition.
+Subtitle B--Protection and Restoration of Identity Theft Victim Credit 
+                                History
+
+Sec. 151. Summary of rights of identity theft victims.
+Sec. 152. Blocking of information resulting from identity theft.
+Sec. 153. Coordination of identity theft complaint investigations.
+Sec. 154. Prevention of repollution of consumer reports.
+Sec. 155. Notice by debt collectors with respect to fraudulent 
+                            information.
+Sec. 156. Statute of limitations.
+    TITLE II--IMPROVEMENTS IN USE OF AND CONSUMER ACCESS TO CREDIT 
+                              INFORMATION
+
+Sec. 211. Free credit reports.
+Sec. 212. Credit scores.
+Sec. 213. Enhanced disclosure of the means available to opt out of 
+                            prescreened lists.
+Sec. 214. Affiliate sharing.
+Sec. 215. Study of effects of credit scores and credit-based insurance 
+                            scores on availability and affordability of 
+                            financial products.
+    TITLE III--ENHANCING THE ACCURACY OF CONSUMER REPORT INFORMATION
+
+Sec. 311. Notice with respect to counter offers.
+Sec. 312. Procedures to enhance the accuracy and completeness of 
+                            information furnished to consumer reporting 
+                            agencies.
+Sec. 313. Federal Trade Commission and consumer reporting agency action 
+                            concerning complaints.
+Sec. 314. Ongoing audits of the accuracy of consumer reports.
+Sec. 315. Improved disclosure of the results of reinvestigation.
+Sec. 316. Reconciling addresses.
+Sec. 317. FTC study of issues relating to the Fair Credit Reporting 
+                            Act.
+ TITLE IV--LIMITING THE USE AND SHARING OF MEDICAL INFORMATION IN THE 
+                            FINANCIAL SYSTEM
+
+Sec. 411. Protection of medical information in the financial system.
+Sec. 412. Confidentiality of medical contact information in consumer 
+                            reports.
+         TITLE V--FINANCIAL LITERACY AND EDUCATION IMPROVEMENT
+
+Sec. 511. Short title.
+Sec. 512. Definitions.
+Sec. 513. Establishment of Financial Literacy and Education Commission.
+Sec. 514. Duties of the Commission.
+Sec. 515. Powers of the Commission.
+Sec. 516. Commission personnel matters.
+Sec. 517. Study by the Comptroller General.
+Sec. 518. Authorization of appropriations.
+                    TITLE VI--RELATION TO STATE LAW
+
+Sec. 611. Relation to State law.
+                        TITLE VII--MISCELLANEOUS
+
+Sec. 711. Clerical amendments.
+
+   TITLE I--IDENTITY THEFT PREVENTION AND CREDIT HISTORY RESTORATION
+
+                 Subtitle A--Identity Theft Prevention
+
+SEC. 111. DEFINITIONS.
+
+    Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is 
+amended by adding at the end the following:
+    ``(q) Definitions Relating to Fraud Alerts.--
+            ``(1) Active duty military consumer.--The term `active duty 
+        military consumer' means a consumer in military service who--
+                    ``(A) is on active duty (as defined in section 
+                101(d)(1) of title 10, United States Code) or is a 
+                reservist performing duty under a call or order to 
+                active duty under a provision of law referred to in 
+                section 101(a)(13) of title 10, United States Code; and
+                    ``(B) is assigned to service away from the usual 
+                duty station of the consumer.
+            ``(2) Fraud alert; active duty alert.--The terms `fraud 
+        alert' and `active duty alert' mean a statement in the file of 
+        a consumer that--
+                    ``(A) notifies all prospective users of a consumer 
+                report relating to the consumer that the consumer may 
+                be a victim of fraud, including identity theft, or is 
+                an active duty military consumer, as applicable;
+                    ``(B) provides to all prospective users of a 
+                consumer report relating to the consumer, a telephone 
+                number or other reasonable contact method designated by 
+                the consumer for the user to obtain authorization from 
+                the consumer before establishing new credit (including 
+                providing any increase in a credit limit with respect 
+                to an existing credit account) in the name of the 
+                consumer; and
+                    ``(C) is presented in a manner that facilitates a 
+                clear and conspicuous view of the statement by any 
+                person requesting such file, or any portion thereof.
+    ``(r) Credit Card.--The term `credit card' has the same meaning as 
+in section 103 of the Truth in Lending Act.
+    ``(s) Debit Card.--The term `debit card' means any card issued by a 
+financial institution to a consumer for use in initiating an electronic 
+fund transfer from the account of the consumer at such financial 
+institution, for the purpose of transferring money between accounts or 
+obtaining money, property, labor, or services.
+    ``(t) Account and Electronic Fund Transfer.--The terms `account' 
+and `electronic fund transfer' have the same meanings as in section 903 
+of the Electronic Fund Transfer Act.
+    ``(u) Creditor--The terms `credit' and `creditor' have the same 
+meanings as in section 103 of the Truth in Lending Act.
+    ``(v) Federal Banking Agencies.--The term `Federal banking 
+agencies' has the same meaning as in section 3 of the Federal Deposit 
+Insurance Act.
+    ``(w) Financial Institution.--The term `financial institution' 
+means a State or National bank, a State or Federal savings and loan 
+association, a mutual savings bank, a State or Federal credit union, or 
+any other person that, directly or indirectly, holds an account 
+belonging to a consumer.
+    ``(x) Reseller.--The term `reseller' means a consumer reporting 
+agency that--
+            ``(1) assembles and merges information contained in the 
+        database of another consumer reporting agency or multiple 
+        consumer reporting agencies concerning any consumer for 
+        purposes of furnishing such information to any third party, to 
+        the extent of such activities; and
+            ``(2) does not maintain a database of the assembled or 
+        merged information from which new consumer reports are 
+        produced.
+    ``(y) Definitions Relating to Credit Scores.--
+            ``(1) Credit score and key factors.--When used in 
+        connection with an application for an extension of credit for a 
+        consumer purpose that is to be secured by a dwelling--
+                    ``(A) the term `credit score'--
+                            ``(i) means a numerical value or 
+                        categorization derived from a statistical tool 
+                        or modeling system used to predict the 
+                        likelihood of certain credit behaviors, 
+                        including default; and
+                            ``(ii) does not include--
+                                    ``(I) any mortgage score or rating 
+                                of an automated underwriting system 
+                                that considers 1 or more factors in 
+                                addition to credit information, 
+                                including the loan-to-value ratio, the 
+                                amount of down payment, or the 
+                                financial assets of a consumer; or
+                                    ``(II) other elements of the 
+                                underwriting process or underwriting 
+                                decision; and
+                    ``(B) the term `key factors' means all relevant 
+                elements or reasons affecting the credit score for a 
+                consumer, listed in the order of their importance, 
+                based on their respective effects on the credit score.
+            ``(2) Dwelling.--The term `dwelling' has the same meaning 
+        as in section 103 of the Truth in Lending Act.
+    ``(z) Identity Theft Report.--The term `identity theft report' 
+means a report--
+            ``(1) that alleges an identity theft;
+            ``(2) that is filed by a consumer with an appropriate 
+        Federal, State, or local government agency, including the 
+        United States Postal Inspection Service and any law enforcement 
+        agency; and
+            ``(3) the filing of which subjects the person filing the 
+        report to criminal penalties relating to the filing of false 
+        information if, in fact, the information in the report is 
+        false.''.
+
+SEC. 112. FRAUD ALERTS AND ACTIVE DUTY ALERTS.
+
+    The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended 
+by inserting after section 605 the following:
+``Sec. 605A. Identity theft prevention; fraud alerts and active duty 
+              alerts
+    ``(a) One-Call Fraud Alerts.--
+            ``(1) Initial alerts.--Upon the request of a consumer who 
+        asserts in good faith a suspicion that the consumer has been or 
+        is about to become a victim of fraud or related crime, 
+        including identity theft, a consumer reporting agency described 
+        in section 603(p) that maintains a file on the consumer and has 
+        received appropriate proof of the identity of the requester 
+        shall--
+                            ``(A) include a fraud alert in the file of 
+                        that consumer for a period of not less than 90 
+                        days, beginning on the date of such request, 
+                        unless the consumer requests that such fraud 
+                        alert be removed before the end of such period, 
+                        and the agency has received appropriate proof 
+                        of the identity of the requester for such 
+                        purpose; and
+                            ``(B) refer the information regarding the 
+                        fraud alert under this paragraph to each of the 
+                        other consumer reporting agencies described in 
+                        section 603(p), in accordance with procedures 
+                        developed under section 621(f).
+            ``(2) Access to free reports.--In any case in which a 
+        consumer reporting agency includes a fraud alert in the file of 
+        a consumer pursuant to this subsection, the consumer reporting 
+        agency shall--
+                    ``(A) disclose to the consumer that the consumer 
+                may request a free copy of the file of the consumer 
+                pursuant to section 612(d); and
+                    ``(B) provide to the consumer all disclosures 
+                required to be made under section 609, without charge 
+                to the consumer, not later than 3 business days after 
+                any request described in subparagraph (A).
+    ``(b) Extended Alerts.--
+            ``(1) In general.--Upon the request of a consumer who 
+        submits an identity theft report to a consumer reporting agency 
+        described in section 603(p) that maintains a file on the 
+        consumer, if the agency has received appropriate proof of the 
+        identity of the requester, the agency shall--
+                    ``(A) include a fraud alert in the file of that 
+                consumer during the 7-year period beginning on the date 
+                of such request, unless the consumer requests that such 
+                fraud alert be removed before the end of such period 
+                and the agency has received appropriate proof of the 
+                identity of the requester for such purpose;
+                    ``(B) during the 7-year period beginning on the 
+                date of such request, exclude the consumer from any 
+                list of consumers prepared by the consumer reporting 
+                agency and provided to any third party to offer credit 
+                or insurance to the consumer as part of a transaction 
+                that was not initiated by the consumer, unless the 
+                consumer requests that such exclusion be rescinded 
+                before the end of such period; and
+                    ``(C) refer the information regarding the extended 
+                fraud alert under this paragraph to each of the other 
+                consumer reporting agencies described in section 
+603(p), in accordance with procedures developed under section 621(f).
+            ``(2) Verification of identity theft claim.--For purposes 
+        of paragraph (1), a consumer reporting agency shall accept as 
+        proof of a claim of identity theft, in lieu of an identity 
+        theft report--
+                    ``(A) a properly completed copy of a standardized 
+                affidavit of identity theft developed and made 
+                available by the Federal Trade Commission; or
+                    ``(B) any affidavit of fact that is acceptable to 
+                the consumer reporting agency for that purpose.
+            ``(3) Access to free reports.--In any case in which a 
+        consumer reporting agency includes a fraud alert in the file of 
+        a consumer pursuant to this subsection, the consumer reporting 
+        agency shall--
+                    ``(A) disclose to the consumer that the consumer 
+                may request 2 free copies of the file of the consumer 
+                pursuant to section 612(d) during the 12-month period 
+                beginning on the date on which the fraud alert was 
+                included in the file; and
+                    ``(B) provide to the consumer all disclosures 
+                required to be made under section 609, without charge 
+                to the consumer, not later than 3 business days after 
+                any request described in subparagraph (A).
+    ``(c) Active Duty Alerts.--Upon the request of an active duty 
+military consumer, a consumer reporting agency described in section 
+603(p) that maintains a file on the active duty military consumer and 
+has received appropriate proof of the identity of the requester shall--
+            ``(1) include an active duty alert in the file of that 
+        active duty military consumer during a period of not less than 
+        12 months, beginning on the date of the request, unless the 
+        active duty military consumer requests that such fraud alert be 
+        removed before the end of such period, and the agency has 
+        received appropriate proof of the identity of the requester for 
+        such purpose;
+            ``(2) during the 12-month period beginning on the date of 
+        such request, exclude the active duty military consumer from 
+        any list of consumers prepared by the consumer reporting agency 
+        and provided to any third party to offer credit or insurance to 
+        the consumer as part of a transaction that was not initiated by 
+        the consumer, unless the consumer requests that such exclusion 
+        be rescinded before the end of such period; and
+            ``(3) refer the information regarding the active duty alert 
+        to each of the other consumer reporting agencies described in 
+        section 603(p), in accordance with procedures developed under 
+        section 621(f).
+    ``(d) Procedures.--Each consumer reporting agency described in 
+section 603(p) shall establish policies and procedures to comply with 
+this section, including procedures that allow consumers and active duty 
+military consumers to request temporary, extended, or active duty 
+alerts (as applicable) in a simple and easy manner, including by 
+telephone.
+    ``(e) Referrals of Fraud Alerts.--Each consumer reporting agency 
+described in section 603(p) that receives a referral of a fraud alert 
+or active duty alert from another consumer reporting agency pursuant to 
+this section shall, as though the agency received the request from the 
+consumer directly, follow the procedures required under--
+            ``(1) paragraphs (1)(A) and (2) of subsection (a), in the 
+        case of a referral under subsection (a)(1)(B);
+            ``(2) paragraphs (1)(A), (1)(B), and (3) of subsection (b), 
+        in the case of a referral under subsection (b)(1)(C); and
+            ``(3) paragraphs (1) and (2) of subsection (c), in the case 
+        of a referral under subsection (c)(3).
+    ``(f) Duty of Reseller To Reconvey Alert.--A reseller shall include 
+in its report any fraud alert or active duty alert placed in the file 
+of a consumer pursuant to this section by another consumer reporting 
+agency.
+    ``(g) Duty of Other Consumer Reporting Agencies To Provide Contact 
+Information.--If a consumer contacts any consumer reporting agency that 
+is not described in section 603(p) to communicate a suspicion that the 
+consumer has been or is about to become a victim of fraud or related 
+crime, including identity theft, the agency shall provide information 
+to the consumer on how to contact the Commission and the consumer 
+reporting agencies described in section 603(p) to obtain more detailed 
+information and request alerts under this section.''.
+
+SEC. 113. TRUNCATION OF CREDIT CARD AND DEBIT CARD ACCOUNT NUMBERS.
+
+    Section 605 of the Fair Credit Reporting Act (15 U.S.C. 1681c) is 
+amended by adding at the end the following:
+    ``(g) Truncation of Credit Card and Debit Card Numbers.--
+            ``(1) In general.--Except as otherwise specifically 
+        provided in this subsection, no person that accepts credit 
+        cards or debit cards for the transaction of business shall 
+        print more than the last 5 digits of the card account number or 
+        the expiration date upon any receipt provided to the cardholder 
+        at the point of the sale or transaction.
+            ``(2) Limitation.--This subsection applies only to receipts 
+        that are electronically printed, and does not apply to 
+        transactions in which the sole means of recording a credit card 
+        or debit card account number is by handwriting or by an imprint 
+        or copy of the card.
+            ``(3) Effective date.--This subsection shall become 
+        effective--
+                    ``(A) 3 years after the date of enactment of this 
+                subsection, with respect to any cash register or other 
+                machine or device that electronically prints receipts 
+                for credit card or debit card transactions that is in 
+                use before January 1, 2005; and
+                    ``(B) 1 year after the date of enactment of this 
+                subsection, with respect to any cash register or other 
+                machine or device that electronically prints receipts 
+                for credit card or debit card transactions that is 
+                first put into use on or after January 1, 2005.''.
+
+SEC. 114. ESTABLISHMENT OF PROCEDURES FOR THE IDENTIFICATION OF 
+              POSSIBLE INSTANCES OF IDENTITY THEFT.
+
+    (a) In General.--Section 615 of the Fair Credit Reporting Act (15 
+U.S.C. 1681m) is amended--
+            (1) by striking ``(e)'' at the end; and
+            (2) by adding at the end the following:
+    ``(e) Red Flag Guidelines and Regulations Required.--
+            ``(1) Guidelines.--The Federal banking agencies, the 
+        National Credit Union Administration, and the Federal Trade 
+        Commission shall, with respect to the entities that are subject 
+        to their respective enforcement authority under section 621, 
+        and in coordination as described in paragraph (2)--
+                    ``(A) establish and maintain guidelines for use by 
+                each financial institution and each other person that 
+                is a creditor or other user of a consumer report 
+                regarding identity theft with respect to account 
+                holders at, or customers of, such entities, and update 
+                such guidelines as often as necessary; and
+                    ``(B) prescribe regulations requiring each 
+                financial institution and each other person that is a 
+                creditor or other user of a consumer report to 
+                establish reasonable policies and procedures for 
+                implementing the guidelines established pursuant to 
+                paragraph (1), to identify possible risks to account 
+                holders or to the safety and soundness of the 
+                institution or customers.
+            ``(2) Coordination.--Each agency required to prescribe 
+        regulations under paragraph (1) shall consult and coordinate 
+        with each other such agency so that, to the extent possible, 
+        the regulations prescribed by each such entity are consistent 
+        and comparable with the regulations prescribed by each other 
+        such agency.
+            ``(3) Criteria.--In developing the guidelines required by 
+        paragraph (1)(A), the agencies described in paragraph (1) shall 
+        identify patterns, practices, and specific forms of activity 
+        that indicate the possible existence of identity theft.
+            ``(4) Consistency with verification requirements.--Policies 
+        and procedures established pursuant to paragraph (1) shall not 
+        be inconsistent with, or duplicative of, the policies and 
+        procedures required under section 5318(l) of title 31, United 
+        States Code.
+    ``(f) Investigation of Changes of Address.--
+            ``(1) In general.--The Federal banking agencies, the 
+        National Credit Union Administration, and the Federal Trade 
+        Commission, in carrying out the responsibilities of such 
+        agencies under subsection (e) shall, with respect to the 
+        entities that are subject to their respective enforcement 
+        authority under section 621, and in coordination as described 
+        in paragraph (2), prescribe regulations applicable to card 
+        issuers to ensure that, if any such card issuer receives a 
+        request for an additional or replacement card for an existing 
+        account not later than 30 days after the card issuer has 
+        received notification of a change of address for the same 
+        account, the card issuer will follow reasonable policies and 
+        procedures that prohibit, as appropriate, the card issuer from 
+        issuing the additional or replacement card, unless the card 
+        issuer--
+                    ``(A) notifies the cardholder of the request at the 
+                former address of the cardholder and provides to the 
+                cardholder a means of promptly reporting incorrect 
+                address changes;
+                    ``(B) notifies the cardholder of the request by 
+                such other means of communication as the cardholder and 
+                the card issuer previously agreed to; or
+                    ``(C) uses other means of assessing the validity of 
+                the change of address, in accordance with reasonable 
+                policies and procedures established by the card issuer 
+                in accordance with the regulations prescribed under 
+                subsection (e).
+            ``(2) Coordination.--Each agency required to prescribe 
+        regulations under paragraph (1) shall consult and coordinate 
+        with each other such agency so that, to the extent possible, 
+        the regulations prescribed by each such entity are consistent 
+        and comparable with the regulations prescribed by each other 
+        such agency.
+            ``(3) Definition of card issuer.--For purposes of this 
+        subsection, the term `card issuer' means--
+                    ``(A) any person who issues a credit card, or the 
+                agent of such person with respect to such card; and
+                    ``(B) any person who issues a debit card.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect 1 year after the date of enactment of this Act.
+
+SEC. 115. AMENDMENTS TO EXISTING IDENTITY THEFT PROHIBITION.
+
+    Section 1028 of title 18, United States Code, is amended--
+            (1) in subsection (a)(7)--
+                    (A) by striking ``transfers'' and inserting 
+                ``transfers, possesses,''; and
+                    (B) by striking ``abet,'' and inserting ``abet, or 
+                in connection with,'';
+            (2) in subsection (b)(1)(D), by striking ``transfer'' and 
+        inserting ``transfer, possession,''; and
+            (3) in subsection (b)(2), by striking ``three years'' and 
+        inserting ``5 years''.
+
+Subtitle B--Protection and Restoration of Identity Theft Victim Credit 
+                                History
+
+SEC. 151. SUMMARY OF RIGHTS OF IDENTITY THEFT VICTIMS.
+
+    (a) In General.--Section 609 of the Fair Credit Reporting Act (15 
+U.S.C. 1681g) is amended by adding at the end the following:
+    ``(d) Summary of Rights of Identity Theft Victims.--
+            ``(1) In general.--The Federal Trade Commission, in 
+        consultation with the Federal banking agencies and the National 
+        Credit Union Administration, shall prepare a model summary of 
+        the rights of consumers under this title with respect to the 
+        procedures for remedying the effects of fraud or identity theft 
+        involving credit, electronic fund transfers, or accounts or 
+transactions at or with a financial institution.
+            ``(2) Summary of rights and contact information.--If any 
+        consumer contacts a consumer reporting agency and expresses a 
+        belief that the consumer is a victim of fraud or identity theft 
+        involving credit, an electronic fund transfer, or an account or 
+        transaction at or with a financial institution, the consumer 
+        reporting agency shall, in addition to any other action that 
+        the agency may take, provide the consumer with the model 
+        summary of rights prepared by the Commission under paragraph 
+        (1) and information on how to contact the Commission to obtain 
+        more detailed information.''.
+    (b) Public Campaign To Prevent Identity Theft.--Not later than 2 
+years after the date of enactment of this Act, the Federal Trade 
+Commission shall establish and implement a media and distribution 
+campaign to teach the public how to prevent identity theft. Such 
+campaign shall include existing Federal Trade Commission education 
+materials, as well as radio, television, and print public service 
+announcements, video cassettes, interactive digital video discs (DVD's) 
+or compact audio discs (CD's), and Internet resources.
+    (c) Conforming Amendment.--Section 624(b)(3) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681t(b)(3), regarding relation to State laws) 
+is amended by striking ``section 609(c)'' and inserting ``subsection 
+(c) or (d) of section 609''.
+
+SEC. 152. BLOCKING OF INFORMATION RESULTING FROM IDENTITY THEFT.
+
+    (a) In General.--The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+seq.) is amended by inserting after section 605A, as added by this Act, 
+the following:
+``Sec. 605B. Block of information resulting from identity theft
+    ``(a) Block.--Except as otherwise provided in this section, a 
+consumer reporting agency shall block the reporting of any information 
+in the file of a consumer that the consumer identifies as information 
+that resulted from an alleged identity theft, not later than 3 business 
+days after the date of receipt by such agency of--
+            ``(1) appropriate proof of the identity of the consumer;
+            ``(2) a copy of an identity theft report; and
+            ``(3) the identification of such information by the 
+        consumer.
+    ``(b) Notification.--A consumer reporting agency shall promptly 
+notify the furnisher of information identified by the consumer under 
+subsection (a)--
+            ``(1) that the information may be a result of identity 
+        theft;
+            ``(2) that an identity theft report has been filed;
+            ``(3) that a block has been requested under this section; 
+        and
+            ``(4) of the effective dates of the block.
+    ``(c) Authority To Decline or Rescind.--
+            ``(1) In general.--A consumer reporting agency may decline 
+        to block, or may rescind any block, of information relating to 
+        a consumer under this section, if the consumer reporting agency 
+        reasonably determines that--
+                    ``(A) the information was blocked in error or a 
+                block was requested by the consumer in error;
+                    ``(B) the information was blocked, or a block was 
+                requested by the consumer, on the basis of a material 
+                misrepresentation of fact relevant to the request to 
+                block; or
+                    ``(C) the consumer obtained possession of goods, 
+                services, or money as a result of the blocked 
+                transaction or transactions.
+            ``(2) Notification to consumer.--If a block of information 
+        is declined or rescinded under this subsection, the affected 
+        consumer shall be notified promptly, in the same manner as 
+        consumers are notified of the reinsertion of information under 
+        section 611(a)(5)(B).
+            ``(3) Significance of block.--For purposes of this 
+        subsection, if a consumer reporting agency rescinds a block, 
+        the presence of information in the file of a consumer prior to 
+        the blocking of such information is not evidence of whether the 
+        consumer knew or should have known that the consumer obtained 
+        possession of any goods, services, or money as a result of the 
+        block.
+    ``(d) Exception for Resellers.--
+            ``(1) No reseller file.--This section shall not apply to a 
+        consumer reporting agency, if the consumer reporting agency--
+                    ``(A) is a reseller;
+                    ``(B) is not, at the time of the request of the 
+                consumer under subsection (a), otherwise furnishing or 
+                reselling a consumer report concerning the information 
+                identified by the consumer; and
+                    ``(C) informs the consumer, by any means, that the 
+                consumer may report the identity theft to the 
+                Commission to obtain consumer information regarding 
+                identity theft.
+            ``(2) Reseller with file.--The sole obligation of the 
+        consumer reporting agency under this section, with regard to 
+        any request of a consumer under this section, shall be to block 
+        the consumer report maintained by the consumer reporting agency 
+        from any subsequent use, if--
+                    ``(A) the consumer, in accordance with the 
+                provisions of subsection (a), identifies, to a consumer 
+                reporting agency, information in the file of the 
+                consumer that resulted from identity theft; and
+                    ``(B) the consumer reporting agency is a reseller 
+                of the identified information.
+            ``(3) Notice.--In carrying out its obligation under 
+        paragraph (2), the reseller shall promptly provide a notice to 
+        the consumer of the decision to block the file. Such notice 
+        shall contain the name, address, and telephone number of each 
+        consumer reporting agency from which the consumer information 
+        was obtained for resale.
+    ``(e) Exception for Verification Companies.--The provisions of this 
+section do not apply to a check services company, acting as such, which 
+issues authorizations for the purpose of approving or processing 
+negotiable instruments, electronic fund transfers, or similar methods 
+of payments, except that, beginning 3 business days after receipt of 
+information described in paragraphs (1) through (3) of subsection (a), 
+a check services company shall not report to a national consumer 
+reporting agency described in section 603(p), any information 
+identified in the subject identity theft report as resulting from 
+identity theft.
+    ``(f) Access to Blocked Information By Law Enforcement Agencies.--
+No provision of this section shall be construed as requiring a consumer 
+reporting agency to prevent a Federal, State, or local law enforcement 
+agency from accessing blocked information in a consumer file to which 
+the agency could otherwise obtain access under this title.''.
+    (b) Clerical Amendment.--The table of sections for the Fair Credit 
+Reporting Act (15 U.S.C. 1681 et seq.) is amended by inserting after 
+the item relating to section 605 the following new items:
+
+``605A. Identity theft prevention; fraud alerts and active duty alerts.
+``605B. Block of information resulting from identity theft.''.
+
+SEC. 153. COORDINATION OF IDENTITY THEFT COMPLAINT INVESTIGATIONS.
+
+    Section 621 of the Fair Credit Reporting Act (15 U.S.C. 1681s) is 
+amended by adding at the end the following:
+    ``(f) Coordination of Consumer Complaint Investigations.--
+            ``(1) In general.--Each consumer reporting agency described 
+        in section 603(p) shall develop and maintain procedures for the 
+        referral to each other such agency of any consumer complaint 
+        received by the agency alleging identity theft, or requesting a 
+        fraud alert under section 605A or a block under section 605B.
+            ``(2) Model form and procedure for reporting identity 
+        theft.--The Federal Trade Commission, in consultation with the 
+        Federal banking agencies and the National Credit Union 
+        Administration, shall develop a model form and model procedures 
+        to be used by consumers who are victims of identity theft for 
+        contacting and informing creditors and consumer reporting 
+        agencies of the fraud.
+            ``(3) Annual summary reports.--Each consumer reporting 
+        agency described in section 603(p) shall submit an annual 
+        summary report to the Commission on consumer complaints 
+        received by the agency on identity theft or fraud alerts.''.
+
+SEC. 154. PREVENTION OF REPOLLUTION OF CONSUMER REPORTS.
+
+    (a) Prevention of Reinsertion of Erroneous Information.--
+            (1) Duties of furnishers upon notice of identity theft-
+        related disputes.--Section 623(b) of the Fair Credit Reporting 
+        Act (15 U.S.C. 1681s-2(b)) is amended--
+                    (A) by redesignating paragraph (2) as paragraph 
+                (3);
+                    (B) by inserting after paragraph (1) the following:
+            ``(2) Duties of furnishers upon notice of identity theft-
+        related disputes.--A person that furnishes information to any 
+        consumer reporting agency shall--
+                    ``(A) have in place reasonable procedures to 
+                respond to any notification from a consumer reporting 
+                agency under section 605B relating to information 
+                resulting from identity theft, to prevent that person 
+                from refurnishing such information; and
+                    ``(B) take the actions described in subparagraphs 
+                (A) through (D) of paragraph (1), if such person 
+                receives directly from a consumer, an identity theft 
+                report or a properly completed copy of a standardized 
+                affidavit of identity theft developed and made 
+                available by the Federal Trade Commission.''; and
+                    (C) in paragraph (3), as redesignated, by striking 
+                ``paragraph (1)'' and inserting ``this subsection''.
+            (2) Conforming amendments relating to notice of identity 
+        theft directly from consumers.--Section 623(b)(1) of the Fair 
+        Credit Reporting Act (15 U.S.C. 1681s-2(b)(1)) is amended--
+                    (A) in the matter preceding subparagraph (A), by 
+                inserting ``or as described in paragraph (2)(B),'' 
+                after ``agency,'';
+                    (B) subparagraph (B), by inserting before the 
+                semicolon the following: ``, and by the consumer, and 
+                other documentation reasonably available to the person 
+                that is necessary to conduct a reasonable 
+                investigation''; and
+                    (C) in subparagraph (C), by inserting before the 
+                semicolon at the end the following:
+                ``, and to the consumer, if notice of the dispute was 
+                received directly from the consumer, as described in 
+                paragraph (2)(B)''.
+    (b) Prohibition on Sale or Transfer of Debt Caused by Identity 
+Theft.--Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m), 
+as amended by this Act, is amended by adding at the end the following:
+    ``(g) Prohibition on Sale or Transfer of Debt Caused by Identity 
+Theft.--
+            ``(1) In general.--No person shall sell, transfer for 
+        consideration, or place for collection a debt that such person 
+        has been notified under section 605B has resulted from identity 
+        theft.
+            ``(2) Applicability.--The prohibitions of this subsection 
+        shall apply to all persons collecting a debt described in 
+        paragraph (1) after the date of a notification under paragraph 
+        (1).
+            ``(3) Rule of construction.--Nothing in this subsection 
+        shall be construed to prohibit--
+                    ``(A) the repurchase of a debt in any case in which 
+                the assignee of the debt requires such repurchase 
+                because the debt has resulted from identity theft;
+                    ``(B) the securitization of a debt; or
+                    ``(C) the transfer of debt as a result of a merger, 
+                acquisition, purchase and assumption transaction, or 
+                transfer of substantially all of the assets of an 
+                entity.''.
+
+SEC. 155. NOTICE BY DEBT COLLECTORS WITH RESPECT TO FRAUDULENT 
+              INFORMATION.
+
+    Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m), as 
+amended by this Act, is amended by adding at the end the following:
+    ``(h) Debt Collector Communications Concerning Identity Theft.--If 
+a person acting as a debt collector (as that term is defined in title 
+VIII) on behalf of a third party that is a creditor or other user of a 
+consumer report is notified that any information relating to a debt 
+that the person is attempting to collect may be fraudulent or may be 
+the result of identity theft, that person shall--
+            ``(1) notify the third party that the information may be 
+        fraudulent or may be the result of identity theft; and
+            ``(2) upon request of the consumer to whom the debt 
+        purportedly relates, provide to the consumer all information to 
+        which the consumer would otherwise be entitled if the consumer 
+        were not a victim of identity theft, but wished to dispute the 
+        debt under provisions of law applicable to that person.''.
+
+SEC. 156. STATUTE OF LIMITATIONS.
+
+    Section 618 of the Fair Credit Reporting Act (15 U.S.C. 1681p) is 
+amended to read as follows:
+``Sec. 618. Jurisdiction of courts; limitation of actions
+    ``An action to enforce any liability created under this title may 
+be brought in any appropriate United States district court, without 
+regard to the amount in controversy, or in any other court of competent 
+jurisdiction, not later than the earlier of--
+            ``(1) 2 years after the date of discovery by the plaintiff 
+        of the violation that is the basis for such liability; or
+            ``(2) 7 years after the date on which the violation that is 
+        the basis for such liability occurs.''.
+
+    TITLE II--IMPROVEMENTS IN USE OF AND CONSUMER ACCESS TO CREDIT 
+                              INFORMATION
+
+SEC. 211. FREE CREDIT REPORTS.
+
+    (a) In General.--Section 612 of the Fair Credit Reporting Act (15 
+U.S.C. 1681j) is amended--
+            (1) by redesignating subsection (a) as subsection (f), and 
+        transferring it to the end of the section;
+            (2) by inserting before subsection (b) the following:
+    ``(a) Free Annual Disclosure.--
+            ``(1) In general.--A consumer reporting agency described in 
+        section 603(p) shall make all disclosures pursuant to section 
+        609 once during any 12-month period upon request of the 
+        consumer and without charge to the consumer, only if the 
+        request is made by mail or through an Internet website using 
+        the centralized system and the standardized form established 
+        for such requests in accordance with section 211(c) of the 
+        National Consumer Credit Reporting System Improvement Act of 
+        2003.
+            ``(2) Timing.--A consumer reporting agency shall provide a 
+        consumer report under paragraph (1) not later than 15 days 
+        after the date on which the request is received under paragraph 
+        (1).
+            ``(3) Reinvestigations.--Notwithstanding the time periods 
+        specified in section 611(a)(1), a reinvestigation under that 
+        section by a consumer reporting agency upon a request of a 
+        consumer that is made after receiving a consumer report under 
+        this subsection shall be completed not later than 45 days after 
+        the date on which the request is received.'';
+            (3) by redesignating subsection (d) as subsection (e);
+            (4) by inserting before subsection (e), as redesignated, 
+        the following:
+    ``(d) Free Disclosures in Connection With Fraud Alerts.--Upon the 
+request of a consumer, a consumer reporting agency described in section 
+603(p) shall make all disclosures pursuant to section 609 without 
+charge to the consumer, as provided in subsections (a)(2) and (b)(3) of 
+section 605A, as applicable.'';
+            (5) in subsection (e), as redesignated, by striking 
+        ``subsection (a)'' and inserting ``subsection (f)''; and
+            (6) in subsection (f), as redesignated, by striking 
+        ``Except as provided in subsections (b), (c), and (d), a'' and 
+        inserting ``In the case of a request from a consumer other than 
+        a request that is covered by any of subsections (a) through 
+        (d), a''.
+    (b) Summary of Rights To Obtain and Dispute Information in Consumer 
+Reports and To Obtain Credit Scores.--Section 609(c) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681g) is amended to read as follows:
+    ``(c) Summary of Rights To Obtain and Dispute Information in 
+Consumer Reports and To Obtain Credit Scores.--
+            ``(1) Commission summary of rights required.--
+                    ``(A) In general.--The Federal Trade Commission 
+                shall prepare a model summary of the rights of 
+                consumers under this title.
+                    ``(B) Content of summary.--The summary of rights 
+                prepared under subparagraph (A) shall include a 
+                description of--
+                            ``(i) the right of a consumer to obtain a 
+                        copy of a consumer report under subsection (a) 
+                        from each consumer reporting agency;
+                            ``(ii) the frequency and circumstances 
+                        under which a consumer is entitled to receive a 
+                        consumer report without charge under section 
+                        612;
+                            ``(iii) the right of a consumer to dispute 
+                        information in the file of the consumer under 
+                        section 611;
+                            ``(iv) the right of a consumer to obtain a 
+                        credit score from a consumer reporting agency, 
+                        and a description of how to obtain a credit 
+                        score; and
+                            ``(v) the method by which a consumer can 
+                        contact, and obtain a consumer report from, a 
+                        consumer reporting agency without charge, as 
+                        provided in the regulations of the Commission 
+                        prescribed under section 211(c) of the National 
+                        Consumer Credit Reporting System Improvement 
+                        Act of 2003.
+                    ``(C) Availability of summary of rights.--The 
+                Federal Trade Commission shall--
+                            ``(i) actively publicize the availability 
+                        of the summary of rights prepared under this 
+                        paragraph;
+                            ``(ii) conspicuously post on its Internet 
+                        website the availability of such summary of 
+                        rights; and
+                            ``(iii) promptly make such summary of 
+                        rights available to consumers, on request.
+            ``(2) Summary of rights required to be included with agency 
+        disclosures.--A consumer reporting agency shall provide to a 
+        consumer, with each written disclosure by the agency to the 
+        consumer under this section--
+                    ``(A) the summary of rights prepared by the Federal 
+                Trade Commission under paragraph (1);
+                    ``(B) in the case of a consumer reporting agency 
+                described in section 603(p), a toll-free telephone 
+                number established by the agency, at which personnel 
+                are accessible to consumers during normal business 
+                hours;
+                    ``(C) a list of all Federal agencies responsible 
+                for enforcing any provision of this title, and the 
+                address and any appropriate phone number of each such 
+                agency, in a form that will assist the consumer in 
+                selecting the appropriate agency;
+                    ``(D) a statement that the consumer may have 
+                additional rights under State law, and that the 
+                consumer may wish to contact a State or local consumer 
+                protection agency or a State attorney general (or the 
+                equivalent thereof) to learn of those rights; and
+                    ``(E) a statement that a consumer reporting agency 
+                is not required to remove accurate derogatory 
+                information from the file of a consumer, unless the 
+                information is outdated under section 605 or cannot be 
+                verified.''.
+    (c) Rulemaking Required.--
+            (1) In general.--The Federal Trade Commission shall 
+        prescribe regulations applicable to consumer reporting agencies 
+        described in section 603(p) of the Fair Credit Reporting Act to 
+        require the establishment of--
+                    (A) a centralized source, through which consumers 
+                may obtain a consumer report from each consumer 
+                reporting agency described in that section 603(p) using 
+                a single request and without charge to the consumer, as 
+                provided in section 612(a) of the Fair Credit Reporting 
+                Act (as amended by this Act);
+                    (B) a standardized form for a consumer to make such 
+                a request for a consumer report by mail or through an 
+                Internet website; and
+                    (C) streamlined methods by which such a consumer 
+                reporting agency shall provide such consumer reports, 
+                after consideration of--
+                            (i) the significant demands that may be 
+                        placed on consumer reporting agencies in 
+                        providing such consumer reports;
+                            (ii) appropriate means to ensure that 
+                        consumer reporting agencies can satisfactorily 
+                        meet those demands, including the efficacy of a 
+                        system of staggering the availability to 
+                        consumers of such consumer reports using a 
+                        quarterly method based on the birth month of 
+                        the consumer; and
+                            (iii) the ease by which consumers should be 
+                        able to contact consumer reporting agencies 
+                        with respect to access to such consumer 
+                        reports.
+            (2) Timing.--Regulations required by this subsection 
+        shall--
+                    (A) be issued in final form not later than 6 months 
+                after the date of enactment of this Act; and
+                    (B) become effective not later than 6 months after 
+                the date on which they are issued in final form.
+    (d) Effective Date.--The amendments made by subsections (a) and (b) 
+shall become effective on the effective date of the regulations 
+prescribed by the Commission in accordance with subsection (c).
+
+SEC. 212. CREDIT SCORES.
+
+    (a) Duties of Consumer Reporting Agencies To Disclose Credit 
+Scores.--
+            (1) In general.--Section 609(a) of the Fair Credit 
+        Reporting Act (15 U.S.C. 1681g(a)) is amended by adding at the 
+        end the following:
+            ``(6) In connection with an application for an extension of 
+        credit for a consumer purpose that is to be secured by a 
+        dwelling--
+                    ``(A) the current, or most recent, credit score of 
+                the consumer that was previously calculated by the 
+                agency;
+                    ``(B) the range of possible credit scores under the 
+                model used;
+                    ``(C) the key factors, if any, not to exceed 4, 
+                that adversely affected the credit score of the 
+                consumer in the model used;
+                    ``(D) the date on which the credit score was 
+                created; and
+                    ``(E) the name of the person or entity that 
+                provided the credit score or the credit file on the 
+                basis of which the credit score was created.''.
+            (2) Limitations on required provision of credit score.--
+        Section 609 of the Fair Credit Reporting Act (15 U.S.C. 1681g), 
+        as amended by this Act, is amended by adding at the end the 
+        following:
+    ``(e) Limitations on Required Provision of Credit Score.--
+            ``(1) In general.--Subsection (a)(6) may not be construed--
+                    ``(A) to compel a consumer reporting agency to 
+                develop or disclose a credit score if the agency does 
+                not, in the ordinary course of its business--
+                            ``(i) distribute scores that are used in 
+                        connection with extensions of credit secured by 
+                        residential real property; or
+                            ``(ii) develop credit scores that assist 
+                        creditors in understanding the general credit 
+                        behavior of the consumer and predicting future 
+                        credit behavior;
+                    ``(B) to require a consumer reporting agency that 
+                distributes credit scores developed by another person 
+                or entity to provide a further explanation of those 
+                scores, or to process a dispute arising pursuant to 
+                section 611(a), except that the consumer reporting 
+                agency shall be required to provide to the consumer the 
+                name and information for contacting the person or 
+                entity that developed the score;
+                    ``(C) to require a consumer reporting agency to 
+                maintain credit scores in its files; or
+                    ``(D) to compel disclosure of a credit score, 
+                except upon specific request of the consumer, except 
+                that if a consumer requests the credit file and not the 
+                credit score, then the consumer shall be provided with 
+                the credit file and a statement that the consumer may 
+                request and obtain a credit score.
+            ``(2) Provision of scoring model.--In complying with 
+        subsection (a)(6) and this subsection, a consumer reporting 
+        agency shall supply to the consumer--
+                    ``(A) a credit score that is derived from a credit 
+                scoring model that is widely distributed to users of 
+                credit scores by that consumer reporting agency in 
+                connection with any extension of credit secured by a 
+                dwelling; or
+                    ``(B) a credit score that assists the consumer in 
+                understanding the credit scoring assessment of the 
+                credit behavior of the consumer and predictions about 
+                future credit behavior.''.
+            (3) Conforming amendment.--Section 609(a)(1) of the Fair 
+        Credit Reporting Act (15 U.S.C. 1681g(a)(1)) is amended by 
+        inserting before the period ``, other than as provided in 
+        paragraph (6)''.
+    (b) Duties of Users of Credit Scores.--
+            (1) In general.--Section 615 of the Fair Credit Reporting 
+        Act (15 U.S.C. 1681m), as amended by this Act, is amended by 
+        adding at the end the following:
+    ``(i) Duties of Users of Credit Scores.--
+            ``(1) Disclosures.--Any person that makes or arranges 
+        extensions of credit for consumer purposes that are to be 
+        secured by a dwelling and that uses credit scores for that 
+        purpose, shall be required to provide to the consumer to whom 
+        the credit score relates, as soon as is reasonably practicable 
+        after such use--
+                    ``(A) a copy of the information described in 
+                section 609(a)(6) that was obtained from a consumer 
+                reporting agency or that was developed and used by that 
+                user of the credit score information; or
+                    ``(B) if the user of the credit score information 
+                obtained such information from a third party that 
+                developed such information, (other than a consumer 
+                reporting agency or the user itself) only--
+                            ``(i) a copy of the information described 
+                        in section 609(a)(6) provided to the user by 
+                        the person or entity that developed the credit 
+                        score; and
+                            ``(ii) a notice that generally describes 
+                        credit scores, their use, and the sources and 
+                        kinds of data used to generate credit scores.
+            ``(2) Rule of construction.--This subsection may not be 
+        construed to require the user of a credit score described in 
+        paragraph (1)--
+                    ``(A) to explain to the consumer the information 
+                provided pursuant to section 609(a)(6), unless that 
+                information was developed by the user;
+                    ``(B) to disclose any information other than a 
+                credit score or the key factors required to be 
+                disclosed under section 609(a)(6)(C);
+                    ``(C) to disclose any credit score or related 
+                information obtained by the user after a transaction 
+                occurs; or
+                    ``(D) to provide more than 1 disclosure under this 
+                subsection to any 1 consumer per credit transaction.
+            ``(3) Limitation.--Except as otherwise provided in this 
+        subsection, the obligation of a user of a credit score under 
+        this subsection shall be limited solely to providing a copy of 
+        the information that was received from the consumer reporting 
+        agency or other person. A user of a credit score has no 
+        liability under this subsection for the content of credit score 
+        information received from a consumer reporting agency or for 
+        the omission of any information within the report provided by 
+        the consumer reporting agency.''.
+            (2) Conforming amendment.--Section 615 of the Fair Credit 
+        Reporting Act (15 U.S.C. 1681m) is amended in the section 
+        heading, by adding at the end the following: ``and credit 
+        scores''.
+    (c) Contractual Liability.--Section 616 of the Fair Credit 
+Reporting Act (15 U.S.C. 1681n) is amended by adding at the end the 
+following:
+    ``(d) Use of Credit Scores.--Any provision of any contract that 
+prohibits the disclosure of a credit score by a consumer reporting 
+agency or a person who makes or arranges extensions of credit to the 
+consumer to whom the credit score relates is void. A user of a credit 
+score shall not have liability under any such contractual provision for 
+disclosure of a credit score.''.
+    (d) Relation to State Laws.--Section 624(b)(1) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681t(b)(1), regarding relation to State laws) 
+is amended--
+            (1) in subparagraph (E), by striking ``or'' at the end; and
+            (2) by adding at the end the following:
+                    ``(G) subsections (a)(6) and (e) of section 609, 
+                relating to the disclosure of credit scores by consumer 
+                reporting agencies in connection with an application 
+                for an extension of credit that is to be secured by a 
+                dwelling; or
+                    ``(H) section 615(i), relating to the duties of 
+                users of credit scores to disclose credit score 
+                information to consumers in connection with an 
+                application for an extension of credit that is to be 
+                secured by a dwelling;''.
+    (e) Effective Date.--The amendments made by this section shall 
+become effective 180 days after the date of enactment of this Act.
+
+SEC. 213. ENHANCED DISCLOSURE OF THE MEANS AVAILABLE TO OPT OUT OF 
+              PRESCREENED LISTS.
+
+    (a) Notice and Response Format for Users of Reports.--Section 
+615(d)(2) of the Fair Credit Reporting Act (15 U.S.C. 1681m(d)(2)) is 
+amended to read as follows:
+            ``(2) Disclosure of address and telephone number; format.--
+        A statement under paragraph (1) shall--
+                    ``(A) include the address and toll-free telephone 
+                number of the appropriate notification system 
+                established under section 604(e); and
+                    ``(B) be presented in such format and in such type 
+                size and manner as is established by the Federal Trade 
+                Commission, by rule, in consultation with the Federal 
+                banking agencies and the National Credit Union 
+                Administration.''.
+    (b) Rulemaking Schedule.--Regulations required by section 615(d)(2) 
+of the Fair Credit Reporting Act, as amended by this section, shall be 
+issued in final form not later than 1 year after the date of enactment 
+of this Act.
+    (c) Duration of Elections.--Section 604(e) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681b(e)) is amended in each of paragraphs 
+(3)(A) and (4)(B)(i)), by striking ``2-year period'' each place that 
+term appears and inserting ``7-year period''.
+    (d) Public Awareness Campaign.--The Federal Trade Commission shall 
+actively publicize and conspicuously post on its website any address 
+and the toll-free telephone number established as part of a 
+notification system for opting out of prescreening under section 
+604(e), and otherwise take measures to increase public awareness 
+regarding the availability of the right to opt out of prescreening.
+
+SEC. 214. AFFILIATE SHARING.
+
+    (a) Limitation.--The Fair Credit Reporting Act (15 U.S.C. 1601 et 
+seq.) is amended--
+            (1) by redesignating section 624 (regarding relation to 
+        State laws), as so designated by section 2413(b) of the 
+        Consumer Credit Reporting Reform Act of 1996 (110 Stat. 3009-
+        447), as section 625;
+            (2) by redesignating section 624 (regarding disclosures to 
+        FBI for counterintelligence purposes), as added by section 
+        601(a) of the Intelligence Authorization Act for Fiscal Year 
+        1996 (Public Law 104-93; 109 Stat. 974) (15 U.S.C. 1681u)), as 
+        section 626; and
+            (3) by inserting after section 623 the following:
+
+``SEC. 624. AFFILIATE SHARING.
+
+    ``(a) Special Rule for Solicitation for Purposes of Marketing.--
+            ``(1) Notice.--Any person that receives from another person 
+        related to it by common ownership or affiliated by corporate 
+        control a communication of information that would be a consumer 
+        report, except for clauses (i) through (iii) of section 
+        603(d)(2)(A), may not use the information to make a 
+        solicitation for marketing purposes to a consumer about its 
+        products or services, unless--
+                    ``(A) it is clearly and conspicuously disclosed to 
+                the consumer that the information may be communicated 
+                among such persons for purposes of making solicitations 
+                to the consumer; and
+                    ``(B) the consumer is provided an opportunity and a 
+                simple method to prohibit the making of such 
+                solicitations to the consumer by such person.
+            ``(2) Consumer choice.--
+                    ``(A) In general.--The notice required under 
+                paragraph (1) shall allow the consumer the opportunity 
+                to prohibit all solicitation for marketing purposes, 
+                and may allow the consumer to choose from different 
+                options when electing to prohibit the sending of 
+                solicitations, including options regarding the types of 
+                entities and information covered, and which methods of 
+delivering solicitations the consumer elects to prohibit.
+                    ``(B) Format.--Notwithstanding subparagraph (A), 
+                the notice required under paragraph (1) must be clear, 
+                conspicuous, and concise, and any method provided under 
+                paragraph (1)(B) must be simple. The regulations 
+                prescribed to implement this section shall provide 
+                specific guidance regarding how to comply with such 
+                standards.
+            ``(3) Duration.--The election of the consumer pursuant to 
+        paragraph (1)(B) to prohibit the sending of solicitations shall 
+        be effective for 5 years, beginning on the date on which the 
+        person receives the election of the consumer, unless the 
+        consumer requests that such election be revoked before the end 
+        of such period. At such time as the election of the consumer 
+        pursuant to paragraph (1)(B) is no longer effective, a person 
+        may not use information it receives as described in paragraph 
+        (1) to make a solicitation for marketing purposes to such 
+        consumer unless the consumer receives a notice and an 
+        opportunity to extend the opt out for another period of 5 
+        years, pursuant to the procedure described in paragraph (1).
+            ``(4) Scope.--This section shall not apply to a person--
+                    ``(A) using information to make a solicitation for 
+                marketing purposes to a consumer with whom the person 
+                has a pre-existing business relationship;
+                    ``(B) using information to perform services on 
+                behalf of another person related by common ownership or 
+                affiliated by corporate control, except that this 
+                subparagraph shall not permit a person to send 
+                solicitations on behalf of another person if such other 
+                person would not be permitted to send the solicitation 
+                on its own behalf as a result of the election of the 
+                consumer to prohibit solicitations under paragraph 
+                (1)(B);
+                    ``(C) using information in direct response to a 
+                communication initiated by the consumer in which the 
+                consumer has requested information about a product or 
+                service; or
+                    ``(D) using information to directly respond to 
+                solicitations authorized or requested by the consumer.
+    ``(b) Notice for Other Purposes Permissible.--A notice or other 
+disclosure that is equivalent to the notice required by subsection (a), 
+and that is provided by a person described in subsection (a) to a 
+consumer together with disclosures required by any other provision of 
+law shall satisfy the requirements of subsection (a).''.
+    (b) Rulemaking Required.--
+            (1) In general.--The Federal banking agencies, the National 
+        Credit Union Administration, and the Federal Trade Commission 
+        shall, with respect to the entities that are subject to their 
+        respective enforcement authority under section 621 of the Fair 
+        Credit Reporting Act, and in coordination as described in 
+        paragraph (2), prescribe regulations to implement section 624 
+        of the Fair Credit Reporting Act, as added by this section.
+            (2) Coordination.--Each agency required to prescribe 
+        regulations under paragraph (1) shall consult and coordinate 
+        with each other such agency so that, to the extent possible, 
+        the regulations prescribed by each such entity are consistent 
+        and comparable with the regulations prescribed by each other 
+        such agency.
+            (3) Considerations.--In promulgating regulations under this 
+        subsection, the Commission shall--
+                    (A) ensure that affiliate sharing notification 
+                methods provide a simple means for consumers to make 
+                determinations and choices under section 624 of the 
+                Fair Credit Reporting Act, as added by this section; 
+                and
+                    (B) consider the affiliate sharing notification 
+                practices employed on the date of enactment of this Act 
+                by persons that will be subject to that section 624.
+            (4) Timing.--Regulations required by this subsection 
+        shall--
+                    (A) be issued in final form not later than 6 months 
+                after the date of enactment of this Act; and
+                    (B) become effective not later than 3 months after 
+                the date on which they are issued in final form.
+    (c) Conforming Amendment.--Section 603(d)(2)(A) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681a(d)(2)(A)) is amended by inserting 
+``subject to section 624,'' after ``(A)''.
+    (d) Clerical Amendment.--The Fair Credit Reporting Act (15 U.S.C. 
+1681 et seq.) is amended in the table of sections, by striking the 
+items following the item relating to section 623 and inserting the 
+following:
+
+``624. Affiliate sharing.
+``625. Relation to State laws.
+``626. Disclosures to FBI for counterintelligence purposes.''.
+    (e) Studies of Information Sharing Practices.--
+            (1) In general.--The Federal banking agencies, the National 
+        Credit Union Administration, and the Federal Trade Commission 
+        shall jointly conduct regular studies of the consumer 
+        information sharing practices by financial institutions and 
+        other persons that are creditors or users of consumer reports 
+        with their affiliates.
+            (2) Matters for study.--In conducting the studies required 
+        by paragraph (1), the agencies described in paragraph (1) 
+        shall--
+                    (A) identify--
+                            (i) the purposes for which financial 
+                        institutions and other creditors and users of 
+                        consumer reports share consumer information;
+                            (ii) the types of information shared by 
+                        such entities with their affiliates;
+                            (iii) the number of choices provided to 
+                        consumers with respect to the control of such 
+                        sharing, and the degree to and manner in which 
+                        consumers exercise such choices, if at all; and
+                            (iv) whether such entities share or may 
+                        share personally identifiable transaction or 
+                        experience information with affiliates for 
+                        purposes--
+                                    (I) that are related to employment 
+                                or hiring, including whether the person 
+                                that is the subject of such information 
+                                is given notice of such sharing, and 
+                                the specific uses of such shared 
+                                information; or
+                                    (II) of general publication of such 
+                                information; and
+                    (B) specifically examine the information sharing 
+                practices that financial institutions and other 
+                creditors and users of consumer reports and their 
+                affiliates employ for the purpose of making 
+                underwriting decisions or credit evaluations of 
+                consumers.
+            (3) Reports.--
+                    (A) Initial report.--Not later than 3 years after 
+                the date of enactment of this Act, the Federal banking 
+                agencies, the National Credit Union Administration, and 
+                the Federal Trade Commission shall jointly submit a 
+                report to the Congress on the results of the initial 
+                study conducted in accordance with this subsection, 
+                together with any recommendations for legislative or 
+                regulatory action.
+                    (B) Followup reports.--The Federal banking 
+                agencies, the National Credit Union Administration, and 
+                the Federal Trade Commission shall, not less frequently 
+                than once every 3 years following the date of 
+                submission of the initial report under subparagraph 
+                (A), jointly submit a report to the Congress that, 
+                together with any recommendations for legislative or 
+                regulatory action--
+                            (i) documents any changes in the areas of 
+                        study referred to in paragraph (2)(A) occurring 
+                        since the date of submission of the previous 
+                        report;
+                            (ii) identifies any changes in the 
+                        practices of financial institutions and other 
+                        creditors and users of consumer reports in 
+                        sharing consumer information with their 
+                        affiliates for the purpose of making 
+                        underwriting decisions or credit evaluations of 
+                        consumers occurring since the date of 
+                        submission of the previous report; and
+                            (iii) examines the effects that changes 
+                        described in clause (ii) have had, if any, on 
+                        the degree to which such affiliate sharing 
+                        practices reduce the need for financial 
+                        institutions, creditors, and other users of 
+                        consumer reports to rely on credit reports for 
+                        such decisions.
+    (f) Definitions.--As used in this section--
+            (1) the terms ``consumer'', ``consumer report'', ``consumer 
+        reporting agency'', ``creditor'', ``Federal banking agencies'', 
+        and ``financial institution'', have the same meanings as in 
+        section 603 of the Fair Credit Reporting Act, as amended by 
+        this Act; and
+            (2) the term ``affiliates'' means persons that are related 
+        by common ownership or affiliated by corporate control.
+
+SEC. 215. STUDY OF EFFECTS OF CREDIT SCORES AND CREDIT-BASED INSURANCE 
+              SCORES ON AVAILABILITY AND AFFORDABILITY OF FINANCIAL 
+              PRODUCTS.
+
+    (a) Defined Term.--As used in this section, the term ``credit 
+score'' means a numerical value or a categorization derived from a 
+statistical tool or modeling system used to predict the likelihood of 
+certain credit or insurance behaviors, including default.
+    (b) Study Required.--The Federal Trade Commission shall conduct a 
+study of--
+            (1) the effects of the use of credit scores and credit-
+        based insurance scores on the availability and affordability of 
+        financial products and services, including credit cards, 
+        mortgages, auto loans, and property and casualty insurance;
+            (2) the degree of correlation between the factors 
+        considered by credit score systems and the quantifiable risks 
+        and actual losses experienced by businesses, including the 
+        extent to which each of the factors considered or otherwise 
+        taken into account by such systems correlated to risk or loss;
+            (3) the extent to which the use of credit scoring models, 
+        credit scores and credit-based insurance scores benefit or 
+        negatively impact persons based on geography, income, 
+        ethnicity, race, color, religion, national origin, age, sex, 
+        marital status, or creed; and
+            (4) the extent to which credit scoring systems are used by 
+        businesses, the factors considered by such systems, and the 
+        effects of variables which are not considered by such systems.
+    (c) Public Participation.--The Commission shall seek public input 
+about the prescribed methodology and research design of the study 
+required by subsection (b).
+    (d) Report.--
+            (1) In general.--Before the end of the 18-month period 
+        beginning on the date of enactment of this Act, the Federal 
+        Trade Commission shall submit a detailed report on the study 
+        conducted under this section to the Committee on Financial 
+        Services of the House of Representatives and the Committee on 
+        Banking, Housing, and Urban Affairs of the Senate.
+            (2) Contents.--The report submitted under paragraph (1) 
+        shall include--
+                    (A) the findings and conclusions of the Commission;
+                    (B) recommendations to address specific areas of 
+                concern that were identified in the study; and
+                    (C) recommendations for legislative or 
+                administrative action that the Commission may determine 
+                to be necessary to ensure that credit and credit-based 
+                insurances score are used appropriately and fairly.
+
+    TITLE III--ENHANCING THE ACCURACY OF CONSUMER REPORT INFORMATION
+
+SEC. 311. NOTICE WITH RESPECT TO COUNTER OFFERS.
+
+    (a) Rulemaking.--Section 603(k) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681a(k)) is amended--
+            (1) in paragraph (1)(B)--
+                    (A) in clause (iii), by striking ``and'' at the 
+                end;
+                    (B) in clause (iv), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+                            ``(v) notwithstanding subparagraph (A), and 
+                        subject to regulations prescribed by the 
+                        Federal banking agencies, the National Credit 
+                        Union Administration, and the Federal Trade 
+                        Commission with respect to the entities that 
+                        are subject to their respective enforcement 
+                        authority under section 621 and in coordination 
+                        as described in paragraph (3), an extension or 
+                        grant of credit based on a counter offer by the 
+                        creditor on material terms, including interest 
+                        rate, that are materially less favorable than 
+                        the terms generally available to consumers from 
+                        the creditor, based in whole or in part on a 
+                        consumer report.''; and
+            (2) by adding at the end the following:
+            ``(3) Coordination of rulemaking.--Each agency required to 
+        prescribe regulations under paragraph (1)(B)(v) shall consult 
+        and coordinate with each other such agency so that, to the 
+        extent possible, the regulations prescribed by each such entity 
+        are consistent and comparable with the regulations prescribed 
+        by each other such agency.''.
+    (b) Rulemaking.--Regulations required by section 603(k)(1)(B)(v) of 
+the Fair Credit Reporting Act, as added by this section, shall be 
+issued in final form not later than 1 year after the date of enactment 
+of this Act.
+    (c) Effective Date.--The amendments made by subsection (a) shall 
+become effective on the effective date of regulations prescribed in 
+accordance with subsection (b).
+
+SEC. 312. PROCEDURES TO ENHANCE THE ACCURACY AND COMPLETENESS OF 
+              INFORMATION FURNISHED TO CONSUMER REPORTING AGENCIES.
+
+    (a) Accuracy Guidelines and Regulations.--Section 623 of the Fair 
+Credit Reporting Act (15 U.S.C. 15 U.S.C. 1681s-2) is amended by adding 
+at the end the following:
+    ``(e) Accuracy Guidelines and Regulations Required.--
+            ``(1) Guidelines.--The Federal banking agencies, the 
+        National Credit Union Administration, and the Federal Trade 
+        Commission shall, with respect to the entities that are subject 
+        to their respective enforcement authority under section 621, 
+        and in coordination as described in paragraph (2)--
+                    ``(A) establish and maintain guidelines for use by 
+                each person that furnishes information to a consumer 
+                reporting agency regarding the accuracy and 
+                completeness of the information relating to consumers 
+                that such entities furnish to consumer reporting 
+                agencies, and update such guidelines as often as 
+                necessary; and
+                    ``(B) prescribe regulations requiring each person 
+                that furnishes information to a consumer reporting 
+                agency to establish reasonable policies and procedures 
+                for implementing the guidelines established pursuant to 
+                subparagraph (A).
+            ``(2) Coordination.--Each agency required to prescribe 
+        regulations under paragraph (1) shall consult and coordinate 
+        with each other such agency so that, to the extent possible, 
+        the regulations prescribed by each such entity are consistent 
+        and comparable with the regulations prescribed by each other 
+        such agency.
+            ``(3) Criteria.--In developing the guidelines required by 
+        paragraph (1)(A), the agencies described in paragraph (1) 
+        shall--
+                    ``(A) identify patterns, practices, and specific 
+                forms of activity that can compromise the accuracy and 
+                completeness of information furnished to consumer 
+                reporting agencies;
+                    ``(B) review the methods (including technological 
+                means) used to furnish information relating to 
+                consumers to consumer reporting agencies;
+                    ``(C) determine whether persons that furnish 
+                information to consumer reporting agencies maintain and 
+                enforce policies to provide complete and accurate 
+                information to consumer reporting agencies; and
+                    ``(D) examine the policies and processes that 
+                persons that furnish information to consumer reporting 
+                agencies employ to conduct reinvestigations and correct 
+                inaccurate information relating to consumers that has 
+                been furnished to consumer reporting agencies.''.
+    (b) Furnisher Liability Exception.--Section 623(a)(5) of the Fair 
+Credit Reporting Act (15 U.S.C. 1681s-2(a)(5)) is amended by adding at 
+the end the following: ``For purposes of this paragraph only, and 
+subject to the requirements of this section, a person that so notifies 
+the agency may rely on the date provided by the entity to whom the 
+account was owed at the time that the delinquency occurred, provided 
+that the consumer does not dispute the information.''.
+
+SEC. 313. FEDERAL TRADE COMMISSION AND CONSUMER REPORTING AGENCY ACTION 
+              CONCERNING COMPLAINTS.
+
+    Section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i) is 
+amended by adding at the end the following:
+    ``(e) Treatment of Complaints and Report to Congress.--
+            ``(1) In general.--The Federal Trade Commission shall--
+                    ``(A) compile all complaints that it receives that 
+                a file of a consumer that is maintained by a consumer 
+                reporting agency described in section 603(p) contains 
+                incomplete or inaccurate information, with respect to 
+                which, the consumer appears to have disputed the 
+                completeness or accuracy with the consumer reporting 
+                agency or otherwise utilized the procedures provided by 
+                subsection (a); and
+                    ``(B) transmit each such complaint to each consumer 
+                reporting agency involved.
+            ``(2) Exclusion.--Complaints received or obtained by the 
+        Commission pursuant to its investigative authority under the 
+        Federal Trade Commission Act shall not be subject to this 
+        paragraph (1).
+            ``(3) Agency responsibilities.--Each consumer reporting 
+        agency described in section 603(p) that receives a complaint 
+        transmitted by the Commission pursuant to paragraph (1) shall--
+                    ``(A) review each such complaint to determine 
+                whether all legal obligations imposed on the consumer 
+                reporting agency under this title (including any 
+                obligation imposed by an applicable court or 
+                administrative order) have been met with respect to the 
+                subject matter of the complaint;
+                    ``(B) provide reports on a regular basis to the 
+                Commission regarding the determinations of and actions 
+                taken by the consumer reporting agency, if any, in 
+                connection with its review of such complaints; and
+                    ``(C) maintain, for a reasonable time period, 
+                records regarding the disposition of each such 
+                complaint that is sufficient to demonstrate compliance 
+                with this subsection.
+            ``(4) Rulemaking authority.--The Commission may prescribe 
+        regulations in accordance with the requirements of section 553 
+        of title 5, United States Code, as appropriate to implement 
+        this subsection.
+            ``(5) Annual report to congress.--The Commission shall 
+        submit to Congress an annual report regarding compliance with 
+        this subsection.''.
+
+SEC. 314. ONGOING AUDITS OF THE ACCURACY OF CONSUMER REPORTS.
+
+    (a) Audits Required.--The Board of Governors of the Federal Reserve 
+System (in this section referred to as ``the Board'') shall conduct 
+ongoing audits of the accuracy and completeness of information 
+contained in consumer reports prepared or maintained by consumer 
+reporting agencies. The Board shall independently verify the accuracy 
+and completeness of information contained in consumer reports by 
+evaluating information and data provided by consumer reporting agencies 
+(as defined in section 603 of the Fair Credit Reporting Act).
+    (b) Subject Matters.--In conducting audits under this section, the 
+Board shall examine--
+            (1) the accuracy and completeness of information contained 
+        in consumer reports, including an analysis of the type of 
+        inaccurate or incomplete information, if any, that may have the 
+        most significant impact on the availability and terms of 
+        various credit products offered to borrowers; and
+            (2) the impact, if any, of incomplete and inaccurate 
+        information on the credit and credit-based insurance scores 
+        that are most widely used to determine borrower credit 
+        worthiness and to make insurance underwriting and rating 
+        decisions, including an analysis of how, if at all, changes to 
+        credit scores resulting from inaccurate or incomplete credit 
+        reporting information affect the availability and terms of 
+        various credit products offered to borrowers.
+    (c) Biennial Reports Required.--
+            (1) In general.--The Board shall submit a report to the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        and the Committee on Financial Services of the House of 
+        Representatives at the end of the 2-year period beginning on 
+        the date of enactment of this Act. Thereafter, the Board shall 
+        conduct additional audits and submit additional reports once 
+        every 2 years.
+            (2) Contents.--Each report submitted under this subsection 
+        shall contain a detailed summary of the findings and 
+        conclusions of the Board with respect to the audits required by 
+        this section, and such recommendations for legislative and 
+        administrative action as the Board may determine to be 
+        appropriate.
+    (d) Provision of Reports to the Board for Purposes of Analysis.--
+Section 604(d) of the Fair Credit Reporting Act (12 U.S.C. 1681b(d)) is 
+amended to read as follows:
+    ``(d) Furnishing Consumer Reports for Accuracy or Compliance 
+Audits.--A consumer reporting agency shall provide consumer reports to 
+the Board of Governors of the Federal Reserve System, upon request, for 
+the purpose of conducting an accuracy or compliance audit in accordance 
+with section 314 of the National Consumer Credit Reporting System 
+Improvement Act of 2003.''.
+
+SEC. 315. IMPROVED DISCLOSURE OF THE RESULTS OF REINVESTIGATION.
+
+    (a) In General.--Section 611(a)(5)(A) of the Fair Credit Reporting 
+Act (15 U.S.C. 1681i) is amended by striking ``shall'' and all that 
+follows through the end of the subparagraph, and inserting the 
+following: ``shall--
+                            ``(i) promptly delete that item of 
+                        information from the file of the consumer, or 
+                        modify that item of information, as 
+                        appropriate, based on the results of the 
+                        reinvestigation; and
+                            ``(ii) promptly notify the furnisher of 
+                        that information that the information has been 
+                        deleted from the file of the consumer.''.
+    (b) Furnisher Requirements Relating to Inaccurate, Incomplete, or 
+Unverifiable Information.--Section 623(b)(1) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681s-2(b)(1)) is amended--
+                    (A) in subparagraph (C), by striking ``and'' at the 
+                end; and
+                    (B) in subparagraph (D), by striking the period at 
+                the end and inserting the following:
+                ``; and
+                    ``(E) if an item of any information disputed by a 
+                consumer is found to be inaccurate or incomplete or 
+                cannot be verified after any reinvestigation under 
+                paragraph (1), promptly delete that item of information 
+                from the furnisher's records or modify that item of 
+                information, as appropriate, based on the results of 
+                the reinvestigation.''.
+
+SEC. 316. RECONCILING ADDRESSES.
+
+    Section 605 of the Fair Credit Reporting Act (15 U.S.C. 1681c), as 
+amended by this Act, is amended by adding at the end the following:
+    ``(h) Notice of Discrepancy in Address.--
+            ``(1) In general.--If a person has requested a consumer 
+        report relating to a consumer from a consumer reporting agency 
+        described in section 603(p), the request includes an address 
+        for the consumer that substantially differs from the addresses 
+        in the file of the consumer, and the agency provides a consumer 
+        report in response to the request, the consumer reporting 
+        agency shall notify the requester of the existence of the 
+        discrepancy.
+            ``(2) Regulations.--
+                    ``(A) Regulations required.--The Federal banking 
+                agencies, the National Credit Union Administration, and 
+                the Federal Trade Commission shall, with respect to the 
+                entities that are subject to their respective 
+                enforcement authority under section 621, and in 
+                coordination as described in subparagraph (B), 
+                prescribe regulations providing guidance regarding 
+                reasonable policies and procedures that a user of a 
+                consumer report should employ when such user has 
+                received a notice of discrepancy under paragraph (1).
+                    ``(B) Coordination.--Each agency required to 
+                prescribe regulations under subparagraph (A) shall 
+                consult and coordinate with each other such agency so 
+                that, to the extent possible, the regulations 
+                prescribed by each such entity are consistent and 
+                comparable with the regulations prescribed by each 
+                other such agency.
+                    ``(C) Policies and procedures to be included.--The 
+                regulations prescribed under subparagraph (A) shall 
+                describe reasonable policies and procedures for use by 
+                a user of a consumer report--
+                            ``(i) to form a reasonable belief that the 
+                        user knows the identity of the person to whom 
+                        the consumer report pertains; and
+                            ``(ii) if the user establishes a continuing 
+                        relationship with the consumer, and the user 
+                        regularly and in the ordinary course of 
+                        business furnishes information to the consumer 
+                        reporting agency from which the notice of 
+                        discrepancy pertaining to the consumer was 
+                        obtained, to reconcile the address of the 
+                        consumer with the consumer reporting agency by 
+                        furnishing such address to such consumer 
+                        reporting agency as part of information 
+                        regularly furnished by the user for the period 
+                        in which the relationship is established.''.
+
+SEC. 317. FTC STUDY OF ISSUES RELATING TO THE FAIR CREDIT REPORTING 
+              ACT.
+
+    (a) Study Required.--
+            (1) In general.--The Federal Trade Commission shall conduct 
+        a study on ways to improve the operation of the Fair Credit 
+        Reporting Act.
+            (2) Areas for study.--In conducting the study under 
+        paragraph (1), the Commission shall review--
+                    (A) the efficacy of increasing the number of points 
+                of identifying information that a credit reporting 
+                agency is required to match to ensure that a consumer 
+                is the correct individual to whom a consumer report 
+                relates before releasing a consumer report to a user, 
+                including--
+                            (i) the extent to which requiring 
+                        additional points of such identifying 
+                        information to match would--
+                                    (I) enhance the accuracy of credit 
+                                reports; and
+                                    (II) combat the provision of 
+                                incorrect consumer reports to users;
+                            (ii) the extent to which requiring an exact 
+                        match of the first and last name, social 
+                        security number, and address and ZIP Code of 
+                        the consumer would enhance the likelihood of 
+                        increasing credit report accuracy; and
+                            (iii) the effects of allowing consumer 
+                        reporting agencies to use partial matches of 
+                        social security numbers and name recognition 
+                        software on the accuracy of credit reports;
+                    (B) requiring notification to consumers when 
+                negative information has been added to their credit 
+                reports, including--
+                            (i) the potential impact of such 
+                        notification on the ability of consumers to 
+                        identify errors on their credit reports; and
+                            (ii) the potential impact of such 
+                        notification on the ability of consumers to 
+                        remove fraudulent information from their credit 
+                        reports;
+                    (C) the effects of requiring that a consumer who 
+                has experienced an adverse action based on a credit 
+                report receives a copy of the same credit report that 
+                the creditor relied on in taking the adverse action, 
+                including--
+                            (i) the extent to which providing such 
+                        reports to consumers would increase the ability 
+                        of consumers to identify errors in their credit 
+                        reports; and
+                            (ii) the extent to which providing such 
+                        reports to consumers would increase the ability 
+of consumers to remove fraudulent information from their credit 
+reports;
+                    (D) any common financial transactions that are not 
+                generally reported to the consumer reporting agencies, 
+                but would provide useful information in determining the 
+                credit worthiness of consumers; and
+                    (E) any actions that might be taken within a 
+                voluntary reporting system to encourage the reporting 
+                of the types of transactions described in subparagraph 
+                (D).
+            (3) Costs and benefits.--With respect to each area of study 
+        described in paragraph (2), the Commission shall consider the 
+        extent to which such requirements would benefit consumers, 
+        balanced against the cost of implementing such provisions.
+    (b) Report Required.--Not later than 270 days after the date of 
+enactment of this Act, the chairman of the Federal Trade Commission 
+shall submit a report to the Committee on Banking, Housing, and Urban 
+Affairs of the Senate and the Committee on Financial Services of the 
+House of Representatives containing a detailed summary of the findings 
+and conclusions of the study under this section, together with such 
+recommendations for legislative or administrative actions as may be 
+appropriate.
+
+ TITLE IV--LIMITING THE USE AND SHARING OF MEDICAL INFORMATION IN THE 
+                            FINANCIAL SYSTEM
+
+SEC. 411. PROTECTION OF MEDICAL INFORMATION IN THE FINANCIAL SYSTEM.
+
+    (a) In General.--Section 604(g) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681b(g)) is amended to read as follows:
+    ``(g) Protection of Medical Information.--
+            ``(1) Limitation on consumer reporting agencies.--A 
+        consumer reporting agency shall not furnish for employment 
+        purposes, or in connection with a credit or insurance 
+        transaction, a consumer report that contains medical 
+        information about a consumer, unless--
+                    ``(A) if furnished in connection with an insurance 
+                transaction, the consumer affirmatively consents to the 
+                furnishing of the report;
+                    ``(B) if furnished for employment purposes or in 
+                connection with a credit transaction--
+                            ``(i) the information to be furnished is 
+                        relevant to process or effect the employment or 
+                        credit transaction; and
+                            ``(ii) the consumer provides specific 
+                        written consent for the furnishing of the 
+                        report that describes in clear and conspicuous 
+                        language the use for which the information will 
+                        be furnished; or
+                    ``(C) such information is restricted or reported 
+                using codes that do not identify, or provide 
+                information sufficient to infer, the specific provider 
+                or the nature of such services, products, or devices to 
+                a person other than the consumer, unless the report is 
+                being provided to an insurance company for a purpose 
+                relating to engaging in the business of insurance, 
+                other than property and casualty insurance.
+            ``(2) Limitation on creditors.--Except as permitted 
+        pursuant to paragraph (3)(C) or regulations prescribed under 
+        paragraph (5)(A), a creditor shall not obtain or use medical 
+        information pertaining to a consumer in connection with any 
+        determination of the consumer's eligibility, or continued 
+        eligibility, for credit.
+            ``(3) Actions authorized by federal law, insurance 
+        activities and regulatory determinations.--Section 603(d)(3) 
+        shall not be construed so as to treat information or any 
+        communication of information as a consumer report if the 
+        information or communication is disclosed--
+                    ``(A) in connection with the business of insurance 
+                or annuities, including the activities described in 
+                section 18B of the model Privacy of Consumer Financial 
+                and Health Information Regulation issued by the 
+                National Association of Insurance Commissioners (as in 
+                effect on January 1, 2003);
+                    ``(B) for any purpose permitted without 
+                authorization under the Standards for Individually 
+                Identifiable Health Information promulgated by the 
+                Department of Health and Human Services pursuant to the 
+                Health Insurance Portability and Accountability Act of 
+                1996, or referred to under section 1179 of such Act, or 
+                described in section 502(e) of Public Law 106-102; or
+                    ``(C) as otherwise determined to be necessary and 
+                appropriate, by regulation or order and subject to 
+                paragraph (6), by the Commission, any Federal banking 
+                agency or the National Credit Union Administration 
+                (with respect to any financial institution subject to 
+                the jurisdiction of such agency or Administration under 
+                paragraph (1), (2), or (3) of section 621(b), or the 
+                applicable State insurance authority (with respect to 
+                any person engaged in providing insurance or 
+                annuities).
+            ``(4) Limitation on redisclosure of medical information.--
+        Any person that receives medical information pursuant to 
+        paragraph (1) or (3) shall not disclose such information to any 
+        other person, except as necessary to carry out the purpose for 
+        which the information was initially disclosed, or as otherwise 
+        permitted by statute, regulation, or order.
+            ``(5) Regulations and effective date for paragraph (2).--
+                    ``(A) Regulations required.--Each Federal banking 
+                agency and the National Credit Union Administration 
+                shall, subject to paragraph (6) and after notice and 
+                opportunity for comment, prescribe regulations that 
+                permit transactions under paragraph (2) that are 
+                determined to be necessary and appropriate to protect 
+                legitimate operational, transactional, risk, consumer, 
+and other needs, consistent with the intent of paragraph (2) to 
+restrict the use of medical information for inappropriate purposes.
+                    ``(B) Final regulations required.--The Federal 
+                banking agencies and the National Credit Union 
+                Administration shall issue the regulations required 
+                under subparagraph (A) in final form before the end of 
+                the 6-month period beginning on the date of enactment 
+                of the National Consumer Credit Reporting System 
+                Improvement Act of 2003.
+            ``(6) Coordination with other laws.--No provision of this 
+        subsection shall be construed as altering, affecting, or 
+        superseding the applicability of any other provision of Federal 
+        law relating to medical confidentiality.''.
+    (b) Restriction on Sharing of Medical Information.--Section 603(d) 
+of the Fair Credit Reporting Act (15 U.S.C. 1681a(d)) is amended--
+            (1) in paragraph (2), by striking ``The term'' and 
+        inserting ``Except as provided in paragraph (3), the term''; 
+        and
+            (2) by adding at the end the following new paragraph:
+            ``(3) Restriction on sharing of medical information.--
+        Except for information or any communication of information 
+        disclosed as provided in section 604(g)(3), the exclusions in 
+        paragraph (2) shall not apply with respect to information 
+        disclosed to any person related by common ownership or 
+        affiliated by corporate control, if--
+                    ``(A) the information is medical information; or
+                    ``(B) the information is an individualized list or 
+                description based on a consumer's payment transactions 
+                for medical products or services, or an aggregate list 
+                of identified consumers based on payment transactions 
+                for medical products or services.''.
+    (c) Effective Dates.--This section shall take effect at the end of 
+the 180-day period beginning on the date of enactment of this Act, 
+except that paragraph (2) of section 604(g) of the Fair Credit 
+Reporting Act (as amended by subsection (a)) shall take effect on the 
+later of--
+            (1) the end of the 90-day period beginning on the date on 
+        which the regulations required under paragraph (5)(B) of such 
+        section 604(g) (as added by subsection (a) of this section) are 
+        issued in final form; or
+            (2) the date specified in the regulations referred to in 
+        paragraph (1).
+
+SEC. 412. CONFIDENTIALITY OF MEDICAL CONTACT INFORMATION IN CONSUMER 
+              REPORTS.
+
+    (a) Duties of Medical Information Furnishers.--Section 623(a) of 
+the Fair Credit Reporting Act (15 U.S.C. 1681s-2(a)) is amended by 
+adding at the end the following:
+            ``(6) Duty to provide notice of status as medical 
+        information furnisher.--A person whose primary business is 
+        providing medical services, products, or devices, or the 
+        person's agent or assignee, who furnishes information to a 
+        consumer reporting agency on a consumer shall be considered a 
+        medical information furnisher for purposes of this title, and 
+        shall notify the agency of such status.''.
+    (b) Restriction of Dissemination of Medical Contact Information.--
+Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is 
+amended by adding at the end the following:
+            ``(6) The name, address, and telephone number of any 
+        medical information furnisher that has notified the agency of 
+        its status, unless--
+                    ``(A) such name, address, and telephone number are 
+                restricted or reported using codes that do not 
+                identify, or provide information sufficient to infer, 
+                the specific provider or the nature of such services, 
+                products, or devices to a person other than the 
+                consumer; or
+                    ``(B) the report is being provided to an insurance 
+                company for a purpose relating to engaging in the 
+                business of insurance other than property and casualty 
+                insurance.''.
+    (c) No Exceptions Allowed for Dollar Amounts.--Section 605(b) of 
+the Fair Credit Reporting Act (15 U.S.C. 1681c(b)) is amended by 
+striking ``The provisions of subsection (a)'' and inserting ``The 
+provisions of paragraphs (1) through (5) of subsection (a)''.
+    (d) Coordination With Other Laws.--No provision of any amendment 
+made by this section shall be construed as altering, affecting, or 
+superseding the applicability of any other provision of Federal law 
+relating to medical confidentiality.
+    (e) FTC Regulation of Coding of Trade Names.--Section 621 of the 
+Fair Credit Reporting Act (15 U.S.C. 1681s), as amended by this Act, is 
+amended by adding at the end the following:
+    ``(g) FTC Regulation of Coding of Trade Names.--If the Commission 
+determines that a person described in paragraph (6) of section 623(a) 
+has not met the requirements of such paragraph, the Commission shall 
+take action to ensure the person's compliance with such paragraph, 
+which may include issuing model guidance or prescribing reasonable 
+policies and procedures as necessary to ensure that such person 
+complies with such paragraph.''.
+    (f) Technical and Conforming Amendments.--Section 604(g) of the 
+Fair Credit Reporting Act (15 U.S.C. 1681b(g)), as amended by section 
+411 of this Act, is amended--
+            (1) in paragraph (1), by inserting ``(other than medical 
+        contact information treated in the manner required under 
+        section 605(a)(6))'' after ``a consumer report that contains 
+        medical information''; and
+            (2) in paragraph (2), by inserting ``(other than medical 
+        information treated in the manner required under section 
+        605(a)(6))'' after ``a creditor shall not obtain or use medical 
+        information''.
+    (g) Effective Date.--The amendments made by this section shall take 
+effect at the end of the 15-month period beginning on the date of 
+enactment of this Act.
+
+         TITLE V--FINANCIAL LITERACY AND EDUCATION IMPROVEMENT
+
+SEC. 511. SHORT TITLE.
+
+    This title may be cited as the ``Financial Literacy and Education 
+Improvement Act''.
+
+SEC. 512. DEFINITIONS.
+
+    As used in this title--
+            (1) the term ``Chairperson'' means the chairperson of the 
+        Financial Literacy and Education Commission; and
+            (2) the term ``Commission'' means the Financial Literacy 
+        and Education Commission established under section 513.
+
+SEC. 513. ESTABLISHMENT OF FINANCIAL LITERACY AND EDUCATION COMMISSION.
+
+    (a) In General.--There is established a commission to be known as 
+the ``Financial Literacy and Education Commission''.
+    (b) Purpose.--The Commission shall serve to improve the financial 
+literacy and education of persons in the United States.
+    (c) Membership.--
+            (1) Composition.--The Commission shall be composed of--
+                    (A) the Secretary of the Treasury;
+                    (B) the respective head of each of the Federal 
+                banking agencies (as defined in section 3 of the 
+                Federal Deposit Insurance Act), the National Credit 
+                Union Administration, the Securities and Exchange 
+                Commission, each of the Departments of Education, 
+                Agriculture, Defense, Health and Human Services, 
+                Housing and Urban Development, Labor, and Veterans 
+                Affairs, the Federal Trade Commission, the General 
+                Services Administration, the Small Business 
+                Administration, the Social Security Administration, the 
+                Commodity Futures Trading Commission, and the Office of 
+                Personnel Management; and
+                    (C) at the discretion of the President, not more 
+                than 5 individuals appointed by the President from 
+                among the administrative heads of any other Federal 
+                agencies, departments, or other Government entities, 
+                whom the President determines to be engaged in a 
+                serious effort to improve financial literacy and 
+                education.
+            (2) Alternates.--Each member of the Commission may 
+        designate an alternate if the member is unable to attend a 
+        meeting of the Commission. Such alternate shall be an 
+        individual who exercises significant decisionmaking authority.
+    (d) Chairperson.--The Secretary of the Treasury shall serve as the 
+Chairperson.
+    (e) Meetings.--The Commission shall hold, at the call of the 
+Chairperson, at least 1 meeting every 4 months. All such meetings shall 
+be open to the public. The Commission may hold, at the call of the 
+Chairperson, such other meetings as the Chairperson sees fit to carry 
+out this title.
+    (f) Quorum.--A majority of the members of the Commission shall 
+constitute a quorum, but a lesser number of members may hold hearings.
+    (g) Initial Meeting.--The Commission shall hold its first meeting 
+not later than 60 days after the date of enactment of this Act.
+
+SEC. 514. DUTIES OF THE COMMISSION.
+
+    (a) Duties.--
+            (1) In general.--The Commission, through the authority of 
+        the members referred to in section 513(c), shall take such 
+        actions as it deems necessary to streamline, improve, or 
+        augment the financial literacy and education programs, grants, 
+        and materials of the Federal Government, including curricula 
+        for all Americans.
+            (2) Areas of emphasis.--To improve financial literacy and 
+        education, the Commission shall emphasize, among other 
+        elements, basic personal income and household money management 
+        and planning skills, including how to--
+                    (A) create household budgets, initiate savings 
+                plans, and make strategic investment decisions for 
+                education, retirement, home ownership, wealth building, 
+                or other savings goals;
+                    (B) manage spending, credit, and debt, including 
+                credit card debt, effectively;
+                    (C) increase awareness of the availability and 
+                significance of credit reports and credit scores in 
+                obtaining credit, the importance of their accuracy (and 
+                how to correct inaccuracies), their effect on credit 
+                terms, and the effect common financial decisions may 
+                have on credit scores;
+                    (D) ascertain fair and favorable credit terms;
+                    (E) avoid abusive, predatory, or deceptive credit 
+                offers and financial products;
+                    (F) understand, evaluate, and compare financial 
+                products, services, and opportunities;
+                    (G) understand resources that ought to be easily 
+                accessible and affordable, and that inform and educate 
+                investors as to their rights and avenues of recourse 
+                when an investor believes his or her rights have been 
+                violated by unprofessional conduct of market 
+                intermediaries; and
+                    (H) improve financial literacy and education 
+                through all other related skills.
+    (b) Website.--
+            (1) In general.--The Commission shall establish and 
+        maintain a website, such as the domain name 
+        ``FinancialLiteracy.gov'', or a similar domain name.
+            (2) Purposes.--The website established under paragraph (1) 
+        shall--
+                    (A) serve as a clearinghouse of information about 
+                Federal financial literacy and education programs;
+                    (B) provide a coordinated entry point for accessing 
+                information about all Federal publications, grants, and 
+                materials promoting enhanced financial literacy and 
+                education;
+                    (C) offer information on all Federal grants to 
+                promote financial literacy and education, and on how to 
+target, apply for, and receive a grant that is most appropriate under 
+the circumstances;
+                    (D) as the Commission considers appropriate, 
+                feature website links to efforts that have no 
+                commercial content and that feature information about 
+                financial literacy and education programs, materials, 
+                or campaigns; and
+                    (E) offer such other information as the Commission 
+                finds appropriate to share with the public in the 
+                fulfillment of its purpose.
+    (c) Toll-Free Hotline.--The Commission shall establish a toll-free 
+telephone number that shall be made available to members of the public 
+seeking information about issues pertaining to financial literacy and 
+education.
+    (d) Development and Dissemination of Materials.--The Commission 
+shall--
+            (1) develop materials to promote financial literacy and 
+        education; and
+            (2) disseminate such materials to the general public.
+    (e) Coordination of Efforts.--The Commission shall take such steps 
+as are necessary to coordinate and promote financial literacy and 
+education efforts at the State and local level, including promoting 
+partnerships among Federal, State, and local governments, nonprofit 
+organizations, and private enterprises.
+    (f) National Strategy.--
+            (1) In general.--The Commission shall--
+                    (A) not later than 18 months after the date of 
+                enactment of this Act, develop a national strategy to 
+                promote basic financial literacy and education among 
+                all American consumers; and
+                    (B) coordinate Federal efforts to implement the 
+                strategy developed under subparagraph (A).
+            (2) Strategy.--The strategy to promote basic financial 
+        literacy and education required to be developed under paragraph 
+        (1) shall provide for--
+                    (A) participation by State and local governments 
+                and private, nonprofit, and public institutions in the 
+                creation and implementation of such strategy;
+                    (B) the development of methods--
+                            (i) to increase the general financial 
+                        education level of current and future consumers 
+                        of financial services and products; and
+                            (ii) to enhance the general understanding 
+                        of financial services and products;
+                    (C) review of Federal activities designed to 
+                promote financial literacy and education, and 
+                development of a plan to improve coordination of such 
+                activities; and
+                    (D) the identification of areas of overlap and 
+                duplication among Federal financial literacy and 
+                education activities and proposed means of eliminating 
+                any such overlap and duplication.
+            (3) National strategy review.--The Commission shall, not 
+        less than annually, review the national strategy developed 
+        under this subsection and make such changes and recommendations 
+        as it deems necessary
+    (g) Consultation.--The Commission shall actively consult with a 
+variety of representatives from private and nonprofit organizations and 
+State and local agencies, as determined appropriate by the Commission.
+    (h) Reports.--
+            (1) In general.--Not later than 18 months after the date of 
+        the first meeting of the Commission, and annually thereafter, 
+        the Commission shall issue a report to the Committee on 
+        Banking, Housing, and Urban Affairs of the Senate and the 
+        Committee on Financial Services of the House of Representatives 
+        on the progress of the Commission in carrying out this title.
+            (2) Contents.--The report required under paragraph (1) 
+        shall include--
+                    (A) information concerning the implementation of 
+                the duties of the Commission under subsections (a) 
+                through (g);
+                    (B) an assessment of the success of the Commission 
+                in implementing the national strategy developed under 
+                subsection (f);
+                    (C) an assessment of the availability, utilization, 
+                and impact of Federal financial literacy and education 
+                materials;
+                    (D) information concerning the content and public 
+                use of--
+                            (i) the website established under 
+                        subsection (b); and
+                            (ii) the toll-free telephone number 
+                        established under subsection (c);
+                    (E) a brief survey of the financial literacy and 
+                education materials developed under subsection (d), and 
+                data regarding the dissemination and impact of such 
+                materials, as measured by improved financial decision 
+                making;
+                    (F) a brief summary of any hearings conducted by 
+                the Commission, including a list of witnesses who 
+                testified at such hearings;
+                    (G) information about the activities of the 
+                Commission planned for the next fiscal year;
+                    (H) a summary of all Federal financial literacy and 
+                education activities targeted to communities that have 
+                historically lacked access to financial literacy 
+                materials and education, and have been underserved by 
+                the mainstream financial systems; and
+                    (I) such other materials relating to the duties of 
+                the Commission as the Commission deems appropriate.
+            (3) Initial report.--The initial report under paragraph (1) 
+        shall include information regarding all Federal programs, 
+        materials, and grants which seek to improve financial literacy, 
+        and assess the effectiveness of such programs.
+    (i) Testimony.--The Commission shall provide, upon request, 
+testimony by the Chairperson to the Committee on Banking, Housing, and 
+Urban Affairs of the Senate, and the Committee on Financial Services of 
+the House of Representatives.
+
+SEC. 515. POWERS OF THE COMMISSION.
+
+    (a) Hearings.--The Commission may hold such hearings, sit and act 
+at such times and places, take such testimony, and receive such 
+evidence as the Commission considers advisable to carry out this title.
+    (b) Information From Federal Agencies.--The Commission may secure 
+directly from any Federal department or agency such information as the 
+Commission considers necessary to carry out this title. Upon request of 
+the Chairperson, the head of such department or agency shall furnish 
+such information to the Commission.
+    (c) Periodic Studies.--The Commission may conduct periodic studies 
+regarding the state of financial literacy and education in the United 
+States, as the Commission determines appropriate.
+
+SEC. 516. COMMISSION PERSONNEL MATTERS.
+
+    (a) Compensation of Members.--Each member of the Commission shall 
+serve without compensation in addition to that received for their 
+service as an officer or employee of the United States.
+    (b) Travel Expenses.--The members of the Commission shall be 
+allowed travel expenses, including per diem in lieu of subsistence, at 
+rates authorized for employees of agencies under subchapter I of 
+chapter 57 of title 5, United States Code, while away from their homes 
+or regular places of business in the performance of services for the 
+Commission.
+    (c) Assistance.--
+            (1) In general.--The Director of the Office of Financial 
+        Education of the Department of the Treasury shall provide 
+        assistance to the Commission, upon request of the Commission, 
+        without reimbursement.
+            (2) Detail of government employees.--Any Federal Government 
+        employee may be detailed to the Commission without 
+        reimbursement, and such detail shall be without interruption or 
+        loss of civil service status or privilege.
+
+SEC. 517. STUDY BY THE COMPTROLLER GENERAL.
+
+    Not later than 3 years after the date of enactment of this Act, the 
+Comptroller General of the United States shall submit a report to 
+Congress assessing the effectiveness of the Commission in promoting 
+financial literacy and education.
+
+SEC. 518. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Commission such sums 
+as may be necessary to carry out this title, including administrative 
+expenses of the Commission.
+
+                    TITLE VI--RELATION TO STATE LAW
+
+SEC. 611. RELATION TO STATE LAW.
+
+    Section 625(d) of the Fair Credit Reporting Act (15 U.S.C. 
+1681t(d), regarding relation to State laws), as so designated by 
+section 214 of this Act, is amended--
+            (1) by striking paragraph (2);
+            (2) by striking ``(c)--'' and all that follows through ``do 
+        not affect'' and inserting ``(c) do not affect''; and
+            (3) by striking ``1996; and'' and inserting ``1996.''.
+
+                        TITLE VII--MISCELLANEOUS
+
+SEC. 711. CLERICAL AMENDMENTS.
+
+    (a) Short Title.--Section 601 of the Fair Credit Reporting Act (15 
+U.S.C. 1601 note) is amended by striking ``the Fair Credit Reporting 
+Act.'' and inserting ``the `Fair Credit Reporting Act'.''.
+    (b) Section 604.--Section 604(a) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681b(a)) is amended in paragraphs (1) through (5), other 
+than subparagraphs (E) and (F) of paragraph (3), by moving each margin 
+2 ems to the right.
+    (c) Section 605.--
+            (1) Section 605(a)(1) of the Fair Credit Reporting Act (15 
+        U.S.C. 1681c(a)(1)) is amended by striking ``(1) cases'' and 
+        inserting ``(1) Cases''.
+            (2)(A) Section 5(1) of Public Law 105-347 (112 Stat. 3211) 
+        is amended by striking ``Judgments which'' and inserting 
+        ``judgments which''.
+            (B) The amendment made by subparagraph (A) shall be deemed 
+        to have the same effective date as section 5(1) of Public Law 
+        105-347 (112 Stat. 3211).
+    (d) Section 609.--Section 609(a) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681g(a)) is amended--
+            (1) in paragraph (2), by moving the margin 2 ems to the 
+        right; and
+            (2) in paragraph (3)(C), by moving the margins 2 ems to the 
+        left.
+    (e) Section 617.--Section 617(a)(1) of the Fair Credit Reporting 
+Act (15 U.S.C. 1681o(a)(1)) is amended by adding ``and'' at the end.
+    (f) Section 621.--Section 621(b)(1)(B) of the Fair Credit Reporting 
+Act (15 U.S.C. 1681s(b)(1)(B)) is amended by striking ``25(a)'' and 
+inserting ``25A''.
+    (g) Title 31.--Section 5318 of title 31, United States Code, is 
+amended by redesignating the second item designated as subsection (l) 
+(relating to applicability of rules) as subsection (m).
+    (h) Conforming Amendment.--Section 2411(c) of Public Law 104-208 
+(110 Stat. 3009-445) is repealed.
+
+
+
+
+                                                       Calendar No. 312
+
+108th CONGRESS
+
+  1st Session
+
+                                S. 1753
+
+                          [Report No. 108-166]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+  To amend the Fair Credit Reporting Act in order to prevent identity 
+ theft, to improve the use of and consumer access to consumer reports, 
+ to enhance the accuracy of consumer reports, to limit the sharing of 
+   certain consumer information, to improve financial education and 
+                   literacy, and for other purposes.
+
+_______________________________________________________________________
+
+                            October 17, 2003
+
+                 Read twice and placed on the calendar

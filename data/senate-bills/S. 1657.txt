@@ -1,0 +1,1011 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1657 Placed on Calendar Senate (PCS)]
+
+                                                       Calendar No. 281
+
+103d CONGRESS
+
+  1st Session
+
+                                S. 1657
+
+_______________________________________________________________________
+
+                                 A BILL
+
+                  To reform habeas corpus procedures.
+
+_______________________________________________________________________
+
+            November 10 (legislative day, November 2), 1993
+
+                  Ordered to be placed on the calendar
+
+
+
+
+
+                                                       Calendar No. 281
+103d CONGRESS
+  1st Session
+                                S. 1657
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+            November 10 (legislative day, November 2), 1993
+
+  Mr. Dole (for Mr. Specter) introduced the following bill; which was 
+          read twice and ordered to be placed on the calendar
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+                  To reform habeas corpus procedures.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as ``A bill to enforce the fourteenth 
+amendment and to reform habeas corpus.''.
+
+SEC. 302. FILING DEADLINES.
+
+    (a) In General.--Section 2242 of title 28, United States Code, is 
+amended--
+            (1) by amending the heading to read as follows:
+``Sec. 2242. Filing of habeas corpus petition; time requirements; 
+              tolling rules'';
+            (2) by inserting ``(a)(1)'' before the first paragraph, 
+        ``(2)'' before the second paragraph, ``(3)'' before the third 
+        paragraph, and ``(4)'' before the fourth paragraph;
+            (3) by amending the third paragraph, as designated by 
+        paragraph (3), to read as follows:
+    ``(3) Leave to amend or supplement the petition shall be freely 
+given, as provided in the rules of procedure applicable to civil 
+actions.''; and
+            (4) by adding at the end the following new subsections:
+    ``(b) An application for habeas corpus relief under section 2254 
+shall be filed in the appropriate district court not later than 180 
+days after--
+            ``(1) the last day for filing a petition for writ of 
+        certiorari in the United States Supreme Court on direct appeal 
+        or unitary review of the conviction and sentence, if such a 
+        petition has not been filed within the time limits established 
+        by law;
+            ``(2) the date of the denial of a writ of certiorari, if a 
+        petition for a writ of certiorari to the highest court of the 
+        State on direct appeal or unitary review of the conviction and 
+        sentence is filed, within the time limits established by law, 
+        in the United States Supreme Court; or
+            ``(3) the date of the issuance of the mandate of the United 
+        States Supreme Court, if on a petition for a writ of certiorari 
+        the Supreme Court grants the writ and disposes of the case in a 
+        manner that leaves the sentence undisturbed.
+    ``(2) The time requirements established by subsection (b) shall not 
+apply unless the State has provided notice to a petitioner under 
+sentence of death of the time requirements established by this section. 
+Such notice shall be provided upon the final disposition of the initial 
+petition for State post-conviction review.
+    ``(3) In a case in which a sentence of death has been imposed, the 
+time requirements established by subsection (b) shall be tolled--
+            ``(A) during any period in which the State has failed to 
+        appoint counsel for State post-conviction review as required in 
+        section 2258;
+            ``(B) during any period in which the petitioner is 
+        incompetent; and
+            ``(C) during an additional period, not to exceed 60 days, 
+        if the petitioner makes a showing of good cause.
+    ``(d)(1) Notwithstanding the filing deadline imposed by subsection 
+(b), if a petitioner under a sentence other than death has filed--
+            ``(A) a petition for post-conviction review in State court; 
+        or
+            ``(B) a request for counsel for post-conviction review,
+before the expiration of the period described in subsection (b), the 
+petitioner shall have 180 days to file a petition under this chapter 
+upon completion of the State court review.
+    ``(2) The time requirements established by subsection (b) shall not 
+apply in a case in which a sentence other than death has been imposed 
+unless--
+            ``(A) the State has provided notice to the petitioner of 
+        the time requirements established by this section and of the 
+        availability of counsel as described in subparagraph (B); such 
+        notice shall be provided orally at the time of sentencing and 
+        in writing at the time the petitioner's conviction becomes 
+        final, except that in a case in which the petitioner's 
+        conviction becomes final within 30 days of sentencing, the 
+        State may provide both the oral and the written notice at 
+        sentencing; in all cases, the written notice to petitioner 
+        shall include easily understood instructions for filing a 
+        request for counsel for State post-conviction review; and
+            ``(B)(i) the State provides counsel to the petitioner upon 
+        the filing of a request for counsel for State post-conviction 
+        review; or
+            ``(ii) the State provides counsel to the petitioner, if a 
+        request for counsel for State post-conviction review is not 
+        filed, upon the filing of a petition for post-conviction 
+        review.
+    ``(3) The time requirements established by subsection (b) shall be 
+tolled in a case in which a sentence other than death has been 
+imposed--
+            ``(A) during any period in which the petitioner is 
+        incompetent; and
+            ``(B) during an additional period, not to exceed 60 days, 
+        if the petitioner makes a showing of good cause.
+    ``(e) An application that is not filed within the time requirements 
+established by subsection (b) shall be governed by section 2244(b).''.
+    (b) Technical Amendment.--The chapter analysis for chapter 153 of 
+title 28, United States Code is amended by amending the item relating 
+to section 2242 to read as follows:
+
+``2242. Filing of habeas corpus petition; time requirements; tolling 
+                            rules.''.
+
+SEC. 303. STAYS OF EXECUTION IN CAPITAL CASES.
+
+    Section 2251 of title 28, United States Code, is amended--
+            (1) by inserting ``(a)(1)'' before the first paragraph and 
+        ``(2)'' before the second paragraph; and
+            (2) by adding at the end the following new subsections:
+    ``(b) In the case of a person under sentence of death, a warrant or 
+order setting an execution shall be stayed upon application to any 
+court that would have jurisdiction over a habeas corpus petition under 
+this chapter. The stay shall be contingent upon the exercise of 
+reasonable diligence by the applicant in pursuing relief with respect 
+to the sentence and shall expire if--
+            ``(1) the applicant fails to file for relief under this 
+        chapter within the time requirements established by section 
+        2242;
+            ``(2) upon completion of district court and court of 
+        appeals review under section 2254, the application is denied 
+        and--
+                    ``(A) the time for filing a petition for a writ of 
+                certiorari expires before a petition is filed;
+                    ``(B) a timely petition for a writ of certiorari is 
+                filed and the Supreme Court denies the petition; or
+                    ``(C) a timely petition for certiorari is filed 
+                and, upon consideration of the case, the Supreme Court 
+                disposes of it in a manner that leaves the capital 
+                sentence undisturbed; or
+            ``(3) before a court of competent jurisdiction, in the 
+        presence of counsel, and after being advised of the 
+        consequences of the decision, the applicant competently and 
+        knowingly waives the right to pursue habeas corpus relief under 
+        this chapter.
+    ``(c) If any 1 of the conditions in subsection (b) has occurred, no 
+Federal court thereafter shall have the authority to enter a stay of 
+execution unless the applicant has filed a habeas corpus petition that 
+satisfies, on its face, section 2244(b) or 2256. A stay granted 
+pursuant to this subsection shall expire if, after the grant of the 
+stay, 1 of the conditions specified in subsection (b) (2) or (3) 
+occurs.''.
+
+SEC. 304. APPLICATION OF NEW RULES; STANDARD OF REVIEW.
+
+    (a) Retroactive Application of New Rules.--
+            (1) In general.--Chapter 153 of title 28, United States 
+        Code, as amended by section 306(a), is amended by adding at the 
+        end the following new section:
+``Sec. 2257. Law applicable
+    ``In cases subject to this chapter, all claims shall be governed by 
+the law as it was when the petitioner's conviction became final. A 
+court considering a claim under this chapter shall consider intervening 
+decisions by the Supreme Court of the United States which establish 
+fundamental constitutional rights.''.
+            (2) Technical amendment.--The chapter analysis for chapter 
+        153 of title 28, United States Code, as amended by section 
+        306(b), is amended by adding at the end the following new item:
+
+``2257. Law applicable.''.
+    (b) Standard of Review.--Section 2254(a) of title 28, United States 
+Code, is amended by adding at the end the following: ``Except as to 
+Fourth Amendment claims controlled by Stone v. Powell, 428 U.S. 465 
+(1976), the Federal courts, in reviewing an application under this 
+section, shall review de novo the rulings of a State court on matters 
+of Federal law, including the application of Federal law to facts, 
+regardless of whether the opportunity for a full and fair hearing on 
+such Federal questions has been provided in the State court. In the 
+case of a violation that can be harmless, the State shall bear the 
+burden of proving harmlessness.''.
+
+SEC. 305. LIMITS ON SUCCESSIVE PETITIONS.
+
+    Section 2244(b) of title 28, United States Code, is amended to read 
+as follows:
+    ``(b)(1) A claim presented in a habeas corpus petition that was not 
+timely presented in a prior petition shall be dismissed unless--
+            ``(A) the petitioner shows that--
+                    ``(i) the failure to raise the claim previously was 
+                the result of interference by State officials with the 
+                presentation of the claim, in violation of the 
+                Constitution or laws of the United States;
+                    ``(ii) the claim relies on a new rule that is 
+                applicable under section 2257 and was previously 
+                unavailable; or
+                    ``(iii) the factual predicate for the claim could 
+                not have been discovered previously through the 
+                exercise of reasonable diligence; and
+            ``(B) the facts underlying the claim, if proven and viewed 
+        in light of the evidence as a whole, would be sufficient to--
+                    ``(i) undermine the court's confidence in the 
+                factfinder's determination of the applicant's guilt of 
+                the offense or offenses for which the sentence was 
+                imposed; or
+                    ``(ii) demonstrate that no reasonable sentencing 
+                authority would have found an aggravating circumstance 
+                or other condition of eligibility for a capital or 
+                noncapital sentence, or otherwise would have imposed a 
+                sentence of death.
+    ``(2)(A) Before a successive petition is filed in the district 
+court, the petitioner must move in the appropriate court of appeals for 
+an order authorizing the district court to consider the petition.
+    ``(B) A motion in the court of appeals for an order authorizing the 
+district court to consider a successive petition shall be determined by 
+more than one judge of the court of appeals.
+    ``(C) The court of appeals may authorize the filing of a successive 
+petition only if it determines that the petitioner has demonstrated 
+that probable cause exists to believe that the petition satisfies the 
+requirements of this section.''.
+
+SEC. 306. NEW EVIDENCE.
+
+    (a) In General.--Chapter 153 of title 28, United States Code, as 
+amended by section 304(a)(1), is amended by adding at the end the 
+following new section:
+``Sec.  2256. Capital cases; new evidence
+    ``For purposes of this chapter, a claim arising from a violation of 
+the Constitution, laws, or treaties of the United States shall include 
+a claim by a person under sentence of death that is based on factual 
+allegations that, if proven and viewed in light of the evidence as a 
+whole, would be sufficient to demonstrate that no reasonable factfinder 
+would have found the petitioner guilty of the offense or that no 
+reasonable sentencing authority would have found an aggravating 
+circumstance or other condition of eligibility for the sentence. Such a 
+claim shall be dismissed if the facts supporting the claim were 
+actually known to the petitioner during a prior stage of the litigation 
+in which the claim was not raised. Notwithstanding any other provision 
+of this chapter, the claim shall not be subject to section 2244(b) or 
+the time requirements established by section 2242. In all other 
+respects, the claim shall be subject to the rules applicable to claims 
+under this chapter.''.
+    (b) Technical Amendment.--The chapter analysis for chapter 153 of 
+title 28, United States Code, as amended by section 304(a)(2), is 
+amended by adding at the end the following new item:
+
+``2258. Capital cases; new evidence.''.
+
+SEC. 307. CERTIFICATES OF PROBABLE CAUSE.
+
+    The third paragraph of section 2253 of title 28, United States 
+Code, is amended by adding at the end the following: ``However, an 
+applicant under sentence of death shall have a right of appeal without 
+a certificate of probable cause, except after denial of a habeas corpus 
+petition filed under section 2244(b).''.
+
+SEC. 308. TIME REQUIREMENTS FOR CONSIDERATION BY DISTRICT COURTS OF 
+              HABEAS CORPUS PETITIONS IN CAPITAL CASES.
+
+    (a) In General.--Chapter 153 of title 28, United States Code, as 
+amended by section 306(a), is amended by adding at the end the 
+following new section:
+``Sec. 2259. Time limitations for consideration by the district courts 
+              habeas corpus petitions in capital cases
+    ``(a) In General.--
+            ``(1) Final determination within 180 days.--A district 
+        court shall render a final determination of any petition for a 
+        writ of habeas corpus brought under this chapter in a capital 
+        case within 180 days after the date on which the petition is 
+        filed.
+            ``(2) Delay.--(A) A district court may delay the rendering 
+        of a determination of a petition beyond 180 days if the court 
+        issues a written order making finding, and stating the reasons 
+        for the finding, that the ends of justice that would be served 
+        by allowing the delay outweigh the best interests of public and 
+        the petitioner in a speedy disposition of the petition.
+            ``(B) The factors, among others, that a court shall 
+        consider in determining whether a delay in disposition of a 
+        petition is permissible are as follows:
+                    ``(i) Whether the failure to allow the delay would 
+                be likely to result in a miscarriage of justice.
+                    ``(ii) Whether the case is so unusual or so 
+                complex, due to the number of defendants, the nature of 
+                the prosecution, or the existence of novel questions of 
+                fact or law, that it is unreasonable to expect adequate 
+                briefing within the time limit established by paragraph 
+                (1).
+                    ``(iii) Whether the failure to allow a delay in a 
+                case that, taken as a whole, is not so unusual or so 
+                complex as described in clause (ii), would deny the 
+                petitioner reasonable time to obtain counsel, would 
+                unreasonably deny the petitioner or the government 
+                continuity of counsel, or would deny counsel for the 
+                petitioner or the attorney for the government the 
+                reasonable time necessary for effective preparation, 
+                taking into account the exercise of due diligence.
+            ``(C) No delay in disposition shall be permissible because 
+        of general congestion of the court's calendar or lack of 
+        diligent preparation on the part of the attorney for the 
+        government.
+            ``(D) The court shall transmit a copy of any order issued 
+        under subparagraph (A) to the Director of the Administrative 
+        Office of the United States Courts for inclusion in the report 
+        under subsection (e).
+    ``(b) Application.--The time limitations under subsection (a) shall 
+apply to--
+            ``(1) an initial petition for a writ of habeas corpus;
+            ``(2) any second or successive petition for a writ of 
+        habeas corpus; and
+            ``(3) any re-determination of a petition for a writ of 
+        habeas corpus following a remand by the court of appeals or the 
+        Supreme Court for further proceedings, in which case the 
+        limitation period shall run from the date of the remand.
+    ``(c) Rule of Construction.--The time limitations under this 
+section shall not be construed to entitle a petitioner to a stay of 
+execution, to which the petitioner would otherwise not be entitled, for 
+the purpose of litigating any petition or appeal.
+    ``(d) Failure To Render Timely Determination.--
+            ``(1) No ground for relief.--The failure of a court to meet 
+        or comply with a time limitation under this section shall not 
+        be a ground for granting relief from a judgment of conviction 
+        or sentence.
+            ``(2) Enforcement.--The government may enforce a time 
+        limitation under this section by applying for a writ of 
+        mandamus to the court of appeals.
+    ``(e) Report.--
+            ``(1) In general.--The Administrative Office of United 
+        States Courts shall submit to Congress an annual report on the 
+        compliance by the district courts with the time limitations 
+        under this section.
+            ``(2) Contents.--The report described in paragraph (1) 
+        shall include copies of the orders submitted by the district 
+        courts under subsection (a)(2)(D).''.
+    (b) Technical Amendment.--The chapter analysis for chapter 153 of 
+title 28, United States Code, as amended by section 308(b), is amended 
+by adding at the end the following new item:
+
+``2259. Time limitations for consideration by the district courts of 
+                            petitions for habeas corpus in capital 
+                            cases.''.
+
+SEC. 309. TIME REQUIREMENTS FOR CONSIDERATION BY COURTS OF APPEALS OF 
+              APPEALS OF DISTRICT COURT DETERMINATIONS OF HABEAS CORPUS 
+              PETITIONS IN CAPITAL CASES.
+
+    (a) In General.--Chapter 153 of title 28, United States Code, as 
+amended by section 306(a), is amended by adding at the end the 
+following new section:
+``Sec. 2260. Time limitations for consideration by courts of appeals of 
+              district court determinations of habeas corpus petitions 
+              in capital cases
+    ``(a) In General.--
+            ``(1) Final determination within 120 days.--A court of 
+        appeals shall hear and render a final determination of any 
+        appeal of an order granting or denying, in whole or in part, a 
+        petition brought under this chapter in a capital case within 
+        120 days after the date on which the notice of appeal is filed.
+            ``(2) Hearing en banc.--(A) A court of appeals shall decide 
+        whether to grant a petition for rehearing en banc within 20 
+        days after the date on which the petition for rehearing is 
+        filed unless a responsive pleading is required, in which case 
+        the court shall decide whether to grant the petition within 20 
+        days after the date on which the responsive pleading is filed.
+            ``(B) If a petition for rehearing is granted, the court of 
+        appeals shall hear and render a final determination of the 
+        appeal within 120 days after the date on which the order 
+        granting rehearing is entered.
+    ``(b) Application.--The time limitations under subsection (a) shall 
+apply to--
+            ``(1) an initial petition for a writ of habeas corpus;
+            ``(2) any second or successive petition for a writ of 
+        habeas corpus; and
+            ``(3) any re-determination of a petition for a writ of 
+        habeas corpus or related appeal following a remand by the court 
+        of appeals or the Supreme Court for further proceedings, in 
+        which case the limitation period shall run from the date of the 
+        remand.
+    ``(c) Rule of Construction.--The time limitations under this 
+section shall not be construed to entitle a petitioner to a stay of 
+execution, to which the petitioner would otherwise not be entitled, for 
+the purpose of litigating any petition or appeal.
+    ``(d) Failure To Render Timely Determination.--
+            ``(1) No ground for relief.--The failure of a court to meet 
+        or comply with a time limitation under this section shall not 
+        be a ground for granting relief from a judgment of conviction 
+        or sentence.
+            ``(2) Enforcement.--The government may enforce a time 
+        limitation under this section by applying for a writ of 
+        mandamus to the Supreme Court.
+    ``(e) Report.--The Administrative Office of United States Courts 
+shall submit to Congress an annual report on the compliance by the 
+courts of appeals with the time limitations under this section.''.
+    (b) Technical Amendment.--The chapter analysis for chapter 153 of 
+title 28, United States Code, as amended by section 306(b), is amended 
+by adding at the end the following new item:
+
+``2260. Time limitations for consideration by courts of appeal of 
+                            appeals of district court determinations of 
+                            habeas corpus petitions in capital 
+                            cases.''.
+
+SEC. 310. ABOLITION OF EXHAUSTION OF COLLATERAL REMEDIES REQUIREMENT IN 
+              CAPITAL CASES.
+
+    Section 2254(b) of title 28, United States Code is amended to read 
+as follows:
+    ``(b)(1) Except in a capital case, an application for a writ of 
+habeas corpus in behalf of a person in custody pursuant to the judgment 
+of a State court shall not be granted unless it appears that the 
+applicant has exhausted the remedies available in the courts of the 
+State (including opportunities to petition the Supreme Court for 
+certiorari review on direct appeal and any available collateral review 
+in the State courts), or that there is either an absence of available 
+State corrective process or the existence of circumstances rendering 
+such process ineffective to protect the rights of the prisoner.
+    ``(2) In a capital case, an application for a writ of habeas corpus 
+in behalf of a person in custody pursuant to the judgment of a State 
+court shall not be granted unless it appears that the applicant has 
+exhausted the remedies available in the courts of the State (including 
+opportunities to petition the Supreme Court for certiorari review on 
+direct appeal but not including any available collateral review in the 
+State courts), or that there is either an absence of available State 
+corrective proceeds or the existence of circumstances rendering such 
+process ineffective to protect the rights of the prisoner.''.
+
+SEC. 311. PROVISION OF COUNSEL.
+
+    (a) In General.--Chapter 153 of title 28, United States Code, as 
+amended by section 304(a)(1), is amended by adding at the end the 
+following new section:
+``Sec. 2258. Counsel in capital cases; State court
+    ``(a) Finding and Declaration.--The Congress finds that inadequate 
+representation in State capital trials, appeals and post-conviction 
+proceedings increases unacceptably the risk of constitutional and 
+factual error. The possibility of such errors puts into question the 
+validity of individual convictions and the conformity of State criminal 
+justice systems with the commands of the Due Process Clause of the 
+Fourteenth Amendment. The Congress therefore determines that the 
+following requirements are a necessary and appropriate means, pursuant 
+to its authority under section 5 of that Amendment, of enforcing the 
+Due Process Clause.
+    ``(b) Counsel.--(1) A State in which a sentence of death may be 
+imposed under State law shall provide legal services to--
+            ``(A) indigents charged with offenses for which capital 
+        punishment is sought;
+            ``(B) indigents who have been sentenced to death and who 
+        seek appellate, post-conviction, or unitary review in State 
+        court; and
+            ``(C) indigents who have been sentenced to death and who 
+        seek certiorari review of State court judgments in the United 
+        States Supreme Court.
+    ``(2) This section shall not apply or form a basis for relief to 
+nonindigents.
+    ``(c) Counsel Certification Authority.--A State in which a sentence 
+of death may be imposed under State law shall, within 180 days after 
+the date of enactment of this subsection, establish a State counsel 
+certification authority, which shall be comprised of members of the bar 
+with substantial experience in, or commitment to, the representation of 
+criminal defendants in capital cases, and shall be comprised of a 
+balanced representation from each segment of the State's criminal 
+defense bar, such as a statewide defender organization, a capital case 
+resource center, local public defender's offices and private attorneys 
+involved in criminal trial, appellate, post-conviction, or unitary 
+review practice. If a State fails to establish a counsel certification 
+authority within 180 days after the date of enactment of this 
+subsection, a private cause of action may be brought in Federal 
+district court to enforce this subsection by any aggrieved party, 
+including a defendant eligible for appointed representation under this 
+subsection or a member of an organization eligible for representation 
+on the counsel certification authority. If the court finds that the 
+State has failed to establish a counsel certification authority as 
+required by this subsection, the court shall grant appropriate 
+injunctive and declaratory relief, except that the court shall not 
+grant relief that disturbs any criminal conviction or sentence, 
+obstructs the prosecution of State criminal proceedings, or alters 
+proceedings arising under this chapter.
+    ``(d) Duties of Authority; Certification of Counsel.--The counsel 
+certification authority shall--
+            ``(1) establish and publish standards governing 
+        qualifications of counsel, which shall include--
+                    ``(A) knowledge and understanding of pertinent 
+                legal authorities regarding issues in capital cases;
+                    ``(B) skills in the conduct of negotiations and 
+                litigation in capital cases, the investigation of 
+                capital cases and the psychiatric history and current 
+                condition of capital clients, and the preparation and 
+                writing of legal papers in capital cases;
+                    ``(C) the minimum qualifications required by 
+                subsection (e); and
+                    ``(D) any additional qualifications relevant to the 
+                representation of capital defendants;
+            ``(2) establish application and certification procedures 
+        for attorneys who possess the qualifications established 
+        pursuant to paragraph (1);
+            ``(3) establish application and certification procedures 
+        for attorneys who do not possess all the qualifications 
+        established pursuant to paragraph (1) but who possess, in 
+        addition to the minimum qualifications required by subsection 
+        (e), additional resources (such as an affiliation with a 
+        publicly funded defender organization) and experience that 
+        enable them to provide quality legal representation comparable 
+        to that of an attorney possessing the qualifications 
+        established pursuant to paragraph (1);
+            ``(4) establish application and certification procedures, 
+        to be used on a case by case basis, for attorneys who do not 
+        necessarily possess the minimum qualifications required by 
+        subsection (e), but who possess other extraordinary experience 
+        and resources that enable them to provide quality legal 
+        representation comparable to that of an attorney possessing the 
+        qualifications established pursuant to paragraph (1);
+            ``(5) publish a current roster of attorneys certified 
+        pursuant to paragraphs (2) and (3) to be appointed in capital 
+        cases;
+            ``(6) establish and publish standards governing the 
+        performance of counsel in capital cases, including standards 
+        that proscribe abusive practices and mandate sound practices in 
+        order to further the fair and orderly administration of 
+        justice;
+            ``(7) monitor the performance of attorneys certified 
+        pursuant to this subsection; and
+            ``(8) delete from the roster the name of any attorney who 
+        fails to meet the qualification or performance standards 
+        established pursuant to this subsection.
+    ``(e) Minimum Counsel Standards.--All counsel certified pursuant to 
+paragraph (2) or (3) of subsection (d) or appointed pursuant to 
+subsection (f) shall possess, in addition to any qualifications 
+required by State or local law, the following minimum qualifications:
+            ``(1) familiarity with the performance standards 
+        established by the counsel certification authority;
+            ``(2) familiarity with the appropriate court system, 
+        including the procedural rules regarding timeliness of filings 
+        and procedural default; and
+            ``(3) in the case of counsel appointed for the trial or 
+        sentencing stages, at least 2 of the qualifications listed in 
+        subparagraph (A) and 1 of the qualifications listed in 
+        subparagraph (B), or 1 of the alternative qualifications listed 
+        in subparagraph (C):
+                    ``(A) Qualifying trial experience (must have 2).--
+                Prior experience within the last 10 years as--
+                            ``(i) lead or sole counsel in 12 jury 
+                        trials, of which no fewer than 5 were criminal 
+                        jury trials;
+                            ``(ii) lead or sole counsel in 3 criminal 
+                        jury trials in which the charge was murder or 
+                        aggravated murder;
+                            ``(iii) co-counsel in 5 criminal jury 
+                        trials in which the charge was murder or 
+                        aggravated murder;
+                            ``(iv) lead or sole counsel in no fewer 
+                        than 5 criminal jury trials involving crimes of 
+                        violence against persons, punishable by 
+                        imprisonment of over 1 year,
+                which were tried to a verdict or to a deadlocked jury.
+                    ``(B) Qualifying capital trial experience (must 
+                have 1).--
+                            ``(i) lead or sole counsel within the last 
+                        5 years in the trial of at least 1 capital case 
+                        that was tried through sentencing;
+                            ``(ii) co-counsel in the trial of no fewer 
+                        than 2 capital cases (1 of which occurred 
+                        within the last 5 years) that were tried 
+                        through sentencing;
+                            ``(iii) successful completion within the 
+                        preceding 2 years of a training program in 
+                        capital trial litigation that has been 
+                        certified by the counsel certification 
+                        authority or, if the authority has not 
+                        certified a program, successful completion of 
+                        an at least 12-hour training program in capital 
+                        trial litigation for which continuing legal 
+                        education (CLE) credit is available, and which 
+                        the CLE authority in the State has certified as 
+                        comporting with the objectives and requirements 
+                        of this section.
+                    ``(C) Alternative qualifying experience for 
+                trial.--Notwithstanding subparagraphs (A) and (B), an 
+                attorney shall be eligible for certification pursuant 
+                to paragraph (2) or (3) of subsection (d) or 
+                appointment pursuant to subsection (g) if the 
+                attorney--
+                            ``(i) has conducted 5 evidentiary hearings 
+                        and has been employed for more than 1 year by a 
+                        capital resource center, a unit or its 
+                        equivalent that specializes in capital cases 
+                        within a public defender office, or a public 
+                        interest law office specializing in capital 
+                        litigation; or
+                            ``(ii) has been certified by the State 
+                        capital litigation resource center as competent 
+                        to be assigned to a capital trial;
+            ``(4) in the case of counsel appointed for appellate or 
+        unitary review, at least 1 of the qualifications listed in 
+        subparagraph (A) and 1 of the qualifications listed in 
+        subparagraph (B), or 1 of the alternative qualifications listed 
+        in subparagraph (C):
+                    ``(A) Qualifying appellate experience (must have 
+                1).--Prior experience within the past 5 years as--
+                            ``(i) lead or sole counsel in no fewer than 
+                        10 appeals, of which no fewer than 5 were 
+                        criminal appeals;
+                            ``(ii) lead or sole counsel in at least 6 
+                        criminal felony appeals;
+                            ``(iii) lead or sole counsel in 3 criminal 
+                        or felony appeals, at least 1 of which was an 
+                        appeal of a murder or aggravated murder 
+                        conviction,
+                which were fully briefed.
+                    ``(B) Qualifying capital appellate experience (must 
+                have 1).--
+                            ``(i) lead or sole counsel within the last 
+                        5 years in the appeal or unitary review of at 
+                        least 1 capital case;
+                            ``(ii) co-counsel in the appeal or unitary 
+                        review of no fewer than 2 capital cases, 1 of 
+                        which occurred within the last 5 years;
+                            ``(iii) successful completion within the 
+                        preceding 2 years of a training program in the 
+                        litigation of capital appeals that has been 
+                        certified by the counsel certification 
+                        authority or, if the authority has not 
+                        certified a program, successful completion of 
+                        an at least 12-hour training program in capital 
+                        litigation with a focus on appeals for which 
+                        continuing legal education (CLE) credit is 
+                        available, and which the CLE authority in the 
+                        State has certified as comporting with the 
+                        objectives and the requirements of this 
+                        section.
+                    ``(C) Alternative qualifying experience for 
+                appeals.--Notwithstanding subparagraphs (A) and (B), an 
+                attorney shall be eligible for certification pursuant 
+                to paragraph (2) or (3) of subsection (c) or for 
+                appointment pursuant to subsection (f) if the 
+                attorney--
+                            ``(i) has been employed for more than 1 
+                        year by a capital resource center, a unit or 
+                        its equivalent that specializes in capital 
+                        cases within a public defender office, or a 
+                        public interest law office specializing in 
+                        capital litigation; or
+                            ``(ii) has been certified by the State 
+                        capital litigation resource center as competent 
+                        to be assigned to a capital appeal; and
+            ``(5) in the case of counsel appointed for post-conviction 
+        proceedings, at least 2 of the qualifications listed in 
+        subparagraph (A) and at least 1 of the qualifications listed in 
+        subparagraph (B), or 1 of the alternative qualifications listed 
+        in subparagraph (C):
+                    ``(A) Qualifying post-conviction experience (must 
+                have 2).--Prior experience within the past 10 years 
+                as--
+                            ``(i) lead or sole counsel in no fewer than 
+                        3 post-conviction proceedings;
+                            ``(ii) co-counsel in no fewer than 5 post-
+                        conviction proceedings;
+                            ``(iii) 1 of the trial qualifications 
+                        listed in paragraph (3)(A);
+                            ``(iv) 1 of the appellate qualifications 
+                        listed in paragraph (4)(A).
+                    ``(B) Qualifying capital post-conviction experience 
+                (must have 1).--
+                            ``(i) lead or sole counsel within the last 
+                        5 years in the trial (through sentencing), 
+                        appeal, or post-conviction review of at least 1 
+                        capital case;
+                            ``(ii) co-counsel in the trial (through 
+                        sentencing), appeal, or post-conviction review 
+                        of no fewer than 2 capital cases, 1 of which 
+                        occurred within the last 5 years;
+                            ``(iii) successful completion during the 
+                        preceding 2 years of a training program in the 
+                        litigation of capital post-conviction 
+                        proceedings that has been certified by the 
+                        counsel certification authority or, if the 
+                        authority has not certified a program, 
+                        successful completion of an at least 12-hour 
+                        training program in capital litigation with a 
+                        focus on post-conviction proceedings for which 
+                        continuing legal education (CLE) credit is 
+                        available, and which the CLE authority in the 
+                        State has certified as comporting with the 
+                        objectives and requirements of this section.
+                    ``(C) Alternative qualifying experience for post-
+                conviction proceedings.--Notwithstanding subparagraphs 
+                (A) and (B), an attorney shall be eligible for 
+                certification pursuant to paragraph (2) or (3) of 
+                subsection (d) or appointment pursuant to subsection 
+                (g) if the attorney--
+                            ``(i) has conducted 3 evidentiary hearings 
+                        and has been employed for more than 1 year by a 
+                        capital litigation resource center, by a unit 
+                        or its equivalent that specializes in capital 
+                        cases within a public defender office, or by a 
+                        public interest law office specializing in 
+                        capital litigation; or
+                            ``(ii) has been certified by the State 
+                        capital litigation resource center as competent 
+                        to be assigned to a capital post-conviction 
+                        proceeding.
+    ``(f) Appointment of Certified Counsel.--(1) The State court shall 
+appoint at least 2 attorneys to represent an indigent at trial, and at 
+least 1 attorney to represent an indigent at the appellate, unitary or 
+post-conviction review stage, including--
+            ``(A) a lead counsel who is named on the roster published 
+        pursuant to subsection (d)(5);
+            ``(B) a defender organization or resource center, which 
+        shall designate appropriate attorneys affiliated with the 
+        organization, including a lead counsel who is named on the 
+        roster; or
+            ``(C) a lead counsel certified pursuant to subsection 
+        (d)(4).
+    ``(2) The State court may appoint additional attorneys upon a 
+showing of need.
+    ``(g) Appointment of Noncertified Counsel.--(1) If there is no 
+roster of attorneys published pursuant to subsection (d)(5), or if no 
+attorney on the roster can accept the appointment and if no attorney 
+certified pursuant to subsection (d)(4) has been appointed, the State 
+court shall appoint at least 2 attorneys to represent an indigent at 
+trial, and at least 1 attorney to represent an indigent at the 
+appellate, unitary or post-conviction review stage, including--
+            ``(A) a lead counsel who possesses the minimum 
+        qualifications required by subsection (e); or
+            ``(B) a defender organization or resource center, which 
+        shall designate appropriate attorneys affiliated with the 
+        organization, including a lead counsel who possesses the 
+        qualifications required by subsection (e).
+    ``(2) No attorney shall be appointed pursuant to this subsection 
+unless the State court has first conducted an evidentiary hearing on 
+the record in which the court determines, after the attorney gives 
+sworn testimony and presents documentary proof that the attorney 
+possesses each of the qualifications required by subsection (e), that 
+the attorney possesses the requisite qualifications. In making its 
+determination, the court shall, as to each qualification required by 
+subsection (e), make a specific finding on the record that the attorney 
+possesses the qualification.
+    ``(h) No attorney may be denied certification pursuant to paragraph 
+(2) or (3) of subsection (d) or appointment pursuant to subsection (g) 
+solely because of prior employment as a prosecutor.
+    ``(i) Prior to appointing counsel pursuant to this section, the 
+State court shall inquire as to whether counsel maintains a workload 
+which, by reason of its excessive size, will interfere with the 
+rendering of quality representation or create a substantial risk of a 
+breach of professional obligations.
+    ``(j) If a person entitled to an appointment of counsel declines to 
+accept an appointment, the State court shall conduct, or cause to be 
+conducted, a hearing, at which the person and counsel proposed to be 
+appointed shall be present, to determine the person's competence to 
+decline the appointment, and whether the person has competently and 
+knowingly declined it.
+    ``(k) If a State court fails to appoint counsel in a proceeding 
+specified in subsection (b), or if a State court in a proceeding 
+described in subsection (b)--
+            ``(1) fails to appoint the number of counsel required in 
+        subsection (f);
+            ``(2) appoints counsel whose name is not on the roster 
+        published pursuant to subsection (d)(5);
+            ``(3) appoints counsel who has failed to present a 
+        certification issued pursuant to subsection (d)(4); or
+            ``(4) when subsection (g) applies, fails to hold the 
+        hearing, receive the requisite testimony and proof, or make the 
+        determination required by subsection (g),
+ a Federal court, in a proceeding under this chapter, shall neither 
+presume findings of fact made at such proceeding to be correct nor 
+decline to consider a claim on the ground that it was not raised in 
+such proceeding at the time or in the manner prescribed by State law. 
+In no circumstances other than those described in this subsection shall 
+a determination of noncompliance with this section provide a basis for 
+relief to a petitioner proceeding under this chapter.
+    ``(l) No attorney appointed to represent a prisoner in State post-
+conviction proceedings shall have previously represented the prisoner 
+at trial or on direct appeal in the case for which the appointment is 
+made, unless the prisoner and attorney expressly request continued 
+representation.
+    ``(m) Notwithstanding the rates and maximum limits generally 
+applicable to criminal cases and any other provision of law to the 
+contrary, the highest State court with jurisdiction over criminal cases 
+shall, after notice and comment, establish a schedule of hourly rates 
+for the compensation of attorneys appointed pursuant to this section 
+that are reasonable in light of the qualifications of attorneys 
+appointed and the local practices for legal representation in cases 
+reflecting the complexity and responsibility of capital cases. For each 
+attorney appointed pursuant to this section, the State court shall 
+separately order compensation at the rates set by the highest State 
+court for the hours the attorneys reasonably expended on the case and 
+for reasonable expenses paid for investigative, expert, and other 
+reasonably necessary services. Any aggrieved party may bring a private 
+cause of action in Federal district court to enforce the provisions of 
+this subsection for the establishment of a schedule of reasonable 
+hourly rates for the compensation of attorneys. In such an action, the 
+Federal court shall not independently determine the appropriate rates, 
+but shall decide whether the hourly rates as scheduled by the State 
+court are within the range of reasonableness consistent with the 
+criteria stated in this subsection. If the hourly rates as scheduled 
+are not within the range of reasonableness, or if no schedule of rates 
+has been established, the court shall grant appropriate injunctive or 
+declaratory relief, except that the court shall not grant relief that 
+disturbs any criminal conviction or sentence, obstructs the prosecution 
+of State criminal proceedings, or alters proceedings arising under this 
+chapter.
+    ``(n) The ineffectiveness or incompetence of counsel appointed 
+pursuant to this section during State or Federal post-conviction 
+proceedings shall not be a ground for relief in a proceeding arising 
+under section 2254. This limitation shall not preclude the appointment 
+of different counsel at any phase of State or Federal post-conviction 
+proceedings.
+    ``(o) Nothing in this section changes the constitutional standard 
+governing claims of ineffective assistance of counsel pursuant to the 
+sixth amendment to the Constitution of the United States. A 
+determination of noncompliance with this section (as opposed to the 
+facts which support such a determination) shall not provide a basis for 
+a claim of constitutionally ineffective assistance of counsel.
+    ``(p) The requirements of this section shall apply to any 
+appointment of counsel made after the effective date of this section in 
+any trial, direct appeal, or unitary review of a capital indigent. 
+Counsel shall be appointed as provided in this section in any post-
+conviction proceeding commenced after the effective date of this 
+section. In no case shall counsel appointed for a proceeding commenced 
+before the effective date of this section be subject to the 
+requirements of this section, nor shall any person whose counsel was 
+appointed for any trial, appeal, post-conviction or unitary review 
+before the effective date of this section be entitled to any relief, 
+including application of subsection (k), based on a claim that counsel 
+was not appointed in conformity with subsection (f) or (g).''.
+    (b) Technical Amendment.--The chapter analysis for chapter 153 of 
+title 28, United States Code, as amended by section 304(a)(2), is 
+amended by adding at the end the following new item:
+
+``2258. Counsel in capital cases; State court.''.
+
+SEC. 312. CAPITAL LITIGATION FUNDING.
+
+    (a) Grants for Capital Habeas Corpus Prosecutions.--
+            (1) In general.--Subpart 2 of part E of title I of the 
+        Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 
+        3711 et seq.) is amended by adding at the end the following new 
+        section:
+
+                       ``habeas corpus litigation
+
+    ``Sec. 511A. Notwithstanding any other provision of this title, the 
+Director shall provide grants to the States, from the funding allocated 
+pursuant to section 511, for the purpose of supporting litigation 
+pertaining to Federal habeas corpus petitions in capital cases. The 
+total funding authorized for such grants within any fiscal year shall 
+be equal to the funding provided to capital resource centers, pursuant 
+to Federal appropriation, in the same fiscal year.''.
+            (2) Technical amendment.--The table of contents of title I 
+        of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
+        U.S.C. preceding 3701) is amended by inserting after the item 
+        relating to section 511 the following new item:
+
+``Sec. 511A. Habeas corpus litigation.''.
+    (b) Grants for State Capital Litigation.--
+            (1) In general.--Title I of the Omnibus Crime Control and 
+        Safe Streets Act of 1968 (42 U.S.C. 3711 et seq.), as amended 
+        by section 103(a) is amended--
+                    (A) by redesignating part R as part S;
+                    (B) by redesignating section 1801 as section 1901; 
+                and
+                    (C) by inserting after part Q the following new 
+                part:
+
+             ``PART R--GRANTS FOR STATE CAPITAL LITIGATION
+
+``SEC. 1801. GRANT AUTHORIZATION.
+
+    ``The Director of the Bureau of Justice Assistance shall make 
+grants to States from amounts appropriated to carry out this part for 
+the use by States and by local entities in the States to comply with 
+section 2258 of title 28, United States Code.
+
+``SEC. 1802. STATE APPLICATIONS.
+
+    ``(a) In General.--(1) To request a grant under this part, the 
+Chief Executive of a State shall submit an application to the Director 
+in such form and containing such information as the Director may 
+reasonably require.
+    ``(2) An application under paragraph (1) shall include assurances 
+that Federal funds received under this part shall be used to 
+supplement, not supplant, non-Federal funds that would otherwise be 
+available for activities funded under this part.
+    ``(b) State Office.--The office designated under section 507--
+            ``(1) shall prepare an application under this section; and
+            ``(2) shall administer grant funds received under this 
+        part, including review of spending, processing, progress, 
+        financial reporting, technical assistance, grant adjustments, 
+        accounting, auditing, and fund disbursement.
+
+``SEC. 1803. REVIEW OF STATE APPLICATIONS.
+
+    ``(a) In General.--The Director shall make a grant under section 
+1801 to carry out the activities described in the application submitted 
+by an applicant under section 1802 upon determining that--
+            ``(1) the application is consistent with the requirements 
+        of this part; and
+            ``(2) before the approval of the application, the Bureau 
+        has made an affirmative finding in writing that the proposed 
+        activities have been reviewed in accordance with this part.
+    ``(b) Approval.--Each application submitted under section 1802 
+shall be considered to be approved, in whole or in part, by the 
+Director not later than 45 days after first received unless the 
+Director informs the applicant of specific reasons for disapproval.
+    ``(c) Disapproval Notice and Reconsideration.--The Director shall 
+not disapprove any application without first affording the applicant 
+reasonable notice and opportunity for reconsideration.
+
+``SEC. 1804. DISTRIBUTION OF FUNDS.
+
+    ``For fiscal years 1994, 1995, and 1996, the Federal share of a 
+grant made under this part may not exceed 75 percent of the total costs 
+of the activities described in the application submitted under section 
+1702 for the fiscal year for which the project receives assistance 
+under this part. Thereafter, the Federal share of a grant made under 
+this part may not exceed 50 percent.
+
+``SEC. 1805. EVALUATION.
+
+    ``(a) In General.--(1) A State that receives a grant under this 
+part shall submit to the Director an evaluation not later than March 1 
+of each year in accordance with guidelines issued by the Director.
+    ``(2) The Director may waive the requirement specified in 
+subsection (a) if the Director determines that such evaluation is not 
+warranted in the case of any particular State.
+    ``(b) Distribution.--A State or local entity may use not more than 
+5 percent of the funds it receives under this part to develop an 
+evaluation program under this section.''.
+            (2) Technical amendment.--The table of contents of title I 
+        of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
+        U.S.C. 3711 et seq.), as amended by section 103(b), is amended 
+        by striking the matter relating to part R and inserting the 
+        following:
+
+             ``Part R--Grants for State Capital Litigation
+
+``Sec. 1801. Grant authorization.
+``Sec. 1802. State applications.
+``Sec. 1803. Review of State applications.
+``Sec. 1804. Distribution of funds.
+``Sec. 1805. Evaluation.
+             ``Part S--Transition; Effective Date; Repealer
+
+``Sec. 1901. Confirmation of rules, authorities, and proceedings.''.
+            (3) Authorization of appropriations.--Section 1001(a) of 
+        title I of the Omnibus Crime Control and Safe Streets Act of 
+        1968 (42 U.S.C. 3793(a)), as amended by section 103(c), is 
+        amended--
+                    (A) in paragraph (3) by striking ``and Q'' and 
+                inserting ``Q, and R''; and
+                    (B) by adding at the end the following new 
+                paragraph:
+    ``(12) There are authorized to be appropriated $50 million for each 
+of fiscal years 1995, 1996, and 1997 to carry out activities under part 
+R.''.
+
+SEC. 313. ABROGATION OF STATE SOVEREIGN IMMUNITY.
+
+    Any State, any instrumentality of a State, and any officer or 
+employee of a State or instrumentality of a State acting in an official 
+capacity, shall not be immune, under the Eleventh Amendment to the 
+Constitution of the United States, from suit in Federal court for a 
+violation of subsection 2258(c) or (m) of title 28, United States Code, 
+as added by section 308(a).
+
+SEC. 314. EFFECTIVE DATE.
+
+    (a) In General.--Except as provided in subsection (b), this title 
+and the amendments made by this title shall take effect on the date 
+that is 180 days after the date of enactment of this Act.
+    (b) Section 2258(b) of Title 28, United States Code.--Section 
+2258(b) of title 28, United States Code, as added by section 308(a), 
+shall take effect on the date of enactment of this Act.
+S 1657 PCS----2
+S 1657 PCS----3
+S 1657 PCS----4

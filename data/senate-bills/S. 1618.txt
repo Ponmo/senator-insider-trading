@@ -1,0 +1,1038 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1618 Referred in House (RFH)]
+
+  2d Session
+                                S. 1618
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 21, 1998
+
+                 Referred to the Committee on Commerce
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Communications Act of 1934 to improve the protection of 
+consumers against ``slamming'' by telecommunications carriers, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Anti-slamming Amendments Act''.
+
+                           TITLE I--SLAMMING
+
+SEC. 101. IMPROVED PROTECTION FOR CONSUMERS.
+
+    (a) Verification of Authorization.--Subsection (a) of section 258 
+of the Communications Act of 1934 (47 U.S.C. 258) is amended to read as 
+follows:
+    ``(a) Prohibition.--
+            ``(1) In general.--No telecommunications carrier or 
+        reseller of telecommunications services shall submit or execute 
+        a change in a subscriber's selection of a provider of telephone 
+        exchange service or telephone toll service except in accordance 
+        with this section and such verification procedures as the 
+        Commission shall prescribe.
+            ``(2) Verification.--
+                    ``(A) In general.--In order to verify a 
+                subscriber's selection of a telephone exchange service 
+                or telephone toll service provider under this section, 
+                the telecommunications carrier or reseller shall, at a 
+                minimum, require the subscriber--
+                            ``(i) to affirm that the subscriber is 
+                        authorized to select the provider of that 
+                        service for the telephone number in question;
+                            ``(ii) to acknowledge the type of service 
+                        to be changed as a result of the selection;
+                            ``(iii) to affirm the subscriber's intent 
+                        to select the provider as the provider of that 
+                        service;
+                            ``(iv) to acknowledge that the selection of 
+                        the provider will result in a change in 
+                        providers of that service; and
+                            ``(v) to provide such other information as 
+                        the Commission considers appropriate for the 
+                        protection of the subscriber.
+                    ``(B) Additional requirements.--The procedures 
+                prescribed by the Commission to verify a subscriber's 
+                selection of a provider shall--
+                            ``(i) preclude the use of negative option 
+                        marketing;
+                            ``(ii) provide for a complete copy of 
+                        verification of a change in telephone exchange 
+                        service or telephone toll service provider in 
+                        oral, written, or electronic form;
+                            ``(iii) require the retention of such 
+                        verification in such manner and form and for 
+                        such time as the Commission considers 
+                        appropriate;
+                            ``(iv) mandate that verification occur in 
+                        the same language as that in which the change 
+                        was solicited; and
+                            ``(v) provide for verification to be made 
+                        available to a subscriber on request.
+            ``(3) Action by unaffiliated reseller not imputed to 
+        carrier.--No telecommunications carrier may be found to be in 
+        violation of this section solely on the basis of a violation of 
+        this section by an unaffiliated reseller of that carrier's 
+        services or facilities.
+            ``(4) Freeze option protected.--The Commission may not take 
+        action under this section to limit or inhibit a subscriber's 
+        ability to require that any change in the subscriber's choice 
+        of a provider of interexchange service not be effected unless 
+        the change is expressly and directly communicated by the 
+        subscriber to the subscriber's existing telephone exchange 
+        service provider.
+            ``(5) Application to wireless.--This section does not apply 
+        to a provider of commercial mobile service.''.
+    (b) Liability for Charges.--Subsection (b) of such section is 
+amended--
+            (1) by striking ``(b) Liability for Charges.--Any 
+        telecommunications carrier'' and inserting the following:
+    ``(b) Liability for Charges.--
+            ``(1) In general.--Any telecommunications carrier or 
+        reseller of telecommunications services'';
+            (2) by designating the second sentence as paragraph (3) and 
+        inserting at the beginning of such paragraph, as so designated, 
+        the following:
+            ``(3) Construction of remedies.--''; and
+            (3) by inserting after paragraph (1), as designated by 
+        paragraph (1) of this subsection, the following:
+            ``(2) Subscriber payment option.--
+                    ``(A) In general.--A subscriber whose telephone 
+                exchange service or telephone toll service is changed 
+                in violation of the provisions of this section, or the 
+                procedures prescribed under subsection (a), may elect 
+                to pay the carrier or reseller previously selected by 
+                the subscriber for any such service received after the 
+                change in full satisfaction of amounts due from the 
+                subscriber to the carrier or reseller providing such 
+                service after the change.
+                    ``(B) Payment rate.--Payment for service under 
+                subparagraph (A) shall be at the rate for such service 
+                charged by the carrier or reseller previously selected 
+                by the subscriber concerned.''.
+    (c) Resolution of Complaints.--Section 258 of the Communications 
+Act of 1934 (47 U.S.C. 258) is amended by adding at the end thereof the 
+following:
+    ``(c) Notice to Subscriber.--Whenever there is a change in a 
+subscriber's selection of a provider of telephone exchange service or 
+telephone toll service, the telecommunications carrier or reseller 
+selected shall notify the subscriber in a specific and unambiguous 
+writing, not more than 15 days after the change is processed by the 
+telecommunications carrier or the reseller--
+            ``(1) of the subscriber's new carrier or reseller; and
+            ``(2) that the subscriber may request information regarding 
+        the date on which the change was agreed to and the name of the 
+        individual who authorized the change.
+    ``(d) Resolution of Complaints.--
+            ``(1) Prompt resolution.--
+                    ``(A) In general.--The Commission shall prescribe a 
+                period of time for a telecommunications carrier or 
+                reseller to resolve a complaint by a subscriber 
+                concerning an unauthorized change in the subscriber's 
+                selection of a provider of telephone exchange service 
+                or telephone toll service not in excess of 120 days 
+                after the telecommunications carrier or reseller 
+                receives notice from the subscriber of the complaint. A 
+                subscriber may at any time pursue such a complaint with 
+                the Commission, in a State or local administrative or 
+                judicial body, or elsewhere.
+                    ``(B) Unresolved complaints.--If a 
+                telecommunications carrier or reseller fails to resolve 
+                a complaint within the time period prescribed by the 
+                Commission, then, within 10 days after the end of that 
+                period, the telecommunications carrier or reseller 
+                shall--
+                            ``(i) notify the subscriber in writing of 
+                        the subscriber's right to file a complaint with 
+                        the Commission and of the subscriber's rights 
+                        and remedies under this section;
+                            ``(ii) inform the subscriber in writing of 
+                        the procedures prescribed by the Commission for 
+                        filing such a complaint; and
+                            ``(iii) provide the subscriber a copy of 
+                        any evidence in the carrier's or reseller's 
+                        possession showing that the change in the 
+                        subscriber's provider of telephone exchange 
+                        service or telephone toll service was submitted 
+                        or executed in accordance with the verification 
+                        procedures prescribed under subsection (a).
+            ``(2) Resolution by commission.--
+                    ``(A) Determination of violation.--The Commission 
+                shall provide a simplified process for resolving 
+                complaints under paragraph (1)(B). The simplified 
+                procedure shall preclude the use of interrogatories, 
+                depositions, discovery, or other procedural techniques 
+                that might unduly increase the expense, formality, and 
+                time involved in the process. The Commission shall 
+                determine whether there has been a violation of 
+                subsection (a) and shall issue a decision or ruling at 
+                the earliest date practicable, but in no event later 
+                than 150 days after the date on which it received the 
+                complaint.
+                    ``(B) Determination of damages and penalties.--If 
+                the Commission determines that there has been a 
+                violation of subsection (a), it shall issue a decision 
+                or ruling determining the amount of the damages and 
+                penalties at the earliest practicable date, but in no 
+                event later than 90 days after the date on which it 
+                issued its decision or ruling under subparagraph (A).
+            ``(3) Damages awarded by commission.--If a violation of 
+        subsection (a) is found by the Commission, the Commission may 
+        award damages equal to the greater of $500 or the amount of 
+        actual damages for each violation. The Commission may, in its 
+        discretion, increase the amount of the award to an amount equal 
+        to not more than 3 times the amount available under the 
+        preceding sentence.
+    ``(e) Disqualification and Reinstatement.--
+            ``(1) Disqualification from certain activities based on 
+        conviction.--
+                    ``(A) Disqualification of persons.--Subject to 
+                subparagraph (C), any person convicted under section 
+                2328 of title 18, United States Code, in addition to 
+                any fines or imprisonment under that section, may not 
+                carry out any activities covered by section 214.
+                    ``(B) Disqualification of companies.--Subject to 
+                subparagraph (C), any company substantially controlled 
+                by a person convicted under section 2328 of title 18, 
+                United States Code, in addition to any fines or 
+                imprisonment under that section, may not carry out any 
+                activities covered by section 214.
+                    ``(C) Reinstatement.--
+                            ``(i) In general.--The Commission may 
+                        terminate the application of subparagraph (A) 
+                        to a person, or subparagraph (B) to a company, 
+                        if the Commission determines that the 
+                        termination would be in the public interest.
+                            ``(ii) Effective date.--The termination of 
+                        the applicability of subparagraph (A) to a 
+                        person, or subparagraph (B) to a company, under 
+                        clause (i) may not take effect earlier than 5 
+                        years after the date on which the applicable 
+                        subparagraph applied to the person or company 
+                        concerned.
+            ``(2) Certification requirement.--Any person described in 
+        subparagraph (A) of paragraph (1), or company described in 
+        subparagraph (B) of that paragraph, not reinstated under 
+        subparagraph (C) of that paragraph shall include with any 
+        application to the Commission under section 214 a certification 
+        that the person or company, as the case may be, is described in 
+        paragraph (1)(A) or (B), as the case may be.
+    ``(f) Civil Penalties.--
+            ``(1) In general.--Unless the Commission determines that 
+        there are mitigating circumstances, violation of subsection (a) 
+        is punishable by a forfeiture of not less than $40,000 for the 
+        first offense, and not less than $150,000 for each subsequent 
+        offense.
+            ``(2) Failure to notify treated as violation of subsection 
+        (a).--If a telecommunications carrier or reseller fails to 
+        comply with the requirements of subsection (d)(1)(B), then that 
+        failure shall be treated as a violation of subsection (a).
+    ``(g) Recovery of Forfeitures.--The Commission may take such action 
+as may be necessary--
+            ``(1) to collect any forfeitures it imposes under this 
+        section; and
+            ``(2) on behalf of any subscriber, to collect any damages 
+        awarded the subscriber under this section.
+    ``(h) Change Includes Initial Selection.--For purposes of this 
+section, the initiation of service to a subscriber by a 
+telecommunications carrier or a reseller shall be treated as a change 
+in a subscriber's selection of a provider of telephone exchange service 
+or telephone toll service.''.
+    (d) Criminal Penalty.--
+            (1) In general.--Chapter 113A of title 18, United States 
+        Code, is amended by adding at the end thereof the following:
+``Sec. 2328. Slamming
+    ``Any person who submits or executes a change in a provider of 
+telephone exchange service or telephone toll service not authorized by 
+the subscriber in willful violation of the provisions of section 258 of 
+the Communications Act of 1934 (47 U.S.C. 258), or the procedures 
+prescribed under section 258(a) of that Act--
+                    ``(A) shall be fined in accordance with this title, 
+                imprisoned not more than 1 year, or both; but
+                    ``(B) if previously convicted under this paragraph 
+                at the time of a subsequent offense, shall be fined in 
+                accordance with this title, imprisoned not more than 5 
+                years, or both, for such subsequent offense.''.
+            (2) Conforming amendment.--The chapter analysis for chapter 
+        113A of title 18, United States Code, is amended by adding at 
+        the end thereof the following:
+
+``2328. Slamming''.
+    (e) State Right-of-Action.--Section 258 of the Communications Act 
+of 1934 (47 U.S.C. 258), as amended by subsection (c), is amended by 
+adding at the end thereof the following:
+    ``(i) Actions by States.--
+            ``(1) In general.--The attorney general of a State, or an 
+        official or agency designated by a State--
+                    ``(A) may bring an action on behalf of its 
+                residents to recover damages on their behalf under 
+                subsection (d)(3);
+                    ``(B) may bring a criminal action to enforce this 
+                section under section 2328 of title 18, United States 
+                Code; and
+                    ``(C) may bring an action for the assessment of 
+                civil penalties under subsection (f),
+        and for purposes of such an action, subsections (d)(3) and 
+        (f)(1) shall be applied by substituting `the court' for `the 
+        Commission'.
+            ``(2) Exclusive jurisdiction of federal courts.--The 
+        district courts of the United States, the United States courts 
+        of any territory, and the District Court of the United States 
+        for the District of Columbia shall have exclusive jurisdiction 
+        over all actions brought under this section. When a State 
+        brings an action under this section, the court in which the 
+        action is brought has pendant jurisdiction of any claim brought 
+        under the law of that State. Upon proper application, such 
+        courts shall also have jurisdiction to issue writs of mandamus, 
+        or orders affording like relief, commanding the defendant to 
+        comply with the provisions of this section or regulations 
+        prescribed under this section, including the requirement that 
+        the defendant take such action as is necessary to remove the 
+        danger of such violation. Upon a proper showing, a permanent or 
+        temporary injunction or restraining order shall be granted 
+        without bond.
+            ``(3) Rights of commission.--The State shall serve prior 
+        written notice of any such civil action upon the Commission and 
+        provide the Commission with a copy of its complaint, except in 
+        any case where such prior notice is not feasible, in which case 
+        the State shall serve such notice immediately upon instituting 
+        such action. The Commission shall have the right--
+                    ``(A) to intervene in the action;
+                    ``(B) upon so intervening, to be heard on all 
+                matters arising therein; and
+                    ``(C) to file petitions for appeal.
+            ``(4) Venue; service of process.--Any civil action brought 
+        under this subsection in a district court of the United States 
+        may be brought in the district wherein the subscriber or 
+        defendant is found or is an inhabitant or transacts business or 
+        wherein the violation occurred or is occurring, and process in 
+        such cases may be served in any district in which the defendant 
+        is an inhabitant or where the defendant may be found.
+            ``(5) Investigatory powers.--For purposes of bringing any 
+        civil action under this subsection, nothing in this section 
+        shall prevent the attorney general of a State, or an official 
+        or agency designated by a State, from exercising the powers 
+        conferred on the attorney general or such official by the laws 
+        of such State to conduct investigations or to administer oaths 
+        or affirmations or to compel the attendance of witnesses or the 
+        production of documentary and other evidence.
+    ``(j) State Law Not Preempted.--
+            ``(1) In general.--Nothing in this section or in the 
+        regulations prescribed under this section shall preempt any 
+        State law that imposes more restrictive requirements, 
+        regulations, damages, costs, or penalties on changes in a 
+        subscriber's service or selection of a provider of telephone 
+        exchange service or telephone toll services than are imposed 
+        under this section.
+            ``(2) Effect on state court proceedings.--Nothing contained 
+        in this section shall be construed to prohibit an authorized 
+        State official from proceeding in State court on the basis of 
+        an alleged violation of any general civil or criminal statute 
+        of such State or any specific civil or criminal statute of such 
+        State not preempted by this section.
+            ``(3) Limitations.--Whenever a complaint is pending before 
+        the Commission involving a violation of regulations prescribed 
+        under this section, no State may, during the pendency of such 
+        complaint, institute a civil action against any defendant party 
+        to the complaint for any violation affecting the same 
+        subscriber alleged in the complaint.
+    ``(k) Reports on Complaints.--
+            ``(1) Reports required.--Each telecommunications carrier or 
+        reseller shall submit to the Commission, quarterly, a report on 
+        the number of complaints of unauthorized changes in providers 
+        of telephone exchange service or telephone toll service that 
+        are submitted to the carrier or reseller by its subscribers. 
+        Each report shall specify each provider of service complained 
+        of and the number of complaints relating to such provider.
+            ``(2) Limitation on scope.--The Commission may not require 
+        any information in a report under paragraph (1) other than the 
+        information specified in the second sentence of that paragraph.
+            ``(3) Utilization.--The Commission shall use the 
+        information submitted in reports under paragraph (1) to 
+        identify telecommunications carriers or resellers that engage 
+        in patterns and practices of unauthorized changes in providers 
+        of telephone exchange service or telephone toll service.
+    ``(l) Definitions.--For purposes of this section:
+            ``(1) Attorney general.--The term `attorney general' means 
+        the chief legal officer of a State.
+            ``(2) Subscriber.--The term `subscriber' means the person 
+        named on the billing statement or account, or any other person 
+        authorized to make changes in the providers of telephone 
+        exchange service or telephone toll service.''.
+    (f) Report on Carriers Executing Unauthorized Changes of Telephone 
+Service.--
+            (1) Report.--Not later than October 31, 1998, the Federal 
+        Communications Commission shall submit to Congress a report on 
+        unauthorized changes of subscribers' selections of providers of 
+        telephone exchange service or telephone toll service.
+            (2) Elements.--The report shall include the following:
+                    (A) A list of the 10 telecommunications carriers or 
+                resellers that, during the 1-year period ending on the 
+                date of the report, were subject to the highest number 
+                of complaints of having executed unauthorized changes 
+                of subscribers from their selected providers of 
+                telephone exchange service or telephone toll service 
+                when compared with the total number of subscribers 
+                served by such carriers or resellers.
+                    (B) The telecommunications carriers or resellers, 
+                if any, assessed forfeitures under section 258(f) of 
+                the Communications Act of 1934 (as added by subsection 
+                (d)), during that period, including the amount of each 
+                such forfeiture and whether the forfeiture was assessed 
+                as a result of a court judgment or an order of the 
+                Commission or was secured pursuant to a consent decree.
+
+SEC. 102. ADDITIONAL ENFORCEMENT AUTHORITY.
+
+    Section 504 of the Communications Act of 1934 (47 U.S.C. 504) is 
+amended by adding at the end thereof the following: ``Notwithstanding 
+the preceding sentence, the failure of a person to pay a forfeiture 
+imposed for violation of section 258(a) may be used as a basis for 
+revoking, denying, or limiting that person's operating authority under 
+section 214 or 312.''.
+
+SEC. 103. OBLIGATIONS OF BILLING AGENTS.
+
+    (a) In General.--Part I of title II of the Communications Act of 
+1934 (47 U.S.C. 201 et seq.) is amended by adding at the end thereof 
+the following:
+
+``SEC. 231. OBLIGATIONS OF TELEPHONE BILLING AGENTS.
+
+    ``(a) In General.--A billing agent, including a telecommunications 
+carrier or reseller, who issues a bill for telephone exchange service 
+or telephone toll service to a subscriber shall--
+            ``(1) state on the bill--
+                    ``(A) the name and toll-free telephone number of 
+                any telecommunications carrier or reseller for the 
+                subscriber's telephone exchange service and telephone 
+                toll service;
+                    ``(B) the identity of the presubscribed carrier or 
+                reseller; and
+                    ``(C) the charges associated with each carrier's or 
+                reseller's provision of telecommunications service 
+                during the billing period;
+            ``(2) for services other than those described in paragraph 
+        (1), state on a separate page--
+                    ``(A) the name of any company whose charges are 
+                reflected on the subscriber's bill;
+                    ``(B) the services for which the subscriber is 
+                being charged by that company;
+                    ``(C) the charges associated with that company's 
+                provision of service during the billing period;
+                    ``(D) the toll-free telephone number that the 
+                subscriber may call to dispute that company's charges; 
+                and
+                    ``(E) that disputes about that company's charges 
+                will not result in disruption of telephone exchange 
+                service or telephone toll service; and
+            ``(3) show the mailing address of any telecommunications 
+        carrier or reseller or other company whose charges are 
+        reflected on the bill.
+    ``(b) Knowing Inclusion of Unauthorized or Improper Charges 
+Prohibited.--A billing agent may not submit charges for 
+telecommunications services or other services to a subscriber if the 
+billing agent knows, or should know, that the subscriber did not 
+authorize the charges or that the charges are otherwise improper.''.
+    (b) Effective Date.--The amendment made by subsection (a) applies 
+to bills to subscribers for telecommunications services sent to 
+subscribers more than 60 days after the date of enactment of this Act.
+
+SEC. 104. FCC JURISDICTION OVER BILLING SERVICE PROVIDERS.
+
+    Part III of title II of the Communications Act of 1934 (47 U.S.C. 
+271 et seq.) is amended by adding at the end thereof the following:
+
+``SEC. 277. JURISDICTION OVER BILLING SERVICE PROVIDERS.
+
+    ``The Commission has jurisdiction to assess and recover any penalty 
+imposed under title V of this Act against an entity not a 
+telecommunications carrier or reseller to the extent that entity 
+provides billing services for the provision of telecommunications 
+services, or for services other than telecommunications services that 
+appear on a subscriber's telephone bill for telecommunications 
+services, but the Commission may assess and recover such penalties only 
+if that entity knowingly or willfully violates the provisions of this 
+Act or any rule or order of the Commission.''.
+
+SEC. 105. REPORT; STUDY.
+
+    (a) In General.--The Federal Communications Commission shall issue 
+a report within 180 days after the date of enactment of this Act on the 
+telemarketing and other solicitation practices used by 
+telecommunications carriers or resellers or their agents or employees 
+for the purpose of changing the telephone exchange service or telephone 
+toll service provider of a subscriber.
+    (b) Specific Issues.--As part of the report required under 
+subsection (a), the Commission shall include findings on--
+            (1) the extent to which imposing penalties on telemarketers 
+        would deter unauthorized changes in a subscriber's selection of 
+        a provider of telephone exchange service or telephone toll 
+        service;
+            (2) the need for rules requiring third-party verification 
+        of changes in a subscriber's selection of such a provider and 
+        independent third party administration of presubscribed 
+        interexchange carrier changes; and
+            (3) whether wireless carriers should continue to be exempt 
+        from the requirements imposed by section 258 of the 
+        Communications Act of 1934 (47 U.S.C. 258).
+    (c) Rulemaking.--If the Commission determines that particular 
+telemarketing or other solicitation practices are being used with the 
+intention to mislead, deceive, or confuse subscribers and that they are 
+likely to mislead, deceive, or confuse subscribers, then the Commission 
+shall initiate a rulemaking to prohibit the use of such practices 
+within 120 days after the completion of its report.
+
+SEC. 106. DISCLOSURE OF CERTAIN RECORDS FOR INVESTIGATIONS OF 
+              TELEMARKETING FRAUD.
+
+    Section 2703(c)(1)(B) of title 18, United States Code, is amended 
+by--
+            (1) striking ``or'' at the end of clause (ii);
+            (2) striking the period at the end of clause (iii) and 
+        inserting ``; or''; and
+            (3) adding at the end the following:
+                    ``(iv) submits a formal written request relevant to 
+                a law enforcement investigation concerning 
+                telemarketing fraud for the name, address, and place of 
+                business of a subscriber or customer of such provider, 
+                which subscriber or customer is engaged in 
+                telemarketing (as such term is in section 2325 of this 
+                title).''.
+
+                     TITLE II--SWITCHLESS RESELLERS
+
+SEC. 201. REQUIREMENT FOR SURETY BONDS FROM TELECOMMUNICATIONS CARRIERS 
+              OPERATING AS SWITCHLESS RESELLERS.
+
+    Part I of title II of the Communications Act of 1934 (47 U.S.C. 201 
+et seq.), as amended by section 103 of this Act, is amended by adding 
+at the end the following:
+
+``SEC. 232. SURETY BONDS FROM TELECOMMUNICATIONS CARRIERS OPERATING AS 
+              SWITCHLESS RESELLERS.
+
+    ``(a) Requirement.--Under such regulations as the Commission shall 
+prescribe, any telecommunications carrier operating or seeking to 
+operate as a switchless reseller shall furnish to the Commission a 
+surety bond in a form and an amount determined by the Commission to be 
+satisfactory for purposes of this section.
+    ``(b) Surety.--A surety bond furnished pursuant to this section 
+shall be issued by a surety corporation that meets the requirements of 
+section 9304 of title 31, United States Code.
+    ``(c) Claims Against Bond.--A surety bond furnished under this 
+section shall be available to pay the following:
+            ``(1) Any fine or penalty imposed against the carrier 
+        concerned while operating as a switchless reseller as a result 
+        of a violation of the provisions of section 258 (relating to 
+        unauthorized changes in subscriber selections to 
+        telecommunications carriers).
+            ``(2) Any penalty imposed against the carrier under this 
+        section.
+            ``(3) Any other fine or penalty, including a forfeiture 
+        penalty, imposed against the carrier under this Act.
+    ``(d) Resident Agent.--A telecommunications carrier operating as a 
+switchless reseller that is not domiciled in the United States shall 
+designate a resident agent in the United States for receipt of service 
+of judicial and administrative process, including subpoenas.
+    ``(e) Penalties.--
+            ``(1) Suspension.--The Commission may suspend the right of 
+        any telecommunications carrier to operate as a switchless 
+        reseller--
+                    ``(A) for failure to furnish or maintain the surety 
+                bond required by subsection (a);
+                    ``(B) for failure to designate an agent as required 
+                by subsection (d); or
+                    ``(C) for a violation of section 258 while 
+                operating as a switchless reseller.
+            ``(2) Additional penalties.--In addition to suspension 
+        under paragraph (1), any telecommunications carrier operating 
+        as a switchless reseller that fails to furnish or maintain a 
+        surety bond under this section shall be subject to any 
+        forfeiture provided for under sections 503 and 504.
+    ``(f) Billing Services for Unbonded Switchless Resellers.--
+            ``(1) Prohibition.--No common carrier or billing agent may 
+        provide billing services for any services provided by a 
+        switchless reseller unless the switchless reseller--
+                    ``(A) has furnished the bond required by subsection 
+                (a); and
+                    ``(B) in the case of a switchless reseller not 
+                domiciled in the United States, has designated an agent 
+                under subsection (d).
+            ``(2) Penalty.--
+                    ``(A) Penalty.--Any common carrier or billing agent 
+                that knowingly and willfully provides billing services 
+                to a switchless reseller in violation of paragraph (1) 
+                shall be liable to the United States for a civil 
+                penalty not to exceed $50,000.
+                    ``(B) Applicability.--For purposes of subparagraph 
+                (A), the provision of services to any particular 
+                reseller in violation of paragraph (1) shall constitute 
+                a separate violation of that paragraph.
+            ``(3) Commission authority to assess and collect 
+        penalties.--The Commission shall have the authority to assess 
+        and collect any penalty provided for under this subsection upon 
+        a finding by the Commission of a violation of paragraph (1).
+    ``(g) Return of Bonds.--
+            ``(1) Review.--
+                    ``(A) In general.--The Commission may from time to 
+                time review the activities of a telecommunications 
+                carrier that has furnished a surety bond under this 
+                section for purposes of determining whether or not to 
+                retain the bond under this section.
+                    ``(B) Standards of review.--The Commission shall 
+                prescribe any standards applicable to its review of 
+                activities under this paragraph.
+                    ``(C) First review.--The Commission may not first 
+                review the activities of a carrier under subparagraph 
+                (A) before the date that is 3 years after the date on 
+                which the carrier furnishes the bond concerned under 
+                this section.
+            ``(2) Return.--The Commission may return a surety bond as a 
+        result of a review under this subsection.
+    ``(h) Definitions.--In this section:
+            ``(1) Billing agent.--The term `billing agent' means any 
+        entity (other than a telecommunications carrier) that provides 
+        billing services for services provided by a telecommunications 
+        carrier, or other services, if charges for such services appear 
+        on the bill of a subscriber for telecommunications services.
+            ``(2) Switchless reseller.--The term `switchless reseller' 
+        means a telecommunications carrier that resells the switched 
+        telecommunications service of another telecommunications 
+        carrier without the use of any switching facilities under its 
+        own ownership or control.
+    ``(i) Detariffing Authority Not Impaired.--Nothing in this section 
+is intended to prohibit the Commission from adopting rules providing 
+for the permissive detariffing of long-distance telephone companies, if 
+the Commission determines that such permissive detariffing would 
+otherwise serve the public interest, convenience, and necessity.''.
+
+                          TITLE III--SPAMMING
+
+SEC. 301. REQUIREMENTS RELATING TO TRANSMISSIONS OF UNSOLICITED 
+              COMMERCIAL ELECTRONIC MAIL.
+
+    (a) Information To Be Included in Transmissions.--
+            (1) In general.--A person who transmits an unsolicited 
+        commercial electronic mail message shall cause to appear in 
+        each such electronic mail message the information specified in 
+        paragraph (2).
+            (2) Covered information.--The following information shall 
+        appear at the beginning of the body of an unsolicited 
+        commercial electronic mail message under paragraph (1):
+                    (A) The name, physical address, electronic mail 
+                address, and telephone number of the person who 
+                initiates transmission of the message.
+                    (B) The name, physical address, electronic mail 
+                address, and telephone number of the person who created 
+                the content of the message, if different from the 
+                information under subparagraph (A).
+                    (C) A statement that further transmissions of 
+                unsolicited commercial electronic mail to the recipient 
+                by the person who initiates transmission of the message 
+                may be stopped at no cost to the recipient by sending a 
+                reply to the originating electronic mail address with 
+                the word ``remove'' in the subject line.
+    (b) Routing Information.--All Internet routing information 
+contained within or accompanying an electronic mail message described 
+in subsection (a) must be accurate, valid according to the prevailing 
+standards for Internet protocols, and accurately reflect message 
+routing.
+    (c) Effective Date.--The requirements in this section shall take 
+effect 30 days after the date of enactment of this Act.
+
+SEC. 302. FEDERAL OVERSIGHT OF UNSOLICITED COMMERCIAL ELECTRONIC MAIL.
+
+    (a) Transmissions.--
+            (1) In general.--Upon notice from a person of the person's 
+        receipt of electronic mail in violation of a provision of 
+        section 301 or 305, the Commission--
+                    (A) may conduct an investigation to determine 
+                whether or not the electronic mail was transmitted in 
+                violation of such provision; and
+                    (B) if the Commission determines that the 
+                electronic mail was transmitted in violation of such 
+                provision, may--
+                            (i) impose upon the person initiating the 
+                        transmission a civil fine in an amount not to 
+                        exceed $15,000;
+                            (ii) commence in a district court of the 
+                        United States a civil action to recover a civil 
+                        penalty in an amount not to exceed $15,000 
+                        against the person initiating the transmission;
+                            (iii) commence an action in a district 
+                        court of the United States a civil action to 
+                        seek injunctive relief; or
+                            (iv) proceed under any combination of the 
+                        authorities set forth in clauses (i), (ii), and 
+                        (iii).
+            (2) Deadline.--The Commission may not take action under 
+        paragraph (1)(B) with respect to a transmission of electronic 
+        mail more than 2 years after the date of the transmission.
+    (b) Administration.--
+            (1) Notice by electronic means.--The Commission shall 
+        establish an Internet web site with an electronic mail address 
+        for the receipt of notices under subsection (a).
+            (2) Information on enforcement.--The Commission shall make 
+        available through the Internet web site established under 
+        paragraph (1) information on the actions taken by the 
+        Commission under subsection (a)(1)(B).
+            (3) Assistance of other federal agencies.--Other Federal 
+        agencies may assist the Commission in carrying out its duties 
+        under this section.
+
+SEC. 303. ACTIONS BY STATES.
+
+    (a) In General.--Whenever the attorney general of a State has 
+reason to believe that the interests of the residents of the State have 
+been or are being threatened or adversely affected because any person 
+is engaging in a pattern or practice of the transmission of electronic 
+mail in violation of a provision of section 301 or 305, the State, as 
+parens patriae, may bring a civil action on behalf of its residents to 
+enjoin such transmission, to enforce compliance with such provision, to 
+obtain damages or other compensation on behalf of its residents, or to 
+obtain such further and other relief as the court considers 
+appropriate.
+    (b) Notice to Commission.--
+            (1) Notice.--The State shall serve prior written notice of 
+        any civil action under this section on the Commission and 
+        provide the Commission with a copy of its complaint, except 
+        that if it is not feasible for the State to provide such prior 
+        notice, the State shall serve written notice immediately on 
+        instituting such action.
+            (2) Rights of commission.--On receiving a notice with 
+        respect to a civil action under paragraph (1), the Commission 
+        shall have the right--
+                    (A) to intervene in the action;
+                    (B) upon so intervening, to be heard in all matters 
+                arising therein; and
+                    (C) to file petitions for appeal.
+    (c) Actions by Commission.--Whenever a civil action has been 
+instituted by or on behalf of the Commission for violation of a 
+provision of section 301 or 305, no State may, during the pendency of 
+such action, institute a civil action under this section against any 
+defendant named in the complaint in such action for violation of any 
+provision as alleged in the complaint.
+    (d) Construction.--For purposes of bringing a civil action under 
+subsection (a), nothing in this section shall prevent an attorney 
+general from exercising the powers conferred on the attorney general by 
+the laws of the State concerned to conduct investigations or to 
+administer oaths or affirmations or to compel the attendance of 
+witnesses or the production of documentary or other evidence.
+    (e) Venue; Service of Process.--Any civil action brought under 
+subsection (a) in a district court of the United States may be brought 
+in the district in which the defendant is found, is an inhabitant, or 
+transacts business or wherever venue is proper under section 1391 of 
+title 28, United States Code. Process in such an action may be served 
+in any district in which the defendant is an inhabitant or in which the 
+defendant may be found.
+    (f) Actions by Other State Officials.--Nothing in this section may 
+be construed to prohibit an authorized State official from proceeding 
+in State court on the basis of an alleged violation of any civil or 
+criminal statute of the State concerned.
+    (g) Definitions.--In this section:
+            (1) Attorney general.--The term ``attorney general'' means 
+        the chief legal officer of a State.
+            (2) State.--The term ``State'' means any State of the 
+        United States, the District of Columbia, Puerto Rico, Guam, 
+        American Samoa, the United States Virgin Islands, the 
+        Commonwealth of the Northern Mariana Islands, the Republic of 
+        the Marshall Islands, the Federated States of Micronesia, the 
+        Republic of Palau, and any possession of the United States.
+
+SEC. 304. INTERACTIVE COMPUTER SERVICE PROVIDERS.
+
+    (a) Exemption for Certain Transmissions.--
+            (1) Exemption.--Section 301 or 305 shall not apply to a 
+        transmission of electronic mail by an interactive computer 
+        service provider unless--
+                    (A) the provider initiates the transmission; or
+                    (B) the transmission is not made to its own 
+                customers.
+            (2) Construction.--Nothing in this subsection may be 
+        construed to require an interactive computer service provider 
+        to transmit or otherwise deliver any electronic mail message.
+    (b) Actions by Interactive Computer Service Providers.--
+            (1) In general.--In addition to any other remedies 
+        available under any other provision of law, any interactive 
+        computer service provider adversely affected by a violation of 
+        a provision of section 301 or 305 may, within 1 year after 
+        discovery of the violation, bring a civil action in a district 
+        court of the United States against a person who violates such 
+        provision. Such an action may be brought to enjoin the 
+        violation, to enforce compliance with such provision, to obtain 
+        damages, or to obtain such further and other relief as the 
+        court considers appropriate.
+            (2) Damages.--
+                    (A) In general.--The amount of damages in an action 
+                under this subsection for a violation specified in 
+                paragraph (1) may not exceed $15,000 per violation.
+                    (B) Relationship to other damages.--Damages awarded 
+                for a violation under this subsection are in addition 
+                to any other damages awardable for the violation under 
+                any other provision of law.
+                    (C) Cost and fees.--The court may, in issuing any 
+                final order in any action brought under paragraph (1), 
+                award costs of suit, reasonable costs of obtaining 
+                service of process, reasonable attorney fees, and 
+                expert witness fees for the prevailing party.
+            (3) Venue; service of process.--Any civil action brought 
+        under paragraph (1) in a district court of the United States 
+        may be brought in the district in which the defendant or in 
+        which the interactive computer service provider is located, is 
+        an inhabitant, or transacts business or wherever venue is 
+        proper under section 1391 of title 28, United States Code. 
+        Process in such an action may be served in any district in 
+        which the defendant is an inhabitant or in which the defendant 
+        may be found.
+    (c) Interactive Computer Service Provider Defined.--In this 
+section, the term ``interactive computer service provider'' has the 
+meaning given the term ``interactive computer service'' in section 
+230(e)(2) of the Communications Act of 1934 (47 U.S.C. 230(e)(2)).
+
+SEC. 305. RECEIPT OF TRANSMISSIONS BY PRIVATE PERSONS.
+
+    (a) Termination of Transmissions.--A person who receives from any 
+other person an electronic mail message requesting the termination of 
+further transmission of commercial electronic mail shall cease the 
+initiation of further transmissions of such mail to the person making 
+the request.
+    (b) Affirmative Authorization of Transmissions.--
+            (1) In general.--Subject to paragraph (2), a person may 
+        authorize another person to initiate transmissions of 
+        unsolicited commercial electronic mail to the person.
+            (2) Availability of termination.--A person initiating 
+        transmissions of electronic mail under paragraph (1) shall 
+        include, with each transmission of such mail to a person 
+        authorizing the transmission under that paragraph, the 
+        information specified in section 301(a)(2)(C).
+    (c) Constructive Authorization of Transmissions.--
+            (1) In general.--Subject to paragraphs (2) and (3), a 
+        person who secures a good or service from, or otherwise 
+        responds electronically to, an offer in a transmission of 
+        unsolicited commercial electronic mail shall be deemed to have 
+        authorized the initiation of transmissions of unsolicited 
+        commercial electronic mail from the person who initiated the 
+        transmission.
+            (2) No authorization for requests for termination.--An 
+        electronic mail request to cease the initiation of further 
+        transmissions of electronic mail under subsection (a) shall not 
+        constitute authorization for the initiation of further 
+        electronic mail under this subsection.
+            (3) Availability of termination.--A person initiating 
+        transmissions of electronic mail under paragraph (1) shall 
+        include, with each transmission of such mail to a person deemed 
+        to have authorized the transmission under that paragraph, the 
+        information specified in section 301(a)(2)(C).
+    (d) Effective Date of Termination Requirements.--Subsections (a), 
+(b)(2), and (c)(3) shall take effect 30 days after the date of 
+enactment of this Act.
+
+SEC. 306. DEFINITIONS.
+
+    In this title:
+            (1) Commercial electronic mail.--The term ``commercial 
+        electronic mail'' means any electronic mail that--
+                    (A) contains an advertisement for the sale of a 
+                product or service;
+                    (B) contains a solicitation for the use of a 
+                telephone number, the use of which connects the user to 
+                a person or service that advertises the sale of or 
+                sells a product or service; or
+                    (C) promotes the use of or contains a list of one 
+                or more Internet sites that contain an advertisement 
+                referred to in subparagraph (A) or a solicitation 
+                referred to in subparagraph (B).
+            (2) Commission.--The term ``Commission'' means the Federal 
+        Trade Commission.
+            (3) the term ``initiate the transmission'' in the case of 
+        an electronic mail message means to originate the electronic 
+        mail message, and does not encompass any intervening 
+        interactive computer service whose facilities may have been 
+        used to relay, handle, or otherwise retransmit the electronic 
+        mail message, unless the intervening interactive computer 
+        service provider knowingly and intentionally retransmits any 
+        electronic mail in violation of section 301 or 305.
+
+                   TITLE IV--MISCELLANEOUS PROVISIONS
+
+SEC. 401. ENFORCEMENT OF REGULATIONS REGARDING CITIZENS BAND RADIO 
+              EQUIPMENT.
+
+    Section 302 of the Communications Act of 1934 (47 U.S.C. 302) is 
+amended by adding at the end the following:
+    ``(f)(1) Except as provided in paragraph (2), a State or local 
+government may enforce the following regulations of the Commission 
+under this section:
+            ``(A) A regulation that prohibits a use of citizens band 
+        radio equipment not authorized by the Commission.
+            ``(B) A regulation that prohibits the unauthorized 
+        operation of citizens band radio equipment on a frequency 
+        between 24 MHz and 35 MHz.
+    ``(2) Possession of a station license issued by the Commission 
+pursuant to section 301 in any radio service for the operation at issue 
+shall preclude action by a State or local government under this 
+subsection.
+    ``(3) The Commission shall provide technical guidance to State and 
+local governments regarding the detection and determination of 
+violations of the regulations specified in paragraph (1).
+    ``(4)(A) In addition to any other remedy authorized by law, a 
+person affected by the decision of a State or local government 
+enforcing a regulation under paragraph (1) may submit to the Commission 
+an appeal of the decision on the grounds that the State or local 
+government, as the case may be, acted outside the authority provided in 
+this subsection.
+    ``(B) A person shall submit an appeal on a decision of a State or 
+local government to the Commission under this paragraph, if at all, not 
+later than 30 days after the date on which the decision by the State or 
+local government becomes final.
+    ``(C) The Commission shall make a determination on an appeal 
+submitted under subparagraph (B) not later than 180 days after its 
+submittal.
+    ``(D) If the Commission determines under subparagraph (C) that a 
+State or local government has acted outside its authority in enforcing 
+a regulation, the Commission shall reverse the decision enforcing the 
+regulation.
+    ``(5) The enforcement of a regulation by a State or local 
+government under paragraph (1) in a particular case shall not preclude 
+the Commission from enforcing the regulation in that case concurrently.
+    ``(6) Nothing in this subsection shall be construed to diminish or 
+otherwise affect the jurisdiction of the Commission under this section 
+over devices capable of interfering with radio communications.''.
+
+SEC. 402. MODIFICATION OF EXCEPTION TO PROHIBITION ON INTERCEPTION OF 
+              COMMUNICATIONS.
+
+    (a) Modification.--Section 2511(2)(d) of title 18, United States 
+Code, is amended by adding at the end the following: ``Notwithstanding 
+the previous sentence, it shall not be unlawful under this chapter for 
+a person not acting under the color of law to intercept a wire, oral, 
+or electronic communication between a health insurance issuer or health 
+plan and a subscriber of such issuer or plan, or between a health care 
+provider and a patient, only if all of the parties to the communication 
+have given prior express consent to such interception. For purposes of 
+the preceding sentence, the term `health insurance issuer' has the 
+meaning given that term in section 733 of the Employee Retirement 
+Income Security Act of 1974 (29 U.S.C. 1191b), the term `health plan' 
+means a group health plan, as defined in such section of such Act, an 
+individual or self-insured health plan, the medicare program under 
+title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), the 
+medicaid program under title XIX of such Act (42 U.S.C. 1396 et seq.), 
+the State children's health insurance program under title XXI of such 
+Act (42 U.S.C. 1397aa et seq.), and the Civilian Health and Medical 
+Program of the Uniformed Services under chapter 55 of title 10, and the 
+term `health care provider' means a physician or other health care 
+professional.''.
+    (b) Recording and Monitoring of Communications with Health 
+Insurers.--
+            (1) Communication without recording or monitoring.--
+        Notwithstanding any other provision of law, a health insurance 
+        issuer, health plan, or health care provider that notifies any 
+        customer of its intent to record or monitor any communication 
+        with such customer shall provide the customer the option to 
+        conduct the communication without being recorded or monitored 
+        by the health insurance issuer, health plan, or health care 
+        provider.
+            (2) Definitions.--In this subsection:
+                    (A) Health care provider.--The term ``health care 
+                provider'' means a physician or other health care 
+                professional.
+                    (B) Health insurance issuer.--The term ``health 
+                insurance issuer'' has the meaning given that term in 
+                section 733 of the Employee Retirement Income Security 
+                Act of 1974 (29 U.S.C. 1191b).
+                    (C) Health plan.--The term ``health plan'' means--
+                            (i) a group health plan, as defined in 
+                        section 733 of the Employee Retirement Income 
+                        Security Act of 1974 (29 U.S.C. 1191b);
+                            (ii) an individual or self-insured health 
+                        plan;
+                            (iii) the medicare program under title 
+                        XVIII of the Social Security Act (42 U.S.C. 
+                        1395 et seq.);
+                            (iv) the medicaid program under title XIX 
+                        of such Act (42 U.S.C. 1396 et seq.);
+                            (v) the State children's health insurance 
+                        program under title XXI of such Act (42 U.S.C. 
+                        1397aa et seq.); and
+                            (vi) the Civilian Health and Medical 
+                        Program of the Uniformed Services under chapter 
+                        55 of title 10, United States Code.
+
+SEC. 403. CONSUMER TRUTH IN BILLING DISCLOSURE ACT.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) Billing practices by telecommunications carriers may 
+        not reflect accurately the cost or basis of the additional 
+        telecommunications services and benefits that consumers receive 
+        as a result of the enactment of the Telecommunications Act of 
+        1996 (Public Law 104-104) and other Federal regulatory actions 
+        taken since the enactment of that Act.
+            (2) The Telecommunications Act of 1996 was not intended to 
+        allow providers of telecommunications services to misrepresent 
+        to customers the costs of providing services or the services 
+        provided.
+            (3) Certain providers of telecommunications services have 
+        established new, specific charges on customer bills commonly 
+        known as ``line-item charges''.
+            (4) Certain providers of telecommunications services have 
+        described such charges as ``Federal Universal Service Fees'' or 
+        similar fees.
+            (5) Such charges have generated significant confusion among 
+        customers regarding the nature of and scope of universal 
+        service and of the fees associated with universal service.
+            (6) The State of New York is considering action to protect 
+        consumers by requiring telecommunications carriers to disclose 
+        fully in the bills of all classes of customers the fee 
+        increases and fee reductions resulting from the enactment of 
+        the Telecommunications Act of 1996 and other regulatory actions 
+        taken since the enactment of that Act.
+            (7) The National Association of Regulatory Utility 
+        Commissioners adopted a resolution in February 1998 supporting 
+        action by the Federal Communications Commission and the Federal 
+        Trade Commission to protect consumers of telecommunications 
+        services by assuring accurate cost reporting and billing 
+        practices by telecommunications carriers nationwide.
+    (b) Requirements.--Any telecommunications carrier that includes any 
+change resulting from Federal regulatory action shall specify in such 
+bill--
+            (1) the reduction in charges or fees for each class of 
+        customers (including customers of residential basic service, 
+        customers of other residential services, small business 
+        customers, and other business customers) resulting from any 
+        regulatory action of the Federal Communications Commission;
+            (2) total monthly charges, usage charges, percentage 
+        charges, and premiums for each class of customers (including 
+        customers of residential basic service, customers of other 
+        residential services, small business customers, and other 
+        business customers);
+            (3) notify consumers one billing cycle in advance of any 
+        changes in existing charges or imposition of new charges; and
+            (4) disclose, upon subscription, total monthly charges, 
+        usage charges, percentage charges, and premiums for each class 
+        of customers (including residential basic service, customers of 
+        other residential service, small business customers, and other 
+        business customers).
+
+            Passed the Senate May 12, 1998.
+
+            Attest:
+
+                                                    GARY SISCO,
+
+                                                             Secretary.

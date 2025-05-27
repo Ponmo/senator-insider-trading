@@ -1,0 +1,606 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1162 Placed on Calendar Senate (PCS)]
+
+
+
+
+
+
+                                                       Calendar No. 118
+108th CONGRESS
+  1st Session
+                                S. 1162
+
+ To amend the Internal Revenue Code of 1986 to accelerate the increase 
+ in the refundability of the child tax credit, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              June 2, 2003
+
+Mrs. Lincoln (for herself, Ms. Snowe, Mr. Warner, Mr. Rockefeller, Ms. 
+   Collins, Mr. Reed, Mr. Jeffords, Mr. Bingaman, Ms. Landrieu, Mr. 
+Johnson, Mr. Harkin, Mr. Kennedy, Mr. Pryor, Mrs. Clinton, Mr. Corzine, 
+   Mr. Durbin, Mr. Breaux, Mr. Edwards, Mr. Lieberman, Mr. Reid, Mr. 
+Schumer, Mr. Lautenberg, Mr. Kerry, Mr. Graham of Florida, Mr. Baucus, 
+   Mr. Sarbanes, Ms. Mikulski, Mrs. Murray, Mr. Leahy, Mr. Nelson of 
+ Nebraska, Mr. Nelson of Florida, Mr. Levin, Mr. Carper, Mr. Hollings, 
+ Mr. Biden, Mr. Specter, Ms. Cantwell, Mr. Daschle, Ms. Stabenow, Mr. 
+Dodd, Mr. Conrad, Mr. Voinovich, Mr. Akaka, Mr. Dorgan, Mr. Chafee, Mr. 
+    Kohl, Mrs. Feinstein, Mrs. Boxer, and Mr. Bayh) introduced the 
+             following bill; which was read the first time
+
+                              June 3, 2003
+
+            Read the second time and placed on the calendar
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to accelerate the increase 
+ in the refundability of the child tax credit, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Working Taxpayer Fairness 
+Restoration Act''.
+
+  TITLE I--ACCELERATION OF INCREASE IN REFUNDABILITY OF THE CHILD TAX 
+                                 CREDIT
+
+SEC. 101. ACCELERATION OF INCREASE IN REFUNDABILITY OF THE CHILD TAX 
+              CREDIT.
+
+    (a) In General.--Section 24(d)(1)(B)(i) of the Internal Revenue 
+Code of 1986 (relating to portion of credit refundable) is amended by 
+striking ``(10 percent in the case of taxable years beginning before 
+January 1, 2005)''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after December 31, 2002.
+
+                      TITLE II--REVENUE PROVISIONS
+
+            Subtitle A--Enron-Related Tax Shelter Provisions
+
+SEC. 201. LIMITATION ON TRANSFER OR IMPORTATION OF BUILT-IN LOSSES.
+
+    (a) In General.--Section 362 of the Internal Revenue Code of 1986 
+(relating to basis to corporations) is amended by adding at the end the 
+following new subsection:
+    ``(e) Limitations on Built-In Losses.--
+            ``(1) Limitation on importation of built-in losses.--
+                    ``(A) In general.--If in any transaction described 
+                in subsection (a) or (b) there would (but for this 
+                subsection) be an importation of a net built-in loss, 
+                the basis of each property described in subparagraph 
+                (B) which is acquired in such transaction shall 
+                (notwithstanding subsections (a) and (b)) be its fair 
+                market value immediately after such transaction.
+                    ``(B) Property described.--For purposes of 
+                subparagraph (A), property is described in this 
+                subparagraph if--
+                            ``(i) gain or loss with respect to such 
+                        property is not subject to tax under this 
+                        subtitle in the hands of the transferor 
+                        immediately before the transfer, and
+                            ``(ii) gain or loss with respect to such 
+                        property is subject to such tax in the hands of 
+                        the transferee immediately after such transfer.
+                In any case in which the transferor is a partnership, 
+                the preceding sentence shall be applied by treating 
+                each partner in such partnership as holding such 
+                partner's proportionate share of the property of such 
+                partnership.
+                    ``(C) Importation of net built-in loss.--For 
+                purposes of subparagraph (A), there is an importation 
+                of a net built-in loss in a transaction if the 
+                transferee's aggregate adjusted bases of property 
+                described in subparagraph (B) which is transferred in 
+                such transaction would (but for this paragraph) exceed 
+                the fair market value of such property immediately 
+                after such transaction.
+            ``(2) Limitation on transfer of built-in losses in section 
+        351 transactions.--
+                    ``(A) In general.--If--
+                            ``(i) property is transferred by a 
+                        transferor in any transaction which is 
+                        described in subsection (a) and which is not 
+                        described in paragraph (1) of this subsection, 
+                        and
+                            ``(ii) the transferee's aggregate adjusted 
+                        bases of such property so transferred would 
+                        (but for this paragraph) exceed the fair market 
+                        value of such property immediately after such 
+                        transaction,
+                then, notwithstanding subsection (a), the transferee's 
+                aggregate adjusted bases of the property so transferred 
+                shall not exceed the fair market value of such property 
+                immediately after such transaction.
+                    ``(B) Allocation of basis reduction.--The aggregate 
+                reduction in basis by reason of subparagraph (A) shall 
+                be allocated among the property so transferred in 
+                proportion to their respective built-in losses 
+                immediately before the transaction.
+                    ``(C) Exception for transfers within affiliated 
+                group.--Subparagraph (A) shall not apply to any 
+                transaction if the transferor owns stock in the 
+                transferee meeting the requirements of section 
+                1504(a)(2). In the case of property to which 
+                subparagraph (A) does not apply by reason of the 
+                preceding sentence, the transferor's basis in the stock 
+                received for such property shall not exceed its fair 
+                market value immediately after the transfer.''.
+    (b) Comparable Treatment Where Liquidation.--Paragraph (1) of 
+section 334(b) of the Internal Revenue Code of 1986 (relating to 
+liquidation of subsidiary) is amended to read as follows:
+            ``(1) In general.--If property is received by a corporate 
+        distributee in a distribution in a complete liquidation to 
+        which section 332 applies (or in a transfer described in 
+section 337(b)(1)), the basis of such property in the hands of such 
+distributee shall be the same as it would be in the hands of the 
+transferor; except that the basis of such property in the hands of such 
+distributee shall be the fair market value of the property at the time 
+of the distribution--
+                    ``(A) in any case in which gain or loss is 
+                recognized by the liquidating corporation with respect 
+                to such property, or
+                    ``(B) in any case in which the liquidating 
+                corporation is a foreign corporation, the corporate 
+                distributee is a domestic corporation, and the 
+                corporate distributee's aggregate adjusted bases of 
+                property described in section 362(e)(1)(B) which is 
+                distributed in such liquidation would (but for this 
+                subparagraph) exceed the fair market value of such 
+                property immediately after such liquidation.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to transactions after February 13, 2003.
+
+SEC. 202. NO REDUCTION OF BASIS UNDER SECTION 734 IN STOCK HELD BY 
+              PARTNERSHIP IN CORPORATE PARTNER.
+
+    (a) In General.--Section 755 of the Internal Revenue Code of 1986 
+is amended by adding at the end the following new subsection:
+    ``(c) No Allocation of Basis Decrease to Stock of Corporate 
+Partner.--In making an allocation under subsection (a) of any decrease 
+in the adjusted basis of partnership property under section 734(b)--
+            ``(1) no allocation may be made to stock in a corporation 
+        (or any person which is related (within the meaning of section 
+        267(b) or 707(b)(1)) to such corporation) which is a partner in 
+        the partnership, and
+            ``(2) any amount not allocable to stock by reason of 
+        paragraph (1) shall be allocated under subsection (a) to other 
+        partnership property.
+Gain shall be recognized to the partnership to the extent that the 
+amount required to be allocated under paragraph (2) to other 
+partnership property exceeds the aggregate adjusted basis of such other 
+property immediately before the allocation required by paragraph 
+(2).''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to distributions after February 13, 2003.
+
+SEC. 203. REPEAL OF SPECIAL RULES FOR FASITS.
+
+    (a) In General.--Part V of subchapter M of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to financial asset 
+securitization investment trusts) is hereby repealed.
+    (b) Conforming Amendments.--
+            (1) Paragraph (6) of section 56(g) of the Internal Revenue 
+        Code of 1986 is amended by striking ``REMIC, or FASIT'' and 
+        inserting ``or REMIC''.
+            (2) Clause (ii) of section 382(l)(4)(B) of such Code is 
+        amended by striking ``a REMIC to which part IV of subchapter M 
+        applies, or a FASIT to which part V of subchapter M applies,'' 
+        and inserting ``or a REMIC to which part IV of subchapter M 
+        applies,''.
+            (3) Paragraph (1) of section 582(c) of such Code is amended 
+        by striking ``, and any regular interest in a FASIT,''.
+            (4) Subparagraph (E) of section 856(c)(5) of such Code is 
+        amended by striking the last sentence.
+            (5) Paragraph (5) of section 860G(a) of such Code is 
+        amended by adding ``and'' at the end of subparagraph (B), by 
+        striking ``, and'' at the end of subparagraph (C) and inserting 
+        a period, and by striking subparagraph (D).
+            (6) Subparagraph (C) of section 1202(e)(4) of such Code is 
+        amended by striking ``REMIC, or FASIT'' and inserting ``or 
+        REMIC''.
+            (7) Subparagraph (C) of section 7701(a)(19) of such Code is 
+        amended by adding ``and'' at the end of clause (ix), by 
+        striking ``, and'' at the end of clause (x) and inserting a 
+        period, and by striking clause (xi).
+            (8) The table of parts for subchapter M of chapter 1 of 
+        such Code is amended by striking the item relating to part V.
+    (c) Effective Date.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall take effect on February 
+        14, 2003.
+            (2) Exception for existing fasits.--The amendments made by 
+        this section shall not apply to any FASIT in existence on the 
+        date of the enactment of this Act to the extent that regular 
+        interests issued by the FASIT before such date continue to 
+        remain outstanding in accordance with the original terms of 
+        issuance of such interests.
+
+SEC. 204. EXPANDED DISALLOWANCE OF DEDUCTION FOR INTEREST ON 
+              CONVERTIBLE DEBT.
+
+    (a) In General.--Paragraph (2) of section 163(l) of the Internal 
+Revenue Code of 1986 is amended by striking ``or a related party'' and 
+inserting ``or equity held by the issuer (or any related party) in any 
+other person''.
+    (b) Exception for Certain Instruments Issued By Dealers In 
+Securities.--Section 163(l) of the Internal Revenue Code of 1986 is 
+amended by redesignating paragraphs (4) and (5) as paragraphs (5) and 
+(6) and by inserting after paragraph (3) the following new paragraph:
+            ``(4) Exception for certain instruments issued by dealers 
+        in securities.--For purposes of this subsection, the term 
+        `disqualified debt instrument' does not include indebtedness 
+        issued by a dealer in securities (or a related party) which is 
+        payable in, or by reference to, equity (other than equity of 
+        the issuer or a related party) held by such dealer in its 
+        capacity as a dealer in securities. For purposes of this 
+        paragraph, the term `dealer in securities' has the meaning 
+        given such term by section 475.''.
+    (c) Conforming Amendment.--Paragraph (3) of section 163(l) of the 
+Internal Revenue Code of 1986 is amended by striking ``or a related 
+party'' in the material preceding subparagraph (A) and inserting ``or 
+any other person''.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to debt instruments issued after February 13, 2003.
+
+SEC. 205. EXPANDED AUTHORITY TO DISALLOW TAX BENEFITS UNDER SECTION 
+              269.
+
+    (a) In General.--Subsection (a) of section 269 of the Internal 
+Revenue Code of 1986 (relating to acquisitions made to evade or avoid 
+income tax) is amended to read as follows:
+    ``(a) In General.--If--
+            ``(1)(A) any person acquires stock in a corporation, or
+            ``(B) any corporation acquires, directly or indirectly, 
+        property of another corporation and the basis of such property, 
+        in the hands of the acquiring corporation, is determined by 
+        reference to the basis in the hands of the transferor 
+        corporation, and
+            ``(2) the principal purpose for which such acquisition was 
+        made is evasion or avoidance of Federal income tax by securing 
+        the benefit of a deduction, credit, or other allowance,
+then the Secretary may disallow such deduction, credit, or other 
+allowance.''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to stock and property acquired after February 13, 2003.
+
+SEC. 206. MODIFICATIONS OF CERTAIN RULES RELATING TO CONTROLLED FOREIGN 
+              CORPORATIONS.
+
+    (a) Limitation on Exception From PFIC Rules for United States 
+Shareholders of Controlled Foreign Corporations.--Paragraph (2) of 
+section 1297(e) of the Internal Revenue Code of 1986 (relating to 
+passive investment company) is amended by adding at the end the 
+following flush sentence:
+        ``Such term shall not include any period if there is only a 
+        remote likelihood of an inclusion in gross income under section 
+        951(a)(1)(A)(i) of subpart F income of such corporation for 
+        such period.''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years on controlled foreign corporation beginning after 
+February 13, 2003, and to taxable years of United States shareholder in 
+which or with which such taxable years of controlled foreign 
+corporations end.
+
+SEC. 207. CONTROLLED ENTITIES INELIGIBLE FOR REIT STATUS.
+
+    (a) In General.--Subsection (a) of section 856 of the Internal 
+Revenue Code of 1986 (relating to definition of real estate investment 
+trust) is amended by striking ``and'' at the end of paragraph (6), by 
+redesignating paragraph (7) as paragraph (8), and by inserting after 
+paragraph (6) the following new paragraph:
+            ``(7) which is not a controlled entity (as defined in 
+        subsection (l)); and''.
+    (b) Controlled Entity.--Section 856 of the Internal Revenue Code of 
+1986 is amended by adding at the end the following new subsection:
+    ``(l) Controlled Entity.--
+            ``(1) In general.--For purposes of subsection (a)(7), an 
+        entity is a controlled entity if, at any time during the 
+        taxable year, one person (other than a qualified entity)--
+                    ``(A) in the case of a corporation, owns stock--
+                            ``(i) possessing at least 50 percent of the 
+                        total voting power of the stock of such 
+                        corporation, or
+                            ``(ii) having a value equal to at least 50 
+                        percent of the total value of the stock of such 
+                        corporation, or
+                    ``(B) in the case of a trust, owns beneficial 
+                interests in the trust which would meet the 
+                requirements of subparagraph (A) if such interests were 
+                stock.
+            ``(2) Qualified entity.--For purposes of paragraph (1), the 
+        term `qualified entity' means--
+                    ``(A) any real estate investment trust, and
+                    ``(B) any partnership in which one real estate 
+                investment trust owns at least 50 percent of the 
+                capital and profits interests in the partnership.
+            ``(3) Attribution rules.--For purposes of this paragraphs 
+        (1) and (2)--
+                    ``(A) In general.--Rules similar to the rules of 
+                subsections (d)(5) and (h)(3) shall apply; except that 
+                section 318(a)(3)(C) shall not be applied under such 
+                rules to treat stock owned by a qualified entity as 
+                being owned by a person which is not a qualified 
+                entity.
+                    ``(B) Stapled entities.--A group of entities which 
+                are stapled entities (as defined in section 269B(c)(2)) 
+                shall be treated as one person.
+            ``(4) Exception for certain new reits.--
+                    ``(A) In general.--The term `controlled entity' 
+                shall not include an incubator REIT.
+                    ``(B) Incubator reit.--A corporation shall be 
+                treated as an incubator REIT for any taxable year 
+                during the eligibility period if it meets all the 
+                following requirements for such year:
+                            ``(i) The corporation elects to be treated 
+                        as an incubator REIT.
+                            ``(ii) The corporation has only voting 
+                        common stock outstanding.
+                            ``(iii) Not more than 50 percent of the 
+                        corporation's real estate assets consist of 
+                        mortgages.
+                            ``(iv) From not later than the beginning of 
+                        the last half of the second taxable year, at 
+                        least 10 percent of the corporation's capital 
+                        is provided by lenders or equity investors who 
+                        are unrelated to the corporation's largest 
+                        shareholder.
+                            ``(v) The corporation annually increases 
+                        the value of its real estate assets by at least 
+                        10 percent.
+                            ``(vi) The directors of the corporation 
+                        adopt a resolution setting forth an intent to 
+                        engage in a going public transaction.
+                No election may be made with respect to any REIT if an 
+                election under this subsection was in effect for any 
+                predecessor of such REIT.
+                    ``(C) Eligibility period.--
+                            ``(i) In general.--The eligibility period 
+                        (for which an incubator REIT election can be 
+                        made) begins with the REIT's second taxable 
+                        year and ends at the close of the REIT's third 
+                        taxable year, except that the REIT may, subject 
+                        to clauses (ii), (iii), and (iv), elect to 
+                        extend such period for an additional 2 taxable 
+                        years.
+                            ``(ii) Going public transaction.--A REIT 
+                        may not elect to extend the eligibility period 
+                        under clause (i) unless it enters into an 
+                        agreement with the Secretary that if it does 
+                        not engage in a going public transaction by the 
+                        end of the extended eligibility period, it 
+                        shall pay Federal income taxes for the 2 years 
+                        of the extended eligibility period as if it had 
+                        not made an incubator REIT election and had 
+                        ceased to qualify as a REIT for those 2 taxable 
+                        years.
+                            ``(iii) Returns, interest, and notice.--
+                                    ``(I) Returns.--In the event the 
+                                corporation ceases to be treated as a 
+                                REIT by operation of clause (ii), the 
+                                corporation shall file any appropriate 
+                                amended returns reflecting the change 
+                                in status within 3 months of the close 
+                                of the extended eligibility period.
+                                    ``(II) Interest.--Interest shall be 
+                                payable on any tax imposed by reason of 
+                                clause (ii) for any taxable year but, 
+                                unless there was a finding under 
+                                subparagraph (D), no substantial 
+                                underpayment penalties shall be 
+                                imposed.
+                                    ``(III) Notice.--The corporation 
+                                shall, at the same time it files its 
+                                returns under subclause (I), notify its 
+                                shareholders and any other persons 
+                                whose tax position is, or may 
+                                reasonably be expected to be, affected 
+                                by the change in status so they also 
+                                may file any appropriate amended 
+                                returns to conform their tax treatment 
+                                consistent with the corporation's loss 
+                                of REIT status.
+                                    ``(IV) Regulations.--The Secretary 
+                                shall provide appropriate regulations 
+                                setting forth transferee liability and 
+                                other provisions to ensure collection 
+                                of tax and the proper administration of 
+                                this provision.
+                            ``(iv) Clauses (ii) and (iii) shall not 
+                        apply if the corporation allows its incubator 
+                        REIT status to lapse at the end of the initial 
+                        2-year eligibility period without engaging in a 
+                        going public transaction if the corporation is 
+                        not a controlled entity as of the beginning of 
+                        its fourth taxable year. In such a case, the 
+                        corporation's directors may still be liable for 
+                        the penalties described in subparagraph (D) 
+                        during the eligibility period.
+                    ``(D) Special penalties.--If the Secretary 
+                determines that an incubator REIT election was filed 
+                for a principal purpose other than as part of a 
+                reasonable plan to undertake a going public 
+                transaction, an excise tax of $20,000 shall be imposed 
+                on each of the corporation's directors for each taxable 
+                year for which an election was in effect.
+                    ``(E) Going public transaction.--For purposes of 
+                this paragraph, a going public transaction means--
+                            ``(i) a public offering of shares of the 
+                        stock of the incubator REIT;
+                            ``(ii) a transaction, or series of 
+                        transactions, that results in the stock of the 
+                        incubator REIT being regularly traded on an 
+                        established securities market and that results 
+                        in at least 50 percent of such stock being held 
+                        by shareholders who are unrelated to persons 
+                        who held such stock before it began to be so 
+                        regularly traded; or
+                            ``(iii) any transaction resulting in 
+                        ownership of the REIT by 200 or more persons 
+                        (excluding the largest single shareholder) who 
+                        in the aggregate own at least 50 percent of the 
+                        stock of the REIT.
+                For the purposes of this subparagraph, the rules of 
+                paragraph (3) shall apply in determining the ownership 
+                of stock.
+                    ``(F) Definitions.--The term `established 
+                securities market' shall have the meaning set forth in 
+                the regulations under section 897.''.
+    (c) Conforming Amendment.--Paragraph (2) of section 856(h) of the 
+Internal Revenue Code of 1986 is amended by striking ``and (6)'' each 
+place it appears and inserting ``, (6), and (7)''.
+    (d) Effective Date.--
+            (1) In general.--The amendments made by this section shall 
+        apply to taxable years ending after May 8, 2003.
+            (2) Exception for existing controlled entities.--The 
+        amendments made by this section shall not apply to any entity 
+        which is a controlled entity (as defined in section 856(l) of 
+        the Internal Revenue Code of 1986, as added by this section) as 
+        of May 8, 2003, which is a real estate investment trust for the 
+        taxable year which includes such date, and which has 
+        significant business assets or activities as of such date. For 
+        purposes of the preceding sentence, an entity shall be treated 
+        as such a controlled entity on May 8, 2003, if it becomes such 
+        an entity after such date in a transaction--
+                    (A) made pursuant to a written agreement which was 
+                binding on such date and at all times thereafter, or
+                    (B) described on or before such date in a filing 
+                with the Securities and Exchange Commission required 
+                solely by reason of the transaction.
+
+      Subtitle B--Extension of Internal Revenue Service User Fees
+
+SEC. 211. EXTENSION OF INTERNAL REVENUE SERVICE USER FEES.
+
+    (a) In General.--Chapter 77 of the Internal Revenue Code of 1986 
+(relating to miscellaneous provisions) is amended by adding at the end 
+the following new section:
+
+``SEC. 7528. INTERNAL REVENUE SERVICE USER FEES.
+
+    ``(a) General Rule.--The Secretary shall establish a program 
+requiring the payment of user fees for--
+            ``(1) requests to the Internal Revenue Service for ruling 
+        letters, opinion letters, and determination letters, and
+            ``(2) other similar requests.
+    ``(b) Program Criteria.--
+            ``(1) In general.--The fees charged under the program 
+        required by subsection (a)--
+                    ``(A) shall vary according to categories (or 
+                subcategories) established by the Secretary,
+                    ``(B) shall be determined after taking into account 
+                the average time for (and difficulty of) complying with 
+                requests in each category (and subcategory), and
+                    ``(C) shall be payable in advance.
+            ``(2) Exemptions, etc.--
+                    ``(A) In general.--The Secretary shall provide for 
+                such exemptions (and reduced fees) under such program 
+                as the Secretary determines to be appropriate.
+                    ``(B) Exemption for certain requests regarding 
+                pension plans.--The Secretary shall not require payment 
+                of user fees under such program for requests for 
+                determination letters with respect to the qualified 
+                status of a pension benefit plan maintained solely by 1 
+                or more eligible employers or any trust which is part 
+                of the plan. The preceding sentence shall not apply to 
+                any request--
+                            ``(i) made after the later of--
+                                    ``(I) the fifth plan year the 
+                                pension benefit plan is in existence, 
+                                or
+                                    ``(II) the end of any remedial 
+                                amendment period with respect to the 
+                                plan beginning within the first 5 plan 
+                                years, or
+                            ``(ii) made by the sponsor of any prototype 
+                        or similar plan which the sponsor intends to 
+                        market to participating employers.
+                    ``(C) Definitions and special rules.--For purposes 
+                of subparagraph (B)--
+                            ``(i) Pension benefit plan.--The term 
+                        `pension benefit plan' means a pension, profit-
+                        sharing, stock bonus, annuity, or employee 
+                        stock ownership plan.
+                            ``(ii) Eligible employer.--The term 
+                        `eligible employer' means an eligible employer 
+                        (as defined in section 408(p)(2)(C)(i)(I)) 
+                        which has at least 1 employee who is not a 
+                        highly compensated employee (as defined in 
+                        section 414(q)) and is participating in the 
+                        plan. The determination of whether an employer 
+                        is an eligible employer under subparagraph (B) 
+                        shall be made as of the date of the request 
+                        described in such subparagraph.
+                            ``(iii) Determination of average fees 
+                        charged.--For purposes of any determination of 
+                        average fees charged, any request to which 
+                        subparagraph (B) applies shall not be taken 
+                        into account.
+            ``(3) Average fee requirement.--The average fee charged 
+        under the program required by subsection (a) shall not be less 
+        than the amount determined under the following table:
+
+                                                                Average
+``Category                                                          Fee
+    Employee plan ruling and opinion..............                $250 
+    Exempt organization ruling....................                $350 
+    Employee plan determination...................                $300 
+    Exempt organization determination.............                $275 
+    Chief counsel ruling..........................                $200.
+    ``(c) Termination.--No fee shall be imposed under this section with 
+respect to requests made after September 30, 2013.''.
+    (b) Conforming Amendments.--
+            (1) The table of sections for chapter 77 of the Internal 
+        Revenue Code of 1986 is amended by adding at the end the 
+        following new item:
+
+                              ``Sec. 7528. Internal Revenue Service 
+                                        user fees.''.
+            (2) Section 10511 of the Revenue Act of 1987 is repealed.
+            (3) Section 620 of the Economic Growth and Tax Relief 
+        Reconciliation Act of 2001 is repealed.
+    (c) Limitations.--Notwithstanding any other provision of law, any 
+fees collected pursuant to section 7528 of the Internal Revenue Code of 
+1986, as added by subsection (a), shall not be expended by the Internal 
+Revenue Service unless provided by an appropriations Act.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to requests made after the date of the enactment of this Act.
+
+
+
+
+                                                       Calendar No. 118
+
+108th CONGRESS
+
+  1st Session
+
+                                S. 1162
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To amend the Internal Revenue Code of 1986 to accelerate the increase 
+ in the refundability of the child tax credit, and for other purposes.
+
+_______________________________________________________________________
+
+                              June 3, 2003
+
+            Read the second time and placed on the calendar

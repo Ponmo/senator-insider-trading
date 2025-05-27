@@ -1,0 +1,1500 @@
+--H.R.2061--
+H.R.2061
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To authorize appropriations to carry out the Magnuson Fishery Conservation and
+Management Act through fiscal year 1993, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SHORT TITLE; TABLE OF CONTENTS
+ SECTION 1. (a) SHORT TITLE- The Act may be cited as the `Fishery Conservation
+ Amendments of 1990'.
+ (b) TABLE OF CONTENTS-
+Sec. 1. Short title; table of contents.
+TITLE I--AMENDMENTS TO MAGNUSON FISHERY CONSERVATION AND MANAGEMENT ACT
+Sec. 101. Findings, purposes, and policy.
+Sec. 102. Definitions.
+Sec. 103. Authority with respect to highly migratory species.
+Sec. 104. Foreign fishing.
+Sec. 105. Existing international fishery agreements.
+Sec. 106. Permits for foreign fishing.
+Sec. 107. Driftnet fishing.
+Sec. 108. Regional Councils.
+Sec. 109. Contents of fishery management plans.
+Sec. 110. Action by Secretary of fishery management plans.
+Sec. 111. Implementation of fishery management plans.
+Sec. 112. State jurisdiction.
+Sec. 113. Prohibition of certain acts.
+Sec. 114. Civil penalties and permit sanctions.
+Sec. 115. Criminal offenses and penalties.
+Sec. 116. Civil forfeitures.
+Sec. 117. Enforcement.
+Sec. 118. North Pacific fisheries research plan.
+Sec. 119. Authorization of appropriations.
+Sec. 120. Miscellaneous technical amendments.
+TITLE II--ATLANTIC TUNAS CONVENTION ACT OF 1975
+Sec. 201. Limitations on appointments of Commissioners.
+Sec. 202. Termination of current terms and completion of pending appointments.
+Sec. 203. Travel expenses of Commissioners.
+Sec. 204. Travel expenses of advisory committee.
+Sec. 205. Species working groups.
+Sec. 206. Regulations to carry out Commission recommendations.
+Sec. 207. Recommended Commission actions regarding large-scale driftnet
+fishing and conservation of Atlantic swordfish.
+Sec. 208. Authorization of appropriations.
+TITLE III--FISHERMEN'S PROTECTIVE ACT OF 1967
+Sec. 301. Vessel seizure reimbursement authority.
+TITLE IV--ANADROMOUS FISH CONSERVATION ACT
+Sec. 401. Authorization of appropriations.
+TITLE V--INTERJURISDICTIONAL FISHERIES ACT OF 1986
+Sec. 501. Clarification of appointment limitation.
+Sec. 502. Federal share of activities carried out with additional
+appropriations.
+Sec. 503. Authorization of appropriations.
+TITLE VI--CENTRAL, WESTERN, AND SOUTH PACIFIC FISHERIES DEVELOPMENT ACT
+Sec. 601. Authorization of appropriations.
+TITLE VII--NATIONAL FISH AND SEAFOOD PROMOTIONAL COUNCIL
+Sec. 701. Extension of termination date.
+Sec. 702. Authorization of appropriations.
+Sec. 703. Transfer of Saltonstall-Kennedy funds.
+Sec. 704. Continuity of National Council membership.
+Sec. 705. Continuity of Council functions, contracts, and personnel.
+TITLE VIII--MISCELLANEOUS
+Sec. 801. Certificate of legal origin for anadromous fish products.
+TITLE IX--DOLPHIN PROTECTION CONSUMER INFORMATION
+Sec. 901. Dolphin protection.
+TITLE X--FISHERIES COMMISSION
+Sec. 1001. Redesignation of Fisheries Commission.
+TITLE XI--REPORT ON MARINE MAMMALS
+Sec. 1101. Report on certain marine mammal populations.
+TITLE I--AMENDMENTS TO MAGNUSON FISHERY CONSERVATION AND MANAGEMENT ACT
+FINDINGS, PURPOSES, AND POLICY
+ SEC. 101. (a) FINDINGS- Section 2(a) of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1801(a)) is amended by adding at the end the
+ following new paragraph:
+ `(8) The collection of reliable data is essential to the effective
+ conservation, management, and scientific understanding of the fishery
+ resources of the United States.'.
+ (b) PURPOSES- (1) Section 2(b)(1) of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1801(b)(1)) is amended by striking `except highly
+ migratory species'.
+ (2) Section 2(b)(5) of the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1801(b)(5)) is amended by striking `prepare, monitor, and revise'
+ and inserting in lieu thereof `exercise sound judgment in the stewardship
+ of fishery resources through the preparation, monitoring, and revision of'.
+ (c) POLICY- Section 2(c) of the Magnuson Fishery Conservation and Management
+ Act (16 U.S.C. 1801(c)) is amended--
+ (1) in paragraph (3) by inserting `considers the effects of fishing on
+ immature fish and encourages development of practical measures that avoid
+ unnecessary waste of fish;' immediately after `and enforcement;'
+ (2) by striking `and' at the end of paragraph (4); and
+ (3) by striking the period at the end of paragraph (5) and inserting in
+ lieu thereof `, and to secure agreements to regulate fishing by vessels or
+ persons beyond the exclusive economic zones of any nation; and'; and
+ (4) by adding at the end the following new paragraph:
+ `(6) to foster and maintain the diversity of fisheries in the United States.'.
+definitions
+ SEC. 102. (a) GENERAL- Section 3 of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1802) is amended--
+ (1) by redesignating paragraph (16) as paragraph (17), by redesignating
+ paragraph (17) as paragraph (19), by redesignating paragraphs (18) through
+ (23) as paragraphs (21) through (26), respectively, and by redesignating
+ paragraphs (24) through (27) as paragraphs (28) through (31), respectively;
+ (2) in paragraph (7), by striking `, birds, and highly migratory species'
+ and inserting in lieu thereof `and birds';
+ (3) by amending paragraph (14) to read as follows:
+ `(14) The term `highly migratory species' means tuna species, marlin
+ (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus
+ spp.), and swordfish (Xiphias gladius).';
+ (4) by inserting immediately after paragraph (15) the following new paragraph:
+ `(16) The term `large-scale driftnet fishing' means a method of fishing in
+ which a gillnet composed of a panel or panels of webbing, or a series of
+ such gillnets, with a total length of one and one-half miles or more is
+ placed in the water and allowed to drift with the currents and winds for
+ the purpose of entangling fish in the webbing.';
+ (5) by inserting immediately after paragraph (17), as so redesignated,
+ the following new paragraph:
+ `(18) The term `migratory range' means the maximum area at a given time of
+ the year within which fish of an anadromous species or stock thereof can be
+ expected to be found, as determined on the basis of scale pattern analysis,
+ tagging studies, or other reliable scientific information, except that the
+ term does not include any part of such area which is in the waters of a
+ foreign nation.';
+ (6) by inserting immediately after paragraph (19), as so redesignated,
+ the following new paragraph:
+ `(20) The term `observer' means any person required or authorized to be
+ carried on a vessel for conservation and management purposes by regulations
+ or permits under this Act.';
+ (7) by inserting immediately after paragraph (26), as so redesignated,
+ the following new paragraph:
+ `(27) The term `tuna species' means the following:
+ `Albacore Tuna--Thunnus alalunga;
+ `Bigeye Tuna--Thunnus obesus;
+ `Bluefin Tuna--Thunnus thynnus;
+ `Skipjack Tuna--Katsuwonus pelamis; and
+ `Yellowfin Tuna--Thunnus albacares.'; and
+ (8) by adding at the end the following new paragraph:
+ `(32) The term `waters of a foreign nation' means any part of the territorial
+ sea or exclusive economic zone (or the equivalent) of a foreign nation,
+ to the extent such territorial sea or exclusive economic zone is recognized
+ by the United States.'.
+ (b) CONFORMING AMENDMENT- Section 101(b)(1) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1811(b)(1)) is amended by striking
+ `any foreign nation's' and all that follows and inserting in lieu thereof
+ `any waters of a foreign nation.'.
+AUTHORITY WITH RESPECT TO HIGHLY MIGRATORY SPECIES
+ SEC. 103. (a) GENERAL- Section 102 of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1812) is amended to read as follows:
+`SEC. 102. HIGHLY MIGRATORY SPECIES.
+ `The United States shall cooperate directly or through appropriate
+ international organizations with those nations involved in fisheries for
+ highly migratory species with a view to ensuring conservation and promoting
+ the objective of optimum utilization of such species throughout their range,
+ both within and beyond the exclusive economic zone.'.
+ (b) CONFORMING AMENDMENT- The entry for section 102 in the table of contents
+ in the first section of the Magnuson Fishery Conservation and Management
+ Act is amended to read as follows:
+`Sec. 102. Highly migratory species.'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on January 1, 1992.
+FOREIGN FISHING
+ SEC. 104. Subsection (d) of section 201 of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1821) is amended to read as follows:
+ `(d) TOTAL ALLOWABLE LEVEL OF FOREIGN FISHING- The total allowable level
+ of foreign fishing, if any, with respect to any fishery subject to the
+ exclusive fishery management authority of the United States, shall be that
+ portion of the optimum yield of such fishery which will not be harvested
+ by vessels of the United States, as determined in accordance with this Act.'.
+INTERNATIONAL FISHERY AGREEMENTS
+ SEC. 105. (a) HIGHLY MIGRATORY SPECIES AGREEMENTS- Section 202 of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1822) is amended
+ by redesignating subsection (e) as subsection (f) and by inserting immediately
+ after subsection (d) the following new subsection:
+ `(e) Highly Migratory Species Agreements-
+ `(1) EVALUATION- The Secretary of State, in cooperation with the Secretary,
+ shall evaluate the  effectiveness of each existing international fishery
+ agreement which pertains to fishing for highly migratory species. Such
+ evaluation shall consider whether the agreement provides for--
+ `(A) the collection and analysis of necessary information for effectively
+ managing the fishery, including but not limited to information about the
+ number of vessels involved, the type and quantity of fishing gear used,
+ the species of fish involved and their location, the catch and bycatch
+ levels in the fishery, and the present and probable future condition of
+ any stock of fish involved;
+ `(B) the establishment of measures applicable to the fishery which are
+ necessary and appropriate for the conservation and management of the fishery
+ resource involved;
+ `(C) equitable arrangements which provide fishing vessels of the United
+ States with (i) access to the highly migratory species that are the subject
+ of the agreement and (ii) a portion of the allowable catch that reflects
+ the traditional participation by such vessels in the fishery;
+ `(D) effective enforcement of conservation and management measures and
+ access arrangements throughout the area of jurisdiction; and
+ `(E) sufficient and dependable funding to implement the provisions of
+ the agreement, based on reasonable assessments of the benefits derived by
+ participating nations.
+ `(2) ACCESS NEGOTIATIONS- The Secretary of State, in cooperation with the
+ Secretary, shall initiate negotiations with respect to obtaining access for
+ vessels of the United States fishing for tuna species within the exclusive
+ economic zones of other nations on reasonable terms and conditions.
+ `(3) REPORTS- The Secretary of State shall report to the Congress--
+ `(A) within 12 months after the date of enactment of this subsection, on
+ the results of the evaluation required under paragraph (1), together with
+ recommendations for addressing any inadequacies identified; and
+ `(B) within six months after such date of enactment, on the results of the
+ access negotiations required under paragraph (2).
+ `(4) NEGOTIATION- The Secretary of State, in consultation with the Secretary,
+ shall undertake such negotiations with respect to international fishery
+ agreements on highly migratory species as are necessary to correct
+ inadequacies identified as a result of the evaluation conducted under
+ paragraph (1).
+ `(5) SOUTH PACIFIC TUNA TREATY- It is the sense of the Congress that
+ the United States Government shall, at the earliest opportunity, begin
+ negotiations for the purpose of extending the Treaty on Fisheries Between
+ the Governments of Certain Pacific Island States and the Government of
+ the United States of America, signed at Port Moresby, Papua New Guinea,
+ April 2, 1987, and it Annexes, Schedules, and implementing agreements for
+ an additional term of 10 years on terms and conditions at least as favorable
+ to vessels of the United States and the United States Government.'.
+ (b) DETERMINATIONS OF SECRETARY OF STATE- (1) Section 205(a) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1825(a)) is amended--
+ (A) in paragraph (1) by striking `traditional' and by inserting `including
+ fisheries for tuna species,' immediately after `authority,'; and
+ (B) in paragraph (2) by striking `highly migratory' and inserting in lieu
+ thereof `tuna'.
+ (2) The amendments made by this subsection shall take effect on January
+ 1, 1992.
+permits for foreign fishing
+ SEC. 106. (a) FEES- Section 204(b)(10) of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1824(b)(10)) is amended to read as follows:
+ `(10) Fees-
+ `(A) Fees shall be paid to the Secretary by the owner or operator of any
+ foreign fishing vessel for which a permit has been issued pursuant to this
+ section. The Secretary, in consultation with the Secretary of State, shall
+ establish a schedule of reasonable fees that shall apply nondiscriminatorily
+ to each foreign nation.
+ `(B) Amounts collected by the Secretary under this paragraph shall be
+ deposited in the general fund of the Treasury.'.
+ (b) SANCTIONS- Section 204(b)(12) of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1824(b)(12)) is repealed.
+DRIFTNET FISHING
+ SEC. 107. (a) GENERAL- Section 206 of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1826) is amended to read as follows:
+`SEC. 206.  LARGE-SCALE DRIFTNET FISHING.
+ `(a) SHORT TITLE- This section incorporates and expands upon provisions
+ of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 and
+ may be cited as the `Driftnet Act Amendments of 1990'.
+ `(b) FINDINGS- The Congress finds that--
+ `(1) the continued widespread use of large-scale driftnets beyond the
+ exclusive economic zone of any nation is a destructive fishing practice that
+ poses a threat to living marine resources of the world's oceans, including
+ but not limited to the North and South Pacific Ocean and the Bering Sea;
+ `(2) the use of large-scale  driftnets is expanding into new regions of
+ the world's oceans, including the Atlantic Ocean and Caribbean Sea;
+ `(3) there is a pressing need for detailed and reliable information on the
+ number of seabirds, sea turtles, nontarget fish, and marine mammals that
+ become entangled and die in actively fished large-scale driftnets and in
+ large-scale driftnets that are lost, abandoned, or discarded;
+ `(4) increased efforts, including reliable observer data and enforcement
+ mechanisms, are needed to monitor, assess, control, and reduce the adverse
+ impact of large-scale driftnet fishing on living marine resources;
+ `(5) the nations of the world have agreed in the United Nations, through
+ General Assembly Resolution Numbered 44-225, approved December 22, 1989,
+ by the General Assembly, that a moratorium should be imposed by June 30,
+ 1992, on the use of large-scale driftnets beyond the exclusive economic
+ zone of any nation;
+ `(6) the nations of the South Pacific have agreed to a moratorium on the
+ use of large-scale driftnets in the South Pacific through the Convention
+ for the Prohibition of Fishing with Long Driftnets in the South Pacific,
+ which was agreed to in Wellington, New Zealand, on November 29, 1989; and
+ `(7) increasing population pressures and new knowledge of the importance
+ of living marine resources to the health of the global ecosystem demand
+ that greater responsibility be exercised by persons fishing or developing
+ new fisheries beyond the exclusive economic zone of any nation.
+ `(c) POLICY- It is declared to be the policy of the Congress in this section
+ that the United States should--
+ `(1) implement the moratorium called for by the United Nations General
+ Assembly in Resolution Numbered 44-225;
+ `(2) support the Tarawa Declaration and the Wellington Convention for the
+ Prohibition of Fishing with Long Driftnets in the South Pacific; and
+ `(3) secure a permanent ban on the use of destructive fishing practices,
+ and in particular large-scale driftnets, by persons or vessels fishing
+ beyond the exclusive economic zone of any nation.
+ `(d) INTERNATIONAL AGREEMENTS- The Secretary, through the Secretary of State
+ and the Secretary of the department in which the Coast Guard is operating,
+ shall seek to secure international agreements to implement immediately
+ the findings, policy, and provisions of this section, and in particular an
+ international ban on large-scale driftnet fishing. The Secretary, through the
+ Secretary of State, shall include, in any agreement which addresses the taking
+ of living marine resources of the United States, provisions to ensure that--
+ `(1) each large-scale driftnet fishing vessel of a foreign nation that is
+ party to the agreement, including vessels that may operate independently
+ to develop new fishing areas, which operate beyond the exclusive economic
+ zone of any nation, is included in such agreement;
+ `(2) each large-scale driftnet fishing vessel of a foreign nation that
+ is party to the agreement, which operates beyond the exclusive economic
+ zone of any nation, is equipped with satellite transmitters which provide
+ real-time position information accessible to the United States;
+ `(3) statistically reliable monitoring by the United States is carried
+ out, through the use of on-board observers or through dedicated platforms
+ provided by foreign nations that are parties to the agreement, of all
+ target and nontarget fish species, marine mammals, sea turtles, and sea
+ birds entangled or killed by large-scale driftnets used by fishing vessels
+ of foreign nations that are parties to the agreement;
+ `(4) officials of the United States have the right to board and inspect
+ for violations of the agreement any large-scale driftnet fishing vessels
+ operating under the flag of a foreign nation that is party to the agreement
+ at any time while such vessel is operating in designated areas beyond the
+ exclusive economic zone of any nation;
+ `(5) all catch landed or transshipped at sea by large-scale driftnet
+ fishing vessels of a foreign nation that is a party to the agreement,
+ and which are operated beyond the exclusive economic zone of any nation,
+ is reliably monitored and documented;
+ `(6) time and area restrictions are imposed on the use of large-scale
+ driftnets in order to prevent interception of anadromous species;
+ `(7) all large-scale driftnets used are constructed, insofar as feasible,
+ with biodegradable materials which break into segments that do not represent
+ a threat to living marine resources;
+ `(8) all large-scale driftnets are marked at appropriate intervals in a
+ manner that conclusively identifies the vessel and flag nation responsible
+ for each such driftnet;
+ `(9) the taking of nontarget fish species, marine mammals, sea turtles,
+ seabirds, and endangered species or other species protected by international
+ agreements to which the United States is a party is minimized and does not
+ pose a threat to existing fisheries or the long-term health of living marine
+ resources; and
+ `(10) definitive steps are agreed upon to ensure that parties to the agreement
+ comply with the spirit of other international agreements and resolutions
+ concerning the use of large-scale driftnets beyond the exclusive economic
+ zone of any nation.
+ `(e) REPORT- Not later than January 1, 1991, and every year thereafter until
+ the purposes of this section are met, the Secretary, after consultation
+ with the Secretary of State and the Secretary of the department in which
+ the Coast Guard is operating, shall submit to the Committee on Commerce,
+ Science, and Transportation of the Senate and the Committee on Merchant
+ Marine and Fisheries of the House of Representatives a report--
+ `(1) describing the steps taken to carry out the provisions of this section,
+ particularly subsection (c);
+ `(2) evaluating the progress of those efforts, the impacts on living marine
+ resources, including available observer data, and specifying plans for
+ further action;
+ `(3) identifying and evaluating the effectiveness of unilateral measures and
+ multilateral measures, including sanctions, that are available to encourage
+ nations to agree to and comply with this section, and recommendations for
+ legislation to authorize any additional measures that are needed if those
+ are considered ineffective;
+ `(4) identifying, evaluating, and making any recommendations considered
+ necessary to improve the effectiveness of the law, policy, and procedures
+ governing enforcement of the exclusive management authority of the United
+ States over anadromous species against fishing vessels engaged in fishing
+ beyond the exclusive economic zone of any nation;
+ `(5) containing a list and description of any new fisheries developed by
+ nations that conduct, or authorize their nationals to conduct, large-scale
+ driftnet fishing beyond the exclusive economic zone of any nation; and
+ `(6) containing a list of the nations that conduct, or authorize their
+ nationals to conduct, large-scale driftnet fishing beyond the exclusive
+ economic zone of any nation in a manner that diminishes the effectiveness of
+ or is inconsistent with any international agreement governing large-scale
+ driftnet fishing to which the United States is a party or otherwise
+ subscribes.
+ `(f) CERTIFICATION- If at any time the Secretary, in consultation with the
+ Secretary of State and the Secretary of the department in which the Coast
+ Guard is operating, identifies any nation that warrants inclusion in the list
+ described under subsection (e)(6), the Secretary shall certify that fact
+ to the President. Such certification shall be deemed to be a certification
+ for the purposes of section 8(a) of the Fishermen's Protective Act of 1967
+ (22 U.S.C. 1978(a)).
+ `(g) EFFECT ON SOVEREIGN RIGHTS- This section shall not serve or be
+ construed to expand or diminish the sovereign rights of the United States,
+ as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983,
+ and reflected in this Act or other existing law.
+ `(h) DEFINITION- As used in this section, the term `living marine
+ resources' includes fish, marine mammals, sea turtles, and seabirds and
+ other waterfowl.'.
+ (b) CONFORMING AMENDMENT- The entry for section 206 in the table of contents
+ in the first section of the Magnuson Fishery Conservation and Management
+ Act is amended to read as follows:
+`Sec. 206. Large-scale driftnet fishing.'.
+REGIONAL COUNCILS
+ SEC. 108. (a) AUTHORITY OVER CERTAIN FISHERIES- Section 302(a) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1852(a)) is amended by
+ inserting `(except as provided in section 304(f)(3))' immediately before the
+ period at the end of the first sentence in each of paragraphs (1) through (5).
+ (b) MEMBERS' QUALIFICATIONS- Paragraph (2) of section 302(b) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1852(b)) is amended to
+ read as follows:
+ `(2)(A) The members of each Council required to be appointed by the
+ Secretary must be individuals who, by reason of their occupational or other
+ experience, scientific expertise, or training, are knowledgeable regarding
+ the conservation and management, or the commercial or recreational harvest,
+ of the fishery resources of the geographical area concerned. Within nine
+ months after the date of enactment of the Fishery Conservation Amendments of
+ 1990, the Secretary shall, by regulation, prescribe criteria for determining
+ whether an individual satisfies the requirements of this subparagraph.
+ `(B) The Secretary, in making appointments under this section, shall, to the
+ extent practicable, ensure a fair and balanced apportionment, on a rotating
+ or other basis, of the active participants (or their representatives)
+ in the commercial and recreational fisheries under the jurisdiction of
+ the Council. On January 31, 1991, and each year thereafter, the Secretary
+ shall submit to the Committee on Commerce, Science, and Transportation of
+ the Senate and the Committee on Merchant Marine and Fisheries of the House
+ of Representatives a report on the actions taken by the Secretary to ensure
+ that such fair and balanced apportionment is achieved. The report shall--
+ `(i) list the fisheries under the jurisdiction of each Council, outlining
+ for each fishery the type and quantity of fish harvested, fishing and
+ processing methods employed, the number of participants, the duration and
+ range of the fishery, and other distinguishing characteristics;
+ `(ii) assess the membership of each Council in terms of the apportionment
+ of the active participants in each such fishery; and
+ `(iii) state the Secretary's plans and schedule for actions to achieve a
+ fair and balanced apportionment on the Council for the active participants
+ in any such fishery.
+ `(C) The Secretary shall appoint the members of each Council from a list
+ of individuals submitted by the Governor of each applicable constituent
+ State. A Governor may not submit the names of individuals to the Secretary for
+ appointment unless the Governor has determined that each such individual is
+ qualified under the requirements of subparagraph (A) and unless the Governor
+ has, to the extent practicable, first consulted with representatives of
+ the commercial and recreational fishing interests of the State regarding
+ those individuals. Each such list shall include the names and pertinent
+ biographical data of not less than three individuals for each applicable
+ vacancy and shall be accompanied by a statement by the Governor explaining
+ how each such individual meets the requirements of subparagraph (A). The
+ Secretary shall review each list submitted by a Governor to ascertain if
+ the individuals on the list are qualified for the vacancy on the basis of
+ such requirements. If the Secretary determines that any individual is not
+ qualified, the Secretary shall notify the appropriate Governor of that
+ determination. The Governor shall then submit a revised list or resubmit
+ the original list with an additional explanation of the qualifications of
+ the individual in question. An individual is not eligible for appointment by
+ the Secretary until that individual complies with the applicable financial
+ disclosure requirements under subsection (k).
+ `(D) Whenever the Secretary makes an appointment to a Council, the Secretary
+ shall make a public announcement of such appointment not less than 45 days
+ before the first day on which the individual is to take office as a member
+ of the Council.'.
+ (c) LIMITATION ON TERMS OF VOTING MEMBERS- Section 302(b)(3) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1852(b)(3)) is amended
+ by adding at the end the following new sentence: `No member appointed after
+ January 1, 1986, may serve more than three consecutive terms. Any term
+ completed prior to January 1, 1986, shall not be counted in determining
+ the number of consecutive terms served by any Council member.'.
+ (d) COMPENSATION AND EXPENSES- Section 302(d) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1852(d)) is amended to read
+ as follows:
+ `(d) COMPENSATION AND EXPENSES- The voting members of each Council, who are
+ not employed by the Federal Government or any State or local government,
+ shall, until January 1, 1992, receive compensation at the daily rate
+ for GS-18 of the General Schedule, and after December 31, 1991, at the
+ daily rate for GS-16 of the General Schedule, when engaged in the actual
+ performance of duties for such Council. The voting members of each Council,
+ any nonvoting member described in subsection (c)(1)(C), and the nonvoting
+ member appointed pursuant to subsection (c)(2) shall be reimbursed for actual
+ expenses incurred in the performance of such duties, and other nonvoting
+ members and Council staff members may be reimbursed for actual expenses.'.
+ (e) TRANSACTION OF BUSINESS- (1) Section 302(e)(3) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1852(e)(3)) is amended by striking
+ `in the geographical area concerned' and inserting in lieu thereof `at
+ appropriate times and places in any of the constituent States of the Council'.
+ (2) Section 302(e)(4) of the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1852(e)(4)) is amended by adding at the end the following new
+ sentence: `The regional director of the National Marine Fisheries Service
+ serving on the Council, or the regional director's designee, shall submit
+ such a statement, which shall be made available to the public upon request,
+ if the regional director disagrees with any such matter.'.
+ (f) COMMITTEES AND PANELS- Section 302(g) of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1852(g)) is amended by adding at the end the
+ following new paragraph:
+ `(3)(A) Each Council shall establish and maintain a fishing industry advisory
+ committee which shall provide information and recommendations on, and assist
+ in the development of, fishery management plans and amendments to such plans.
+ `(B) Appointments to a committee established under subparagraph (A) shall
+ be made by each Council in such a manner as to provide fair representation
+ to commercial fishing interests in the geographical area of authority of
+ the Council.
+ `(4) Decisions and recommendations made by committees and panels established
+ under this subsection shall be considered to be advisory in nature.'.
+ (g) COUNCIL FUNCTIONS- Paragraphs (1) and (5) of section 302(h) of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1852(h))
+ are each amended by inserting `(except as provided in section 304(f)(3))'
+ immediately before `within its geographical'.
+ (h) FISHERY HABITAT CONCERNS- Section 302(i) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1852(i)) is amended to read
+ as follows:
+ `(i) FISHERY HABITAT CONCERNS- (1) Each Council--
+ `(A) may comment on and make recommendations concerning any activity
+ undertaken, or proposed to be undertaken, by any State or Federal agency
+ that, in the view of the Council, may affect the habitat of a fishery
+ resource under its jurisdiction; and
+ `(B) shall comment on and make recommendations concerning any such activity
+ that, in the view of the Council, is likely to substantially affect the
+ habitat of an anadromous fishery resource under its jurisdiction.
+ `(2) Within 45 days after receiving a comment or recommendation under
+ paragraph (1) from a Council, a Federal agency shall provide a detailed
+ response, in writing, to the Council regarding the matter. In the case of a
+ comment or recommendation under paragraph (1)(B), the response shall include
+ a description of measures being considered by the agency for mitigating or
+ offsetting the impact of the activity on such habitat.'.
+ (i) CLOSED MEETINGS- Section 302(j)(3) of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1852(j)(3)) is amended--
+ (1) in subparagraph (A)--
+ (A) by striking the semicolon at the end of clause (ii) and all that follows
+ through `time and place of the meeting.' and inserting in lieu thereof a
+ period; and
+ (B) by inserting `of paragraph (2)' immediately after `(D) and (F)'; and
+ (2) by adding at the end the following new subparagraph:
+ `(B) If any meeting or portion is closed, the Council concerned shall notify
+ local newspapers in the major fishing ports within its region (and in other
+ major, affected fishing ports), including in that notification the time
+ and place of the meeting. This subpararaph does not require notification
+ regarding any brief closure of a portion of a meeting in order to discuss
+ employment or other internal administrative matters.'.
+ (j) CONSIDERATION OF NEW INFORMATION- Section 302(j) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1852(j)) is amended by adding
+ at the end the following new paragraph:
+ `(6) At any time when a Council determines it appropriate to consider new
+ information from a State or Federal agency or from a Council advisory body,
+ the Council shall give comparable consideration to new information offered
+ at that time by interested members of the public. Interested parties shall
+ have a reasonable opportunity to respond to new data or information before
+ the Council takes final action on conservation and management measures.'.
+ (k) INTERIM MANAGEMENT OF HIGHLY MIGRATORY SPECIES FISHERIES- Notwithstanding
+ the amendments made by subsections (a) and (g), any fishery management plan
+ or amendment which--
+ (1) addresses a highly migratory species fishery to which section 304(f)(3)
+ of the Magnuson Fishery Conservation and Management Act (as amended by this
+ Act) applies,
+ (2) was prepared by one or more Regional Fishery Management Councils, and
+ (3) was in force and effect on January 1, 1990,
+shall remain in force and effect until superseded by a fishery management
+plan prepared by the Secretary, and regulations implementing that plan.
+CONTENTS OF FISHERY MANAGEMENT PLANS
+ SEC. 109. (a) REQUIRED DATA COLLECTION AND GEAR- Section 303(a) of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1853(a))
+ is amended--
+ (1) in paragraph (1)(A) by inserting `, to prevent overfishing, and to
+ protect, restore, and promote the long-term health and stability of the
+ fishery' immediately before the semicolon at the end;
+ (2) in paragraph (1)(C) by inserting `regulations implementing recommendations
+ by international organizations in which the United States participates
+ (including but not limited to closed areas, quotas, and size limits),'
+ immediately after `this Act,';
+ (3) by amending paragraph (6) to read as follows:
+ `(6) consider and provide for temporary adjustments, after consultation
+ with the Coast Guard and persons utilizing the fishery, regarding access
+ to the fishery for vessels otherwise prevented from harvesting because of
+ weather or other ocean conditions affecting the safe conduct of the fishery;
+ except that the adjustment shall not adversely affect conservation efforts in
+ other fisheries or discriminate among participants in the affected fishery;';
+ (4) by striking the period at the end of paragraph (7) and inserting in
+ lieu thereof a semicolon; and
+ (5) by adding at the end the following new paragraphs:
+ `(8) in the case of a fishery management plan that, after January 1, 1991,
+ is submitted to the Secretary for review under section 304(a) (including any
+ plan for which an amendment is submitted to the Secretary for such review)
+ or is prepared by the Secretary, assess and specify the nature and extent of
+ scientific data which is needed for effective implementation of the plan; and
+ `(9) include a fishery impact statement for the plan or amendment (in
+ the case of a plan or amendment thereto submitted to or prepared by the
+ Secretary after October 1, 1990) which shall assess, specify, and describe
+ the likely effects, if any, of the conservation and management measures on--
+ `(A) participants in the fisheries affected by the plan or amendment; and
+ `(B) participants in the fisheries conducted in adjacent areas under the
+ authority of another Council, after consultation with such Council and
+ representatives of those participants.'.
+ (b) DISCRETIONARY PROVISIONS- (1) Paragraph (1) of section 303(b) of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1853(b)) is
+ amended to read as follows:
+ `(1) require a permit to be obtained from, and fees to be paid to, the
+ Secretary, with respect to--
+ `(A) any fishing vessel of the United States fishing, or wishing to fish,
+ in the exclusive economic zone or for anadromous species or Continental
+ Shelf fishery resources beyond such zone;
+ `(B) the operator of any such vessel; or
+ `(C) any United States fish processor who first receives fish that are
+ subject to the plan;'.
+ (2) Section 303(b) of the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1853(b)) is amended by redesignating paragraphs (7) and (8) as
+ paragraphs (9) and (10), respectively, and by inserting immediately after
+ paragraph (6) the following new paragraphs:
+ `(7) require fish processors who first receive fish that are subject to the
+ plan to submit data (other than economic data) which are necessary for the
+ conservation and management of the fishery;
+ `(8) require that observers be carried on board a vessel of the United
+ States engaged in fishing for species that are subject to the plan, for the
+ purpose of collecting data necessary for the conservation and management
+ of the fishery; except that such a vessel shall not be required to carry
+ an observer on board if the facilities of the vessel for the quartering of
+ an observer, or for carrying out observer functions, are so inadequate or
+ unsafe that the health or safety of the observer or the safe operation of
+ the vessel would be jeopardized;'.
+ (c) CONFIDENTIALITY OF STATISTICS- Section 303(d) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1853(d)) is amended--
+ (1) in the matter preceding paragraph (1) by striking `subsection (a)(5)'
+ and inserting in lieu thereof `subsections (a) and (b)';
+ (2) by striking `or' at the end of paragraph (1);
+ (3) by redesignating paragraph (2) as paragraph (3);
+ (4) by inserting immediately after paragraph (1) the following new paragraph:
+ `(2) to State employees pursuant to an agreement with the Secretary that
+ prevents public disclosure of the identity or business of any person; or'; and
+ (5) by adding at the end the following new sentence: `Nothing in this
+ subsection shall be interpreted or construed to prevent the use for
+ conservation and management purposes by the Secretary, or with the approval
+ of the Secretary, the Council, of any statistic submitted in compliance
+ with a requirement under subsection (a) or (b).'.
+ (d) USE OF CERTAIN DATA- Section 303 of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1853) is further amended by adding at the
+ end the following new subsection:
+ `(f) RESTRICTION ON USE OF CERTAIN DATA- The Secretary shall promulgate
+ regulations to restrict the use, in civil enforcement or criminal proceedings
+ under this Act, the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et
+ seq.), or the Endangered Species Act (16 U.S.C. 1531 et seq.), of information
+ collected by voluntary fishery data collectors, including sea samplers,
+ while aboard any vessel for conservation and management purposes if the
+ presence of such a fishery data collector aboard is not required by any of
+ such Acts or regulations thereunder.'.
+ACTION BY SECRETARY ON FISHERY MANAGEMENT PLANS
+ SEC. 110. (a) FISHERIES RESEARCH- Subsection (e) of section 304 of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1854) is amended
+ to read as follows:
+ `(e) FISHERIES RESEARCH- (1) Within one year after the date of enactment of
+ the Fishery Conservation Amendments of 1990, and at least every three years
+ thereafter, the Secretary shall develop and publish in the Federal Register
+ a strategic plan for fisheries research for the five years immediately
+ following such publication. The plan shall--
+ `(A) identify and describe a comprehensive program with a limited number of
+ priority objectives for research in each of the areas specified in paragraph
+ (2);
+ `(B) indicate the goals and timetables for the program described in
+ subparagraph (A); and
+ `(C) provide a role for affected commercial fishermen in such research,
+ including involvement in field testing.
+ `(2) The areas of research referred to in paragraph (1) are as follows:
+ `(A) Research to support fishery conservation and management, including
+ research on the economics of fisheries and biological research concerning
+ the interdependence of fisheries or stocks of fish, the impact of pollution
+ on fish populations, the impact of wetland and estuarine degradation,
+ and other matters bearing upon the abundance and availability of fish.
+ `(B) Conservation engineering research, including the study of fish behavior
+ and the development and testing of new gear technology and fishing techniques
+ to minimize the harvest of nontarget species and promote efficient harvest
+ of target species.
+ `(C) Information management research, including the development of a fishery
+ information base and an information management system that will permit
+ the full use of data in the support of effective fishery conservation
+ and management.
+ `(3) In developing the plan required under paragraph (1), the Secretary shall
+ consult with relevant Federal agencies, scientific and technical experts, and
+ other interested persons, public and private, and shall publish a proposed
+ plan in the Federal Register for the purpose of receiving public comment on
+ the plan. The Secretary shall ensure that affected commercial fishermen are
+ actively involved in the development of the portion of the plan pertaining
+ to conservation engineering research. Upon final publication in the Federal
+ Register, the plan shall be submitted by the Secretary to the Committee on
+ Commerce, Science, and Transportation of the Senate and the Committee on
+ Merchant Marine and Fisheries of the House of Representatives.'.
+ (b) MANAGEMENT OF HIGHLY MIGRATORY SPECIES FISHERIES- (1) Section 304(f)
+ of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1854(f))
+ is amended--
+ (A) by striking `MISCELLANEOUS DUTIES' and inserting in lieu thereof
+ `FISHERIES UNDER AUTHORITY OF MORE THAN ONE COUNCIL';
+ (B) in paragraph (1) by striking `If' and inserting in lieu thereof `Except
+ as provided in paragraph (3), if'; and
+ (C) by adding at the end the following new paragraph:
+ `(3)(A) The Secretary shall have authority over any highly migratory species
+ fishery that is within the geographical area of authority of more than
+ one of the  following Councils: New England Council, Mid-Atlantic Council,
+ South Atlantic Council, Gulf Council, and Caribbean Council.
+ `(B) In accordance with the provisions of this Act and any other applicable
+ law, the Secretary shall--
+ `(i) identify research and  information priorities, including observer
+ requirements and necessary data collection and analysis for the conservation
+ and management of highly migratory species;
+ `(ii) prepare and amend fishery management plans with respect to highly
+ migratory species fisheries to which this paragraph applies; and
+ `(iii)  diligently pursue, through international entities (such as
+ the International Commission for the Conservation of Atlantic Tunas),
+ international fishery management measures with respect to fishing for highly
+ migratory species.
+ `(C) In preparing or amending any fishery management plan under this
+ paragraph, the Secretary shall--
+ `(i) conduct public hearings, at appropriate times and in appropriate
+ locations in the geographical areas concerned, so as to allow interested
+ persons an opportunity to be heard in the preparation and amendment of
+ the plan;
+ `(ii) consult with and consider the comments and views of commissioners and
+ advisory groups appointed under Acts implementing relevant international
+ fishery agreements pertaining to highly migratory species;
+ `(iii) consult with and consider the comments and views of affected Councils;
+ `(iv) evaluate the likely effects, if any, of conservation and management
+ measures on participants in the fisheries affected by the plan and minimize,
+ to the extent practicable, any disadvantage to United States fishermen in
+ relation to foreign competitors; and
+ `(v) review, on a continuing basis  (and promptly whenever a recommendation
+ pertaining to fishing for highly migratory species has been made under
+ a relevant international fishery agreement), and revise as appropriate,
+ the conservation and management measures included in the plan.
+ `(D) Conservation and management measures contained in any fishery  management
+ plan under this paragraph shall--
+ `(i) take into consideration traditional fishing patterns of fishing  vessels
+ of the United States and the operating requirements of the fisheries;
+ `(ii) be  fair and equitable in allocating fishing privileges among United
+ States  fishermen and not have economic allocation as the sole purpose; and
+ `(iii) promote international conservation.
+ `(E) With respect to a highly migratory species for which the United States is
+ authorized to harvest an  allocation or quota under a relevant international
+ fishery agreement, the Secretary shall provide fishing vessels  of the United
+ States with a reasonable opportunity to harvest such allocation or quota.
+ `(F) In implementing the provisions of this paragraph, the Secretary shall
+ consult with--
+ `(i) the Secretary of State;
+ `(ii) commissioners and advisory groups appointed under Acts implementing
+ relevant international fishery agreements pertaining to highly migratory
+ species; and
+ `(iii)  appropriate Councils.'.
+ (2) Section 305(a)(3) of the Magnuson Fishery Conservation and Management Act
+ (16  U.S.C. 1855(a)(3)), as redesignated by section 111(a)(1) of this Act,
+ is amended by inserting `or (f)(3)' immediately  after `304(c)'.
+ (c) INCIDENTAL HARVEST RESEARCH- Section 304 of the Magnuson Fishery
+ Conservation and Management Act  (16 U.S.C.  1854) is amended by adding at
+ the end the following new subsection.
+ `(g) INCIDENTAL HARVEST RESEARCH- (1) Within 9 months after the date of
+ enactment of the Fishery Conservation Amendments of 1990, the Secretary
+ shall, after consultation with the Gulf of Mexico Fishery Management Council
+ and South Atlantic Fishery Management Council, establish  by regulation
+ a 3-year program to assess the impact on fishery resources of incidental
+ harvest by the shrimp trawl fishery within the authority of such Councils.
+ `(2) The program established pursuant to paragraph (1) shall provide for the
+ identification of stocks of fish which are subject to significant incidental
+ harvest in the course of normal shrimp trawl fishing activity.
+ `(3) For stocks of fish identified pursuant to paragraph (2), with priority
+ given to stocks which (based upon the best available scientific information)
+ are considered to be overfished, the Secretary shall conduct--
+ `(A) a program to collect and evaluate data on the nature and extent
+ (including the spatial and temporal distribution) of incidental mortality
+ of such stocks as a direct result of shrimp trawl fishing activities;
+ `(B) an assessment of the status and condition of such stocks, including
+ collection of information which would allow the estimation of life history
+ parameters with sufficient accuracy and precision to support sound scientific
+ evaluation of the effects of various management alternatives on the status
+ of such stocks; and
+ `(C) a program of data collection and evaluation for such stocks on the
+ magnitude and distribution of fishing mortality and fishing effort by
+ sources of fishing  mortality other than shrimp trawl fishing activity.
+ `(4) The Secretary shall, in cooperation with affected interests, commence
+ a program to design, and evaluate the efficacy of, technological devices
+ and other changes in fishing technology for the reduction of incidental
+ mortality of nontarget fishery resources in the course of shrimp trawl
+ fishing activity. Such program shall take into account local conditions
+ and include evaluation of any reduction in incidental mortality, as well
+ as any reduction or increase in the retention of shrimp in the course of
+ normal fishing activity.
+ `(5) The Secretary shall, upon completion of the programs required by this
+ subsection, submit a detailed report on the results of such programs to the
+ Committee on Commerce, Science, and Transportation of the Senate and the
+ Committee on Merchant Marine and Fisheries of the House of Representatives.
+ `(6)(A) Except as provided in this paragraph, the Secretary may not implement
+ any measures under this Act  to reduce incidental mortality of nontarget
+ fishery resources in the course of shrimp trawl fishing which would restrict
+ the period during which shrimp are harvested or would require the use of
+ any technological device or other change in fishing technology.
+ `(B) The prohibition contained in subparagraph (A) shall cease on January
+ 1, 1994.
+ `(C) This paragraph does not apply to any law or regulation in effect on
+ the date of enactment of this paragraph, nor does it limit in any way the
+ Secretary's authority to take action, including any limitation on entry
+ permitted by this Act,  for the conservation and  management of  the shrimp
+ fishery resource.'.
+ (d) ATLANTIC SEA SCALLOP FISHERY MANAGEMENT PLAN- (1) The New England Fishery
+ Management Council may submit to the Secretary of Commerce  an amendment to
+ the Atlantic Sea Scallop Fishery Management Plan. Any amendment submitted
+ under this section shall--
+ (A) contain measures providing for the conservation and management of
+ Atlantic sea scallops, that are not based primarily on the scallop meat
+ count but which may include controls on scallop harvesting effort; and
+ (B) consider the views of fishermen and fish processors involved in the
+ Atlantic sea scallop fishery.
+ (2) If no amendment is submitted under paragraph (1) before one year after
+ the date of enactment of this Act, the Secretary of Commerce is encouraged
+ to prepare the amendment described in paragraph (1) under section 304 of
+ the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1854).
+IMPLEMENTATION OF FISHERY MANAGEMENT PLANS
+ SEC. 111. (a) TECHNICAL AND CONFORMING AMENDMENTS- (1) Section 305 of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1855) is amended--
+ (A) by redesignating subsections (c), (d), and (e) as subsections (a),
+ (b), and (c), respectively; and
+ (B) by redesignating subsections (g) and (h) as subsections (d) and (e),
+ respectively.
+ (2) Section 304 of the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1854) is amended--
+ (A) in subsection (b)(1) by striking `305(c)' in the first sentence and
+ inserting in lieu thereof `305(a)';
+ (B) in subsection (b)(3)(D) by striking `305(c)' and inserting in lieu
+ thereof `305(a)'; and
+ (C) in subsection (c)(2)(B) by striking `305(c)' and inserting in lieu
+ thereof `305(a)'.
+ (b) JUDICIAL REVIEW OF CERTAIN IMPLEMENTING ACTIONS- Section 305(b) of
+ the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1855(b)),
+ as redesignated by subsection (a)(1)(A), is amended to read as follows:
+ `(b) JUDICIAL REVIEW- (1) Regulations promulgated by the Secretary under this
+ Act and actions described in paragraph (2) shall be subject to judicial review
+ to the extent authorized by, and in accordance with, chapter 7 of title 5,
+ United States Code, if a petition for such review is filed within 30 days
+ after the date on which the regulations are promulgated or the action is
+ published in the Federal Register, as applicable; except that--
+ `(A) section 705 of such title is not applicable, and
+ `(B) the appropriate court shall only set aside any such regulation or action
+ on a ground specified in section 706(2) (A), (B), (C), or (D) of such title.
+ `(2) The actions referred to in paragraph (1) are actions that are taken by
+ the Secretary under regulations which implement a fishery management plan,
+ including but not limited to actions that establish the date of closure of
+ a fishery to commercial or recreational fishing.
+ `(3)(A) Notwithstanding any other provision of law, the Secretary shall file
+ a response to any petition filed in accordance with paragraph (1), not later
+ than 45 days after the date the Secretary is served with that petition,
+ except that the appropriate court may extend the period for filing such a
+ response upon a showing by the Secretary of good cause for that extension.
+ `(B) A response of the Secretary under this paragraph shall include a copy
+ of the administrative record for the regulations that are the subject of
+ the petition.
+ `(4) Upon a motion by the person who files a petition under this subsection,
+ the appropriate court shall assign the matter for hearing at the earliest
+ possible date and shall expedite the matter in every possible way.'.
+state jurisdiction
+ SEC. 112. Section 306(c) of the Magnuson Fishery Conservation and Management
+ Act (16 U.S.C. 1856(c)) is amended--
+ (1) in paragraph (1)(B) by inserting `and the application specifies the
+ species to be processed' before the period at the end; and
+ (2) by striking paragraph (2) and inserting in lieu thereof the following:
+ `(2) The Governor of a State may not grant permission for a foreign fishing
+ vessel to engage in fish processing under paragraph (1)--
+ `(A) for a fishery which occurs in the waters of more than one State or in
+ the exclusive economic zone, except after--
+ `(i) consulting with the appropriate Council and Marine Fisheries Commission,
+ and
+ `(ii) considering any comments received from the Governor of any other
+ State where the fishery occurs; and
+ `(B) if the Governor determines that fish processors within the State have
+ adequate capacity, and will utilize such capacity, to process all of the
+ United States harvested fish from the fishery concerned that are landed in
+ the State.'.
+prohibition of certain acts
+ SEC. 113. (a) PROHIBITIONS WITH RESPECT TO THEFT, ASSAULT, AND LARGE-SCALE
+ DRIFTNET FISHING- Section 307(1) of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1857(1)) is amended--
+ (1) by striking `or' at the end of subparagraph (I);
+ (2) by striking the period at the end of subparagraph (J) and inserting in
+ lieu thereof a semicolon; and
+ (3) by adding at the end the following new subparagraphs:
+ `(K) to knowingly steal,  or without authorization, to remove, damage,
+ or tamper with--
+ `(i) fishing gear owned by another person, which is located in the exclusive
+ economic zone, or
+ `(ii) fish contained in such fishing gear,
+or to attempt to do so;
+ `(L) to forcibly assault, resist, oppose, impede, intimidate, or interfere
+ with any observer on a vessel under this Act;
+ `(M) to engage in large-scale driftnet fishing that is subject to the
+ jurisdiction of the United States, including use of a fishing vessel of the
+ United States to engage in such fishing beyond the exclusive economic zone
+ of any nation; or
+ `(N) to strip pollock of its roe and discard the flesh of the pollock.'.
+ (b) VIOLATION OF INTERNATIONAL FISHERY AGREEMENT- Section 307 of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1857) is amended--
+ (1) in paragraph (3) by striking `; and' and inserting in lieu thereof
+ a semicolon;
+ (2) in paragraph (4) by striking the period at the end and inserting in
+ lieu thereof `; and;' and
+ (3) by adding at the end the following new paragraph:
+ `(5) for any vessel of the United States, and for the owner or operator
+ of any vessel of the United States, to engage in fishing in the waters
+ of a foreign nation in a manner that violates an international fishery
+ agreement between that nation and the United States that has been subject
+ to Congressional oversight in the manner described in section 203, or any
+ regulations issued to implement such an agreement; except that the binding
+ provisions of such agreement and implementing regulations shall have been
+ published in the Federal Register prior to such violation.'.
+CIVIL PENALTIES AND PERMIT SANCTIONS
+ SEC. 114. (a) INCREASED PENALTY; PERMIT SANCTIONS- Section 308 of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1858) is amended--
+ (1) in the section heading by inserting `AND PERMIT SANCTIONS' immediately
+ after `CIVIL PENALTIES';
+ (2) in subsection (a) by striking `$25,000' in the second sentence and
+ inserting in lieu thereof `$100,000'; and
+ (3) by adding at the end the following:
+ `(g) PERMIT SANCTIONS- (1) In any case in which (A) a vessel has been used
+ in the commission of an act prohibited under section 307, (B) the owner or
+ operator of a vessel or any other person who has been issued or has applied
+ for a permit under this Act has acted in violation of section 307, or (C)
+ any civil penalty or criminal fine imposed on a vessel or owner or operator
+ of a vessel or any other person who has been issued or has applied for a
+ permit under any fishery resource law statute enforced by the Secretary
+ has not been paid and is overdue, the Secretary may--
+ `(i) revoke any permit issued with respect to such vessel or person, with
+ or without prejudice to the issuance of subsequent permits;
+ `(ii) suspend such permit for a period of time considered by the Secretary
+ to be appropriate;
+ `(iii) deny such permit; or
+ `(iv) impose additional conditions and restrictions on any permit issued to
+ or applied for by such vessel or person under this Act and, with respect to
+ foreign fishing vessels, on the approved application of the foreign nation
+ involved and on any permit issued under that application.
+ `(2) In imposing a sanction under this subsection, the Secretary shall take
+ into account--
+ `(A) the nature, circumstances, extent, and gravity of the prohibited acts
+ for which the sanction is imposed; and
+ `(B) with respect to the violator, the degree of culpability, any history
+ of prior offenses, and such other matters as justice may require.
+ `(3) Transfer of ownership of a vessel, by sale or otherwise, shall not
+ extinguish any permit sanction that is in effect or is pending at the time
+ of transfer of ownership. Before executing the transfer of ownership of a
+ vessel, by sale or otherwise, the owner shall disclose in writing to the
+ prospective transferee the existence of any permit sanction that will be
+ in effect or pending with respect to the vessel at the time of the transfer.
+ `(4) In the case of any permit that is suspended under this subsection for
+ nonpayment of a civil penalty or criminal fine, the Secretary shall reinstate
+ the permit upon payment of the penalty or fine and interest thereon at the
+ prevailing rate.
+ `(5) No sanctions shall be imposed under this subsection unless there
+ has been a prior opportunity for a hearing on the facts underlying the
+ violation for which the sanction is imposed, either in conjunction with a
+ civil penalty proceeding under this section or otherwise.'.
+ (b) CONFORMING AMENDMENT- The entry for section 308 in the table of contents
+ in the first section of the Magnuson Fishery Conservation and Management
+ Act is amended to read as follows:
+`Sec. 308. Civil penalties and permit sanctions.'.
+CRIMINAL OFFENSES AND PENALTIES
+ SEC. 115. (a) OFFENSES- Paragraph (1) of section 309(a) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1859(a)) is amended to
+ read as follows:
+ `(1) section 307(1) (D), (E), (F), (H), (I), or (L); or'.
+ (b) PUNISHMENT- Section 309(b) of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1859(b)) is amended--
+ (1) by striking `$50,000' and inserting in lieu thereof `$100,000';
+ (2) by striking `$100,000' each place it appears and inserting in lieu
+ thereof `$200,000';
+ (3) by inserting `any observer described in section 307(1)(L) or' immediately
+ after `injury to'; and
+ (4) by inserting `observer or' immediately before `officer in fear'.
+civil forfeitures
+ SEC. 116. Section 310(e) of the Magnuson Fishery Conservation and Management
+ Act (16 U.S.C. 1860(e)) is amended--
+ (1) by inserting `(1)' immediately before `For purposes'; and
+ (2) by adding at the end the following:
+ `(2) For purposes of this Act, it shall be a rebuttable presumption that
+ any fish of a species which spawns in fresh or estuarine waters and migrates
+ to ocean waters that is found on board a vessel is of United States origin
+ if the vessel is within the migratory range of the species during that part
+ of the year to which the migratory range applies.'.
+enforcement
+ SEC. 117. Section 311(e) of the Magnuson Fishery Conservation and Management
+ Act (16 U.S.C. 1861(e)) is amended to read as follows:
+ `(e) PAYMENT OF STORAGE, CARE, AND OTHER COSTS- (1) Notwithstanding any
+ other provision of law, the Secretary or the Secretary of the Treasury may
+ pay from sums received as fines, penalties, and forfeitures of property for
+ violations of any provisions of this Act or of any other fishery resource
+ law enforced by the Secretary, including the Lacey Act Amendments of 1981
+ (16 U.S.C. 3371 et seq.)--
+ `(A) the reasonable and necessary costs incurred in providing temporary
+ storage, care, and maintenance of seized fish or other property pending
+ disposition of any civil or criminal proceeding alleging a violation of
+ any provision of this Act or any other fishery resource law enforced by
+ the Secretary with respect to that fish or other property;
+ `(B) a reward to any person who furnishes information which leads to an
+ arrest, conviction, civil penalty assessment, or forfeiture of property for
+ any violation of any provision of this Act or any other fishery resource
+ law enforced by the Secretary;
+ `(C) any expenses directly related to investigations and civil or criminal
+ enforcement proceedings, including any necessary expenses for equipment,
+ training, travel, witnesses, and contracting services directly related to
+ such investigations or proceedings;
+ `(D) any valid liens or mortgages against any property that has been
+ forfeited;
+ `(E) claims of parties in interest to property disposed of under section
+ 612(b) of the Tariff Act of 1930 (19 U.S.C. 1612(b)) or under other provisions
+ of the customs laws, as made applicable by section 310(c) of this Act to
+ seizures made by the Secretary under this Act, in amounts determined by
+ the Secretary to be applicable to such claims at the time of seizure; and
+ `(F) reimbursement to any Federal or State agency, including the Coast Guard,
+ for services performed, or personnel, equipment, or facilities utilized,
+ under any agreement with the Secretary entered into pursuant to subsection
+ (a), or any similar agreement authorized by law.
+ `(2) Any person assessed a civil penalty for, or convicted of, any violation
+ of this Act shall be liable for the cost incurred in storage, care, and
+ maintenance of any fish or other property seized in connection with the
+ violation.'.
+NORTH PACIFIC FISHERIES RESEARCH PLAN
+ SEC. 118. (a) Title III of the Magnuson Fishery Conservation and Management
+ Act (16 U.S.C. 1851 et seq.) is amended by adding at the end the following
+ new section:
+`SEC. 313. NORTH PACIFIC FISHERIES RESEARCH PLAN.
+ `(a) IN GENERAL- The North Pacific Fishery Management Council may prepare,
+ in consultation with the Secretary, a fisheries research plan for all
+ fisheries under the Council's jurisdiction except salmon fisheries which--
+ `(1) requires that observers be stationed on fishing vessels engaged in
+ the catching, taking, or harvesting of fish and on United States fish
+ processors fishing for or processing species under the jurisdiction of the
+ Council, including the Northern Pacific halibut fishery, for the purpose of
+ collecting data necessary for the conservation, management, and scientific
+ understanding of any fisheries under the Council's jurisdiction; and
+ `(2) establishes a system of fees to pay for the costs of implementing
+ the plan.
+ `(b) STANDARDS- (1) Any plan or plan amendment prepared under this section
+ shall be reasonably calculated to--
+ `(A) gather reliable data, by stationing observers on all or a statistically
+ reliable sample of the fishing vessels and United States fish processors
+ included in the plan, necessary for the conservation, management, and
+ scientific understanding of the fisheries covered by the plan;
+ `(B) be fair and equitable to all vessels and processors;
+ `(C) be consistent with applicable provisions of law; and
+ `(D) take into consideration the operating requirements of the fisheries
+ and the safety of observers and fishermen.
+ `(2) Any system of fees established under this section shall--
+ `(A) provide that the total amount of fees collected under this section
+ not exceed the combined cost of (i) stationing observers on board fishing
+ vessels and United States fish processors, (ii) the actual cost of inputting
+ collected data, and (iii) assessments necessary for a risk-sharing pool
+ implemented under subsection (e) of this section, less any amount received
+ for such purpose from another source or from an existing surplus in the North
+ Pacific Fishery Observer Fund established in subsection (d) of this section;
+ `(B) be fair and equitable to all participants in the fisheries under the
+ jurisdiction of the Council, including the Northern Pacific halibut fishery;
+ `(C) provide that fees collected not be used to pay any costs of
+ administrative overhead or other costs not directly incurred in carrying
+ out the plan;
+ `(D) not be used to offset amounts authorized under other provisions of law;
+ `(E) be expressed as a percentage, not to exceed one percentum, of the
+ value of fish and shellfish harvested under the jurisdiction of the Council,
+ including the Northern Pacific halibut fishery;
+ `(F) be assessed against all fishing vessels and United States fish
+ processors, including those not required to carry an observer under the
+ plan, participating in fisheries under the jurisdiction of the Council,
+ including the Northern Pacific halibut fishery;
+ `(G) provide that fees collected will be deposited in the North Pacific
+ Fishery Observer Fund established under subsection (d) of this section;
+ `(H) provide that fees collected will only be used for implementing the
+ plan established under this section; and
+ `(I) meet the requirements of section 9701(b) of title 31, United States Code.
+ `(c) ACTION BY SECRETARY- (1) Within 60 days after receiving a plan or
+ plan amendment from the North Pacific Council under this section, the
+ Secretary shall review such plan or plan amendment and either (A) remand
+ such plan or plan amendment to the Council with comments if it does not meet
+ the requirements of this section, or (B) publish in the Federal Register
+ proposed regulations for implementing such plan or plan amendment.
+ `(2) During the 60-day public comment period, the Secretary shall conduct
+ a public hearing in each State represented on the Council for the purpose
+ of receiving public comments on the proposed regulations.
+ `(3) Within 45 days of the close of the public comment period, the Secretary,
+ in consultation with the Council, shall analyze the public comment received
+ and publish final regulations for implementing such plan.
+ `(4) If the Secretary remands a plan or plan amendment to the Council for
+ failure to meet the requirements of this section, the Council may resubmit
+ such plan or plan amendment at any time after taking action the Council
+ believes will address the defects identified by the Secretary. Any plan or
+ plan amendment resubmitted to the Secretary will be treated as an original
+ plan submitted to the Secretary under paragraph (1) of this subsection.
+ `(d) FISHERY OBSERVER FUND- There is established in the Treasury a
+ North Pacific Fishery Observer Fund. The Fund shall be available, without
+ appropriation or fiscal year limitation, only to the Secretary for the purpose
+ of carrying out the provisions of this section, subject to the restrictions
+ in subsection (b)(2) of this section. The Fund shall consist of all monies
+ deposited into it in accordance with this section. Sums in the Fund that
+ are not currently needed for the purposes of this section shall be kept on
+ deposit or invested in obligations of, or guaranteed by, the United States.
+ `(e) SPECIAL PROVISIONS REGARDING OBSERVERS- (1) The Secretary shall review--
+ `(A) the feasibility of establishing a risk sharing pool through a reasonable
+ fee, subject to the limitations of subsection (b)(2)(E) of this section,
+ to provide coverage for vessels and owners against liability from civil
+ suits by observers, and
+ `(B) the availability of comprehensive commercial insurance for vessel and
+ owner liability against civil suits by observers.
+ `(2) If the Secretary determines that a risk sharing pool is feasible,
+ the Secretary shall establish such a pool, subject to the provisions of
+ subsection (b)(2) of this section, unless the Secretary determines that--
+ `(A) comprehensive commercial insurance is available for all fishing vessels
+ and United States fish processors required to have observers under the
+ provisions of this section, and
+ `(B) such comprehensive commercial insurance will provide a greater measure
+ of coverage at a lower cost to each participant.'.
+ (b) CONFORMING AMENDMENT- The table of contents in the first section of the
+ Magnuson Fishery Conservation and Management Act is amended by inserting
+ immediately after the entry for section 312 the following new entry:
+`Sec. 313. North Pacific fisheries research plan.'.
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 119. Section 406 of the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1882) is amended by adding at the end the following new paragraphs:
+ `(16) $77,200,000 for the fiscal year ending September 30, 1990.
+ `(17) $94,000,000 for the fiscal year ending September 30, 1991, of which
+ $6,500,000 shall be used for enforcement and $5,000,000 shall be used to
+ increase research and assessment efforts.
+ `(18) $98,000,000 for the fiscal year ending September 30, 1992.
+ `(19) $102,000,000 for the fiscal year ending September 30, 1993.'.
+miscellaneous technical amendments
+ SEC. 120. (a) INTERNATIONAL FISHERY AGREEMENTS- Section 202(f) of the
+ Magnuson Fishery Conservation and Management Act (16 U.S.C. 1822(f)), as so
+ redesignated by section 105 of this Act, is amended by striking `a exclusive
+ economic zone' and inserting in lieu thereof `an exclusive economic zone'.
+ (b) FOREIGN FISHING PERMITS- Section 204(b)(4)(C) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1824(b)(4)(C)) is amended by
+ striking `council' and inserting in lieu thereof `Council'.
+ (c) COUNCIL PROCEDURAL MATTERS- Section 302(j)(4) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1852(j)(4)) is amended by striking
+ `council employee' and inserting in lieu thereof `Council employee'.
+ (d) ACTION BY SECRETARY- Section 304(c)(2)(B) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1854(c)(2)(B)) is amended by
+ striking `appropriate council' and inserting in lieu thereof `appropriate
+ Council'.
+TITLE II--ATLANTIC TUNAS CONVENTION ACT OF 1975
+LIMITATIONS ON APPOINTMENTS OF COMMISSIONERS
+ SEC. 201. (a) IN GENERAL- Section 3(a) of the Atlantic Tunas Convention
+ Act of 1975 (16 U.S.C. 971a(a)) is amended--
+ (1) by inserting `(1)' immediately after `(a)'; and
+ (2) by adding at the end the following:
+ `(2) Of the Commissioners appointed under paragraph (1) who are not
+ governmental employees--
+ `(A) one shall be appointed from among individuals with knowledge and
+ experience regarding commercial fishing in the Atlantic Ocean, Gulf of
+ Mexico, or Caribbean Sea; and
+ `(B) one shall be appointed from among individuals with knowledge and
+ experience regarding recreational fishing in the Atlantic Ocean, Gulf of
+ Mexico, or Caribbean Sea.
+ `(3)(A) The term of a Commissioner shall be three years.
+ `(B) An individual appointed in accordance with paragraph (2) shall not be
+ eligible to serve more than two consecutive terms as a Commissioner.'.
+ (b) APPLICATION TO CURRENT COMMISSIONERS- (1) Paragraph (2) of section 3(a)
+ of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by
+ this section, shall not apply to reappointment of an individual as a United
+ States Commissioner of the International Commission for the Conservation of
+ Atlantic Tunas (hereinafter in this title referred to as a `Commissioner')
+ if that individual is serving in that position on the date of enactment of
+ this Act.
+ (2) An individual serving a term as a Commissioner on the date of enactment
+ of this Act shall not, by reason of that term of service, be ineligible
+ under paragraph (3)(B) of section 3(a) of the Atlantic Tunas Convention Act
+ of 1975 (16 U.S.C. 971a(a)), as added by this section, for reappointment
+ as a Commissioner.
+TERMINATION OF CURRENT TERMS AND COMPLETION OF PENDING APPOINTMENTS
+ SEC. 202. The term as Commissioner of each individual serving in that position
+ on the date of enactment of this Act shall terminate March 1, 1991. Not later
+ than that date, the President shall complete appointment (or reappointment)
+ of individuals to serve as Commissioners on and after that date.
+TRAVEL EXPENSES OF COMMISSIONERS
+ SEC. 203. Section 3 of the Atlantic Tunas Convention Act of 1975 (16
+ U.S.C. 971a) is amended by adding at the end the following new subsection:
+ `(d)(1) The Secretary of State shall pay the necessary travel expenses
+ of United States Commissioners, Alternate United States Commissioners,
+ and authorized advisors in accordance with the Federal Travel Regulations
+ and sections 5701, 5702, 5704 through 5708, and 5731 of title 5, United
+ States Code.
+ `(2) The Secretary may reimburse the Secretary of State for amounts expended
+ by the Secretary of State under this subsection.'.
+TRAVEL EXPENSES OF ADVISORY COMMITTEE
+ SEC. 204. Section 4 of the Atlantic Tunas Convention Act of 1975 (16
+ U.S.C. 971b) is amended by striking `On approval' and all that follows and
+ inserting in lieu thereof the following: `The Secretary and the Secretary
+ of State may pay the necessary travel expenses of members of the advisory
+ committee in accordance with the Federal Travel Regulations and sections
+ 5701, 5702, 5704 through 5708, and 5731 of title 5, United States Code.'.
+SPECIES WORKING GROUPS
+ SEC. 205. The Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971 et seq.) is
+ amended by inserting immediately after section 4 the following new section:
+`SPECIES WORKING GROUPS
+ `SEC. 4A. The United States Commissioners may establish species working groups
+ for the purpose of providing advice and recommendations to the Commissioners
+ and the advisory committee on matters relating to the conservation and
+ management of any highly migratory species covered by the Convention. Any
+ species working group shall consist of no more than seven members of the
+ advisory committee and no more than four scientific or technical personnel,
+ as considered necessary by the Commissioner.'.
+REGULATIONS TO CARRY OUT COMMISSION RECOMMENDATIONS
+ SEC. 206. (a) Section 6(c)(1) of the Atlantic Tunas Convention Act of 1975
+ (16 U.S.C. 971d(c)(1)) is amended by redesignating the existing text as
+ subparagraph (A) and by adding at the end the following new subparagraphs:
+ `(B) Not later than June 30, 1991, the Secretary shall promulgate any
+ additional regulations necessary to ensure that the United States is in full
+ compliance with all recommendations made by the Commission that have been
+ accepted by the United States and with other agreements under the Convention
+ between the United States and any nation which is a party to the Convention.
+ `(C) Regulations promulgated under this paragraph shall, to the extent
+ practicable, be consistent with fishery management plans prepared and
+ implemented under the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1801 et seq.).'.
+ (b) Section 6(c)(3) of the Atlantic Tunas Convention Act of 1975 (16
+ U.S.C. 971d(c)(3)) is amended--
+ (1) in subparagraph (H) by striking `; and' and inserting in lieu thereof
+ a semicolon; and
+ (2) by striking subparagraph (I) and inserting in lieu thereof the following:
+ `(I) require any commercial or recreational fisherman to obtain a permit from
+ the Secretary and report the quantity of the catch of a regulated species;
+ `(J) require that observers be carried aboard fishing vessels for the
+ purpose of providing statistically reliable scientific data; and
+ `(K) impose such other requirements and provide for such other measures
+ as the Secretary may determine necessary to implement any recommendation
+ of the Convention or to obtain scientific data necessary to accomplish the
+ purpose of the Convention;
+except that no regulation promulgated under this section may have the effect
+of increasing or decreasing any allocation or quota of fish to the United
+States agreed to pursuant to a recommendation of the Commission.'.
+RECOMMENDED COMMISSION ACTIONS REGARDING LARGE-SCALE DRIFTNET FISHING AND
+CONSERVATION OF ATLANTIC SWORDFISH
+ SEC. 207. Section 6(d) of the Altantic Tunas Convention Act of 1975 (16
+ U.S.C. 971d(d)) is amended to read as follows:
+ `(d)(1) It is the sense of the Congress that the Secretary, in consultation
+ with the Secretary of State, should seek support for a recommendation by
+ the Commission to ban large-scale driftnet fishing (as that term is defined
+ in section 3(16) of the Magnuson Fishery Conservation and Management Act)
+ in the Convention area.
+ `(2) The Secretary, in consultation with the Secretary of State,
+ shall request the Commission to adopt recommendations necessary for the
+ conservation and management of Atlantic swordfish. In making the request,
+ the Secretary shall seek the establishment of an international minimum
+ harvest size and a reduction in harvest levels to the extent necessary
+ to conserve the stock. Until the Commission adopts all the conservation
+ and management measures requested by the Secretary, the Secretary, within 3
+ months after each annual meeting of the Commission, shall notify Congress as
+ to the nature and results of his request. These notifications shall identify
+ those nations not acting to conserve and manage Atlantic swordfish, and
+ recommend measures which could be taken to achieve effective international
+ conservation and management of the stock.'.
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 208. Section 10 of the Atlantic Tunas Convention Act of 1975 (16
+ U.S.C. 971h) is amended to read as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 10. There are authorized to be appropriated to carry out this Act,
+ including use for payment of the United States share of the joint expenses
+ of the Commission as provided in article X of the Convention, not more than
+ $2,000,000 for each of the fiscal years 1989, 1990, 1991, 1992, and 1993.'.
+TITLE III--FISHERMEN'S PROTECTIVE ACT OF 1967
+VESSEL SEIZURE REIMBURSEMENT AUTHORITY
+ SEC. 301. Section 7(e) of the Fishermen's Protective Act of 1967 (22
+ U.S.C. 1977(e)) is amended by striking `October 1, 1989' and inserting in
+ lieu thereof `October 1, 1993'.
+TITLE IV--ANADROMOUS FISH CONSERVATION ACT
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 401. Section 4(a) of the Anadromous Fish Conservation Act (16
+ U.S.C. 757d(a)) is amended--
+ (1) by striking paragraphs (1), (2), (3), (4), (5), and (6);
+ (2) by redesignating paragraph (7) as paragraph (1); and
+ (3) by adding at the end the following new paragraph:
+ `(2) $8,000,000 for each of the fiscal years 1990, 1991, 1992, 1993, 1994,
+ and 1995.'.
+TITLE V--INTERJURISDICTIONAL FISHERIES ACT OF 1986
+CLARIFICATION OF APPORTIONMENT LIMITATION
+ SEC. 501. Section 304(c)(3)(B) of the Interjurisdictional Fisheries Act of
+ 1986 (16 U.S.C. 4103(c)(3)(B)) is amended by inserting `which are managed
+ under an interstate fishery management plan' immediately after `fishery
+ resources'.
+FEDERAL SHARE OF ACTIVITIES CARRIED OUT WITH ADDITIONAL APPROPRIATIONS
+ SEC. 502. Section 308(b) of the Interjurisdictional Fisheries Act of 1986
+ (16 U.S.C. 4107(b)) is amended--
+ (1) in paragraph (1) by striking `and' at the end;
+ (2) in paragraph (2) by striking the period at the end and inserting in
+ lieu thereof `; and'; and
+ (3) by inserting immediately after paragraph (2) the following new paragraph:
+ `(3) the Federal share of the cost of any activity carried out with an
+ amount appropriated under the authority of this subsection shall be 75
+ percent of the cost of that activity.'.
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 503. Section 308 of the Interjurisdictional Fisheries Act of 1986
+ (16 U.S.C. 4107) is amended--
+ (1) in subsection (a) by striking `fiscal years 1987, 1988, and 1989' and
+ inserting in lieu thereof `the fiscal years 1989, 1990, 1991, 1992, 1993,
+ 1994, and 1995';
+ (2) in subsection (b) by striking `fiscal years 1988 and 1989' and inserting
+ in lieu thereof `the fiscal years 1989, 1990, 1991, 1992, 1993, 1994,
+ and 1995'; and
+ (3) in subsection (c) by striking `fiscal years 1988 and 1989' and inserting
+ in lieu thereof `the fiscal years 1989, 1990, 1991, 1992, and 1993'.
+TITLE VI--CENTRAL, WESTERN, AND SOUTH PACIFIC FISHERIES DEVELOPMENT ACT
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 601. Section 7 of the Central, Western, and South Pacific Fisheries
+ Development Act (16 U.S.C. 758e-5) is amended by striking `and 1988'
+ and inserting in lieu thereof `1988, 1989, 1990, 1991, 1992, 1993, 1994,
+ and 1995'.
+TITLE VII--NATIONAL FISH AND SEAFOOD PROMOTIONAL COUNCIL
+EXTENSION OF TERMINATION DATE
+ SEC. 701. Section 206(g) of the Fish and Seafood Promotion Act of 1986 (16
+ U.S.C. 4005(g)) is amended by striking `October 1, 1990' and inserting in
+ lieu thereof `December 31, 1991'.
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 702. Section 209(d) of the Fish and Seafood Promotion Act of 1986 (16
+ U.S.C. 4008(d)) is amended by striking `1990' and inserting in lieu thereof
+ `1991'.
+TRANSFER OF SALTONSTALL-KENNEDY FUNDS
+ SEC. 703. Section 2(b)(2) of the Act of August 11, 1939 (commonly known as
+ the Saltonstall-Kennedy Act; 15 U.S.C. 713c-3(b)(2)), is amended by striking
+ `fiscal year 1990' and inserting in lieu thereof `each of fiscal years 1990
+ and 1991'.
+CONTINUITY OF NATIONAL COUNCIL MEMBERSHIP
+ SEC. 704. (a) UNINTERRUPTED SERVICE- Individuals serving on September 30,
+ 1990, as members of the National Fish and Seafood Promotion Council shall
+ be deemed to continue as members in uninterrupted service since the date
+ of their initial appointment.
+ (b) FILLING OF VACANCIES- Notwithstanding section 206(e) of the Fish and
+ Seafood Promotion Act of 1986 (16 U.S.C. 4005(e)), any vacancy on the
+ National Fish and Seafood Promotion Act not filled as of September 30,
+ 1990, shall be filled within 60 days after the date of enactment of this Act.
+ (c) TECHNICAL AMENDMENT- Section 207(a)(5) of the Fish and Seafood Promotion
+ Act of 1986 (16 U.S.C. 4006(a)(5)) is amended by inserting `initial'
+ immediately before `appointments.'
+CONTINUITY OF COUNCIL FUNCTIONS, CONTRACTS, AND PERSONNEL
+ SEC. 705. All current functions, contracts in force, and existing personnel
+ of the National Fish and Seafood Promotional Council as of September 30,
+ 1990, are reauthorized and extended, and shall continue as if uninterrupted,
+ notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986
+ (16 U.S.C. 4005(g)) as in effect on September 30, 1990.
+TITLE VIII--MISCELLANEOUS
+CERTIFICATE OF LEGAL ORIGIN FOR ANADROMOUS FISH PRODUCTS
+ SEC. 801. (a) NEGOTIATIONS- Within 60 days after the date of enactment of
+ this Act, the Secretary of State shall commence negotiations with nations
+ which import or export anadromous fish or anadromous fish products for
+ the purpose of securing general agreement among such nations to implement
+ effective measures to prohibit international trade in anadromous fish or
+ anadromous fish products unless such fish or fish products are accompanied
+ by a valid certificate of legal origin attesting that the fish or fish
+ product was lawfully harvested--
+ (1) within the jurisdiction of a nation having naturally occurring or
+ artificially established anadromous fish populations of the same species
+ as the imported or exported product; or
+ (2) on the high seas according to an international agreement among nations
+ with jurisdiction over more  than 1 percent of the stocks of anadromous
+ fish being so harvested.
+ (b) ISSUANCE OF CERTIFICATES- For the purposes of subsection (a), a valid
+ certificate  of legal origin may be issued only by a nation which--
+ (1) is the nation having jurisdiction over the vessel or other means by
+ which the fish or fish product was harvested; and
+ (2) maintains regular harvests of anadromous fish in a manner consistent
+ with the criteria for lawful harvests set out in subsection (a).
+ (c) BILATERAL OR MULTILATERAL AGREEMENTS- Efforts undertaken by the Secretary
+ of State pursuant to subsection (a) may, at the discretion of the Secretary,
+ be directed toward achieving either bilateral or multilateral agreements,
+ including trade agreements, whichever the Secretary determines to be most
+ likely to result in the earliest possible date or dates of agreement by those
+ nations which individually have in excess of $1,000,000, or the equivalent,
+ in import or export trade in anadromous fish and anadromous fish products.
+ (d) REGULATIONS- The Secretary of Commerce shall, within 180 days after
+ the date of enactment of this Act, promulgate regulations providing for--
+ (1) the issuance of certificates of legal origin pursuant to agreements
+ under subsection (a) for anadromous fish and anadromous fish products
+ legally harvested by vessels of the United States;
+ (2) the delegation of the authority to issue certificates of legal origin
+ to States, territories, or possessions of the United States which the
+ Secretary of Commerce determines to have implemented a program which is
+ sufficient to accomplish the purposes of subsection (a); and
+ (3) an orderly transition to such regulations, sufficient to ensure that
+ United States commerce in anadromous fish and anadromous fish products is
+ not unduly disrupted.
+ (e) REPORT REQUIRED- The Secretary of Commerce, after consultation with
+ the Secretary of the Treasury, shall, within 180 days after the date of
+ enactment of this Act, submit to the Congress a report--
+ (1) making recommendations as to the need for the adoption of United
+ States import and export restrictions on anadromous fish and anadromous
+ fish products consistent with subsection (a); and
+ (2) identifying, evaluating, and making recommendations regarding any
+ specific statutory or regulatory changes that may be necessary for the
+ adoption of such restrictions.
+ (f) CERTIFICATION- If, at any time following the promulgation of the
+ regulations required by subsection (d), the Secretary of Commerce finds
+ that any nation is engaging in trade in unlawfully taken anadromous fish
+ or anadromous fish products, the Secretary shall certify that fact to the
+ President, which certification shall be deemed to be a certification for
+ the purposes of section 8(a)(1) of the Fishermen's Protective Act of 1967
+ (22 U.S.C. 1978(a)(1)).
+TITLE IX--DOLPHIN PROTECTION CONSUMER INFORMATION
+DOLPHIN PROTECTION
+ SEC. 901. (a) SHORT TITLE- This section may be cited as the `Dolphin
+ Protection Consumer Information Act'.
+ (b) FINDINGS- The Congress finds that--
+ (1) dolphins and other marine mammals are frequently killed in the course
+ of tuna fishing operations in the eastern tropical Pacific Ocean and high
+ seas driftnet fishing in other parts of the world;
+ (2) it is the policy of the  United States to support a worldwide ban on
+ high seas driftnet fishing, in part because of the harmful effects that
+ such driftnets have on marine mammals, including dolphins; and
+ (3) consumers would like to know if the tuna they purchase is falsely
+ labeled as to the effect of the harvesting of the tuna on dolphins.
+ (c) DEFINITIONS- For purposes of this section--
+ (1) the terms `driftnet' and `driftnet fishing' have the meanings given
+ those terms in section 4003 of the Driftnet Impact Monitoring, Assessment,
+ and Control Act of 1987 (16  U.S.C. 1822 note);
+ (2) the term `eastern tropical Pacific Ocean' means the area of the Pacific
+ Ocean bounded by 40 degrees north latitude, 40 degrees south latitude,
+ 160 degrees west longitude, and the western coastlines of North, Central,
+ and South America;
+ (3) the term `label' means a display of written, printed, or graphic matter
+ on or affixed to the immediate container of any article;
+ (4) the term `Secretary' means the Secretary of Commerce; and
+ (5) the term `tuna product' means a food item which contains tuna and which
+ has been processed for retail sale, except perishable sandwiches, salads,
+ or other products with a shelf life of less than 3 days.
+ (d) LABELING STANDARD- (1) It is a violation of section 5 of the Federal
+ Trade Commission Act for any producer, importer, exporter, distributor,
+ or seller of any tuna product that is exported from or offered for sale in
+ the  United States to include on the label of that product the term `Dolphin
+ Safe' or any other term or symbol that falsely claims or suggests that the
+ tuna contained in the product was harvested using a method of fishing that
+ is not harmful to dolphins if the product contains--
+ (A) tuna harvested on the high seas by a vessel engaged in driftnet
+ fishing; or
+ (B) tuna harvested in the eastern tropical Pacific Ocean by a vessel using
+ purse seine nets which do not meet the requirements for being considered
+ dolphin safe under paragraph (2).
+ (2) For purposes of paragraph (1)(B), a tuna product that contains tuna
+ harvested in the eastern tropical Pacific Ocean by a fishing vessel using
+ purse seine nets is dolphin safe if--
+ (A) the vessel is of a type and size that the Secretary has determined is
+ not capable of deploying its purse seine nets on or to encircle dolphin; or
+ (B)(i) the product is accompanied by a written statement executed by the
+ captain of the vessel which harvested the tuna certifying that no tuna were
+ caught on the trip in which such tuna were harvested using a purse seine
+ net intentionally deployed on or to encircle dolphin;
+ (ii) the product is accompanied by a written statement executed by--
+ (I) the Secretary or the Secretary's designee, or
+ (II) a representative of the Inter-American Tropical Tuna Commission,
+which states that there was an approved observer on board the vessel during
+the entire trip and that purse seine nets were not intentionally deployed
+during the trip on or to encircle dolphin; and
+ (iii) the statements referred to in clauses (i) and (ii) are endorsed in
+ writing by each exporter, importer, and processor of the product.
+ (e) ENFORCEMENT- Any person who knowingly and willfully makes a statement or
+ endorsement described in subsection (d)(2)(B) that is false is liable for a
+ civil penalty of not to exceed $100,000 assessed in an action brought in any
+ appropriate district court of the United States on behalf of the Secretary.
+ (f) REGULATIONS- The Secretary, in consultation with the Secretary of the
+ Treasury, shall issue regulations to implement this section not later than
+ 6 months after the date of the enactment of this Act, including regulations
+ establishing procedures and requirements for ensuring that tuna products
+ are labeled in accordance with subsection (d).
+ (g) TREATMENT OF FISH CAUGHT WITH DRIFTNETS- Section 101(a)(2) of the Marine
+ Mammal Protection Act of 1972 (16 U.S.C. 1371(a)(2)) is amended--
+ (1) in subparagraph (C) by striking `and' after the semicolon at the end;
+ (2) in subparagraph (D) by striking the period at the end and inserting `;
+ and'; and
+ (3) by adding at the end the following:
+ `(E)(i) except as provided in clause (ii), in the case of fish or products
+ containing fish harvested by a nation whose fishing vessels engage in high
+ seas driftnet fishing, shall require that the government of the exporting
+ nation provide documentary evidence that the fish or fish product was not
+ harvested with a large-scale driftnet in the South Pacific Ocean after July
+ 1, 1991, or in any other water of the high seas after July 1, 1992, and
+ `(ii) in the case of tuna or a product containing tuna harvested by a nation
+ whose fishing vessels engage in high seas driftnet fishing, shall require
+ that the government of the exporting nation provide documentary evidence
+ that the tuna or tuna product was not harvested with a large-scale driftnet
+ anywhere on the high seas after July 1, 1991.
+For purposes of subparagraph (E), the term `driftnet' has the meaning given
+such term in section 4003 of the Driftnet Impact Monitoring, Assessment,
+and Control Act of 1987 (16 U.S.C. 1822 note).'.
+ (h) NEGOTIATIONS- The Secretary of State shall immediately seek, through
+ negotiations and discussions with appropriate foreign governments, to reduce
+ and, as soon as possible, eliminate the practice of harvesting tuna through
+ the use of purse seine nets intentionally deployed to encircle dolphins.
+ (i) EFFECTIVE DATE- Subsections (d) and (e) shall take effect 6 months
+ after the date of the enactment of this Act.
+TITLE X--FISHERIES COMMISSION
+REDESIGNATION OF FISHERIES COMMISSION
+ SEC. 1001. (a) IN GENERAL- The Congress consents to and approves of the
+ amendments described in subsection (b) to the interstate compact which
+ constituted the Pacific Marine Fisheries Commission, approved by the Act of
+ July 24, 1947 (61 Stat. 419; hereinafter in this section referred to as the
+ `compact').
+ (b) AMENDMENT DESCRIBED- The amendments referred to in subsection (a)
+ are the amendments approved and ratified before the effective date of this
+ section by the contracting States to the compact, which--
+ (1) amend Article III of the compact to redesignate the Pacific Marine
+ Fisheries Commission as the `Pacific States Marine Fisheries Commission'; and
+ (2) make such other amendments to the compact as are necessary solely to
+ conform the text of the compact to the amendment described in paragraph (1).
+ (c) REFERENCES- Any reference in a law, map, regulation, document, paper,
+ or other record of the United States to the Pacific Marine Fisheries
+ Commission constituted by the compact is deemed to be a reference to the
+ `Pacific States Marine Fisheries Commission'.
+TITLE XI--REPORT ON MARINE MAMMALS
+REPORT ON MARINE MAMMAL POPULATIONS
+ SEC. 1101. The Secretary of Commerce, in consultation with the Secretary
+ of the Interior, shall provide to the Committee on Commerce, Science,
+ and Transportation of the Senate and the Committee on Merchant Marine and
+ Fisheries of the House of Representatives within 12 months after the date
+ of enactment of this Act a report--
+ (1) assessing population sizes and trends of harbor seals, sea otters,
+ California sea lions, and northern sea lions off the coast of the State
+ of Washington, which assessment shall include the historic, present, and
+ projected population sizes and the overall health of current populations
+ of such marine mammals;
+ (2) assessing the effectiveness of sections 101(a)(3)(A) and 109(h) of the
+ Marine Mammal Protection Act of 1972 (16 U.S.C. 1371(a)(3)(A) and 1379(h))
+ with particular emphasis on the management of the lower Columbia River and
+ Puget Sound marine mammal populations, which assessment shall describe how
+ the agencies are interpreting and implementing such sections, how often such
+ sections have been invoked, and whether such sections have been effective
+ in the management of marine mammal populations and in responding to the
+ problems which such sections were intended to address; and
+ (3) specifying long range management plans for the species of marine mammals
+ listed in paragraph (1).
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,140 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[S. 30 Engrossed in Senate (ES)]
+
+110th CONGRESS
+  1st Session
+                                 S. 30
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To intensify research to derive human pluripotent stem cell lines.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Hope Offered through Principled and 
+Ethical Stem Cell Research Act'' or the ``HOPE Act''.
+
+SEC. 2. PURPOSES.
+
+    It is the purpose of this Act to--
+            (1) intensify research that may result in improved 
+        understanding of or treatments for diseases and other adverse 
+        health conditions; and
+            (2) promote the derivation of pluripotent stem cell lines 
+        without the creation of human embryos for research purposes and 
+        without the destruction or discarding of, or risk of injury to, 
+        a human embryo or embryos other than those that are naturally 
+        dead.
+
+SEC. 3. HUMAN PLURIPOTENT STEM CELL RESEARCH.
+
+    Part H of title IV of the Public Health Service Act (42 U.S.C. 289 
+et seq.) is amended by inserting after section 498C the following:
+
+``SEC. 498D. HUMAN PLURIPOTENT STEM CELL RESEARCH.
+
+    ``(a) In General.--The Secretary shall conduct and support basic 
+and applied research to develop techniques for the isolation, 
+derivation, production, or testing of stem cells, including pluripotent 
+stem cells that have the flexibility of embryonic stem cells (whether 
+or not they have an embryonic source), that may result in improved 
+understanding of or treatments for diseases and other adverse health 
+conditions, provided that the isolation, derivation, production, or 
+testing of such cells will not involve--
+            ``(1) the creation of a human embryo or embryos for 
+        research purposes; or
+            ``(2) the destruction or discarding of, or risk of injury 
+        to, a human embryo or embryos other than those that are 
+        naturally dead.
+    ``(b) Guidelines.--Not later than 90 days after the date of the 
+enactment of this section, the Secretary, after consultation with the 
+Director of NIH, shall issue final guidelines that--
+            ``(1) provide guidance concerning the next steps required 
+        for additional research, which shall include a determination of 
+        the extent to which specific techniques may require additional 
+        animal research to ensure that any research involving human 
+        cells using these techniques would clearly be consistent with 
+        the standards established under subsection (a);
+            ``(2) prioritize research with the greatest potential for 
+        near-term clinical benefit;
+            ``(3) consistent with standards established under 
+        subsection (a), take into account techniques outlined by the 
+        President's Council on Bioethics and any other appropriate 
+        techniques and research; and
+            ``(4) in the case of research involving stem cells from a 
+        naturally dead embryo, require assurances from grant applicants 
+        that no alteration of the timing, methods, or procedures used 
+        to create, maintain, or intervene in the development of a human 
+        embryo was made solely for the purpose of deriving the stem 
+        cells.
+    ``(c) Reporting Requirements.--Not later than January 1 of each 
+year, the Secretary shall prepare and submit to the appropriate 
+committees of the Congress a report describing the activities carried 
+out under this section during the fiscal year, including a description 
+of the research conducted under this section.
+    ``(d) Rule of Construction.--Nothing in this section shall be 
+construed as altering the policy in effect on the date of enactment of 
+this section regarding the eligibility of stem cell lines for funding 
+by the National Institutes of Health.
+    ``(e) Authorization of Appropriations.--There is authorized to be 
+appropriated such sums as may be necessary to carry out this section.
+    ``(f) Definitions.--In this section:
+            ``(1) Naturally dead.--The term `naturally dead' means 
+        having naturally and irreversibly lost the capacity for 
+        integrated cellular division, growth, and differentiation that 
+        is characteristic of an organism, even if some cells of the 
+        former organism may be alive in a disorganized state.
+            ``(2) Human embryo or embryos.--The term `human embryo or 
+        embryos' includes any organism, not protected as a human 
+        subject under part 46 of title 45, Code of Federal Regulations, 
+        as of the date of enactment of this section, that is derived by 
+        fertilization, parthenogenesis, cloning, or any other means 
+        from one or more human gametes or human diploid cells.
+            ``(3) Risk of injury.--The term `risk of injury' means 
+        subjecting a human embryo or embryos to risk of injury or death 
+        greater than that allowed for research on fetuses in utero 
+        under section 46.204(b) of title 45, Code of Federal 
+        Regulations, and section 498(b) of this Act.''.
+
+SEC. 4. NATIONAL AMNIOTIC AND PLACENTAL STEM CELL BANK.
+
+    (a) In General.--The Secretary of Health and Human Services shall 
+enter into a contract with the Institute of Medicine for the conduct of 
+a study to recommend an optimal structure for an amniotic and placental 
+stem cell bank program and to address pertinent issues to maximize the 
+potential of such technology, including collection, storage, standards 
+setting, information sharing, distribution, reimbursement, research, 
+and outcome measures. In conducting such study, the Institute should 
+receive input from relevant experts including the existing operators of 
+federal tissue bank programs and the biomedical research programs 
+within the Department of Defense.
+    (b) Report.--Not later than 180 days after the date of enactment of 
+this Act, the Institute of Medicine shall complete the study under 
+subsection (a) and submit to the Secretary of Health and Human Services 
+and the appropriate committees of Congress a report on the results of 
+such study.
+
+            Passed the Senate April 11, 2007.
+
+            Attest:
+
+                                                             Secretary.
+110th CONGRESS
+
+  1st Session
+
+                                 S. 30
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To intensify research to derive human pluripotent stem cell lines.

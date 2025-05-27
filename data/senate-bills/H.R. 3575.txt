@@ -1,0 +1,921 @@
+--H.R.3575--
+H.R.3575
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To provide a program of emergency unemployment compensation, and for other
+purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Emergency Unemployment Compensation Act
+ of 1991'.
+TITLE I--EMERGENCY UNEMPLOYMENT COMPENSATION PROGRAM
+SEC. 101. FEDERAL-STATE AGREEMENTS.
+ (a) IN GENERAL- Any State which desires to do so may enter into and
+ participate in an agreement under this Act with the Secretary of Labor
+ (hereafter in this Act referred to as the `Secretary'). Any State which is
+ a party to an agreement under this Act may, upon providing 30 days written
+ notice to the Secretary, terminate such agreement.
+ (b) PROVISIONS OF AGREEMENT- Any agreement under subsection (a) shall
+ provide that the State agency of the State will make payments of emergency
+ unemployment compensation--
+ (1) to individuals who--
+ (A) have exhausted all rights to regular compensation under the State law,
+ (B) have no rights to compensation (including both regular compensation
+ and extended compensation) with respect to a week under such law or any
+ other State unemployment compensation law or to compensation under any
+ other Federal law (and are not paid or entitled to be paid any additional
+ compensation under any State or Federal law), and
+ (C) are not receiving compensation with respect to such week under the
+ unemployment compensation law of Canada, and
+ (2) for any week of unemployment which begins in the individual's period
+ of eligibility (as defined in section 106(a)(2)).
+ (c) EXHAUSTION OF BENEFITS- For purposes of subsection (b)(1)(A), an
+ individual shall be deemed to have exhausted such individual's rights to
+ regular compensation under a State law when--
+ (1) no payments of regular compensation can be made under such law because
+ such individual has received all regular compensation available to such
+ individual based on employment or wages during such individual's base
+ period, or
+ (2) such individual's rights to such compensation have been terminated by
+ reason of the expiration of the benefit year with respect to which such
+ rights existed.
+ (d) WEEKLY BENEFIT AMOUNT- For purposes of any agreement under this Act--
+ (1) the amount of emergency unemployment compensation which shall be payable
+ to any individual for any week of total unemployment shall be equal to
+ the amount of the regular compensation (including dependents' allowances)
+ payable to such individual during such individual's benefit year under the
+ State law for a week of total unemployment,
+ (2) the terms and conditions of the State law which apply to claims for
+ extended compensation and to the payment thereof shall apply to claims for
+ emergency unemployment compensation and the payment thereof, except where
+ inconsistent with the provisions of this Act or with the regulations or
+ operating instructions of the Secretary promulgated to carry out this Act, and
+ (3) the maximum amount of emergency unemployment compensation payable to
+ any individual for whom an account is established under section 102 shall
+ not exceed the amount established in such account for such individual.
+ (e) ELECTION- Notwithstanding any other provision of Federal law (and
+ if State law permits), the Governor of a State in a 20-week period or a
+ 13-week period, as defined in section 102, is authorized to and may elect
+ to trigger off an extended compensation period in order to provide payment
+ of emergency unemployment compensation to individuals who have exhausted
+ their rights to regular compensation under State law.
+SEC. 102. EMERGENCY UNEMPLOYMENT COMPENSATION ACCOUNT.
+ (a) IN GENERAL- Any agreement under this Act shall provide that the State
+ will establish, for each eligible individual who files an application for
+ emergency unemployment compensation, an emergency unemployment compensation
+ account with respect to such individual's benefit year.
+ (b) AMOUNT IN ACCOUNT-
+ (1) IN GENERAL- The amount established in an account under subsection (a)
+ shall be equal to the lesser of--
+ (A) 100 percent of the total amount of regular compensation (including
+ dependents' allowances) payable to the individual with respect to the
+ benefit year (as determined under the State law) on the basis of which the
+ individual most recently received regular compensation, or
+ (B) the applicable limit times the individual's average weekly benefit
+ amount for the benefit year.
+ (2) APPLICABLE LIMIT- For purposes of this section--
+ (A) IN GENERAL- Except as otherwise provided in this paragraph--
+ (i) In the case of weeks beginning during a 20-week period, the applicable
+ limit is 20.
+ (ii) In the case of weeks beginning during a 13-week period, the applicable
+ limit is 13.
+ (iii) In the case of weeks not beginning in a 20-week period or 13-week
+ period, the applicable limit is 6.
+ (B) APPLICABLE LIMIT NOT REDUCED- An individual's applicable limit for any
+ week shall in no event be less than the highest applicable limit in effect
+ for any prior week for which emergency unemployment compensation was payable
+ to the individual from the account involved.
+ (C) INCREASE IN APPLICABLE LIMIT- If the applicable limit in effect for any
+ week is higher than the applicable limit for any prior week, the applicable
+ limit shall be the higher applicable limit, reduced (but not below zero)
+ by the number of prior weeks for which emergency unemployment compensation
+ was paid to the individual from the account involved.
+ (3) REDUCTION FOR EXTENDED BENEFITS- The amount in an account under paragraph
+ (1) shall be reduced (but not below zero) by the aggregate amount of extended
+ compensation (if any) received by such individual relating to the same benefit
+ year under the Federal-State Extended Unemployment Compensation Act of 1970.
+ (4) WEEKLY BENEFIT AMOUNT- For purposes of this subsection, an individual's
+ weekly benefit amount for any week is the amount of regular compensation
+ (including dependents' allowances) under the State law payable to such
+ individual for such week for total unemployment.
+ (c) 20-WEEK PERIOD- For purposes of this section--
+ (1) IN GENERAL- The term `20-week period' means, with respect to any State,
+ the period which--
+ (A) begins with the third week after the first week for which the requirements
+ of paragraph (2) are satisfied, and
+ (B) ends with the third week after the first week for which the requirements
+ of paragraph (2) are not satisfied.
+ (2) REQUIREMENTS- For purposes of paragraph (1), the requirements of this
+ paragraph are satisfied for any week if--
+ (A) the adjusted rate of insured unemployment in the State for the period
+ consisting of such week and the immediately preceding 12 weeks is at least
+ 5 percent, or
+ (B) the average rate of total unemployment in such State for the period
+ consisting of the most recent 6-calendar month period (for which data are
+ published before the close of such week) is at least 9 percent.
+ (d) 13-WEEK PERIOD- For purposes of this section--
+ (1) IN GENERAL- The term `13-week period' means, with respect to any State,
+ the period which--
+ (A) begins with the third week after the first week for which the requirements
+ of paragraph (2) are satisfied, and
+ (B) ends with the third week after the first week for which the requirements
+ of paragraph (2) are not satisfied.
+ (2) REQUIREMENTS- For purposes of paragraph (1), the requirements of this
+ paragraph are satisfied for any week--
+ (A) if the adjusted rate of insured unemployment in the State for the period
+ consisting of such week and the immediately preceding 12 weeks is at least
+ 4 percent, or
+ (B) if--
+ (i) the adjusted rate of insured unemployment in the State for the period
+ consisting of such week and the immediately preceding 12 weeks is at least
+ 2.5 percent, and
+ (ii) the exhaustion rate in the State for the most recent month for which
+ data are available before the close of such week is at least 29 percent.
+ (e) SPECIAL RULES-
+ (1) COORDINATION BETWEEN PERIODS- A 13-week period shall not be in effect
+ for any week if a 20-week period is in effect for such week.
+ (2) SPECIAL RULES FOR DETERMINING PERIODS-
+ (A) MINIMUM PERIOD- Except as provided in subparagraph (B), a 20-week period
+ or 13-week period shall last for not less than 13 weeks.
+ (B) EXCEPTION- If, but for subparagraph (A), a 20-week period would be
+ in effect for a State, such period shall take effect without regard to
+ subparagraph (A).
+ (3) NOTIFICATION BY SECRETARY- When a determination has been made that
+ a 20-week period or 13-week period is beginning or ending with respect
+ to a State, the Secretary shall cause notice of such determination to be
+ published in the Federal Register.
+ (f) EFFECTIVE DATE-
+ (1) IN GENERAL- Except as provided in paragraphs (2) and (3), no emergency
+ unemployment compensation shall be payable to any individual under this
+ Act for any week--
+ (A) beginning before the later of--
+ (i) November 17, 1991, or
+ (ii) the first week following the week in which an agreement under this
+ Act is entered into, or
+ (B) beginning after July 4, 1992.
+ (2) TRANSITION- In the case of an individual who is receiving emergency
+ unemployment compensation for a week which includes July 4, 1992, such
+ compensation shall continue to be payable to such individual in accordance
+ with subsection (b) for any week beginning in a period of consecutive
+ weeks for each of which the individual meets the eligibility requirements
+ of this Act.
+ (3) REACHBACK PROVISIONS-
+ (A) IN GENERAL- If--
+ (i) any individual exhausted such individual's rights to regular compensation
+ (or extended compensation) under the State law after February 28, 1991,
+ and before the first week following November 16, 1991 (or, if later, the
+ first week following the week in which the agreement under this Act is
+ entered into), and
+ (ii)(I) the adjusted rate of insured unemployment (determined on the basis
+ of the information referred to in subsection (g)(2)) in such State for the
+ 13-week period ending on October 19, 1991, is at least 3 percent, or (II)
+ a 20-week period or 13-week period is in effect in such State for the 1st
+ week for which emergency unemployment compensation may be payable in such
+ State under this title,
+such individual shall be entitled to emergency unemployment compensation
+under this Act in the same manner as if such individual's benefit year ended
+no earlier than the last day of such following week.
+ (B) LIMITATION OF BENEFITS- In the case of an individual who has exhausted
+ such individual's rights to both regular and extended compensation, any
+ emergency unemployment compensation payable under subparagraph (A) shall
+ be reduced in accordance with subsection (b)(3).
+ (g) TRANSITIONAL RULES-
+ (1) IN GENERAL- For purposes of determining whether a 20-week period or
+ 13-week period is in effect with respect to any State for the 1st week for
+ which emergency unemployment compensation may be payable under this title
+ in such State, this Act shall be treated as having been in effect for all
+ weeks ending on or after October 19, 1991.
+ (2) SPECIAL RULES- A 20-week period or 13-week period shall begin in any State
+ with the 1st week for which emergency unemployment compensation may be payable
+ in such State under this title if, on the basis of information submitted
+ to the Committee on Ways and Means of the House of Representatives by the
+ Department of Labor on November 7, 1991, the requirements of subsection
+ (c)(2) or (d)(2), as the case may be, are satisfied by such State for
+ the week which ends on October 19, 1991. For purposes of the preceding
+ sentence, the exhaustion rate shall be determined on the basis of (A) the
+ monthly average number of individuals exhausting their rights to regular
+ compensation during the 8-month period ending with September of 1991, and
+ (B) the monthly average number of individuals receiving first payments of
+ regular compensation during the 8-month period ending with March of 1991.
+SEC. 103. PAYMENTS TO STATES HAVING AGREEMENTS FOR THE PAYMENT OF EMERGENCY
+UNEMPLOYMENT COMPENSATION.
+ (a) GENERAL RULE- There shall be paid to each State which has entered into
+ an agreement under this Act an amount equal to 100 percent of the emergency
+ unemployment compensation paid to individuals by the State pursuant to
+ such agreement.
+ (b) TREATMENT OF REIMBURSABLE COMPENSATION- No payment shall be made to any
+ State under this section in respect of any compensation to the extent the
+ State is entitled to reimbursement in respect of such compensation under the
+ provisions of any Federal law other than this Act or chapter 85 of title 5,
+ United States Code. A State shall not be entitled to any reimbursement under
+ such chapter 85 in respect of any compensation to the extent the State is
+ entitled to reimbursement under this Act in respect of such compensation.
+ (c) DETERMINATION OF AMOUNT- Sums payable to any State by reason of such
+ State having an agreement under this Act shall be payable, either in advance
+ or by way of reimbursement (as may be determined by the Secretary), in such
+ amounts as the Secretary estimates the State will be entitled to receive
+ under this Act for each calendar month, reduced or increased, as the case
+ may be, by any amount by which the Secretary finds that the Secretary's
+ estimates for any prior calendar month were greater or less than the amounts
+ which should have been paid to the State. Such estimates may be made on the
+ basis of such statistical, sampling, or other method as may be agreed upon
+ by the Secretary and the State agency of the State involved.
+SEC. 104. FINANCING PROVISIONS.
+ (a) IN GENERAL- Funds in the extended unemployment compensation account (as
+ established by section 905 of the Social Security Act) of the Unemployment
+ Trust Fund shall be used for the making of payments to States having
+ agreements entered into under this Act.
+ (b) CERTIFICATION- The Secretary shall from time to time certify to the
+ Secretary of the Treasury for payment to each State the sums payable to
+ such State under this Act. The Secretary of the Treasury, prior to audit
+ or settlement by the General Accounting Office, shall make payments to the
+ State in accordance with such certification, by transfers from the extended
+ unemployment compensation account (as established by section 905 of the Social
+ Security Act) to the account of such State in the Unemployment Trust Fund.
+ (c) ASSISTANCE TO STATES- There are hereby authorized to be appropriated,
+ without fiscal year limitation, such funds as may be necessary for purposes
+ of assisting States (as provided in title III of the Social Security Act)
+ in meeting the costs of administration of agreements under this Act.
+ (d) AUTHORIZATION OF APPROPRIATIONS FOR CERTAIN PAYMENTS- There are authorized
+ to be appropriated from the general fund of the Treasury, without fiscal
+ year limitation, to the extended unemployment compensation account (as
+ established by section 905 of the Social Security Act) such sums as may be
+ necessary to make the payments under this section in respect of--
+ (1) compensation payable under chapter 85 of title 5, United States Code, and
+ (2) compensation payable on the basis of services to which section 3309(a)(1)
+ of the Internal Revenue Code of 1986 applies.
+Amounts appropriated pursuant to the preceding sentence shall not be required
+to be repaid.
+SEC. 105. FRAUD AND OVERPAYMENTS.
+ (a) IN GENERAL- If an individual knowingly has made, or caused to be made by
+ another, a false statement or representation of a material fact, or knowingly
+ has failed, or caused another to fail, to disclose a material fact, and as
+ a result of such false statement or representation or of such nondisclosure
+ such individual has received an amount of emergency unemployment compensation
+ under this Act to which he was not entitled, such individual--
+ (1) shall be ineligible for further emergency unemployment compensation
+ under this Act in accordance with the provisions of the applicable State
+ unemployment compensation law relating to fraud in connection with a claim
+ for unemployment compensation, and
+ (2) shall be subject to prosecution under section 1001 of title 18, United
+ States Code.
+ (b) REPAYMENT- In the case of individuals who have received amounts of
+ emergency unemployment compensation under this Act to which they were not
+ entitled, the State shall require such individuals to repay the amounts of
+ such emergency unemployment compensation to the State agency, except that
+ the State agency may waive such repayment if it determines that--
+ (1) the payment of such emergency unemployment compensation was without
+ fault on the part of any such individual, and
+ (2) such repayment would be contrary to equity and good conscience.
+ (c) RECOVERY BY STATE AGENCY-
+ (1) IN GENERAL- The State agency may recover the amount to be repaid, or any
+ part thereof, by deductions from any emergency unemployment compensation
+ payable to such individual under this Act or from any unemployment
+ compensation payable to such individual under any Federal unemployment
+ compensation law administered by the State agency or under any other Federal
+ law administered by the State agency which provides for the payment of any
+ assistance or allowance with respect to any week of unemployment, during
+ the 3-year period after the date such individuals received the payment of
+ the emergency unemployment compensation to which they were not entitled,
+ except that no single deduction may exceed 50 percent of the weekly benefit
+ amount from which such deduction is made.
+ (2) OPPORTUNITY FOR HEARING- No repayment shall be required, and no deduction
+ shall be made, until a determination has been made, notice thereof and an
+ opportunity for a fair hearing has been given to the individual, and the
+ determination has become final.
+ (d) REVIEW- Any determination by a State agency under this section shall be
+ subject to review in the same manner and to the same extent as determinations
+ under the State unemployment compensation law, and only in that manner and
+ to that extent.
+SEC. 106. DEFINITIONS.
+ (a) IN GENERAL- For purposes of this Act:
+ (1) IN GENERAL- The terms `compensation', `regular compensation', `extended
+ compensation', `additional compensation', `benefit year', `base period',
+ `State', `State agency', `State law', and `week' have the respective meanings
+ given such terms under section 205 of the Federal-State Extended Unemployment
+ Compensation Act of 1970.
+ (2) PERIOD OF ELIGIBILITY- An individual's period of eligibility consists
+ of any week which begins on or after November 17, 1991, and which (except
+ as provided in section 102(f)(2)) begins before July 4, 1992; except that
+ an individual shall not have any period of eligibility unless his benefit
+ year ends on or after November 16, 1991.
+ (3) ADJUSTED RATE OF INSURED UNEMPLOYMENT- The adjusted rate of insured
+ unemployment for any period shall be determined in the same manner as
+ the rate of insured unemployment is determined under section 203 of the
+ Federal-State Extended Unemployment Compensation Act of 1970; except that
+ individuals exhausting their rights to regular compensation during the
+ most recent 3 calendar months for which data are available before the close
+ of the period for which such rate is being determined shall be taken into
+ account as if they were individuals filing claims for regular compensation
+ for each week during the period for which such rate is being determined.
+ (4) EXHAUSTION RATE- The exhaustion rate for any month is the percentage
+ obtained by dividing--
+ (A) the monthly average number of individuals exhausting their rights to
+ regular compensation under the State law during the 12-month period ending
+ with such month, by
+ (B) the monthly average number of individuals receiving first payments of
+ regular compensation under the State law during the 12-month period ending
+ with the 6th month of the 12-month period referred to in subparagraph (A).
+ (5) RATE OF TOTAL UNEMPLOYMENT- The term `rate of total unemployment' means,
+ with respect to any period, the average unadjusted total rate of unemployment
+ (as determined by the Secretary) for a State for such period.
+ (b) ROUNDING- For purposes of this Act, any rate determined under paragraph
+ (3), (4), or (5) of subsection (a) shall be rounded to the nearest 1/10th
+ of a percent.
+TITLE II--DEMONSTRATION PROGRAM TO PROVIDE JOB SEARCH ASSISTANCE
+SEC. 201. DEMONSTRATION PROGRAM TO PROVIDE JOB SEARCH ASSISTANCE.
+ (a) GENERAL RULE- The Secretary of Labor (hereafter in this title referred
+ to as the `Secretary') shall carry out a demonstration program under this
+ title for purposes of determining the feasibility of implementing job search
+ assistance programs. To carry out such demonstration program, the Secretary
+ shall enter into agreements with 3 States which--
+ (1) apply to participate in such program, and
+ (2) demonstrate to the Secretary that they are capable of implementing the
+ provisions of an agreement under this section.
+ (b) SELECTION OF STATES-
+ (1) IN GENERAL- In determining whether to enter into an agreement with a State
+ under this section, the Secretary shall take into consideration at least--
+ (A) the size, geography, and occupational and industrial composition of
+ the State,
+ (B) the adequacy of State resources to carry out a job search assistance
+ program,
+ (C) the range and extent of specialized services to be provided by the
+ State to individuals covered by the agreement, and
+ (D) the design of the evaluation to be applied by the State to the program.
+ (2) REPLICATION OF PRIOR DEMONSTRATION PROJECT- At least 1 of the States
+ selected by the Secretary under subsection (a) shall be a State which has
+ operated a successful demonstration project with respect to job search
+ assistance under a contract with the Department of Labor. The demonstration
+ program under this title of any such State shall, at a minimum, replicate
+ the project it operated under such contract in the same geographic areas.
+ (c) PROVISIONS OF AGREEMENT- Any agreement entered into with a State under
+ this section shall--
+ (1) provide that the State will implement a job search assistance program
+ during the 1-year period specified in such agreement,
+ (2) provide that such implementation will begin not later than the date 18
+ months after the date of the enactment of this Act,
+ (3) contain such provisions as may be necessary to ensure an accurate
+ evaluation of the effectiveness of a job search assistance program,
+ including--
+ (A) random selection of eligible individuals for participation in the
+ program and for inclusion in a control group, and
+ (B) collection of data on participants and members of a control group as
+ of the close of the 1-year period and 2-year period after the operations
+ of the program cease,
+ (4) provide that not more than 5 percent of the claimants for unemployment
+ compensation under the State law shall be selected as participants in the
+ job search assistance program, and
+ (5) contain such other provisions as the Secretary may require.
+SEC. 202. JOB SEARCH ASSISTANCE PROGRAM.
+ (a) GENERAL RULE- For purposes of this title, a job search assistance
+ program shall provide that--
+ (1) eligible individuals who are selected to participate in the program shall
+ be required to participate in a qualified intensive job search program after
+ receiving compensation under such State law during any benefit year for at
+ least 6 but not more than 10 weeks,
+ (2) every individual required to participate in a job search program under
+ paragraph (1) shall be entitled to receive an intensive job search program
+ voucher, and
+ (3) any individual who is required under paragraph (1) to participate in
+ a qualified intensive job search program and who does not satisfactorily
+ participate in such program shall be disqualified from receiving compensation
+ under such State law for the period (of not more than 10 weeks) specified
+ in the agreement under section 201.
+ (b) ELIGIBLE INDIVIDUAL- For purposes of this title--
+ (1) IN GENERAL- The term `eligible individual' means any individual receiving
+ compensation under the State law during any benefit year if, during the
+ 3-year period ending on the last day of the base period for such benefit
+ year, such individual had at least 126 weeks of employment at wages of $30
+ or more a week with such individual's last employer in such base period (or,
+ if data with respect to weeks of employment with such last employer are not
+ available, an equivalent amount of employment computed under regulations
+ prescribed by the Secretary).
+ (2) EXCEPTION- Such term shall not include any individual if--
+ (A) such individual has a definite date for recall to his former employment,
+ (B) such individual seeks employment through a union hall or similar
+ arrangement, or
+ (C) the State agency--
+ (i) waives the requirements of subsection (a)(1) for good cause shown by
+ such individual, or
+ (ii) determines that such participation would not be appropriate for such
+ individual.
+ (c) QUALIFIED INTENSIVE JOB SEARCH PROGRAM- For purposes of this section,
+ the term `qualified intensive job search program' means any intensive job
+ search assistance program which--
+ (1) is approved by the State agency,
+ (2) is provided by an organization qualified to provide job search assistance
+ programs under any other Federal law, and
+ (3) includes--
+ (A) all basic employment services, such as orientation, testing, a job-search
+ workshop, and an individual assessment and counseling interview, and
+ (B) additional services, such as ongoing contact with the program staff,
+ followup assistance, resource centers, and job search materials and equipment.
+ (d) INTENSIVE JOB SEARCH VOUCHER- For purposes of this section, the
+ term `intensive job search voucher' means any voucher which entitles the
+ organization (including the State employment service) providing the qualified
+ intensive job search assistance program to a payment from the State agency
+ equal to the lesser of--
+ (1) the reasonable costs of providing such program, or
+ (2) the average weekly benefit amount in the State.
+SEC. 203. ADMINISTRATIVE PROVISIONS.
+ (a) FINANCING PROVISIONS-
+ (1) PAYMENTS TO STATES- There shall be paid to each State which enters
+ into an agreement under section 201 an amount equal to the lesser of the
+ reasonable costs of operating the job search assistance program pursuant
+ to such agreement or the State's average weekly benefit amount for each
+ individual selected to participate in the job search assistance program
+ operated by such State pursuant to such agreement. Funds in the extended
+ unemployment compensation account (as established by section 905 of the
+ Social Security Act) shall be used for purposes of making such payments.
+ (2) PAYMENTS ON CALENDAR MONTH BASIS- There shall be paid to each State
+ either in advance or by way of reimbursement, as may be determined by the
+ Secretary, such sum as the Secretary estimates the State will be entitled
+ to receive under this subsection for each calendar month, reduced or
+ increased, as the case may be, by any sum by which the Secretary finds
+ that the Secretary's estimates for any prior calendar month were greater
+ or less than the amounts which should have been paid to the State. Such
+ estimates may be made on the basis of such method as may be agreed upon by
+ the Secretary and the State agency.
+ (3) CERTIFICATION- The Secretary shall from time to time certify to the
+ Secretary of the Treasury for payment to each State the sums payable to such
+ State under this subsection. The Secretary of the Treasury, prior to audit
+ or settlement by the General Accounting Office, shall make payment to the
+ State in accordance with such certification, by transfers from the extended
+ unemployment compensation account (as established by section 905 of the Social
+ Security Act) to the account of such State in the Unemployment Trust Fund.
+ (4) SPECIAL RULE- Notwithstanding any other provision of law, amounts in the
+ account of a State in the Unemployment Trust Fund may be used for purposes of
+ making payments pursuant to intensive job search vouchers provided pursuant
+ to an agreement under this title.
+ (b) REPORTS TO CONGRESS-
+ (1) INTERIM REPORTS- The Secretary shall submit 2 interim reports to the
+ Congress on the effectiveness of the demonstration program carried out under
+ this title. The 1st such report shall be submitted before the date 2 years
+ after operations under the demonstration program commenced and the 2d such
+ report shall be submitted before the date 4 years after such commencement.
+ (2) FINAL REPORT- Not later than the date 5 years after the commencement
+ referred to in paragraph (1), the Secretary shall submit a final report to
+ the Congress on the demonstration program carried out under this title. Such
+ report shall include estimates of program impact, such as--
+ (A) changes in duration of unemployment, earnings, and hours worked of
+ participants,
+ (B) changes in unemployment compensation outlays,
+ (C) changes in unemployment taxes,
+ (D) net effect on the Unemployment Trust Fund,
+ (E) net effect on Federal unified budget deficit, and
+ (F) net social benefits or costs of the program.
+ (c) DEFINITIONS- For purposes of this title, the terms `compensation',
+ `benefit year', `State', `State agency', `State law', `base period', and
+ `week' have the respective meanings given such terms by section 106.
+TITLE III--OTHER PROVISIONS
+SEC. 301. PAYMENTS OF UNEMPLOYMENT COMPENSATION TO FORMER MEMBERS OF THE
+ARMED FORCES.
+ (a) REPEAL OF CERTAIN LIMITATIONS- Subsection (c) of section 8521 of title 5,
+ United States Code, is hereby repealed.
+ (b) REDUCTION IN LENGTH OF REQUIRED ACTIVE DUTY BY RESERVES- Paragraph
+ (1) of section 8521(a) of such title 5 is amended by striking `180 days'
+ and inserting `90 days'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall apply to weeks
+ of unemployment beginning on or after the date of the enactment of this Act.
+SEC. 302. OPTIONAL BENEFITS FOR CERTAIN SCHOOL EMPLOYEES.
+ (a) IN GENERAL-
+ (1) Subclause (I) of section 3304(a)(6)(A)(ii) of the Internal Revenue Code of
+ 1986 is amended by striking `shall be denied' and inserting `may be denied'.
+ (2) Subparagraph (A) of section 3304(a)(6) of such Code is amended by striking
+ `and' at the end of clauses (iii) and (iv) and by inserting after clause
+ (v) the following new clause:
+ `(vi) with respect to services described in clause (ii), clauses (iii)
+ and (iv) shall be applied by substituting `may be denied' for `shall be
+ denied', and'.
+ (b) EFFECTIVE DATE- The amendments made by this section shall apply in the
+ case of compensation paid for weeks beginning on or after the date of the
+ enactment of this Act.
+SEC. 303. ADVISORY COUNCIL ON UNEMPLOYMENT COMPENSATION.
+ Section 908 of the Social Security Act is amended to read as follows:
+`ADVISORY COUNCIL ON UNEMPLOYMENT COMPENSATION
+ `SEC. 908. (a) ESTABLISHMENT- Not later than February 1, 1992, and every
+ 4th year thereafter, the Secretary of Labor shall establish an advisory
+ council to be known as the Advisory Council on Unemployment Compensation
+ (referred to in this section as the `Council').
+ `(b) FUNCTION- It shall be the function of each Council to evaluate
+ the unemployment compensation program, including the purpose, goals,
+ countercyclical effectiveness, coverage, benefit adequacy, trust fund
+ solvency, funding of State administrative costs, administrative efficiency,
+ and any other aspects of the program and to make recommendations for
+ improvement.
+ `(c) MEMBERS-
+ `(1) IN GENERAL- Each Council shall consist of 11 members as follows:
+ `(A) 5 members appointed by the President, to include representatives of
+ business, labor, State government, and the public.
+ `(B) 3 members appointed by the President pro tempore of the Senate,
+ in consultation with the Chairman and ranking member of the Committee on
+ Finance of the Senate.
+ `(C) 3 members appointed by the Speaker of the House of Representatives,
+ in consultation with the Chairman and ranking member of the Committee on
+ Ways and Means of the House of Representatives.
+ `(2) QUALIFICATIONS- In appointing members under subparagraphs (B) and (C)
+ of paragraph (1), the President pro tempore of the Senate and the Speaker
+ of the House of Representatives shall each appoint--
+ `(A) 1 representative of the interests of business,
+ `(B) 1 representative of the interests of labor, and
+ `(C) 1 representative of the interests of State governments.
+ `(3) VACANCIES- A vacancy in any Council shall be filled in the manner in
+ which the original appointment was made.
+ `(4) CHAIRMAN- The President shall appoint the Chairman of the Council from
+ among its members.
+ `(d) STAFF AND OTHER ASSISTANCE-
+ `(1) IN GENERAL- Each Council may engage any technical assistance (including
+ actuarial services) required by the Council to carry out its functions
+ under this section.
+ `(2) ASSISTANCE FROM SECRETARY OF LABOR- The Secretary of Labor shall provide
+ each Council with any staff, office facilities, and other assistance, and
+ any data prepared by the Department of Labor, required by the Council to
+ carry out its functions under this section.
+ `(e) COMPENSATION- Each member of any Council--
+ `(1) shall be entitled to receive compensation at the rate of pay for level V
+ of the Executive Schedule under section 5316 of title 5, United States Code,
+ for each day (including travel time) during which such member is engaged
+ in the actual performance of duties vested in the Council, and
+ `(2) while engaged in the performance of such duties away from such member's
+ home or regular place of business, shall be allowed travel expenses (including
+ per diem in lieu of subsistence) as authorized by section 5703 of title 5,
+ United States Code, for persons in the Government employed intermittently.
+ `(f) REPORT-
+ `(1) IN GENERAL- Not later than February 1 of the 2d year following the
+ year in which any Council is required to be established under subsection
+ (a), the Council shall submit to the President and the Congress a report
+ setting forth the findings and recommendations of the Council as a result
+ of its evaluation of the unemployment compensation program under this section.
+ `(2) REPORT OF FIRST COUNCIL- The Council shall include in its report
+ required to be submitted by February 1, 1994, the Council's findings
+ and recommendations with respect to determining eligibility for extended
+ unemployment benefits on the basis of unemployment statistics for regions,
+ States, or subdivisions of States.'.
+SEC. 304. REPORT ON METHOD OF ALLOCATING ADMINISTRATIVE FUNDS AMONG STATES.
+ (a) IN GENERAL- The Secretary of Labor shall submit to the Congress, within
+ the 12-month period beginning on the date of the enactment of this Act,
+ a comprehensive report setting forth a proposal for revising the method
+ of allocating grants among the States under section 302 of the Social
+ Security Act.
+ (b) SPECIFIC REQUIREMENTS- The report required by subsection (a) shall
+ include an analysis of--
+ (1) the use of unemployment insurance workload levels as the primary factor
+ in allocating grants among the States under section 302 of the Social
+ Security Act,
+ (2) ways to ensure that each State receive not less than a minimum grant
+ amount for each fiscal year,
+ (3) the use of nationally available objective data to determine the
+ unemployment compensation administrative costs of each State, with
+ consideration of legitimate cost differences among the States,
+ (4) ways to simplify the method of allocating such grants among the States,
+ (5) ways to eliminate the disincentives to productivity and efficiency
+ which exist in the current method of allocating such grants among the States,
+ (6) ways to promote innovation and cost-effective practices in the method
+ of allocating such grants among the States, and
+ (7) the effect of the proposal set forth in such report on the grant amounts
+ allocated to each State.
+ (c) CONGRESSIONAL REVIEW PERIOD- The Secretary of Labor may not revise the
+ method in effect on the date of the enactment of this Act for allocating
+ grants among the States under section 302 of the Social Security Act, until
+ after the expiration of the 12-month period beginning on the date on which
+ the report required by subsection (a) is submitted to the Congress.
+TITLE IV--FINANCING PROVISIONS
+SEC. 401. PERMANENT EXTENSION OF PROVISIONS RELATING TO COLLECTION OF NONTAX
+DEBTS OWED TO FEDERAL AGENCIES.
+ (a) IN GENERAL- Subsection (c) of section 2653 of the Deficit Reduction
+ Act of 1984 is amended by striking `, and on or before January 10, 1994'.
+ (b) EFFECTIVE DATE- The amendment made by this section shall take effect
+ on October 1, 1991.
+SEC. 402. EXTENSION OF FUTA SURTAX.
+ Section 3301 of the Internal Revenue Code of 1986 (relating to rate of
+ unemployment tax) is amended--
+ (1) by striking `1995' in paragraph (1) and inserting `1996', and
+ (2) by striking `1996' in paragraph (2) and inserting `1997'.
+SEC. 403. MODIFICATION TO INDIVIDUAL ESTIMATED TAX REQUIREMENTS.
+ (a) GENERAL RULE- Paragraph (1) of section 6654(d) of the Internal Revenue
+ Code of 1986 (relating to amount of required installments) is amended by
+ adding at the end thereof the following new subparagraphs:
+ `(C) LIMITATION ON USE OF PRECEDING YEAR'S TAX-
+ `(i) IN GENERAL- In any case to which this subparagraph applies, clause
+ (ii) of subparagraph (B) shall be applied as if it read as follows:
+ ` `(ii) the greater of--
+ ` `(I) 100 percent of the tax shown on the return of the individual for
+ the preceding taxable year, or
+ ` `(II) 90 percent of the tax shown on the return for the current year,
+ determined by taking into account the adjustments set forth in subparagraph
+ (D).'
+ `(ii) CASES TO WHICH SUBPARAGRAPH APPLIES- This subparagraph shall apply if--
+ `(I) the modified adjusted gross income for the current year exceeds the
+ amount of the adjusted gross income shown on the return of the individual
+ for the preceding taxable year by more than $40,000 ($20,000 in the case
+ of a separate return for the current year by a married individual),
+ `(II) the adjusted gross income shown on the return for the current year
+ exceeds $75,000 ($37,500 in the case of a married individual filing a
+ separate return), and
+ `(III) the taxpayer has made a payment of estimated tax (determined without
+ regard to subsection (g) and section 6402(b)) with respect to any of the
+ preceding 3 taxable years (or a penalty has been previously assessed under
+ this section for a failure to pay estimated tax with respect to any of such
+ 3 preceding taxable years).
+This subparagraph shall not apply to any taxable year beginning after December
+31, 1996.
+ `(iii) MAY USE PRECEDING YEAR'S TAX FOR FIRST INSTALLMENT- This subparagraph
+ shall not apply for purposes of determining the amount of the 1st required
+ installment for any taxable year. Any reduction in an installment by reason
+ of the preceding sentence shall be recaptured by increasing the amount of the
+ 1st succeeding required installment (with respect to which the requirements
+ of clause (iv) are not met) by the amount of such reduction.
+ `(iv) ANNUALIZATION EXCEPTION- This subparagraph shall not apply to any
+ required installment if the individual establishes that the requirements
+ of subclauses (I) and (II) of clause (ii) would not have been satisfied if
+ such subclauses were applied on the basis of--
+ `(I) the annualized amount of the modified adjusted gross income for months
+ in the current year ending before the due date for the installment determined
+ by assuming that all items referred to in clause (i) of subparagraph (D)
+ accrued ratably during the current year, and
+ `(II) the annualized amount of the adjusted gross income for months in the
+ current year ending before the due date for the installment.
+Any reduction in an installment under the preceding sentence shall be
+recaptured by increasing the amount of the 1st succeeding required installment
+(with respect to which the requirements of the preceding sentence are not met)
+by the amount of such reduction.
+ `(D) MODIFIED ADJUSTED GROSS INCOME FOR CURRENT YEAR- For purposes of this
+ paragraph, the term `modified adjusted gross income' means the amount of the
+ adjusted gross income shown on the return for the current year determined
+ with the following modifications:
+ `(i) The qualified pass-thru items shown on the return for the preceding
+ taxable year shall be treated as also shown on the return for the current
+ year (and the actual qualified pass-thru items (if any) for the current
+ year shall be disregarded).
+ `(ii) The amount of any gain from any involuntary conversion (within the
+ meaning of section 1033) which is shown on the return for the current year
+ shall be disregarded.
+ `(iii) The amount of any gain from the sale or exchange of a principal
+ residence (within the meaning of section 1034) which is shown on the return
+ for the current year shall be disregarded.
+ `(E) QUALIFIED PASS-THRU ITEM- For purposes of this paragraph--
+ `(i) IN GENERAL- Except as otherwise provided in this subparagraph, the term
+ `qualified pass-thru item' means any item of income, gain, loss, deduction,
+ or credit attributable to an interest in a partnership or S corporation. Such
+ term shall not include any gain or loss from the disposition of an interest
+ in an entity referred to in the preceding sentence.
+ `(ii) 10-PERCENT OWNERS AND GENERAL PARTNERS EXCLUDED- The term `qualified
+ pass-thru item' shall not include, with respect to any year, any item
+ attributable to--
+ `(I) an interest in an S corporation, if at any time during such year the
+ individual was a 10-percent owner in such corporation, or
+ `(II) an interest in a partnership, if at any time during such year the
+ individual was a 10-percent owner or general partner in such partnership.
+ `(iii) 10-PERCENT OWNER- The term `10-percent owner' means--
+ `(I) in the case of an S corporation, an individual who owns 10 percent or
+ more (by vote or value) of the stock in such corporation, and
+ `(II) in the case of a partnership, an individual who owns 10 percent or
+ more of the capital interest (or the profits interest) in such partnership.
+ `(F) OTHER DEFINITIONS AND SPECIAL RULES- For purposes of this paragraph--
+ `(i) CURRENT YEAR- The term `current year' means the taxable year for which
+ the amount of the installment is being determined.
+ `(ii) SPECIAL RULE- If no return is filed for the current year, any reference
+ in subparagraph (C) or (D) to an item shown on the return for the current
+ year shall be treated as a reference to the actual amount of such item for
+ such year.
+ `(iii) MARITAL STATUS- Marital status shall be determined under section
+ 7703.'.
+ (b) TECHNICAL AMENDMENTS-
+ (1) Subparagraph (C) of section 6654(i)(1) of such Code is amended to read
+ as follows:
+ `(C) the amount of such installment shall be equal to the required
+ annual payment determined under subsection (d)(1)(B) by substituting
+ `66 2/3  percent' for `90 percent' and without regard to subparagraph (C)
+ of subsection (d)(1), and'.
+ (2) Subparagraph (A) of section 6654(j)(3) of such Code is amended by
+ inserting before the period at the end thereof the following: `and subsection
+ (d)(1)(C)(iii) shall not apply'.
+ (3) Paragraph (4) of section 6654(l) of such Code is amended by striking
+ `subsection (d)(2)(B)(i)' and inserting `paragraphs (1)(C)(iv) and (2)(B)(i)
+ of subsection (d)'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall apply to
+ taxable years beginning after December 31, 1991.
+TITLE V--RAILROAD UNEMPLOYMENT INSURANCE
+SEC. 501. EXTENDED RAILROAD UNEMPLOYMENT INSURANCE BENEFITS DURING PERIODS
+OF HIGH NATIONAL UNEMPLOYMENT.
+ (a) IN GENERAL- For purposes of section 2(h) of the Railroad Unemployment
+ Insurance Act (45 U.S.C. 352(h)(2)), a `period of high unemployment'
+ includes any month during the period November 1991 through July 1992.
+ (b) EFFECTIVE DATES-
+ (1) IN GENERAL- Except as provided in paragraphs (2) and (3), no employee
+ shall have an extended benefit period under the second proviso of section
+ 2(c) of the Railroad Unemployment Insurance Act beginning before November
+ 17, 1991, or after July 4, 1992.
+ (2) TRANSITION- If an employee has established an extended benefit period
+ under the second proviso of section 2(c) of the Railroad Unemployment
+ Insurance Act and the last day of such extended benefit period, as
+ established, is after July 4, 1992, such employee shall continue to be
+ entitled to extended unemployment benefits for days of unemployment in
+ registration periods included in such extended benefit period, provided
+ that such employee meets the eligibility requirements of this section and
+ the Railroad Unemployment Insurance Act.
+ (3) REACHBACK PROVISIONS- If an employee has exhausted that employee's
+ rights to normal unemployment benefits under section 2(c) of the Railroad
+ Unemployment Insurance Act after February 28, 1991, but before November
+ 17, 1991, such employee shall, for the purposes of the application of this
+ section, be deemed to have exhausted such rights after November 17, 1991.
+ (c) LIMITATION ON PAYMENT- Extended benefits under this section shall be
+ payable for a maximum of 65 days of unemployment, including any extended
+ benefits payable by reason of the application of the reachback provisions.
+TITLE VI--GUARANTEED STUDENT LOANS
+SEC. 601. CREDIT CHECKS; COSIGNERS.
+ (a) FISL PROGRAM- Section 427(a)(2)(A) of the Higher Education Act of 1965
+ (20 U.S.C. 1001 et seq.), hereafter in this title referred as `the Act',
+ is amended to read as follows:
+ `(A) is made without security and without endorsement, except that prior
+ to making a loan insurable by the Secretary under this part a lender shall--
+ `(i) obtain a credit report, from at least one national credit bureau
+ organization, with respect to a loan applicant who will be at least 21 years
+ of age as of July 1 of the award year for which assistance is being sought,
+ for which the lender may charge the applicant an amount not to exceed the
+ lesser of $25 or the actual cost of obtaining the credit report; and
+ `(ii) require an applicant of the age specified in clause (i) who, in the
+ judgment of the lender in accordance with the regulations of the Secretary,
+ has an adverse credit history, to obtain a credit worthy cosigner in
+ order to obtain the loan, provided that, for purposes of this clause, an
+ insufficient or nonexistent credit history may not be considered to be an
+ adverse credit history;'.
+ (b) GSL PROGRAM- Section 428(b)(1) of the Act is amended--
+ (1) in subparagraph (U), by striking `and' at the end thereof;
+ (2) in subparagraph (V), by striking the period at the end thereof and
+ inserting a semicolon and `and'; and
+ (3) by adding at the end thereof the following new subparagraph:
+ `(W) provides that prior to making a loan made, insured, or guaranteed
+ under this part (other than a loan made in accordance with section 428C),
+ a lender shall--
+ `(i) obtain a credit report, from at least one national credit bureau
+ organization, with respect to a loan applicant who will be at least 21 years
+ of age as of July 1 of the award year for which assistance is being sought,
+ for which the lender may charge the applicant an amount not to exceed the
+ lesser of $25 or the actual cost of obtaining the credit report; and
+ `(ii) require an applicant of the age specified in clause (i) who, in the
+ judgment of the lender in accordance with the regulations of the Secretary,
+ has an adverse credit history, to obtain a credit worthy cosigner in
+ order to obtain the loan, provided that, for purposes of this clause, an
+ insufficient or nonexistent credit history may not be considered to be an
+ adverse credit history.'.
+SEC. 602. BORROWER INFORMATION.
+ (a) FISL PROGRAM- Section 427 of the Act is amended by adding at the end
+ thereof the following new subsection:
+ `(d) BORROWER INFORMATION- The lender shall obtain the borrower's driver's
+ license number, if any, at the time of application for the loan.'.
+ (b) GSL PROGRAM- Section 428 of the Act is amended--
+ (1) in subsection (a)(2)(A)--
+ (A) in clause (i)(I), by striking out `and' at the end thereof;
+ (B) in clause (ii), by striking out the period at the end thereof and
+ inserting in lieu thereof a semicolon and `and'; and
+ (C) by adding at the end thereof the following new clause:
+ `(iii) have provided to the lender at the time of application for a loan
+ made, insured, or guaranteed under this part, the student's driver's number,
+ if any.'.
+SEC. 603. ADDITIONAL BORROWER INFORMATION.
+ Section 485(b) of the Act is amended--
+ (1) by striking the subsection heading and inserting `EXIT COUNSELING FOR
+ BORROWERS; BORROWER INFORMATION- '; and
+ (2) by adding at the end thereof the following: `Each eligible institution
+ shall require that the borrower of a loan made under part B, part D, or
+ part E submit to the institution, during the exit interview required by
+ this subsection, the borrower's expected permanent address after leaving the
+ institution, regardless of the reason for leaving; the name and address of the
+ borrower's expected employer after leaving the institution; and the address
+ of the borrower's next of kin. In the case of a loan made under part B, the
+ institution shall then submit this information to the holder of the loan.'.
+SEC. 604. CONFESSION OF JUDGMENT.
+ Section 428(b)(1) of the Act is further amended--
+ (1) in subparagraph (V), by striking `and' at the end thereof;
+ (2) in subparagraph (W), by striking the period at the end thereof and
+ inserting a semicolon and `and'; and
+ (3) by adding at the end thereof the following new subparagraph:
+ `(X) provides that the lender shall obtain, as part of the note or written
+ agreement evidencing the loan, the borrower's authorization for entry of
+ judgment against the borrower in the event of default.'.
+SEC. 605. WAGE GARNISHMENT.
+ (a) AMENDMENT- Part G of title IV of the Act is amended by inserting
+ immediately following section 488 the following new section:
+`WAGE GARNISHMENT REQUIREMENT
+ `SEC. 488A. (a) GARNISHMENT REQUIREMENTS- Notwithstanding any provision of
+ State law, a guaranty agency, or the Secretary in the case of loans made,
+ insured or guaranteed under this title that are held by the Secretary,
+ may garnish the disposable pay of an individual to collect the amount owed
+ by the individual, if he or she is not currently making required repayment
+ under a repayment agreement with the Secretary, or, in the case of a loan
+ guaranteed under part B on which the guaranty agency received reimbursement
+ from the Secretary under section 428(c), with the guaranty agency holding
+ the loan, as appropriate, provided that--
+ `(1) the amount deducted for any pay period may not exceed 10 percent of
+ disposable pay, except that a greater percentage may be deducted with the
+ written consent of the individual involved;
+ `(2) the individual shall be provided written notice, sent by mail to
+ the individual's last known address, a minimum of 30 days prior to the
+ initiation of proceedings, from the guaranty agency or the Secretary,
+ as appropriate, informing such individual of the nature and amount of
+ the loan obligation to be collected, the intention of the guaranty agency
+ or the Secretary, as appropriate, to initiate proceedings to collect the
+ debt through deductions from pay, and an explanation of the rights of the
+ individual under this section;
+ `(3) the individual shall be provided an opportunity to inspect and copy
+ records relating to the debt;
+ `(4) the individual shall be provided an opportunity to enter into a written
+ agreement with the guaranty agency or the Secretary, under terms agreeable
+ to the Secretary, or the head of the guaranty agency or his designee,
+ as appropriate, to establish a schedule for the repayment of the debt;
+ `(5) the individual shall be provided an opportunity for a hearing in
+ accordance with subsection (b) on the determination of the Secretary or the
+ guaranty agency, as appropriate, concerning the existence or the amount of
+ the debt, and, in the case of an individual whose repayment schedule is
+ established other than by a written agreement pursuant to paragraph (4),
+ concerning the terms of the repayment schedule;
+ `(6) the employer shall pay to the Secretary or the guaranty agency as
+ directed in the withholding order issued in this action, and shall be liable
+ for, and the Secretary or the guaranty agency, as appropriate, may sue the
+ employer in a State or Federal court of competent jurisdiction to recover,
+ any amount that such employer fails to withhold from wages due an employee
+ following receipt of such employer of notice of the withholding order,
+ plus attorneys' fees, costs, and, in the court's discretion, punitive
+ damages, but such employer shall not be required to vary the normal pay
+ and disbursement cycles in order to comply with this paragraph;
+ `(7) if an individual has been reemployed within 12 months after having
+ been involuntarily separated from employment, no amount may be deducted
+ from the disposable pay of such individual until such individual has been
+ reemployed continuously for at least 12 months; and
+ `(8) an employer may not discharge from employment, refuse to employ, or
+ take disciplinary action against an individual subject to wage withholding
+ in accordance with this section by reason of the fact that the individual's
+ wages have been subject to garnishment under this section, and such individual
+ may sue in a State or Federal court of competent jurisdiction any employer
+ who takes such action. The court shall award attorneys' fees to a prevailing
+ employee and, in its discretion, may order reinstatement of the individual,
+ award punitive damages and back pay to the employee, or order such other
+ remedy as may be reasonably necessary.
+ `(b) HEARING REQUIREMENTS- A hearing described in subsection (a)(5) shall
+ be provided prior to issuance of a garnishment order if the individual,
+ on or before the 15th day following the mailing of the notice described in
+ subsection (a)(2), and in accordance with such procedures as the Secretary
+ or the head of the guaranty agency, as appropriate, may prescribe, files a
+ petition requesting such a hearing. If the individual does not file a petition
+ requesting a hearing prior to such date, the Secretary or the guaranty agency,
+ as appropriate, shall provide the individual a hearing under subsection (a)(5)
+ upon request, but such hearing need not be provided prior to issuance of a
+ garnishment order. A hearing under subsection (a)(5) may not be conducted by
+ an individual under the supervision or control of the head of the guaranty
+ agency, except that nothing in this sentence shall be construed to prohibit
+ the appointment of an administrative law judge. The hearing official shall
+ issue a final decision at the earliest practicable date, but not later than
+ 60 days after the filing of the petition requesting the hearing.
+ `(c) NOTICE REQUIREMENTS- The notice to the employer of the withholding
+ order shall contain only such information as may be necessary for the
+ employer to comply with the withholding order.
+ `(d) DEFINITION- For the purpose of this section, the term `disposable pay'
+ means that part of the compensation of any individual from an employer
+ remaining after the deduction of any amounts required by law to be withheld.'.
+ (b) ABOLITION OF ADDITIONAL COST PAYMENTS-
+ (1) Section 428E of the Act is repealed.
+ (2) Section 428(c)(6) of the Act is amended by striking subparagraph (D).
+SEC. 606. DATA MATCHING.
+ Part G of title IV of the Act is further amended by inserting immediately
+ following section 489 the following new section:
+`DATA MATCHING
+ `SEC. 489A. (a)(1) The Secretary is authorized to obtain information from
+ the files and records maintained by any of the departments, agencies, or
+ instrumentalities of the United States concerning the most recent address
+ of an individual obligated on a loan held by the Secretary or a loan
+ made in accordance with part B of this title held by a guaranty agency,
+ or an individual owing a refund of an overpayment of a grant awarded under
+ this title, and the name and address of such individual's employer, if the
+ Secretary determines that such information is needed to enforce the loan
+ or collect the overpayment.
+ `(2) The Secretary is authorized to provide the information described in
+ paragraph (1) to a guaranty agency holding a loan made under part B of this
+ title on which such individual is obligated.
+ `(b)(1) Notwithstanding any other provision of law, whenever the head of
+ any department, agency, or instrumentality of the United States receives a
+ request from the Secretary for information authorized under this section,
+ such individual or his designee shall promptly cause a search to be made
+ of the records of the agency to determine whether the information requested
+ is contained in those records.
+ `(2)(A) If such information is found, the individual shall, in conformance
+ with the provisions of the Privacy Act of 1974, as amended, immediately
+ transmit such information to the Secretary, except that if disclosure of this
+ information would contravene national policy or security interests of the
+ United States, or the confidentiality of census data, the individual shall
+ immediately so notify the Secretary and shall not transmit the information.
+ `(B) If no such information is found, the individual shall immediately so
+ notify the Secretary.
+ `(3)(A) The reasonable costs incurred by any such agency of the United States
+ in providing any such information to the Secretary shall be reimbursed by
+ the Secretary, and retained by the agency.
+ `(B) Whenever such information is furnished to a guaranty agency, that
+ agency shall be charged a fee to be used to reimburse the Secretary for
+ the expense of providing such information.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

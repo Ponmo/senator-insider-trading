@@ -1,0 +1,346 @@
+110th CONGRESS
+1st Session
+S. 2338
+AN ACT
+To modernize and update the National Housing Act and enable the Federal Housing Administration to more effectively reach underserved borrowers, and for other purposes.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+(a) Short Title.—This Act may be cited as the “FHA Modernization Act of 2007”.
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+Sec. 1. Short title and table of contents.
+TITLE I—BUILDING AMERICAN HOMEOWNERSHIP
+
+Sec. 101. Short title.
+Sec. 102. Maximum principal loan obligation.
+Sec. 103. Cash investment requirement and prohibition of seller-funded downpayment assistance.
+Sec. 104. Mortgage insurance premiums.
+Sec. 105. Rehabilitation loans.
+Sec. 106. Discretionary action.
+Sec. 107. Insurance of condominiums.
+Sec. 108. Mutual Mortgage Insurance Fund.
+Sec. 109. Hawaiian home lands and Indian reservations.
+Sec. 110. Conforming and technical amendments.
+Sec. 111. Insurance of mortgages.
+Sec. 112. Home equity conversion mortgages.
+Sec. 113. Energy efficient mortgages program.
+Sec. 114. Pilot program for automated process for borrowers without sufficient credit history.
+Sec. 115. Homeownership preservation.
+Sec. 116. Use of FHA savings for improvements in FHA technologies, procedures, processes, program performance, staffing, and salaries.
+Sec. 117. Post-purchase housing counseling eligibility improvements.
+Sec. 118. Pre-purchase homeownership counseling demonstration.
+Sec. 119. Fraud prevention.
+Sec. 120. Limitation on mortgage insurance premium increases.
+Sec. 121. Savings provision.
+Sec. 122. Implementation.
+Sec. 123. Moratorium on implementation of risk-based premiums.
+TITLE II—MANUFACTURED HOUS­ING LOAN MODERNIZATION
+
+Sec. 201. Short title.
+Sec. 202. Purposes.
+Sec. 203. Exception to limitation on financial institution portfolio.
+Sec. 204. Insurance benefits.
+Sec. 205. Maximum loan limits.
+Sec. 206. Insurance premiums.
+Sec. 207. Technical corrections.
+Sec. 208. Revision of underwriting criteria.
+Sec. 209. Prohibition against kickbacks and unearned fees.
+Sec. 210. Leasehold requirements.
+TITLE I—BUILDING AMERICAN HOMEOWNERSHIP
+SEC. 101. SHORT TITLE.
+This title may be cited as the “Building American Homeownership Act of 2007”.
+SEC. 102. MAXIMUM PRINCIPAL LOAN OBLIGATION.
+Paragraph (2) of section 203(b)(2) of the National Housing Act (12 U.S.C. 1709(b)(2)) is amended—
+(1) by amending subparagraphs (A) and (B) to read as follows:
+“(A) not to exceed the lesser of—
+“(i) in the case of a 1-family residence, the median 1-family house price in the area, as determined by the Secretary; and in the case of a 2-, 3-, or 4-family residence, the percentage of such median price that bears the same ratio to such median price as the dollar amount limitation in effect under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a 2-, 3-, or 4-family residence, respectively, bears to the dollar amount limitation in effect under such section for a 1-family residence; or
+“(ii) the dollar amount limitation determined under such section 305(a)(2) for a residence of the applicable size;
+except that the dollar amount limitation in effect for any area under this subparagraph may not be less than the greater of (I) the dollar amount limitation in effect under this section for the area on October 21, 1998, or (II) 65 percent of the dollar limitation determined under such section 305(a)(2) for a residence of the applicable size; and
+“(B) not to exceed 100 percent of the appraised value of the property.”; and
+(2) in the matter following subparagraph (B), by striking the second sentence (relating to a definition of “average closing cost”) and all that follows through “section 3103A(d) of title 38, United States Code.”.
+SEC. 103. CASH INVESTMENT REQUIREMENT AND PROHIBITION OF SELLER-FUNDED DOWNPAYMENT ASSISTANCE.
+Paragraph 9 of section 203(b) of the National Housing Act (12 U.S.C. 1709(b)(9)) is amended to read as follows:
+“(9) CASH INVESTMENT REQUIREMENT.—
+“(A) IN GENERAL.—A mortgage insured under this section shall be executed by a mortgagor who shall have paid, in cash, on account of the property an amount equal to not less than 1.5 percent of the appraised value of the property or such larger amount as the Secretary may determine.
+“(B) FAMILY MEMBERS.—For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts borrowed from a family member (as such term is defined in section 201), subject only to the requirements that, in any case in which the repayment of such borrowed amounts is secured by a lien against the property, that—
+“(i) such lien shall be subordinate to the mortgage; and
+“(ii) the sum of the principal obligation of the mortgage and the obligation secured by such lien may not exceed 100 percent of the appraised value of the property.
+“(C) PROHIBITED SOURCES.—In no case shall the funds required by subparagraph (A) consist, in whole or in part, of funds provided by any of the following parties before, during, or after closing of the property sale:
+“(i) The seller or any other person or entity that financially benefits from the transaction.
+“(ii) Any third party or entity that is reimbursed, directly or indirectly, by any of the parties described in clause (i).”.
+SEC. 104. MORTGAGE INSURANCE PREMIUMS.
+Section 203(c)(2) of the National Housing Act (12 U.S.C. 1709(c)(2)) is amended—
+(1) in the matter preceding subparagraph (A), by striking “or of the General Insurance Fund” and all that follows through “section 234(c),,”; and
+(2) in subparagraph (A)—
+(A) by striking “2.25 percent” and inserting “3 percent”; and
+(B) by striking “2.0 percent” and inserting “2.75 percent”.
+SEC. 105. REHABILITATION LOANS.
+Subsection (k) of section 203 of the National Housing Act (12 U.S.C. 1709(k)) is amended—
+(1) in paragraph (1), by striking “on” and all that follows through “1978”; and
+(2) in paragraph (5)—
+(A) by striking “General Insurance Fund” the first place it appears and inserting “Mutual Mortgage Insurance Fund”; and
+(B) in the second sentence, by striking the comma and all that follows through “General Insurance Fund”.
+SEC. 106. DISCRETIONARY ACTION.
+The National Housing Act is amended—
+(1) in subsection (e) of section 202 (12 U.S.C. 1708(e))—
+(A) in paragraph (3)(B), by striking “section 202(e) of the National Housing Act” and inserting “this subsection”; and
+(B) by redesignating such subsection as subsection (f);
+(2) by striking paragraph (4) of section 203(s) (12 U.S.C. 1709(s)(4)) and inserting the following new paragraph:
+“(4) the Secretary of Agriculture;”; and
+(3) by transferring subsection (s) of section 203 (as amended by paragraph (2) of this section) to section 202, inserting such subsection after subsection (d) of section 202, and redesignating such subsection as subsection (e).
+SEC. 107. INSURANCE OF CONDOMINIUMS.
+(a) In General.—Section 234 of the National Housing Act (12 U.S.C. 1715y) is amended—
+(1) in subsection (c), in the first sentence—
+(A) by striking “and” before “(2)”; and
+(B) by inserting before the period at the end the following: “, and (3) the project has a blanket mortgage insured by the Secretary under subsection (d)”; and
+(2) in subsection (g), by striking “, except that” and all that follows and inserting a period.
+(b) Definition Of Mortgage.—Section 201(a) of the National Housing Act (12 U.S.C. 1707(a)) is amended—
+(1) before “a first mortgage” insert “(A)”;
+(2) by striking “or on a leasehold (1)” and inserting “(B) a first mortgage on a leasehold on real estate (i)”;
+(3) by striking “or (2)” and inserting “, or (ii)”; and
+(4) by inserting before the semicolon the following: “, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project”.
+(c) Definition Of Real Estate.—Section 201 of the National Housing Act (12 U.S.C. 1707) is amended by adding at the end the following new subsection:
+“(g) The term ‘real estate’ means land and all natural resources and structures permanently affixed to the land, including residential buildings and stationary manufactured housing. The Secretary may not require, for treatment of any land or other property as real estate for purposes of this title, that such land or property be treated as real estate for purposes of State taxation.”.
+SEC. 108. MUTUAL MORTGAGE INSURANCE FUND.
+(a) In General.—Subsection (a) of section 202 of the National Housing Act (12 U.S.C. 1708(a)) is amended to read as follows:
+“(a) Mutual Mortgage Insurance Fund.—
+“(1) ESTABLISHMENT.—Subject to the provisions of the Federal Credit Reform Act of 1990, there is hereby created a Mutual Mortgage Insurance Fund (in this title referred to as the ‘Fund’), which shall be used by the Secretary to carry out the provisions of this title with respect to mortgages insured under section 203. The Secretary may enter into commitments to guarantee, and may guarantee, such insured mortgages.
+“(2) LIMIT ON LOAN GUARANTEES.—The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, any part of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
+“(3) FIDUCIARY RESPONSIBILITY.—The Secretary has a responsibility to ensure that the Mutual Mortgage Insurance Fund remains financially sound.
+“(4) ANNUAL INDEPENDENT ACTUARIAL STUDY.—The Secretary shall provide for an independent actuarial study of the Fund to be conducted annually, which shall analyze the financial position of the Fund. The Secretary shall submit a report annually to the Congress describing the results of such study and assessing the financial status of the Fund. The report shall recommend adjustments to underwriting standards, program participation, or premiums, if necessary, to ensure that the Fund remains financially sound.
+“(5) QUARTERLY REPORTS.—During each fiscal year, the Secretary shall submit a report to the Congress for each calendar quarter, which shall specify for mortgages that are obligations of the Fund—
+“(A) the cumulative volume of loan guarantee commitments that have been made during such fiscal year through the end of the quarter for which the report is submitted;
+“(B) the types of loans insured, categorized by risk;
+“(C) any significant changes between actual and projected claim and prepayment activity;
+“(D) projected versus actual loss rates; and
+“(E) updated projections of the annual subsidy rates to ensure that increases in risk to the Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
+The first quarterly report under this paragraph shall be submitted on the last day of the first quarter of fiscal year 2008, or on the last day of the first full calendar quarter following the enactment of the Building American Homeownership Act of 2007, whichever is later.
+“(6) ADJUSTMENT OF PREMIUMS.—If, pursuant to the independent actuarial study of the Fund required under paragraph (4), the Secretary determines that the Fund is not meeting the operational goals established under paragraph (7) or there is a substantial probability that the Fund will not maintain its established target subsidy rate, the Secretary may either make programmatic adjustments under this title as necessary to reduce the risk to the Fund, or make appropriate premium adjustments.
+“(7) OPERATIONAL GOALS.—The operational goals for the Fund are—
+“(A) to minimize the default risk to the Fund and to homeowners by among other actions instituting fraud prevention quality control screening not later than 18 months after the date of enactment of the Building American Homeownership Act of 2007; and
+“(B) to meet the housing needs of the borrowers that the single family mortgage insurance program under this title is designed to serve.”.
+(b) Obligations Of Fund.—The National Housing Act is amended as follows:
+(1) HOMEOWNERSHIP VOUCHER PROGRAM MORTGAGES.—In section 203(v) (12 U.S.C. 1709(v))—
+(A) by striking “Notwithstanding section 202 of this title, the” and inserting “The”; and
+(B) by striking “General Insurance Fund” the first place such term appears and all that follows through the end of the subsection and inserting “Mutual Mortgage Insurance Fund.”.
+(2) HOME EQUITY CONVERSION MORTGAGES.—Section 255(i)(2)(A) of the National Housing Act (12 U.S.C. 1715z–20(i)(2)(A)) is amended by striking “General Insurance Fund” and inserting “Mutual Mortgage Insurance Fund”.
+(c) Conforming Amendments.—The National Housing Act is amended—
+(1) in section 205 (12 U.S.C. 1711), by striking subsections (g) and (h); and
+(2) in section 519(e) (12 U.S.C. 1735c(e)), by striking “203(b)” and all that follows through “203(i)” and inserting “203, except as determined by the Secretary”.
+SEC. 109. HAWAIIAN HOME LANDS AND INDIAN RESERVATIONS.
+(a) Hawaiian Home Lands.—Section 247(c) of the National Housing Act (12 U.S.C. 1715z–12(c)) is amended—
+(1) by striking “General Insurance Fund established in section 519” and inserting “Mutual Mortgage Insurance Fund”; and
+(2) in the second sentence, by striking “(1) all references” and all that follows through “and (2)”.
+(b) Indian Reservations.—Section 248(f) of the National Housing Act (12 U.S.C. 1715z–13(f)) is amended—
+(1) by striking “General Insurance Fund” the first place it appears through “519” and inserting “Mutual Mortgage Insurance Fund”; and
+(2) in the second sentence, by striking “(1) all references” and all that follows through “and (2)”.
+SEC. 110. CONFORMING AND TECHNICAL AMENDMENTS.
+(a) Repeals.—The following provisions of the National Housing Act are repealed:
+(1) Subsection (i) of section 203 (12 U.S.C. 1709(i)).
+(2) Subsection (o) of section 203 (12 U.S.C. 1709(o)).
+(3) Subsection (p) of section 203 (12 U.S.C. 1709(p)).
+(4) Subsection (q) of section 203 (12 U.S.C. 1709(q)).
+(5) Section 222 (12 U.S.C. 1715m).
+(6) Section 237 (12 U.S.C. 1715z–2).
+(7) Section 245 (12 U.S.C. 1715z–10).
+(b) Definition Of Area.—Section 203(u)(2)(A) of the National Housing Act (12 U.S.C. 1709(u)(2)(A)) is amended by striking “shall” and all that follows and inserting “means a metropolitan statistical area as established by the Office of Management and Budget;”.
+(c) Definition Of State.—Section 201(d) of the National Housing Act (12 U.S.C. 1707(d)) is amended by striking “the Trust Territory of the Pacific Islands” and inserting “the Commonwealth of the Northern Mariana Islands”.
+SEC. 111. INSURANCE OF MORTGAGES.
+Subsection (n)(2) of section 203 of the National Housing Act (12 U.S.C. 1709(n)(2)) is amended—
+(1) in subparagraph (A), by inserting “or subordinate mortgage or” before “lien given”; and
+(2) in subparagraph (C), by inserting “or subordinate mortgage or” before “lien”.
+SEC. 112. HOME EQUITY CONVERSION MORTGAGES.
+(a) In General.—Section 255 of the National Housing Act (12 U.S.C. 1715z–20) is amended—
+(1) in subsection (b)(2), insert “ ‘real estate,’” after “ ‘mortgagor’,”;
+(2) in subsection (g)—
+(A) by striking the first sentence; and
+(B) by striking “established under section 203(b)(2)” and all that follows through “located” and inserting “limitation established under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act for a 1-family residence”;
+(3) in subsection (i)(1)(C), by striking “limitations” and inserting “limitation”; and
+(4) by adding at the end the following new subsection:
+“(o) Authority To Insure Home Purchase Mortgage.—
+“(1) IN GENERAL.—Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which that the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
+“(2) LIMITATION ON PRINCIPAL OBLIGATION.—A home equity conversion mortgage insured pursuant to paragraph (1) shall involve a principal obligation that does not exceed the dollar amount limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act for a 1-family residence.”.
+(b) Mortgages For Cooperatives.—Subsection (b) of section 255 of the National Housing Act (12 U.S.C. 1715z–20(b)) is amended—
+(1) in paragraph (4)—
+(A) by inserting “a first or subordinate mortgage or lien” before “on all stock”;
+(B) by inserting “unit” after “dwelling”; and
+(C) by inserting “a first mortgage or first lien” before “on a leasehold”; and
+(2) in paragraph (5), by inserting “a first or subordinate lien on” before “all stock”.
+(c) Limitation On Origination Fees.—Section 255 of the National Housing Act (12 U.S.C. 1715z–20), as amended by the preceding provisions of this section, is further amended—
+(1) by redesignating subsections (k), (l), and (m) as subsections (l), (m), and (n), respectively; and
+(2) by inserting after subsection (j) the following new subsection:
+“(k) Limitation On Origination Fees.—The Secretary shall establish limits on the origination fee that may be charged to a mortgagor under a mortgage insured under this section, which limitations shall—
+“(1) equal 1.5 percent of the maximum claim amount of the mortgage unless adjusted thereafter on the basis of—
+“(A) the costs to the mortgagor; and
+“(B) the impact of such fees on the reverse mortgage market;
+“(2) be subject to a minimum allowable amount;
+“(3) provide that the origination fee may be fully financed with the mortgage;
+“(4) include any fees paid to correspondent mortgagees approved by the Secretary; and
+“(5) have the same effective date as subsection (o)(2) regarding the limitation on principal obligation.”.
+(d) Study Regarding Program Costs And Credit Availability.—
+(1) IN GENERAL.—The Comptroller General of the United States shall conduct a study regarding the costs and availability of credit under the home equity conversion mortgages for elderly homeowners program under section 255 of the National Housing Act (12 U.S.C. 1715z–20) (in this subsection referred to as the “program”).
+(2) PURPOSE.—The purpose of the study required under paragraph (1) is to help Congress analyze and determine the effects of limiting the amounts of the costs or fees under the program from the amounts charged under the program as of the date of the enactment of this Act.
+(3) CONTENT OF REPORT.—The study required under paragraph (1) should focus on—
+(A) the cost to mortgagors of participating in the program;
+(B) the financial soundness of the program;
+(C) the availability of credit under the program; and
+(D) the costs to elderly homeowners participating in the program, including—
+(i) mortgage insurance premiums charged under the program;
+(ii) up-front fees charged under the program; and
+(iii) margin rates charged under the program.
+(4) TIMING OF REPORT.—Not later than 12 months after the date of the enactment of this Act, the Comptroller General shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives setting forth the results and conclusions of the study required under paragraph (1).
+SEC. 113. ENERGY EFFICIENT MORTGAGES PROGRAM.
+Section 106(a)(2) of the Energy Policy Act of 1992 (42 U.S.C. 12712 note) is amended—
+(1) by amending subparagraph (C) to read as follows:
+“(C) COSTS OF IMPROVEMENTS.—The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
+“(i) 5 percent of the property value (not to exceed 5 percent of the limit established under section 203(b)(2)(A)) of the National Housing Act (12 U.S.C. 1709(b)(2)(A); or
+“(ii) 2 percent of the limit established under section 203(b)(2)(B) of such Act.”; and
+(2) by adding at the end the following:
+“(D) LIMITATION.—In any fiscal year, the aggregate number of mortgages insured pursuant to this section may not exceed 5 percent of the aggregate number of mortgages for 1- to 4-family residences insured by the Secretary of Housing and Urban Development under title II of the National Housing Act (12 U.S.C. 1707 et seq.) during the preceding fiscal year.”.
+SEC. 114. PILOT PROGRAM FOR AUTOMATED PROCESS FOR BORROWERS WITHOUT SUFFICIENT CREDIT HISTORY.
+(a) Establishment.—Title II of the National Housing Act (12 U.S.C. 1707 et seq.) is amended by adding at the end the following new section:
+“SEC. 257. PILOT PROGRAM FOR AUTOMATED PROCESS FOR BORROWERS WITHOUT SUFFICIENT CREDIT HISTORY.
+“(a) Establishment.—The Secretary shall carry out a pilot program to establish, and make available to mortgagees, an automated process for providing alternative credit rating information for mortgagors and prospective mortgagors under mortgages on 1- to 4-family residences to be insured under this title who have insufficient credit histories for determining their creditworthiness. Such alternative credit rating information may include rent, utilities, and insurance payment histories, and such other information as the Secretary considers appropriate.
+“(b) Scope.—The Secretary may carry out the pilot program under this section on a limited basis or scope, and may consider limiting the program to first-time homebuyers.
+“(c) Limitation.—In any fiscal year, the aggregate number of mortgages insured pursuant to the automated process established under this section may not exceed 5 percent of the aggregate number of mortgages for 1- to 4-family residences insured by the Secretary under this title during the preceding fiscal year.
+“(d) Sunset.—After the expiration of the 5-year period beginning on the date of the enactment of the Building American Homeownership Act of 2007, the Secretary may not enter into any new commitment to insure any mortgage, or newly insure any mortgage, pursuant to the automated process established under this section.”.
+(b) GAO Report.—Not later than the expiration of the two-year period beginning on the date of the enactment of this title, the Comptroller General of the United States shall submit to the Congress a report identifying the number of additional mortgagors served using the automated process established pursuant to section 257 of the National Housing Act (as added by the amendment made by subsection (a) of this section) and the impact of such process and the insurance of mortgages pursuant to such process on the safety and soundness of the insurance funds under the National Housing Act of which such mortgages are obligations.
+SEC. 115. HOMEOWNERSHIP PRESERVATION.
+The Secretary of Housing and Urban Development and the Commissioner of the Federal Housing Administration, in consultation with industry, the Neighborhood Reinvestment Corporation, and other entities involved in foreclosure prevention activities, shall—
+(1) develop and implement a plan to improve the Federal Housing Administration's loss mitigation process; and
+(2) report such plan to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+SEC. 116. USE OF FHA SAVINGS FOR IMPROVEMENTS IN FHA TECHNOLOGIES, PROCEDURES, PROCESSES, PROGRAM PERFORMANCE, STAFFING, AND SALARIES.
+(a) Authorization Of Appropriations.—There is authorized to be appropriated for each of fiscal years 2008 through 2012, $25,000,000, from negative credit subsidy for the mortgage insurance programs under title II of the National Housing Act, to the Secretary of Housing and Urban Development for increasing funding for the purpose of improving technology, processes, program performance, eliminating fraud, and for providing appropriate staffing in connection with the mortgage insurance programs under title II of the National Housing Act.
+(b) Certification.—The authorization under subsection (a) shall not be effective for a fiscal year unless the Secretary of Housing and Urban Development has, by rulemaking in accordance with section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section), made a determination that—
+(1) premiums being, or to be, charged during such fiscal year for mortgage insurance under title II of the National Housing Act are established at the minimum amount sufficient to—
+(A) comply with the requirements of section 205(f) of such Act (relating to required capital ratio for the Mutual Mortgage Insurance Fund); and
+(B) ensure the safety and soundness of the other mortgage insurance funds under such Act; and
+(2) any negative credit subsidy for such fiscal year resulting from such mortgage insurance programs adequately ensures the efficient delivery and availability of such programs.
+(c) Study And Report.—The Secretary of Housing and Urban Development shall conduct a study to obtain recommendations from participants in the private residential (both single family and multifamily) mortgage lending business and the secondary market for such mortgages on how best to update and upgrade processes and technologies for the mortgage insurance programs under title II of the National Housing Act so that the procedures for originating, insuring, and servicing of such mortgages conform with those customarily used by secondary market purchasers of residential mortgage loans. Not later than the expiration of the 12-month period beginning on the date of the enactment of this Act, the Secretary shall submit a report to the Congress describing the progress made and to be made toward updating and upgrading such processes and technology, and providing appropriate staffing for such mortgage insurance programs.
+SEC. 117. POST-PURCHASE HOUSING COUNSELING ELIGIBILITY IMPROVEMENTS.
+Section 106(c)(4) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(c)(4)) is amended:
+(1) in subparagraph (C)—
+(A) in clause (i), by striking “; or” and inserting a semicolon;
+(B) in clause (ii), by striking the period at the end and inserting a semicolon; and
+(C) by adding at the end the following:
+“(iii) a significant reduction in the income of the household due to divorce or death; or
+“(iv) a significant increase in basic expenses of the homeowner or an immediate family member of the homeowner (including the spouse, child, or parent for whom the homeowner provides substantial care or financial assistance) due to—
+“(I) an unexpected or significant increase in medical expenses;
+“(II) a divorce;
+“(III) unexpected and significant damage to the property, the repair of which will not be covered by private or public insurance; or
+“(IV) a large property-tax increase; or”;
+(2) by striking the matter that follows subparagraph (C); and
+(3) by adding at the end the following:
+“(D) the Secretary of Housing and Urban Development determines that the annual income of the homeowner is no greater than the annual income established by the Secretary as being of low- or moderate-income.”.
+SEC. 118. PRE-PURCHASE HOMEOWNERSHIP COUNSELING DEMONSTRATION.
+(a) Establishment Of Program.—For the period beginning on the date of enactment of this Act and ending on the date that is 3 years after such date of enactment, the Secretary of Housing and Urban Development shall establish and conduct a demonstration program to test the effectiveness of alternative forms of pre-purchase homeownership counseling for eligible homebuyers.
+(b) Forms Of Counseling.—The Secretary of Housing and Urban Development shall provide to eligible homebuyers pre-purchase homeownership counseling under this section in the form of —
+(1) telephone counseling;
+(2) individualized in-person counseling;
+(3) web-based counseling;
+(4) counseling classes; or
+(5) any other form or type of counseling that the Secretary may, in his discretion, determine appropriate.
+(c) Size Of Program.—The Secretary shall make available the pre-purchase homeownership counseling described in subsection (b) to not more than 3,000 eligible homebuyers in any given year.
+(d) Incentive To Participate.—The Secretary of Housing and Urban Development may provide incentives to eligible homebuyers to participate in the demonstration program established under subsection (a). Such incentives may include the reduction of any insurance premium charges owed by the eligible homebuyer to the Secretary.
+(e) Eligible Homebuyer Defined.—For purposes of this section an “eligible homebuyer” means a first-time homebuyer who has been approved for a home loan with a loan-to-value ratio between 97 percent and 98.5 percent.
+(f) Report To Congress.—The Secretary of Housing and Urban Development shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative—
+(1) on an annual basis, on the progress and results of the demonstration program established under subsection (a); and
+(2) for the period beginning on the date of enactment of this Act and ending on the date that is 5 years after such date of enactment, on the payment history and delinquency rates of eligible homebuyers who participated in the demonstration program.
+SEC. 119. FRAUD PREVENTION.
+Section 1014 of title 18, United States Code, is amended in the first sentence—
+(1) by inserting “the Federal Housing Administration” before “the Farm Credit Administration”; and
+(2) by striking “commitment, or loan” and inserting “commitment, loan, or insurance agreement or application for insurance or a guarantee”.
+SEC. 120. LIMITATION ON MORTGAGE INSURANCE PREMIUM INCREASES.
+(a) In General.—Notwithstanding any other provision of law, including any provision of this Act and any amendment made by this Act—
+(1) for the period beginning on the date of the enactment of this Act and ending on October 1, 2009, the premiums charged for mortgage insurance under multifamily housing programs under the National Housing Act may not be increased above the premium amounts in effect under such program on October 1, 2006, unless the Secretary of Housing and Urban Development determines that, absent such increase, insurance of additional mortgages under such program would, under the Federal Credit Reform Act of 1990, require the appropriation of new budget authority to cover the costs (as such term is defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a) of such insurance; and
+(2) a premium increase pursuant to paragraph (1) may be made only if not less than 30 days prior to such increase taking effect, the Secretary of Housing and Urban Development—
+(A) notifies the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of such increase; and
+(B) publishes notice of such increase in the Federal Register.
+(b) Waiver.—The Secretary of Housing and Urban Development may waive the 30-day notice requirement under subsection (a)(2), if the Secretary determines that waiting 30-days before increasing premiums would cause substantial damage to the solvency of multifamily housing programs under the National Housing Act.
+SEC. 121. SAVINGS PROVISION.
+Any mortgage insured under title II of the National Housing Act before the date of enactment of this title shall continue to be governed by the laws, regulations, orders, and terms and conditions to which it was subject on the day before the date of the enactment of this title.
+SEC. 122. IMPLEMENTATION.
+The Secretary of Housing and Urban Development shall by notice establish any additional requirements that may be necessary to immediately carry out the provisions of this title. The notice shall take effect upon issuance.
+SEC. 123. MORATORIUM ON IMPLEMENTATION OF RISK-BASED PREMIUMS.
+For the 12-month period beginning on the date of enactment of this Act, the Secretary of Housing and Urban Development shall not enact, execute, or take any action to make effective the planned implementation of risk-based premiums, which are designed for mortgage lenders to offer borrowers an FHA-insured product that provides a range of mortgage insurance premium pricing, based on the risk the insurance contract represents, as such planned implementation was set forth in the Notice published in the Federal Register on September 20, 2007 (Vol. 72, No. 182, Page 53872).
+TITLE II—MANUFACTURED HOUS­ING LOAN MODERNIZATION
+SEC. 201. SHORT TITLE.
+This title may be cited as the “FHA Manufactured Housing Loan Modernization Act of 2007”.
+SEC. 202. PURPOSES.
+The purposes of this title are—
+(1) to provide adequate funding for FHA-insured manufactured housing loans for low- and moderate-income homebuyers during all economic cycles in the manufactured housing industry;
+(2) to modernize the FHA title I insurance program for manufactured housing loans to enhance participation by Ginnie Mae and the private lending markets; and
+(3) to adjust the low loan limits for title I manufactured home loan insurance to reflect the increase in costs since such limits were last increased in 1992 and to index the limits to inflation.
+SEC. 203. EXCEPTION TO LIMITATION ON FINANCIAL INSTITUTION PORTFOLIO.
+The second sentence of section 2(a) of the National Housing Act (12 U.S.C. 1703(a)) is amended—
+(1) by striking “In no case” and inserting “Other than in connection with a manufactured home or a lot on which to place such a home (or both), in no case”; and
+(2) by striking “: Provided, That with” and inserting “. With”.
+SEC. 204. INSURANCE BENEFITS.
+(a) In General.—Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), is amended by adding at the end the following new paragraph:
+“(8) INSURANCE BENEFITS FOR MANUFACTURED HOUSING LOANS.—Any contract of insurance with respect to loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place a manufactured home (or both) for a financial institution that is executed under this title after the date of the enactment of the FHA Manufactured Housing Loan Modernization Act of 2007 by the Secretary shall be conclusive evidence of the eligibility of such financial institution for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of the bearer from the date of the execution of such contract, except for fraud or misrepresentation on the part of such institution.”.
+(b) Applicability.—The amendment made by subsection (a) shall only apply to loans that are registered or endorsed for insurance after the date of the enactment of this Act.
+SEC. 205. MAXIMUM LOAN LIMITS.
+(a) Dollar Amounts.—Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
+(1) in clause (ii) of subparagraph (A), by striking “$17,500” and inserting “$25,090”;
+(2) in subparagraph (C) by striking “$48,600” and inserting “$69,678”;
+(3) in subparagraph (D) by striking “$64,800” and inserting “$92,904”;
+(4) in subparagraph (E) by striking “$16,200” and inserting “$23,226”; and
+(5) by realigning subparagraphs (C), (D), and (E) 2 ems to the left so that the left margins of such subparagraphs are aligned with the margins of subparagraphs (A) and (B).
+(b) Annual Indexing.—Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
+“(9) ANNUAL INDEXING OF MANUFACTURED HOUSING LOANS.—The Secretary shall develop a method of indexing in order to annually adjust the loan limits established in subparagraphs (A)(ii), (C), (D), and (E) of this subsection. Such index shall be based on the manufactured housing price data collected by the United States Census Bureau. The Secretary shall establish such index no later than 1 year after the date of the enactment of the FHA Manufactured Housing Loan Modernization Act of 2007.”
+(c) Technical And Conforming Changes.—Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
+(1) by striking “No” and inserting “Except as provided in the last sentence of this paragraph, no”; and
+(2) by adding after and below subparagraph (G) the following:
+“ The Secretary shall, by regulation, annually increase the dollar amount limitations in subparagraphs (A)(ii), (C), (D), and (E) (as such limitations may have been previously adjusted under this sentence) in accordance with the index established pursuant to paragraph (9).”.
+SEC. 206. INSURANCE PREMIUMS.
+Subsection (f) of section 2 of the National Housing Act (12 U.S.C. 1703(f)) is amended—
+(1) by inserting “(1) PREMIUM CHARGES.—” after “(f)”; and
+(2) by adding at the end the following new paragraph:
+“(2) Manufactured Home Loans.—Notwithstanding paragraph (1), in the case of a loan, advance of credit, or purchase in connection with a manufactured home or a lot on which to place such a home (or both), the premium charge for the insurance granted under this section shall be paid by the borrower under the loan or advance of credit, as follows:
+“(A) At the time of the making of the loan, advance of credit, or purchase, a single premium payment in an amount not to exceed 2.25 percent of the amount of the original insured principal obligation.
+“(B) In addition to the premium under subparagraph (A), annual premium payments during the term of the loan, advance, or obligation purchased in an amount not exceeding 1.0 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
+“(C) Premium charges under this paragraph shall be established in amounts that are sufficient, but do not exceed the minimum amounts necessary, to maintain a negative credit subsidy for the program under this section for insurance of loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place such a home (or both), as determined based upon risk to the Federal Government under existing underwriting requirements.
+“(D) The Secretary may increase the limitations on premium payments to percentages above those set forth in subparagraphs (A) and (B), but only if necessary, and not in excess of the minimum increase necessary, to maintain a negative credit subsidy as described in subparagraph (C).”.
+SEC. 207. TECHNICAL CORRECTIONS.
+(a) Dates.—Subsection (a) of section 2 of the National Housing Act (12 U.S.C. 1703(a)) is amended—
+(1) by striking “on and after July 1, 1939,” each place such term appears; and
+(2) by striking “made after the effective date of the Housing Act of 1954”.
+(b) Authority Of Secretary.—Subsection (c) of section 2 of the National Housing Act (12 U.S.C. 1703(c)) is amended to read as follows:
+“(c) Handling And Disposal Of Property.—
+“(1) AUTHORITY OF SECRETARY.—Notwithstanding any other provision of law, the Secretary may—
+“(A) deal with, complete, rent, renovate, modernize, insure, or assign or sell at public or private sale, or otherwise dispose of, for cash or credit in the Secretary’s discretion, and upon such terms and conditions and for such consideration as the Secretary shall determine to be reasonable, any real or personal property conveyed to or otherwise acquired by the Secretary, in connection with the payment of insurance heretofore or hereafter granted under this title, including any evidence of debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of insurance heretofore or hereafter granted under this section; and
+“(B) pursue to final collection, by way of compromise or otherwise, all claims assigned to or held by the Secretary and all legal or equitable rights accruing to the Secretary in connection with the payment of such insurance, including unpaid insurance premiums owed in connection with insurance made available by this title.
+“(2) ADVERTISEMENTS FOR PROPOSALS.—Section 3709 of the Revised Statutes shall not be construed to apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of such property if the amount thereof does not exceed $25,000.
+“(3) DELEGATION OF AUTHORITY.—The power to convey and to execute in the name of the Secretary, deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest therein heretofore or hereafter acquired by the Secretary pursuant to the provisions of this title may be exercised by an officer appointed by the Secretary without the execution of any express delegation of power or power of attorney. Nothing in this subsection shall be construed to prevent the Secretary from delegating such power by order or by power of attorney, in the Secretary’s discretion, to any officer or agent the Secretary may appoint.”.
+SEC. 208. REVISION OF UNDERWRITING CRITERIA.
+(a) In General.—Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
+“(10) FINANCIAL SOUNDNESS OF MANUFACTURED HOUSING PROGRAM.—The Secretary shall establish such underwriting criteria for loans and advances of credit in connection with a manufactured home or a lot on which to place a manufactured home (or both), including such loans and advances represented by obligations purchased by financial institutions, as may be necessary to ensure that the program under this title for insurance for financial institutions against losses from such loans, advances of credit, and purchases is financially sound.”.
+(b) Timing.—Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall revise the existing underwriting criteria for the program referred to in paragraph (10) of section 2(b) of the National Housing Act (as added by subsection (a) of this section) in accordance with the requirements of such paragraph.
+SEC. 209. PROHIBITION AGAINST KICKBACKS AND UNEARNED FEES.
+Title I of the National Housing Act is amended by adding at the end of section 9 the following new section:
+“SEC. 10. PROHIBITION AGAINST KICKBACKS AND UNEARNED FEES.
+“(a) In General.—Except as provided in subsection (b), the provisions of sections 3, 8, 16, 17, 18, and 19 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) shall apply to each sale of a manufactured home financed with an FHA-insured loan or extension of credit, as well as to services rendered in connection with such transactions.
+“(b) Authority Of The Secretary.—The Secretary is authorized to determine the manner and extent to which the provisions of sections 3, 8, 16, 17, 18, and 19 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) may reasonably be applied to the transactions described in subsection (a), and to grant such exemptions as may be necessary to achieve the purposes of this section.
+“(c) Definitions.—For purposes of this section—
+“(1) the term ‘federally related mortgage loan’ as used in sections 3, 8, 16, 17, 18, and 19 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) shall include an FHA-insured loan or extension of credit made to a borrower for the purpose of purchasing a manufactured home that the borrower intends to occupy as a personal residence; and
+“(2) the term ‘real estate settlement service’ as used in sections 3, 8, 16, 17, 18, and 19 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) shall include any service rendered in connection with a loan or extension of credit insured by the Federal Housing Administration for the purchase of a manufactured home.
+“(d) Unfair And Deceptive Practices.—In connection with the purchase of a manufactured home financed with a loan or extension of credit insured by the Federal Housing Administration under this title, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.”.
+SEC. 210. LEASEHOLD REQUIREMENTS.
+Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
+“(11) LEASEHOLD REQUIREMENTS.—No insurance shall be granted under this section to any such financial institution with respect to any obligation representing any such loan, advance of credit, or purchase by it, made for the purposes of financing a manufactured home which is intended to be situated in a manufactured home community pursuant to a lease, unless such lease—
+“(A) expires not less than 3 years after the origination date of the obligation;
+“(B) is renewable upon the expiration of the original 3 year term by successive 1 year terms; and
+“(C) requires the lessor to provide the lessee written notice of termination of the lease not less than 180 days prior to the expiration of the current lease term in the event the lessee is required to move due to the closing of the manufactured home community, and further provides that failure to provide such notice to the mortgagor in a timely manner will cause the lease term, at its expiration, to automatically renew for an additional 1 year term.”.
+Passed the Senate December 14, 2007.
+Attest:
+
+
+
+
+
+Secretary  
+110th CONGRESS
+     1st Session
+S. 2338
+AN ACT
+To modernize and update the National Housing Act and enable the Federal Housing Administration to more effectively reach underserved borrowers, and for other purposes.

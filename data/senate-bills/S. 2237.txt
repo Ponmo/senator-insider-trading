@@ -1,0 +1,115 @@
+Calendar No. 341
+112th CONGRESS
+2d Session
+S. 2237
+
+To provide a temporary income tax credit for increased payroll and extend bonus depreciation for an additional year, and for other purposes.
+IN THE SENATE OF THE UNITED STATES
+March 26, 2012
+Mr. Reid introduced the following bill; which was read the first time
+March 27, 2012
+Read the second time and placed on the calendar
+A BILL
+To provide a temporary income tax credit for increased payroll and extend bonus depreciation for an additional year, and for other purposes.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Small Business Jobs and Tax Relief Act”.
+SEC. 2. TEMPORARY TAX CREDIT FOR INCREASED PAYROLL.
+(a) In General.—In the case of a qualified employer who elects the application of this section, there shall be allowed as a credit against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year which includes December 31, 2012, an amount equal to 10 percent of the excess (if any) of—
+(1) the sum of the wages and compensation paid by such qualified employer for qualified services during calendar year 2012, over
+(2) the sum of such wages and compensation paid during calendar year 2011.
+(b) Limitation.—The amount of the excess taken into account under subsection (a) with respect to any qualified employer shall not exceed $5,000,000.
+(c) Wages And Compensation.—For purposes of this section—
+(1) WAGES.—The term “wages” has the meaning given such term under section 3121 of the Internal Revenue Code of 1986 for purposes of the tax imposed by section 3111(a) of such Code.
+(2) COMPENSATION.—The term “compensation” has the meaning given such term under section 3231 of such Code for purposes of the portion of the tax imposed by section 3221(a) of such Code that corresponds to the tax imposed by section 3111(a) of such Code.
+(3) APPLICATION OF CONTRIBUTION AND BENEFIT BASE TO CALENDAR YEAR 2011.—For purposes of determining wages and compensation under subsection (a)(2), the contribution and benefit base as determined under section 230 of the Social Security Act shall be such amount as in effect for calendar year 2012.
+(4) SPECIAL RULE WHEN NO WAGES OR COMPENSATION IN 2011.—In any case in which the sum of the wages and compensation paid by a qualified employer for qualified services during calendar year 2011 is zero, then the amount taken into account under subsection (a)(2) shall be 80 percent of the amount taken into account under subsection (a)(1).
+(5) COORDINATION WITH OTHER EMPLOYMENT CREDITS.—The amount of the excess taken into account under subsection (a) shall be reduced by the sum of all other Federal tax credits determined with respect to wages or compensation paid in calendar year 2012.
+(d) Other Definitions.—
+(1) QUALIFIED EMPLOYER.—For purposes of this section—
+(A) IN GENERAL.—The term “qualified employer” has the meaning given such term under section 3111(d)(2) of the Internal Revenue Code of 1986, determined by substituting “section 101 of the Higher Education Act of 1965” for “section 101(b) of the Higher Education Act of 1965” in subparagraph (B) thereof.
+(B) AGGREGATION RULES.—Rules similar to the rules of sections 414(b), 414(c), 414(m), and 414(o) of such Code shall apply to determine when multiple entities shall be treated as a single employer, and rules with respect to predecessor and successor employers may be applied, in such manner as may be prescribed by the Secretary of the Treasury or the Secretary's designee (in this section referred to as the “Secretary”).
+(2) QUALIFIED SERVICES.—The term “qualified services” means services performed by an individual who is not described in section 51(i)(1) of such Code (applied by substituting “qualified employer” for “taxpayer” each place it appears)—
+(A) in a trade or business of the qualified employer, or
+(B) in the case of a qualified employer exempt from tax under section 501(a) of such Code, in furtherance of the activities related to the purpose or function constituting the basis of the employer's exemption under section 501 of such Code.
+(e) Application Of Certain Rules.—Rules similar to the rules of sections 280C(a) and 6501(m) of the Internal Revenue Code of 1986 shall apply with respect to the credit determined under this section.
+(f) Treatment Of Credit.—For purposes of the Internal Revenue Code of 1986—
+(1) TAXABLE EMPLOYERS.—
+(A) IN GENERAL.—The credit allowed under subsection (a) with respect to qualified services described in subsection (d)(2)(A) for any taxable year shall be added to the current year business credit under section 38(b) of such Code for such taxable year and shall be treated as a credit allowed under subpart D of part IV of subchapter A of chapter 1 of such Code.
+(B) LIMITATION ON CARRYBACKS.—No portion of the unused business credit under section 38 of such Code for any taxable year which is attributable to an increase in the current year business credit by reason of subparagraph (A) may be carried to a taxable year beginning before the date of the enactment of this section.
+(2) TAX-EXEMPT EMPLOYERS.—
+(A) IN GENERAL.—The credit allowed under subsection (a) with respect to qualified services described in subsection (d)(2)(B) for any taxable year—
+(i) shall be treated as a credit allowed under subpart C of part IV of subchapter A of chapter 1 of such Code, and
+(ii) shall be added to the credits described in subparagraph (A) of section 6211(b)(4) of such Code.
+(B) CONFORMING AMENDMENT.—Section 1324(b)(2) of title 31, United States Code, is amended by inserting “or due under section 2 of the Small Business Jobs and Tax Relief Act” after “the Housing Assistance Tax Act of 2008”.
+(g) Treatment Of Possessions.—
+(1) PAYMENTS TO POSSESSIONS.—
+(A) MIRROR CODE POSSESSIONS.—The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of subsections (a) through (f). Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession of the United States.
+(B) OTHER POSSESSIONS.—The Secretary shall pay to each possession of the United States which does not have a mirror code tax system the amount estimated by the Secretary as being equal to the loss to that possession that would have occurred by reason of the application of subsections (a) through (f) if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession establishes to the satisfaction of the Secretary that the possession has implemented (or, at the discretion of the Secretary, will implement) an income tax benefit which is substantially equivalent to the income tax credit allowed under such subsections.
+(2) COORDINATION WITH CREDIT ALLOWED AGAINST UNITED STATES INCOME TAXES.—No increase in the credit determined under section 38(b) of the Internal Revenue Code of 1986 against United States income taxes for any taxable year determined by reason of subsection (f)(1)(A) shall be taken into account with respect to any person—
+(A) to whom a credit is allowed against taxes imposed by the possession by reason of this section for such taxable year, or
+(B) who is eligible for a payment under a plan described in paragraph (1)(B) with respect to such taxable year.
+(3) DEFINITIONS AND SPECIAL RULES.—
+(A) POSSESSION OF THE UNITED STATES.—For purposes of this subsection, the term “possession of the United States” includes American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
+(B) MIRROR CODE TAX SYSTEM.—For purposes of this subsection, the term “mirror code tax system” means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+(C) TREATMENT OF PAYMENTS.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from credit provisions described in such section.
+(h) Regulations.—The Secretary shall prescribe such regulations or guidance as are necessary to carry out the provisions of this section.
+SEC. 3. EXTENSION OF ALLOWANCE FOR BONUS DEPRECIATION FOR CERTAIN BUSINESS ASSETS.
+(a) Extension Of 100 Percent Bonus Depreciation.—
+(1) IN GENERAL.—Paragraph (5) of section 168(k) of the Internal Revenue Code of 1986 is amended—
+(A) by striking “January 1, 2012” each place it appears and inserting “January 1, 2013”, and
+(B) by striking “January 1, 2013” and inserting “January 1, 2014”.
+(2) CONFORMING AMENDMENTS.—
+(A) The heading for paragraph (5) of section 168(k) of such Code is amended by striking “PRE-2012 PERIODS” and inserting “PRE-2013 PERIODS”.
+(B) Clause (ii) of section 460(c)(6)(B) of such Code is amended by striking “January 1, 2011 (January 1, 2012” and inserting “January 1, 2013 (January 1, 2014”.
+(3) EFFECTIVE DATES.—
+(A) IN GENERAL.—Except as provided in subparagraph (B), the amendments made by this section shall apply to property placed in service after December 31, 2011.
+(B) CONFORMING AMENDMENT.—The amendment made by paragraph (2)(B) shall apply to property placed in service after December 31, 2010.
+(b) Expansion Of Election To Accelerate AMT Credits In Lieu Of Bonus Depreciation.—
+(1) IN GENERAL.—Paragraph (4) of section 168(k) of the Internal Revenue Code of 1986 is amended to read as follows:
+“(4) ELECTION TO ACCELERATE AMT CREDITS IN LIEU OF BONUS DEPRECIATION.—
+“(A) IN GENERAL.—If a corporation elects to have this paragraph apply for any taxable year—
+“(i) paragraph (1) shall not apply to any eligible qualified property placed in service by the taxpayer in such taxable year,
+“(ii) the applicable depreciation method used under this section with respect to such property shall be the straight line method, and
+“(iii) the limitation imposed by section 53(c) for such taxable year shall be increased by the bonus depreciation amount which is determined for such taxable year under subparagraph (B).
+“(B) BONUS DEPRECIATION AMOUNT.—For purposes of this paragraph—
+“(i) IN GENERAL.—The bonus depreciation amount for any taxable year is an amount equal to 20 percent of the excess (if any) of—
+“(I) the aggregate amount of depreciation which would be allowed under this section for eligible qualified property placed in service by the taxpayer during such taxable year if paragraph (1) applied to all such property, over
+“(II) the aggregate amount of depreciation which would be allowed under this section for eligible qualified property placed in service by the taxpayer during such taxable year if paragraph (1) did not apply to any such property.
+The aggregate amounts determined under subclauses (I) and (II) shall be determined without regard to any election made under subsection (b)(2)(D), (b)(3)(D), or (g)(7) and without regard to subparagraph (A)(ii).
+“(ii) LIMITATION.—The bonus depreciation amount for any taxable year shall not exceed the lesser of—
+“(I) 50 percent of the minimum tax credit under section 53(b) for the first taxable year ending after December 31, 2011, reduced (but not below zero) by the sum of the bonus depreciation amounts for all taxable years ending after such date for which an election under this paragraph was made which precede the taxable year for which the determination is made (other than amounts determined with respect to property placed in service by the taxpayer on or before such date), or
+“(II) the minimum tax credit under section 53(b) for such taxable year determined by taking into account only the adjusted minimum tax for taxable years ending before January 1, 2012 (determined by treating credits as allowed on a first-in, first-out basis).
+“(iii) AGGREGATION RULE.—All corporations which are treated as a single employer under section 52(a) shall be treated—
+“(I) as 1 taxpayer for purposes of this paragraph, and
+“(II) as having elected the application of this paragraph if any such corporation so elects.
+“(C) ELIGIBLE QUALIFIED PROPERTY.—For purposes of this paragraph, the term ‘eligible qualified property’ means qualified property under paragraph (2), except that in applying paragraph (2) for purposes of this paragraph—
+“(i) ‘March 31, 2008’ shall be substituted for ‘December 31, 2007’ each place it appears in subparagraph (A) and clauses (i) and (ii) of subparagraph (E) thereof,
+“(ii) ‘April 1, 2008’ shall be substituted for ‘January 1, 2008’ in subparagraph (A)(iii)(I) thereof, and
+“(iii) only adjusted basis attributable to manufacture, construction, or production—
+“(I) after March 31, 2008, and before January 1, 2010, and
+“(II) after December 31, 2010, and before January 1, 2013, shall be taken into account under subparagraph (B)(ii) thereof.
+“(D) CREDIT REFUNDABLE.—For purposes of section 6401(b), the aggregate increase in the credits allowable under part IV of subchapter A for any taxable year resulting from the application of this paragraph shall be treated as allowed under subpart C of such part (and not any other subpart).
+“(E) OTHER RULES.—
+“(i) ELECTION.—Any election under this paragraph may be revoked only with the consent of the Secretary.
+“(ii) PARTNERSHIPS WITH ELECTING PARTNERS.—In the case of a corporation making an election under subparagraph (A) and which is a partner in a partnership, for purposes of determining such corporation’s distributive share of partnership items under section 702—
+“(I) paragraph (1) shall not apply to any eligible qualified property, and
+“(II) the applicable depreciation method used under this section with respect to such property shall be the straight line method.
+“(iii) CERTAIN PARTNERSHIPS.—In the case of a partnership in which more than 50 percent of the capital and profits interests are owned (directly or indirectly) at all times during the taxable year by one corporation (or by corporations treated as 1 taxpayer under subparagraph (B)(iii)), for purposes of subparagraph (B), each partner shall take into account its distributive share of the amounts determined by the partnership under subclauses (I) and (II) of clause (i) of such subparagraph for the taxable year of the partnership ending with or within the taxable year of the partner. The preceding sentence shall apply only to amounts determined with respect to property placed in service after December 31, 2011.
+“(iv) SPECIAL RULE FOR PASSENGER AIRCRAFT.—In the case of any passenger aircraft, the written binding contract limitation under paragraph (2)(A)(iii)(I) shall not apply for purposes of subparagraphs (B)(i)(I) and (C).”.
+(2) EFFECTIVE DATE.—The amendment made by this subsection shall apply to taxable years ending after December 31, 2011.
+(3) TRANSITIONAL RULE.—In the case of a taxable year beginning before January 1, 2012, and ending after December 31, 2011, the bonus depreciation amount determined under paragraph (4) of section 168(k) of the Internal Revenue Code of 1986 for such year shall be the sum of—
+(A) such amount determined under such paragraph as in effect on the date before the date of enactment of this Act—
+(i) taking into account only property placed in service before January 1, 2012, and
+(ii) multiplying the limitation under subparagraph (C)(ii) of such paragraph (as so in effect) by a fraction the numerator of which is the number of days in the taxable year before January 1, 2012, and the denominator of which is the number of days in the taxable year, and
+(B) such amount determined under such paragraph as amended by this Act—
+(i) taking into account only property placed in service after December 31, 2011, and
+(ii) multiplying the limitation under subparagraph (B)(ii) of such paragraph (as so in effect) by a fraction the numerator of which is the number of days in the taxable year after December 31, 2011, and the denominator of which is the number of days in the taxable year.
+Calendar No. 341
+112th CONGRESS
+     2d Session
+S. 2237
+A BILL
+To provide a temporary income tax credit for increased payroll and extend bonus depreciation for an additional year, and for other purposes.
+March 27, 2012
+Read the second time and placed on the calendar

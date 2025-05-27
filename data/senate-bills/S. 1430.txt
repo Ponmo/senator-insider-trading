@@ -1,0 +1,2773 @@
+--S.1430--
+S.1430
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To enhance national and community service, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `National and Community
+ Service Act of 1990'.
+ (b) TABLE OF CONTENTS- The table of contents is as follows:
+Sec. 1. Short title and table of contents.
+Sec. 2. Purposes.
+TITLE I--NATIONAL AND COMMUNITY SERVICE STATE GRANT PROGRAM
+Subtitle A--General Provisions
+Sec. 101. Definitions.
+Sec. 102. Authority to make State grants.
+Subtitle B--School-Aged Service
+Part I--General Program
+Sec. 110. Short title.
+Sec. 111. General authority.
+Sec. 112. Allotments.
+Sec. 113. State application.
+Sec. 114. Local applications.
+Sec. 115. Priority; private school participation.
+Sec. 116. Federal and local contributions.
+Sec. 117. Uses of funds; limitations.
+Part II--Higher Education Innovative Projects for Community Service
+Sec. 118. Higher education innovative projects for community service.
+Subtitle C--American Conservation and Youth Corps
+Sec. 120. Short title.
+Sec. 121. General authority.
+Sec. 122. Allocation of funds.
+Sec. 123. State application.
+Sec. 124. Focus of programs.
+Sec. 125. Related programs.
+Sec. 126. Public lands or Indian lands.
+Sec. 127. Training and education services.
+Sec. 128. Amount of award; matching requirement.
+Sec. 129. Preference for certain projects.
+Sec. 130. Age and citizenship criteria for enrollment.
+Sec. 131. Use of volunteers.
+Sec. 132. Post-service benefits.
+Sec. 133. Living allowance.
+Sec. 134. Joint programs.
+Sec. 135. Federal and State employee status.
+Sec. 136. Regulations and assistance.
+Subtitle D--National and Community Service
+Sec. 140. Short title.
+Sec. 141. General authority.
+Sec. 142. Grants.
+Sec. 143. Types of national service.
+Sec. 144. Terms of service.
+Sec. 145. Eligibility.
+Sec. 146. Post-service benefits.
+Sec. 147. Living allowance.
+Sec. 148. Training.
+Sec. 149. Public-private partnership.
+Sec. 150. In-service education benefits.
+Subtitle E--Innovative and Demonstration Programs and Projects
+Part I--Limitation on grants
+Sec. 155. Limitation on grants.
+Part II--Governors' Innovative Service Programs
+Sec. 156. General authority.
+Sec. 157. Grants.
+Part III--Peace Corps
+Sec. 160. Program authorized.
+Sec. 161. Eligibility and selection procedures.
+Sec. 162. Training program.
+Sec. 163. Educational benefits.
+Sec. 164. Evaluation and report.
+Part IV--Other Volunteer Programs
+Sec. 165. Rural youth service demonstration project.
+Sec. 166. Assistance for Head Start.
+Sec. 167. Employer-based retiree volunteer programs.
+Subtitle F--Administrative Provisions
+Sec. 171. Limitation on number of grants.
+Sec. 172. Reports.
+Sec. 173. Supplementation.
+Sec. 174. Prohibition on use of funds.
+Sec. 175. Nondiscrimination.
+Sec. 176. Notice, hearing, and grievance procedures.
+Sec. 177. Nonduplication and nondisplacement.
+Sec. 178. State advisory board.
+Sec. 179. Evaluation.
+Sec. 180. Engagement of participants.
+Sec. 181. National Service Demonstration Program amendments.
+Sec. 182. Partnerships with schools.
+Sec. 183. Service as tutors.
+Sec. 184. Drug-free workplace requirements.
+Sec. 185. Conforming amendments.
+Subtitle G--Commission on National and Community Service
+Sec. 190. Commission on National and Community Service.
+TITLE II--MODIFICATIONS OF EXISTING PROGRAMS
+Subtitle A--Publication
+Sec. 201. Information for students.
+Sec. 202. Exit counseling for borrowers.
+Sec. 203. Department information on deferments and cancellations.
+Sec. 204. Data on deferments and cancellations.
+Subtitle B--Youthbuild Projects
+Sec. 211. Youthbuild projects.
+Subtitle C--Amendments to Student Literacy Corps
+Sec. 221. Amendments to Student Literacy Corps.
+TITLE III--POINTS OF LIGHT FOUNDATION
+Sec. 301. Short title.
+Sec. 302. Findings and purposes.
+Sec. 303. Authority.
+Sec. 304. Grants to the Foundation.
+Sec. 305. Eligibility of the Foundation for grants.
+TITLE IV--FOOD DONATIONS
+Sec. 401. Sense of Congress concerning enactment of Good Samaritan Food
+Donation Act.
+Sec. 402. Model Good Samaritan Food Donation Act.
+Sec. 403. Effect of section 402.
+TITLE V--AUTHORIZATION OF APPROPRIATIONS
+Sec. 501. Authorization of appropriations.
+TITLE VI--MISCELLANEOUS PROVISIONS
+Sec. 601. Amtrak waste disposal.
+Sec. 602. Exchange program with countries in transition from totalitarianism
+to Democracy.
+SEC. 2. PURPOSES.
+ It is the purpose of this Act to--
+ (1) renew the ethic of civic responsibility in the United States;
+ (2) ask citizens of the United States, regardless of age or income, to
+ engage in full-time or part-time service to the Nation;
+ (3) begin to call young people to serve in programs that will benefit the
+ Nation and improve the life chances of the young through the acquisition
+ of literacy and job skills;
+ (4) enable young Americans to make a sustained commitment to service by
+ removing barriers to service that have been created by high education costs,
+ loan indebtedness, and the cost of housing;
+ (5) build on the existing organizational framework of Federal, State,
+ and local programs and agencies to expand full-time and part-time service
+ opportunities for all citizens, particularly youth and older Americans;
+ (6) involve participants in activities that would not otherwise be performed
+ by employed workers; and
+ (7) generate additional service hours each year to help meet human,
+ educational, environmental, and public safety needs, particularly those
+ needs relating to poverty.
+TITLE I--NATIONAL AND COMMUNITY SERVICE STATE GRANT PROGRAM
+Subtitle A--General Provisions
+SEC. 101. DEFINITIONS.
+ As used in this title:
+ (1) ADULT VOLUNTEER- The term `adult volunteer' means--
+ (A) an individual who is beyond the age of compulsory schooling, including
+ an older American, an individual with a disability, and a parent;
+ (B) an employee of a private business;
+ (C) an employee of a public or nonprofit agency; or
+ (D) any other individual working without financial remuneration in an
+ education institution to assist students or out-of-school youth.
+ (2) COMMISSION- The term `Commission' means the Commission on National and
+ Community Service established under section 190.
+ (3) COMMUNITY-BASED AGENCY- The term `community-based agency' means a
+ private nonprofit organization that is representative of a community or a
+ significant segment of a community and that is engaged in meeting human,
+ educational, or environmental community needs, including churches and other
+ religious entities and community action agencies.
+ (4) CREW SUPERVISOR- The term `crew supervisor' means the adult staff
+ individual who is responsible for supervising a crew of participants,
+ including the crew leader.
+ (5) ECONOMICALLY DISADVANTAGED- The term `economically disadvantaged' with
+ respect to youths has the same meaning given such term in section 4(8)
+ of the Job Training Partnership Act (29 U.S.C. 1503(8)).
+ (6) ELEMENTARY SCHOOL- The term `elementary school' has the same meaning
+ given such term in section 1471(8) of the Elementary and Secondary Education
+ Act of 1965 (20 U.S.C. 2891(8)).
+ (7) INDIAN LANDS- The term `Indian lands' means any real property owned by
+ an Indian tribe, any real property held in trust by the United States for
+ Indian tribes, and any real property held by Indian tribes that is subject
+ to restrictions on alienation imposed by the United States.
+ (8) INDIAN TRIBE- The term `Indian tribe' means an Indian tribe, band, nation,
+ or other organized group or community, including any Alaska Native village
+ or regional or village corporation as defined in or established pursuant
+ to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) that
+ is recognized as eligible for the special programs and services provided
+ by the United States to Indians because of their status as Indians.
+ (9) INSTITUTION OF HIGHER EDUCATION- The term `institution of higher
+ education' has the same meaning given such term in section 1201(a) of the
+ Higher Education Act of 1965 (20 U.S.C. 1141(a)).
+ (10) LOCAL EDUCATIONAL AGENCY- The term `local educational agency' has
+ the same meaning given such term in section 1471(12) of the Elementary and
+ Secondary Education Act of 1965 (20 U.S.C. 2891(12)).
+ (11) LOCAL GOVERNMENT AGENCY- The term `local government agency' means
+ a public agency that is engaged in meeting human, social, educational,
+ or environmental needs.
+ (12) OUT-OF-SCHOOL YOUTH- The term `out-of-school youth' means an individual
+ who--
+ (A) has not attained the age of 27;
+ (B) has not completed college or the equivalent thereof; and
+ (C) is not enrolled in an elementary or secondary school or institution of
+ higher education.
+ (13) PARTICIPANT- The term `participant' means an individual enrolled in
+ a program that receives assistance under this title.
+ (14) PARTNERSHIP PROGRAM- The term `partnership program' means a program
+ through which adult volunteers, public or private agencies, institutions
+ of higher education, or businesses assist a local educational agency.
+ (15) PLACEMENT- The term `placement' means the matching of a participant
+ with a specific project.
+ (16) PROGRAM- The term `program' means an activity carried out with assistance
+ provided under this title.
+ (17) PROGRAM AGENCY- The term `program agency' means--
+ (A) a Federal or State agency designated to manage a youth corps program;
+ (B) the governing body of an Indian tribe that administers a youth corps
+ program; or
+ (C) a local applicant administering a youth corps program.
+ (18) PROJECT- The term `project' means an activity that results in a
+ specific identifiable service or product that otherwise would not be done
+ with existing funds, and that does not duplicate the routine services or
+ functions of the employer to whom participants are assigned.
+ (19) PUBLIC LANDS- The term `public lands' means any lands or waters (or
+ interest therein) owned or administered by the United States or by an agency
+ or instrumentality of a State or local government.
+ (20) SECONDARY SCHOOL- The term `secondary school' has the same meaning
+ given such term in section 1471(21) of the Elementary and Secondary Education
+ Act of 1965 (20 U.S.C. 2891(21)).
+ (21) SERVICE-LEARNING- The term `service-learning' means a method--
+ (A) under which students learn and develop through active participation
+ in thoughtfully organized service experiences that meet actual community
+ needs and that are coordinated in collaboration with the school and community;
+ (B) that is integrated into the students' academic curriculum or provides
+ structured time for a student to think, talk, or write about what the
+ student did and saw during the actual service activity;
+ (C) that provides students with opportunities to use newly acquired skills
+ and knowledge in real-life situations in their own communities; and
+ (D) that enhances what is taught in school by extending student learning
+ beyond the classroom and into the community and helps to foster the
+ development of  a sense of caring for others.
+ (22) SERVICE OPPORTUNITY- The term `service opportunity' means a program
+ or project, including service learning programs or projects, that enables
+ students or out-of-school youth to perform meaningful and constructive
+ service in agencies, institutions, and situations where the application of
+ human talent and dedication may help to meet human, educational, linguistic,
+ and environmental community needs, especially those relating to poverty.
+ (23) SPECIAL SENIOR SERVICE MEMBER- The term `special senior service member'
+ means an individual who is age 60 or over and willing to work full-time or
+ part-time in conjunction with a full-time national service program.
+ (24) SPONSORING ORGANIZATION- The term `sponsoring organization' means an
+ organization, eligible to receive assistance under this title, that has
+ been selected to provide a placement for a participant.
+ (25) STATE- The term `State' means each of the several States, the District
+ of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam,
+ American Samoa, the Commonwealth of the Northern Mariana Islands, and Palau,
+ until such time as the Compact of Free Association is ratified.
+ (26) STATE EDUCATIONAL AGENCY- The term `State educational agency' has
+ the same meaning given such term in section 1471(23) of the Elementary and
+ Secondary Education Act of 1965 (20 U.S.C. 2891(23)).
+ (27) STUDENT- The term `student' means an individual who is enrolled in an
+ elementary or secondary school or institution of higher education on a full-
+ or part-time basis.
+ (28) SUMMER PROGRAM- The term `summer program' means a youth corps program
+ authorized under this title that is limited to the months of June, July,
+ and August.
+ (29) YOUTH CORPS PROGRAM- The term `youth corps program' means a program,
+ such as a conservation corps or youth service program, that offers full-time,
+ productive work (to be financed through stipends) with visible community
+ benefits in a natural resource or human service setting and that gives
+ participants a mix of work experience, basic and life skills, education,
+ training, and support services.
+SEC. 102. AUTHORITY TO MAKE STATE GRANTS.
+ The Commission may, in accordance with the provisions of this title, make
+ grants to States, or to local applicants, to enable such States or applicants
+ to carry out national or community service programs under subtitles B, C,
+ D, or E.
+Subtitle B--School-Aged Service
+PART I--GENERAL PROGRAM
+SEC. 110. SHORT TITLE.
+ This subtitle may be cited as the `Serve-America: The Community Service,
+ Schools and Service-Learning Act of 1990'.
+SEC. 111. GENERAL AUTHORITY.
+ (a) IN GENERAL- The Commission, in consultation with the Secretary of
+ Education, may make grants under section 102 to States or local applicants
+ for--
+ (1) planning and building State capacity (which may be accomplished through
+ grants and contracts with qualified organizations) for implementing statewide,
+ school-aged service-learning programs, including--
+ (A) preservice and in-service training for teachers, supervisors, and
+ personnel from community organizations in which service opportunities will
+ be provided that will be conducted by qualified individuals or organizations
+ that have experience in service-learning programs;
+ (B) developing service-learning curricula, including age-appropriate learning
+ components for students to analyze and apply their service experiences;
+ (C) forming local partnerships to develop school-based community service
+ programs in accordance with this subpart;
+ (D) devising appropriate methods for research and evaluation of the
+ educational value of youth service opportunities and the effect of youth
+ service programs on communities;
+ (E) establishing effective outreach and dissemination to ensure the
+ broadest possible involvement of nonprofit community-based organizations and
+ youth-service agencies with demonstrated effectiveness in their communities;
+ and
+ (F) integration of service-learning into academic curricula;
+ (2) the implementation, operation, or expansion of statewide, school-based
+ service-learning programs through State distribution of Federal funds made
+ available under this subtitle to projects and activities coordinated and
+ operated by local partnerships among--
+ (A) local educational agencies; and
+ (B) one or more community partners that--
+ (i) shall include a public or private nonprofit organization that will make
+ service opportunities available for participants, and that is representative
+ of the community in which such services will be provided; and
+ (ii) may include a private for-profit business organization or private
+ elementary and secondary school;
+ (3) the implementation, operation, or expansion of community service
+ programs for school dropouts, out-of-school youth, and other youth through
+ State distribution of Federal funds made available under this subtitle to
+ projects and activities coordinated and operated by local partnerships among--
+ (A) one or more public or private nonprofit organizations that work with
+ disadvantaged youth; and
+ (B) one or more community partners that shall include a public or private
+ nonprofit organization that will make service opportunities available for
+ participants; and
+ (4) the implementation, operation, or expansion of programs involving
+ adult volunteers in schools, or partnerships of schools and public or
+ private organizations, to improve the education of at-risk students,
+ school dropouts, and out-of-school youth through State distribution of
+ Federal funds made available under this part to projects and activities
+ coordinated and operated by local partnerships among--
+ (A) local education agencies; and
+ (B) one or more public or private nonprofit organization or private
+ for-profit business.
+ (b) DIRECT GRANTS- In any fiscal year in which a State does not participate
+ in programs under this subtitle, the Commission may use the allotment of that
+ State to make direct grants for the purposes described in subsection (a)
+ to local applicants in that State. The Commission shall apply the criteria
+ described in section 114 in evaluating such local applications.
+SEC. 112. ALLOTMENTS.
+ (a) RESERVATIONS- Of the amounts appropriated to carry out this subtitle
+ for any fiscal year, the Commission shall reserve not more than 1 percent
+ for payments to Indian tribes, Guam, American Samoa, the Commonwealth of
+ the Northern Mariana Islands and Palau, until such time as the Compact
+ of Free Association is ratified, to be allotted in accordance with their
+ respective needs.
+ (b) ALLOTMENT- The remainder of the sums appropriated to carry out this
+ subtitle shall be allotted among the States as follows:
+ (1) From 50 percent of such remainder the Secretary shall allot to each
+ State an amount which bears the same ratio to 50 percent of such remainder
+ as the school-age population of the State bears to the school-age population
+ of all States.
+ (2) From 50 percent of such remainder the Secretary shall allot to each
+ State an amount which bears the same ratio to 50 percent of such remainder
+ as allocations to the State for the previous fiscal year under chapter 1
+ of title I of the Elementary and Secondary Education Act of 1965 bears to
+ such allocations to all States.
+ (c) LIMITATION- For any period during which a State is carrying out planning
+ activities under section 111(a)(1) prior to implementation under section
+ 111(a)(2), a State may be paid not more than 25 percent of its allotment
+ under this section.
+ (d) REALLOTMENT- The amount of any State's allotment for any fiscal year
+ under this section that the Commission determines will not be required for
+ that fiscal year shall be available for reallotment to other States as the
+ Commission may determine appropriate.
+ (e) EXCEPTION- Notwithstanding this section, if less than $20,000,000 is
+ made available in each fiscal year to carry out this subtitle, the Commission
+ shall award grants to States on a competitive basis.
+ (f) DEFINITIONS- For purposes of this section:
+ (1) SCHOOL-AGE POPULATION- The term `school-age population' means the
+ population aged 5 through 17, inclusive.
+ (2) STATE- The term `State' includes the 50 States, the District of Columbia,
+ and the Commonwealth of Puerto Rico.
+SEC. 113. STATE APPLICATION.
+ To be eligible to receive a grant under this subtitle a State, acting through
+ the State educational agency, shall prepare and submit to the Commission,
+ an application at such time, in such manner, and containing such information
+ as the Commission shall reasonably require, including a description of the
+ manner in which--
+ (1) local applications will be ranked by the State according to the criteria
+ described in section 114, and in a manner that ensures the equitable
+ treatment of local applications submitted by both local educational agencies
+ and community-based organizations;
+ (2) service programs within the State will be coordinated with each other
+ and with other Federally assisted education programs, training programs,
+ social service programs, and other appropriate programs that serve youth;
+ (3) cooperative efforts among local educational agencies, local government
+ agencies, community-based agencies, businesses, and State agencies to
+ develop and provide service opportunities, including those that involve
+ the participation of urban, suburban, and rural youth working together,
+ will be encouraged;
+ (4) economically and educationally disadvantaged youths, including individuals
+ with disabilities, youth with limited basic skills or learning disabilities,
+ youth in foster care who are becoming too old for foster care, youth of
+ limited English proficiency, homeless youth and youth with disabilities,
+ are assured of service opportunities;
+ (5) service programs that receive assistance under this subtitle will
+ be evaluated;
+ (6) programs that receive assistance under this subtitle will serve urban
+ and rural areas and any tribal areas that exist within such State;
+ (7) training and technical assistance will be provided to local grantees
+ by qualified and experienced individuals employed by the State or through
+ grant or contract with experienced content specialist and youth service
+ resource organizations;
+ (8) non-Federal assistance will be used to expand service opportunities
+ for students and out-of-school youth;
+ (9) information and outreach services will be disseminated and utilized
+ to ensure the involvement of a broad range of organizations, particularly
+ community-based organizations;
+ (10) the State will keep such records and provide such information to the
+ Secretary as may be required for fiscal audits and program evaluation;
+ (11) the State will give special consideration to providing assistance to
+ projects that will provide academic credit to participants; and
+ (12) the State will assure compliance with the specific requirements of
+ this subtitle.
+SEC. 114. LOCAL APPLICATIONS.
+ (a) IN GENERAL- A partnership that desires to receive financial assistance
+ under this subtitle shall prepare and submit to the State Educational Agency
+ a proposal that meets the requirements of this section. Such proposal shall
+ be submitted at such time, in such manner, and containing such information
+ as the State Educational Agency may reasonably require.
+ (b) REQUIREMENTS OF PROPOSAL- A proposal submitted under subsection (a)
+ shall--
+ (1) contain a written agreement, between the members of the local partnership,
+ stating that the program was jointly developed by the parties and that the
+ program will be jointly executed by the parties;
+ (2) establish and specify the membership and role of an advisory committee
+ that shall consist of representatives of community-based agencies including
+ community action agencies, service recipients, youth-serving agencies,
+ youth, parents, teachers, administrators, agencies that serve older adults,
+ school board members, labor, and business;
+ (3) describe the goals of the program which shall include goals that are
+ quantifiable, measurable, and demonstrate any benefits that flow from the
+ program to the participants and the community;
+ (4) describe service opportunities to be provided under the program that
+ shall include evidence that participants will make a sustained commitment
+ to the service project;
+ (5) describe the manner in which the participants in the program will be
+ recruited, including any special efforts that will be utilized to recruit
+ out-of-school youth with the assistance of community-based agencies;
+ (6) describe the manner in which participants in the program were or will
+ be involved in the design and operation of the program;
+ (7) describe the qualifications, and responsibilities of the coordinator
+ of the program assisted under this subtitle;
+ (8) describe preservice and inservice training for supervisors, teachers,
+ and participants in the program;
+ (9) describe the manner in which exemplary service will be recognized;
+ (10) describe any potential resources that will permit continuation of
+ the program, if needed, after the assistance received under this subtitle
+ has ended;
+ (11) disclose whether the program plans include preventing and treating
+ school-age drug and alcohol abuse and dependency; and
+ (12) contain assurances that, prior to the placement of a participant,
+ the program will consult with any local labor organization representing
+ employees in the area who are engaged in the same or similar work as that
+ proposed to be carried out by such program.
+ (c) SCHOOL-BASED AND COMMUNITY-BASED SERVICE LEARNING PROGRAM- If an
+ applicant under this section intends to operate a program described in
+ section 111(a)(2) or 111(a)(3) such applicant, in addition to providing
+ the information described in subsection (b), shall provide additional
+ information that shall include--
+ (1) an assurance that the applicant will develop an age-appropriate learning
+ component for participants in the program that shall include a chance for
+ participants to reflect on service experiences and expected learning outcomes;
+ (2) a disclosure of whether or not the participants will receive academic
+ credit for participation in the program;
+ (3) the target levels of participants in the program and the target levels
+ for the hours of service that such participants will provide individually
+ and as a group;
+ (4) the proportion of expected participants in the program who are
+ educationally or economically disadvantaged, including participants with
+ disabilities;
+ (5) the ages or grade levels of expected participants in the program;
+ (6) other relevant demographic information concerning such expected
+ participants; and
+ (7) assurances that participants in the program will be provided with
+ information concerning VISTA, the Peace Corps (as established by the Peace
+ Corps Act (22 U.S.C. 2501 et seq.)), chapter 30 of title 38, United States
+ Code, chapter 106 of title 10, United States Code, full-time Youth Service
+ Corps and National Service programs receiving assistance under this title,
+ and other service options and their benefits (such as student loan deferment
+ and forgiveness) as appropriate.
+ (d) PARTNERSHIP PROGRAM- If an applicant under this section intends to operate
+ an adult role partnership program, under section 111(a)(4) such applicant,
+ in addition to the information required to be included in the application
+ under subsection (b), shall describe the students who are to be assisted
+ through such program, including the ages and grade levels of such students.
+SEC. 115. PRIORITY; PRIVATE SCHOOL PARTICIPATION.
+ (a) IN GENERAL- In providing assistance under this subtitle, the State
+ educational agency, or the Commission if section 111(b) applies, shall give
+ priority to applications that describe programs that--
+ (1) involve participants in the design and operation of the program;
+ (2) are in the greatest need of assistance, such as programs targeting
+ low-income areas;
+ (3) involve students from both public and private elementary and secondary
+ schools or individuals of different ages, races, sexes, ethnic groups,
+ disabilities and economic backgrounds serving together;
+ (4) are integrated into the academic program; or
+ (5) involve a focus on substance abuse prevention or school drop-out
+ prevention.
+ (b) ADULT VOLUNTEER AND PARTNERSHIP PROGRAM- In the case of an adult
+ volunteer and partnership program (as described in section 111(a)(4)) the
+ State educational agency, or the Commission, if section 111(b) applies,
+ shall give priority to applications that contain a description of programs--
+ (1) that involve older Americans or parents as adult volunteers;
+ (2) that involve a partnership between an educational institution and a
+ private business in the community;
+ (3) that include a focus on substance abuse prevention, school drop-out
+ prevention, or nutrition; or
+ (4) that will improve basic skills and reduce illiteracy.
+ (c) PARTICIPATION OF CHILDREN AND TEACHERS FROM PRIVATE SCHOOLS-
+ (1) IN GENERAL- To the extent consistent with the number of children in the
+ State or in the school district of the local educational agency involved
+ who are enrolled in private nonprofit elementary and secondary schools,
+ such State or agency shall (after consultation with appropriate private
+ school representatives) make provision--
+ (A) for the inclusion of services and arrangements for the benefit of such
+ children so as to assure the equitable participation of such children in
+ the programs or projects implemented to carry out the purposes and provide
+ the benefits described in this subtitle; and
+ (B) for the training of the teachers of such children so as to assure
+ the equitable participation of such teachers in the programs or projects
+ implemented to carry out the purposes and provide the benefits described
+ in this subtitle.
+ (2) WAIVER- If a State or local educational agency or institution of higher
+ education is prohibited by law from providing for the participation of
+ children or teachers from private nonprofit schools as required by paragraph
+ (1), or if the Secretary determines that a State or local educational agency
+ substantially fails or is unwilling to provide for such participation on
+ an equitable basis, the Secretary shall waive such requirements and shall
+ arrange for the provision of services to such children and teachers. Such
+ waivers shall be subject to consultation, withholding, notice, and judicial
+ review requirements in accordance with section 1017 of the Elementary and
+ Secondary Education Act of 1965.
+SEC. 116. FEDERAL AND LOCAL CONTRIBUTIONS.
+ (a) FEDERAL SHARE-
+ (1) IN GENERAL- The Federal share of a grant or contract for a project
+ under this subtitle may not exceed--
+ (A) 90 percent of the total cost of a project for the first year for which
+ the project receives assistance under this subtitle;
+ (B) 80 percent of the total cost of a project for the second year for which
+ the project receives assistance under this subtitle; and
+ (C) 70 percent of the total cost of a project for the third year for which
+ the project receives assistance under this subtitle.
+ (2) CALCULATION- The State and local share of the costs of a project may
+ be in cash or in kind fairly evaluated, including facilities, equipment,
+ or services.
+ (b) WAIVER- The Secretary may waive the requirements of subsection (a)
+ with respect to any project in any fiscal year if the Secretary determines
+ that such a waiver would be equitable due to a lack of available financial
+ resources at the local level.
+SEC. 117. USES OF FUNDS; LIMITATIONS.
+ (a) STATE USES OF FUNDS- The State educational agency may reserve, from
+ funds made available to such agency under this subtitle--
+ (1) not more than 5 percent of such funds for administrative costs for any
+ fiscal year;
+ (2) not more than 10 percent of such funds to build capacity through training,
+ technical assistance, curriculum development, and coordination activities,
+ described in section 111(a)(1);
+ (3) not less than 60 percent of such funds to carry out school-based service
+ learning programs described in section 111(a)(2);
+ (4) not less than 15 percent of such funds to carry out community-based
+ service programs described in section 111(a)(3); and
+ (5) not more than 10 percent of such funds to carry out adult volunteer
+ and partnership programs described in section 111(a)(4).
+ (b) AUTHORIZED ACTIVITIES FOR LOCAL PROJECTS-
+ (1) IN GENERAL- Local projects may use funds made available under
+ this subtitle for the supervision of participating students, program
+ administration, training, reasonable transportation costs, insurance,
+ and for other reasonable expenses.
+ (2) LIMITATION- Funds made available under this subtitle may not be used to
+ pay any stipend, allowance, or other financial support to any participant,
+ except reimbursement for transportation, meals, and other reasonable
+ out-of-pocket expenses directly related to participation in a program
+ assisted under this subtitle.
+PART II--HIGHER EDUCATION INNOVATIVE PROJECTS FOR COMMUNITY SERVICE
+SEC. 118. HIGHER EDUCATION INNOVATIVE PROJECTS FOR COMMUNITY SERVICE.
+ (a) PURPOSE- It is the purpose of this part to support innovative projects
+ to encourage students to participate in community service activities while
+ such students are attending institutions of higher education.
+ (b) GENERAL AUTHORITY- The Commission, in consultation with the Secretary
+ of Education, is authorized to make grants to, and enter into contracts
+ with, institutions of higher education (including a combination of such
+ institutions) and other public agencies and nonprofit organizations working
+ in partnership with institutions of higher education--
+ (1) to enable the institution to create or expand community service activities
+ for students attending that institution;
+ (2) to encourage student-initiated and student-designed community service
+ projects;
+ (3) to facilitate the integration of community service into academic
+ curricula, so that students can obtain credit for their community service
+ activities;
+ (4) to encourage students to participate in community service activities
+ that will engender a sense of social responsibility and commitment to
+ the community;
+ (5) to encourage students to assist in the teaching of individuals with
+ limited basic skills or an inability to read and write; and
+ (6) to provide for the training of teachers, prospective teachers, related
+ education personnel, and community leaders in the skills necessary to
+ develop, supervise, and organize community service activities, taking
+ into consideration the particular needs of a community and the ability
+ of the grantee to actively involve a major part of the community in, and
+ substantially benefit the community by, the proposed community service
+ activities.
+ (c) FEDERAL SHARE-
+ (1) IN GENERAL- The Federal share of each grant awarded under this section
+ shall not exceed 50 percent of the cost of the community service activities
+ carried out with each such grant.
+ (2) NON-FEDERAL SOURCES- That portion of the costs of programs that receive
+ assistance under this subtitle that are to be paid from sources other than
+ Federal funds may be paid in cash or in kind (fairly evaluated).
+ (d) APPLICATION FOR GRANT- To receive a grant under this subtitle, an
+ applicant shall prepare and submit to the Commission, an application at
+ such time, in such manner, and containing such information as the Commission
+ may reasonably require, including--
+ (1) a description of the proposed program to be established with assistance
+ provided under the grant;
+ (2) a description of the human, educational, environmental or public safety
+ service that participants will perform and the community need that will be
+ addressed under such program;
+ (3) a description of whether or not students will receive academic credit
+ for community service activities under the program;
+ (4) a description of the procedure for training supervisors and participants
+ and for supervising and organizing participants in such proposed program;
+ (5) a description of the procedures to ensure that the proposed program
+ provides participants with an opportunity to reflect on their service
+ experiences;
+ (6) a description of the budget for the program; and
+ (7) assurances that, prior to the placement of a participant in the program,
+ the applicant will consult with any local labor organization representing
+ employees in the area who are engaged in the same or similar work as that
+ proposed to be carried out by such project.
+Subtitle C--American Conservation and Youth Corps
+SEC. 120. SHORT TITLE.
+ This subtitle may be cited as the `American Conservation and Youth Service
+ Corps Act of 1990'.
+SEC. 121. GENERAL AUTHORITY.
+ The Commission may make grants under section 102 to States or local
+ applicants, to the Secretary of Agriculture, to the Secretary of the Interior,
+ or to the Director of ACTION for the creation or expansion of full-time or
+ summer youth corps programs.
+SEC. 122. ALLOCATION OF FUNDS.
+ (a) COMPETITIVE GRANT- The Commission shall award grants under this subtitle
+ on a competitive basis to States or Indian tribes that have submitted
+ applications under section 123.
+ (b) DIRECT GRANTS-
+ (1) IN GENERAL- In the case of a State that does not apply for a grant
+ under this subtitle or have an application approved under section 123,
+ the Commission may award grants directly to public or private nonprofit
+ agencies with experience in youth programs within such State.
+ (2) Evaluation-
+ (A) APPLICATION OF CRITERIA- The Commission shall apply the criteria described
+ in section 123 in determining whether to award a grant to a local applicant
+ under this subsection.
+ (B) EQUITABLE ALLOCATION- If more than one local applicant within a State
+ applies for funds, the Commission shall allocate funds among such applicants
+ in such manner as the Commission considers equitable.
+ (3) INDIAN TRIBES- An Indian tribe shall be treated the same as a State
+ for purposes of making grants under this subtitle.
+ (4) GRANT TO FEDERAL AGENCY- If a State has failed to establish a youth
+ corps program and no local youth corps programs exist within such State,
+ the Commission may make a grant to a Federal agency to directly administer
+ a youth corps program.
+ (c) LIMITATION-
+ (1) CAPITAL EQUIPMENT- Not to exceed 10 percent of the amount of assistance
+ made available to a program agency under this subtitle shall be used for
+ the purchase of major capital equipment.
+ (2) ADMINISTRATIVE EXPENSES-
+ (A) BY PROGRAM AGENCY- Not to exceed 5 percent of the amount of assistance
+ made available to a program agency under this subtitle shall be used for
+ administrative expenses.
+ (B) BY STATE- Not to exceed 5 percent of the amount of assistance made
+ available to a State under this subtitle shall be used for administrative
+ expenses.
+ (d) RESERVATION-
+ (1) FEDERAL DISASTER RELIEF- The Commission shall reserve not to exceed 5
+ percent of the amounts made available in each fiscal year to make grants
+ under this subtitle for Federal disaster relief programs.
+ (2) INDIAN TRIBES- The Commission shall reserve not to exceed 1 percent of
+ the amounts made available in each fiscal year to make grants under this
+ subtitle to Indian tribes.
+ (e) EQUITABLE FUNDING OF CONSERVATION AND SERVICE PROGRAMS- The Commission
+ shall award an equal number of grants to conservation corps programs and
+ youth corps programs.
+SEC. 123. STATE APPLICATION.
+ (a) SUBMISSION- To be eligible to receive a grant under this subtitle,
+ a State or Indian tribe (or a local applicant if section 122(b) applies)
+ shall prepare and submit to the Commission, an application at such time,
+ in such manner, and containing such information as the Commission may
+ reasonably require, including the information required under subsection (b).
+ (b) GENERAL CONTENT- An application submitted under subsection (a) shall
+ describe--
+ (1) any youth corps program proposed to be conducted directly by such
+ applicant with assistance provided under this subtitle; and
+ (2) any grant program proposed to be conducted by such State with assistance
+ provided under this subtitle for the benefit of entities within such State.
+ (c) SPECIFIC CONTENT- To receive a grant under this subtitle to directly
+ conduct a youth corps program, each applicant shall include in the application
+ submitted under subsection (a)--
+ (1) a comprehensive description of the objectives and performance goals for
+ the program to be conducted, a plan for managing and funding the program,
+ and a description of the types of projects to be carried out, including a
+ description of the types and duration of training and work experience to
+ be provided by such program;
+ (2) a plan for the certification of the training skills acquired by
+ participants and the awarding of academic credit to participants for
+ competencies developed through training programs or work experience obtained
+ under this subtitle;
+ (3) an age-appropriate learning component for participants that includes
+ procedures that permit participants to reflect on service experiences;
+ (4) an estimate of the number of participants and crew leaders necessary
+ for the proposed program, the length of time that the services of such
+ participants and crew leaders will be required, the support services
+ that will be required for such participants and crew leaders, and a plan
+ for recruiting such participants, including educationally and economically
+ disadvantaged youth, youth with limited basic skills or learning disabilities,
+ homeless youth, youth with disabilities, youth who are in foster care who are
+ becoming too old for foster care, and youth of limited English proficiency;
+ (5) a list of requirements to be imposed on the sponsoring organizations
+ of participants in the program, including a requirement that a sponsoring
+ organization that invests in a program that receives assistance under this
+ subtitle, by making a cash contribution or by providing free training to
+ participants, shall be given preference over a sponsoring organization that
+ does not make such an investment;
+ (6) a description of the manner of appointment and training of sufficient
+ supervisory staff (including participants who have displayed exceptional
+ leadership qualities), who shall provide for other central elements of a
+ youth corps, such as crew structure and a youth development component;
+ (7) a description of a plan to ensure the on-site presence of knowledgeable
+ and competent supervisory personnel at program facilities;
+ (8) a description of the facilities, quarters and board (in the case of
+ residential facilities), limited and emergency medical care, transportation
+ from administrative facilities to work sites, accommodations for individuals
+ with disabilities, and other appropriate services, supplies, and equipment
+ that will be provided by such applicant;
+ (9) a description of the basic standards of work requirements, health,
+ nutrition, sanitation, and safety, and the manner that such standards shall
+ be enforced;
+ (10) a description of the plan to assign participants to facilities as near
+ to the homes of such participants as is reasonable and practicable;
+ (11) an assurance that, prior to the placement of a participant under this
+ subtitle, the program agency will consult with any local labor organization
+ representing employees in the area who are engaged in the same or similar
+ work as that proposed to be carried out by such program;
+ (12) a description of formal social counseling arrangements to be made
+ available to the participant;
+ (13) a plan for ensuring that individuals do not drop out of school for
+ the purpose of participating in a youth corps program; and
+ (14) such other information as the Commission shall require.
+ (d) GRANT PROGRAM- To be eligible to receive a grant under this subtitle, a
+ State shall establish and implement a program to make grants to applicants
+ within the State pursuant to subsection (b)(2) and, in the application
+ submitted under subsection (a), such State shall describe the manner
+ in which--
+ (1) local applicants will be evaluated;
+ (2) service programs within the State will be coordinated;
+ (3) economically and educationally disadvantaged youth, including youth
+ with disabilities, youth with limited basic skills or learning disabilities,
+ youth with limited English proficiency, homeless youth, and youth in foster
+ care who are becoming too old for foster care, will be recruited;
+ (4) programs that receive assistance under this subtitle will be evaluated;
+ (5) the State will encourage cooperation among programs that receive
+ assistance under this subtitle and the appropriate State job training
+ coordinating council established under the Job Training and Partnership Act
+ (29 U.S.C. 1501 et seq.);
+ (6) such State will certify the training skills acquired by each participant
+ and the credit provided to each participant for competencies developed
+ through training programs or work experience obtained under programs that
+ receive assistance under this subtitle; and
+ (7) prior to the placement of a participant under this subtitle, the State
+ will ensure that program agencies consult with each local labor organization
+ representing employees in the area who are engaged in the same or similar
+ work as the work that is proposed to be carried out by such program.
+SEC. 124. FOCUS OF PROGRAMS.
+ (a) IN GENERAL- Programs that receive assistance under this subtitle may
+ carry out activities that--
+ (1) in the case of conservation corps programs, focus on--
+ (A) conservation, rehabilitation, and the improvement of wildlife habitat,
+ rangelands, parks, and recreational areas;
+ (B) urban and rural revitalization, historical and cultural site preservation,
+ and reforestation of both urban and rural areas;
+ (C) fish culture, wildlife habitat maintenance and improvement, and other
+ fishery assistance;
+ (D) road and trail maintenance and improvement;
+ (E) erosion, flood, drought, and storm damage assistance and controls;
+ (F) stream, lake, waterfront harbor, and port improvement;
+ (G) wetlands protection and pollution control;
+ (H) insect, disease, rodent, and fire prevention and control;
+ (I) the improvement of abandoned railroad beds and rights-of-way;
+ (J) energy conservation projects, renewable resource enhancement, and
+ recovery of biomass;
+ (K) reclamation and improvement of strip-mined land;
+ (L) forestry, nursery, and cultural operations; and
+ (M) making public facilities accessible to individuals with disabilities.
+ (2) in the case of human services corps programs, include participant
+ service in--
+ (A) State, local, and regional governmental agencies;
+ (B) nursing homes, hospices, senior centers, hospitals, local libraries,
+ parks, recreational facilities, child and adult day care centers, programs
+ serving individuals with disabilities, and schools;
+ (C) law enforcement agencies, and penal and probation systems;
+ (D) private nonprofit organizations that primarily focus on social service
+ such as community action agencies;
+ (E) activities that focus on the rehabilitation or improvement of public
+ facilities, neighborhood improvements, literacy training that benefits
+ educationally disadvantaged individuals, weatherization of and basic repairs
+ to low-income housing including housing occupied by older adults, energy
+ conservation (including solar energy techniques), removal of architectural
+ barriers to access by individuals with disabilities to public facilities,
+ activities that focus on drug and alcohol abuse education, prevention
+ and treatment, and conservation, maintenance, or restoration of natural
+ resources on publicly held lands; and
+ (F) any other nonpartisan civic activities and services that the Commission
+ determines to be of a substantial social benefit in meeting unmet human,
+ educational, or environmental needs (particularly needs related to poverty)
+ or in the community where volunteer service is to be performed; or
+ (3) encompass the focuses and services described in both paragraphs (1)
+ and (2).
+ (b) INELIGIBLE SERVICE CATEGORIES- To be eligible to receive assistance
+ under this subtitle, the activities conducted through programs referred to
+ in subsection (a) shall not be conducted by any--
+ (1) business organized for profit;
+ (2) labor union;
+ (3) partisan political organization;
+ (4) organization engaged in religious activities, unless such activities do
+ not involve the use of funds provided under this title by program participants
+ and program staff to give religious instruction, conduct worship services,
+ or engage in any form of proselytization; or
+ (5) domestic or personal service company or organization.
+ (c) LIMITATION ON SERVICE- No participant shall perform services in any
+ project for more than a 6-month period. No participant shall remain enrolled
+ in projects assisted under this subtitle for more than 24 months.
+SEC. 125. RELATED PROGRAMS.
+ An activity administered under the authority of the Secretary of Health and
+ Human Services, that is operated for the same purpose as a program eligible to
+ be carried out under this subtitle, is encouraged to use services available
+ under this subtitle.
+SEC. 126. PUBLIC LANDS OR INDIAN LANDS.
+ (a) LIMITATION- To be eligible to receive assistance through a grant provided
+ under this subtitle, a program shall carry out activities on public lands
+ or Indian lands, or result in a public benefit.
+ (b) REVIEW OF APPLICATIONS- In reviewing applications submitted under section
+ 123 that propose programs or projects to be carried out on public lands or
+ Indian lands, the Commission shall consult with the Secretary of the Interior.
+ (c) CONSISTENCY- A program carried out with assistance provided under this
+ subtitle for conservation, rehabilitation, or improvement of any public
+ lands or Indian lands shall be consistent with--
+ (1) the provisions of law and policies relating to the management and
+ administration of such lands, and all other applicable provisions of law; and
+ (2) all management, operational, and other plans and documents that govern
+ the administration of such lands.
+ (d) PARTICIPATION BY OTHER CONSERVATION PROGRAMS- Any land or water
+ conservation program (or any related program) administered in any State
+ under the authority of any Federal program is encouraged to use services
+ available under this part to carry out its program.
+SEC. 127. TRAINING AND EDUCATION SERVICES.
+ (a) ASSESSMENT OF SKILLS- Each program agency shall assess the educational
+ level of participants at the time of their entrance into the program, using
+ any available records or simplified assessment means or methodology and
+ shall, where appropriate, refer such participants for testing for specific
+ learning disabilities.
+ (b) ENHANCEMENT OF SKILLS- Each program agency shall, through the programs
+ and activities administered under this subtitle, enhance the educational
+ skills of participants.
+ (c) PROVISION OF PRE-SERVICE AND IN-SERVICE TRAINING AND EDUCATION-
+ (1) REQUIREMENT- Each program agency shall use not less than 10 percent of the
+ assistance made available to such agency under this subtitle in each fiscal
+ year to provide pre-service and in-service training and educational materials
+ and services for participants in such a program. Program participants shall
+ be provided with information concerning the benefits to the community that
+ result from the activities undertaken by such participants.
+ (2) AGREEMENTS FOR ACADEMIC STUDY- A program agency may enter into
+ arrangements with academic institutions or education providers, including--
+ (A) local education agencies;
+ (B) community colleges;
+ (C) 4-year colleges;
+ (D) area vocational-technical schools; and
+ (E) community based organizations;
+to evaluate the basic skills of participants and to make academic study
+available to participants to enable such participants to upgrade literacy
+skills, to obtain high school diplomas or the equivalent of such diplomas,
+to obtain college degrees, or to enhance employable skills.
+ (3) COUNSELING- Career and educational guidance and counseling shall
+ be provided to a participant during a period of in-service training as
+ described in this subsection. Each graduating participant shall be provided
+ with counseling with respect to additional study, job skills training or
+ employment and shall be provided job placement assistance where appropriate.
+ (4) PRIORITY FOR PARTICIPANTS WITHOUT HIGH SCHOOL DIPLOMAS- A program
+ agency shall give priority to participants who have not obtained a high
+ school diploma or the equivalent of such diploma, in providing services
+ under this subsection.
+ (d) STANDARDS AND PROCEDURES-
+ (1) CONSISTENCY WITH STATE AND LOCAL REQUIREMENTS- Appropriate State and
+ local officials shall certify that standards and procedures with respect
+ to the awarding of academic credit and the certification of educational
+ attainment in programs conducted under subsection (c) are consistent with
+ the requirements of applicable State and local law and regulations.
+ (2) ACADEMIC STANDARDS- The standards and procedures described in paragraph
+ (1) shall provide that an individual serving in a program that receives
+ assistance under this subtitle--
+ (A) who is not a high school graduate, participate in an educational
+ curriculum so that such individual can earn a high school diploma or the
+ equivalent of such diploma; and
+ (B) may arrange to receive academic credit in recognition of the education
+ and skills obtained from service satisfactorily completed.
+SEC. 128. AMOUNT OF AWARD; MATCHING REQUIREMENT.
+ (a) AMOUNT OF AWARD- In determining the amount of a grant to be awarded to
+ an applicant under this subtitle, the Commission shall consider--
+ (1) the number of participants to be served;
+ (2) the youth unemployment rate in the State; and
+ (3) the type of project or service proposed to be carried out with the
+ assistance provided under this subtitle.
+ (b) MATCHING REQUIREMENT-
+ (1) FEDERAL SHARE- The Federal share of the cost of activities for which a
+ grant is made to a State or local applicant under this subtitle shall not
+ exceed 75 percent of the total cost of such activities.
+ (2) DEMONSTRATION OF EFFECTIVENESS- In addition to the matching requirement
+ in paragraph (1), the State or local applicant shall demonstrate to the
+ satisfaction of the Commission that the effectiveness of the project will
+ be enhanced by the use of Federal funds.
+SEC. 129. PREFERENCE FOR CERTAIN PROJECTS.
+ (a) IN GENERAL- In the consideration of applications submitted under section
+ 123, the Commission shall give preference to programs that--
+ (1) will provide long-term benefits to the public;
+ (2) will instill a work ethic and a sense of public service in the
+ participants;
+ (3) will be labor intensive, and involve youth operating in crews;
+ (4) can be planned and initiated promptly; and
+ (5) will enhance skills development and educational level and opportunities
+ for the participants.
+ (b) SPECIAL RULE- In the consideration of applications under this subtitle the
+ Commission shall ensure the equitable treatment of both urban and rural areas.
+SEC. 130. AGE AND CITIZENSHIP CRITERIA FOR ENROLLMENT.
+ (a) AGE AND CITIZENSHIP- Enrollment in programs that receive assistance
+ under this subtitle shall be limited to individuals who, at the time of
+ enrollment, are--
+ (1) not less than 16 years nor more than 25 years of age, except that summer
+ programs may include individuals not less than 15 years nor more than 21
+ years of age at the time of the enrollment of such individuals; and
+ (2) citizens or nationals of the United States or lawful permanent resident
+ aliens of the United States.
+ (b) PARTICIPATION OF DISADVANTAGED YOUTH- Programs that receive assistance
+ under this subtitle shall ensure that educationally and economically
+ disadvantaged youth, including youth in foster care who are becoming too
+ old for foster care, youth with disabilities, youth with limited English
+ proficiency, youth with limited basic skills or learning disabilities and
+ homeless youth, are offered opportunities to enroll.
+ (c) SPECIAL CORPS MEMBERS- Notwithstanding subsection (a)(1), program
+ agencies may enroll a limited number of special corps members over age 25
+ so that the corps may draw on their special skills to fulfill the purposes
+ of this Act. Programs are encouraged to consider senior citizens as special
+ corps members.
+ (d) JOINT PROJECTS WITH SENIOR CITIZENS ORGANIZATIONS- Program agencies
+ shall use not more than 2 percent of amounts received under this subtitle to
+ conduct joint projects with senior citizens organizations to enable senior
+ citizens to serve as mentors for youth participants.
+ (e) CONSTRUCTION- Nothing in subsection (a) shall be construed to prohibit
+ any program agency from limiting enrollment to any age subgroup within the
+ range specified in subsection (a)(1).
+SEC. 131. USE OF VOLUNTEERS.
+ Program agencies may use volunteer services for purposes of assisting
+ projects carried out under this subtitle and may expend funds made available
+ for those purposes to the agency, including funds made available under this
+ subtitle, to provide for services or costs incidental to the utilization of
+ such volunteers, including transportation, supplies, lodging, recruiting,
+ training, and supervision. The use of volunteer services under this section
+ shall be subject to the condition that such use does not result in the
+ displacement of any participant.
+SEC. 132. POST-SERVICE BENEFITS.
+ The program agency shall provide post-service education and training benefits
+ (such as scholarships and grants) for each participant in an amount that is
+ not in excess of $100 per week, or in excess of $5,000 per year, whichever
+ is less.
+SEC. 133. LIVING ALLOWANCE.
+ (a) FULL-TIME SERVICE-
+ (1) IN GENERAL- From assistance provided under this subtitle, each participant
+ in a full-time youth corps program that receives assistance under this
+ subtitle shall receive a living allowance of not more than an amount equal to
+ 100 percent of the poverty line for a family of two (as defined in section
+ 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2))).
+ (2) NON-FEDERAL SOURCES- Notwithstanding paragraph (1), a program agency
+ may provide participants with additional amounts that are made available
+ from non-Federal sources.
+ (b) REDUCTION IN EXISTING PROGRAM BENEFITS-
+ (1) IN GENERAL- Nothing in this section shall be construed to require a
+ program in existence on the date of enactment of this Act to decrease
+ any stipends, salaries, or living allowances provided to participants
+ under such program so long as the amount of any such stipends, salaries,
+ or living allowances that is in excess of the levels provided for in this
+ section are paid from non-Federal sources.
+ (2) FAIR LABOR STANDARDS ACT OF 1938- For purposes of the Fair Labor Standards
+ Act of 1938, residential youth corps programs under this subtitle will be
+ considered an organized camp.
+ (c) HEALTH INSURANCE- In addition to the living allowance provided under
+ subsection (a), program agencies are encouraged to provide health insurance
+ to each participant in a full-time youth corps program who does not otherwise
+ have access to health insurance.
+ (d) FACILITIES, SERVICES, AND SUPPLIES-
+ (1) IN GENERAL- The program agency may deduct, from amounts provided under
+ subsections (a) and (c) to a participant, a reasonable portion of the costs
+ of the rates for any room and board that is provided for such participant
+ at a residential facility. Such deducted funds shall be deposited into
+ rollover accounts that shall be used solely to defray the costs of room
+ and board for participants.
+ (2) EVALUATION- The program agency shall establish the amount of the
+ deductions and rates under paragraph (1) after evaluating the costs of
+ providing such room and board to the participant.
+ (3) DUTIES OF PROGRAM AGENCY- A program agency may provide facilities,
+ quarters, and board and shall provide limited and emergency medical care,
+ transportation from administrative facilities to work sites, accommodations
+ for individuals with disabilities, and other appropriate services, supplies,
+ and equipment to each participant.
+ (4) OTHER FEDERAL AGENCIES-
+ (A) IN GENERAL- The Commission may provide services, facilities, supplies,
+ and equipment, including any surplus food and equipment available from
+ other Federal programs, to any program agency carrying out projects under
+ this subtitle.
+ (B) SECRETARY OF DEFENSE- Whenever possible, the Commission shall make
+ arrangements with the Secretary of Defense to have logistical support provided
+ by a military installation near the work site, including the provision of
+ temporary tent centers where needed, and other supplies and equipment.
+ (5) HEALTH AND SAFETY STANDARDS- The Commission and program agencies shall
+ establish standards and enforcement procedures concerning the health and
+ safety of participants for all projects, consistent with Federal, State,
+ and local health and safety standards.
+SEC. 134. JOINT PROGRAMS.
+ (a) DEVELOPMENT- The Commission may develop, in cooperation with the heads of
+ other Federal agencies, regulations designed to permit, where appropriate,
+ joint programs in which activities supported with assistance made available
+ under this subtitle are coordinated with activities supported with assistance
+ made available under programs administered by the heads of such agencies
+ (including the Job Training Partnership Act (29 U.S.C. 1501 et seq.)).
+ (b) STANDARDS- Regulations promulgated under subsection (a) shall establish
+ standards for the approval of joint programs that meet both the purposes
+ of this title and the purposes of such statutes under which assistance is
+ made available to support such projects.
+ (c) OPERATION OF MANAGEMENT AGREEMENTS- Program agencies may enter into
+ contracts and other appropriate arrangements with local government agencies
+ and nonprofit organizations for the operation or management of any projects
+ or facilities under the program.
+ (d) COORDINATION- The Commission and program agencies carrying out programs
+ under this subtitle shall coordinate the programs with related Federal,
+ State, local, and private activities.
+SEC. 135. FEDERAL AND STATE EMPLOYEE STATUS.
+ (a) IN GENERAL- Participants and crew leaders shall be responsible to,
+ or be the responsibility of, the program agency administering the program
+ on which such participants, crew leaders, and volunteers work.
+ (b) NON-FEDERAL EMPLOYEES-
+ (1) IN GENERAL- Except as otherwise provided in this subsection, a participant
+ or crew leader in a program that receives assistance under this subtitle
+ shall not be considered a Federal employee and shall not be subject to the
+ provisions of law relating to Federal employment.
+ (2) WORK-RELATED INJURY- For purposes of subchapter I of chapter 81 of title
+ 5, United States Code, relating to the compensation of Federal employees
+ for work injuries, a participant or crew leader serving in a program that
+ receives assistance under this subtitle shall be considered an employee
+ of the United States within the meaning of the term `employee' as defined
+ in section 8101 of title 5, United States Code, and the provision of that
+ subchapter shall apply, except--
+ (A) the term `performance of duty', as used in such subchapter, shall not
+ include an act of a participant or crew leader while absent from the assigned
+ post of duty of such participant or crew leader, except while participating
+ in an activity authorized by or under the direction and supervision of a
+ program agency (including an activity while on pass or during travel to or
+ from such post of duty); and
+ (B) compensation for disability shall not begin to accrue until the day
+ following the date that the employment of the injured participant or crew
+ leader is terminated.
+ (3) TORT CLAIMS PROCEDURE- For purposes of chapter 171 of title 28,
+ United States Code, relating to tort claims procedure, a participant or
+ crew leaders assigned to a youth corps program for which a grant has been
+ made to the Secretary of Agriculture, Secretary of the Interior, or the
+ Director of ACTION, shall be considered an employee of the United States
+ within the meaning of the term `employee of the government' as defined in
+ section 2671 of such title.
+ (4) ALLOWANCE FOR QUARTERS- For purposes of section 5911 of title 5, United
+ States Code, relating to allowances for quarters, a participant or crew
+ leader shall be considered an employee of the United States within the
+ meaning of the term `employee' as defined in paragraph (3) of subsection
+ (a) of such section.
+ (c) AVAILABILITY OF APPROPRIATION- Contract authority under this subtitle
+ shall be subject to the availability of appropriations. Assistance made
+ available under this subtitle shall only be used for activities that are
+ in addition to those which would otherwise be carried out in the area in
+ the absence of such funds.
+SEC. 136. REGULATIONS AND ASSISTANCE.
+ (a) IN GENERAL- Before the end of the 120-day period beginning on the date
+ of the enactment of this Act, the Commission shall promulgate regulations
+ necessary to implement the program established by this subtitle.
+ (b) NOTICE AND COMMENT-
+ (1) IN GENERAL- Prior to the end of the 30-day period beginning on the date
+ of the enactment of this Act, the Commission shall establish procedures to
+ provide program agencies and other interested parties (including the general
+ public) with adequate notice and an opportunity to comment on and participate
+ in the formulation of regulations promulgated under subsection (a).
+ (2) REPORTING- The regulations promulgated under subsection (a) shall
+ include provisions to assure uniform reporting on--
+ (A) the activities and accomplishments of Youth Corps programs;
+ (B) the demographic characteristics of participants in the Youth Corps; and
+ (C) such other information as may be necessary to prepare the annual report
+ required by section 172.
+Subtitle D--National and Community Service
+SEC. 140. SHORT TITLE.
+ This subtitle may be cited as the `National and Community Service Act'.
+SEC. 141. GENERAL AUTHORITY.
+ The Commission may make grants under section 102 to States for the creation
+ of full- and part-time national and community service programs.
+SEC. 142. GRANTS.
+ (a) CRITERIA FOR RECEIVING APPLICATIONS- In determining whether to award
+ a grant to a State under section 141, the Commission shall consider--
+ (1) the ability of the proposed program of such State to serve as an
+ effective model for a large-scale national service program;
+ (2) the quality of the application of such State, including the plan of
+ such State for training, recruitment, placement, and data collection;
+ (3) the extent that the proposed program builds on existing programs; and
+ (4) the expediency with which the State proposes to make the program
+ operational.
+ (b) DIVERSITY- The Commission shall ensure that programs receiving assistance
+ under this subtitle are geographically diverse and include programs in both
+ urban and rural States.
+ (c) TRAINING AND SKILLS- The Commission shall ensure that some of the
+ programs funded under this subtitle enroll individuals who have completed
+ undergraduate education or specialized post-secondary training and whose
+ training and skills enable them to provide needed services in the State.
+ (d) COMPOSITION OF PROGRAMS- The Commission shall ensure that not less
+ than 25 percent of the programs that receive assistance under this subtitle
+ include full-time, part-time and special senior service participants.
+ (e) DESIGN OF PROGRAMS- States shall design programs, consistent with the
+ provisions of this Act, that meet the unique needs of the State, which may
+ include programs that limit the type of service participants may perform
+ or limit the age of participants to a narrower age subgroup.
+ (f) STATE APPLICATION FOR GRANT- To receive a grant under section 141, a
+ State shall prepare and submit, to the Commission, an application at such
+ time, in such manner, and containing such information as the Commission
+ may reasonably require, including--
+ (1) a description of the State administrative plan for the implementation
+ of a program with assistance provided under this subtitle, including such
+ functions, if any, that will be carried out by public and private nonprofit
+ organizations pursuant to a grant or contract;
+ (2) a description of the manner in which an ethnically and economically
+ diverse group of participants, including economically and educationally
+ disadvantaged individuals, college-bound youth, individuals with disabilities,
+ youth in foster care who are becoming too old for foster care, and employed
+ individuals, shall be recruited and selected for participation in a program
+ receiving assistance under this subtitle;
+ (3) a description of the procedures for training supervisors and participants
+ and for supervising and organizing participants in such program;
+ (4) a description of the procedures to ensure that the program provides
+ participants with an opportunity to reflect on their service experience;
+ (5) a description of the geographical areas within such State in which the
+ program would be operated to provide the optimum match between the need
+ for services and the anticipated supply of participants;
+ (6) a description of the plan for placing such participants in teams or
+ making individual placements in such program;
+ (7) assurances that, prior to such placement, the State will consult with any
+ local labor organization representing employees in the area who are engaged in
+ the same or similar work as that proposed to be carried out by such program;
+ (8) assurances that, prior to such placement, such State will consult
+ with employees at the proposed project site who are engaged in the same or
+ similar work as that proposed to be carried out by such program;
+ (9) a description of the anticipated number of full- and part-time
+ participants and special senior service members in such program;
+ (10) a plan for the recruitment and selection of sponsoring organizations
+ that will receive participants under programs that receive assistance under
+ this subtitle;
+ (11) a description of the procedures for matching such participants with
+ such sponsoring organizations;
+ (12) a description of the procedures to be used to assure that sponsoring
+ organizations that are not matched with participants shall be provided
+ with information concerning the VISTA program and the programs established
+ under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001
+ et seq.);
+ (13) the State budget for the program;
+ (14) a plan for evaluating the program and assurances that such State will
+ fully cooperate with any evaluation undertaken by the Commission pursuant
+ to section 178; and
+ (15) any other information as the Commission may reasonably require.
+ (g) NUMBER OF STATES-
+ (1) IN GENERAL- The Commission shall ensure that not more than five States
+ are authorized to operate full-time programs and not more than five States
+ are authorized to operate part-time programs in fiscal year 1991 under
+ this subtitle.
+ (2) SINGLE PROGRAM- For purposes of paragraph (1), a State operating a
+ single national service program with both full- and part-time options shall
+ be counted as a State operating a full-time program and a State operating
+ a part-time program.
+ (3) COOPERATIVE ARRANGEMENT- For purposes of paragraph (1), a State
+ operating a national service program involving a cooperative arrangement
+ with a multi-State organization or with sites in more than one State shall
+ be counted as a single State.
+ (4) AUTHORIZED PROGRAMS IN FISCAL YEAR 1991- The Commission shall ensure
+ that not more than eight States are authorized to operate programs in fiscal
+ year 1991 under this subtitle.
+ (h) INDIAN TRIBES- An Indian tribe shall be treated the same as a State
+ for purposes of making grants under this subtitle.
+SEC. 143. TYPES OF NATIONAL SERVICE.
+ A participant in a program that receives assistance under this subtitle shall
+ perform national service to meet unmet educational, human, environmental,
+ and public safety needs, especially those needs relating to poverty.
+SEC. 144. TERMS OF SERVICE.
+ (a) LENGTH OF SERVICE-
+ (1) PART-TIME- An individual performing part-time national service under this
+ subtitle shall agree to perform community service for not less than 3 years.
+ (2) FULL-TIME- An individual performing full-time national service under
+ this subtitle shall agree to perform community service for not less than
+ 1 year nor more than 2 years, at the discretion of such individual.
+ (3) SPECIAL SENIOR SERVICE- A special senior service participant performing
+ national service under this subtitle shall serve for a period of time as
+ determined by the Commission.
+ (b) PARTIAL COMPLETION OF SERVICE- If the State releases a participant
+ from completing a term of service in a program receiving assistance under
+ this subtitle for compelling personal circumstances as demonstrated by such
+ participant, the Commission may provide such participant with that portion
+ of the financial assistance described in section 146 that corresponds to
+ the quantity of the service obligation completed by such individual.
+ (c) TERMS OF SERVICE-
+ (1) PART-TIME- A participant performing part-time national service under
+ this subtitle shall serve for--
+ (A) 2 weekends each month and 2 weeks during the year; or
+ (B) an average of 9 hours per week each year of service.
+ (2) FULL-TIME- A participant performing full-time national service under this
+ subtitle shall serve for not less than 40 hours per week each year of service.
+ (3) SPECIAL SENIOR SERVICE- A special senior service participant performing
+ national service under this subtitle shall serve either part- or full-time
+ as permitted by the Commission.
+SEC. 145. ELIGIBILITY.
+ (a) PART-TIME-
+ (1) REQUIREMENTS- An individual may serve in a part-time national service
+ program under this subtitle if such individual--
+ (A) is 17 years of age or older; and
+ (B) is a citizen of the United States or lawfully admitted for permanent
+ residence.
+ (2) PRIORITY- In selecting applicants for a part-time program, States shall
+ give priority to applicants who are currently employed.
+ (b) FULL-TIME- An individual may serve in a full-time national service
+ program under this subtitle if such individual--
+ (1) is 17 years of age or older;
+ (2) has received a high school diploma or the equivalent of such diploma,
+ or agrees to achieve a high school diploma or the equivalent of such diploma
+ while participating in the program; and
+ (3) is a citizen of the United States or lawfully admitted for permanent
+ residence.
+ (c) SPECIAL SENIOR SERVICE- An individual may serve as a special senior
+ service member under this subtitle if such individual--
+ (1) is 60 years of age or older; and
+ (2) meets the eligibility criteria for special senior service membership
+ established by the Commission.
+SEC. 146. POST-SERVICE BENEFITS.
+ (a) PART-TIME-
+ (1) FEDERAL SHARE- The Commission shall annually provide to each part-time
+ participant a nontransferrable post-service benefit that is equal in value to
+ $1,000 for each year of service that such participant provides to the program.
+ (2) STATE SHARE-
+ (A) IN GENERAL- The State shall annually provide to each part-time participant
+ a nontransferrable post-service benefit that is equal in value to $1,000
+ for each year of service that such participant provides to the program.
+ (B) WAIVER- A State may apply for a waiver to reduce the amount of the
+ post-service benefit to an amount that is equal to not less than the average
+ annual tuition and required fees at 4-year public institutions of higher
+ education within such State.
+ (3) CONSTRUCTION- Nothing in this subsection shall be construed to prevent a
+ State from using funds made available from non-Federal sources to increase
+ the amount of post-service benefits provided under paragraph (1) to an
+ amount in excess of that described in such paragraph.
+ (b) FULL-TIME-
+ (1) FEDERAL SHARE- The Commission shall annually provide to each full-time
+ participant a nontransferrable post-service benefit that is equal in value to
+ $2,500 for each year of service that such participant provides to the program.
+ (2) STATE SHARE-
+ (A) IN GENERAL- The State shall annually provide to each full-time participant
+ a nontransferrable post-service benefit that is equal in value to $2,500
+ for each year of service that such participant provides to the program.
+ (B) WAIVER- A State may apply for a waiver to reduce the amount of the
+ post-service benefit to an amount that is equal to not less than the average
+ annual tuition, required fees, and room and board costs at 4-year public
+ institutions of higher education within such State.
+ (3) CONSTRUCTION- Nothing in this subsection shall be construed to prevent a
+ State from using funds made available from non-Federal sources to increase
+ the amount of post-service benefits provided under paragraph (1) to an
+ amount in excess of that described in such paragraph.
+ (c) SPECIAL SENIOR SERVICE PARTICIPANT- A special senior service participant
+ shall be ineligible to receive post-service benefits under this section.
+ (d) INDEXING- The Commission shall increase the value of post-service
+ benefits provided under this section in each fiscal year based on the
+ increase in the costs associated with attending a 4-year institution of
+ higher education during that fiscal year. The Commission shall determine
+ such increases in costs based on information made available by the Bureau
+ of Labor Statistics and the National Center for Education Statistics.
+ (e) POST-SERVICE BENEFIT-
+ (1) PART-TIME- A post-service benefit provided under subsection (a) shall
+ only be used for--
+ (A) payment of a student loan from Federal or non-Federal sources;
+ (B) downpayment or closing costs associated with purchasing a first home; or
+ (C) tuition at an institution of higher education on a full-time basis,
+ or to pay the expenses incurred in the full-time participation in an
+ apprenticeship program approved by the appropriate State agency.
+ (2) FULL-TIME- A post-service provided under subsection (b) shall only be
+ used for--
+ (A) payment of a student loan from Federal or non-Federal sources; or
+ (B) tuition, room and board, books and fees, and other costs associated with
+ attendance (pursuant to section 472 of the Higher Education Act of 1965
+ (20 U.S.C. 1087ll)) at an institution of higher education on a full-time
+ basis, or to pay the expenses incurred in the full-time participation in
+ an apprenticeship program approved by the appropriate State agency.
+SEC. 147. LIVING ALLOWANCE.
+ (a) FULL-TIME SERVICE-
+ (1) IN GENERAL- From assistance provided under this subtitle, each participant
+ in a full-time national service program receiving assistance under this
+ subtitle shall receive a living allowance of not more than an amount equal to
+ 100 percent of the poverty line for a family of two (as defined in section
+ 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2))).
+ (2) NON-FEDERAL SOURCES- Notwithstanding paragraph (1), a program agency
+ may provide participants with additional amounts that are made available
+ from non-Federal sources.
+ (b) REDUCTION IN EXISTING PROGRAM BENEFITS- Nothing in this section shall
+ be construed to require a program in existence on the date of enactment of
+ this Act to decrease any stipends, salaries, or living allowances provided
+ to participants under such program.
+ (c) HEALTH INSURANCE- In addition to the living allowance provided under
+ subsection (a), grantees are encouraged to provide health insurance to each
+ participant in a full-time national service program who does not otherwise
+ have access to health insurance.
+ (d) SPECIAL SENIOR SERVICE PARTICIPANT-
+ (1) FULL-TIME- Each full-time special senior service participant shall
+ receive a living allowance equal to the living allowance provided to
+ full-time participants under subsection (a), and such other assistance as
+ the Commission considers necessary and appropriate for a special senior
+ service participant to carry out the service obligation of such participant.
+ (2) PART-TIME- Each part-time special senior service participant shall
+ receive a living allowance equal to a share of such allowance offered to a
+ full-time special senior service participant under paragraph (1), that has
+ been prorated according to the number of hours such part-time participant
+ serves in the program, and such other assistance that the Commission considers
+ necessary and appropriate for a special senior service participant to carry
+ out the service obligation of such participant.
+SEC. 148. TRAINING.
+ (a) PROGRAM TRAINING-
+ (1) IN GENERAL- Each participant shall receive 3 weeks of training provided
+ by the Commission in cooperation with the State.
+ (2) CONTENTS OF TRAINING SESSION- Each training session described in paragraph
+ (1) shall--
+ (A) orient each participant in the nature, philosophy, and purpose of
+ the program;
+ (B) build an ethic of community service; and
+ (C) train each participant to effectively perform the assigned program task
+ of such participant by providing--
+ (i) general training in citizenship and civic and community service; and
+ (ii) if feasible, specialized training for the type of service that each
+ participant will perform.
+ (b) ADDITIONAL TRAINING- Each State may provide additional training for
+ participants as such State determines necessary.
+ (c) AGENCY OR ORGANIZATION TRAINING- Each participant shall receive
+ training from the sponsoring organization in skills relevant to the work
+ to be conducted.
+ (d) ACCOMMODATIONS FOR INDIVIDUALS WITH DISABILITIES- In accordance with
+ the nondiscrimination provisions of section 175, each training program
+ shall provide reasonable accommodations for individuals with disabilities.
+SEC. 149. PUBLIC-PRIVATE PARTNERSHIP.
+ The Commission shall consider and develop opportunities for cooperation
+ between public and private entities in the funding and implementation of
+ a program receiving assistance under this subtitle, including cost-sharing
+ arrangements with sponsoring organizations.
+SEC. 150. IN-SERVICE EDUCATION BENEFITS.
+ Each State that receives assistance under this subtitle shall provide to
+ each participant enrolled in a full-time program in-service educational
+ services and materials to enable such participant to obtain a high school
+ diploma or the equivalent of such diploma.
+Subtitle E--Innovative and Demonstration Programs and Projects
+PART I--LIMITATION ON GRANTS
+SEC. 155. LIMITATION ON GRANTS.
+ The Commission shall make grants for not fewer than three programs authorized
+ in this subtitle.
+PART II--GOVERNORS' INNOVATIVE SERVICE PROGRAMS
+SEC. 156. GENERAL AUTHORITY.
+ The Commission may make grants under section 102 to States or Indians tribes
+ for the creation of innovative volunteer and community service programs.
+SEC. 157. GRANTS.
+ (a) CRITERIA FOR RECEIVING APPLICATIONS- In determining whether to award
+ a grant under section 156, the Commission shall consider--
+ (1) the ability of the proposed program to serve as an effective model;
+ (2) the quality of the application submitted for the grant;
+ (3) the extent to which the proposed program builds on existing programs; and
+ (4) the degree to which the program responds to human, educational,
+ environmental and public safety needs in an innovative manner.
+ (b) AUTHORIZED ACTIVITIES- Grants under this part may be used for--
+ (1) enhancing volunteer and community service programs;
+ (2) demonstration programs;
+ (3) research concerning, assessment of, and evaluation of service programs;
+ (4) coordination of service programs;
+ (5) technical assistance;
+ (6) training and staff development; and
+ (7) collection and dissemination of information concerning service programs.
+ (c) APPLICATION FOR GRANT- To receive a grant under this part, a State or
+ Indian tribe shall prepare and submit to the Commission, an application at
+ such time, in such manner, and containing such information as the Commission
+ may reasonably require, including--
+ (1) a description of the proposed program to be established with assistance
+ provided under the grant;
+ (2) a description of the human, educational, environmental or public safety
+ service that participants will perform and the State or community need that
+ will be addressed under such proposed program;
+ (3) a description of the target population of participants and how they
+ will be recruited;
+ (4) a description of the procedure for training supervisors and participants
+ and for supervising and organizing participants in such proposed program;
+ (5) a description of the procedures to ensure that the proposed program
+ provides participants with an opportunity to reflect on their service
+ experiences;
+ (6) a description of the budget for the program;
+ (7) assurances that, prior to the placement of a participant in the program,
+ the applicant will consult with any local labor organization representing
+ employees in the area who are engaged in the same or similar work as that
+ proposed to be carried out by such project; and
+ (8) assurances that, prior to the placement of a participant in a program,
+ the applicant will consult with employees at the proposed program site who
+ are engaged in the same or similar work as that proposed to be carried out
+ by such program.
+PART III--PEACE CORPS
+SEC. 160. PROGRAM AUTHORIZED.
+ (a) GENERAL AUTHORITY- The Commission is authorized to make grants to the
+ Director of the Peace Corps or the Director of ACTION to carry out training
+ and educational benefits demonstration programs in accordance with this part.
+ (b) CONTRACT AUTHORITY- The Director of the Peace Corps and the Director
+ of ACTION are authorized, either directly or by way of grant, contract, or
+ other arrangement, to carry out the provisions of this part. The authority to
+ enter into contracts under this part shall be effective for any fiscal year
+ only to such extent or in such amounts as are provided in appropriations Acts.
+SEC. 161. ELIGIBILITY AND SELECTION PROCEDURES.
+ (a) ELIGIBILITY- Any individual who--
+ (1) has completed at least 2 years of satisfactory study at an institution
+ of higher education, is enrolled in an educational program of at least
+ 4 years at an institution of higher education for which such institution
+ awards a bachelor's degree, and will complete such program within 2 years;
+ (2) enters into an agreement with the Director of the Peace Corps or the
+ Director of ACTION to serve at least 3 years as a volunteer in the Peace
+ Corps or in VISTA; and
+ (3) is selected pursuant to the competitive process established under
+ subsection (b);
+is eligible to participate in the demonstration program authorized by
+this part.
+ (b) SELECTION PROCEDURES- The Director of the Peace Corps and the Director
+ of ACTION shall each establish uniform criteria for the selection on a
+ competitive basis of individuals to participate in the training programs
+ established under section 162 and to receive educational benefits under
+ section 163. The selection procedures established under this section shall
+ be designed to provide for the awarding of grants for benefits only to
+ students from groups traditionally underrepresented in the Peace Corps or
+ VISTA and to students who will specialize in courses of instruction for
+ which there is a special need in the Peace Corps or VISTA. Not more than
+ 50 individuals shall be selected to participate in the training programs
+ established under section 162.
+SEC. 162. TRAINING PROGRAM.
+ The Director of the Peace Corps and the Director of ACTION shall each
+ establish and carry out a training program under which each individual
+ selected under section 161(b), as part of the course of study which the
+ individual is pursuing at the institution of higher education of such
+ individual, receives appropriate training in skills that such individual
+ will employ in the Peace Corps or VISTA.
+SEC. 163. EDUCATIONAL BENEFITS.
+ (a) BENEFITS PROVIDED- Each individual who has been selected under section
+ 161(b) shall be eligible to receive educational benefits in an amount that
+ the Director of the Peace Corps or the Director of ACTION finds reasonable and
+ appropriate, but that shall not exceed the costs of tuition, room and board,
+ books, and fees that the individual incurs in attending the institution
+ of higher education of such individual during the remaining 2 years of the
+ educational program in which the individual is enrolled.
+ (b) FORM OF BENEFITS- The educational benefits provided to an individual
+ under subsection (a) shall be in the form of grants, remissions of expenses,
+ or such other form as the Director of the Peace Corps or the Director of
+ ACTION considers appropriate.
+ (c) REPAYMENT OF BENEFITS- An individual provided benefits under subsection
+ (a) shall repay the amount of the benefits so provided, plus interest not
+ to exceed that permitted under section 427A of the Higher Education Act of
+ 1965 (20 U.S.C. 1077a)--
+ (1) if the individual fails to complete the educational program of such
+ individual within the 2-year period specified in section 161(a)(1), or
+ (2) if the individual fails to serve 3 years as a volunteer in the Peace
+ Corps or VISTA upon completing the educational program of such individual.
+The Director of the Peace Corps or the Director of ACTION may waive the
+repayment requirement if exceptional circumstances, such as illness or death,
+prevent an individual from meeting such 2-year or 3-year requirement.
+ (d) COLLECTION BY SECRETARY OF EDUCATION- The Secretary of Education
+ shall have the authority to collect amounts owed by an individual under
+ subsection (c). The Secretary may, for the purpose of collecting such
+ amounts, exercise the authorities conferred on the Secretary by sections 467
+ and 468 of the Higher Education Act of 1965 (20 U.S.C. 1087gg and 1087hh)
+ with respect to the collection of defaulted loans under part E of title IV
+ of that Act. Amounts collected under this subsection shall be deposited in
+ the general fund of the Treasury.
+SEC. 164. EVALUATION AND REPORT.
+ The General Accounting Office shall conduct an evaluation of any program
+ authorized by this part and shall prepare and submit to the President and
+ the appropriate committees of Congress--
+ (1) not later than October 31, 1993, an interim report on such evaluation; and
+ (2) not later than October 31, 1995, a final report on such evaluation,
+ together with such recommendations, including recommendations for legislation,
+ as the Director of the Peace Corps, the Director of ACTION, and the Secretary
+ consider appropriate.
+PART IV--OTHER VOLUNTEER PROGRAMS
+SEC. 165. RURAL YOUTH SERVICE DEMONSTRATION PROJECT.
+ The Commission is authorized, in accordance with this subtitle, to make
+ grants and enter into contracts under section 102 for the establishment of
+ demonstration projects in rural areas. Such projects may include volunteer
+ service involving the elderly and assisted-living services performed by
+ students, school dropouts, and out-of-school youth.
+SEC. 166. ASSISTANCE FOR HEAD START.
+ The Commission, in consultation with the Director of ACTION, is authorized
+ to make grants  under section 102 to grantees under the Foster Grandparent
+ Program (part B of title II of the Domestic Volunteer Service Act)
+ for the purpose of increasing the number of low-income individuals who
+ provide services under such program to children who participate in Head
+ Start programs.
+SEC. 167. EMPLOYER-BASED RETIREE VOLUNTEER PROGRAMS.
+ The Commission is authorized to make grants under section 102 to public and
+ private nonprofit organizations for the purpose of bringing together retirees,
+ their former employers, and community agencies to develop employer-based
+ retiree volunteer programs.
+Subtitle F--Administrative Provisions
+SEC. 171. LIMITATION ON NUMBER OF GRANTS.
+ (a) IN GENERAL- The Commission shall not award more than one grant during
+ each fiscal year to each State under section 102.
+ (b) NUMBER OF APPLICATIONS- In submitting applications for a grant under
+ section 102, a State shall consolidate all of the applications of such
+ State for the conduct of programs under subtitles B through E, into a single
+ application that meets the requirements of such subtitles.
+ (c) MULTIPLE USE- A grant awarded under section 102 to a State may be used
+ by the State in accordance with the applications consolidated, submitted,
+ and approved under subtitles B through E.
+SEC. 172. REPORTS.
+ (a) STATE REPORTS-
+ (1) IN GENERAL- Each State receiving assistance under this title shall
+ prepare and submit, to the Commission, an annual report concerning the
+ use of assistance provided under this title and the status of the national
+ and community service programs that receive assistance under such title in
+ such State.
+ (2) LOCAL GRANTEES- Each State may require local grantees that receive
+ assistance under this title to supply such information to the State as
+ is necessary to enable the State to complete the report required under
+ paragraph (1), including a comparison of actual accomplishments with the
+ goals established for the program, the number of participants in the program,
+ the number of service hours generated, and the existence of any problems,
+ delays or adverse conditions that have affected or will affect the attainment
+ of program goals.
+ (3) REPORT DEMONSTRATING COMPLIANCE-
+ (A) IN GENERAL- Each State receiving assistance under this title shall
+ include information in the report required under paragraph (1) that
+ demonstrates the compliance of the State with the provisions of this Act,
+ including sections 177 and 113(9).
+ (B) LOCAL GRANTEES- Each State may require local grantees to supply such
+ information to the State as is necessary to enable the State to comply with
+ the requirement of paragraph (1).
+ (4) AVAILABILITY OF REPORT- Reports submitted under paragraph (1) shall be
+ made available to the public on request.
+ (b) REPORT TO CONGRESS-
+ (1) IN GENERAL- Not later than 120 days after the end of each fiscal year,
+ the Commission shall prepare and submit, to the appropriate authorizing and
+ appropriation Committees of Congress, a report concerning the programs that
+ receive assistance under this title.
+ (2) CONTENT- Reports submitted under paragraph (1) shall contain a summary
+ of the information contained in the State reports submitted under subsection
+ (a), and shall reflect the findings and actions taken as a result of any
+ evaluation conducted by the Commission.
+SEC. 173. SUPPLEMENTATION.
+ (a) IN GENERAL- Assistance provided under this title shall be used to
+ supplement the level of State and local public funds expended for services
+ of the type assisted under this title in the previous fiscal year.
+ (b) AGGREGATE EXPENDITURE- Subsection (a) shall be satisfied, with respect
+ to a particular program, if the aggregate expenditure for such program for
+ the fiscal year in which services are to be provided will not be less than
+ the aggregate expenditure for such program in the previous fiscal year,
+ excluding the amount of Federal assistance provided and any other amounts
+ used to pay the remainder of the costs of programs assisted under this title.
+SEC. 174. PROHIBITION ON USE OF FUNDS.
+ (a) PROHIBITED USES- No assistance made available under a grant under
+ this title shall be used to provide religious instruction, conduct worship
+ services, or engage in any form of proselytization.
+ (b) POLITICAL ACTIVITY- Assistance provided under this title shall not be
+ used by program participants and program staff to--
+ (1) assist, promote, or deter union organizing; or
+ (2) finance, directly or indirectly, any activity designed to influence the
+ outcome of an election to Federal office or the outcome of an election to
+ a State or local public office.
+ (c) CONTRACTS OR COLLECTIVE BARGAINING AGREEMENTS- A program that receives
+ assistance under this title shall not impair existing contracts for services
+ or collective bargaining agreements.
+SEC. 175. NONDISCRIMINATION.
+ (a) IN GENERAL- An individual with responsibility for the operation of a
+ project that receives assistance under this title shall not discriminate
+ against a participant or member of the staff of such project on the basis of
+ race, color, national origin, sex, age, disability, or political affiliation
+ of such member.
+ (b) FEDERAL FINANCIAL ASSISTANCE- Any assistance provided under this title
+ shall constitute Federal financial assistance for purposes of title VI of
+ the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the
+ Education Amendments of 1972 (20 U.S.C. 1681 et seq.), the Rehabilitation
+ Act of 1973 (29 U.S.C. 701 et seq.), the Age Discrimination Act of 1975
+ (42 U.S.C. 6101 et seq.), and the regulations issued under such Acts.
+ (c) RELIGIOUS DISCRIMINATION-
+ (1) IN GENERAL- Except as provided in paragraph (2), an individual with
+ responsibility for the operation of a project that receives assistance
+ under this title shall not discriminate on the basis of religion against a
+ participant or a member of the project staff who is paid with funds received
+ under this title.
+ (2) EXCEPTION- Paragraph (1) shall not apply to the employment, with
+ assistance provided under this title, of any member of the staff of a
+ project that receives assistance under this title who was employed with the
+ organization operating the project on the date the grant under this title
+ was awarded.
+ (d) RULES AND REGULATIONS- The Commission shall promulgate rules and
+ regulations to provide for the enforcement of this section that shall include
+ provisions for summary suspension of assistance for not more than 30 days,
+ on an emergency basis, until notice and an opportunity to be heard can
+ be provided.
+SEC. 176. NOTICE, HEARING, AND GRIEVANCE PROCEDURES.
+ (a) In General-
+ (1) SUSPENSION OF PAYMENTS- The Commission may in accordance with the
+ provisions of this title, suspend or terminate payments under a contract or
+ grant providing assistance under this title whenever the Commission determines
+ there is a material failure to comply with this title or the applicable terms
+ and conditions of any such grant or contract issued pursuant to this title.
+ (2) PROCEDURES TO ENSURE ASSISTANCE- The Commission shall prescribe procedures
+ to ensure that--
+ (A) assistance provided under this title shall not be suspended for failure
+ to comply with the applicable terms and conditions of this title except,
+ in emergency situations, a suspension may be granted for 30 days; and
+ (B) assistance provided under this title shall not be terminated for failure
+ to comply with applicable terms and conditions of this title unless the
+ recipient of such assistance has been afforded reasonable notice and
+ opportunity for a full and fair hearing.
+ (b) HEARINGS- Hearings or other meetings that may be necessary to fulfill
+ the requirements of this section shall be held at locations convenient to
+ the recipient of assistance under this title.
+ (c) TRANSCRIPT OR RECORDING- A transcript or recording shall be made of a
+ hearing conducted under this section and shall be available for inspection
+ by any individual.
+ (d) STATE LEGISLATION- Nothing in this title shall be construed to preclude
+ the enactment of State legislation providing for the implementation,
+ consistent with this title, of the programs administered under this title.
+ (e) CONSTRUCTION- Nothing in this title shall be construed to link performance
+ of service with receipt of Federal student financial assistance.
+ (f) GRIEVANCE PROCEDURE--
+ (1) IN GENERAL- State and local applicants that receive assistance under this
+ title shall establish and maintain a procedure to adjudicate grievances from
+ participants, labor organizations, and other interested individuals concerning
+ programs that receive assistance under this title, including grievances
+ regarding proposed placements of such participants in such projects.
+ (2) DEADLINE FOR GRIEVANCES- Except for a grievance that alleges fraud or
+ criminal activity, a grievance shall be made not later than 1 year after
+ the date of the alleged occurrence.
+ (3) DEADLINE FOR HEARING AND DECISION-
+ (A) HEARING- A hearing on any grievance conducted under this subsection
+ shall be conducted not later than 30 days of filing such grievance.
+ (B) DECISION- A decision on any grievance shall be made not later than 60
+ days after the filing of such grievance.
+ (4) ARBITRATION-
+ (A) IN GENERAL- On the occurrence of an adverse grievance decision, or 60
+ days after the filing of such grievance if no decision has been reached,
+ the party filing the grievance shall be permitted to submit such grievance
+ to binding arbitration before a qualified arbitrator who is jointly selected
+ and independent of the interested parties.
+ (B) DEADLINE FOR PROCEEDING- An arbitration proceeding shall be held not
+ later than 45 days after the request for such arbitration.
+ (C) DEADLINE FOR DECISION- A decision concerning such grievance shall be
+ made not later than 30 days after the date of such arbitration proceeding.
+ (D) COST- The cost of such arbitration proceeding shall be divided evenly
+ between the parties to the arbitration.
+ (5) PROPOSED PLACEMENT- If a grievance is filed regarding a proposed placement
+ of a participant in a program that receives assistance under this title,
+ such placement shall not be made unless it is consistent with the resolution
+ of the grievance pursuant to this subsection.
+ (6) REMEDIES- Remedies for a grievance filed under this subsection include--
+ (A) suspension of payments for assistance under this title;
+ (B) termination of such payments; and
+ (C) prohibition of such placement described in paragraph (5).
+SEC. 177. NONDUPLICATION AND NONDISPLACEMENT.
+ (a) NONDUPLICATION-
+ (1) IN GENERAL- Assistance provided under this title shall be used only
+ for a program that does not duplicate, and is in addition to, an activity
+ otherwise available in the locality of such program.
+ (2) PRIVATE NONPROFIT ENTITY- Assistance made available under this title
+ shall not be provided to a private nonprofit entity to conduct activities
+ that are the same or substantially equivalent to activities provided by a
+ State or local government agency that such entity resides in, unless the
+ requirements of subsection (b) are met.
+ (b) NONDISPLACEMENT-
+ (1) IN GENERAL- An employer shall not displace an employee or position,
+ including partial displacement such as reduction in hours, wages,
+ or employment benefits, as a result of the use by such employer of a
+ participant in a program receiving assistance under this title.
+ (2) SERVICE OPPORTUNITIES- A service opportunity shall not be created under
+ this title that will infringe in any manner on the promotional opportunity
+ of an employed individual.
+ (3) LIMITATION ON SERVICES-
+ (A) DUPLICATION OF SERVICES- A participant in a program receiving assistance
+ under this title shall not perform any services or duties or engage in
+ activities that would otherwise be performed by an employee as part of the
+ assigned duties of such employee.
+ (B) SUPPLANTATION OF HIRING- A participant in any program receiving
+ assistance under this title shall not perform any services or duties or
+ engage in activities that will supplant the hiring of employed workers.
+ (C) DUTIES FORMERLY PERFORMED BY ANOTHER EMPLOYEE- A participant in any
+ program receiving assistance under this title shall not perform services
+ or duties that have been performed by or were assigned to any--
+ (i) presently employed worker;
+ (ii) employee who recently resigned or was discharged;
+ (iii) employee who is subject to a reduction in force;
+ (iv) employee who is on leave (terminal, temporary, vacation, emergency,
+ or sick); or
+ (v) employee who is on strike or who is being locked out.
+ (c) LABOR MARKET INFORMATION- The Secretary of Labor shall make available
+ to the Commission and to any program agency under this title such labor
+ market information as is appropriate for use in carrying out the purposes
+ of this title.
+ (d) TREATMENT OF BENEFITS- Section 142(b) of the Job Training Partnership
+ Act shall apply to the projects conducted under this title as such projects
+ were conducted under the Job Training Partnership Act.
+ (e) STANDARDS OF CONDUCT- Programs that receive assistance under this title
+ shall establish and stringently enforce standards of conduct at the program
+ site to promote proper moral and disciplinary conditions.
+SEC. 178. STATE ADVISORY BOARD.
+ (a) FORMATION OF BOARD- Each State that applies for assistance under this
+ title is encouraged to establish a State Advisory Board for National and
+ Community Service.
+ (b) MEMBERS-
+ (1) IN GENERAL- The chief executive officer of a State referred to in
+ subsection (a) shall appoint members to such Advisory Board from among--
+ (A) representatives of State agencies administering community service,
+ youth service, education, social service, senior service, and job training
+ programs; and
+ (B) representatives of labor, business, agencies working with youth,
+ community-based organizations such as community action agencies, students,
+ teachers, Older American Volunteer Programs as established under title II
+ of the Domestic Volunteer Act of 1973 (42 U.S.C. 5001 et seq.), full-time
+ youth service corps programs, school-based community service programs, higher
+ education institutions, local educational agencies, volunteer public safety
+ organizations, educational partnership programs, and other organizations
+ working with volunteers.
+ (2) BALANCE OF MEMBERSHIP- To the extent practicable, the chief executive
+ officer of a State referred to in subsection (a) shall ensure that the
+ membership of the Advisory Board is balanced according to race, ethnicity,
+ age, and gender.
+ (c) DUTIES OF BOARD- A State Advisory Board for National and Community
+ Service established under subsection (a) shall assist the State agency
+ administering a program receiving assistance under this title in--
+ (1) coordinating programs that receive assistance under this title and
+ related programs within the State;
+ (2) disseminating information concerning service programs that receive
+ assistance under this title;
+ (3) recruiting participants for programs that receive assistance under this
+ title; and
+ (4) developing programs, training methods, curriculum materials, and other
+ materials and activities related to programs that receive assistance under
+ this title.
+SEC. 179. EVALUATION.
+ (a) IN GENERAL- The Commission shall provide, through grants or contracts,
+ for the continuing evaluation of programs that receive assistance under
+ this title, including evaluations that measure the impact of such programs,
+ to determine--
+ (1) the effectiveness of various program models in achieving stated goals
+ and the costs associated with such;
+ (2) for purposes of the reports required by subsection (h), the impact of such
+ programs, in each State in which a program is conducted, on the ability of--
+ (A) the VISTA and older American volunteer programs (established under the
+ Domestic Volunteer Services Act of 1973 (42 U.S.C. 4950 et seq.));
+ (B) each regular component of the Armed Forces (as defined in section 101(4)
+ of title 10, United States Code);
+ (C) each of the reserve components of the Armed Forces (as described in
+ section 216(a) of title 5, United States Code); and
+ (D) the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501
+ et seq.));
+to recruit individuals residing in such State to serve in such program; and
+ (3) the structure and mechanisms for delivery of services for such programs.
+ (b) COMPARISONS- The Commission shall provide for inclusion in the evaluations
+ required under subsection (a), where appropriate, comparisons of participants
+ in such programs with individuals who have not participated in such programs.
+ (c) CONDUCTING EVALUATIONS- Evaluations of programs under subsection (a)
+ shall be conducted by individuals who are not directly involved in the
+ administration of such program.
+ (d) STANDARDS- The Secretary shall develop and publish general standards
+ for the evaluation of program effectiveness in achieving the objectives of
+ this title.
+ (e) COMMUNITY PARTICIPATION- In evaluating a program receiving assistance
+ under this title, the Commission shall consider the opinions of participants
+ and members of the communities where services are delivered concerning the
+ strengths and weaknesses of such program.
+ (f) COMPARISON OF PROGRAM MODELS- The Commission shall evaluate and compare
+ the effectiveness of different program models in meeting the program
+ objectives described in subsection (g) including full- and part-time
+ programs, programs involving different types of national service, programs
+ using different recruitment methods, programs offering alternative voucher
+ options, and programs utilizing individual placements and teams.
+ (g) PROGRAM OBJECTIVES- The Commission shall ensure that programs that
+ receive assistance under subtitle D are evaluated to determine their
+ effectiveness in--
+ (1) recruiting and enrolling diverse participants in such programs, consistent
+ with the requirements of section 145, based on economic background, race,
+ ethnicity, age, marital status, education levels, and disability;
+ (2) promoting the educational achievement of each participant in such
+ programs, based on earning a high school diploma or the equivalent of such
+ diploma and the future enrollment and completion of increasingly higher
+ levels of education;
+ (3) encouraging each participant to engage in public and community service
+ after completion of the program based on career choices and service in other
+ service programs such as the Volunteers in Service to America Program and
+ older American volunteer programs established under the Domestic Volunteer
+ Service Act of 1973 (42 U.S.C. 4950 et seq.), the Peace Corps (as established
+ by the Peace Corps Act (22 U.S.C. 2501 et seq.)), the military, and part-time
+ volunteer service;
+ (4) promoting of positive attitudes among each participant regarding the
+ role of such participant in solving community problems based on the view
+ of such participant regarding the personal capacity of such participant to
+ improve the lives of others, the responsibilities of such participant as
+ a citizen and community member, and other factors;
+ (5) enabling each participant to finance a lesser portion of the higher
+ education of such participant through student loans;
+ (6) providing services and projects that benefit the community;
+ (7) supplying additional volunteer assistance to community agencies without
+ overloading such agencies with more volunteers than can effectively be
+ utilized;
+ (8) providing services and activities that could not otherwise be performed
+ by employed workers and that will not supplant the hiring of, or result in
+ the displacement of, employed workers or impair the existing contracts of
+ such workers; and
+ (9) attracting a greater number of citizens to public service, including
+ service in the active and reserve components of the Armed Forces, the National
+ Guard, the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501
+ et seq.)), and the VISTA and older American volunteer programs established
+ under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.).
+ (h) OBTAINING INFORMATION-
+ (1) IN GENERAL- In conducting the evaluations required under subsection
+ (g), the Commission may require each program participant and State or local
+ applicant to provide such information as may be necessary to carry out the
+ requirements of this section.
+ (2) CONFIDENTIALITY- The Commission shall keep information acquired under
+ this section confidential.
+ (i) DEADLINE- The Commission shall complete the evaluations required under
+ subsection (g) not later than 30 months after the date of enactment of
+ this Act.
+ (j) REPORT- Not later than 24 months after the date on which the first
+ program is initiated under this title, the Commission shall prepare and
+ submit, to the appropriate Committees of Congress, a report containing the
+ results of the evaluations conducted under subsection (a)(2) with respect
+ to the first 18 months after such initiation date.
+SEC. 180. ENGAGEMENT OF PARTICIPANTS.
+ A State shall not engage a participant to serve in any program that
+ receives assistance under this title unless and until amounts have been
+ appropriated under section 501 for the provision of post-service benefits
+ and for the payment of other necessary expenses and costs associated with
+ such participant.
+SEC. 181. NATIONAL SERVICE DEMONSTRATION PROGRAM AMENDMENTS.
+ (a) TREATMENT OF EDUCATION AND HOUSING BENEFITS- For purposes of determining
+ eligibility for programs under title IV of the Higher Education Act of 1965
+ (20 U.S.C. 1070 et seq.) (hereafter in this section referred to as the
+ `Act'), post-service benefits received under this Act shall be considered
+ as estimated financial assistance as defined in section 428(a)(2)(C)(i)
+ of title IV of the Act (20 U.S.C. 1078(a)(2)(C)(i)), except that in no case
+ shall such a post-service benefit be considered as--
+ (1) annual adjusted family income as defined in section 411F(1) of subpart
+ 1 of part A of title IV of such Act (20 U.S.C. 1070a-6); or
+ (2) total income as defined in section 480(a) of part F of title IV of such
+ Act (20 U.S.C. 1087vv(a)).
+ (b) TREATMENT OF STIPEND FOR LIVING EXPENSES- In no case shall living
+ allowances received under this Act be considered in the determination of
+ expected family contribution or independent student status under--
+ (1) subpart 1 of part A of title IV of such Act (20 U.S.C. 1070a et seq.); or
+ (2) part F of title IV of such Act (20 U.S.C. 1087kk et seq.).
+ (c) CONTINGENT EXTENSION- Section 414 of the General Education Provisions
+ Act (20 U.S.C. 1226a) shall apply to this Act.
+SEC. 182. PARTNERSHIPS WITH SCHOOLS.
+ (a) DESIGN OF PROGRAMS- The head of each Federal agency and department
+ shall design and implement a comprehensive strategy to involve employees
+ of such agencies and departments in partnership programs with elementary
+ schools and secondary schools. Such strategy shall include--
+ (1) a review of existing programs to identify and expand the opportunities
+ for such employees to be adult volunteers in schools and for students and
+ out-of-school youth;
+ (2) the designation of a senior official in each such agency and department
+ who will be responsible for establishing adult volunteer and partnership and
+ youth service programs in each such agency and department and for developing
+ adult volunteer and partnership and youth service programs;
+ (3) the encouragement of employees of such agencies and departments to
+ participate in adult volunteer and partnership programs and other service
+ projects;
+ (4) the annual recognition of outstanding service programs operated by
+ Federal agencies; and
+ (5) the encouragement of businesses and professional firms to include
+ community service among the factors considered in making hiring, compensation,
+ and promotion decisions.
+ (b) REPORT- Not later than 180 days after the date of enactment of this
+ Act, and on a regular basis thereafter, the head of each Federal agency
+ and department shall prepare and submit, to the appropriate Committees of
+ Congress, a report concerning the implementation of this section.
+SEC. 183. SERVICE AS TUTORS.
+ Notwithstanding any other provision of this Act, a service opportunity
+ through which a part-time participant serves as a classroom tutor under the
+ supervision of a certified professional shall be considered an acceptable
+ placement if the requirements of section 177(b) (1) and (2) and section
+ 174 are met.
+SEC. 184. DRUG-FREE WORKPLACE REQUIREMENTS.
+ All programs receiving grants under this title shall be subject to the
+ Drug-Free Workplace Requirements for Federal Grant Recipients under sections
+ 5153 through 5158 of the Anti-Drug Abuse Act of 1988 (41 U.S.C. 702-707).
+SEC. 185. CONFORMING AMENDMENTS.
+ The Higher Education Act of 1965 is amended--
+ (1) in section 411F(9) (20 U.S.C. 1070a-6(9)), by adding at the end thereof
+ the following new subparagraph:
+ `(F) Annual adjusted family income does not include any living allowance
+ received by a participant in programs established under the National and
+ Community Service Act of 1990.';
+ (2) in section 411F(12)(B)(vi) (20 U.S.C. 1070a-6(12)(B)(vi)), by striking
+ `(including all sources of resources other than parents)' and inserting
+ `(including all sources of resources other than parents and living allowances
+ received as a result of participation in a program established under the
+ National and Community Service Act of 1990.)';
+ (3) in section 480(f) (20 U.S.C. 1087vv(f)), by--
+ (A) striking `and' at the end of paragraph (1);
+ (B) by striking the period at the end of paragraph (2) and inserting a
+ semicolon and `and'; and
+ (C) adding at the end thereof the following new paragraph:
+ `(3) any living allowance received by a participant in a program established
+ under the National and Community Service Act of 1990.'; and
+ (4) in section 480(d)(2)(F) (20 U.S.C. 1087vv(d)(2)(F)), by inserting after
+ `other than parents' `and living allowances as a result of participation in
+ a program established under the National and Community Service Act of 1990)'.
+Subtitle G--Commission on National and Community Service
+SEC. 190. COMMISSION ON NATIONAL AND COMMUNITY SERVICE.
+ (a) ESTABLISHMENT- There is established a Commission on National and Community
+ Service that shall administer the programs established under this title.
+ (b) BOARD OF DIRECTORS-
+ (1) COMPOSITION-
+ (A) IN GENERAL- The Commission shall be administered by a Board of Directors
+ (hereinafter referred to in this section as the `Board') that shall be
+ composed of 21 members, to be appointed by the President with the advice
+ and consent of the Senate, who shall be individuals who have extensive
+ experience in volunteer and service opportunity programs and who represent
+ a broad range of viewpoints. The membership of the Board shall be balanced
+ according to the race, ethnicity age and gender of its members.
+ (B) EX-OFFICIO MEMBERS- The Secretary of Education, Secretary of Health
+ and Human Services, Secretary of Labor, Secretary of Interior, Secretary of
+ Agriculture, and the Director of the ACTION agency shall serve as ex-officio
+ members of the Board.
+ (2) POLITICAL PARTIES- Not more than 11 members of the Board shall belong
+ to the same political party.
+ (3) NOMINATIONS- Seven members of the Board shall be appointed from among
+ individuals nominated by the Speaker of the House of Representatives, and
+ seven of such members shall be appointed from among individuals nominated
+ by the majority leader of the Senate.
+ (4) TERMS- Each member of the Board shall serve for a term of 2 years, except
+ that, subject to the provisions of paragraph (4), 11 of the initial members
+ of the Board shall serve for a term of 1 year, as designated by the President.
+ (5) VACANCIES- As vacancies occur on the Board, new members shall be appointed
+ by the President, with the advice and consent of the Senate, and serve for the
+ remainder of the term for which the predecessor of such member was appointed.
+ (6) CHAIRPERSON- The Board shall elect a chairperson and vice-chairperson
+ from among its membership.
+ (7) MEETINGS- The Board shall meet not less than three times each year. The
+ Board shall hold additional meetings if seven members of the Board request
+ such meetings in writing. A majority of the Board shall constitute a quorum.
+ (8) EXPENSES- While away from their homes or regular places of business on the
+ business of the Board, members of such Board may be allowed travel expenses,
+ including per diem in lieu of subsistence, as is authorized under section
+ 5703 of title 5, United States Code, for persons employed intermittently
+ in the Government service.
+ (c) DUTIES- The Board shall--
+ (1) advise the President and the Congress concerning developments in
+ national and community service that merit the attention of the President
+ and the Congress;
+ (2) design, administer and disseminate information regarding the programs
+ and initiatives established under this title;
+ (3) consult with appropriate Federal agencies in administering programs
+ that receive assistance under this title;
+ (4) have the authority to delegate authority to administer the programs
+ established under this title to any other agency or entity of the Federal
+ Government, on the agreement of such agency or entity, as the Board
+ determines appropriate;
+ (5) provide, directly or through contract with public or private nonprofit
+ organizations that have extensive experience in service programs, training and
+ technical assistance to States, school and community-based service programs,
+ full-time youth service corps, and national service demonstration programs;
+ (6) arrange for the evaluation of programs established under this title,
+ in accordance with section 179;
+ (7) coordinate with the Secretary of Defense in evaluating the effect of
+ the national service demonstration program on the recruitment efforts of
+ the active and reserve components of the Armed Forces; and
+ (8) carry out any other activities determined appropriate by the Secretary.
+ (d) EXECUTIVE DIRECTOR OF THE BOARD-
+ (1) IN GENERAL- The Board shall appoint an individual to serve as Executive
+ Director of the Board (hereinafter referred to in this section as the
+ `Director').
+ (2) DUTIES- The Director shall advise the Board concerning developments
+ in volunteer or national service that the Director determines merits
+ the attention of the Board, identify promising service initiatives, and
+ coordinate the work of the Board with the work of other Federal agencies
+ involved in service activities and in the design of a competitive grant to
+ provide assistance as authorized under this title.
+ (e) TECHNICAL EMPLOYEES- The Director may, at the discretion of the
+ Board, appoint not more than 10 technical employees to administer the
+ Committee. Such employees shall be appointed for terms that shall not exceed
+ 2 years, without regard to the provisions of title 5, United States Code,
+ governing appointments in the competitive service, and without regard to
+ the provisions of chapter 51 and subchapter III of chapter 53 of such title
+ relating to classification and General Schedule pay rates.
+ (f) CLEARINGHOUSES-
+ (1) IN GENERAL- The Commission shall provide assistance to not more than
+ four regional service clearinghouses.
+ (2) PUBLIC AND PRIVATE NONPROFIT AGENCIES- Public and private nonprofit
+ agencies that have extensive experience in community service, adult volunteer
+ and partnership programs, youth service, intergenerational service programs,
+ and programs working with at-risk youth shall be eligible to receive
+ assistance under paragraph (1).
+ (3) FUNCTION OF CLEARINGHOUSES- National and regional clearinghouses that
+ receive assistance under paragraph (1) shall--
+ (A) assist State and local community service programs with needs assessments
+ and planning;
+ (B) conduct research and evaluations concerning community service;
+ (C) provide leadership development and training to State and local community
+ service program administrators, supervisors, and participants;
+ (D) administer award and recognition programs for outstanding community
+ service programs and participants;
+ (E) facilitate communication among community service programs and
+ participants;
+ (F) provide information, curriculum materials, technical assistance on
+ program planning and operation, and training to States and local entities
+ eligible to receive funds under this title;
+ (G) gather and disseminate information on successful programs, components
+ of successful programs, innovative youth skills curriculum, and projects
+ being implemented nationwide; and
+ (H) make recommendations to State and local entities on quality controls
+ to improve program delivery and on changes in the programs under this title.
+ (g) PRESIDENTIAL AWARDS FOR SERVICES-
+ (1) PRESIDENTIAL AWARDS-
+ (A) IN GENERAL- The President, acting through the Commission, is authorized
+ to make Presidential Awards for service to--
+ (i) individuals demonstrating outstanding community service including
+ school-based service;
+ (ii) outstanding service learning and community service programs; and
+ (iii) outstanding teachers in service-learning programs.
+ (B) NUMBER OF AWARDS- The President is authorized to make one or more
+ individual, one or more teaching, and one or more program awards in each
+ Congressional district, and one or more Statewide individual program and
+ teaching awards in each State.
+ (C) CONSULTATION- The President shall consult with the Governor of each
+ State, and with the Board, in the selection of individuals and programs
+ for Presidential Awards.
+ (D) PARTICIPANTS IN PROGRAMS- An individual receiving an award under this
+ subsection need not be a participant in a program assisted under this title.
+ (2) INFORMATION- The President shall ensure that information concerning
+ individuals and programs receiving awards under this subsection is widely
+ disseminated.
+ (h) REPORT- Not later than January 1, 1993, the President shall prepare and
+ submit to the Committee on Labor and Human Resources of the Senate and the
+ Committee on Education and Labor of the House of Representatives, a report
+ containing  recommendations for the improvement of the administration
+ and coordination of volunteer, national, and community service programs
+ administered by the ACTION Agency, the Commission on National Service,
+ and other Federal entities. Such report shall include--
+ (1) an assessment of whether Federal volunteer, national and community
+ service programs could be more cost effectively and efficiently administered
+ by a single Federal entity or fewer entities, including an estimate of any
+ cost savings that could be achieved by consolidating or centralizing the
+ management of such programs; and
+ (2) a description of the roles and responsibilities of the ACTION Agency,
+ the Commission on National Service and other Federal entities in developing
+ and coordinating National policy on voluntarism and national and community
+ service and any recommendations for clarifying or altering the missions
+ and responsibilities of such entities which may be appropriate.
+TITLE II--MODIFICATIONS OF EXISTING PROGRAMS
+Subtitle B--Publication
+SEC. 201. INFORMATION FOR STUDENTS.
+ Section 485(a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1092(a)(1))
+ is amended--
+ (1) by striking out `and' at the end of subparagraph (J);
+ (2) by striking out the period at the end of subparagraph (K) and inserting
+ in lieu thereof a semicolon and the word `and'; and
+ (3) by adding at the end thereof the following new subparagraph:
+ `(L) the terms and conditions under which students receiving guaranteed
+ student loans under part B of this title or direct student loans under part
+ E of this title, or both, may--
+ `(i) obtain deferral of the repayment of the principal and interest for
+ service under the Peace Corps Act (as established by the Peace Corps Act
+ (22 U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of
+ 1973 (42 U.S.C. 4951 et seq.), or for comparable full-time service as a
+ volunteer for a tax-exempt organization of demonstrated effectiveness in
+ the field of community service, and
+ `(ii) obtain partial cancellation of the student loan for service under the
+ Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et
+ seq.)) under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et
+ seq.) or, for comparable full-time service as a volunteer for a tax-exempt
+ organization of demonstrated effectiveness in the field of community
+ service.'.
+SEC. 202. EXIT COUNSELING FOR BORROWERS.
+ Section 485(b) of the Higher Education Act of 1965 (20 U.S.C. 1092(b))
+ is amended--
+ (1) by striking `and' at the end of paragraph (1);
+ (2) by striking the period at the end of paragraph (2) and inserting in
+ lieu thereof a semicolon and `and'; and
+ (3) by inserting after paragraph (2) the following new paragraph:
+ `(3) the terms and conditions under which the student may obtain partial
+ cancellation or defer repayment of the principal and interest for service
+ under the Peace Corps Act (as established by the Peace Corps Act (22
+ U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of 1973
+ (42 U.S.C. 4951 et seq.) or for comparable full-time service as a volunteer
+ for a tax-exempt organization of demonstrated effectiveness.'.
+SEC. 203. DEPARTMENT INFORMATION ON DEFERMENTS AND CANCELLATIONS.
+ Section 485(d) of the Higher Education Act of 1965 (20 U.S.C. 1092(d)) is
+ amended by inserting before the last sentence the following new sentence:
+ `The Secretary shall provide information concerning the specific terms and
+ conditions under which students may obtain partial or total cancellation
+ or defer repayment of loans for service, shall indicate (in terms of the
+ Federal minimum wage) the maximum level of compensation and allowances that
+ a student borrower may receive from a tax-exempt organization to qualify
+ for a deferment, and shall explicitly state that students may qualify for
+ such partial cancellations or deferments when they serve as a paid employee
+ of a tax-exempt organization'.
+SEC. 204. DATA ON DEFERMENTS AND CANCELLATIONS.
+ Section 485B(a) of the Higher Education Act of 1965 (20 U.S.C. 1092b(a))
+ is amended--
+ (1) by striking `and' at the end of paragraph (3);
+ (2) by striking the period at the end of paragraph (4) and inserting in
+ lieu thereof a semicolon and `and'; and
+ (3) by adding the following new paragraph after paragraph (4):
+ `(5) the exact amount of loans partially or totally canceled or in deferment
+ for service under the Peace Corps Act (22 U.S.C. 2501 et seq.)), for service
+ under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.),
+ and for comparable full-time service as a volunteer for a tax-exempt
+ organization of demonstrated effectiveness.'.
+Subtitle B--Youthbuild Projects
+SEC. 211. YOUTHBUILD PROJECTS.
+ The Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.) is
+ amended by adding at the end thereof the following new title:
+`TITLE VII--YOUTHBUILD PROJECTS
+`SEC. 701. STATEMENT OF PURPOSE.
+ `It is the purpose of this title--
+ `(1) to provide economically disadvantaged young adults with opportunities
+ for meaningful service to their communities in helping to meet the housing
+ needs of homeless individuals and low-income families; and
+ `(2) to enable economically disadvantaged young adults to obtain the education
+ and employment skills necessary to achieve economic self-sufficiency.
+`SEC. 702. AUTHORIZATION OF PROGRAM.
+ `(a) FINANCIAL ASSISTANCE- The Director of the ACTION Agency, in consultation
+ with the Secretary of Labor, may provide grants to pay the Federal share
+ of the cost of carrying out Youthbuild projects in accordance with this title.
+ `(b) FEDERAL SHARE- The Federal share under subsection (a) for each fiscal
+ year shall not exceed 90 percent.
+`SEC. 703. SERVICE IN CONSTRUCTION AND REHABILITATION PROJECTS.
+ `(a) CONSTRUCTION AND REHABILITATION PROJECTS- Eligible participants serving
+ in Youthbuild projects receiving assistance under this title shall be employed
+ in the construction, rehabilitation, or improvement of real property to be
+ used for purposes of providing--
+ `(1) residential rental housing that is occupied primarily by, or available
+ for occupancy primarily by, homeless individuals and low-income families;
+ `(2) transitional housing for homeless individuals;
+ `(3) facilities for the provision of health, education, and other social
+ services to low-income families, including--
+ `(A) senior citizen centers;
+ `(B) youth recreation centers;
+ `(C) Head Start or child or adult day care centers; and
+ `(D) community health centers.
+ `(b) REQUIREMENTS FOR COMMUNITY FACILITIES- No assistance may be provided
+ under this title to support the construction, rehabilitation, or improvement
+ of real property to be used to provide facilities described in subsection
+ (a) unless the property--
+ `(1) is used principally by or for the benefit of low-income families;
+ `(2) is owned and occupied solely by public or private nonprofit entities; and
+ `(3) is located in census tracts, or identifiable neighborhoods within census
+ tracts, in which the median family income is not more than 80 percent of the
+ median family income of the area in which the facility is located, as such
+ median family income and area are determined for the purposes of assistance
+ under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f).
+ `(c) RESTRICTION OF USE- Participants under this title may not be employed
+ in the construction, operation, or maintenance of any facility used for
+ sectarian instruction or religious worship.
+`SEC. 704. EDUCATION AND JOB TRAINING SERVICES.
+ `(a) IN GENERAL- Assistance provided under this title shall be used by each
+ Youthbuild project to provide to participants the following:
+ `(1) SERVICE OPPORTUNITIES- Service opportunities in the construction or
+ rehabilitation projects described in section 703, which shall be integrated
+ with appropriate skills training and coordinated with, to the extent feasible,
+ preapprenticeship and apprenticeship programs.
+ `(2) EDUCATIONAL SERVICES- Services and activities designed to meet the
+ educational needs of participants, including--
+ `(A) basic skills instruction and remedial education;
+ `(B) bilingual education for individuals with limited English proficiency; and
+ `(C) secondary education services and activities designed to lead to the
+ attainment of a high school diploma or its equivalent.
+ `(3) PERSONAL AND PEER SUPPORTS- Counseling services and other activities
+ designed to--
+ `(A) ensure that participants overcome personal problems that would interfere
+ with their successful participation; and
+ `(B) develop a strong, mutually supportive peer context in which values,
+ goals, cultural heritage, and life skills can be explored and strengthened.
+ `(4) LEADERSHIP DEVELOPMENT- Opportunities to develop the decisionmaking,
+ speaking, negotiating, and other leadership skills of participants, such
+ as the establishment and operation of a youth council with meaningful
+ decisionmaking authority over aspects of the project.
+ `(5) PREPARATION FOR AND PLACEMENT IN UNSUBSIDIZED EMPLOYMENT- Activities
+ designed to maximize the value of participants as future employees and to
+ prepare participants for seeking, obtaining, and retaining unsubsidized
+ employment.
+ `(6) NECESSARY SUPPORT SERVICES- To provide support services and need-based
+ stipends necessary to enable individuals to participate in the program and,
+ for a period not to exceed 6 months after completion of training, to assist
+ participants through support services in retaining employment.
+ `(b) CONDITIONS- The provision of service opportunities to participants
+ in Youthbuild projects shall be made conditional upon attendance
+ and participation by such individuals in the educational services and
+ activities described in subsection (a). The duration of participation for
+ each individual in educational services and activities shall be at least
+ equal to the total number of hours for which a participant serves and is
+ paid wages by a Youthbuild project.
+`SEC. 705. USES OF FUNDS.
+ `(a) FUNDS- Funds provided under this title may be used only for activities
+ that are in addition to activities that would otherwise be available in
+ the absence of such funds.
+ `(b) ASSISTANCE CRITERIA- Assistance provided to each Youthbuild project
+ under this title shall be used only for--
+ `(1) education and job training services and activities described in
+ paragraphs (2), (3), (4), (5), and (6) of section 704(a);
+ `(2) wages and benefits paid to participants in accordance with sections
+ 704(a) and 706; and
+ `(3) administrative expenses incurred by the project in an amount not to
+ exceed 10 percent of the amount of assistance provided to the project under
+ this title unless such project receives a waiver, on the basis of substantial
+ need, granted by the Director to use an amount not to exceed 15 percent of
+ the amount of such assistance provided under this title for such purposes.
+`SEC. 706. ELIGIBLE PARTICIPANTS.
+ `(a) IN GENERAL- Except as provided in subsection (b), an individual shall
+ be eligible to participate in a Youthbuild project receiving assistance
+ under this title if such individual is--
+ `(1) 16 to 24 years of age, inclusive;
+ `(2) economically disadvantaged; and
+ `(3) an individual who has dropped out of high school whose reading and
+ mathematics skills are at or below the 8th grade level.
+ `(b) EXCEPTIONS- Not more than 25 percent of the participants in a Youthbuild
+ project receiving assistance under this title may be individuals who do
+ not meet the requirements of subsection (a).
+ `(c) PARTICIPATION LIMITATION- Any eligible individual selected for full-time
+ participation in a Youthbuild project may participate full-time for a period
+ of not less than 6 months and not more than 18 months.
+`SEC. 707. LIVING ALLOWANCES.
+ `(a) AMOUNT OF ALLOWANCE-
+ `(1) IN GENERAL- Each participant in a full-time Youthbuild program that
+ receives assistance under this title shall receive a living allowance of not
+ more than an amount equal to 100 percent of the poverty line for a family of
+ two (as defined in section 673(2) of the Community Service Block Grant Act
+ (42 U.S.C. 9902(2)).
+ `(2) NON-FEDERAL SOURCES- Notwithstanding paragraph (1), a program agency
+ may provide participants with additional amounts that are made available
+ from non-Federal sources.
+ `(3) REDUCTION IN EXISTING PROGRAM BENEFITS- Nothing in this section shall be
+ construed to require a program in existence on the date of enactment of this
+ title to decrease any stipends, salaries, or living allowances provided to
+ participants under such program so long as the amount of any such stipend,
+ salaries, or living allowances that is in excess of the levels provided
+ for in this section are paid from non-Federal sources.
+ `(b) NONDISCRIMINATION-
+ `(1) IN GENERAL- Except as provided in paragraph (2), an individual
+ with responsibility for the operation of a Youthbuild project shall not
+ discriminate on the basis of religion against a participant or a member of
+ the project staff who is paid with funds under this title.
+ `(2) EXCEPTION- Paragraph (1) shall not apply to the employment, with funds
+ provided under this title, of any member of the staff of a Youthbuild
+ project who was employed with the organization operating the project on
+ the date the grant funded under this title was awarded.
+`SEC. 708. CONTRACTS.
+ `Each Youthbuild project shall carry out the services and activities
+ under this title directly or through arrangements or under contracts with
+ administrative entities designated under section 103(b)(1)(B) of the Job
+ Training Partnership Act (29 U.S.C. 1501(b)(1)(B)), with State and local
+ educational agencies, institutions of higher education, State and local
+ housing development agencies, and with other public agencies and private
+ organizations.
+`SEC. 709. PERFORMANCE STANDARDS.
+ `(a) IN GENERAL- The Director, in consultation with the Secretary of Labor,
+ shall prescribe standards for evaluating the performance of Youthbuild
+ projects receiving assistance under this title, including the following
+ factors:
+ `(1) Placement in unsubsidized employment.
+ `(2) Retention in unsubsidized employment.
+ `(3) An increase in earnings.
+ `(4) Improvement of reading and other basic skills.
+ `(5) Attainment of a high school diploma or its equivalent.
+ `(6) Completion of projects providing a benefit to the community.
+ `(b) VARIATIONS- The Director shall prescribe variations to the standards
+ determined under subsection (a) by taking into account the economic
+ conditions of the areas in which Youthbuild projects are located and
+ appropriate special characteristics, such as the extent of English language
+ proficiency and offender status of Youthbuild participants.
+`SEC. 710. APPLICATIONS.
+ `(a) SUBMISSION- To apply for a grant under this title, an eligible entity
+ shall submit an application to the Director in accordance with procedures
+ established by the Director.
+ `(b) CRITERIA- Each such application shall--
+ `(1) describe the educational services, job training, supportive services,
+ service opportunities, and other services and activities that will be
+ provided to participants;
+ `(2) describe the proposed construction of rehabilitation activities to be
+ undertaken and the anticipated schedule for carrying out such activities;
+ `(3) describe the manner in which eligible youths will be recruited and
+ selected, including a description of arrangements which will be made
+ with community-based organizations, State and local educational agencies,
+ public assistance agencies, the courts of jurisdiction for status and youth
+ offenders, homeless shelters and other agencies that serve homeless youth,
+ foster care agencies, and other appropriate public and private agencies;
+ `(4) describe the special outreach efforts that will be undertaken to
+ recruit eligible young women (including young women with dependent children);
+ `(5) describe how the proposed project will be coordinated with other
+ Federal, State, and local activities, including vocational, adult and
+ bilingual education programs, job training supported by funds available
+ under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) and the
+ Family Support Act of 1988, housing and economic development, and programs
+ that receive assistance under section 106 of the Housing and Community
+ Development Act of 1974 (42 U.S.C. 5306);
+ `(6) provide assurances that there will be a sufficient number of supervisory
+ personnel on the project and that the supervisory personnel are trained in
+ the skills needed to carry out the project;
+ `(7) describe activities that will be undertaken to develop the leadership
+ skills of participants;
+ `(8) set forth a detailed budget and describe the system of fiscal controls
+ and auditing and accountability procedures that will be used to ensure
+ fiscal soundness; and
+ `(9) set forth assurances, arrangements, and conditions the Director
+ determines are necessary to carry out this title.
+`SEC. 711. SELECTION OF PROJECTS.
+ `In approving applications for assistance under this title, the Director
+ shall give priority to applicants that demonstrate the following:
+ `(1) POTENTIAL FOR SUCCESS- The greatest likelihood of success, as
+ indicated by such factors as the past experience of an applicant with
+ housing rehabilitation or construction, youth and youth education and
+ employment training programs, management capacity, fiscal reliability,
+ and community support.
+ `(2) NEED- Have the greatest need for assistance, as determined by factors
+ such as--
+ `(A) the degree of economic distress of the community from which participants
+ would be recruited, including--
+ `(i) the extent of poverty;
+ `(ii) the extent of youth unemployment; and
+ `(iii) the number of individuals who have dropped out of high school; and
+ `(B) the degree of economic distress of the locality in which the housing
+ would be rehabilitated or constructed, including--
+ `(i) objective measures of the incidence of homelessness;
+ `(ii) the relation between the supply of affordable housing for low-income
+ families and the number of such families in the locality;
+ `(iii) the extent of housing overcrowding; and
+ `(iv) the extent of poverty.
+`SEC. 712. MANAGEMENT AND TECHNICAL ASSISTANCE.
+ `(a) GENERAL ADMINISTRATION- The program established under this title
+ shall be administered by an individual with significant experience in
+ the administration of youth service programs that explicitly attempt to
+ enhance the basic academic and vocational skills of participants in such
+ programs. The Director is authorized to delegate any of the functions of the
+ Director under this title as may be appropriate to the Secretary of Labor
+ and provide for the performance of any of the provisions of this title on
+ a cost-reimbursable basis by the Secretary of Labor.
+ `(b) DIRECTOR ASSISTANCE- The Director may enter into contracts with a
+ qualified public or private nonprofit agency to provide assistance to the
+ Director in the management, supervision, and coordination of Youthbuild
+ projects receiving assistance under this title.
+ `(c) SPONSOR ASSISTANCE- The Director shall enter into contracts with
+ a qualified public or private nonprofit agency to provide appropriate
+ training, information, and technical assistance to sponsors of projects
+ assisted under this title.
+ `(d) APPLICATION PREPARATION- Technical assistance may also be provided in
+ the development of project proposals and the preparation of applications
+ for assistance under this title to eligible entities which intend or desire
+ to submit such applications. Community-based organizations shall be given
+ first priority in the provision of such assistance.
+ `(e) RESERVATION OF FUNDS- The Director shall reserve 5 percent of the amounts
+ available in each fiscal year under section 715 to carry out subsections
+ (c) and (d).
+`SEC. 713. DEFINITIONS.
+ `For purposes of this title:
+ `(1) COMMUNITY-BASED ORGANIZATIONS- The term `community-based organizations'
+ has the meaning given such term in section 4(8) of the Job Training
+ Partnership Act (29 U.S.C. 1503(8)).
+ `(2) DIRECTOR- The term `Director' means the Director of the ACTION agency.
+ `(3) DROPPED OUT OF HIGH SCHOOL- The term `individual who has dropped out
+ of high school' means an individual who is neither attending any school nor
+ subject to a compulsory attendance law and who has not received a secondary
+ school diploma or a certificate of equivalency for such diploma, but does
+ not include any individual who has attended secondary school at any time
+ during the preceding 6 months.
+ `(4) ECONOMICALLY DISADVANTAGED- The term `economically disadvantaged' has
+ the meaning given such term in section 4(8) of the Job Training Partnership
+ Act (29 U.S.C. 1503(8)).
+ `(5) ELIGIBLE ENTITY- The term `eligible entity' means a public or private
+ nonprofit agency, such as--
+ `(A) community-based organizations;
+ `(B) administrative entities designated under section 103(b)(1)(B) of the
+ Job Training Partnership Act (29 U.S.C. 1501(b)(1)(B));
+ `(C) community action agencies;
+ `(D) State and local housing development agencies;
+ `(E) State and local youth service and conservation corps; and
+ `(F) any other entity that is eligible to provide education and employment
+ training under other Federal employment training programs.
+ `(6) HOMELESS INDIVIDUAL- The term `homeless individual' has the meaning given
+ such term in section 103 of the Stewart B. McKinney Homeless Assistance Act
+ (42 U.S.C. 11302).
+ `(7) HOUSING DEVELOPMENT AGENCY- The term `housing development agency'
+ means any agency of a State or local government, or any private nonprofit
+ organization that is engaged in providing housing for the homeless or
+ low-income families.
+ `(8) INSTITUTION OF HIGHER EDUCATION- The term `institution of higher
+ education' has the meaning given such term in section 1201(a) of the Higher
+ Education Act of 1965 (20 U.S.C. 1141(a)).
+ `(9) LIMITED ENGLISH PROFICIENCY- The term `limited English proficiency'
+ has the meaning given such term in section 7003 of the Bilingual Education
+ Act (20 U.S.C. 3223).
+ `(10) LOW-INCOME FAMILY- The term `low-income family' has the meaning given
+ the term `lower income families' in section 3(b)(2) of the United States
+ Housing Act of 1937 (42 U.S.C. 1437a(b)(2)).
+ `(11) OFFENDER- The term `offender' means any adult or juvenile with a
+ record of arrest or conviction for a criminal offense.
+ `(12) QUALIFIED NONPROFIT AGENCY- The term `qualified public or private
+ nonprofit agency' means any nonprofit agency that has significant prior
+ experience in the operation of projects similar to the Youthbuild program
+ authorized under this title and that has the capacity to provide effective
+ technical assistance under this title.
+ `(13) RESIDENTIAL RENTAL PURPOSES- The term `residential rental purposes'
+ includes a cooperative or mutual housing facility that has a resale
+ structure that enables the cooperative to maintain affordability for
+ low-income individuals and families.
+ `(14) SERVICE OPPORTUNITY- The term `service opportunity' means the
+ opportunity to perform work in return for wages and benefits in the
+ construction or rehabilitation of real property in accordance with this title.
+ `(15) STATE- The term `State' means any of the several States, the District of
+ Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern
+ Mariana Islands, the Virgin Islands, Guam, American Samoa, or any other
+ territory or possession of the United States.
+ `(16) TRANSITIONAL HOUSING- The term `transitional housing' means a
+ project that has as its purpose facilitating the movement of homeless
+ individuals and families to independent living within a reasonable amount
+ of time. Transitional housing includes housing primarily designed to serve
+ deinstitutionalized homeless individuals and other homeless individuals
+ with mental or physical disabilities and homeless families with children.
+ `(17) YOUTHBUILD PROJECT- The term `Youthbuild project' means any project
+ that receives assistance under this title and provides disadvantaged youth
+ with opportunities for service, education, and training in the construction
+ or rehabilitation of housing for homeless and other low-income individuals.
+`SEC. 715. REGULATIONS.
+ The Secretary shall issue any regulations necessary to carry out this title.
+`SEC. 716. AUTHORIZATION OF APPROPRIATIONS.
+ `There are authorized to be appropriated to carry out this title $1,000,000
+ for fiscal year 1991, $2,000,000 for fiscal year 1992, and $5,000,000 for
+ fiscal year 1993.'.
+Subtitle C--Amendments to Student Literacy Corps
+SEC. 221. AMENDMENTS TO STUDENT LITERACY CORPS.
+ (a) INCREASE IN HOURS OF SERVICE- Section 144(b)(2)(B) of the Higher Education
+ Act of 1965 (20 U.S.C. 1018 note) is amended by striking `6' and inserting
+ in lieu thereof `60' and by striking `each week of' and inserting in lieu
+ thereof `during'.
+ (b) PRIORITY- Section 144(b)(2)(D) of such Act is amended by inserting
+ before the semicolon the following: `and, as provided in section 146,
+ will give priority in providing tutoring services to--
+ `(i) educationally disadvantaged students receiving services under chapter
+ 1 of title I of the Elementary and Secondary Education Act of 1965; and
+ `(ii) illiterate parents of educationally or economically disadvantaged
+ elementary school students, with special emphasis on single-parent
+ households.'.
+ (c) AUTHORIZATION OF APPROPRIATIONS- Section 146 of such Act is amended--
+ (1) by inserting `(a)' before `In general'; and
+ (2) by adding at the end thereof the following new subsection:
+ `(b) The priorities described in section 144(b)(2)(D) shall be applied by
+ the Secretary to funds appropriated which exceed $10,000,000.'.
+TITLE III--POINTS OF LIGHT FOUNDATION
+SEC. 301. SHORT TITLE.
+ This title may be cited as the `The Points of Light Foundation Act'.
+SEC. 302. FINDINGS AND PURPOSES.
+ (a) FINDINGS- Congress finds that--
+ (1) community service and service to others is an integral part of American
+ tradition;
+ (2) existing volunteers and volunteer programs should be praised for their
+ efforts in helping and serving others;
+ (3) the definition of a successful life includes service to others;
+ (4) individuals should be encouraged to volunteer their time and energies
+ in community service efforts;
+ (5) if asked to volunteer or participate in community service, most Americans
+ will do so;
+ (6) institutions should be encouraged to volunteer their resources and
+ energies and should encourage volunteer and community service among their
+ members, employees, affiliates; and
+ (7) volunteer and community service programs are intended to complement
+ and not replace governmental responsibilities.
+ (b) PURPOSE- It is the purpose of this title--
+ (1) to encourage every American and every American institution to help solve
+ our most critical social problems by volunteering their time, energies and
+ services through community service projects and initiatives;
+ (2) to identify successful and promising community service projects and
+ initiatives, and to disseminate information concerning such projects
+ and initiatives to other communities in order to promote their adoption
+ nationwide; and
+ (3) to discover and encourage new leaders and develop individuals and
+ institutions that serve as strong examples of a commitment to serving others
+ and to convince all Americans that a successful life includes serving others.
+SEC. 303. AUTHORITY.
+ (a) IN GENERAL- The President is authorized to designate a private, nonprofit
+ organization (hereinafter referred to in this title as the Foundation)
+ to receive funds pursuant to section 501(b), upon the determination of the
+ President that such organization is capable of carrying out the undertakings
+ described in section 302. Any such designation by the President shall
+ be revocable.
+ (b) CONSTRUCTION- Nothing in this Act shall be construed either--
+ (1) to cause the Foundation to be deemed an agency, establishment, or
+ instrumentality of the United States Government; or
+ (2) to cause the directors, officers or employees of the Foundation to be
+ deemed officers or employees of the United States.
+SEC. 304. GRANTS TO THE FOUNDATION.
+ (a) IN GENERAL- Funds made available pursuant to sections 303 and 501(b)
+ shall be granted to the Foundation by a department or agency in the executive
+ branch of the United States Government designated by the President--
+ (1) to assist the Foundation in carrying out the undertakings described in
+ section 302; and
+ (2) for the administrative expenses of the Foundation.
+ (b) INTEREST EARNED ON ACCOUNTS- Notwithstanding any other provision of
+ law, the Foundation may hold funds granted to it pursuant to this title
+ in interest-bearing accounts, prior to the disbursement of such funds for
+ purposes specified in subsection (a), and may retain for such purposes
+ any interest earned on such deposits without returning such interest to
+ the Treasury of the United States and without further appropriation by
+ the Congress.
+SEC. 305. ELIGIBILITY OF THE FOUNDATION FOR GRANTS.
+ (a) COMPLIANCE- Grants may be made to the Foundation pursuant to this
+ title only if the Foundation agrees to comply with the requirements of this
+ title. If the Foundation fails to comply with the requirements of this title,
+ additional funds shall not be released until the Foundation brings itself
+ into compliance with such requirements.
+ (b) ACTIVITIES- The Foundation may use funds provided under this title
+ only for activities and programs consistent with the purposes described in
+ sections 302 and 304.
+ (c) LIMITATION- The Foundation shall not issue any shares of stock or
+ declare or pay any dividends.
+ (d) COMPENSATION- No part of the funds available to the Foundation shall
+ inure to the benefit of any board member, officer, or employee of the
+ Foundation, except as salary or reasonable compensation for services or
+ expenses. Compensation for board members shall be limited to reimbursement
+ for reasonable costs of travel and expenses.
+ (e) CONFLICTS OF INTEREST- No director, officer, or employee of the
+ Foundation shall participate, directly or indirectly, in the consideration
+ or determination of any question before the Foundation that affects his
+ or her financial interests or the financial interests of any corporation,
+ partnership, entity, or organization in which he or she has a direct or
+ indirect financial interest.
+ (f) POLITICAL ACTIVITY- The Foundation shall not engage in lobbying
+ or propaganda for the purpose of influencing legislation, and shall not
+ participate or intervene in any political campaign on behalf of any candidate
+ for public office.
+ (g) PRIVATE SECTOR CONTRIBUTIONS- During the second and third fiscal
+ years in which funds are provided to the Foundation under this title,
+ the Foundation shall raise from private sector donations an amount equal
+ to not less than 25 percent of any funds provided to the Foundation under
+ this title in such fiscal year. Funds shall be released to the Foundation
+ during such fiscal year only to the extent that the matching requirement
+ of the subsection has been met.
+ (h) AUDIT OF ACCOUNTS- The accounts of the Foundation shall be audited
+ annually by independent certified public accountants or independent licensed
+ public accountants certified or licensed by a regulatory authority of a
+ State or other political subdivision of the United States in accordance with
+ generally accepted auditing standards. The reports, of each such independent
+ audit shall be included in the annual report required by subsection (l).
+ (i) AUDITS BY AGENCIES- In fiscal years in which the Foundation is receiving
+ grants under this title, the accounts of the Foundation may be audited at
+ any time by any agency designated by the President. The Foundation shall
+ keep such records as will facilitate effective audits.
+ (j) CONGRESSIONAL OVERSIGHT- In fiscal years in which the Foundation is
+ receiving grants under this title, the Foundation shall be subject to
+ appropriate oversight procedures of Congress.
+ (k) DUTIES- The Foundation shall ensure--
+ (1) that recipients of financial assistance provided by the Foundation under
+ this title, shall keep separate accounts with respect to such assistance
+ and such records as may be reasonably necessary to disclose fully--
+ (A) the amount and the disposition by such recipient of the assistance
+ received from the Foundation;
+ (B) the total cost of the project or undertaking in connection with which
+ such assistance is given or used;
+ (C) the amount and nature of that portion of the cost of the project or
+ undertaking supplied by other sources; and
+ (D) such other records as will facilitate effective audits; and
+ (2) that the Foundation, or any of its duly authorized representatives
+ including any agency designated by the President pursuant to subsection
+ (i) shall have access, for the purpose of audit and examination, to any
+ books, documents, papers, and records of the recipient that are pertinent
+ to assistance provided from funds granted pursuant to this title.
+ (l) ANNUAL REPORTS- The Foundation shall prepare and submit to the President
+ and to the appropriate Committees of Congress an annual report, that
+ shall include a comprehensive and detailed description of the Foundation's
+ operations, activities, financial condition, and accomplishments for the
+ fiscal year preceding the year in which the report is submitted. Such
+ report shall be submitted not later than 3 months after the conclusion of
+ any fiscal year in which the Foundation receives grants under this title.
+TITLE IV--FOOD DONATIONS
+SEC. 401. SENSE OF CONGRESS CONCERNING ENACTMENT OF GOOD SAMARITAN FOOD
+DONATION ACT.
+ (a) IN GENERAL- It is the sense of Congress that each of the 50 States, the
+ District of Columbia, the Commonwealth of Puerto Rico, and the territories
+ and possessions of the United States should--
+ (1) encourage the donation of apparently wholesome food or grocery products
+ to nonprofit organizations for distribution to needy individuals; and
+ (2) consider the model Good Samaritan Food Donation Act (provided in section
+ 402) as a means of encouraging the donation of food and grocery products.
+ (b) DISTRIBUTION OF COPIES- The Archivist of the United States shall
+ distribute a copy of this title to the chief executive officer of each of
+ the 50 States, the District of Columbia, the Commonwealth of Puerto Rico,
+ and the territories and possessions of the United States.
+SEC. 402. MODEL GOOD SAMARITAN FOOD DONATION ACT.
+ (a) SHORT TITLE- This section may be cited as the `Good Samaritan Food
+ Donation Act'.
+ (b) DEFINITIONS- As used in this section:
+ (1) APPARENTLY FIT GROCERY PRODUCT- The term `apparently fit grocery product'
+ means a grocery product that meets all quality and labeling standards
+ imposed by Federal, State, and local laws and regulations even though the
+ product may not be readily marketable due to appearance, age, freshness,
+ grade, size, surplus, or other conditions.
+ (2) APPARENTLY WHOLESOME FOOD- The term `apparently wholesome food' means food
+ that meets all quality and labeling standards imposed by Federal, State, and
+ local laws and regulations even though the food may not be readily marketable
+ due to appearance, age, freshness, grade, size, surplus, or other conditions.
+ (3) DONATE- The term `donate' means to give without requiring anything
+ of monetary value from the recipient, except that the term shall include
+ giving by a nonprofit organization to another nonprofit organization,
+ notwithstanding that the donor organization has charged a nominal fee to
+ the donee organization, if the ultimate recipient or user is not required
+ to give anything of monetary value.
+ (4) FOOD- The term `food' means any raw, cooked, processed, or prepared
+ edible substance, ice, beverage, or ingredient used or intended for use in
+ whole or in part for human consumption.
+ (5) GLEANER- The term `gleaner' means a person who harvests for free
+ distribution to the needy, or for donation to a nonprofit organization
+ for ultimate distribution to the needy, an agricultural crop that has been
+ donated by the owner.
+ (6) GROCERY PRODUCT- The term `grocery product' means a nonfood grocery
+ product, including a disposable paper or plastic product, household cleaning
+ product, laundry detergent, cleaning product, or miscellaneous household item.
+ (7) GROSS NEGLIGENCE- The term `gross negligence' means voluntary and
+ conscious conduct by a person with knowledge (at the time of the conduct)
+ that the conduct is likely to be harmful to the health or well-being of
+ another person.
+ (8) INTENTIONAL MISCONDUCT- The term `intentional misconduct' means conduct
+ by a person with knowledge (at the time of the conduct) that the conduct
+ is harmful to the health or well-being of another person.
+ (9) NONPROFIT ORGANIZATION- The term `nonprofit organization' means an
+ incorporated or unincorporated entity that--
+ (A) is operating for religious, charitable, or educational purposes; and
+ (B) does not provide net earnings to, or operate in any other manner that
+ inures to the benefit of, any officer, employee, or shareholder of the entity.
+ (10) PERSON- The term `person' means an individual, corporation, partnership,
+ organization, association, or governmental entity, including a retail
+ grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer,
+ and nonprofit food distributor or hospital. In the case of a corporation,
+ partnership, organization, association, or governmental entity, the term
+ includes an officer, director, partner, deacon, trustee, council member,
+ or other elected or appointed individual responsible for the governance of
+ the entity.
+ (c) LIABILITY FOR DAMAGES FROM DONATED FOOD AND GROCERY PRODUCTS- A person
+ or gleaner shall not be subject to civil or criminal liability arising from
+ the nature, age, packaging, or condition of apparently wholesome food or
+ an apparently fit grocery product that the person or gleaner donates in
+ good faith to a nonprofit organization for ultimate distribution to needy
+ individuals, except that this paragraph shall not apply to an injury to or
+ death of an ultimate user or recipient of the food or grocery product that
+ results from an act or omission of the donor constituting gross negligence
+ or intentional misconduct.
+ (d) COLLECTION OR GLEANING OF DONATIONS- A person who allows the collection
+ or gleaning of donations on property owned or occupied by the person by
+ gleaners, or paid or unpaid representatives of a nonprofit organization,
+ for ultimate distribution to needy individuals shall not be subject to civil
+ or criminal liability that arises due to the injury or death of the gleaner
+ or representative, except that this paragraph shall not apply to an injury
+ or death that results from an act or omission of the person constituting
+ gross negligence or intentional misconduct.
+ (e) PARTIAL COMPLIANCE- If some or all of the donated food and grocery
+ products do not meet all quality and labeling standards imposed by Federal,
+ State, and local laws and regulations, the person or gleaner who donates
+ the food and grocery products shall not be subject to civil or criminal
+ liability in accordance with this section if the nonprofit organization
+ that receives the donated food or grocery products--
+ (1) is informed by the donor of the distressed or defective condition of
+ the donated food or grocery products;
+ (2) agrees to recondition the donated food or grocery products to comply
+ with all the quality and labeling standards prior to distribution; and
+ (3) is knowledgeable of the standards to properly recondition the donated
+ food or grocery product.
+ (f) CONSTRUCTION- This section shall not be construed to create any liability.
+SEC. 403. EFFECT OF SECTION 402.
+ The model Good Samaritan Food Donation Act (provided in section 402) is
+ intended only to serve as a model law for enactment by the States, the
+ District of Columbia, the Commonwealth of Puerto Rico, and the territories
+ and possessions of the United States. The enactment of section 402 shall
+ have no force or effect in law.
+TITLE V--AUTHORIZATION OF APPROPRIATIONS
+SEC. 501. AUTHORIZATION OF APPROPRIATIONS.
+ (a) Title I-
+ (1) IN GENERAL- There are authorized to be appropriated to carry out title
+ I, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992,
+ and $105,000,000 for fiscal year 1993.
+ (2) EARMARKS- Of the aggregate amount appropriated under paragraph (1)
+ for title I for each fiscal year--
+ (A) $2,000,000 shall be made available to carry out subtitle G of such
+ title in each such fiscal year;
+ (B) not less than 30 percent shall be available to carry out subtitle B of
+ such title in each such fiscal year;
+ (C) not less than 30 percent shall be available to carry out subtitle C of
+ such title in each such fiscal year; and
+ (D) not less than 30 percent shall be available to carry out subtitle D of
+ such title in each such fiscal year.
+ (b) TITLE III- There are authorized to be appropriated to carry out title
+ III, $5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992,
+ and $10,000,000 for fiscal year 1993.
+TITLE VI--MISCELLANEOUS PROVISIONS
+SEC. 601. AMTRAK WASTE DISPOSAL.
+ (a) AMENDMENT TO RAIL PASSENGER SERVICE ACT- Section 306(i) of the Rail
+ Passenger Service Act is amended--
+ (1) by inserting `and other Federal, State and local laws' after `Public
+ Health Service Act (42 U.S.C. 264)'; and
+ (2) by adding at the end thereof the following new sentences: `New intercity
+ rail passenger cars manufactured on or after October 15, 1990, shall be built
+ to provide for the discharge of human wastes only at servicing facilities. The
+ Corporation shall retrofit those of its intercity rail passenger cars that
+ were manufactured after May 1, 1971 and before October 15, 1990, with human
+ waste disposal systems that provide for the discharge of human wastes only
+ at servicing facilities. Subject to the appropriation of funds, (1) such
+ retrofit program shall be completed within not later than October 15, 1996,
+ and (2) all cars that do not provide for the discharge of human wastes only at
+ servicing facilities shall be removed from service after such date. The United
+ States district courts shall have original jurisdiction over any civil actions
+ brought by the Corporation to enforce the exemption conferred hereunder and
+ may grant equitable or declaratory relief as requested by the Corporation.'.
+ (b) PLAN- Not later than 1 year after the date of enactment of this Act,
+ the National Railroad Passenger Corporation shall prepare and submit to
+ the appropriate committees of Congress a plan that sets forth a schedule
+ and projected cost for the completion of the retrofit program referred to
+ in the amendment made by subsection (a) within the time limit set forth
+ under such amendment.
+ (c) EFFECTIVE DATE- The amendments made by subsection (a) shall take effect
+ as if enacted on February 5, 1976.
+ (d) ENVIRONMENTALLY SENSITIVE AREAS- Not later than 1 year after the date
+ of enactment of this Act, the Secretary of Transportation, after appropriate
+ notice and comment, and in consultation with the National Railroad Passenger
+ Corporation, the Administrator of the Environmental Protection Agency,
+ the Surgeon General, and State and local officials, shall promulgate such
+ regulations as may be necessary to mitigate the impact of the discharge of
+ human waste from railroad passenger cars on areas that may be considered
+ environmentally sensitive.
+ (e) AVAILABILITY OF INFORMATION CONCERNING DISPOSAL OF WASTE- Not later than 1
+ year after the date of enactment of this Act, the Secretary of Transportation
+ shall promulgate regulations directing the National Railroad Passenger
+ Corporation to, where appropriate, publish printed information, and make
+ public address announcements, explaining its existing disposal technology
+ and the retrofit and new equipment program, and encouraging passengers using
+ existing equipment not to dispose of wastes in stations, railroad yards,
+ or while the train is moving through environmentally sensitive areas.
+SEC. 602. EXCHANGE PROGRAM WITH COUNTRIES IN TRANSITION FROM TOTALITARIANISM
+TO DEMOCRACY.
+ (a) AUTHORIZATION OF ACTIVITIES; GRANTS OR CONTRACTS FOR EXCHANGES WITH
+ FOREIGN COUNTRIES- Pursuant to the Mutual Educational and Cultural Exchange
+ Act of 1961 and using the authorities contained therein, the President
+ is authorized, when the President considers that it would strengthen
+ international cooperative relations, to provide, by grant, contract,
+ or otherwise, for exchanges with countries that are in transition from
+ totalitarianism to democracy, which include, but are not limited to Poland,
+ Hungary, Czechoslovakia, Bulgaria, and Romania--
+ (1) by financing studies, research, instruction, and related activities--
+ (A) of or for American citizens and nationals in foreign countries; and
+ (B) of or for citizens and nationals of foreign countries in American private
+ businesses, trade associations, unions, chambers of commerce, and local,
+ State, and Federal Government agencies, located in or outside the United
+ States; and
+ (2) by financing visits and interchanges between the United States and
+ countries in transition from totalitarianism to democracy.
+The program under this section shall be coordinated by the United States
+Information Agency.
+ (b) TRANSFER OF FUNDS- The President is authorized to transfer to the
+ appropriations account of the United States Information Agency such sums as
+ the President shall determine to be necessary out of the travel accounts of
+ the departments and agencies of the United States, except for the Department
+ of State and the United States Information Agency, as the President shall
+ designate. Such transfers shall be subject to the approval of the Committee
+ on Appropriations of the House of Representatives and the Committee on
+ Appropriations of the Senate. In addition, the President is authorized
+ to accept such gifts or cost-sharing arrangements as may be proffered to
+ sustain the program under this section.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

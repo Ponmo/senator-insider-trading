@@ -1,0 +1,2712 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 493 Reported in Senate (RS)]
+
+                                                        Calendar No. 17
+112th CONGRESS
+  1st Session
+                                 S. 493
+
+ To reauthorize and improve the SBIR and STTR programs, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 4, 2011
+
+     Ms. Landrieu (for herself, Ms. Snowe, Mr. Kerry, Mr. Brown of 
+Massachusetts, Mrs. Shaheen, Ms. Ayotte, Mr. Cardin, Mr. Pryor, and Mr. 
+Levin) introduced the following bill; which was read twice and referred 
+        to the Committee on Small Business and Entrepreneurship
+
+                             March 9, 2011
+
+               Reported by Ms. Landrieu, with amendments
+  [Omit the part struck through and insert the part printed in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To reauthorize and improve the SBIR and STTR programs, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``SBIR/STTR Reauthorization Act of 
+2011''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Definitions.
+         TITLE I--REAUTHORIZATION OF THE SBIR AND STTR PROGRAMS
+
+Sec. 101. Extension of termination dates.
+Sec. 102. Status of the Office of Technology.
+Sec. 103. SBIR allocation increase.
+Sec. 104. STTR allocation increase.
+Sec. 105. SBIR and STTR award levels.
+Sec. 106. Agency and program flexibility.
+Sec. 107. Elimination of Phase II invitations.
+Sec. 108. Participation by firms with substantial investment from 
+                            multiple venture capital operating 
+                            companies in a portion of the SBIR program.
+Sec. 109. SBIR and STTR special acquisition preference.
+Sec. 110. Collaborating with Federal laboratories and research and 
+                            development centers.
+Sec. 111. Notice requirement.
+Sec. 112. Express authority for an agency to award sequential Phase II 
+                            awards for SBIR or STTR funded projects.
+          TITLE II--OUTREACH AND COMMERCIALIZATION INITIATIVES
+
+Sec. 201. Rural and State outreach.
+<DELETED>Sec. 202. SBIR-STEM Workforce Development Grant Pilot Program.
+</DELETED>Sec. <DELETED>203</DELETED>202. Technical assistance for 
+                            awardees.
+Sec. <DELETED>204</DELETED>203. Commercialization Readiness Program at 
+                            Department of Defense.
+Sec. <DELETED>205</DELETED>204. Commercialization Readiness Pilot 
+                            Program for civilian agencies.
+Sec. <DELETED>206</DELETED>205. Accelerating cures.
+Sec. <DELETED>207</DELETED>206. Federal agency engagement with SBIR and 
+                            STTR awardees that have been awarded 
+                            multiple Phase I awards but have not been 
+                            awarded Phase II awards.
+Sec. <DELETED>208</DELETED>207. Clarifying the definition of ``Phase 
+                            III''.
+Sec. <DELETED>209</DELETED>208. Shortened period for final decisions on 
+                            proposals and applications.
+                  TITLE III--OVERSIGHT AND EVALUATION
+
+Sec. 301. Streamlining annual evaluation requirements.
+Sec. 302. Data collection from agencies for SBIR.
+Sec. 303. Data collection from agencies for STTR.
+Sec. 304. Public database.
+Sec. 305. Government database.
+Sec. 306. Accuracy in funding base calculations.
+Sec. 307. Continued evaluation by the National Academy of Sciences.
+Sec. 308. Technology insertion reporting requirements.
+Sec. 309. Intellectual property protections.
+Sec. 310. Obtaining consent from SBIR and STTR applicants to release 
+                            contact information to economic development 
+                            organizations.
+Sec. 311. Pilot to allow funding for administrative, oversight, and 
+                            contract processing costs.
+Sec. 312. GAO study with respect to venture capital operating company 
+                            involvement.
+Sec. 313. Reducing vulnerability of SBIR and STTR programs to fraud, 
+                            waste, and abuse.
+Sec. 314. Interagency policy committee.
+Sec. 315. Simplified paperwork requirements.
+                      TITLE IV--POLICY DIRECTIVES
+
+Sec. 401. Conforming amendments to the SBIR and the STTR Policy 
+                            Directives.
+                       TITLE V--OTHER PROVISIONS
+
+Sec. 501. Research topics and program diversification.
+Sec. 502. Report on SBIR and STTR program goals.
+Sec. 503. Competitive selection procedures for SBIR and STTR programs.
+
+SEC. 3. DEFINITIONS.
+
+    In this Act--
+            (1) the terms ``Administration'' and ``Administrator'' mean 
+        the Small Business Administration and the Administrator 
+        thereof, respectively;
+            (2) the terms ``extramural budget'', ``Federal agency'', 
+        ``Small Business Innovation Research Program'', ``SBIR'', 
+        ``Small Business Technology Transfer Program'', and ``STTR'' 
+        have the meanings given such terms in section 9 of the Small 
+        Business Act (15 U.S.C. 638); and
+            (3) the term ``small business concern'' has the meaning 
+        given that term under section 3 of the Small Business Act (15 
+        U.S.C. 632).
+
+         TITLE I--REAUTHORIZATION OF THE SBIR AND STTR PROGRAMS
+
+SEC. 101. EXTENSION OF TERMINATION DATES.
+
+    (a) SBIR.--Section 9(m) of the Small Business Act (15 U.S.C. 
+638(m)) is amended--
+            (1) by striking ``Termination.--'' and all that follows 
+        through ``the authorization'' and inserting ``Termination.--The 
+        authorization'';
+            (2) by striking ``2008'' and inserting ``2019''; and
+            (3) by striking paragraph (2).
+    (b) STTR.--Section 9(n)(1)(A) of the Small Business Act (15 U.S.C. 
+638(n)(1)(A)) is amended--
+            (1) by striking ``In general.--'' and all that follows 
+        through ``with respect'' and inserting ``In general.--With 
+        respect'';
+            (2) by striking ``2009'' and inserting ``2019''; and
+            (3) by striking clause (ii).
+
+SEC. 102. STATUS OF THE OFFICE OF TECHNOLOGY.
+
+    Section 9(b) of the Small Business Act (15 U.S.C. 638(b)) is 
+amended--
+            (1) in paragraph (7), by striking ``and'' at the end;
+            (2) in paragraph (8), by striking the period at the end and 
+        inserting ``; and'';
+            (3) by redesignating paragraph (8) as paragraph (9); and
+            (4) by adding at the end the following:
+            ``(10) to maintain an Office of Technology to carry out the 
+        responsibilities of the Administration under this section, 
+        which shall be--
+                    ``(A) headed by the Assistant Administrator for 
+                Technology, who shall report directly to the 
+                Administrator; and
+                    ``(B) independent from the Office of Government 
+                Contracting of the Administration and sufficiently 
+                staffed and funded to comply with the oversight, 
+                reporting, and public database responsibilities 
+                assigned to the Office of Technology by the 
+                Administrator.''.
+
+SEC. 103. SBIR ALLOCATION INCREASE.
+
+    Section 9(f) of the Small Business Act (15 U.S.C. 638(f)) is 
+amended--
+            (1) in paragraph (1)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``Each'' and inserting ``Except as provided in 
+                paragraph (2)(B), each'';
+                    (B) in subparagraph (B), by striking ``and'' at the 
+                end; and
+                    (C) by striking subparagraph (C) and inserting the 
+                following:
+                    ``(C) not less than 2.5 percent of such budget in 
+                fiscal year 2013;
+                    ``(D) not less than 2.6 percent of such budget in 
+                fiscal year 2014;
+                    ``(E) not less than 2.7 percent of such budget in 
+                fiscal year 2015;
+                    ``(F) not less than 2.8 percent of such budget in 
+                fiscal year 2016;
+                    ``(G) not less than 2.9 percent of such budget in 
+                fiscal year 2017;
+                    ``(H) not less than 3.0 percent of such budget in 
+                fiscal year 2018;
+                    ``(I) not less than 3.1 percent of such budget in 
+                fiscal year 2019;
+                    ``(J) not less than 3.2 percent of such budget in 
+                fiscal year 2020;
+                    ``(K) not less than 3.3 percent of such budget in 
+                fiscal year 2021;
+                    ``(L) not less than 3.4 percent of such budget in 
+                fiscal year 2022; and
+                    ``(M) not less than 3.5 percent of such budget in 
+                fiscal year 2023 and each fiscal year thereafter.''; 
+                <DELETED>and
+        </DELETED>    (2) in paragraph (2)--
+                    (A) by redesignating subparagraphs (A) and (B) as 
+                clauses (i) and (ii), respectively, and adjusting the 
+                margins accordingly;
+                    (B) by striking ``A Federal agency'' and inserting 
+                the following:
+                    ``(A) In general.--A Federal agency''; and
+                    (C) by adding at the end the following:
+                    ``(B) Department of defense and department of 
+                energy.--For the Department of Defense and the 
+                Department of Energy, to the greatest extent 
+                practicable, the percentage of the extramural budget in 
+                excess of 2.5 percent required to be expended with 
+                small business concerns under subparagraphs (D) through 
+                (M) of paragraph (1)--
+                            ``(i) may not be used for new Phase I or 
+                        Phase II awards; and
+                            ``(ii) shall be used for activities that 
+                        further the readiness levels of technologies 
+                        developed under Phase II awards, including 
+                        conducting testing and evaluation to promote 
+                        the transition of such technologies into 
+                        commercial or defense products, or systems 
+                        furthering the mission needs of the Department 
+                        of Defense or the Department of Energy, as the 
+                        case may be.''<DELETED>.</DELETED>; and
+            (3) by adding at the end the following:
+            ``(4) Rule of construction.--Nothing in this subsection may 
+        be construed to prohibit a Federal agency from expending with 
+        small business concerns an amount of the extramural budget for 
+        research or research and development of the Federal agency that 
+        exceeds the amount required under paragraph (1).''.
+
+SEC. 104. STTR ALLOCATION INCREASE.
+
+    Section 9(n)(1)(B) of the Small Business Act (15 U.S.C. 
+638(n)(1)(B)) is amended--
+            (1) in clause (i), by striking ``and'' at the end;
+            (2) in clause (ii), by striking ``thereafter.'' and 
+        inserting ``through fiscal year 2012;''; <DELETED>and
+        </DELETED>    (3) by adding at the end the following:
+                            ``(iii) 0.4 percent for fiscal years 2013 
+                        and 2014;
+                            ``(iv) 0.5 percent for fiscal years 2015 
+                        and 2016; and
+                            ``(v) 0.6 percent for fiscal year 2017 and 
+                        each fiscal year 
+                        thereafter.''<DELETED>.</DELETED>; and
+            (4) by adding at the end the following:
+            ``(4) Rule of construction.--Nothing in this subsection may 
+        be construed to prohibit a Federal agency from expending with 
+        small business concerns an amount of the extramural budget for 
+        research or research and development of the Federal agency that 
+        exceeds the amount required under paragraph (1).''.
+
+SEC. 105. SBIR AND STTR AWARD LEVELS.
+
+    (a) SBIR Adjustments.--Section 9(j)(2)(D) of the Small Business Act 
+(15 U.S.C. 638(j)(2)(D)) is amended--
+            (1) by striking ``$100,000'' and inserting ``$150,000''; 
+        and
+            (2) by striking ``$750,000'' and inserting ``$1,000,000''.
+    (b) STTR Adjustments.--Section 9(p)(2)(B)(ix) of the Small Business 
+Act (15 U.S.C. 638(p)(2)(B)(ix)) is amended--
+            (1) by striking ``$100,000'' and inserting ``$150,000''; 
+        and
+            (2) by striking ``$750,000'' and inserting ``$1,000,000''.
+    (c) Annual Adjustments.--Section 9 of the Small Business Act (15 
+U.S.C. 638) is amended--
+            (1) in subsection (j)(2)(D), by striking ``once every 5 
+        years to reflect economic adjustments and programmatic 
+        considerations'' and inserting ``every year for inflation''; 
+        and
+            (2) in subsection (p)(2)(B)(ix), as amended by subsection 
+        (b) of this section, by inserting ``(each of which the 
+        Administrator shall adjust for inflation annually)'' after 
+        ``$1,000,000,''.
+    (d) Limitation on Size of Awards.--Section 9 of the Small Business 
+Act (15 U.S.C. 638) is amended by adding at the end the following:
+    ``(aa) Limitation on Size of Awards.--
+            ``(1) Limitation.--No Federal agency may issue an award 
+        under the SBIR program or the STTR program if the size of the 
+        award exceeds the award guidelines established under this 
+        section by more than 50 percent.
+            ``(2) Maintenance of information.--Participating agencies 
+        shall maintain information on awards exceeding the guidelines 
+        established under this section, including--
+                    ``(A) the amount of each award;
+                    ``(B) a justification for exceeding the award 
+                amount;
+                    ``(C) the identity and location of each award 
+                recipient; and
+                    ``(D) whether an award recipient has received any 
+                venture capital investment and, if so, whether the 
+                recipient is majority-owned by multiple venture capital 
+                operating companies.
+            ``(3) Reports.--The Administrator shall include the 
+        information described in paragraph (2) in the annual report of 
+        the Administrator to Congress.
+            ``(4) Rule of construction.--Nothing in this subsection 
+        shall be construed to prevent a Federal agency from 
+        supplementing an award under the SBIR program or the STTR 
+        program using funds of the Federal agency that are not part of 
+        the SBIR program or the STTR program of the Federal agency.''.
+
+SEC. 106. AGENCY AND PROGRAM FLEXIBILITY.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(bb) Subsequent Phase II Awards.--
+            ``(1) Agency flexibility.--A small business concern that 
+        received an award from a Federal agency under this section 
+        shall be eligible to receive a subsequent Phase II award from 
+        another Federal agency, if the head of each relevant Federal 
+        agency or the relevant component of the Federal agency makes a 
+        written determination that the topics of the relevant awards 
+        are the same and both agencies report the awards to the 
+        Administrator for inclusion in the public database under 
+        subsection (k).
+            ``(2) SBIR and sttr program flexibility.--A small business 
+        concern that received an award under this section under the 
+        SBIR program or the STTR program may receive a subsequent Phase 
+        II award in either the SBIR program or the STTR program and the 
+        participating agency or agencies shall report the awards to the 
+        Administrator for inclusion in the public database under 
+        subsection (k).
+            ``(3) Preventing duplicative awards.--Before making an 
+        award under paragraph (1) or (2), the head of a Federal agency 
+        shall verify that the project to be performed with the award 
+        has not been funded under the SBIR program or STTR program of 
+        another Federal agency.''.
+
+SEC. 107. ELIMINATION OF PHASE II INVITATIONS.
+
+    (a) In General.--Section 9(e) of the Small Business Act (15 U.S.C. 
+638(e)) is amended--
+            (1) in paragraph (4)(B), by striking ``to further'' and 
+        inserting: ``which shall not include any invitation, pre-
+        screening, pre-selection, or down-selection process for 
+        eligibility for the second phase, that will further''; and
+            (2) in paragraph (6)(B), by striking ``to further develop 
+        proposed ideas to'' and inserting ``which shall not include any 
+        invitation, pre-screening, pre-selection, or down-selection 
+        process for eligibility for the second phase, that will further 
+        develop proposals that''.
+
+SEC. 108. PARTICIPATION BY FIRMS WITH SUBSTANTIAL INVESTMENT FROM 
+              MULTIPLE VENTURE CAPITAL OPERATING COMPANIES IN A PORTION 
+              OF THE SBIR PROGRAM.
+
+    (a) In General.--Section 9 of the Small Business Act (15 U.S.C. 
+638), as amended by this Act, is amended by adding at the end the 
+following:
+    ``(cc) Participation of Small Business Concerns Majority-Owned by 
+Venture Capital Operating Companies in the SBIR Program.--
+            ``(1) Authority.--Upon a written determination described in 
+        paragraph (2) provided to the Administrator and to the 
+        Committee on Small Business and Entrepreneurship of the Senate 
+        and the Committee on Small Business of the House of 
+        Representatives not later than 30 days before the date on which 
+        an award is made--
+                    ``(A) the Director of the National Institutes of 
+                Health, the Secretary of Energy, and the Director of 
+                the National Science Foundation may award not more than 
+                25 percent of the funds allocated for the SBIR program 
+                of the Federal agency to small business concerns that 
+                are owned in majority part by multiple venture capital 
+                operating companies through competitive, merit-based 
+                procedures that are open to all eligible small business 
+                concerns; and
+                    ``(B) the head of a Federal agency other than a 
+                Federal agency described in subparagraph (A) that 
+                participates in the SBIR program may award not more 
+                than 15 percent of the funds allocated for the SBIR 
+                program of the Federal agency to small business 
+                concerns that are owned in majority part by multiple 
+                venture capital operating companies through 
+                competitive, merit-based procedures that are open to 
+                all eligible small business concerns.
+            ``(2) Determination.--A written determination described in 
+        this paragraph is a written determination by the head of a 
+        Federal agency that explains how the use of the authority under 
+        paragraph (1) will--
+                    ``(A) induce additional venture capital funding of 
+                small business innovations;
+                    ``(B) substantially contribute to the mission of 
+                the Federal agency;
+                    ``(C) demonstrate a need for public research; and
+                    ``(D) otherwise fulfill the capital needs of small 
+                business concerns for additional financing for the SBIR 
+                project.
+            ``(3) Registration.--A small business concern that is 
+        majority-owned by multiple venture capital operating companies 
+        and qualified for participation in the program authorized under 
+        paragraph (1) shall--
+                    ``(A) register with the Administrator on the date 
+                that the small business concern submits an application 
+                for an award under the SBIR program; and
+                    ``(B) indicate in any SBIR proposal that the small 
+                business concern is registered under subparagraph (A) 
+                as majority-owned by multiple venture capital operating 
+                companies.
+            ``(4) Compliance.--
+                    ``(A) In general.--The head of a Federal agency 
+                that makes an award under this subsection during a 
+                fiscal year shall collect and submit to the 
+                Administrator data relating to the number and dollar 
+                amount of Phase I awards, Phase II awards, and any 
+                other category of awards by the Federal agency under 
+                the SBIR program during that fiscal year.
+                    ``(B) Annual reporting.--The Administrator shall 
+                include as part of each annual report by the 
+                Administration under subsection (b)(7) any data 
+                submitted under subparagraph (A) and a discussion of 
+                the compliance of each Federal agency that makes an 
+                award under this subsection during the fiscal year with 
+                the maximum percentages under paragraph (1).
+            ``(5) Enforcement.--If a Federal agency awards more than 
+        the percent of the funds allocated for the SBIR program of the 
+        Federal agency authorized under paragraph (1) for a purpose 
+        described in paragraph (1), the head of the Federal agency 
+        shall transfer an amount equal to the amount awarded in excess 
+        of the amount authorized under paragraph (1) to the funds for 
+        general SBIR programs from the non-SBIR and non-STTR research 
+        and development funds of the Federal agency not later than 180 
+        days after the date on which the Federal agency made the award 
+        that caused the total awarded under paragraph (1) to be more 
+        than the amount authorized under paragraph (1) for a purpose 
+        described in paragraph (1).
+            ``(6) Final decisions on applications under the sbir 
+        program.--
+                    ``(A) Definition.--In this paragraph, the term 
+                `covered small business concern' means a small business 
+                concern that--
+                            ``(i) was not majority-owned by multiple 
+                        venture capital operating companies on the date 
+                        on which the small business concern submitted 
+                        an application in response to a solicitation 
+                        under the SBIR programs; and
+                            ``(ii) on the date of the award under the 
+                        SBIR program is majority-owned by multiple 
+                        venture capital operating companies.
+                    ``(B) In general.--If a Federal agency does not 
+                make an award under a solicitation under the SBIR 
+                program before the date that is 9 months after the date 
+                on which the period for submitting applications under 
+                the solicitation ends--
+                            ``(i) a covered small business concern is 
+                        eligible to receive the award, without regard 
+                        to whether the covered small business concern 
+                        meets the requirements for receiving an award 
+                        under the SBIR program for a small business 
+                        concern that is majority-owned by multiple 
+                        venture capital operating companies, if the 
+                        covered small business concern meets all other 
+                        requirements for such an award; and
+                            ``(ii) the head of the Federal agency shall 
+                        transfer an amount equal to any amount awarded 
+                        to a covered small business concern under the 
+                        solicitation to the funds for general SBIR 
+                        programs from the non-SBIR and non-STTR 
+                        research and development funds of the Federal 
+                        agency, not later than 90 days after the date 
+                        on which the Federal agency makes the award.
+            ``<DELETED>(6)</DELETED>(7) Evaluation criteria.--A Federal 
+        agency may not use investment of venture capital as a criterion 
+        for the award of contracts under the SBIR program or STTR 
+        program.
+    (b) Technical and Conforming Amendment.--Section 3 of the Small 
+Business Act (15 U.S.C. 632) is amended by adding at the end the 
+following:
+    ``(aa) Venture Capital Operating Company.--In this Act, the term 
+`venture capital operating company' means an entity described in clause 
+(i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal 
+Regulations (or any successor thereto).''.
+    (c) Rulemaking To Ensure That Firms That Are Majority-Owned by 
+Multiple Venture Capital Operating Companies Are Able To Participate in 
+a Portion of the SBIR Program.--
+            (1) Statement of congressional intent.--It is the stated 
+        intent of Congress that the Administrator should promulgate 
+        regulations to carry out the authority under section 9(cc) of 
+        the Small Business Act, as added by this section, that--
+                    (A) permit small business concerns that are 
+                majority-owned by multiple venture capital operating 
+                companies to participate in the SBIR program in 
+                accordance with section 9(cc) of the Small Business 
+                Act;
+                    (B) provide specific guidance for small business 
+                concerns that are majority-owned by multiple venture 
+                capital operating companies with regard to eligibility, 
+                participation, and affiliation rules; and
+                    (C) preserve and maintain the integrity of the SBIR 
+                program as a program for small business concerns in the 
+                United States, prohibiting large businesses or large 
+                entities or foreign-owned businesses or entities from 
+                participation in the program established under section 
+                9 of the Small Business Act.
+            (2) Rulemaking required.--
+                    (A) Proposed regulations.--Not later than 4 months 
+                after the date of enactment of this Act, the 
+                Administrator shall issue proposed regulations to amend 
+                section 121.103 (relating to determinations of 
+                affiliation applicable to the SBIR program) and section 
+                121.702 (relating to ownership and control standards 
+                and size standards applicable to the SBIR program) of 
+                title 13, Code of Federal Regulations, for firms that 
+                are majority-owned by multiple venture capital 
+                operating companies and participating in the SBIR 
+                program solely under the authority under section 9(cc) 
+                of the Small Business Act, as added by this section.
+                    (B) Final regulations.--Not later than 1 year after 
+                the date of enactment of this Act, and after providing 
+                notice of and opportunity for comment on the proposed 
+                regulations issued under subparagraph (A), the 
+                Administrator shall issue final or interim final 
+                regulations under this subsection.
+            (3) Contents.--
+                    (A) In general.--The regulations issued under this 
+                subsection shall permit the participation of applicants 
+                majority-owned by multiple venture capital operating 
+                companies in the SBIR program in accordance with 
+                section 9(cc) of the Small Business Act, as added by 
+                this section, unless the Administrator determines--
+                            (i) in accordance with the size standards 
+                        established under subparagraph (B), that the 
+                        applicant is--
+                                    (I) a large business or large 
+                                entity; or
+                                    (II) majority-owned or controlled 
+                                by a large business or large entity; or
+                            (ii) in accordance with the criteria 
+                        established under subparagraph (C), that the 
+                        applicant--
+                                    (I) is a foreign business or a 
+                                foreign entity or is not a citizen of 
+                                the United States or alien lawfully 
+                                admitted for permanent residence; or
+                                    (II) is majority-owned or 
+                                controlled by a foreign business, 
+                                foreign entity, or person who is not a 
+                                citizen of the United States or alien 
+                                lawfully admitted for permanent 
+                                residence.
+                    (B) Size standards.--Under the authority to 
+                establish size standards under paragraphs (2) and (3) 
+                of section 3(a) of the Small Business Act (15 U.S.C. 
+                632(a)), the Administrator shall, in accordance with 
+                paragraph (1) of this subsection, establish size 
+                standards for applicants seeking to participate in the 
+                SBIR program solely under the authority under section 
+                9(cc) of the Small Business Act, as added by this 
+                section.
+                    (C) Criteria for determining foreign ownership.--
+                The Administrator shall establish criteria for 
+                determining whether an applicant meets the requirements 
+                under subparagraph (A)(ii), and, in establishing the 
+                criteria, shall consider whether the criteria should 
+                include--
+                            (i) whether the applicant is at least 51 
+                        percent owned or controlled by citizens of the 
+                        United States or domestic venture capital 
+                        operating companies;
+                            (ii) whether the applicant is domiciled in 
+                        the United States; and
+                            (iii) whether the applicant is a direct or 
+                        indirect subsidiary of a foreign-owned firm, 
+                        including whether the criteria should include 
+                        that an applicant is a direct or indirect 
+                        subsidiary of a foreign-owned entity if--
+                                    (I) any venture capital operating 
+                                company that owns more than 20 percent 
+                                of the applicant is a direct or 
+                                indirect subsidiary of a foreign-owned 
+                                entity; or
+                                    (II) in the aggregate, entities 
+                                that are direct or indirect 
+                                subsidiaries of foreign-owned entities 
+                                own more than 49 percent of the 
+                                applicant.
+                    (D) Criteria for determining affiliation.--The 
+                Administrator shall establish criteria, in accordance 
+                with paragraph (1), for determining whether an 
+                applicant is affiliated with a venture capital 
+                operating company or any other business that the 
+                venture capital operating company has financed and, in 
+                establishing the criteria, shall specify that--
+                            (i) if a venture capital operating company 
+                        that is determined to be affiliated with an 
+                        applicant is a minority investor in the 
+                        applicant, the portfolio companies of the 
+                        venture capital operating company shall not be 
+                        determined to be affiliated with the applicant, 
+                        unless--
+                                    (I) the venture capital operating 
+                                company owns a majority of the 
+                                portfolio company; or
+                                    (II) the venture capital operating 
+                                company holds a majority of the seats 
+                                on the board of directors of the 
+                                portfolio company;
+                            (ii) subject to clause (i), the 
+                        Administrator retains the authority to 
+                        determine whether a venture capital operating 
+                        company is affiliated with an applicant, 
+                        including establishing other criteria;
+                            (iii) the Administrator may not determine 
+                        that a portfolio company of a venture capital 
+                        operating company is affiliated with an 
+                        applicant based solely on one or more shared 
+                        investors; and
+                            (iv) subject to clauses (i), (ii), and 
+                        (iii), the Administrator retains the authority 
+                        to determine whether a portfolio company of a 
+                        venture capital operating company is affiliated 
+                        with an applicant based on factors independent 
+                        of whether there is a shared investor, such as 
+                        whether there are contractual obligations 
+                        between the portfolio company and the 
+                        applicant.
+            (4) Enforcement.--If the Administrator does not issue final 
+        or interim final regulations under this subsection on or before 
+        the date that is 1 year after the date of enactment of this 
+        Act, the Administrator may not carry out any activities under 
+        section 4(h) of the Small Business Act (15 U.S.C. 633(h)) (as 
+        continued in effect pursuant to the Act entitled ``An Act to 
+        extend temporarily certain authorities of the Small Business 
+        Administration'', approved October 10, 2006 (Public Law 109-
+        316; 120 Stat. 1742)) during the period beginning on the date 
+        that is 1 year and 1 day after the date of enactment of this 
+        Act, and ending on the date on which the final or interim final 
+        regulations are issued.
+            (5) Definition.--In this subsection, the term ``venture 
+        capital operating company'' has the same meaning as in section 
+        3(aa) of the Small Business Act, as added by this section.
+    (d) Assistance for Determining Affiliates.--
+            (1) Clear explanation required.--Not later than 30 days 
+        after the date of enactment of this Act, the Administrator 
+        shall post on the Web site of the Administration (with a direct 
+        link displayed on the homepage of the Web site of the 
+        Administration or the SBIR and STTR Web sites of the 
+        Administration)--
+                    (A) a clear explanation of the SBIR and STTR 
+                affiliation rules under part 121 of title 13, Code of 
+                Federal Regulations; and
+                    (B) contact information for officers or employees 
+                of the Administration who--
+                            (i) upon request, shall review an issue 
+                        relating to the rules described in subparagraph 
+                        (A); and
+                            (ii) shall respond to a request under 
+                        clause (i) not later than 20 business days 
+                        after the date on which the request is 
+                        received.
+            (2) Inclusion of affiliation rules for certain small 
+        business concerns.--On and after the date on which the final 
+        regulations under subsection (c) are issued, the Administrator 
+        shall post on the Web site of the Administration information 
+        relating to the regulations, in accordance with paragraph (1).
+
+SEC. 109. SBIR AND STTR SPECIAL ACQUISITION PREFERENCE.
+
+    Section 9(r) of the Small Business Act (15 U.S.C. 638(r)) is 
+amended by adding at the end the following:
+            ``(4) Phase iii awards.--To the greatest extent 
+        practicable, Federal agencies and Federal prime contractors 
+        shall issue Phase III awards relating to technology, including 
+        sole source awards, to the SBIR and STTR award recipients that 
+        developed the technology.''.
+
+SEC. 110. COLLABORATING WITH FEDERAL LABORATORIES AND RESEARCH AND 
+              DEVELOPMENT CENTERS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(dd) Collaborating With Federal Laboratories and Research and 
+Development Centers.--
+            ``(1) Authorization.--Subject to the limitations under this 
+        section, the head of each participating Federal agency may make 
+        SBIR and STTR awards to any eligible small business concern 
+        that--
+                    ``(A) intends to enter into an agreement with a 
+                Federal laboratory or federally funded research and 
+                development center for portions of the activities to be 
+                performed under that award; or
+                    ``(B) has entered into a cooperative research and 
+                development agreement (as defined in section 12(d) of 
+                the Stevenson-Wydler Technology Innovation Act of 1980 
+                (15 U.S.C. 3710a(d))) with a Federal laboratory.
+            ``(2) Prohibition.--No Federal agency shall--
+                    ``(A) condition an SBIR or STTR award upon entering 
+                into agreement with any Federal laboratory or any 
+                federally funded laboratory or research and development 
+                center for any portion of the activities to be 
+                performed under that award;
+                    ``(B) approve an agreement between a small business 
+                concern receiving a SBIR or STTR award and a Federal 
+                laboratory or federally funded laboratory or research 
+                and development center, if the small business concern 
+                performs a lesser portion of the activities to be 
+                performed under that award than required by this 
+                section and by the SBIR Policy Directive and the STTR 
+                Policy Directive of the Administrator; or
+                    ``(C) approve an agreement that violates any 
+                provision, including any data rights protections 
+                provision, of this section or the SBIR and the STTR 
+                Policy Directives.
+            ``(3) Implementation.--Not later than 180 days after the 
+        date of enactment of this subsection, the Administrator shall 
+        modify the SBIR Policy Directive and the STTR Policy Directive 
+        issued under this section to ensure that small business 
+        concerns--
+                    ``(A) have the flexibility to use the resources of 
+                the Federal laboratories and federally funded research 
+                and development centers; and
+                    ``(B) are not mandated to enter into agreement with 
+                any Federal laboratory or any federally funded 
+                laboratory or research and development center as a 
+                condition of an award.''.
+
+SEC. 111. NOTICE REQUIREMENT.
+
+    (a) SBIR Program.--Section 9(g) of the Small Business Act (15 
+U.S.C. 638(g)) is amended--
+            (1) in paragraph (10), by striking ``and'' at the end;
+            (2) in paragraph (11), by striking the period at the end 
+        and inserting a semicolon; and
+            (3) by adding at the end the following:
+            ``(12) provide timely notice to the Administrator of any 
+        case or controversy before any Federal judicial or 
+        administrative tribunal concerning the SBIR program of the 
+        Federal agency; and''.
+    (b) STTR Program.--Section 9(o) of the Small Business Act (15 
+U.S.C. 638(o)) is amended--
+            (1) by striking paragraph (15);
+            (2) in paragraph (16), by striking the period at the end 
+        and inserting ``; and'';
+            (3) by redesignating paragraph (16) as paragraph (15); and
+            (4) by adding at the end the following:
+            ``(16) provide timely notice to the Administrator of any 
+        case or controversy before any Federal judicial or 
+        administrative tribunal concerning the STTR program of the 
+        Federal agency.''.
+
+SEC. 112. EXPRESS AUTHORITY FOR AN AGENCY TO AWARD SEQUENTIAL PHASE II 
+              AWARDS FOR SBIR OR STTR FUNDED PROJECTS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(ee) Additional Phase II SBIR and STTR Awards.--A small business 
+concern that receives a Phase II SBIR award or a Phase II STTR award 
+for a project remains eligible to receive an additional Phase II SBIR 
+award or Phase II STTR award for that project.''.
+
+          TITLE II--OUTREACH AND COMMERCIALIZATION INITIATIVES
+
+SEC. 201. RURAL AND STATE OUTREACH.
+
+    (a) In General.--Section 9 of the Small Business Act (15 U.S.C. 
+638) is amended by inserting after subsection (r) the following:
+    ``(s) Federal and State Technology Partnership Program.--
+            ``(1) Definitions.--In this subsection, the following 
+        definitions apply:
+                    ``(A) Applicant.--The term `applicant' means an 
+                entity, organization, or individual that submits a 
+                proposal for an award or a cooperative agreement under 
+                this subsection.
+                    ``(B) FAST program.--The term `FAST program' means 
+                the Federal and State Technology Partnership Program 
+                established under this subsection.
+                    ``(C) Recipient.--The term `recipient' means a 
+                person that receives an award or becomes party to a 
+                cooperative agreement under this subsection.
+                    ``(D) State.--The term `State' means each of the 
+                several States, the District of Columbia, the 
+                Commonwealth of Puerto Rico, the Virgin Islands, Guam, 
+                and American Samoa.
+                    ``(E) Definitions relating to mentoring networks.--
+                The terms `business advice and counseling', `mentor', 
+                and `mentoring network' have the meanings given those 
+                terms in section 34(e).
+            ``(2) Establishment of program.--The Administrator shall 
+        establish a program to be known as the Federal and State 
+        Technology Partnership Program, the purpose of which shall be 
+        to strengthen the technological competitiveness of small 
+        business concerns in the States.
+            ``(3) Grants and cooperative agreements.--
+                    ``(A) Joint review.--In carrying out the FAST 
+                program, the Administrator and the program managers for 
+                the SBIR program and STTR program at the National 
+                Science Foundation, the Department of Defense, and any 
+                other Federal agency determined appropriate by the 
+                Administrator shall jointly review proposals submitted 
+                by applicants and may make awards or enter into 
+                cooperative agreements under this subsection based on 
+                the factors for consideration set forth in subparagraph 
+                (B), in order to enhance or develop in a State--
+                            ``(i) technology research and development 
+                        by small business concerns;
+                            ``(ii) technology transfer from university 
+                        research to technology-based small business 
+                        concerns;
+                            ``(iii) technology deployment and diffusion 
+                        benefitting small business concerns;
+                            ``(iv) the technological capabilities of 
+                        small business concerns through the 
+                        establishment or operation of consortia 
+                        comprised of entities, organizations, or 
+                        individuals, including--
+                                    ``(I) State and local development 
+                                agencies and entities;
+                                    ``(II) representatives of 
+                                technology-based small business 
+                                concerns;
+                                    ``(III) industries and emerging 
+                                companies;
+                                    ``(IV) universities; and
+                                    ``(V) small business development 
+                                centers; and
+                            ``(v) outreach, financial support, and 
+                        technical assistance to technology-based small 
+                        business concerns participating in or 
+                        interested in participating in an SBIR program 
+                        or STTR program, including initiatives--
+                                    ``(I) to make grants or loans to 
+                                companies to pay a portion or all of 
+                                the cost of developing SBIR or STTR 
+                                proposals;
+                                    ``(II) to establish or operate a 
+                                Mentoring Network within the FAST 
+                                program to provide business advice and 
+                                counseling that will assist small 
+                                business concerns that have been 
+                                identified by FAST program 
+                                participants, program managers of 
+                                participating SBIR agencies, the 
+                                Administration, or other entities that 
+                                are knowledgeable about the SBIR and 
+                                STTR programs as good candidates for 
+                                the SBIR and STTR programs, and that 
+                                would benefit from mentoring, in 
+                                accordance with section 34;
+                                    ``(III) to create or participate in 
+                                a training program for individuals 
+                                providing SBIR or STTR outreach and 
+                                assistance at the State and local 
+                                levels; and
+                                    ``(IV) to encourage the 
+                                commercialization of technology 
+                                developed through funding under the 
+                                SBIR program or the STTR program.
+                    ``(B) Selection considerations.--In making awards 
+                or entering into cooperative agreements under this 
+                subsection, the Administrator and the program managers 
+                referred to in subparagraph (A)--
+                            ``(i) may only consider proposals by 
+                        applicants that intend to use a portion of the 
+                        Federal assistance provided under this 
+                        subsection to provide outreach, financial 
+                        support, or technical assistance to technology-
+                        based small business concerns participating in 
+                        or interested in participating in the SBIR 
+                        program or STTR program; and
+                            ``(ii) shall consider, at a minimum--
+                                    ``(I) whether the applicant has 
+                                demonstrated that the assistance to be 
+                                provided would address unmet needs of 
+                                small business concerns in the 
+                                community, and whether it is important 
+                                to use Federal funding for the proposed 
+                                activities;
+                                    ``(II) whether the applicant has 
+                                demonstrated that a need exists to 
+                                increase the number or success of small 
+                                high-technology businesses in the State 
+                                or an area of the State, as measured by 
+                                the number of Phase I and Phase II SBIR 
+                                awards that have historically been 
+                                received by small business concerns in 
+                                the State or area of the State;
+                                    ``(III) whether the projected costs 
+                                of the proposed activities are 
+                                reasonable;
+                                    ``(IV) whether the proposal 
+                                integrates and coordinates the proposed 
+                                activities with other State and local 
+                                programs assisting small high-
+                                technology firms in the State;
+                                    ``(V) the manner in which the 
+                                applicant will measure the results of 
+                                the activities to be conducted; and
+                                    ``(VI) whether the proposal 
+                                addresses the needs of small business 
+                                concerns--
+                                            ``(aa) owned and controlled 
+                                        by women;
+                                            ``(bb) that are socially 
+                                        and economically disadvantaged 
+                                        small business concerns (as 
+                                        defined in section 8(a)(4)(A));
+                                            ``(cc) that are HUBZone 
+                                        small business concerns;
+                                            ``(dd) located in areas 
+                                        that have historically not 
+                                        participated in the SBIR and 
+                                        STTR programs;
+                                            ``(ee) owned and controlled 
+                                        by service-disabled veterans;
+                                            ``(ff) owned and controlled 
+                                        by Native Americans; and
+                                            ``(gg) located in 
+                                        geographic areas with an 
+                                        unemployment rate that exceeds 
+                                        the national unemployment rate, 
+                                        based on the most recently 
+                                        available monthly publications 
+                                        of the Bureau of Labor 
+                                        Statistics of the Department of 
+                                        Labor.
+                    ``(C) Proposal limit.--Not more than 1 proposal may 
+                be submitted for inclusion in the FAST program under 
+                this subsection to provide services in any one State in 
+                any 1 fiscal year.
+                    ``(D) Process.--Proposals and applications for 
+                assistance under this subsection shall be in such form 
+                and subject to such procedures as the Administrator 
+                shall establish. The Administrator shall promulgate 
+                regulations establishing standards for the 
+                consideration of proposals under subparagraph (B), 
+                including standards regarding each of the 
+                considerations identified in subparagraph (B)(ii).
+            ``(4) Cooperation and coordination.--In carrying out the 
+        FAST program, the Administrator shall cooperate and coordinate 
+        with--
+                    ``(A) Federal agencies required by this section to 
+                have an SBIR program; and
+                    ``(B) entities, organizations, and individuals 
+                actively engaged in enhancing or developing the 
+                technological capabilities of small business concerns, 
+                including--
+                            ``(i) State and local development agencies 
+                        and entities;
+                            ``(ii) State committees established under 
+                        the Experimental Program to Stimulate 
+                        Competitive Research of the National Science 
+                        Foundation (as established under section 113 of 
+                        the National Science Foundation Authorization 
+                        Act of 1988 (42 U.S.C. 1862g));
+                            ``(iii) State science and technology 
+                        councils; and
+                            ``(iv) representatives of technology-based 
+                        small business concerns.
+            ``(5) Administrative requirements.--
+                    ``(A) Competitive basis.--Awards and cooperative 
+                agreements under this subsection shall be made or 
+                entered into, as applicable, on a competitive basis.
+                    ``(B) Matching requirements.--
+                            ``(i) In general.--The non-Federal share of 
+                        the cost of an activity (other than a planning 
+                        activity) carried out using an award or under a 
+                        cooperative agreement under this subsection 
+                        shall be--
+                                    ``(I) except as provided in clause 
+                                (iii), 35 cents for each Federal 
+                                dollar, in the case of a recipient that 
+                                will serve small business concerns 
+                                located in 1 of the 18 States receiving 
+                                the fewest Phase I SBIR awards;
+                                    ``(II) except as provided in clause 
+                                (ii) or (iii), 1 dollar for each 
+                                Federal dollar, in the case of a 
+                                recipient that will serve small 
+                                business concerns located in 1 of the 
+                                16 States receiving the greatest number 
+                                of Phase I SBIR awards; and
+                                    ``(III) except as provided in 
+                                clause (ii) or (iii), 50 cents for each 
+                                Federal dollar, in the case of a 
+                                recipient that will serve small 
+                                business concerns located in a State 
+                                that is not described in subclause (I) 
+                                or (II) that is receiving Phase I SBIR 
+                                awards.
+                            ``(ii) Low-income areas.--The non-Federal 
+                        share of the cost of the activity carried out 
+                        using an award or under a cooperative agreement 
+                        under this subsection shall be 35 cents for 
+                        each Federal dollar that will be directly 
+                        allocated by a recipient described in clause 
+                        (i) to serve small business concerns located in 
+                        a qualified census tract, as that term is 
+                        defined in section 42(d)(5)(B)(ii)(I) of the 
+                        Internal Revenue Code of 1986. Federal dollars 
+                        not so allocated by that recipient shall be 
+                        subject to the matching requirements of clause 
+                        (i).
+                            ``(iii) Rural areas.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), the non-
+                                Federal share of the cost of the 
+                                activity carried out using an award or 
+                                under a cooperative agreement under 
+                                this subsection shall be 35 cents for 
+                                each Federal dollar that will be 
+                                directly allocated by a recipient 
+                                described in clause (i) to serve small 
+                                business concerns located in a rural 
+                                area.
+                                    ``(II) Enhanced rural awards.--For 
+                                a recipient located in a rural area 
+                                that is located in a State described in 
+                                clause (i)(I), the non-Federal share of 
+                                the cost of the activity carried out 
+                                using an award or under a cooperative 
+                                agreement under this subsection shall 
+                                be 15 cents for each Federal dollar 
+                                that will be directly allocated by a 
+                                recipient described in clause (i) to 
+                                serve small business concerns located 
+                                in the rural area.
+                                    ``(III) Definition of rural area.--
+                                In this clause, the term `rural area' 
+                                has the meaning given that term in 
+                                section 1393(a)(2) of the Internal 
+                                Revenue Code of 1986.
+                            ``(iv) Types of funding.--The non-Federal 
+                        share of the cost of an activity carried out by 
+                        a recipient shall be comprised of not less than 
+                        50 percent cash and not more than 50 percent of 
+                        indirect costs and in-kind contributions, 
+                        except that no such costs or contributions may 
+                        be derived from funds from any other Federal 
+                        program.
+                            ``(v) Rankings.--For the first full fiscal 
+                        year after the date of enactment of the SBIR/
+                        STTR Reauthorization Act of 2011, and each 
+                        fiscal year thereafter, based on the statistics 
+                        for the most recent full fiscal year for which 
+                        the Administrator has compiled statistics, the 
+                        Administrator shall reevaluate the ranking of 
+                        each State for purposes of clause (i).
+                    ``(C) Duration.--Awards may be made or cooperative 
+                agreements entered into under this subsection for 
+                multiple years, not to exceed 5 years in total.
+            ``(6) Annual reports.--The Administrator shall submit an 
+        annual report to the Committee on Small Business of the Senate 
+        and the Committee on Science and the Committee on Small 
+        Business of the House of Representatives regarding--
+                    ``(A) the number and amount of awards provided and 
+                cooperative agreements entered into under the FAST 
+                program during the preceding year;
+                    ``(B) a list of recipients under this subsection, 
+                including their location and the activities being 
+                performed with the awards made or under the cooperative 
+                agreements entered into; and
+                    ``(C) the Mentoring Networks and the mentoring 
+                database, as provided for under section 34, including--
+                            ``(i) the status of the inclusion of 
+                        mentoring information in the database required 
+                        by subsection (k); and
+                            ``(ii) the status of the implementation and 
+                        description of the usage of the Mentoring 
+                        Networks.
+            ``(7) Program levels.--
+                    ``(A) In general.--There is authorized to be 
+                appropriated to carry out the FAST program, including 
+                Mentoring Networks, under this subsection and section 
+                34, $15,000,000 for each of fiscal years 2011 through 
+                2016.
+                    ``(B) Mentoring database.--Of the total amount made 
+                available under subparagraph (A) for fiscal years 2011 
+                through 2016, a reasonable amount, not to exceed a 
+                total of $500,000, may be used by the Administration to 
+                carry out section 34(d).
+            ``(8) Termination.--The authority to carry out the FAST 
+        program under this subsection shall terminate on September 30, 
+        2016.''.
+    (b) Technical and Conforming Amendments.--The Small Business Act 
+(15 U.S.C. 631 et seq.) is amended--
+            (1) by striking section 34 (15 U.S.C. 657d);
+            (2) by redesignating sections 35 through 43 as sections 34 
+        through 42, respectively;
+            (3) in section 9(k)(1)(D) (15 U.S.C. 638(k)(1)(D)), by 
+        striking ``section 35(d)'' and inserting ``section 34(d)'';
+            (4) in section 34 (15 U.S.C. 657e), as so redesignated--
+                    (A) in subsection (c)(1), by striking ``section 
+                34(c)(1)(E)(ii)'' and inserting ``section 
+                9(s)(3)(A)(v)(II)'';
+                    (B) by striking ``section 34'' each place it 
+                appears and inserting ``section 9(s)''; and
+                    (C) by adding at the end the following:
+    ``(e) Definitions.--In this section, the following definitions 
+apply:
+            ``(1) Business advice and counseling.--The term `business 
+        advice and counseling' means providing advice and assistance on 
+        matters described in subsection (c)(2)(B) to small business 
+        concerns to guide them through the SBIR and STTR program 
+        process, from application to award and successful completion of 
+        each phase of the program.
+            ``(2) FAST program.--The term `FAST program' means the 
+        Federal and State Technology Partnership Program established 
+        under section 9(s).
+            ``(3) Mentor.--The term `mentor' means an individual 
+        described in subsection (c)(2).
+            ``(4) Mentoring network.--The term `Mentoring Network' 
+        means an association, organization, coalition, or other entity 
+        (including an individual) that meets the requirements of 
+        subsection (c).
+            ``(5) Recipient.--The term `recipient' means a person that 
+        receives an award or becomes party to a cooperative agreement 
+        under this section.
+            ``(6) SBIR program.--The term `SBIR program' has the same 
+        meaning as in section 9(e)(4).
+            ``(7) State.--The term `State' means each of the several 
+        States, the District of Columbia, the Commonwealth of Puerto 
+        Rico, the Virgin Islands, Guam, and American Samoa.
+            ``(8) STTR program.--The term `STTR program' has the same 
+        meaning as in section 9(e)(6).'';
+            (5) in section 36(d) (15 U.S.C. 657i(d)), as so 
+        redesignated, by striking ``section 43'' and inserting 
+        ``section 42'';
+            (6) in section 39(d) (15 U.S.C. 657l(d)), as so 
+        redesignated, by striking ``section 43'' and inserting 
+        ``section 42''; and
+            (7) in section 40(b) (15 U.S.C. 657m(b)), as so 
+        redesignated, by striking ``section 43'' and inserting 
+        ``section 42''.
+
+<DELETED>SEC. 202. SBIR-STEM WORKFORCE DEVELOPMENT GRANT PILOT 
+              PROGRAM.</DELETED>
+
+<DELETED>    (a) Pilot Program Established.--From amounts made 
+available to carry out this section, the Administrator shall establish 
+a SBIR-STEM Workforce Development Grant Pilot Program to encourage the 
+business community to provide workforce development opportunities for 
+college students, in the fields of science, technology, engineering, 
+and math (in this section referred to as ``STEM college students''), 
+particularly those that are socially and economically disadvantaged 
+individuals, from rural areas, or from areas with high unemployment, as 
+determined by the Administrator, by providing a SBIR bonus 
+grant.</DELETED>
+<DELETED>    (b) Eligible Entities Defined.--In this section the term 
+``eligible entity'' means a grantee receiving a grant under the SBIR 
+Program on the date of the bonus grant under subsection (a) that 
+provides an internship program for STEM college students.</DELETED>
+<DELETED>    (c) Awards.--An eligible entity shall receive a bonus 
+grant equal to 10 percent of either a Phase I or Phase II grant, as 
+applicable, with a total award maximum of not more than $10,000 per 
+year.</DELETED>
+<DELETED>    (d) Evaluation.--Following the fourth year of funding 
+under this section, the Administrator shall submit to Congress as part 
+of the report under section 9(b)(7) of the Small Business Act (15 
+U.S.C. 638(b)(7)) the results of the SBIR-STEM Workforce Development 
+Grant Pilot Program.</DELETED>
+<DELETED>    (e) Authorization of Appropriations.--There are authorized 
+to be appropriated to carry out this section--</DELETED>
+        <DELETED>    (1) $1,000,000 for fiscal year 2012;</DELETED>
+        <DELETED>    (2) $1,000,000 for fiscal year 2013;</DELETED>
+        <DELETED>    (3) $1,000,000 for fiscal year 2014;</DELETED>
+        <DELETED>    (4) $1,000,000 for fiscal year 2015; and</DELETED>
+        <DELETED>    (5) $1,000,000 for fiscal year 2016.</DELETED>
+
+SEC. <DELETED>203</DELETED>202. TECHNICAL ASSISTANCE FOR AWARDEES.
+
+    Section 9(q) of the Small Business Act (15 U.S.C. 638(q)) is 
+amended--
+            (1) in paragraph (1)--
+                    (A) by inserting ``or STTR program'' after ``SBIR 
+                program''; and
+                    (B) by striking ``SBIR projects'' and inserting 
+                ``SBIR or STTR projects'';
+            (2) in paragraph (2), by striking ``3 years'' and inserting 
+        ``5 years''; and
+            (3) in paragraph (3)--
+                    (A) in subparagraph (A)--
+                            (i) by inserting ``or STTR'' after 
+                        ``SBIR''; and
+                            (ii) by striking ``$4,000'' and inserting 
+                        ``$5,000'';
+                    (B) by striking subparagraph (B) and inserting the 
+                following:
+                    ``(B) Phase ii.--A Federal agency described in 
+                paragraph (1) may--
+                            ``(i) provide to the recipient of a Phase 
+                        II SBIR or STTR award, through a vendor 
+                        selected under paragraph (2), the services 
+                        described in paragraph (1), in an amount equal 
+                        to not more than $5,000 per year; or
+                            ``(ii) authorize the recipient of a Phase 
+                        II SBIR or STTR award to purchase the services 
+                        described in paragraph (1), in an amount equal 
+                        to not more than $5,000 per year, which shall 
+                        be in addition to the amount of the recipient's 
+                        award.''; and
+                    (C) by adding at the end the following:
+                    ``(C) Flexibility.--In carrying out subparagraphs 
+                (A) and (B), each Federal agency shall provide the 
+                allowable amounts to a recipient that meets the 
+                eligibility requirements under the applicable 
+                subparagraph, if the recipient requests to seek 
+                technical assistance from an individual or entity other 
+                than the vendor selected under paragraph (2) by the 
+                Federal agency.
+                    ``(D) Limitation.--A Federal agency may not--
+                            ``(i) use the amounts authorized under 
+                        subparagraph (A) or (B) unless the vendor 
+                        selected under paragraph (2) provides the 
+                        technical assistance to the recipient; or
+                            ``(ii) enter a contract with a vendor under 
+                        paragraph (2) under which the amount provided 
+                        for technical assistance is based on total 
+                        number of Phase I or Phase II awards.''.
+
+SEC. <DELETED>204</DELETED>203. COMMERCIALIZATION READINESS PROGRAM AT 
+              DEPARTMENT OF DEFENSE.
+
+    (a) In General.--Section 9(y) of the Small Business Act (15 U.S.C. 
+638(y)) is amended--
+            (1) in the subsection heading, by striking ``Pilot'' and 
+        inserting ``Readiness'';
+            (2) by striking ``Pilot'' each place that term appears and 
+        inserting ``Readiness'';
+            (3) in paragraph (1)--
+                    (A) by inserting ``or Small Business Technology 
+                Transfer Program'' after ``Small Business Innovation 
+                Research Program''; and
+                    (B) by adding at the end the following: ``The 
+                authority to create and administer a Commercialization 
+                Readiness Program under this subsection may not be 
+                construed to eliminate or replace any other SBIR 
+                program or STTR program that enhances the insertion or 
+                transition of SBIR or STTR technologies, including any 
+                such program in effect on the date of enactment of the 
+                National Defense Authorization Act for Fiscal Year 2006 
+                (Public Law 109-163; 119 Stat. 3136).'';
+            (4) in paragraph (2), by inserting ``or Small Business 
+        Technology Transfer Program'' after ``Small Business Innovation 
+        Research Program'';
+            (5) by striking paragraphs (5) and (6); and
+            (6) by inserting after paragraph (4) the following:
+            ``(5) Insertion incentives.--For any contract with a value 
+        of not less than $100,000,000, the Secretary of Defense is 
+        authorized to--
+                    ``(A) establish goals for the transition of Phase 
+                III technologies in subcontracting plans; and
+                    ``(B) require a prime contractor on such a contract 
+                to report the number and dollar amount of contracts 
+                entered into by that prime contractor for Phase III 
+                SBIR or STTR projects.
+            ``(6) Goal for sbir and sttr technology insertion.--The 
+        Secretary of Defense shall--
+                    ``(A) set a goal to increase the number of Phase II 
+                SBIR contracts and the number of Phase II STTR 
+                contracts awarded by that Secretary that lead to 
+                technology transition into programs of record or 
+                fielded systems;
+                    ``(B) use incentives in effect on the date of 
+                enactment of the SBIR/STTR Reauthorization Act of 2011, 
+                or create new incentives, to encourage agency program 
+                managers and prime contractors to meet the goal under 
+                subparagraph (A); and
+                    ``(C) include in the annual report to Congress the 
+                percentage of contracts described in subparagraph (A) 
+                awarded by that Secretary, and information on the 
+                ongoing status of projects funded through the 
+                Commercialization Readiness Program and efforts to 
+                transition these technologies into programs of record 
+                or fielded systems.''.
+    (b) Technical and Conforming Amendment.--Section 9(i)(1) of the 
+Small Business Act (15 U.S.C. 638(i)(1)) is amended by inserting 
+``(including awards under subsection (y))'' after ``the number of 
+awards''.
+
+SEC. <DELETED>205</DELETED>204. COMMERCIALIZATION READINESS PILOT 
+              PROGRAM FOR CIVILIAN AGENCIES.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(ff) Pilot Program.--
+            ``(1) Authorization.--The head of each covered Federal 
+        agency may allocate not more than 10 percent of the funds 
+        allocated to the SBIR program and the STTR program of the 
+        covered Federal agency--
+                    ``(A) for awards for technology development, 
+                testing, and evaluation of SBIR and STTR Phase II 
+                technologies; or
+                    ``(B) to support the progress of research or 
+                research and development conducted under the SBIR or 
+                STTR programs to Phase III.
+            ``(2) Application by federal agency.--
+                    ``(A) In general.--A covered Federal agency may not 
+                establish a pilot program unless the covered Federal 
+                agency makes a written application to the 
+                Administrator, not later than 90 days before to the 
+                first day of the fiscal year in which the pilot program 
+                is to be established, that describes a compelling 
+                reason that additional investment in SBIR or STTR 
+                technologies is necessary, including unusually high 
+                regulatory, systems integration, or other costs 
+                relating to development or manufacturing of 
+                identifiable, highly promising small business 
+                technologies or a class of such technologies expected 
+                to substantially advance the mission of the agency.
+                    ``(B) Determination.--The Administrator shall--
+                            ``(i) make a determination regarding an 
+                        application submitted under subparagraph (A) 
+                        not later than 30 days before the first day of 
+                        the fiscal year for which the application is 
+                        submitted;
+                            ``(ii) publish the determination in the 
+                        Federal Register; and
+                            ``(iii) make a copy of the determination 
+                        and any related materials available to the 
+                        Committee on Small Business and 
+                        Entrepreneurship of the Senate and the 
+                        Committee on Small Business of the House of 
+                        Representatives.
+            ``(3) Maximum amount of award.--The head of a covered 
+        Federal agency may not make an award under a pilot program in 
+        excess of 3 times the dollar amounts generally established for 
+        Phase II awards under subsection (j)(2)(D) or (p)(2)(B)(ix).
+            ``(4) Registration.--Any applicant that receives an award 
+        under a pilot program shall register with the Administrator in 
+        a registry that is available to the public.
+            ``(5) Report.--The head of each covered Federal agency 
+        shall include in the annual report of the covered Federal 
+        agency to the Administrator an analysis of the various 
+        activities considered for inclusion in the pilot program of the 
+        covered Federal agency and a statement of the reasons why each 
+        activity considered was included or not included, as the case 
+        may be.
+            ``(6) Termination.--The authority to establish a pilot 
+        program under this section expires at the end of fiscal year 
+        2014.
+            ``(7) Definitions.--In this subsection--
+                    ``(A) the term `covered Federal agency'--
+                            ``(i) means a Federal agency participating 
+                        in the SBIR program or the STTR program; and
+                            ``(ii) does not include the Department of 
+                        Defense; and
+                    ``(B) the term `pilot program' means the program 
+                established under paragraph (1).''.
+
+SEC. <DELETED>206</DELETED>205. ACCELERATING CURES.
+
+    (a) In General.--The Small Business Act (15 U.S.C. 631 et seq.) is 
+amended by inserting after section 42, as redesignated by section 201 
+of this Act, the following:
+
+``SEC. 43. SMALL BUSINESS INNOVATION RESEARCH PROGRAM.
+
+    ``(a) NIH Cures Pilot.--
+            ``(1) Establishment.--An independent advisory board shall 
+        be established at the National Academy of Sciences (in this 
+        section referred to as the `advisory board') to conduct 
+        periodic evaluations of the SBIR program (as that term is 
+        defined in section 9) of each of the National Institutes of 
+        Health (referred to in this section as the `NIH') institutes 
+        and centers for the purpose of improving the management of the 
+        SBIR program through data-driven assessment.
+            ``(2) Membership.--
+                    ``(A) In general.--The advisory board shall consist 
+                of--
+                            ``(i) the Director of the NIH;
+                            ``(ii) the Director of the SBIR program of 
+                        the NIH;
+                            ``(iii) senior NIH agency managers, 
+                        selected by the Director of NIH;
+                            ``(iv) industry experts, selected by the 
+                        Council of the National Academy of Sciences in 
+                        consultation with the Associate Administrator 
+                        for Technology of the Administration and the 
+                        Director of the Office of Science and 
+                        Technology Policy; and
+                            ``(v) owners or operators of small business 
+                        concerns that have received an award under the 
+                        SBIR program of the NIH, selected by the 
+                        Associate Administrator for Technology of the 
+                        Administration.
+                    ``(B) Number of members.--The total number of 
+                members selected under clauses (iii), (iv), and (v) of 
+                subparagraph (A) shall not exceed 10.
+                    ``(C) Equal representation.--The total number of 
+                members of the advisory board selected under clauses 
+                (i), (ii), (iii), and (iv) of subparagraph (A) shall be 
+                equal to the number of members of the advisory board 
+                selected under subparagraph (A)(v).
+    ``(b) Addressing Data Gaps.--In order to enhance the evidence-base 
+guiding SBIR program decisions and changes, the Director of the SBIR 
+program of the NIH shall address the gaps and deficiencies in the data 
+collection concerns identified in the 2007 report of the National 
+Academy of Science entitled `An Assessment of the Small Business 
+Innovation Research Program at the NIH'.
+    ``(c) Pilot Program.--
+            ``(1) In general.--The Director of the SBIR program of the 
+        NIH may initiate a pilot program, under a formal mechanism for 
+        designing, implementing, and evaluating pilot programs, to spur 
+        innovation and to test new strategies that may enhance the 
+        development of cures and therapies.
+            ``(2) Considerations.--The Director of the SBIR program of 
+        the NIH may consider conducting a pilot program to include 
+        individuals with successful SBIR program experience in study 
+        sections, hiring individuals with small business development 
+        experience for staff positions, separating the commercial and 
+        scientific review processes, and examining the impact of the 
+        trend toward larger awards on the overall program.
+    ``(d) Report to Congress.--The Director of the NIH shall submit an 
+annual report to Congress and the advisory board on the activities of 
+the SBIR program of the NIH under this section.
+    ``(e) SBIR Grants and Contracts.--
+            ``(1) In general.--In awarding grants and contracts under 
+        the SBIR program of the NIH each SBIR program manager shall 
+        emphasize applications that identify products, processes, 
+        technologies, and services that may enhance the development of 
+        cures and therapies.
+            ``(2) Examination of commercialization and other metrics.--
+        The advisory board shall evaluate the implementation of the 
+        requirement under paragraph (1) by examining increased 
+        commercialization and other metrics, to be determined and 
+        collected by the SBIR program of the NIH.
+            ``(3) Phase i and ii.--To the greatest extent practicable, 
+        the Director of the SBIR program of the NIH shall reduce the 
+        time period between Phase I and Phase II funding of grants and 
+        contracts under the SBIR program of the NIH to 90 days.
+    ``(f) Limit.--Not more than a total of 1 percent of the extramural 
+budget (as defined in section 9 of the Small Business Act (15 U.S.C. 
+638)) of the NIH for research or research and development may be used 
+for the pilot program under subsection (c) and to carry out subsection 
+(e).''.
+    (b) Prospective Repeal.--Effective 5 years after the date of 
+enactment of this Act, the Small Business Act (15 U.S.C. 631 et seq.) 
+is amended--
+            (1) by striking section 43, as added by subsection (a); and
+            (2) by redesignating sections 44 and 45 as sections 43 and 
+        44, respectively.
+
+SEC. <DELETED>207</DELETED>206. FEDERAL AGENCY ENGAGEMENT WITH SBIR AND 
+              STTR AWARDEES THAT HAVE BEEN AWARDED MULTIPLE PHASE I 
+              AWARDS BUT HAVE NOT BEEN AWARDED PHASE II AWARDS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(gg) Requirements Relating to Federal Agency Engagement With 
+Certain Phase I SBIR and STTR Awardees.--
+            ``(1) Definition.--In this subsection, the term `covered 
+        awardee' means a small business concern that--
+                    ``(A) has received multiple Phase I awards over 
+                multiple years, as determined by the head of a Federal 
+                agency, under the SBIR program or the STTR program of 
+                the Federal agency; and
+                    ``(B) has not received a Phase II award--
+                            ``(i) under the SBIR program or STTR 
+                        program, as the case may be, of the Federal 
+                        agency described in subparagraph (A); or
+                            ``(ii) relating to a Phase I award 
+                        described in subparagraph (A) under the SBIR 
+                        program or the STTR program of another Federal 
+                        agency.
+            ``(2) Performance measures.--The head of each Federal 
+        agency that participates in the SBIR program or the STTR 
+        program shall develop performance measures for any covered 
+        awardee relating to commercializing research or research and 
+        development activities under the SBIR program or the STTR 
+        program of the Federal agency.''.
+
+SEC. <DELETED>208</DELETED>207. CLARIFYING THE DEFINITION OF ``PHASE 
+              III''.
+
+    (a) Phase III Awards.--Section 9(e) of the Small Business Act (15 
+U.S.C. 638(e)) is amended--
+            (1) in paragraph (4)(C), in the matter preceding clause 
+        (i), by inserting ``for work that derives from, extends, or 
+        completes efforts made under prior funding agreements under the 
+        SBIR program'' after ``phase'';
+            (2) in paragraph (6)(C), in the matter preceding clause 
+        (i), by inserting ``for work that derives from, extends, or 
+        completes efforts made under prior funding agreements under the 
+        STTR program'' after ``phase'';
+            (3) in paragraph (8), by striking ``and'' at the end;
+            (4) in paragraph (9), by striking the period at the end and 
+        inserting a semicolon; and
+            (5) by adding at the end the following:
+            ``(10) the term `commercialization' means--
+                    ``(A) the process of developing products, 
+                processes, technologies, or services; and
+                    ``(B) the production and delivery of products, 
+                processes, technologies, or services for sale (whether 
+                by the originating party or by others) to or use by the 
+                Federal Government or commercial markets;''.
+    (b) Technical and Conforming Amendments.--The Small Business Act 
+(15 U.S.C. 631 et seq.) is amended--
+            (1) in section 9 (15 U.S.C. 638)--
+                    (A) in subsection (e)--
+                            (i) in paragraph (4)(C)(ii), by striking 
+                        ``scientific review criteria'' and inserting 
+                        ``merit-based selection procedures'';
+                            (ii) in paragraph (9), by striking ``the 
+                        second or the third phase'' and inserting 
+                        ``Phase II or Phase III''; and
+                            (iii) by adding at the end the following:
+            ``(11) the term `Phase I' means--
+                    ``(A) with respect to the SBIR program, the first 
+                phase described in paragraph (4)(A); and
+                    ``(B) with respect to the STTR program, the first 
+                phase described in paragraph (6)(A);
+            ``(12) the term `Phase II' means--
+                    ``(A) with respect to the SBIR program, the second 
+                phase described in paragraph (4)(B); and
+                    ``(B) with respect to the STTR program, the second 
+                phase described in paragraph (6)(B); and
+            ``(13) the term `Phase III' means--
+                    ``(A) with respect to the SBIR program, the third 
+                phase described in paragraph (4)(C); and
+                    ``(B) with respect to the STTR program, the third 
+                phase described in paragraph (6)(C).'';
+                    (B) in subsection (j)--
+                            (i) in paragraph (1)(B), by striking 
+                        ``phase two'' and inserting ``Phase II'';
+                            (ii) in paragraph (2)--
+                                    (I) in subparagraph (B)--
+                                            (aa) by striking ``the 
+                                        third phase'' each place it 
+                                        appears and inserting ``Phase 
+                                        III''; and
+                                            (bb) by striking ``the 
+                                        second phase'' and inserting 
+                                        ``Phase II'';
+                                    (II) in subparagraph (D)--
+                                            (aa) by striking ``the 
+                                        first phase'' and inserting 
+                                        ``Phase I''; and
+                                            (bb) by striking ``the 
+                                        second phase'' and inserting 
+                                        ``Phase II'';
+                                    (III) in subparagraph (F), by 
+                                striking ``the third phase'' and 
+                                inserting ``Phase III'';
+                                    (IV) in subparagraph (G)--
+                                            (aa) by striking ``the 
+                                        first phase'' and inserting 
+                                        ``Phase I''; and
+                                            (bb) by striking ``the 
+                                        second phase'' and inserting 
+                                        ``Phase II''; and
+                                    (V) in subparagraph (H)--
+                                            (aa) by striking ``the 
+                                        first phase'' and inserting 
+                                        ``Phase I'';
+                                            (bb) by striking ``second 
+                                        phase'' each place it appears 
+                                        and inserting ``Phase II''; and
+                                            (cc) by striking ``third 
+                                        phase'' and inserting ``Phase 
+                                        III''; and
+                            (iii) in paragraph (3)--
+                                    (I) in subparagraph (A)--
+                                            (aa) by striking ``the 
+                                        first phase (as described in 
+                                        subsection (e)(4)(A))'' and 
+                                        inserting ``Phase I'';
+                                            (bb) by striking ``the 
+                                        second phase (as described in 
+                                        subsection (e)(4)(B))'' and 
+                                        inserting ``Phase II''; and
+                                            (cc) by striking ``the 
+                                        third phase (as described in 
+                                        subsection (e)(4)(C))'' and 
+                                        inserting ``Phase III''; and
+                                    (II) in subparagraph (B), by 
+                                striking ``second phase'' and inserting 
+                                ``Phase II'';
+                    (C) in subsection (k)--
+                            (i) by striking ``first phase'' each place 
+                        it appears and inserting ``Phase I''; and
+                            (ii) by striking ``second phase'' each 
+                        place it appears and inserting ``Phase II'';
+                    (D) in subsection (l)(2)--
+                            (i) by striking ``the first phase'' and 
+                        inserting ``Phase I''; and
+                            (ii) by striking ``the second phase'' and 
+                        inserting ``Phase II'';
+                    (E) in subsection (o)(13)--
+                            (i) in subparagraph (B), by striking 
+                        ``second phase'' and inserting ``Phase II''; 
+                        and
+                            (ii) in subparagraph (C), by striking 
+                        ``third phase'' and inserting ``Phase III'';
+                    (F) in subsection (p)--
+                            (i) in paragraph (2)(B)--
+                                    (I) in clause (vi)--
+                                            (aa) by striking ``the 
+                                        second phase'' and inserting 
+                                        ``Phase II''; and
+                                            (bb) by striking ``the 
+                                        third phase'' and inserting 
+                                        ``Phase III''; and
+                                    (II) in clause (ix)--
+                                            (aa) by striking ``the 
+                                        first phase'' and inserting 
+                                        ``Phase I''; and
+                                            (bb) by striking ``the 
+                                        second phase'' and inserting 
+                                        ``Phase II''; and
+                            (ii) in paragraph (3)--
+                                    (I) by striking ``the first phase 
+                                (as described in subsection 
+                                (e)(6)(A))'' and inserting ``Phase I'';
+                                    (II) by striking ``the second phase 
+                                (as described in subsection 
+                                (e)(6)(B))'' and inserting ``Phase 
+                                II''; and
+                                    (III) by striking ``the third phase 
+                                (as described in subsection 
+                                (e)(6)(A))'' and inserting ``Phase 
+                                III'';
+                    (G) in subsection (q)(3)--
+                            (i) in subparagraph (A)--
+                                    (I) in the subparagraph heading, by 
+                                striking ``First phase'' and inserting 
+                                ``Phase i''; and
+                                    (II) by striking ``first phase'' 
+                                and inserting ``Phase I''; and
+                            (ii) in subparagraph (B)--
+                                    (I) in the subparagraph heading, by 
+                                striking ``Second phase'' and inserting 
+                                ``Phase ii''; and
+                                    (II) by striking ``second phase'' 
+                                and inserting ``Phase II'';
+                    (H) in subsection (r)--
+                            (i) in the subsection heading, by striking 
+                        ``Third Phase'' and inserting ``Phase III'';
+                            (ii) in paragraph (1)--
+                                    (I) in the first sentence--
+                                            (aa) by striking ``for the 
+                                        second phase'' and inserting 
+                                        ``for Phase II'';
+                                            (bb) by striking ``third 
+                                        phase'' and inserting ``Phase 
+                                        III''; and
+                                            (cc) by striking ``second 
+                                        phase period'' and inserting 
+                                        ``Phase II period''; and
+                                    (II) in the second sentence--
+                                            (aa) by striking ``second 
+                                        phase'' and inserting ``Phase 
+                                        II''; and
+                                            (bb) by striking ``third 
+                                        phase'' and inserting ``Phase 
+                                        III''; and
+                            (iii) in paragraph (2), by striking ``third 
+                        phase'' and inserting ``Phase III''; and
+                    (I) in subsection (u)(2)(B), by striking ``the 
+                first phase'' and inserting ``Phase I''; and
+            (2) in section 34(c)(2)(B)(vii) (15 U.S.C. 
+        657e(c)(2)(B)(vii)), as redesignated by section 201 of this 
+        Act, by striking ``third phase'' and inserting ``Phase III''.
+
+SEC. <DELETED>209</DELETED>208. SHORTENED PERIOD FOR FINAL DECISIONS ON 
+              PROPOSALS AND APPLICATIONS.
+
+    (a) In General.--Section 9 of the Small Business Act (15 U.S.C. 
+638) is amended--
+            (1) in subsection (g)(4)--
+                    (A) by inserting ``(A)'' after ``(4)'';
+                    (B) by adding ``and'' after the semicolon at the 
+                end; and
+                    (C) by adding at the end the following:
+            ``(B) make a final decision on each proposal submitted 
+        under the SBIR program--
+                    ``(i) not later than 90 days after the date on 
+                which the solicitation closes; or
+                    ``(ii) if the Administrator authorizes an extension 
+                for a solicitation, not later than 180 days after the 
+                date on which the solicitation closes;''; and
+            (2) in subsection (o)(4)--
+                    (A) by inserting ``(A)'' after ``(4)'';
+                    (B) by adding ``and'' after the semicolon at the 
+                end; and
+                    (C) by adding at the end the following:
+            ``(B) make a final decision on each proposal submitted 
+        under the STTR program--
+                    ``(i) not later than 90 days after the date on 
+                which the solicitation closes; or
+                    ``(ii) if the Administrator authorizes an extension 
+                for a solicitation, not later than 180 days after the 
+                date on which the solicitation closes;''.
+    (b) NIH Peer Review Process.--
+            (1) In general.--Section 9 of the Small Business Act (15 
+        U.S.C. 638), as amended by this Act, is amended by adding at 
+        the end the following:
+    ``(hh) NIH Peer Review Process.--The Director of the National 
+Institutes of Health may make an award under the SBIR program or the 
+STTR program of the National Institutes of Health if the application 
+for the award has undergone technical and scientific peer review under 
+section 492 of the Public Health Service Act (42 U.S.C. 289a).''.
+            (2) Technical and conforming amendments.--Section 105 of 
+        the National Institutes of Health Reform Act of 2006 (42 U.S.C. 
+        284n) is amended--
+                    (A) in subsection (a)(3)--
+                            (i) by striking ``A grant'' and inserting 
+                        ``Except as provided in section 9(hh) of the 
+                        Small Business Act (15 U.S.C. 638(hh)), a 
+                        grant''; and
+                            (ii) by striking ``section 402(k)'' and all 
+                        that follows through ``Act)'' and inserting 
+                        ``section 402(l) of such Act''; and
+                    (B) in subsection (b)(5)--
+                            (i) by striking ``A grant'' and inserting 
+                        ``Except as provided in section 9(hh) of the 
+                        Small Business Act (15 U.S.C. 638(hh)), a 
+                        grant''; and
+                            (ii) by striking ``section 402(k)'' and all 
+                        that follows through ``Act)'' and inserting 
+                        ``section 402(l) of such Act''.
+
+                  TITLE III--OVERSIGHT AND EVALUATION
+
+SEC. 301. STREAMLINING ANNUAL EVALUATION REQUIREMENTS.
+
+    Section 9(b) of the Small Business Act (15 U.S.C. 638(b)), as 
+amended by section 102 of this Act, is amended--
+            (1) in paragraph (7)--
+                    (A) by striking ``STTR programs, including the 
+                data'' and inserting the following: ``STTR programs, 
+                including--
+                    ``(A) the data'';
+                    (B) by striking ``(g)(10), (o)(9), and (o)(15), the 
+                number'' and all that follows through ``under each of 
+                the SBIR and STTR programs, and a description'' and 
+                inserting the following: ``(g)(8) and (o)(9); and
+                    ``(B) the number of proposals received from, and 
+                the number and total amount of awards to, HUBZone small 
+                business concerns and firms with venture capital 
+                investment (including those majority-owned by multiple 
+                venture capital operating companies) under each of the 
+                SBIR and STTR programs;
+                    ``(C) a description of the extent to which each 
+                Federal agency is increasing outreach and awards to 
+                firms owned and controlled by women and social or 
+                economically disadvantaged individuals under each of 
+                the SBIR and STTR programs;
+                    ``(D) general information about the implementation 
+                of, and compliance with the allocation of funds 
+                required under, subsection (cc) for firms owned in 
+                majority part by venture capital operating companies 
+                and participating in the SBIR program;
+                    ``(E) a detailed description of appeals of Phase 
+                III awards and notices of noncompliance with the SBIR 
+                Policy Directive and the STTR Policy Directive filed by 
+                the Administrator with Federal agencies; and
+                    ``(F) a description''; and
+            (2) by inserting after paragraph (7) the following:
+            ``(8) to coordinate the implementation of electronic 
+        databases at each of the Federal agencies participating in the 
+        SBIR program or the STTR program, including the technical 
+        ability of the participating agencies to electronically share 
+        data;''.
+
+SEC. 302. DATA COLLECTION FROM AGENCIES FOR SBIR.
+
+    Section 9(g) of the Small Business Act (15 U.S.C. 638(g)) is 
+amended--
+            (1) by striking paragraph (10);
+            (2) by redesignating paragraphs (8) and (9) as paragraphs 
+        (9) and (10), respectively; and
+            (3) by inserting after paragraph (7) the following:
+            ``(8) collect annually, and maintain in a common format in 
+        accordance with the simplified reporting requirements under 
+        subsection (v), such information from awardees as is necessary 
+        to assess the SBIR program, including information necessary to 
+        maintain the database described in subsection (k), including--
+                    ``(A) whether an awardee--
+                            ``(i) has venture capital or is majority-
+                        owned by multiple venture capital operating 
+                        companies, and, if so--
+                                    ``(I) the amount of venture capital 
+                                that the awardee has received as of the 
+                                date of the award; and
+                                    ``(II) the amount of additional 
+                                capital that the awardee has invested 
+                                in the SBIR technology;
+                            ``(ii) has an investor that--
+                                    ``(I) is an individual who is not a 
+                                citizen of the United States or a 
+                                lawful permanent resident of the United 
+                                States, and if so, the name of any such 
+                                individual; or
+                                    ``(II) is a person that is not an 
+                                individual and is not organized under 
+                                the laws of a State or the United 
+                                States, and if so the name of any such 
+                                person;
+                            ``(iii) is owned by a woman or has a woman 
+                        as a principal investigator;
+                            ``(iv) is owned by a socially or 
+                        economically disadvantaged individual or has a 
+                        socially or economically disadvantaged 
+                        individual as a principal investigator;
+                            ``(v) received assistance under the FAST 
+                        program under section 34, as in effect on the 
+                        day before the date of enactment of the SBIR/
+                        STTR Reauthorization Act of 2011, or the 
+                        outreach program under subsection (s);
+                            ``(vi) is a faculty member or a student of 
+                        an institution of higher education, as that 
+                        term is defined in section 101 of the Higher 
+                        Education Act of 1965 (20 U.S.C. 1001); or
+                            ``(vii) is located in a State described in 
+                        subsection (u)(3); and
+                    ``(B) a justification statement from the agency, if 
+                an awardee receives an award in an amount that is more 
+                than the award guidelines under this section;''.
+
+SEC. 303. DATA COLLECTION FROM AGENCIES FOR STTR.
+
+    Section 9(o) of the Small Business Act (15 U.S.C. 638(o)) is 
+amended by striking paragraph (9) and inserting the following:
+            ``(9) collect annually, and maintain in a common format in 
+        accordance with the simplified reporting requirements under 
+        subsection (v), such information from applicants and awardees 
+        as is necessary to assess the STTR program outputs and 
+        outcomes, including information necessary to maintain the 
+        database described in subsection (k), including--
+                    ``(A) whether an applicant or awardee--
+                            ``(i) has venture capital or is majority-
+                        owned by multiple venture capital operating 
+                        companies, and, if so--
+                                    ``(I) the amount of venture capital 
+                                that the applicant or awardee has 
+                                received as of the date of the 
+                                application or award, as applicable; 
+                                and
+                                    ``(II) the amount of additional 
+                                capital that the applicant or awardee 
+                                has invested in the SBIR technology;
+                            ``(ii) has an investor that--
+                                    ``(I) is an individual who is not a 
+                                citizen of the United States or a 
+                                lawful permanent resident of the United 
+                                States, and if so, the name of any such 
+                                individual; or
+                                    ``(II) is a person that is not an 
+                                individual and is not organized under 
+                                the laws of a State or the United 
+                                States, and if so the name of any such 
+                                person;
+                            ``(iii) is owned by a woman or has a woman 
+                        as a principal investigator;
+                            ``(iv) is owned by a socially or 
+                        economically disadvantaged individual or has a 
+                        socially or economically disadvantaged 
+                        individual as a principal investigator;
+                            ``(v) received assistance under the FAST 
+                        program under section 34 or the outreach 
+                        program under subsection (s);
+                            ``(vi) is a faculty member or a student of 
+                        an institution of higher education, as that 
+                        term is defined in section 101 of the Higher 
+                        Education Act of 1965 (20 U.S.C. 1001); or
+                            ``(vii) is located in a State in which the 
+                        total value of contracts awarded to small 
+                        business concerns under all STTR programs is 
+                        less than the total value of contracts awarded 
+                        to small business concerns in a majority of 
+                        other States, as determined by the 
+                        Administrator in biennial fiscal years, 
+                        beginning with fiscal year 2008, based on the 
+                        most recent statistics compiled by the 
+                        Administrator; and
+                    ``(B) if an awardee receives an award in an amount 
+                that is more than the award guidelines under this 
+                section, a statement from the agency that justifies the 
+                award amount;''.
+
+SEC. 304. PUBLIC DATABASE.
+
+    Section 9(k)(1) of the Small Business Act (15 U.S.C. 638(k)(1)) is 
+amended--
+            (1) in subparagraph (D), by striking ``and'' at the end;
+            (2) in subparagraph (E), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(F) for each small business concern that has 
+                received a Phase I or Phase II SBIR or STTR award from 
+                a Federal agency, whether the small business concern--
+                            ``(i) has venture capital and, if so, 
+                        whether the small business concern is 
+                        registered as majority-owned by multiple 
+                        venture capital operating companies as required 
+                        under subsection (cc)(4);
+                            ``(ii) is owned by a woman or has a woman 
+                        as a principal investigator;
+                            ``(iii) is owned by a socially or 
+                        economically disadvantaged individual or has a 
+                        socially or economically disadvantaged 
+                        individual as a principal investigator;
+                            ``(iv) received assistance under the FAST 
+                        program under section 34, as in effect on the 
+                        day before the date of enactment of the SBIR/
+                        STTR Reauthorization Act of 2011, or the 
+                        outreach program under subsection (s); or
+                            ``(v) is owned by a faculty member or a 
+                        student of an institution of higher education, 
+                        as that term is defined in section 101 of the 
+                        Higher Education Act of 1965 (20 U.S.C. 
+                        1001).''.
+
+SEC. 305. GOVERNMENT DATABASE.
+
+    Section 9(k) of the Small Business Act (15 U.S.C. 638(k)) is 
+amended--
+            (1) in paragraph (2)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``Not later'' and all that follows through 
+                ``Act of 2000'' and inserting ``Not later than 90 days 
+                after the date of enactment of the SBIR/STTR 
+                Reauthorization Act of 2011'';
+                    (B) by striking subparagraph (C);
+                    (C) by redesignating subparagraphs (A) and (B) as 
+                subparagraphs (B) and (C), respectively;
+                    (D) by inserting before subparagraph (B), as so 
+                redesignated, the following:
+                    ``(A) contains, for each small business concern 
+                that applies for, submits a proposal for, or receives 
+                an award under Phase I or Phase II of the SBIR program 
+                or the STTR program--
+                            ``(i) the name, size, and location, and an 
+                        identifying number assigned by the 
+                        Administration of the small business concern;
+                            ``(ii) an abstract of the project;
+                            ``(iii) the specific aims of the project;
+                            ``(iv) the number of employees of the small 
+                        business concern;
+                            ``(v) the names of key individuals that 
+                        will carry out the project;
+                            ``(vi) the percentage of effort each 
+                        individual described in clause (iv) will 
+                        contribute to the project;
+                            ``(vii) whether the small business concern 
+                        is majority-owned by multiple venture capital 
+                        operating companies; and
+                            ``(viii) the Federal agency to which the 
+                        application is made, and contact information 
+                        for the person or office within the Federal 
+                        agency that is responsible for reviewing 
+                        applications and making awards under the SBIR 
+                        program or the STTR program;'';
+                    (E) by redesignating subparagraphs (D), and (E) as 
+                subparagraphs (E) and (F), respectively;
+                    (F) by inserting after subparagraph (C), as so 
+                redesignated, the following:
+                    ``(D) includes, for each awardee--
+                            ``(i) the name, size, location, and any 
+                        identifying number assigned to the awardee by 
+                        the Administrator;
+                            ``(ii) whether the awardee has venture 
+                        capital, and, if so--
+                                    ``(I) the amount of venture capital 
+                                as of the date of the award;
+                                    ``(II) the percentage of ownership 
+                                of the awardee held by a venture 
+                                capital operating company, including 
+                                whether the awardee is majority-owned 
+                                by multiple venture capital operating 
+                                companies; and
+                                    ``(III) the amount of additional 
+                                capital that the awardee has invested 
+                                in the SBIR technology, which 
+                                information shall be collected on an 
+                                annual basis;
+                            ``(iii) the names and locations of any 
+                        affiliates of the awardee;
+                            ``(iv) the number of employees of the 
+                        awardee;
+                            ``(v) the number of employees of the 
+                        affiliates of the awardee; and
+                            ``(vi) the names of, and the percentage of 
+                        ownership of the awardee held by--
+                                    ``(I) any individual who is not a 
+                                citizen of the United States or a 
+                                lawful permanent resident of the United 
+                                States; or
+                                    ``(II) any person that is not an 
+                                individual and is not organized under 
+                                the laws of a State or the United 
+                                States;'';
+                    (G) in subparagraph (E), as so redesignated, by 
+                striking ``and'' at the end;
+                    (H) in subparagraph (F), as so redesignated, by 
+                striking the period at the end and inserting ``; and''; 
+                and
+                    (I) by adding at the end the following:
+                    ``(G) includes a timely and accurate list of any 
+                individual or small business concern that has 
+                participated in the SBIR program or STTR program that 
+                has committed fraud, waste, or abuse relating to the 
+                SBIR program or STTR program.''; and
+            (2) in paragraph (3), by adding at the end the following:
+                    ``(C) Government database.--Not later than 60 days 
+                after the date established by a Federal agency for 
+                submitting applications or proposals for a Phase I or 
+                Phase II award under the SBIR program or STTR program, 
+                the head of the Federal agency shall submit to the 
+                Administrator the data required under paragraph (2) 
+                with respect to each small business concern that 
+                applies or submits a proposal for the Phase I or Phase 
+                II award.''.
+
+SEC. 306. ACCURACY IN FUNDING BASE CALCULATIONS.
+
+    (a) In General.--Not later than 1 year after the date of enactment 
+of this Act, and every year thereafter until the date that is 5 years 
+after the date of enactment of this Act, the Comptroller General of the 
+United States shall--
+            (1) conduct a fiscal and management audit of the SBIR 
+        program and the STTR program for the applicable period to--
+                    (A) determine whether Federal agencies comply with 
+                the expenditure amount requirements under subsections 
+                (f)(1) and (n)(1) of section 9 of the Small Business 
+                Act (15 U.S.C. 638), as amended by this Act;
+                    (B) assess the extent of compliance with the 
+                requirements of section 9(i)(2) of the Small Business 
+                Act (15 U.S.C. 638(i)(2)) by Federal agencies 
+                participating in the SBIR program or the STTR program 
+                and the Administration;
+                    (C) assess whether it would be more consistent and 
+                effective to base the amount of the allocations under 
+                the SBIR program and the STTR program on a percentage 
+                of the research and development budget of a Federal 
+                agency, rather than the extramural budget of the 
+                Federal agency; and
+                    (D) determine the portion of the extramural 
+                research or research and development budget of a 
+                Federal agency that each Federal agency spends for 
+                administrative purposes relating to the SBIR program or 
+                STTR program, and for what specific purposes, including 
+                the portion, if any, of such budget the Federal agency 
+                spends for salaries and expenses, travel to visit 
+                applicants, outreach events, marketing, and technical 
+                assistance; and
+            (2) submit a report to the Committee on Small Business and 
+        Entrepreneurship of the Senate and the Committee on Small 
+        Business of the House of Representatives regarding the audit 
+        conducted under paragraph (1), including the assessments 
+        required under subparagraphs (B) and (C), and the determination 
+        made under subparagraph (D) of paragraph (1).
+    (b) Definition of Applicable Period.--In this section, the term 
+``applicable period'' means--
+            (1) for the first report submitted under this section, the 
+        period beginning on October 1, 2005, and ending on September 30 
+        of the last full fiscal year before the date of enactment of 
+        this Act for which information is available; and
+            (2) for the second and each subsequent report submitted 
+        under this section, the period--
+                    (A) beginning on October 1 of the first fiscal year 
+                after the end of the most recent full fiscal year 
+                relating to which a report under this section was 
+                submitted; and
+                    (B) ending on September 30 of the last full fiscal 
+                year before the date of the report.
+
+SEC. 307. CONTINUED EVALUATION BY THE NATIONAL ACADEMY OF SCIENCES.
+
+    Section 108 of the Small Business Reauthorization Act of 2000 (15 
+U.S.C. 638 note) is amended by adding at the end the following:
+    ``(e) Extensions and Enhancements of Authority.--
+            ``(1) In general.--Not later than 6 months after the date 
+        of enactment of the SBIR/STTR Reauthorization Act of 2011, the 
+        head of each agency described in subsection (a), in 
+        consultation with the Small Business Administration, shall 
+        cooperatively enter into an agreement with the National Academy 
+        of Sciences for the National Research Council to, not later 
+        than 4 years after the date of enactment of the SBIR/STTR 
+        Reauthorization Act of 2011, and every 4 years thereafter--
+                    ``(A) continue the most recent study under this 
+                section relating to--
+                            ``(i) the issues described in subparagraphs 
+                        (A), (B), (C), and (E) of subsection (a)(1); 
+                        and
+                            ``(ii) the effectiveness of the government 
+                        and public databases described in section 9(k) 
+                        of the Small Business Act (15 U.S.C. 638(k)) in 
+                        reducing vulnerabilities of the SBIR program 
+                        and the STTR program to fraud, waste, and 
+                        abuse, particularly with respect to Federal 
+                        agencies funding duplicative proposals and 
+                        business concerns falsifying information in 
+                        proposals;
+                    ``(B) make recommendations with respect to the 
+                issues described in subparagraph (A)(ii) and 
+                subparagraphs (A), (D), and (E) of subsection 
+                (a)(2)<DELETED>.</DELETED>; and
+                    ``(C) estimate, to the extent practicable, the 
+                number of jobs created by the SBIR program or STTR 
+                program of the agency.
+            ``(2) Consultation.--An agreement under paragraph (1) shall 
+        require the National Research Council to ensure there is 
+        participation by and consultation with the small business 
+        community, the Administration, and other interested parties as 
+        described in subsection (b).
+            ``(3) Reporting.--An agreement under paragraph (1) shall 
+        require that not later than 4 years after the date of enactment 
+        of the SBIR/STTR Reauthorization Act of 2011, and every 4 years 
+        thereafter, the National Research Council shall submit to the 
+        head of the agency entering into the agreement, the Committee 
+        on Small Business and Entrepreneurship of the Senate, and the 
+        Committee on Small Business of the House of Representatives a 
+        report regarding the study conducted under paragraph (1) and 
+        containing the recommendations described in paragraph (1).''.
+
+SEC. 308. TECHNOLOGY INSERTION REPORTING REQUIREMENTS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(ii) Phase III Reporting.--The annual SBIR or STTR report to 
+Congress by the Administration under subsection (b)(7) shall include, 
+for each Phase III award made by the Federal agency--
+            ``(1) the name of the agency or component of the agency or 
+        the non-Federal source of capital making the Phase III award;
+            ``(2) the name of the small business concern or individual 
+        receiving the Phase III award; and
+            ``(3) the dollar amount of the Phase III award.''.
+
+SEC. 309. INTELLECTUAL PROPERTY PROTECTIONS.
+
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study of the SBIR program to assess whether--
+            (1) Federal agencies comply with the data rights 
+        protections for SBIR awardees and the technologies of SBIR 
+        awardees under section 9 of the Small Business Act (15 U.S.C. 
+        638);
+            (2) the laws and policy directives intended to clarify the 
+        scope of data rights, including in prototypes and mentor-
+        protege relationships and agreements with Federal laboratories, 
+        are sufficient to protect SBIR awardees; and
+            (3) there is an effective grievance tracking process for 
+        SBIR awardees who have grievances against a Federal agency 
+        regarding data rights and a process for resolving those 
+        grievances.
+    (b) Report.--Not later than 18 months after the date of enactment 
+of this Act, the Comptroller General shall submit to the Committee on 
+Small Business and Entrepreneurship of the Senate and the Committee on 
+Small Business of the House of Representatives a report regarding the 
+study conducted under subsection (a).
+
+SEC. 310. OBTAINING CONSENT FROM SBIR AND STTR APPLICANTS TO RELEASE 
+              CONTACT INFORMATION TO ECONOMIC DEVELOPMENT 
+              ORGANIZATIONS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(jj) Consent To Release Contact Information to Organizations.--
+            ``(1) Enabling concern to give consent.--Each Federal 
+        agency required by this section to conduct an SBIR program or 
+        an STTR program shall enable a small business concern that is 
+        an SBIR applicant or an STTR applicant to indicate to the 
+        Federal agency whether the Federal agency has the consent of 
+        the concern to--
+                    ``(A) identify the concern to appropriate local and 
+                State-level economic development organizations as an 
+                SBIR applicant or an STTR applicant; and
+                    ``(B) release the contact information of the 
+                concern to such organizations.
+            ``(2) Rules.--The Administrator shall establish rules to 
+        implement this subsection. The rules shall include a 
+        requirement that a Federal agency include in the SBIR and STTR 
+        application a provision through which the applicant can 
+        indicate consent for purposes of paragraph (1).''.
+
+SEC. 311. PILOT TO ALLOW FUNDING FOR ADMINISTRATIVE, OVERSIGHT, AND 
+              CONTRACT PROCESSING COSTS.
+
+    (a) In General.--Section 9 of the Small Business Act (15 U.S.C. 
+638), as amended by this Act, is amended by adding at the end the 
+following:
+    ``(kk) Assistance for Administrative, Oversight, and Contract 
+Processing Costs.--
+            ``(1) In general.--Subject to paragraph (2), for the 3 full 
+        fiscal years beginning after the date of enactment of this 
+        subsection, the Administrator shall allow each Federal agency 
+        required to conduct an SBIR program to use not more than 3 
+        percent of the funds allocated to the SBIR program of the 
+        Federal agency for--
+                    ``(A) the administration of the SBIR program or the 
+                STTR program of the Federal agency;
+                    ``(B) the provision of outreach and technical 
+                assistance relating to the SBIR program or STTR program 
+                of the Federal agency, including technical assistance 
+                site visits and personnel interviews;
+                    ``(C) the implementation of commercialization and 
+                outreach initiatives that were not in effect on the 
+                date of enactment of this subsection;
+                    ``(D) carrying out the program under subsection 
+                (y);
+                    ``(E) activities relating to oversight and 
+                congressional reporting, including the waste, fraud, 
+                and abuse prevention activities described in section 
+                313(a)(1)(B)(ii) of the SBIR/STTR Reauthorization Act 
+                of 2011;
+                    ``(F) targeted reviews of recipients of awards 
+                under the SBIR program or STTR program of the Federal 
+                agency that the head of the Federal agency determines 
+                are at high risk for fraud, waste, or abuse, to ensure 
+                compliance with requirements of the SBIR program or 
+                STTR program, respectively;
+                    ``(G) the implementation of oversight and quality 
+                control measures, including verification of reports and 
+                invoices and cost reviews;
+                    ``(H) carrying out subsection (cc);
+                    ``(I) carrying out subsection (ff);
+                    ``(J) contract processing costs relating to the 
+                SBIR program or STTR program of the Federal agency; and
+                    ``(K) funding for additional personnel and 
+                assistance with application reviews.
+            ``(2) Performance criteria.--A Federal agency may not use 
+        funds as authorized under paragraph (1) until after the 
+        effective date of performance criteria, which the Administrator 
+        shall establish, to measure any benefits of using funds as 
+        authorized under paragraph (1) and to assess continuation of 
+        the authority under paragraph (1).
+            ``(3) Rules.--Not later than 180 days after the date of 
+        enactment of this subsection, the Administrator shall issue 
+        rules to carry out this subsection.''.
+    (b) Technical and Conforming Amendments.--
+            (1) In general.--Section 9 of the Small Business Act (15 
+        U.S.C. 638) is amended--
+                    (A) in subsection (f)(2)(A), as so designated by 
+                section 103(2) of this Act, by striking ``shall not'' 
+                and all that follows through ``make available for the 
+                purpose'' and inserting ``shall not make available for 
+                the purpose''; and
+                    (B) in subsection (y), as amended by section 
+                <DELETED>204</DELETED> 203--
+                            (i) by striking paragraph (4);
+                            (ii) by redesignating paragraphs (5) and 
+                        (6) as paragraphs (4) and (5), respectively.
+            (2) Transitional rule.--Notwithstanding the amendments made 
+        by paragraph (1), subsection (f)(2)(A) and (y)(4) of section 9 
+        of the Small Business Act (15 U.S.C. 638), as in effect on the 
+        day before the date of enactment of this Act, shall continue to 
+        apply to each Federal agency until the effective date of the 
+        performance criteria established by the Administrator under 
+        subsection (kk)(2) of section 9 of the Small Business Act, as 
+        added by subsection (a).
+            (3) Prospective repeal.--Effective on the first day of the 
+        fourth full fiscal year following the date of enactment of this 
+        Act, section 9 of the Small Business Act (15 U.S.C. 638), as 
+        amended by paragraph (1) of this section, is amended--
+                    (A) in subsection (f)(2)(A), by striking ``shall 
+                not make available for the purpose'' and inserting the 
+                following: ``shall not--
+                            ``(i) use any of its SBIR budget 
+                        established pursuant to paragraph (1) for the 
+                        purpose of funding administrative costs of the 
+                        program, including costs associated with 
+                        salaries and expenses; or
+                            ``(ii) make available for the purpose''; 
+                        and
+                    (B) in subsection (y)--
+                            (i) by redesignating paragraphs (4) and (5) 
+                        as paragraphs (5) and (6), respectively; and
+                            (ii) by inserting after paragraph (3) the 
+                        following:
+            ``(4) Funding.--
+                    ``(A) In general.--The Secretary of Defense and 
+                each Secretary of a military department may use not 
+                more than an amount equal to 1 percent of the funds 
+                available to the Department of Defense or the military 
+                department pursuant to the Small Business Innovation 
+                Research Program for payment of expenses incurred to 
+                administer the Commercialization Pilot Program under 
+                this subsection.
+                    ``(B) Limitations.--The funds described in 
+                subparagraph (A)--
+                            ``(i) shall not be subject to the 
+                        limitations on the use of funds in subsection 
+                        (f)(2); and
+                            ``(ii) shall not be used to make Phase III 
+                        awards.''.
+
+SEC. 312. GAO STUDY WITH RESPECT TO VENTURE CAPITAL OPERATING COMPANY 
+              INVOLVEMENT.
+
+    Not later than 3 years after the date of enactment of this Act, and 
+every 3 years thereafter, the Comptroller General of the United States 
+shall--
+            (1) conduct a study of the impact of requirements relating 
+        to venture capital operating company involvement under section 
+        9(cc) of the Small Business Act, as added by section 108 of 
+        this Act; and
+            (2) submit to Congress a report regarding the study 
+        conducted under paragraph (1).
+
+SEC. 313. REDUCING VULNERABILITY OF SBIR AND STTR PROGRAMS TO FRAUD, 
+              WASTE, AND ABUSE.
+
+    (a) Fraud, Waste, and Abuse Prevention.--
+            (1) Guidelines for fraud, waste, and abuse prevention.--
+                    (A) Amendments required.--Not later than 90 days 
+                after the date of enactment of this Act, the 
+                Administrator shall amend the SBIR Policy Directive and 
+                the STTR Policy Directive to include measures to 
+                prevent fraud, waste, and abuse in the SBIR program and 
+                the STTR program.
+                    (B) Content of amendments.--The amendments required 
+                under subparagraph (A) shall include--
+                            (i) definitions or descriptions of fraud, 
+                        waste, and abuse;
+                            (ii) a requirement that the Inspectors 
+                        General of each Federal agency that 
+                        participates in the SBIR program or the STTR 
+                        program cooperate to--
+                                    (I) establish fraud detection 
+                                indicators;
+                                    (II) review regulations and 
+                                operating procedures of the Federal 
+                                agencies;
+                                    (III) coordinate information 
+                                sharing between the Federal agencies; 
+                                and
+                                    (IV) improve the education and 
+                                training of, and outreach to--
+                                            (aa) administrators of the 
+                                        SBIR program and the STTR 
+                                        program of each Federal agency;
+                                            (bb) applicants to the SBIR 
+                                        program or the STTR program; 
+                                        and
+                                            (cc) recipients of awards 
+                                        under the SBIR program or the 
+                                        STTR program;
+                            (iii) guidelines for the monitoring and 
+                        oversight of applicants to and recipients of 
+                        awards under the SBIR program or the STTR 
+                        program; and
+                            (iv) a requirement that each Federal agency 
+                        that participates in the SBIR program or STTR 
+                        program include the telephone number of the 
+                        hotline established under paragraph (2)--
+                                    (I) on the Web site of the Federal 
+                                agency; and
+                                    (II) in any solicitation or notice 
+                                of funding opportunity issued by the 
+                                Federal agency for the SBIR program or 
+                                the STTR program.
+            (2) Fraud, waste, and abuse prevention hotline.--
+                    (A) Hotline established.--The Administrator shall 
+                establish a telephone hotline that allows individuals 
+                to report fraud, waste, and abuse in the SBIR program 
+                or STTR program.
+                    (B) Publication.--The Administrator shall include 
+                the telephone number for the hotline established under 
+                subparagraph (A) on the Web site of the Administration.
+    (b) Study and Report.--
+            (1) Study.--Not later than 1 year after the date of 
+        enactment of this Act, and every 3 years thereafter, the 
+        Comptroller General of the United States shall--
+                    (A) conduct a study that evaluates--
+                            (i) the implementation by each Federal 
+                        agency that participates in the SBIR program or 
+                        the STTR program of the amendments to the SBIR 
+                        Policy Directive and the STTR Policy Directive 
+                        made pursuant to subsection (a);
+                            (ii) the effectiveness of the management 
+                        information system of each Federal agency that 
+                        participates in the SBIR program or STTR 
+                        program in identifying duplicative SBIR and 
+                        STTR projects;
+                            (iii) the effectiveness of the risk 
+                        management strategies of each Federal agency 
+                        that participates in the SBIR program or STTR 
+                        program in identifying areas of the SBIR 
+                        program or the STTR program that are at high 
+                        risk for fraud;
+                            (iv) technological tools that may be used 
+                        to detect patterns of behavior that may 
+                        indicate fraud by applicants to the SBIR 
+                        program or the STTR program;
+                            (v) the success of each Federal agency that 
+                        participates in the SBIR program or STTR 
+                        program in reducing fraud, waste, and abuse in 
+                        the SBIR program or the STTR program of the 
+                        Federal agency; and
+                            (vi) the extent to which the Inspector 
+                        General of each Federal agency that 
+                        participates in the SBIR program or STTR 
+                        program effectively conducts investigations of 
+                        individuals alleged to have submitted false 
+                        claims or violated Federal law relating to 
+                        fraud, conflicts of interest, bribery, 
+                        gratuity, or other misconduct; and
+                    (B) submit to the Committee on Small Business and 
+                Entrepreneurship of the Senate, the Committee on Small 
+                Business of the House of Representatives, and the head 
+                of each Federal agency that participates in the SBIR 
+                program or STTR program a report on the results of the 
+                study conducted under subparagraph (A).
+
+SEC. 314. INTERAGENCY POLICY COMMITTEE.
+
+    (a) Establishment.--The Director of the Office of Science and 
+Technology Policy (in this section referred to as the ``Director''), in 
+conjunction with the Administrator, shall establish an Interagency 
+SBIR/STTR Policy Committee (in this section referred to as the 
+``Committee'') comprised of 1 representative from each Federal agency 
+with an SBIR program or an STTR program and 1 representative of the 
+Office of Management and Budget.
+    (b) Cochairpersons.--The Director and the Administrator shall serve 
+as cochairpersons of the Committee.
+    (c) Duties.--The Committee shall review, and make policy 
+recommendations on ways to improve the effectiveness and efficiency of, 
+the SBIR program and the STTR program, including--
+            (1) reviewing the effectiveness of the public and 
+        government databases described in section 9(k) of the Small 
+        Business Act (15 U.S.C. 638(k));
+            (2) identifying--
+                    (A) best practices for commercialization assistance 
+                by Federal agencies that have significant potential to 
+                be employed by other Federal agencies; and
+                    (B) proposals by Federal agencies for initiatives 
+                to address challenges for small business concerns in 
+                obtaining funding after a Phase II award ends and 
+                before commercialization; and
+            (3) developing and incorporating a standard evaluation 
+        framework to enable systematic assessment of the SBIR program 
+        and STTR program, including through improved tracking of awards 
+        and outcomes and development of performance measures for the 
+        SBIR program and STTR program of each Federal agency.
+    (d) Reports.--The Committee shall submit to the Committee on Small 
+Business and Entrepreneurship of the Senate and the Committee on 
+Science and Technology and the Committee on Small Business of the House 
+of Representatives--
+            (1) a report on the review by and recommendations of the 
+        Committee under subsection (c)(1) not later than 1 year after 
+        the date of enactment of this Act;
+            (2) a report on the review by and recommendations of the 
+        Committee under subsection (c)(2) not later than 18 months 
+        after the date of enactment of this Act; and
+            (3) a report on the review by and recommendations of the 
+        Committee under subsection (c)(3) not later than 2 years after 
+        the date of enactment of this Act.
+
+SEC. 315. SIMPLIFIED PAPERWORK REQUIREMENTS.
+
+    Section 9(v) of the Small Business Act (15 U.S.C. 638(v)) is 
+amended--
+            (1) in the subsection heading, by striking ``Simplified 
+        Reporting Requirements'' and inserting ``Reducing Paperwork and 
+        Compliance Burden'';
+            (2) by striking ``The Administrator'' and inserting the 
+        following:
+            ``(1) Standardization of reporting requirements.--The 
+        Administrator''; and
+            (3) by adding at the end the following:
+            ``(2) Simplification of application and award process.--Not 
+        later than one year after the date of enactment of this 
+        paragraph, and after a period of public comment, the 
+        Administrator shall issue regulations or guidelines, taking 
+        into consideration the unique needs of each Federal agency, to 
+        ensure that each Federal agency required to carry out an SBIR 
+        program or STTR program simplifies and standardizes the program 
+        proposal, selection, contracting, compliance, and audit 
+        procedures for the SBIR program or STTR program of the Federal 
+        agency (including procedures relating to overhead rates for 
+        applicants and documentation requirements) to reduce the 
+        paperwork and regulatory compliance burden on small business 
+        concerns applying to and participating in the SBIR program or 
+        STTR program.''.
+
+                      TITLE IV--POLICY DIRECTIVES
+
+SEC. 401. CONFORMING AMENDMENTS TO THE SBIR AND THE STTR POLICY 
+              DIRECTIVES.
+
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Administrator shall promulgate amendments to 
+the SBIR Policy Directive and the STTR Policy Directive to conform such 
+directives to this Act and the amendments made by this Act.
+    (b) Publishing SBIR Policy Directive and the STTR Policy Directive 
+in the Federal Register.--Not later than 180 days after the date of 
+enactment of this Act, the Administrator shall publish the amended SBIR 
+Policy Directive and the amended STTR Policy Directive in the Federal 
+Register.
+
+                       TITLE V--OTHER PROVISIONS
+
+SEC. 501. RESEARCH TOPICS AND PROGRAM DIVERSIFICATION.
+
+    (a) SBIR Program.--Section 9(g) of the Small Business Act (15 
+U.S.C. 638(g)) is amended--
+            (1) in paragraph (3)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``broad research topics and to topics that 
+                further 1 or more critical technologies'' and inserting 
+                ``applications to the Federal agency for support of 
+                projects relating to nanotechnology, rare diseases, 
+                security, energy, transportation, or improving the 
+                security and quality of the water supply of the United 
+                States, and the efficiency of water delivery systems 
+                and usage patterns in the United States (including the 
+                territories of the United States) through the use of 
+                technology (to the extent that the projects relate to 
+                the mission of the Federal agency), broad research 
+                topics, and topics that further 1 or more critical 
+                technologies or research priorities'';
+                    (B) in subparagraph (A), by striking ``or'' at the 
+                end; and
+                    (C) by adding at the end the following:
+                    ``(C) the National Academy of Sciences, in the 
+                final report issued by the `America's Energy Future: 
+                Technology Opportunities, Risks, and Tradeoffs' 
+                project, and in any subsequent report by the National 
+                Academy of Sciences on sustainability, energy, or 
+                alternative fuels;
+                    ``(D) the National Institutes of Health, in the 
+                annual report on the rare diseases research activities 
+                of the National Institutes of Health for fiscal year 
+                2005, and in any subsequent report by the National 
+                Institutes of Health on rare diseases research 
+                activities;
+                    ``(E) the National Academy of Sciences, in the 
+                final report issued by the `Transit Research and 
+                Development: Federal Role in the National Program' 
+                project and the report entitled `Transportation 
+                Research, Development and Technology Strategic Plan 
+                (2006-2010)' issued by the Research and Innovative 
+                Technology Administration of the Department of 
+                Transportation, and in any subsequent report issued by 
+                the National Academy of Sciences or the Department of 
+                Transportation on transportation and infrastructure; or
+                    ``(F) the national nanotechnology strategic plan 
+                required under section 2(c)(4) of the 21st Century 
+                Nanotechnology Research and Development Act (15 U.S.C. 
+                7501(c)(4)) and in any report issued by the National 
+                Science and Technology Council Committee on Technology 
+                that focuses on areas of nanotechnology identified in 
+                such plan;''; and
+            (2) by adding after paragraph (12), as added by section 
+        111(a) of this Act, the following:
+            ``(13) encourage applications under the SBIR program (to 
+        the extent that the projects relate to the mission of the 
+        Federal agency)--
+                    ``(A) from small business concerns in geographic 
+                areas underrepresented in the SBIR program or located 
+                in rural areas (as defined in section 1393(a)(2) of the 
+                Internal Revenue Code of 1986);
+                    ``(B) small business concerns owned and controlled 
+                by women;
+                    ``(C) small business concerns owned and controlled 
+                by veterans;
+                    ``(D) small business concerns owned and controlled 
+                by Native Americans; and
+                    ``(E) small business concerns located in a 
+                geographic area with an unemployment rates that exceed 
+                the national unemployment rate, based on the most 
+                recently available monthly publications of the Bureau 
+                of Labor Statistics of the Department of Labor.''.
+    (b) STTR Program.--Section 9(o) of the Small Business Act (15 
+U.S.C. 638(o)), as amended by section 111(b) of this Act, is amended--
+            (1) in paragraph (3)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``broad research topics and to topics that 
+                further 1 or more critical technologies'' and inserting 
+                ``applications to the Federal agency for support of 
+                projects relating to nanotechnology, security, energy, 
+                rare diseases, transportation, or improving the 
+                security and quality of the water supply of the United 
+                States (to the extent that the projects relate to the 
+                mission of the Federal agency), broad research topics, 
+                and topics that further 1 or more critical technologies 
+                or research priorities'';
+                    (B) in subparagraph (A), by striking ``or'' at the 
+                end; and
+                    (C) by adding at the end the following:
+                    ``(C) the National Academy of Sciences, in the 
+                final report issued by the `America's Energy Future: 
+                Technology Opportunities, Risks, and Tradeoffs' 
+                project, and in any subsequent report by the National 
+                Academy of Sciences on sustainability, energy, or 
+                alternative fuels;
+                    ``(D) the National Institutes of Health, in the 
+                annual report on the rare diseases research activities 
+                of the National Institutes of Health for fiscal year 
+                2005, and in any subsequent report by the National 
+                Institutes of Health on rare diseases research 
+                activities;
+                    ``(E) the National Academy of Sciences, in the 
+                final report issued by the `Transit Research and 
+                Development: Federal Role in the National Program' 
+                project and the report entitled `Transportation 
+                Research, Development and Technology Strategic Plan 
+                (2006-2010)' issued by the Research and Innovative 
+                Technology Administration of the Department of 
+                Transportation, and in any subsequent report issued by 
+                the National Academy of Sciences or the Department of 
+                Transportation on transportation and infrastructure; or
+                    ``(F) the national nanotechnology strategic plan 
+                required under section 2(c)(4) of the 21st Century 
+                Nanotechnology Research and Development Act (15 U.S.C. 
+                7501(c)(4)) and in any report issued by the National 
+                Science and Technology Council Committee on Technology 
+                that focuses on areas of nanotechnology identified in 
+                such plan;'';
+            (2) in paragraph (15), by striking ``and'' at the end;
+            (3) in paragraph (16), by striking the period at the end 
+        and inserting ``; and''; and
+            (4) by adding at the end the following:
+            ``(17) encourage applications under the STTR program (to 
+        the extent that the projects relate to the mission of the 
+        Federal agency)--
+                    ``(A) from small business concerns in geographic 
+                areas underrepresented in the STTR program or located 
+                in rural areas (as defined in section 1393(a)(2) of the 
+                Internal Revenue Code of 1986);
+                    ``(B) small business concerns owned and controlled 
+                by women;
+                    ``(C) small business concerns owned and controlled 
+                by veterans;
+                    ``(D) small business concerns owned and controlled 
+                by Native Americans; and
+                    ``(E) small business concerns located in a 
+                geographic area with an unemployment rates that exceed 
+                the national unemployment rate, based on the most 
+                recently available monthly publications of the Bureau 
+                of Labor Statistics of the Department of Labor.''.
+    (c) Research and Development Focus.--Section 9(x) of the Small 
+Business Act (15 U.S.C. 638(x)) is amended--
+            (1) by striking paragraph (2); and
+            (2) by redesignating paragraph (3) as paragraph (2).
+
+SEC. 502. REPORT ON SBIR AND STTR PROGRAM GOALS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(ll) Annual Report on SBIR and STTR Program Goals.--
+            ``(1) Development of metrics.--The head of each Federal 
+        agency required to participate in the SBIR program or the STTR 
+        program shall develop metrics to evaluate the effectiveness, 
+        and the benefit to the people of the United States, of the SBIR 
+        program and the STTR program of the Federal agency that--
+                    ``(A) are science-based and statistically driven;
+                    ``(B) reflect the mission of the Federal agency; 
+                and
+                    ``(C) include factors relating to the economic 
+                impact of the programs.
+            ``(2) Evaluation.--The head of each Federal agency 
+        described in paragraph (1) shall conduct an annual evaluation 
+        using the metrics developed under paragraph (1) of--
+                    ``(A) the SBIR program and the STTR program of the 
+                Federal agency; and
+                    ``(B) the benefits to the people of the United 
+                States of the SBIR program and the STTR program of the 
+                Federal agency.
+            ``(3) Report.--
+                    ``(A) In general.--The head of each Federal agency 
+                described in paragraph (1) shall submit to the 
+                appropriate committees of Congress and the 
+                Administrator an annual report describing in detail the 
+                results of an evaluation conducted under paragraph (2).
+                    ``(B) Public availability of report.--The head of 
+                each Federal agency described in paragraph (1) shall 
+                make each report submitted under subparagraph (A) 
+                available to the public online.
+                    ``(C) Definition.--In this paragraph, the term 
+                `appropriate committees of Congress' means--
+                            ``(i) the Committee on Small Business and 
+                        Entrepreneurship of the Senate; and
+                            ``(ii) the Committee on Small Business and 
+                        the Committee on Science and Technology of the 
+                        House of Representatives.''.
+
+SEC. 503. COMPETITIVE SELECTION PROCEDURES FOR SBIR AND STTR PROGRAMS.
+
+    Section 9 of the Small Business Act (15 U.S.C. 638), as amended by 
+this Act, is amended by adding at the end the following:
+    ``(mm) Competitive Selection Procedures for SBIR and STTR 
+Programs.--All funds awarded, appropriated, or otherwise made available 
+in accordance with subsection (f) or (n) must be awarded pursuant to 
+competitive and merit-based selection procedures.''.
+                                                        Calendar No. 17
+
+112th CONGRESS
+
+  1st Session
+
+                                 S. 493
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To reauthorize and improve the SBIR and STTR programs, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                             March, 9, 2011
+
+                        Reported with amendments

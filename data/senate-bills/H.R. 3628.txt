@@ -1,0 +1,542 @@
+Calendar No. 367
+101st CONGRESS
+1st Session
+H.R. 3628
+AN ACT
+To temporarily reduce the capital gains tax for noncorporate taxpayers,
+and for other purposes.
+November 13, (legislative day, NOVEMBER 6), 1989
+Received; read twice and ordered placed on the calendar
+HR 3628 PCS
+Calendar No. 367
+101st CONGRESS
+1st Session
+ H. R. 3628
+IN THE SENATE OF THE UNITED STATES
+November 13 (legislative day, NOVEMBER 6), 1989
+Received; read twice and ordered placed on the calendar
+AN ACT
+To temporarily reduce the capital gains tax for noncorporate taxpayers,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; REFERENCES IN TEXT.
+  (a) SHORT TITLE- This Act may be cited as the `Temporary Capital Gains
+  Tax Reduction Act of 1989'.
+  (b) AMENDMENT OF 1986 CODE- Except as otherwise expressly provided,
+  whenever in this Act an amendment or repeal is expressed in terms of an
+  amendment to, or repeal of, a section or other provision, the reference
+  shall be considered to be made to a section or other provision of the
+  Internal Revenue Code of 1986.
+TITLE I--TEMPORARY REDUCTION IN CAPITAL GAINS TAX FOR NONCORPORATE TAXPAYERS
+SEC. 101. TEMPORARY REDUCTION IN CAPITAL GAINS TAX.
+  (a) GENERAL RULE- Part I of subchapter P of chapter 1 (relating to treatment
+  of capital gains) is amended by adding at the end thereof the following
+  new section:
+`SEC. 1202. TEMPORARY REDUCTION IN CAPITAL GAINS TAX FOR NONCORPORATE
+TAXPAYERS.
+  `(a) DEDUCTION ALLOWED FOR 30 PERCENT OF CAPITAL GAIN-
+  `(1) IN GENERAL- If, for any taxable year which includes any portion of the
+  temporary rate reduction period, a taxpayer other than a corporation has a
+  qualified net capital gain, an amount equal to 30 percent of the qualified
+  net capital gain shall be allowed as a deduction. Such deduction shall be
+  allowable in computing adjusted gross income.
+  `(2) ESTATES AND TRUSTS- In the case of an estate or trust, the deduction
+  under paragraph (1) shall be computed by excluding the portion (if any) of
+  the gains for the taxable year from sales or exchanges of capital assets
+  which, under sections 652 and 662 (relating to inclusions of amounts in
+  gross income of beneficiaries of trusts), is includible by the income
+  beneficiaries as gain derived from the sale or exchange of capital assets.
+  `(b) COORDINATION WITH SECTION 1(g)- In the case of any taxable year which
+  includes any portion of the temporary rate reduction period, for purposes
+  of section 1(g)(1)(A), the amount allowed as a deduction under subsection
+  (a) shall be applied against (and operate to reduce) the amount of the
+  qualified net capital gain as determined for purposes of section 1(g)(1)(A).
+  `(c) DEDUCTION NOT ALLOWED FOR PURPOSES OF MINIMUM TAX- The deduction
+  under subsection (a) shall not be allowed in determining alternative
+  minimum taxable income.
+  `(d) QUALIFIED NET CAPITAL GAIN- For purposes of this section--
+  `(1) IN GENERAL- The term `qualified net capital gain' means the lesser of--
+  `(A) the net capital gain for the taxable year, or
+  `(B) the net capital gain for the taxable year determined--
+  `(i) by taking into account only gain or loss from sales or exchanges
+  occurring during the temporary rate reduction period, and
+  `(ii) by not taking into account any gain or loss from the sale or exchange
+  of any collectible.
+  `(2) SPECIAL RULES FOR PASS-THRU ENTITIES-
+  `(A) IN GENERAL- In applying paragraph (1) with respect to any pass-thru
+  entity, the determination of when a sale or exchange has occurred shall
+  be made at the entity level.
+  `(B) PASS-THRU ENTITY DEFINED- For purposes of subparagraph (A), the term
+  `pass-thru entity' means--
+  `(i) a regulated investment company,
+  `(ii) a real estate investment trust,
+  `(iii) an S corporation,
+  `(iv) a partnership,
+  `(v) an estate or trust, and
+  `(vi) a common trust fund.
+  `(3) COLLECTIBLE- For purposes of this section, the term `collectible'
+  has the meaning given to such term by section 408(m)(2) without regard to
+  section 408(m)(3).
+  `(e) TEMPORARY RATE REDUCTION PERIOD- For purposes of this section, the term
+  `temporary rate reduction period' means the period beginning on September
+  14, 1989, and ending on December 31, 1991.
+  `(f) MODIFICATIONS TO OTHER PROVISIONS-
+  `(1) For purposes of section 163(d), the deduction allowable under this
+  section to the extent attributable to gain from dispositions of property
+  held for investment shall be applied against (and operate to reduce)
+  the net gain referred to in section 163(d)(4)(B)(ii).
+  `(2) In the case of any charitable contribution (other than of a collectible)
+  by a person other than a corporation during the temporary rate reduction
+  period, section 170(e)(1)(B) shall be applied by substituting `70 percent
+  of the amount of gain' for `the amount of gain'.
+  `(3) The deduction allowed under this section shall not be taken into account
+  in determining the net operating loss under section 172 for any taxable year.
+  `(4) To the extent that the amount otherwise allowable as a deduction under
+  section 642(c) consists of any gain taken into account in determining
+  the qualified net capital gain, proper adjustment shall be made for any
+  deduction allowable to the trust or estate under this section.
+  `(5) The deduction allowed under this section shall not be taken into
+  account for purposes of section 643(a).
+  `(6) For purposes of this section, the rules of section 691(c)(4) shall
+  apply.
+  `(7) The amount subject to tax under section 871(a)(2) shall be determined
+  without regard to the deduction allowed under this section.
+  `(8) The deduction allowed under this section shall not be taken into account
+  in determining the net earnings from self-employment of any options dealer
+  (as defined in section 1402(i)) or commodities dealer (as so defined).
+  `(9) In the case of a withdrawal during the temporary rate reduction period,
+  section 7518(g)(6)(A), and section 607(h)(6) of the Merchant Marine Act,
+  1936, shall each be applied by substituting `19.6 percent' for `28 percent'.'
+  (b) CLERICAL AMENDMENT- The table of sections for part I of subchapter P
+  of chapter 1 is amended by adding at the end thereof the following new item:
+`Sec. 1202. Temporary reduction in capital gains tax for noncorporate
+taxpayers.'
+  (c) EFFECTIVE DATE- The amendments made by this section shall apply to
+  taxable years ending on or after September 14, 1989.
+SEC. 102. NET CAPITAL GAIN NOT TAKEN INTO ACCOUNT UNDER PHASE OUT OF 15-PERCENT
+RATE AND PERSONAL EXEMPTIONS.
+  (a) GENERAL RULE- Subparagraph (A) of section 1(g)(1) is amended to read
+  as follows:
+  `(A) taxable income reduced by the qualified net capital gain, over'.
+  (b) QUALIFIED NET CAPITAL GAIN- Subsection (g) of section 1 is amended by
+  adding at the end thereof the following new paragraph:
+  `(5) QUALIFIED NET CAPITAL GAIN- The term `qualified net capital gain'
+  means the lesser of--
+  `(A) the net capital gain for the taxable year, or
+  `(B) the net capital gain for the taxable year determined--
+  `(i) by taking into account only gain or loss from sales or exchanges on
+  or after September 14, 1989, and
+  `(ii) by not taking into account any gain or loss from the sale or exchange
+  of any collectible (as defined in section 408(m)(2) without regard to
+  section 408(m)(3)).
+For purposes of the preceding sentence the rules of section 1202(d)(2)
+shall apply.'
+  (c) EFFECTIVE DATE- The amendments made by this section shall apply to
+  taxable years ending on or after September 14, 1989.
+SEC. 103. RECAPTURE UNDER SECTION 1250 OF TOTAL AMOUNT OF DEPRECIATION.
+  (a) GENERAL RULE- Subsections (a) and (b) of section 1250 (relating to
+  gain from disposition of certain depreciable realty) are amended to read
+  as follows:
+  `(a) GENERAL RULE- Except as otherwise provided in this section, if section
+  1250 property is disposed of, the lesser of--
+  `(1) the depreciation adjustments in respect of such property, or
+  `(2) the excess of--
+  `(A) the amount realized (or, in the case of a disposition other than a
+  sale, exchange, or involuntary conversion, the fair market value of such
+  property), over
+  `(B) the adjusted basis of such property,
+shall be treated as gain which is ordinary income. Such gain shall be
+recognized notwithstanding any other provision of this subtitle.
+  `(b) DEPRECIATION ADJUSTMENTS- For purposes of this section, the term
+  `depreciation adjustments' means, in respect of any property, all adjustments
+  attributable to periods after December 31, 1963, reflected in the adjusted
+  basis of such property on account of deductions (whether in respect of
+  the same or other property) allowed or allowable to the taxpayer or to any
+  other person for exhaustion, wear and tear, obsolescence, or amortization
+  (other than amortization under section 168 (as in effect before its repeal
+  by the Tax Reform Act of 1976), 169, 185 (as in effect before its repeal
+  by the Tax Reform Act of 1986), 188, 190, or 193). For purposes of the
+  preceding sentence, if the taxpayer can establish by adequate records or
+  other sufficient evidence that the amount allowed as a deduction for any
+  period was less than the amount allowable, the amount taken into account
+  for such period shall be the amount allowed.'
+  (b) LIMITATION IN CASE OF INSTALLMENT SALES- Subsection (i) of section
+  453 is amended--
+  (1) by striking `1250' the first place it appears and inserting `1250
+  (as in effect on the day before the date of the enactment of the Temporary
+  Capital Gains Tax Reduction Act of 1989)', and
+  (2) by striking `1250' the second place it appears and inserting `1250
+  (as so in effect)'.
+  (c) CONFORMING AMENDMENTS-
+  (1) Subparagraph (E) of section 1250(d)(4) is amended--
+  (A) by striking `additional depreciation' and inserting `amount of the
+  depreciation adjustments', and
+  (B) by striking `ADDITIONAL DEPRECIATION' in the subparagraph heading and
+  inserting `DEPRECIATION ADJUSTMENTS'.
+  (2) Subparagraph (B) of section 1250(d)(6) is amended to read as follows:
+  `(B) DEPRECIATION ADJUSTMENTS- In respect of any property described in
+  subparagraph (A), the amount of the depreciation adjustments attributable
+  to periods before the distribution by the partnership shall be--
+  `(i) the amount of gain to which subsection (a) would have applied if
+  such property had been sold by the partnership immediately before the
+  distribution at its fair market value at such time, reduced by
+  `(ii) the amount of such gain to which section 751(b) applied.'
+  (3) Subparagraph (D) of section 1250(d)(8) is amended--
+  (A) by striking `additional depreciation' each place it appears and inserting
+  `amount of the depreciation adjustments', and
+  (B) by striking `ADDITIONAL DEPRECIATION' in the subparagraph heading and
+  inserting `DEPRECIATION ADJUSTMENTS'.
+  (4) Paragraph (8) of section 1250(d) is amended by striking subparagraphs
+  (E) and (F) and inserting the following:
+  `(E) ALLOCATION RULES- For purposes of this paragraph, the amount of
+  gain attributable to the section 1250 property disposed of shall be the
+  net amount realized with respect to such property reduced by the greater
+  of the adjusted basis of the section 1250 property disposed of, or the
+  cost of the section 1250 property acquired, but shall not exceed the gain
+  recognized in the transaction.'
+  (5) Subsection (d) of section 1250 is amended by striking paragraph (10).
+  (6) Section 1250 is amended by striking subsections (e), (f), and (g)
+  and by redesignating subsections (h) and (i) as subsections (g) and (h),
+  respectively.
+  (7) Paragraph (5) of section 48(q) is amended to read as follows:
+  `(5) RECAPTURE OF REDUCTION- For purposes of sections 1245 and 1250, any
+  reduction under this subsection shall be treated as a deduction allowed
+  for depreciation.'
+  (8) Clause (i) of section 267(e)(5)(D) is amended by striking `section
+  1250(a)(1)(B)' and inserting `section 1250(a)(1)(B) (as in effect on the
+  day before the date of the enactment of the Temporary Capital Gains Tax
+  Reduction Act of 1989)'.
+  (9)(A) Subsection (a) of section 291 is amended by striking paragraph (1)
+  and redesignating paragraphs (2), (3), (4), and (5) as paragraphs (1),
+  (2), (3), and (4), respectively.
+  (B) Subsection (c) of section 291 is amended to read as follows:
+  `(c) SPECIAL RULE FOR POLLUTION CONTROL FACILITIES- Section 168 shall apply
+  with respect to that portion of the basis of any property not taken into
+  account under section 169 by reason of subsection (a)(4).'
+  (C) Section 291 is amended by striking subsection (d) and redesignating
+  subsection (e) as subsection (d).
+  (D) Subparagraph (A) of section 265(b)(3) is amended by striking
+  `291(e)(1)(B)' and inserting `291(d)(1)(B)'.
+  (E) Subsection (c) of section 1277 is amended by striking `291(e)(1)(B)(ii)'
+  and inserting `291(d)(1)(B)(ii)'.
+  (10) Subsection (d) of section 1017 is amended to read as follows:
+  `(d) RECAPTURE OF DEDUCTIONS- For purposes of sections 1245 and 1250--
+  `(1) any property the basis of which is reduced under this section and
+  which is neither section 1245 property nor section 1250 property shall be
+  treated as section 1245 property, and
+  `(2) any reduction under this section shall be treated as a deduction
+  allowed for depreciation.'
+  (11) Paragraph (5) of section 7701(e) is amended by striking `(relating to
+  low-income housing)' and inserting `(as in effect on the day before the date
+  of the enactment of the Temporary Capital Gains Tax Reduction Act of 1989)'.
+  (d) EFFECTIVE DATE- The amendments made by this section shall apply to
+  dispositions on or after September 14, 1989, in taxable years ending after
+  such date.
+TITLE II--INDEXING OF CERTAIN ASSETS ACQUIRED AFTER 1991 FOR PURPOSES OF
+DETERMINING GAIN
+SEC. 201. INDEXING OF CERTAIN ASSETS ACQUIRED AFTER 1991 FOR PURPOSES OF
+DETERMINING GAIN.
+  (a) IN GENERAL- Part II of subchapter O of chapter 1 (relating to basis
+  rules of general application) is amended by inserting after section 1021
+  the following new section:
+`SEC. 1022. INDEXING OF CERTAIN ASSETS ACQUIRED AFTER 1991 FOR PURPOSES OF
+DETERMINING GAIN.
+  `(a) GENERAL RULE-
+  `(1) INDEXED BASIS SUBSTITUTED FOR ADJUSTED BASIS- Solely for purposes of
+  determining gain on the sale or other disposition by an individual of an
+  indexed asset which has been held for more than 1 year, the indexed basis
+  of the asset shall be substituted for its adjusted basis.
+  `(2) SPECIAL RULE FOR RECAPTURE GAIN-
+  `(A) IN GENERAL- Paragraph (1) shall not apply for purposes of determining
+  the amount of recapture gain on the sale or other disposition of an
+  indexed asset, but the amount of any such recapture gain shall increase
+  the adjusted basis of the asset for purposes of applying paragraph (1)
+  to determine the amount of other gain on such sale or other disposition.
+  `(B) RECAPTURE GAIN- For purposes of subparagraph (A), the term `recapture
+  gain' means any gain treated as ordinary income under section 1245, 1250,
+  or 1254.
+  `(b) INDEXED ASSET-
+  `(1) IN GENERAL- For purposes of this section, the term `indexed asset'
+  means--
+  `(A) any stock in a corporation, and
+  `(B) any tangible property (or any interest therein),
+which is a capital asset or property used in the trade or business (as
+defined in section 1231(b)) and the holding period of which begins after
+December 31, 1991.
+  `(2) CERTAIN PROPERTY EXCLUDED- For purposes of this section, the term
+  `indexed asset' does not include--
+  `(A) CREDITOR'S INTEREST- Any interest in property which is in the nature
+  of a creditor's interest.
+  `(B) COLLECTIBLES- Any collectible (as defined in section 408(m)(2)
+  without regard to section 408(m)(3)).
+  `(C) OPTIONS- Any option or other right to acquire an interest in property.
+  `(D) NET LEASE PROPERTY- In the case of a lessor, net lease property
+  (within the meaning of subsection (i)(3)).
+  `(E) CERTAIN PREFERRED STOCK- Stock which is fixed and preferred as to
+  dividends and does not participate in corporate growth to any significant
+  extent.
+  `(F) STOCK IN FOREIGN CORPORATIONS- Stock in a foreign corporation.
+  `(G) STOCK IN S CORPORATIONS- Stock in an S corporation.
+  `(3) EXCEPTION FOR STOCK IN FOREIGN CORPORATION WHICH IS REGULARLY TRADED
+  ON NATIONAL OR REGIONAL EXCHANGE- Paragraph (2)(F) shall not apply to stock
+  in a foreign corporation the stock of which is listed on the New York Stock
+  Exchange, the American Stock Exchange, or any domestic regional exchange
+  for which quotations are published on a regular basis or is authorized for
+  trading on the national market system operated by the National Association
+  of Securities Dealers other than--
+  `(A) stock of a foreign investment company (within the meaning of section
+  1246(b)),
+  `(B) stock in a passive foreign investment company (as defined in section
+  1296), and
+  `(C) stock in a foreign corporation held by a United States person who
+  meets the requirements of section 1248(a)(2).
+  `(c) INDEXED BASIS- For purposes of this section--
+  `(1) INDEXED BASIS- The indexed basis for any asset is--
+  `(A) the adjusted basis of the asset, multiplied by
+  `(B) the applicable inflation ratio.
+  `(2) APPLICABLE INFLATION RATIO- The applicable inflation ratio for any
+  asset shall be determined by dividing--
+  `(A) the CPI for the calendar year preceding the calendar year in which
+  the disposition takes place, by
+  `(B) the CPI for the calendar year preceding the calendar year in which
+  the taxpayer's holding period for such asset began.
+The applicable inflation ratio shall not be taken into account unless it
+is greater than 1. The applicable inflation ratio for any asset shall be
+rounded to the nearest one-hundredth.
+  `(3) CONVENTIONS- For purposes of paragraph (2), if any asset is disposed
+  of during any calendar year--
+  `(A) such disposition shall be treated as occurring on the last day of
+  such calendar year, and
+  `(B) the taxpayer's holding period for such asset shall be treated as
+  beginning in the same calendar year as would be determined for an asset
+  actually disposed of on such last day with a holding period of the same
+  length as the actual holding period of the asset involved.
+  `(4) CPI- For purposes of this subsection, the CPI for any calendar year
+  shall be determined under section 1(f)(4).
+  `(d) SHORT SALES-
+  `(1) IN GENERAL- In the case of a short sale of an indexed asset with
+  a short sale period in excess of 1 year, for purposes of this title, the
+  amount realized shall be an amount equal to the amount realized (determined
+  without regard to this paragraph) multiplied by the applicable inflation
+  ratio. In applying subsection (c)(2) for purposes of the preceding sentence,
+  the date on which the property is sold short shall be treated as the date
+  on which the holding period for the asset begins and the closing date for
+  the sale shall be treated as the date of disposition.
+  `(2) SHORT SALE OF SUBSTANTIALLY IDENTICAL PROPERTY- If the taxpayer or the
+  taxpayer's spouse sells short property substantially identical to an asset
+  held by the taxpayer, the asset held by the taxpayer and the substantially
+  identical property shall not be treated as indexed assets for the short
+  sale period.
+  `(3) SHORT SALE PERIOD- For purposes of this subsection, the short sale
+  period begins on the day after property is sold and ends on the closing
+  date for the sale.
+  `(e) TREATMENT OF REGULATED INVESTMENT COMPANIES AND REAL ESTATE INVESTMENT
+  TRUSTS-
+  `(1) ADJUSTMENTS AT ENTITY LEVEL-
+  `(A) IN GENERAL- Except as otherwise provided in this paragraph, the
+  adjustment under subsection (a) shall be allowed to any qualified investment
+  entity (including for purposes of determining the earnings and profits of
+  such entity).
+  `(B) EXCEPTION FOR CORPORATE SHAREHOLDERS- Under regulations--
+  `(i) in the case of a distribution by a qualified investment entity
+  (directly or indirectly) to a corporation--
+  `(I) the determination of whether such distribution is a dividend shall
+  be made without regard to this section, and
+  `(II) the amount treated as gain by reason of the receipt of any capital
+  gain dividend shall be increased by the percentage by which the entity's
+  net capital gain for the taxable year determined without regard to this
+  section exceeds the entity's net capital gain for such year determined
+  with regard to this section, and
+  `(ii) there shall be other appropriate adjustments (including deemed
+  distributions) so as to ensure that the benefits of this section are not
+  allowed (directly or indirectly) to corporate shareholders of qualified
+  investment entities.
+For purposes of the preceding sentence, any amount includible in gross income
+under section 852(b)(3)(D) shall be treated as a capital gain dividend and
+an S corporation shall not be treated as a corporation.
+  `(C) EXCEPTION FOR QUALIFICATION PURPOSES- This section shall not apply
+  for purposes of sections 851(b) and 856(c).
+  `(D) EXCEPTION FOR CERTAIN TAXES IMPOSED AT ENTITY LEVEL-
+  `(i) TAX ON FAILURE TO DISTRIBUTE ENTIRE GAIN- If any amount is subject to
+  tax under section 852(b)(3)(A) for any taxable year, the amount on which
+  tax is imposed under such section shall be increased by the percentage
+  determined under subparagraph (B)(i)(II). A similar rule shall apply
+  in the case of any amount subject to tax under paragraph (2) or (3) of
+  section 857(b) to the extent attributable to the excess of the net capital
+  gain over the deduction for dividends paid determined with reference to
+  capital gain dividends only. The first sentence of this clause shall not
+  apply to so much of the amount subject to tax under section 852(b)(3)(A)
+  as is designated by the company under section 852(b)(3)(D).
+  `(ii) OTHER TAXES- This section shall not apply for purposes of determining
+  the amount of any tax imposed by paragraph (4), (5), or (6) of section
+  857(b).
+  `(2) ADJUSTMENTS TO INTERESTS HELD IN ENTITY-
+  `(A) IN GENERAL- Stock in a qualified investment entity shall be an indexed
+  asset for any calendar month in the same ratio as the fair market value of
+  the assets held by such entity at the close of such month which are indexed
+  assets bears to the fair market value of all assets of such entity at the
+  close of such month.
+  `(B) RATIO OF 90 PERCENT OR MORE- If the ratio for any calendar month
+  determined under subparagraph (A) would (but for this subparagraph) be 90
+  percent or more, such ratio for such month shall be 100 percent.
+  `(C) RATIO OF 10 PERCENT OR LESS- If the ratio for any calendar month
+  determined under subparagraph (A) would (but for this subparagraph) be 10
+  percent or less, such ratio for such month shall be zero.
+  `(D) VALUATION OF ASSETS IN CASE OF REAL ESTATE INVESTMENT TRUSTS- Nothing
+  in this paragraph shall require a real estate investment trust to value
+  its assets more frequently than once each 36 months (except where such
+  trust ceases to exist). The ratio under subparagraph (A) for any calendar
+  month for which there is no valuation shall be the trustee's good faith
+  judgment as to such valuation.
+  `(3) QUALIFIED INVESTMENT ENTITY- For purposes of this subsection, the term
+  `qualified investment entity' means--
+  `(A) a regulated investment company (within the meaning of section 851), and
+  `(B) a real estate investment trust (within the meaning of section 856).
+  `(f) OTHER PASS-THRU ENTITIES-
+  `(1) PARTNERSHIPS-
+  `(A) IN GENERAL- In the case of a partnership, the adjustment made under
+  subsection (a) at the partnership level shall be passed through to the
+  partners (but only for purposes of determining the income of partners who
+  are individuals).
+  `(B) SPECIAL RULE IN THE CASE OF SECTION 754 ELECTIONS- In the case of a
+  transfer of an interest in a partnership with respect to which the election
+  provided in section 754 is in effect--
+  `(i) the adjustment under section 743(b)(1) shall, with respect to the
+  transferor partner, be treated as a sale of the partnership assets for
+  purposes of applying this section, and
+  `(ii) with respect to the transferee partner, the partnership's holding
+  period for purposes of this section in such assets shall be treated as
+  beginning on the date of such adjustment.
+  `(2) S CORPORATIONS- In the case of an S corporation, the adjustment made
+  under subsection (a) at the corporate level shall be passed through to
+  the shareholders. This section shall not apply for purposes of determining
+  the amount of any tax imposed by section 1374 or 1375.
+  `(3) COMMON TRUST FUNDS- In the case of a common trust fund, the adjustment
+  made under subsection (a) at the trust level shall be passed through
+  to the participants (but only for purposes of determining the income of
+  participants who are individuals).
+  `(g) DISPOSITIONS BETWEEN RELATED PERSONS- This section shall not apply to
+  any sale or other disposition of property between related persons (within
+  the meaning of section 465(b)(3)(C)) if such property, in the hands of the
+  transferee, is of a character subject to the allowance for depreciation
+  provided in section 167.
+  `(h) TRANSFERS TO INCREASE INDEXING ADJUSTMENT- If any person transfers cash,
+  debt, or any other property to another person and the principal purpose
+  of such transfer is to secure or increase an adjustment under subsection
+  (a), the Secretary may disallow part or all of such adjustment or increase.
+  `(i) SPECIAL RULES- For purposes of this section--
+  `(1) TREATMENT AS SEPARATE ASSET- In the case of any asset, the following
+  shall be treated as a separate asset:
+  `(A) A substantial improvement to property.
+  `(B) In the case of stock of a corporation, a substantial contribution
+  to capital.
+  `(C) Any other portion of an asset to the extent that separate treatment
+  of such portion is appropriate to carry out the purposes of this section.
+  `(2) ASSETS WHICH ARE NOT INDEXED ASSETS THROUGHOUT HOLDING PERIOD- The
+  applicable inflation ratio shall be appropriately reduced for periods
+  during which the asset was not an indexed asset.
+  `(3) NET LEASE PROPERTY DEFINED- The term `net lease property' means leased
+  property where--
+  `(A) the term of the lease (taking into account options to renew) was 50
+  percent or more of the useful life of the property, and
+  `(B) for the period of the lease, the sum of the deductions with respect to
+  such property which are allowable to the lessor solely by reason of section
+  162 (other than rents and reimbursed amounts with respect to such property)
+  is 15 percent or less of the rental income produced by such property.
+  `(j) REGULATIONS- The Secretary shall prescribe such regulations as may
+  be necessary or appropriate to carry out the purposes of this section.'
+  (b) GAINS AND LOSSES FROM INDEXED ASSETS NOT TAKEN INTO ACCOUNT UNDER
+  LIMITATION ON INVESTMENT INTEREST- Subparagraph (B) of section 163(d)(4)
+  (defining investment income) is amended by adding at the end thereof the
+  following new sentences:
+`Gain from the sale or other disposition of an indexed asset (as defined in
+section 1022) held for more than 1 year shall not be taken into account for
+purposes of the preceding sentence. The preceding sentence shall not apply
+to gain from the sale or other disposition of any such asset if the taxpayer
+elects to waive the benefits of section 1022 in determining the amount of
+such gain.'
+  (c) REPEAL OF SECTION 1(j)-
+  (1) IN GENERAL- Subsection (j) of section 1 is hereby repealed.
+  (2) CONFORMING AMENDMENTS-
+  (A) Paragraph (4) of section 694(c) is amended by striking `1(j), 1201,
+  and 1211' and inserting `1201, and 1211'.
+  (B)(i) Subparagraph (B) of section 904(b)(2) is amended by striking so
+  much of such subparagraph as precedes clause (i) and inserting the following:
+  `(B) SPECIAL RULE WHERE CORPORATE CAPITAL GAIN RATE DIFFERENTIAL- In the
+  case of a corporation for any taxable year for which there is a capital
+  gain rate differential--'.
+  (ii) Subparagraph (D) of section 904(b)(3) is amended to read as follows:
+  `(D) CAPITAL GAIN RATE DIFFERENTIAL- There is a capital gain rate
+  differential for any taxable year in the case of a corporation if any rate
+  of tax imposed by section 11, 511, or 831(a) or (b) (whichever applies)
+  exceeds the alternative rate of tax under section 1201(a) (determined
+  without regard to the last sentence of section 11(b)(1).'
+  (iii) Subparagraph (E) of section 904(b)(3) is amended by striking clauses
+  (ii) and (iii) and inserting the following:
+  `(ii) HIGHEST APPLICABLE TAX RATE- For purposes of clause (i), the term
+  `highest applicable tax rate' means the highest rate of tax specified in
+  section 11(b).
+  `(iii) ALTERNATIVE TAX RATE- For purposes of clause (i), the term
+  `alternative tax rate' means the alternative rate of tax under section
+  1201(a).'
+  (C)(i) The last sentence of subparagraph (A) of section 7518(h)(6) is
+  amended to read as follows: `With respect to the portion of any nonqualified
+  withdrawal made out of the capital gain account by a corporation during
+  the taxable year to which section 1201(a) applies, the rate of tax taken
+  into account under the preceding sentence shall not exceed 34 percent.'
+  (ii) The last sentence of subparagraph (A) of section 607(h)(6) of the
+  Merchant Marine Act, 1936, is amended to read as follows: `With respect
+  to the portion of any nonqualified withdrawal made out of the capital gain
+  account by a corporation during the taxable year to which section 1201(a)
+  of such Code applies, the rate of tax taken into account under the preceding
+  sentence shall not exceed 34 percent.'
+  (d) CLERICAL AMENDMENT- The table of sections for part II of subchapter
+  O of chapter 1 is amended by inserting after the item relating to section
+  1021 the following new item:
+`Sec. 1022. Indexing of certain assets acquired after 1991 for purposes of
+determining gain.'
+  (e) EFFECTIVE DATE-
+  (1) IN GENERAL- Except as otherwise provided in this subsection, the
+  amendments made by this section shall apply to dispositions of any property
+  the holding period of which begins after December 31, 1991.
+  (2) EXCEPTION FOR CERTAIN TRANSACTIONS BETWEEN RELATED PERSONS- The
+  amendments made by subsections (a) and (b) shall not apply to any property
+  acquired after December 31, 1991, from a related person (as defined in
+  section 465(b)(3)(C) of the Internal Revenue Code of 1986) if--
+  (A) such property was so acquired for a price less than the property's
+  fair market value, and
+  (B) the amendments made by this section did not apply to such property in
+  the hands of such related person.
+  (3) SUBSECTION (c)- The amendments made by subsection (c) shall apply to
+  taxable years beginning after December 31, 1991.
+TITLE III--TREATMENT OF CERTAIN TIMBER ACTIVITIES UNDER PASSIVE LOSS RULES
+SEC. 301. TREATMENT OF CERTAIN TIMBER ACTIVITIES UNDER PASSIVE LOSS RULES.
+  (a) GENERAL RULE- Subsection (c) of section 469 (defining passive activity)
+  is amended by redesignating paragraphs (4), (5), and (6), as paragraphs
+  (5), (6), and (7), respectively, and by inserting after paragraph (3)
+  the following new paragraph:
+  `(4) CERTAIN INTERESTS IN TIMBER PROPERTY-
+  `(A) IN GENERAL- The term `passive activity' shall not include any interest
+  in qualified timber property (as defined in section 194(c)(1) held by
+  a natural person directly or through an entity which does not limit the
+  liability of such person with respect to such interest.
+  `(B) INCOME IN SUBSEQUENT YEARS- If any taxpayer has any loss for any
+  taxable year from an interest in any qualified timber property (as so
+  defined) which is treated as a loss which is not from a passive activity,
+  then any net income from such property (or any other property the basis
+  of which is determined in whole or part by reference to the basis of such
+  property) for any succeeding taxable year shall be treated as income of
+  the taxpayer which is not from a passive activity.'
+  (b) TECHNICAL AMENDMENT- Paragraph (5) of section 469(c) (as redesignated
+  by subsection (a)) is amended by striking `(2) and (3)' each place it
+  appears and inserting `(2), (3), and (4)'.
+  (c) EFFECTIVE DATE- The amendments made by this section shall apply to
+  taxable years beginning after December 31, 1989.
+Passed the House of Representatives November 9, 1989.
+Attest:
+DONNALD K. ANDERSON,
+Clerk.
+HR 3628 PCS----2
+HR 3628 PCS----3
+HR 3628 PCS----4

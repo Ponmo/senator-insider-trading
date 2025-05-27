@@ -1,0 +1,1714 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Publishing Office]
+[S. 442 Referred in House (RFH)]
+
+  2d Session
+                                 S. 442
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 21, 1998
+
+  Referred to the Committee on the Judiciary, and in addition to the 
+   Committees on Commerce, Government Reform and Oversight, Ways and 
+Means, and Education and the Workforce, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To establish a national policy against State and local government 
+ interference with interstate commerce on the Internet or interactive 
+  computer services, and to exercise congressional jurisdiction over 
+ interstate commerce by establishing a moratorium on the imposition of 
+ exactions that would interfere with the free flow of commerce via the 
+                   Internet, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Internet Tax Freedom Act''.
+
+                  TITLE I--MORATORIUM ON CERTAIN TAXES
+
+SEC. 101. MORATORIUM.
+
+    (a) Moratorium.--No State or political subdivision thereof shall 
+impose any of the following taxes during the period beginning on 
+October 1, 1998, and ending 3 years after the date of the enactment of 
+this Act--
+            (1) taxes on Internet access, unless such tax was generally 
+        imposed and actually enforced prior to October 1, 1998; and
+            (2) multiple or discriminatory taxes on electronic 
+        commerce.
+    (b) Preservation of State and Local Taxing Authority.--Except as 
+provided in this section, nothing in this Act shall be construed to 
+modify, impair, or supersede, or authorize the modification, 
+impairment, or superseding of, any State or local law pertaining to 
+taxation that is otherwise permissible by or under the Constitution of 
+the United States or other Federal law and in effect on the date of 
+enactment of this Act.
+    (c) Liabilities and Pending Cases.--Nothing in this Act affects 
+liability for taxes accrued and enforced before the date of enactment 
+of this Act, nor does this Act affect ongoing litigation relating to 
+such taxes.
+    (d) Definition of Generally Imposed and Actually Enforced.--For 
+purposes of this section, a tax has been generally imposed and actually 
+enforced prior to October 1, 1998, if, before that date, the tax was 
+authorized by statute and either--
+            (1) a provider of Internet access services had a reasonable 
+        opportunity to know by virtue of a rule or other public 
+        proclamation made by the appropriate administrative agency of 
+        the State or political subdivision thereof, that such agency 
+        has interpreted and applied such tax to Internet access 
+        services; or
+            (2) a State or political subdivision thereof generally 
+        collected such tax on charges for Internet access.
+    (e) Exception to Moratorium.--
+            (1) In general.--Subsection (a) shall also not apply in the 
+        case of any person or entity who in interstate or foreign 
+        commerce is knowingly engaged in the business of selling or 
+        transferring, by means of the World Wide Web, material that is 
+        harmful to minors unless such person or entity requires the use 
+        of a verified credit card, debit account, adult access code, or 
+        adult personal identification number, or such other procedures 
+        as the Federal Communications Commission may prescribe, in 
+        order to restrict access to such material by persons under 17 
+        years of age.
+            (2) Scope of exception.--For purposes of paragraph (1), a 
+        person shall not be considered to engaged in the business of 
+        selling or transferring material by means of the World Wide Web 
+        to the extent that the person is--
+                    (A) a telecommunications carrier engaged in the 
+                provision of a telecommunications service;
+                    (B) a person engaged in the business of providing 
+                an Internet access service;
+                    (C) a person engaged in the business of providing 
+                an Internet information location tool; or
+                    (D) similarly engaged in the transmission, storage, 
+                retrieval, hosting, formatting, or translation (or any 
+                combination thereof) of a communication made by another 
+                person, without selection or alteration of the 
+                communication.
+            (3) Definitions.--In this subsection:
+                    (A) By means of the world wide web.--The term ``by 
+                means of the World Wide Web'' means by placement of 
+                material in a computer server-based file archive so 
+                that it is publicly accessible, over the Internet, 
+                using hypertext transfer protocol, file transfer 
+                protocol, or other similar protocols.
+                    (B) Engaged in the business.--The term ``engaged in 
+                the business'' means that the person who sells or 
+                transfers or offers to sell or transfer, by means of 
+                the World Wide Web, material that is harmful to minors 
+                devotes time, attention, or labor to such activities, 
+                as a regular course of trade or business, with the 
+                objective of earning a profit, although it is not 
+                necessary that the person make a profit or that the 
+                selling or transferring or offering to sell or transfer 
+                such material be the person's sole or principal 
+                business or source of income.
+                    (C) Internet.--The term ``Internet'' means 
+                collectively the myriad of computer and 
+                telecommunications facilities, including equipment and 
+                operating software, which comprise the interconnected 
+                world-wide network of networks that employ the 
+                Transmission Control Protocol/Internet Protocol, or any 
+                predecessor or successor protocols to such protocol, to 
+                communicate information of all kinds by wire or radio.
+                    (D) Internet access service.--The term ``Internet 
+                access service'' means a service that enables users to 
+                access content, information, electronic mail, or other 
+                services offered over the Internet and may also include 
+                access to proprietary content, information, and other 
+                services as part of a package of services offered to 
+                consumers. Such term does not include 
+                telecommunications services.
+                    (E) Internet information location tool.--The term 
+                ``Internet information location tool'' means a service 
+                that refers or links users to an online location on the 
+                World Wide Web. Such term includes directories, 
+                indices, references, pointers, and hypertext links.
+                    (F) Material that is harmful to minors.--The term 
+                ``material that is harmful to minors'' means any 
+                communication, picture, image, graphic image file, 
+                article, recording, writing, or other matter of any 
+                kind that--
+                            (i) taken as a whole and with respect to 
+                        minors, appeals to a prurient interest in 
+                        nudity, sex, or excretion;
+                            (ii) depicts, describes, or represents, in 
+                        a patently offensive way with respect to what 
+                        is suitable for minors, an actual or simulated 
+                        sexual act or sexual contact, actual or 
+                        simulated normal or perverted sexual acts, or a 
+                        lewd exhibition of the genitals; and
+                            (iii) taken as a whole, lacks serious 
+                        literary, artistic, political, or scientific 
+                        value for minors.
+                    (G) Sexual act; sexual contact.--The terms ``sexual 
+                act'' and ``sexual contact'' have the meanings given 
+                such terms in section 2246 of title 18, United States 
+                Code.
+                    (H) Telecommunications carrier; telecommunications 
+                service.--The terms ``telecommunications carrier'' and 
+                ``telecommunications service'' have the meanings given 
+                such terms in section 3 of the Communications Act of 
+                1934 (47 U.S.C. 153).
+    (f) Additional Exception to Moratorium.--
+            (1) In general.--Subsection (a) shall also not apply with 
+        respect to an Internet access provider, unless, at the time of 
+        entering into an agreement with a customer for the provision of 
+        Internet access services, such provider offers such customer 
+        (either for a fee or at no charge) screening software that is 
+        designed to permit the customer to limit access to material on 
+        the Internet that is harmful to minors.
+            (2) Definitions.--In this subsection:
+                    (A) Internet access provider.--The term `Internet 
+                access provider' means a person engaged in the business 
+                of providing a computer and communications facility 
+                through which a customer may obtain access to the 
+                Internet, but does not include a common carrier to the 
+                extent that it provides only telecommunications 
+                services.
+                    (B) Internet access services.--The term `Internet 
+                access services' means the provision of computer and 
+                communications services through which a customer using 
+                a computer and a modem or other communications device 
+                may obtain access to the Internet, but does not include 
+                telecommunications services provided by a common 
+                carrier.
+                    (C) Screening software.--The term ``screening 
+                software'' means software that is designed to permit a 
+                person to limit access to material on the Internet that 
+                is harmful to minors.
+            (3) Applicability.--Paragraph (1) shall apply to agreements 
+        for the provision of Internet access services entered into on 
+        or after the date that is 6 months after the date of enactment 
+        of this Act.
+
+SEC. 102. ADVISORY COMMISSION ON ELECTRONIC COMMERCE.
+
+    (a) Establishment of Commission.--There is established a commission 
+to be known as the Advisory Commission on Electronic Commerce (in this 
+title referred to as the ``Commission''). The Commission shall--
+            (1) be composed of 19 members appointed in accordance with 
+        subsection (b), including the chairperson who shall be selected 
+        by the members of the Commission from among themselves; and
+            (2) conduct its business in accordance with the provisions 
+        of this title.
+    (b) Membership.--
+            (1) In general.--The Commissioners shall serve for the life 
+        of the Commission. The membership of the Commission shall be as 
+        follows:
+                    (A) 3 representatives from the Federal Government, 
+                comprised of the Secretary of Commerce, the Secretary 
+                of the Treasury, and the United States Trade 
+                Representative (or their respective delegates).
+                    (B) 8 representatives from State and local 
+                governments (one such representative shall be from a 
+                State or local government that does not impose a sales 
+                tax and one representative shall be from a State that 
+                does not impose an income tax).
+                    (C) 8 representatives of the electronic commerce 
+                industry (including small business), telecommunications 
+                carriers, local retail businesses, and consumer groups, 
+                comprised of--
+                            (i) 5 individuals appointed by the Majority 
+                        Leader of the Senate;
+                            (ii) 3 individuals appointed by the 
+                        Minority Leader of the Senate;
+                            (iii) 5 individuals appointed by the 
+                        Speaker of the House of Representatives; and
+                            (iv) 3 individuals appointed by the 
+                        Minority Leader of the House of 
+                        Representatives.
+            (2) Appointments.--Appointments to the Commission shall be 
+        made not later than 45 days after the date of the enactment of 
+        this Act. The chairperson shall be selected not later than 60 
+        days after the date of the enactment of this Act.
+            (3) Vacancies.--Any vacancy in the Commission shall not 
+        affect its powers, but shall be filled in the same manner as 
+        the original appointment.
+    (c) Acceptance of Gifts and Grants.--The Commission may accept, 
+use, and dispose of gifts or grants of services or property, both real 
+and personal, for purposes of aiding or facilitating the work of the 
+Commission. Gifts or grants not used at the expiration of the 
+Commission shall be returned to the donor or grantor.
+    (d) Other Resources.--The Commission shall have reasonable access 
+to materials, resources, data, and other information from the 
+Department of Justice, the Department of Commerce, the Department of 
+State, the Department of the Treasury, and the Office of the United 
+States Trade Representative. The Commission shall also have reasonable 
+access to use the facilities of any such Department or Office for 
+purposes of conducting meetings.
+    (e) Sunset.--The Commission shall terminate 18 months after the 
+date of the enactment of this Act.
+    (f) Rules of the Commission.--
+            (1) Quorum.--Nine members of the Commission shall 
+        constitute a quorum for conducting the business of the 
+        Commission.
+            (2) Meetings.--Any meetings held by the Commission shall be 
+        duly noticed at least 14 days in advance and shall be open to 
+        the public.
+            (3) Opportunities to testify.--The Commission shall provide 
+        opportunities for representatives of the general public, 
+        taxpayer groups, consumer groups, and State and local 
+        government officials to testify.
+            (4) Additional rules.--The Commission may adopt other rules 
+        as needed.
+    (g) Duties of the Commission.--
+            (1) In general.--The Commission shall conduct a thorough 
+        study of Federal, State and local, and international taxation 
+        and tariff treatment of transactions using the Internet and 
+        Internet access and other comparable intrastate, interstate or 
+        international sales activities.
+            (2) Issues to be studied.--The Commission may include in 
+        the study under subsection (a)--
+                    (A) an examination of--
+                            (i) barriers imposed in foreign markets on 
+                        United States providers of property, goods, 
+                        services, or information engaged in electronic 
+                        commerce and on United States providers of 
+                        telecommunications services; and
+                            (ii) how the imposition of such barriers 
+                        will affect United States consumers, the 
+                        competitiveness of United States citizens 
+                        providing property, goods, services, or 
+                        information in foreign markets, and the growth 
+                        and maturing of the Internet;
+                    (B) an examination of the collection and 
+                administration of consumption taxes on electronic 
+                commerce in other countries and the United States, and 
+                the impact of such collection on the global economy, 
+                including an examination of the relationship between 
+                the collection and administration of such taxes when 
+                the transaction uses the Internet and when it does not;
+                    (C) an examination of the impact of the Internet 
+                and Internet access (particularly voice transmission) 
+                on the revenue base for taxes imposed under section 
+                4251 of the Internal Revenue Code of 1986;
+                    (D) an examination of model State legislation 
+                that--
+                            (i) would provide uniform definitions of 
+                        categories of property, goods, service, or 
+                        information subject to or exempt from sales and 
+                        use taxes; and
+                            (ii) would ensure that Internet access 
+                        services, online services, and communications 
+                        and transactions using the Internet, Internet 
+                        access service, or online services would be 
+                        treated in a tax and technologically neutral 
+                        manner relative to other forms of remote sales;
+                    (E) an examination of the effects of taxation, 
+                including the absence of taxation, on all interstate 
+                sales transactions, including transactions using the 
+                Internet, on retail businesses and on State and local 
+                governments, which examination may include a review of 
+                the efforts of State and local governments to collect 
+                sales and use taxes owed on in-State purchases from 
+                out-of-State sellers; and
+                    (F) the examination of ways to simplify Federal and 
+                State and local taxes imposed on the provision of 
+                telecommunications services.
+            (3) Effect on the communications act of 1934.--Nothing in 
+        this section shall include an examination of any fees or 
+        charges imposed by the Federal Communications Commission or 
+        States related to--
+                    (A) obligations under the Communications Act of 
+                1934 (47 U.S.C. 151 et seq.); or
+                    (B) the implementation of the Telecommunications 
+                Act of 1996 (or of amendments made by that Act).
+    (h) National Tax Association Communications and Electronic Commerce 
+Tax Project.--The Commission shall, to the extent possible, ensure that 
+its work does not undermine the efforts of the National Tax Association 
+Communications and Electronic Commerce Tax Project.
+
+SEC. 103. REPORT.
+
+    Not later than 18 months after the date of the enactment of this 
+Act, the Commission shall transmit to Congress for its consideration a 
+report reflecting the results, including such legislative 
+recommendations as required to address the findings of the Commission's 
+study under this title. Any recommendation agreed to by the Commission 
+shall be tax and technologically neutral and apply to all forms of 
+remote commerce. No finding or recommendation shall be included in the 
+report unless agreed to by at least two-thirds of the members of the 
+Commission serving at the time the finding or recommendation is made.
+
+SEC. 104. DEFINITIONS.
+
+    For the purposes of this title:
+            (1) Bit tax.--The term ``bit tax'' means any tax on 
+        electronic commerce expressly imposed on or measured by the 
+        volume of digital information transmitted electronically, or 
+        the volume of digital information per unit of time transmitted 
+        electronically, but does not include taxes imposed on the 
+        provision of telecommunications services.
+            (2) Discriminatory tax.--The term ``discriminatory tax'' 
+        means--
+                    (A) any tax imposed by a State or political 
+                subdivision thereof on electronic commerce that--
+                            (i) is not generally imposed and legally 
+                        collectible by such State or such political 
+                        subdivision on transactions involving similar 
+                        property, goods, services, or information 
+                        accomplished through other means;
+                            (ii) is not generally imposed and legally 
+                        collectible at the same rate by such State or 
+                        such political subdivision on transactions 
+                        involving similar property, goods, services, or 
+                        information accomplished through other means, 
+                        unless the rate is lower as part of a phase-out 
+                        of the tax over not more than a 5-year period;
+                            (iii) imposes an obligation to collect or 
+                        pay the tax on a different person or entity 
+                        than in the case of transactions involving 
+                        similar property, goods, services, or 
+                        information accomplished through other means;
+                            (iv) establishes a classification of 
+                        Internet access service providers or online 
+                        service providers for purposes of establishing 
+                        a higher tax rate to be imposed on such 
+                        providers than the tax rate generally applied 
+                        to providers of similar information services 
+                        delivered through other means; or
+                    (B) any tax imposed by a State or political 
+                subdivision thereof, if--
+                            (i) except with respect to a tax (on 
+                        Internet access) that was generally imposed and 
+                        actually enforced prior to October 1, 1998, the 
+                        sole ability to access a site on a remote 
+                        seller's out-of-State computer server is 
+                        considered a factor in determining a remote 
+                        seller's tax collection obligation; or
+                            (ii) a provider of Internet access service 
+                        or online services is deemed to be the agent of 
+                        a remote seller for determining tax collection 
+                        obligations solely as a result of--
+                                    (I) the display of a remote 
+                                seller's information or content on the 
+                                out-of-State computer server of a 
+                                provider of Internet access service or 
+                                online services; or
+                                    (II) the processing of orders 
+                                through the out-of-State computer 
+                                server of a provider of Internet access 
+                                service or online services.
+            (3) Electronic commerce.--The term ``electronic commerce'' 
+        means any transaction conducted over the Internet or through 
+        Internet access, comprising the sale, lease, license, offer, or 
+        delivery of property, goods, services, or information, whether 
+        or not for consideration, and includes the provision of 
+        Internet access.
+            (4) Internet.--The term ``Internet'' means collectively the 
+        myriad of computer and telecommunications facilities, including 
+        equipment and operating software, which comprise the 
+        interconnected world-wide network of networks that employ the 
+        Transmission Control Protocol/Internet Protocol, or any 
+        predecessor or successor protocols to such protocol, to 
+        communicate information of all kinds by wire or radio.
+            (5) Internet access.--The term ``Internet access'' means a 
+        service that enables users to access content, information, 
+        electronic mail, or other services offered over the Internet, 
+        and may also include access to proprietary content, 
+        information, and other services as part of a package of 
+        services offered to users. Such term does not include 
+        telecommunications services.
+            (6) Multiple tax.--
+                    (A) In general.--The term ``multiple tax'' means 
+                any tax that is imposed by one State or political 
+                subdivision thereof on the same or essentially the same 
+                electronic commerce that is also subject to another tax 
+                imposed by another State or political subdivision 
+                thereof (whether or not at the same rate or on the same 
+                basis), without a credit (for example, a resale 
+                exemption certificate) for taxes paid in other 
+                jurisdictions.
+                    (B) Exception.--Such term shall not include a sales 
+                or use tax imposed by a State and 1 or more political 
+                subdivisions thereof on the same electronic commerce or 
+                a tax on persons engaged in electronic commerce which 
+                also may have been subject to a sales or use tax 
+                thereon.
+                    (C) Sales or use tax.--For purposes of subparagraph 
+                (B), the term ``sales or use tax'' means a tax that is 
+                imposed on or incident to the sale, purchase, storage, 
+                consumption, distribution, or other use of tangible 
+                personal property or services as may be defined by laws 
+                imposing such tax and which is measured by the amount 
+                of the sales price or other charge for such property or 
+                service.
+            (7) State.--The term ``State'' means any of the several 
+        States, the District of Columbia, or any commonwealth, 
+        territory, or possession of the United States.
+            (8) Tax.--
+                    (A) In general.-- The term ``tax'' means--
+                            (i) any charge imposed by any governmental 
+                        entity for the purpose of generating revenues 
+                        for governmental purposes, and is not a fee 
+                        imposed for a specific privilege, service, or 
+                        benefit conferred; or
+                            (ii) the imposition on a seller of an 
+                        obligation to collect and to remit to a 
+                        governmental entity any sales or use tax 
+                        imposed on a buyer by a governmental entity.
+                    (B) Exception.--Such term does not include any 
+                franchise fee or similar fee imposed by a State or 
+                local franchising authority, pursuant to section 622 or 
+                653 of the Communications Act of 1934 (47 U.S.C. 542, 
+                573), or any other fee related to obligations or 
+                telecommunications carriers under the Communications 
+                Act of 1934 (47 U.S.C. 151 et seq.).
+            (9) Telecommunications service.--The term 
+        ``telecommunications service'' has the meaning given such term 
+        in section 3(46) of the Communications Act of 1934 (47 U.S.C. 
+        153(46)) and includes communications services (as defined in 
+        section 4251 of the Internal Revenue Code of 1986).
+            (10) Tax on internet access.--The term ``tax on Internet 
+        access'' means a tax on Internet access, including the 
+        enforcement or application of any new or preexisting tax on the 
+        sale or use of Internet services unless such tax was generally 
+        imposed and actually enforced prior to October 1, 1998.
+
+                       TITLE II--OTHER PROVISIONS
+
+SEC. 201. DECLARATION THAT INTERNET SHOULD BE FREE OF NEW FEDERAL 
+              TAXES.
+
+    It is the sense of Congress that no new Federal taxes similar to 
+the taxes described in section 101(a) should be enacted with respect to 
+the Internet and Internet access during the moratorium provided in such 
+section.
+
+SEC. 202. NATIONAL TRADE ESTIMATE.
+
+    Section 181 of the Trade Act of 1974 (19 U.S.C. 2241) is amended--
+            (1) in subsection (a)(1)--
+                    (A) in subparagraph (A)--
+                            (i) by striking ``and'' at the end of 
+                        clause (i);
+                            (ii) by inserting ``and'' at the end of 
+                        clause (ii); and
+                            (iii) by inserting after clause (ii) the 
+                        following new clause:
+                            ``(iii) United States electronic 
+                        commerce,''; and
+                    (B) in subparagraph (C)--
+                            (i) by striking ``and'' at the end of 
+                        clause (i);
+                            (ii) by inserting ``and'' at the end of 
+                        clause (ii);
+                            (iii) by inserting after clause (ii) the 
+                        following new clause:
+                            ``(iii) the value of additional United 
+                        States electronic commerce,''; and
+                            (iv) by inserting ``or transacted with,'' 
+                        after ``or invested in'';
+            (2) in subsection (a)(2)(E)--
+                    (A) by striking ``and'' at the end of clause (i);
+                    (B) by inserting ``and'' at the end of clause (ii); 
+                and
+                    (C) by inserting after clause (ii) the following 
+                new clause:
+                            ``(iii) the value of electronic commerce 
+                        transacted with,''; and
+            (3) by adding at the end the following new subsection:
+    ``(d) Electronic Commerce.--For purposes of this section, the term 
+`electronic commerce' has the meaning given that term in section 104(3) 
+of the Internet Tax Freedom Act.''.
+
+SEC. 203. DECLARATION THAT THE INTERNET SHOULD BE FREE OF FOREIGN 
+              TARIFFS, TRADE BARRIERS, AND OTHER RESTRICTIONS.
+
+    (a) In General.-- It is the sense of Congress that the President 
+should seek bilateral, regional, and multilateral agreements to remove 
+barriers to global electronic commerce through the World Trade 
+Organization, the Organization for Economic Cooperation and 
+Development, the Trans-Atlantic Economic Partnership, the Asia Pacific 
+Economic Cooperation forum, the Free Trade Area of the America, the 
+North American Free Trade Agreement, and other appropriate venues.
+    (b) Negotiating Objectives.--The negotiating objectives of the 
+United States shall be--
+            (1) to assure that electronic commerce is free from--
+                    (A) tariff and nontariff barriers;
+                    (B) burdensome and discriminatory regulation and 
+                standards; and
+                    (C) discriminatory taxation; and
+            (2) to accelerate the growth of electronic commerce by 
+        expanding market access opportunities for--
+                    (A) the development of telecommunications 
+                infrastructure;
+                    (B) the procurement of telecommunications 
+                equipment;
+                    (C) the provision of Internet access and 
+                telecommunications services; and
+                    (D) the exchange of goods, services, and 
+                digitalized information.
+    (c) Electronic Commerce.--For purposes of this section, the term 
+``electronic commerce'' has the meaning given that term in section 
+104(3).
+
+SEC. 204. NO EXPANSION OF TAX AUTHORITY.
+
+    Nothing in this Act shall be construed to expand the duty of any 
+person to collect or pay taxes beyond that which existed immediately 
+before the date of the enactment of this Act.
+
+SEC. 205. PRESERVATION OF AUTHORITY.
+
+    Nothing in this Act shall limit or otherwise affect the 
+implementation of the Telecommunications Act of 1996 (Public Law 104-
+104) or the amendments made by such Act.
+
+SEC. 206. SEVERABILITY.
+
+    If any provision of this Act, or any amendment made by this Act, or 
+the application of that provision to any person or circumstance, is 
+held by a court of competent jurisdiction to violate any provision of 
+the Constitution of the United States, then the other provisions of 
+that section, and the application of that provision to other persons 
+and circumstances, shall not be affected.
+
+            TITLE III--GOVERNMENT PAPERWORK ELIMINATION ACT
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Government Paperwork Elimination 
+Act''.
+
+SEC. 302. AUTHORITY OF OMB TO PROVIDE FOR ACQUISITION AND USE OF 
+              ALTERNATIVE INFORMATION TECHNOLOGIES BY EXECUTIVE 
+              AGENCIES.
+
+    Section 3504(a)(1)(B)(vi) of title 44, United States Code, is 
+amended to read as follows:
+                            ``(vi) the acquisition and use of 
+                        information technology, including alternative 
+                        information technologies that provide for 
+                        electronic submission, maintenance, or 
+                        disclosure of information as a substitute for 
+                        paper and for the use and acceptance of 
+                        electronic signatures.''.
+
+SEC. 303. PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES BY 
+              EXECUTIVE AGENCIES.
+
+    (a) In General.--In order to fulfill the responsibility to 
+administer the functions assigned under chapter 35 of title 44, United 
+States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions 
+D and E of Public Law 104-106) and the amendments made by that Act, and 
+the provisions of this title, the Director of the Office of Management 
+and Budget shall, in consultation with the National Telecommunications 
+and Information Administration and not later than 18 months after the 
+date of enactment of this Act, develop procedures for the use and 
+acceptance of electronic signatures by Executive agencies.
+    (b) Requirements for Procedures.--(1) The procedures developed 
+under subsection (a)--
+            (A) shall be compatible with standards and technology for 
+        electronic signatures that are generally used in commerce and 
+        industry and by State governments;
+            (B) may not inappropriately favor one industry or 
+        technology;
+            (C) shall ensure that electronic signatures are as reliable 
+        as is appropriate for the purpose in question and keep intact 
+        the information submitted;
+            (D) shall provide for the electronic acknowledgment of 
+        electronic forms that are successfully submitted; and
+            (E) shall, to the extent feasible and appropriate, require 
+        an Executive agency that anticipates receipt by electronic 
+        means of 50,000 or more submittals of a particular form to take 
+        all steps necessary to ensure that multiple methods of 
+        electronic signatures are available for the submittal of such 
+        form.
+    (2) The Director shall ensure the compatibility of the procedures 
+under paragraph (1)(A) in consultation with appropriate private bodies 
+and State government entities that set standards for the use and 
+acceptance of electronic signatures.
+
+SEC. 304. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF 
+              PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC 
+              SIGNATURES.
+
+    In order to fulfill the responsibility to administer the functions 
+assigned under chapter 35 of title 44, United States Code, the 
+provisions of the Clinger-Cohen Act of 1996 (divisions D and E of 
+Public Law 104-106) and the amendments made by that Act, and the 
+provisions of this title, the Director of the Office of Management and 
+Budget shall ensure that, commencing not later than five years after 
+the date of enactment of this Act, Executive agencies provide--
+            (1) for the option of the electronic maintenance, 
+        submission, or disclosure of information, when practicable as a 
+        substitute for paper; and
+            (2) for the use and acceptance of electronic signatures, 
+        when practicable.
+
+SEC. 305. ELECTRONIC STORAGE AND FILING OF EMPLOYMENT FORMS.
+
+    In order to fulfill the responsibility to administer the functions 
+assigned under chapter 35 of title 44, United States Code, the 
+provisions of the Clinger-Cohen Act of 1996 (divisions D and E of 
+Public Law 104-106) and the amendments made by that Act, and the 
+provisions of this title, the Director of the Office of Management and 
+Budget shall, not later than 18 months after the date of enactment of 
+this Act, develop procedures to permit private employers to store and 
+file electronically with Executive agencies forms containing 
+information pertaining to the employees of such employers.
+
+SEC. 306. STUDY ON USE OF ELECTRONIC SIGNATURES.
+
+    (a) Ongoing Study Required.--In order to fulfill the responsibility 
+to administer the functions assigned under chapter 35 of title 44, 
+United States Code, the provisions of the Clinger-Cohen Act of 1996 
+(divisions D and E of Public Law 104-106) and the amendments made by 
+that Act, and the provisions of this title, the Director of the Office 
+of Management and Budget shall, in cooperation with the National 
+Telecommunications and Information Administration, conduct an ongoing 
+study of the use of electronic signatures under this title on--
+            (1) paperwork reduction and electronic commerce;
+            (2) individual privacy; and
+            (3) the security and authenticity of transactions.
+    (b) Reports.--The Director shall submit to Congress on a periodic 
+basis a report describing the results of the study carried out under 
+subsection (a).
+
+SEC. 307. ENFORCEABILITY AND LEGAL EFFECT OF ELECTRONIC RECORDS.
+
+    Electronic records submitted or maintained in accordance with 
+procedures developed under this title, or electronic signatures or 
+other forms of electronic authentication used in accordance with such 
+procedures, shall not be denied legal effect, validity, or 
+enforceability because such records are in electronic form.
+
+SEC. 308. DISCLOSURE OF INFORMATION.
+
+    Except as provided by law, information collected in the provision 
+of electronic signature services for communications with an executive 
+agency, as provided by this title, shall only be used or disclosed by 
+persons who obtain, collect, or maintain such information as a business 
+or government practice, for the purpose of facilitating such 
+communications, or with the prior affirmative consent of the person 
+about whom the information pertains.
+
+SEC. 309. APPLICATION WITH INTERNAL REVENUE LAWS.
+
+    No provision of this title shall apply to the Department of the 
+Treasury or the Internal Revenue Service to the extent that such 
+provision--
+            (1) involves the administration of the internal revenue 
+        laws; or
+            (2) conflicts with any provision of the Internal Revenue 
+        Service Restructuring and Reform Act of 1998 or the Internal 
+        Revenue Code of 1986.
+
+SEC. 310. DEFINITIONS.
+
+    For purposes of this title:
+            (1) Electronic signature.--The term ``electronic 
+        signature'' means a method of signing an electronic message 
+        that--
+                    (A) identifies and authenticates a particular 
+                person as the source of the electronic message; and
+                    (B) indicates such person's approval of the 
+                information contained in the electronic message.
+            (2) Executive agency.--The term ``Executive agency'' has 
+        the meaning given that term in section 105 of title 5, United 
+        States Code.
+
+             TITLE IV--CHILDREN'S ONLINE PRIVACY PROTECTION
+
+SEC. 401. SHORT TITLE.
+
+    This title may be cited as the ``Children's Online Privacy 
+Protection Act of 1998''.
+
+SEC. 402. DEFINITIONS.
+
+    In this title:
+            (1) Child.--The term ``child'' means an individual under 
+        the age of 13.
+            (2) Operator.--The term ``operator''--
+                    (A) means any person who operates a website located 
+                on the Internet or an online service and who collects 
+                or maintains personal information from or about the 
+                users of or visitors to such website or online service, 
+                or on whose behalf such information is collected or 
+                maintained, where such website or online service is 
+                operated for commercial purposes, including any person 
+                offering products or services for sale through that 
+                website or online service, involving commerce--
+                            (i) among the several States or with 1 or 
+                        more foreign nations;
+                            (ii) in any territory of the United States 
+                        or in the District of Columbia, or between any 
+                        such territory and--
+                                    (I) another such territory; or
+                                    (II) any State or foreign nation; 
+                                or
+                            (iii) between the District of Columbia and 
+                        any State, territory, or foreign nation; but
+                    (B) does not include any nonprofit entity that 
+                would otherwise be exempt from coverage under section 5 
+                of the Federal Trade Commission Act (15 U.S.C. 45).
+            (3) Commission.--The term ``Commission'' means the Federal 
+        Trade Commission.
+            (4) Disclosure.--The term ``disclosure'' means, with 
+        respect to personal information--
+                    (A) the release of personal information collected 
+                from a child in identifiable form by an operator for 
+                any purpose, except where such information is provided 
+                to a person other than the operator who provides 
+                support for the internal operations of the website and 
+                does not disclose or use that information for any other 
+                purpose; and
+                    (B) making personal information collected from a 
+                child by a website or online service directed to 
+                children or with actual knowledge that such information 
+                was collected from a child, publicly available in 
+                identifiable form, by any means including by a public 
+                posting, through the Internet, or through--
+                            (i) a home page of a website;
+                            (ii) a pen pal service;
+                            (iii) an electronic mail service;
+                            (iv) a message board; or
+                            (v) a chat room.
+            (5) Federal agency.--The term ``Federal agency'' means an 
+        agency, as that term is defined in section 551(1) of title 5, 
+        United States Code.
+            (6) Internet.--The term ``Internet'' means collectively the 
+        myriad of computer and telecommunications facilities, including 
+        equipment and operating software, which comprise the 
+        interconnected world-wide network of networks that employ the 
+        Transmission Control Protocol/Internet Protocol, or any 
+        predecessor or successor protocols to such protocol, to 
+        communicate information of all kinds by wire or radio.
+            (7) Parent.--The term ``parent'' includes a legal guardian.
+            (8) Personal information.--The term ``personal 
+        information'' means individually identifiable information about 
+        an individual collected online, including--
+                    (A) a first and last name;
+                    (B) a home or other physical address including 
+                street name and name of a city or town;
+                    (C) an e-mail address;
+                    (D) a telephone number;
+                    (E) a Social Security number;
+                    (F) any other identifier that the Commission 
+                determines permits the physical or online contacting of 
+                a specific individual; or
+                    (G) information concerning the child or the parents 
+                of that child that the website collects online from the 
+                child and combines with an identifier described in this 
+                paragraph.
+            (9) Verifiable parental consent.--The term ``verifiable 
+        parental consent'' means any reasonable effort (taking into 
+        consideration available technology), including a request for 
+        authorization for future collection, use, and disclosure 
+        described in the notice, to ensure that a parent of a child 
+        receives notice of the operator's personal information 
+        collection, use, and disclosure practices, and authorizes the 
+        collection, use, and disclosure, as applicable, of personal 
+        information and the subsequent use of that information before 
+        that information is collected from that child.
+            (10) Website or online service directed to children.--
+                    (A) In general.--The term ``website or online 
+                service directed to children'' means--
+                            (i) a commercial website or online service 
+                        that is targeted to children; or
+                            (ii) that portion of a commercial website 
+                        or online service that is targeted to children.
+                    (B) Limitation.--A commercial website or online 
+                service, or a portion of a commercial website or online 
+                service, shall not be deemed directed to children 
+                solely for referring or linking to a commercial website 
+                or online service directed to children by using 
+                information location tools, including a directory, 
+                index, reference, pointer, or hypertext link.
+            (11) Person.--The term ``person'' means any individual, 
+        partnership, corporation, trust, estate, cooperative, 
+        association, or other entity.
+            (12) Online contact information.--The term ``online contact 
+        information'' means an e-mail address or another substantially 
+        similar identifier that permits direct contact with a person 
+        online.
+
+SEC. 403. REGULATION OF UNFAIR AND DECEPTIVE ACTS AND PRACTICES IN 
+              CONNECTION WITH THE COLLECTION AND USE OF PERSONAL 
+              INFORMATION FROM AND ABOUT CHILDREN ON THE INTERNET.
+
+    (a) Acts Prohibited.--
+            (1) In general.--It is unlawful for an operator of a 
+        website or online service directed to children, or any operator 
+        that has actual knowledge that it is collecting personal 
+        information from a child, to collect personal information from 
+        a child in a manner that violates the regulations prescribed 
+        under subsection (b).
+            (2) Disclosure to parent protected.--Notwithstanding 
+        paragraph (1), neither an operator of such a website or online 
+        service nor the operator's agent shall be held to be liable 
+        under any Federal or State law for any disclosure made in good 
+        faith and following reasonable procedures in responding to a 
+        request for disclosure of personal information under subsection 
+        (b)(1)(B)(iii) to the parent of a child.
+    (b) Regulations.--
+            (1) In general.--Not later than 1 year after the date of 
+        the enactment of this Act, the Commission shall promulgate 
+        under section 553 of title 5, United States Code, regulations 
+        that--
+                    (A) require the operator of any website or online 
+                service directed to children that collects personal 
+                information from children or the operator of a website 
+                or online service that has actual knowledge that it is 
+                collecting personal information from a child--
+                            (i) to provide notice on the website of 
+                        what information is collected from children by 
+                        the operator, how the operator uses such 
+                        information, and the operator's disclosure 
+                        practices for such information; and
+                            (ii) to obtain verifiable parental consent 
+                        for the collection, use, or disclosure of 
+                        personal information from children;
+                    (B) require the operator to provide, upon request 
+                of a parent under this subparagraph whose child has 
+                provided personal information to that website or online 
+                service, upon proper identification of that parent, to 
+                such parent--
+                            (i) a description of the specific types of 
+                        personal information collected from the child 
+                        by that operator;
+                            (ii) the opportunity at any time to refuse 
+                        to permit the operator's further use or 
+                        maintenance in retrievable form, or future 
+                        online collection, of personal information from 
+                        that child; and
+                            (iii) notwithstanding any other provision 
+                        of law, a means that is reasonable under the 
+                        circumstances for the parent to obtain any 
+                        personal information collected from that child;
+                    (C) prohibit conditioning a child's participation 
+                in a game, the offering of a prize, or another activity 
+                on the child disclosing more personal information than 
+                is reasonably necessary to participate in such 
+                activity; and
+                    (D) require the operator of such a website or 
+                online service to establish and maintain reasonable 
+                procedures to protect the confidentiality, security, 
+                and integrity of personal information collected from 
+                children.
+            (2) When consent not required.--The regulations shall 
+        provide that verifiable parental consent under paragraph 
+        (1)(A)(ii) is not required in the case of--
+                    (A) online contact information collected from a 
+                child that is used only to respond directly on a one-
+                time basis to a specific request from the child and is 
+                not used to recontact the child and is not maintained 
+                in retrievable form by the operator;
+                    (B) a request for the name or online contact 
+                information of a parent or child that is used for the 
+                sole purpose of obtaining parental consent or providing 
+                notice under this section and where such information is 
+                not maintained in retrievable form by the operator if 
+                parental consent is not obtained after a reasonable 
+                time;
+                    (C) online contact information collected from a 
+                child that is used only to respond more than once 
+                directly to a specific request from the child and is 
+                not used to recontact the child beyond the scope of 
+                that request--
+                            (i) if, before any additional response 
+                        after the initial response to the child, the 
+                        operator uses reasonable efforts to provide a 
+                        parent notice of the online contact information 
+                        collected from the child, the purposes for 
+                        which it is to be used, and an opportunity for 
+                        the parent to request that the operator make no 
+                        further use of the information and that it not 
+                        be maintained in retrievable form; or
+                            (ii) without notice to the parent in such 
+                        circumstances as the Commission may determine 
+                        are appropriate, taking into consideration the 
+                        benefits to the child of access to information 
+                        and services, and risks to the security and 
+                        privacy of the child, in regulations 
+                        promulgated under this subsection;
+                    (D) the name of the child and online contact 
+                information (to the extent reasonably necessary to 
+                protect the safety of a child participant on the 
+                site)--
+                            (i) used only for the purpose of protecting 
+                        such safety;
+                            (ii) not used to recontact the child or for 
+                        any other purpose; and
+                            (iii) not disclosed on the site,
+                if the operator uses reasonable efforts to provide a 
+                parent notice of the name and online contact 
+                information collected from the child, the purposes for 
+                which it is to be used, and an opportunity for the 
+                parent to request that the operator make no further use 
+                of the information and that it not be maintained in 
+                retrievable form; or
+                    (E) the collection, use, or dissemination of such 
+                information by the operator of such a website or online 
+                service necessary--
+                            (i) to protect the security or integrity of 
+                        its website;
+                            (ii) to take precautions against liability;
+                            (iii) to respond to judicial process; or
+                            (iv) to the extent permitted under other 
+                        provisions of law, to provide information to 
+                        law enforcement agencies or for an 
+                        investigation on a matter related to public 
+                        safety.
+            (3) Termination of service.--The regulations shall permit 
+        the operator of a website or an online service to terminate 
+        service provided to a child whose parent has refused, under the 
+        regulations prescribed under paragraph (1)(B)(ii), to permit 
+        the operator's further use or maintenance in retrievable form, 
+        or future online collection, of personal information from that 
+        child.
+    (c) Enforcement.--Subject to sections 404 and 406, a violation of a 
+regulation prescribed under subsection (a) shall be treated as a 
+violation of a rule defining an unfair or deceptive act or practice 
+prescribed under section 18(a)(1)(B) of the Federal Trade Commission 
+Act (15 U.S.C. 57a(a)(1)(B)).
+    (d) Inconsistent State Law.--No State or local government may 
+impose any liability for commercial activities or actions by operators 
+in interstate or foreign commerce in connection with an activity or 
+action described in this title that is inconsistent with the treatment 
+of those activities or actions under this section.
+
+SEC. 404. SAFE HARBORS.
+
+    (a) Guidelines.--An operator may satisfy the requirements of 
+regulations issued under section 403(b) by following a set of self-
+regulatory guidelines, issued by representatives of the marketing or 
+online industries, or by other persons, approved under subsection (b).
+    (b) Incentives.--
+            (1) Self-regulatory incentives.--In prescribing regulations 
+        under section 403, the Commission shall provide incentives for 
+        self-regulation by operators to implement the protections 
+        afforded children under the regulatory requirements described 
+        in subsection (b) of that section.
+            (2) Deemed compliance.--Such incentives shall include 
+        provisions for ensuring that a person will be deemed to be in 
+        compliance with the requirements of the regulations under 
+        section 403 if that person complies with guidelines that, after 
+        notice and comment, are approved by the Commission upon making 
+        a determination that the guidelines meet the requirements of 
+        the regulations issued under section 403.
+            (3) Expedited response to requests.--The Commission shall 
+        act upon requests for safe harbor treatment within 180 days of 
+        the filing of the request, and shall set forth in writing its 
+        conclusions with regard to such requests.
+    (c) Appeals.--Final action by the Commission on a request for 
+approval of guidelines, or the failure to act within 180 days on a 
+request for approval of guidelines, submitted under subsection (b) may 
+be appealed to a district court of the United States of appropriate 
+jurisdiction as provided for in section 706 of title 5, United States 
+Code.
+
+SEC. 405. ACTIONS BY STATES.
+
+    (a) In General.--
+            (1) Civil actions.--In any case in which the attorney 
+        general of a State has reason to believe that an interest of 
+        the residents of that State has been or is threatened or 
+        adversely affected by the engagement of any person in a 
+        practice that violates any regulation of the Commission 
+        prescribed under section 403(b), the State, as parens patriae, 
+        may bring a civil action on behalf of the residents of the 
+        State in a district court of the United States of appropriate 
+        jurisdiction to--
+                    (A) enjoin that practice;
+                    (B) enforce compliance with the regulation;
+                    (C) obtain damage, restitution, or other 
+                compensation on behalf of residents of the State; or
+                    (D) obtain such other relief as the court may 
+                consider to be appropriate.
+            (2) Notice.--
+                    (A) In general.--Before filing an action under 
+                paragraph (1), the attorney general of the State 
+                involved shall provide to the Commission--
+                            (i) written notice of that action; and
+                            (ii) a copy of the complaint for that 
+                        action.
+                    (B) Exemption.--
+                            (i) In general.--Subparagraph (A) shall not 
+                        apply with respect to the filing of an action 
+                        by an attorney general of a State under this 
+                        subsection, if the attorney general determines 
+                        that it is not feasible to provide the notice 
+                        described in that subparagraph before the 
+                        filing of the action.
+                            (ii) Notification.--In an action described 
+                        in clause (i), the attorney general of a State 
+                        shall provide notice and a copy of the 
+                        complaint to the Commission at the same time as 
+                        the attorney general files the action.
+    (b) Intervention.--
+            (1) In general.--On receiving notice under subsection 
+        (a)(2), the Commission shall have the right to intervene in the 
+        action that is the subject of the notice.
+            (2) Effect of intervention.--If the Commission intervenes 
+        in an action under subsection (a), it shall have the right--
+                    (A) to be heard with respect to any matter that 
+                arises in that action; and
+                    (B) to file a petition for appeal.
+            (3) Amicus curiae.--Upon application to the court, a person 
+        whose self-regulatory guidelines have been approved by the 
+        Commission and are relied upon as a defense by any defendant to 
+        a proceeding under this section may file amicus curiae in that 
+        proceeding.
+    (c) Construction.--For purposes of bringing any civil action under 
+subsection (a), nothing in this title shall be construed to prevent an 
+attorney general of a State from exercising the powers conferred on the 
+attorney general by the laws of that State to--
+            (1) conduct investigations;
+            (2) administer oaths or affirmations; or
+            (3) compel the attendance of witnesses or the production of 
+        documentary and other evidence.
+    (d) Actions by the Commission.--In any case in which an action is 
+instituted by or on behalf of the Commission for violation of any 
+regulation prescribed under section 403, no State may, during the 
+pendency of that action, institute an action under subsection (a) 
+against any defendant named in the complaint in that action for 
+violation of that regulation.
+    (e) Venue; Service of Process.--
+            (1) Venue.--Any action brought under subsection (a) may be 
+        brought in the district court of the United States that meets 
+        applicable requirements relating to venue under section 1391 of 
+        title 28, United States Code.
+            (2) Service of process.--In an action brought under 
+        subsection (a), process may be served in any district in which 
+        the defendant--
+                    (A) is an inhabitant; or
+                    (B) may be found.
+
+SEC. 406. ADMINISTRATION AND APPLICABILITY OF ACT.
+
+    (a) In General.--Except as otherwise provided, this title shall be 
+enforced by the Commission under the Federal Trade Commission Act (15 
+U.S.C. 41 et seq.).
+    (b) Provisions.--Compliance with the requirements imposed under 
+this title shall be enforced under--
+            (1) section 8 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1818), in the case of--
+                    (A) national banks, and Federal branches and 
+                Federal agencies of foreign banks, by the Office of the 
+                Comptroller of the Currency;
+                    (B) member banks of the Federal Reserve System 
+                (other than national banks), branches and agencies of 
+                foreign banks (other than Federal branches, Federal 
+                agencies, and insured State branches of foreign banks), 
+                commercial lending companies owned or controlled by 
+                foreign banks, and organizations operating under 
+                section 25 or 25(a) of the Federal Reserve Act (12 
+                U.S.C. 601 et seq. and 611 et. seq.), by the Board; and
+                    (C) banks insured by the Federal Deposit Insurance 
+                Corporation (other than members of the Federal Reserve 
+                System) and insured State branches of foreign banks, by 
+                the Board of Directors of the Federal Deposit Insurance 
+                Corporation;
+            (2) section 8 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1818), by the Director of the Office of Thrift 
+        Supervision, in the case of a savings association the deposits 
+        of which are insured by the Federal Deposit Insurance 
+        Corporation;
+            (3) the Federal Credit Union Act (12 U.S.C. 1751 et seq.) 
+        by the National Credit Union Administration Board with respect 
+        to any Federal credit union;
+            (4) part A of subtitle VII of title 49, United States Code, 
+        by the Secretary of Transportation with respect to any air 
+        carrier or foreign air carrier subject to that part;
+            (5) the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et. 
+        seq.) (except as provided in section 406 of that Act (7 U.S.C. 
+        226, 227)), by the Secretary of Agriculture with respect to any 
+        activities subject to that Act; and
+            (6) the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) by 
+        the Farm Credit Administration with respect to any Federal land 
+        bank, Federal land bank association, Federal intermediate 
+        credit bank, or production credit association.
+    (c) Exercise of Certain Powers.--For the purpose of the exercise by 
+any agency referred to in subsection (a) of its powers under any Act 
+referred to in that subsection, a violation of any requirement imposed 
+under this title shall be deemed to be a violation of a requirement 
+imposed under that Act. In addition to its powers under any provision 
+of law specifically referred to in subsection (a), each of the agencies 
+referred to in that subsection may exercise, for the purpose of 
+enforcing compliance with any requirement imposed under this title, any 
+other authority conferred on it by law.
+    (d) Actions by the Commission.--The Commission shall prevent any 
+person from violating a rule of the Commission under section 403 in the 
+same manner, by the same means, and with the same jurisdiction, powers, 
+and duties as though all applicable terms and provisions of the Federal 
+Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and 
+made a part of this title. Any entity that violates such rule shall be 
+subject to the penalties and entitled to the privileges and immunities 
+provided in the Federal Trade Commission Act in the same manner, by the 
+same means, and with the same jurisdiction, power, and duties as though 
+all applicable terms and provisions of the Federal Trade Commission Act 
+were incorporated into and made a part of this title.
+    (e) Effect on Other Laws.--Nothing contained in the Act shall be 
+construed to limit the authority of the Commission under any other 
+provisions of law.
+
+SEC. 407. REVIEW.
+
+    Not later than 5 years after the effective date of the regulations 
+initially issued under section 403, the Commission shall--
+            (1) review the implementation of this title, including the 
+        effect of the implementation of this title on practices 
+        relating to the collection and disclosure of information 
+        relating to children, children's ability to obtain access to 
+        information of their choice online, and on the availability of 
+        websites directed to children; and
+            (2) prepare and submit to Congress a report on the results 
+        of the review under paragraph (1).
+
+SEC. 408. EFFECTIVE DATE.
+
+    Sections 403(a), 405, and 406 of this title take effect on the 
+later of--
+            (1) the date that is 18 months after the date of enactment 
+        of this Act; or
+            (2) the date on which the Commission rules on the first 
+        application filed for safe harbor treatment under section 404 
+        if the Commission does not rule on the first such application 
+        within one year after the date of enactment of this Act, but in 
+        no case later than the date that is 30 months after the date of 
+        enactment of this Act.
+
+ TITLE V--OREGON INSTITUTE OF PUBLIC SERVICE AND CONSTITUTIONAL STUDIES
+
+SEC. 501. DEFINITIONS.
+
+    In this title:
+            (1) Endowment fund.--The term ``endowment fund'' means a 
+        fund established by Portland State University for the purpose 
+        of generating income for the support of the Institute.
+            (2) Institute.--The term ``Institute'' means the Oregon 
+        Institute of Public Service and Constitutional Studies 
+        established under this title.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of Education.
+
+SEC. 502. OREGON INSTITUTE OF PUBLIC SERVICE AND CONSTITUTIONAL 
+              STUDIES.
+
+    From the funds appropriated under section 506, the Secretary is 
+authorized to award a grant to Portland State University at Portland, 
+Oregon, for the establishment of an endowment fund to support the 
+Oregon Institute of Public Service and Constitutional Studies at the 
+Mark O. Hatfield School of Government at Portland State University.
+
+SEC. 503. DUTIES.
+
+    In order to receive a grant under this title the Portland State 
+University shall establish the Institute. The Institute shall have the 
+following duties:
+            (1) To generate resources, improve teaching, enhance 
+        curriculum development, and further the knowledge and 
+        understanding of students of all ages about public service, the 
+        United States Government, and the Constitution of the United 
+        States of America.
+            (2) To increase the awareness of the importance of public 
+        service, to foster among the youth of the United States greater 
+        recognition of the role of public service in the development of 
+        the United States, and to promote public service as a career 
+        choice.
+            (3) To establish a Mark O. Hatfield Fellows program for 
+        students of government, public policy, public health, 
+        education, or law who have demonstrated a commitment to public 
+        service through volunteer activities, research projects, or 
+        employment.
+            (4) To create library and research facilities for the 
+        collection and compilation of research materials for use in 
+        carrying out programs of the Institute.
+            (5) To support the professional development of elected 
+        officials at all levels of government.
+
+SEC. 504. ADMINISTRATION.
+
+    (a) Leadership Council.--
+            (1) In general.--In order to receive a grant under this 
+        title Portland State University shall ensure that the Institute 
+        operates under the direction of a Leadership Council (in this 
+        title referred to as the ``Leadership Council'') that--
+                    ``(A) consists of 15 individuals appointed by the 
+                President of Portland State University; and
+                    ``(B) is established in accordance with this 
+                section.
+            (2) Appointments.--Of the individuals appointed under 
+        paragraph (1)(A)--
+                    (A) Portland State University, Willamette 
+                University, the Constitution Project, George Fox 
+                University, Warner Pacific University, and Oregon 
+                Health Sciences University shall each have a 
+                representative;
+                    (B) at least 1 shall represent Mark O. Hatfield, 
+                his family, or a designee thereof;
+                    (C) at least 1 shall have expertise in elementary 
+                and secondary school social sciences or governmental 
+                studies;
+                    (D) at least 2 shall be representative of business 
+                or government and reside outside of Oregon;
+                    (E) at least 1 shall be an elected official; and
+                    (F) at least 3 shall be leaders in the private 
+                sector.
+            (3) Ex-officio member.--The Director of the Mark O. 
+        Hatfield School of Government at Portland State University 
+        shall serve as an ex officio member of the Leadership Council.
+    (b) Chairperson.--
+            (1) In general.--The President of Portland State University 
+        shall designate 1 of the individuals first appointed to the 
+        Leadership Council under subsection (a) as the Chairperson of 
+        the Leadership Council. The individual so designated shall 
+        serve as Chairperson for 1 year.
+            (2) Requirement.--Upon the expiration of the term of the 
+        Chairperson of the individual designated as Chairperson under 
+        paragraph (1), or the term of the Chairperson elected under 
+        this paragraph, the members of the Leadership Council shall 
+        elect a Chairperson of the Leadership Council from among the 
+        members of the Leadership Council.
+
+SEC. 505. ENDOWMENT FUND.
+
+    (a) Management.--The endowment fund shall be managed in accordance 
+with the standard endowment policies established by the Oregon 
+University System.
+    (b) Use of Interest and Investment Income.--Interest and other 
+investment income earned (on or after the date of enactment of this 
+subsection) from the endowment fund may be used to carry out the duties 
+of the Institute under section 503.
+    (c) Distribution of Interest and Investment Income.--Funds realized 
+from interest and other investment income earned (on or after the date 
+of enactment of this subsection) shall be spent by Portland State 
+University in collaboration with Willamette University, George Fox 
+University, the Constitution Project, Warner Pacific University, Oregon 
+Health Sciences University, and other appropriate educational 
+institutions or community-based organizations. In expending such funds, 
+the Leadership Council shall encourage programs to establish 
+partnerships, to leverage private funds, and to match expenditures from 
+the endowment fund.
+
+SEC. 506. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated to carry out this title 
+$3,000,000 for fiscal year 1999.
+
+              TITLE VI--PAUL SIMON PUBLIC POLICY INSTITUTE
+
+SEC. 601. DEFINITIONS.
+
+    In this title:
+            (1) Endowment fund.--The term ``endowment fund'' means a 
+        fund established by the University for the purpose of 
+        generating income for the support of the Institute.
+            (2) Endowment fund corpus.--The term ``endowment fund 
+        corpus'' means an amount equal to the grant or grants awarded 
+        under this title plus an amount equal to the matching funds 
+        required under section 602(d).
+            (3) Endowment fund income.--The term ``endowment fund 
+        income'' means an amount equal to the total value of the 
+        endowment fund minus the endowment fund corpus.
+            (4) Institute.--The term ``Institute'' means the Paul Simon 
+        Public Policy Institute described in section 602.
+            (5) Secretary.--The term ``Secretary'' means the Secretary 
+        of Education.
+            (6) University.--The term ``University'' means Southern 
+        Illinois University at Carbondale, Illinois.
+
+SEC. 602. PROGRAM AUTHORIZED.
+
+    (a) Grants.--From the funds appropriated under section 606, the 
+Secretary is authorized to award a grant to Southern Illinois 
+University for the establishment of an endowment fund to support the 
+Paul Simon Public Policy Institute. The Secretary may enter into 
+agreements with the University and include in any agreement made 
+pursuant to this title such provisions as are determined necessary by 
+the Secretary to carry out this title.
+    (b) Duties.--In order to receive a grant under this title, the 
+University shall establish the Institute. The Institute, in addition to 
+recognizing more than 40 years of public service to Illinois, to the 
+Nation, and to the world, shall engage in research, analysis, debate, 
+and policy recommendations affecting world hunger, mass media, foreign 
+policy, education, and employment.
+    (c) Deposit Into Endowment Fund.--The University shall deposit the 
+proceeds of any grant received under this section into the endowment 
+fund.
+    (d) Matching Funds Requirement.--The University may receive a grant 
+under this section only if the University has deposited in the 
+endowment fund established under this title an amount equal to one-
+third of such grant and has provided adequate assurances to the 
+Secretary that the University will administer the endowment fund in 
+accordance with the requirements of this title. The source of the funds 
+for the University match shall be derived from State, private 
+foundation, corporate, or individual gifts or bequests, but may not 
+include Federal funds or funds derived from any other federally 
+supported fund.
+    (e) Duration; Corpus Rule.--The period of any grant awarded under 
+this section shall not exceed 20 years, and during such period the 
+University shall not withdraw or expend any of the endowment fund 
+corpus. Upon expiration of the grant period, the University may use the 
+endowment fund corpus, plus any endowment fund income for any 
+educational purpose of the University.
+
+SEC. 603. INVESTMENTS.
+
+    (a) In General.--The University shall invest the endowment fund 
+corpus and endowment fund income in those low-risk instruments and 
+securities in which a regulated insurance company may invest under the 
+laws of the State of Illinois, such as federally insured bank savings 
+accounts or comparable interest bearing accounts, certificates of 
+deposit, money market funds, or obligations of the United States.
+    (b) Judgment and Care.--The University, in investing the endowment 
+fund corpus and endowment fund income, shall exercise the judgment and 
+care, under circumstances then prevailing, which a person of prudence, 
+discretion, and intelligence would exercise in the management of the 
+person's own business affairs.
+
+SEC. 604. WITHDRAWALS AND EXPENDITURES.
+
+    (a) In General.--The University may withdraw and expend the 
+endowment fund income to defray any expenses necessary to the operation 
+of the Institute, including expenses of operations and maintenance, 
+administration, academic and support personnel, construction and 
+renovation, community and student services programs, technical 
+assistance, and research. No endowment fund income or endowment fund 
+corpus may be used for any type of support of the executive officers of 
+the University or for any commercial enterprise or endeavor. Except as 
+provided in subsection (b), the University shall not, in the aggregate, 
+withdraw or expend more than 50 percent of the total aggregate 
+endowment fund income earned prior to the time of withdrawal or 
+expenditure.
+    (b) Special Rule.--The Secretary is authorized to permit the 
+University to withdraw or expend more than 50 percent of the total 
+aggregate endowment fund income whenever the University demonstrates 
+such withdrawal or expenditure is necessary because of--
+            (1) a financial emergency, such as a pending insolvency or 
+        temporary liquidity problem;
+            (2) a life-threatening situation occasioned by a natural 
+        disaster or arson; or
+            (3) another unusual occurrence or exigent circumstance.
+    (c) Repayment.--
+            (1) Income.--If the University withdraws or expends more 
+        than the endowment fund income authorized by this section, the 
+        University shall repay the Secretary an amount equal to one-
+        third of the amount improperly expended (representing the 
+        Federal share thereof).
+            (2) Corpus.--Except as provided in section 602(e)--
+                    (A) the University shall not withdraw or expend any 
+                endowment fund corpus; and
+                    (B) if the University withdraws or expends any 
+                endowment fund corpus, the University shall repay the 
+                Secretary an amount equal to one-third of the amount 
+                withdrawn or expended (representing the Federal share 
+                thereof) plus any endowment fund income earned thereon.
+
+SEC. 605. ENFORCEMENT.
+
+    (a) In General.--After notice and an opportunity for a hearing, the 
+Secretary is authorized to terminate a grant and recover any grant 
+funds awarded under this section if the University--
+            (1) withdraws or expends any endowment fund corpus, or any 
+        endowment fund income in excess of the amount authorized by 
+        section 604, except as provided in section 602(e);
+            (2) fails to invest the endowment fund corpus or endowment 
+        fund income in accordance with the investment requirements 
+        described in section 603; or
+            (3) fails to account properly to the Secretary, or the 
+        General Accounting Office if properly designated by the 
+        Secretary to conduct an audit of funds made available under 
+        this title, pursuant to such rules and regulations as may be 
+        proscribed by the Comptroller General of the United States, 
+        concerning investments and expenditures of the endowment fund 
+        corpus or endowment fund income.
+    (b) Termination.--If the Secretary terminates a grant under 
+subsection (a), the University shall return to the Treasury of the 
+United States an amount equal to the sum of the original grant or 
+grants under this title, plus any endowment fund income earned thereon. 
+The Secretary may direct the University to take such other appropriate 
+measures to remedy any violation of this title and to protect the 
+financial interest of the United States.
+
+SEC. 606. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated to carry out this title 
+$3,000,000 for fiscal year 1999. Funds appropriated under this section 
+shall remain available until expended.
+
+              TITLE VII--HOWARD BAKER SCHOOL OF GOVERNMENT
+
+SEC. 701. DEFINITIONS.
+
+    In this title:
+            (1) Board.--The term ``Board'' means the Board of Advisors 
+        established under section 704.
+            (2) Endowment fund.--The term ``endowment fund'' means a 
+        fund established by the University of Tennessee in Knoxville, 
+        Tennessee, for the purpose of generating income for the support 
+        of the School.
+            (3) School.--The term ``School'' means the Howard Baker 
+        School of Government established under this title.
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of Education.
+            (5) University.--The term ``University'' means the 
+        University of Tennessee in Knoxville, Tennessee.
+
+SEC. 702. HOWARD BAKER SCHOOL OF GOVERNMENT.
+
+    From the funds authorized to be appropriated under section 706, the 
+Secretary is authorized to award a grant to the University for the 
+establishment of an endowment fund to support the Howard Baker School 
+of Government at the University of Tennessee in Knoxville, Tennessee.
+
+SEC. 703. DUTIES.
+
+    In order to receive a grant under this title, the University shall 
+establish the School. The School shall have the following duties:
+            (1) To establish a professorship to improve teaching and 
+        research related to, enhance the curriculum of, and further the 
+        knowledge and understanding of, the study of democratic 
+        institutions, including aspects of regional planning, public 
+        administration, and public policy.
+            (2) To establish a lecture series to increase the knowledge 
+        and awareness of the major public issues of the day in order to 
+        enhance informed citizen participation in public affairs.
+            (3) To establish a fellowship program for students of 
+        government, planning, public administration, or public policy 
+        who have demonstrated a commitment and an interest in pursuing 
+        a career in public affairs.
+            (4) To provide appropriate library materials and 
+        appropriate research and instructional equipment for use in 
+        carrying out academic and public service programs, and to 
+        enhance the existing United States Presidential and public 
+        official manuscript collections.
+            (5) To support the professional development of elected 
+        officials at all levels of government.
+
+SEC. 704. ADMINISTRATION.
+
+    (a) Board of Advisors.--
+            (1) In general.--The School shall operate with the advice 
+        and guidance of a Board of Advisors consisting of 13 
+        individuals appointed by the Vice Chancellor for Academic 
+        Affairs of the University.
+            (2) Appointments.--Of the individuals appointed under 
+        paragraph (1)--
+                    (A) 5 shall represent the University;
+                    (B) 2 shall represent Howard Baker, his family, or 
+                a designee thereof;
+                    (C) 5 shall be representative of business or 
+                government; and
+                    (D) 1 shall be the Governor of Tennessee, or the 
+                Governor's designee.
+            (3) Ex officio members.--The Vice Chancellor for Academic 
+        Affairs and the Dean of the College of Arts and Sciences at the 
+        University shall serve as an ex officio member of the Board.
+    (b) Chairperson.--
+            (1) In general.--The Chancellor, with the concurrence of 
+        the Vice Chancellor for Academic Affairs, of the University 
+        shall designate 1 of the individuals first appointed to the 
+        Board under subsection (a) as the Chairperson of the Board. The 
+        individual so designated shall serve as Chairperson for 1 year.
+            (2) Requirements.--Upon the expiration of the term of the 
+        Chairperson of the individual designated as Chairperson under 
+        paragraph (1) or the term of the Chairperson elected under this 
+        paragraph, the members of the Board shall elect a Chairperson 
+        of the Board from among the members of the Board.
+
+SEC. 705. ENDOWMENT FUND.
+
+    (a) Management.--The endowment fund shall be managed in accordance 
+with the standard endowment policies established by the University of 
+Tennessee System.
+    (b) Use of Interest and Investment Income.--Interest and other 
+investment income earned (on or after the date of enactment of this 
+subsection) from the endowment fund may be used to carry out the duties 
+of the School under section 703.
+    (c) Distribution of Interest and Investment Income.--Funds realized 
+from interest and other investment income earned (on or after the date 
+of enactment of this subsection) shall be available for expenditure by 
+the University for purposes consistent with section 703, as recommended 
+by the Board. The Board shall encourage programs to establish 
+partnerships, to leverage private funds, and to match expenditures from 
+the endowment fund.
+
+SEC. 706. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated to carry out this title 
+$10,000,000 for fiscal year 2000.
+
+ TITLE VIII--JOHN GLENN INSTITUTE FOR PUBLIC SERVICE AND PUBLIC POLICY
+
+SEC. 801. DEFINITIONS.
+
+    In this title:
+            (1) Endowment fund.--The term ``endowment fund'' means a 
+        fund established by the University for the purpose of 
+        generating income for the support of the Institute.
+            (2) Endowment fund corpus.--The term ``endowment fund 
+        corpus'' means an amount equal to the grant or grants awarded 
+        under this title plus an amount equal to the matching funds 
+        required under section 802(d).
+            (3) Endowment fund income.--The term ``endowment fund 
+        income'' means an amount equal to the total value of the 
+        endowment fund minus the endowment fund corpus.
+            (4) Institute.--The term ``Institute'' means the John Glenn 
+        Institute for Public Service and Public Policy described in 
+        section 802.
+            (5) Secretary.--The term ``Secretary'' means the Secretary 
+        of Education.
+            (6) University.--The term ``University'' means the Ohio 
+        State University at Columbus, Ohio.
+
+SEC. 802. PROGRAM AUTHORIZED.
+
+    (a) Grants.--From the funds appropriated under section 806, the 
+Secretary is authorized to award a grant to the Ohio State University 
+for the establishment of an endowment fund to support the John Glenn 
+Institute for Public Service and Public Policy. The Secretary may enter 
+into agreements with the University and include in any agreement made 
+pursuant to this title such provisions as are determined necessary by 
+the Secretary to carry out this title.
+    (b) Purposes.--The Institute shall have the following purposes:
+            (1) To sponsor classes, internships, community service 
+        activities, and research projects to stimulate student 
+        participation in public service, in order to foster America's 
+        next generation of leaders.
+            (2) To conduct scholarly research in conjunction with 
+        public officials on significant issues facing society and to 
+        share the results of such research with decisionmakers and 
+        legislators as the decisionmakers and legislators address such 
+        issues.
+            (3) To offer opportunities to attend seminars on such 
+        topics as budgeting and finance, ethics, personnel management, 
+        policy evaluations, and regulatory issues that are designed to 
+        assist public officials in learning more about the political 
+        process and to expand the organizational skills and policy-
+        making abilities of such officials.
+            (4) To educate the general public by sponsoring national 
+        conferences, seminars, publications, and forums on important 
+        public issues.
+            (5) To provide access to Senator John Glenn's extensive 
+        collection of papers, policy decisions, and memorabilia, 
+        enabling scholars at all levels to study the Senator's work.
+    (c) Deposit Into Endowment Fund.--The University shall deposit the 
+proceeds of any grant received under this section into the endowment 
+fund.
+    (d) Matching Funds Requirement.--The University may receive a grant 
+under this section only if the University has deposited in the 
+endowment fund established under this title an amount equal to one-
+third of such grant and has provided adequate assurances to the 
+Secretary that the University will administer the endowment fund in 
+accordance with the requirements of this title. The source of the funds 
+for the University match shall be derived from State, private 
+foundation, corporate, or individual gifts or bequests, but may not 
+include Federal funds or funds derived from any other federally 
+supported fund.
+    (e) Duration; Corpus Rule.--The period of any grant awarded under 
+this section shall not exceed 20 years, and during such period the 
+University shall not withdraw or expend any of the endowment fund 
+corpus. Upon expiration of the grant period, the University may use the 
+endowment fund corpus, plus any endowment fund income for any 
+educational purpose of the University.
+
+SEC. 803. INVESTMENTS.
+
+    (a) In General.--The University shall invest the endowment fund 
+corpus and endowment fund income in accordance with the University's 
+investment policy approved by the Ohio State University Board of 
+Trustees.
+    (b) Judgment and Care.--The University, in investing the endowment 
+fund corpus and endowment fund income, shall exercise the judgment and 
+care, under circumstances then prevailing, which a person of prudence, 
+discretion, and intelligence would exercise in the management of the 
+person's own business affairs.
+
+SEC. 804. WITHDRAWALS AND EXPENDITURES.
+
+    (a) In General.--The University may withdraw and expend the 
+endowment fund income to defray any expenses necessary to the operation 
+of the Institute, including expenses of operations and maintenance, 
+administration, academic and support personnel, construction and 
+renovation, community and student services programs, technical 
+assistance, and research. No endowment fund income or endowment fund 
+corpus may be used for any type of support of the executive officers of 
+the University or for any commercial enterprise or endeavor. Except as 
+provided in subsection (b), the University shall not, in the aggregate, 
+withdraw or expend more than 50 percent of the total aggregate 
+endowment fund income earned prior to the time of withdrawal or 
+expenditure.
+    (b) Special Rule.--The Secretary is authorized to permit the 
+University to withdraw or expend more than 50 percent of the total 
+aggregate endowment fund income whenever the University demonstrates 
+such withdrawal or expenditure is necessary because of--
+            (1) a financial emergency, such as a pending insolvency or 
+        temporary liquidity problem;
+            (2) a life-threatening situation occasioned by a natural 
+        disaster or arson; or
+            (3) another unusual occurrence or exigent circumstance.
+    (c) Repayment.--
+            (1) Income.--If the University withdraws or expends more 
+        than the endowment fund income authorized by this section, the 
+        University shall repay the Secretary an amount equal to one-
+        third of the amount improperly expended (representing the 
+        Federal share thereof).
+            (2) Corpus.--Except as provided in section 802(e)--
+                    (A) the University shall not withdraw or expend any 
+                endowment fund corpus; and
+                    (B) if the University withdraws or expends any 
+                endowment fund corpus, the University shall repay the 
+                Secretary an amount equal to one-third of the amount 
+                withdrawn or expended (representing the Federal share 
+                thereof) plus any endowment fund income earned thereon.
+
+SEC. 805. ENFORCEMENT.
+
+    (a) In General.--After notice and an opportunity for a hearing, the 
+Secretary is authorized to terminate a grant and recover any grant 
+funds awarded under this section if the University--
+            (1) withdraws or expends any endowment fund corpus, or any 
+        endowment fund income in excess of the amount authorized by 
+        section 804, except as provided in section 802(e);
+            (2) fails to invest the endowment fund corpus or endowment 
+        fund income in accordance with the investment requirements 
+        described in section 803; or
+            (3) fails to account properly to the Secretary, or the 
+        General Accounting Office if properly designated by the 
+        Secretary to conduct an audit of funds made available under 
+        this title, pursuant to such rules and regulations as may be 
+        prescribed by the Comptroller General of the United States, 
+        concerning investments and expenditures of the endowment fund 
+        corpus or endowment fund income.
+    (b) Termination.--If the Secretary terminates a grant under 
+subsection (a), the University shall return to the Treasury of the 
+United States an amount equal to the sum of the original grant or 
+grants under this title, plus any endowment fund income earned thereon. 
+The Secretary may direct the University to take such other appropriate 
+measures to remedy any violation of this title and to protect the 
+financial interest of the United States.
+
+SEC. 806. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated to carry out this title 
+$6,000,000 for fiscal year 2000. Funds appropriated under this section 
+shall remain available until expended.
+
+            Passed the Senate October 8 (legislative day, October 2), 
+      1998.
+
+            Attest:
+
+                                                    GARY SISCO,
+
+                                                             Secretary.

@@ -1,0 +1,2244 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2884 Enrolled Bill (ENR)]
+
+<DOC>
+
+        H.R.2884
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To establish a national framework for the development of School-to-
+Work Opportuni-
+
+
+           ties systems in all States, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title._This Act may be cited as the ``School-to-Work 
+Opportunities Act of 1994''.
+    (b) Table of Contents._The table of contents is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Purposes and congressional intent.
+Sec. 4. Definitions.
+Sec. 5. Federal administration.
+
+      TITLE I_SCHOOL-TO-WORK OPPORTUNITIES BASIC PROGRAM COMPONENTS
+
+Sec. 101. General program requirements.
+Sec. 102. School-based learning component.
+Sec. 103. Work-based learning component.
+Sec. 104. Connecting activities component.
+
+      TITLE II_SCHOOL-TO-WORK OPPORTUNITIES SYSTEM DEVELOPMENT AND 
+                     IMPLEMENTATION GRANTS TO STATES
+
+                   Subtitle A_State Development Grants
+
+Sec. 201. Purpose.
+Sec. 202. Authorization.
+Sec. 203. Application.
+Sec. 204. Approval of application.
+Sec. 205. Use of amounts.
+Sec. 206. Maintenance of effort.
+Sec. 207. Reports.
+
+                 Subtitle B_State Implementation Grants
+
+Sec. 211. Purpose.
+Sec. 212. Authorization.
+Sec. 213. Application.
+Sec. 214. Review of application.
+Sec. 215. Use of amounts.
+Sec. 216. Allocation requirement.
+Sec. 217. Limitation on administrative costs.
+Sec. 218. Reports.
+
+  Subtitle C_Development and Implementation Grants for School-to-Work 
+                       Programs for Indian Youths
+
+Sec. 221. Authorization.
+Sec. 222. Requirements.
+
+      TITLE III_FEDERAL IMPLEMENTATION GRANTS TO LOCAL PARTNERSHIPS
+
+Sec. 301. Purposes.
+Sec. 302. Authorization.
+Sec. 303. Application.
+Sec. 304. Use of amounts.
+Sec. 305. Conformity with approved State plan.
+Sec. 306. Reports.
+Sec. 307. High poverty area defined.
+
+                       TITLE IV_NATIONAL PROGRAMS
+
+Sec. 401. Research, demonstration, and other projects.
+Sec. 402. Performance outcomes and evaluation.
+Sec. 403. Training and technical assistance.
+Sec. 404. Capacity building and information and dissemination network.
+Sec. 405. Reports to Congress.
+Sec. 406. Funding.
+
+         TITLE V_WAIVER OF STATUTORY AND REGULATORY REQUIREMENTS
+
+Sec. 501. State and local partnership requests and responsibilities for 
+          waivers.
+Sec. 502. Waiver authority of Secretary of Education.
+Sec. 503. Waiver authority of Secretary of Labor.
+Sec. 504. Combination of Federal funds for high poverty schools.
+Sec. 505. Combination of Federal funds by States for school-to-work 
+          activities.
+
+                       TITLE VI_GENERAL PROVISIONS
+
+Sec. 601. Requirements.
+Sec. 602. Sanctions.
+Sec. 603. State authority.
+Sec. 604. Prohibition on Federal mandates, direction, and control.
+Sec. 605. Authorization of appropriations.
+
+                        TITLE VII_OTHER PROGRAMS
+
+      Subtitle A_Reauthorization of Job Training for the Homeless 
+Demonstration Program Under the Stewart B. McKinney Homeless Assistance 
+                                   Act
+
+Sec. 701. Reauthorization.
+
+                      Subtitle B_Tech-Prep Programs
+
+Sec. 711. Tech-prep education.
+
+                Subtitle C_Alaska Native Art and Culture
+
+Sec. 721. Short title.
+Sec. 722. Alaska Native art and culture.
+
+                         Subtitle D_Job Training
+
+Sec. 731. Amendment to Job Training Partnership Act to provide 
+          allowances for child care costs to certain individuals 
+          participating in the Job Corps.
+
+                     TITLE VIII_TECHNICAL PROVISIONS
+
+Sec. 801. Effective date.
+Sec. 802. Sunset.
+
+SEC. 2. FINDINGS.
+
+    Congress finds that_
+        (1) three-fourths of high school students in the United States 
+    enter the workforce without baccalaureate degrees, and many do not 
+    possess the academic and entry-level occupational skills necessary 
+    to succeed in the changing United States workplace;
+        (2) a substantial number of youths in the United States, 
+    especially disadvantaged students, students of diverse racial, 
+    ethnic, and cultural backgrounds, and students with disabilities, 
+    do not complete high school;
+        (3) unemployment among youths in the United States is 
+    intolerably high, and earnings of high school graduates have been 
+    falling relative to earnings of individuals with more education;
+        (4) the workplace in the United States is changing in response 
+    to heightened international competition and new technologies, and 
+    such forces, which are ultimately beneficial to the Nation, are 
+    shrinking the demand for and undermining the earning power of 
+    unskilled labor;
+        (5) the United States lacks a comprehensive and coherent system 
+    to help its youths acquire the knowledge, skills, abilities, and 
+    information about and access to the labor market necessary to make 
+    an effective transition from school to career-oriented work or to 
+    further education and training;
+        (6) students in the United States can achieve high academic and 
+    occupational standards, and many learn better and retain more when 
+    the students learn in context, rather than in the abstract;
+        (7) while many students in the United States have part-time 
+    jobs, there is infrequent linkage between_
+            (A) such jobs; and
+            (B) the career planning or exploration, or the school-based 
+        learning, of such students;
+        (8) the work-based learning approach, which is modeled after 
+    the time-honored apprenticeship concept, integrates theoretical 
+    instruction with structured on-the-job training, and this approach, 
+    combined with school-based learning, can be very effective in 
+    engaging student interest, enhancing skill acquisition, developing 
+    positive work attitudes, and preparing youths for high-skill, high-
+    wage careers;
+        (9) Federal resources currently fund a series of categorical, 
+    work-related education and training programs, many of which serve 
+    disadvantaged youths, that are not administered as a coherent 
+    whole; and
+        (10) in 1992 approximately 3,400,000 individuals in the United 
+    States age 16 through 24 had not completed high school and were not 
+    currently enrolled in school, a number representing approximately 
+    11 percent of all individuals in this age group, which indicates 
+    that these young persons are particularly unprepared for the 
+    demands of a 21st century workforce.
+
+SEC. 3. PURPOSES AND CONGRESSIONAL INTENT.
+
+    (a) Purposes._The purposes of this Act are_
+        (1) to establish a national framework within which all States 
+    can create statewide School-to-Work Opportunities systems that_
+            (A) are a part of comprehensive education reform;
+            (B) are integrated with the systems developed under the 
+        Goals 2000: Educate America Act and the National Skill 
+        Standards Act of 1994; and
+            (C) offer opportunities for all students to participate in 
+        a performance-based education and training program that will_
+                (i) enable the students to earn portable credentials;
+                (ii) prepare the students for first jobs in high-skill, 
+            high-wage careers; and
+                (iii) increase their opportunities for further 
+            education, including education in a 4-year college or 
+            university;
+        (2) to facilitate the creation of a universal, high-quality 
+    school-to-work transition system that enables youths in the United 
+    States to identify and navigate paths to productive and 
+    progressively more rewarding roles in the workplace;
+        (3) to utilize workplaces as active learning environments in 
+    the educational process by making employers joint partners with 
+    educators in providing opportunities for all students to 
+    participate in high-quality, work-based learning experiences;
+        (4) to use Federal funds under this Act as venture capital, to 
+    underwrite the initial costs of planning and establishing statewide 
+    School-to-Work Opportunities systems that will be maintained with 
+    other Federal, State, and local resources;
+        (5) to promote the formation of local partnerships that are 
+    dedicated to linking the worlds of school and work among secondary 
+    schools and postsecondary educational institutions, private and 
+    public employers, labor organizations, government, community-based 
+    organizations, parents, students, State educational agencies, local 
+    educational agencies, and training and human service agencies;
+        (6) to promote the formation of local partnerships between 
+    elementary schools and secondary schools (including middle schools) 
+    and local businesses as an investment in future workplace 
+    productivity and competitiveness;
+        (7) to help all students attain high academic and occupational 
+    standards;
+        (8) to build on and advance a range of promising school-to-work 
+    activities, such as tech-prep education, careerP academies, school-
+    to-apprenticeship programs, cooperative education, youth 
+    apprenticeship, school-sponsored enterprises, business-education 
+    compacts, and promising strategies that assist school dropouts, 
+    that can be developed into programs funded under this Act;
+        (9) to improve the knowledge and skills of youths by 
+    integrating academic and occupational learning, integrating school-
+    based and work-based learning, and building effective linkages 
+    between secondary and postsecondary education;
+        (10) to encourage the development and implementation of 
+    programs that will require paid high-quality, work-based learning 
+    experiences;
+        (11) to motivate all youths, including low-achieving youths, 
+    school dropouts, and youths with disabilities, to stay in or return 
+    to school or a classroom setting and strive to succeed, by 
+    providing enriched learning experiences and assistance in obtaining 
+    good jobs and continuing their education in postsecondary 
+    educational institutions;
+        (12) to expose students to a broad array of career 
+    opportunities, and facilitate the selection of career majors, based 
+    on individual interests, goals, strengths, and abilities;
+        (13) to increase opportunities for minorities, women, and 
+    individuals with disabilities, by enabling individuals to prepare 
+    for careers that are not traditional for their race, gender, or 
+    disability; and
+        (14) to further the National Education Goals set forth in title 
+    I of the Goals 2000: Educate America Act.
+    (b) Congressional Intent._It is the intent of Congress that the 
+Secretary of Labor and the Secretary of Education jointly administer 
+this Act in a flexible manner that_
+        (1) promotes State and local discretion in establishing and 
+    implementing statewide School-to-Work Opportunities systems and 
+    School-to-Work Opportunities programs; and
+        (2) contributes to reinventing government by_
+            (A) building on State and local capacity;
+            (B) eliminating duplication in education and training 
+        programs for youths by integrating such programs into 1 
+        comprehensive system;
+            (C) maximizing the effective use of resources;
+            (D) supporting locally established initiatives;
+            (E) requiring measurable goals for performance; and
+            (F) offering flexibility in meeting such goals.
+
+SEC. 4. DEFINITIONS.
+
+    As used in this Act:
+        (1) All aspects of an industry._The term ``all aspects of an 
+    industry'' means all aspects of the industry or industry sector a 
+    student is preparing to enter, including planning, management, 
+    finances, technical and production skills, underlying principles of 
+    technology, labor and community issues, health and safety issues, 
+    and environmental issues, related to such industry or industry 
+    sector.
+        (2) All students._The term ``all students'' means both male and 
+    female students from a broad range of backgrounds and 
+    circumstances, including disadvantaged students, students with 
+    diverse racial, ethnic, or cultural backgrounds, American Indians, 
+    Alaska Natives, Native Hawaiians, students with disabilities, 
+    students with limited-English proficiency, migrant children, school 
+    dropouts, and academically talented students.
+        (3) Approved state plan._The term ``approved State plan'' means 
+    a statewide School-to-Work Opportunities system plan that is 
+    submitted by a State under section 213, is determined by the 
+    Secretaries to include the program components described in sections 
+    102 through 104 and otherwise meet the requirements of this Act, 
+    and is consistent with the State improvement plan for the State, if 
+    any, under the Goals 2000: Educate America Act.
+        (4) Career guidance and counseling._The term ``career guidance 
+    and counseling'' means programs_
+            (A) that pertain to the body of subject matter and related 
+        techniques and methods organized for the development in 
+        individuals of career awareness, career planning, career 
+        decisionmaking, placement skills, and knowledge and 
+        understanding of local, State, and national occupational, 
+        educational, and labor market needs, trends, and opportunities;
+            (B) that assist individuals in making and implementing 
+        informed educational and occupational choices; and
+            (C) that aid students to develop career options with 
+        attention to surmounting gender, race, ethnic, disability, 
+        language, or socioeconomic impediments to career options and 
+        encouraging careers in nontraditional employment.
+        (5) Career major._The term ``career major'' means a coherent 
+    sequence of courses or field of study that prepares a student for a 
+    first job and that_
+            (A) integrates academic and occupational learning, 
+        integrates school-based and work-based learning, establishes 
+        linkages between secondary schools and postsecondary 
+        educational institutions;
+            (B) prepares the student for employment in a broad 
+        occupational cluster or industry sector;
+            (C) typically includes at least 2 years of secondary 
+        education and at least 1 or 2 years of postsecondary education;
+            (D) provides the students, to the extent practicable, with 
+        strong experience in and understanding of all aspects of the 
+        industry the students are planning to enter;
+            (E) results in the award of_
+                (i) a high school diploma or its equivalent, such as_
+
+                    (I) a general equivalency diploma; or
+                    (II) an alternative diploma or certificate for 
+                students with disabilities for whom such alternative 
+                diploma or certificate is appropriate;
+
+                (ii) a certificate or diploma recognizing successful 
+            completion of 1 or 2 years of postsecondary education (if 
+            appropriate); and
+                (iii) a skill certificate; and
+            (F) may lead to further education and training, such as 
+        entry into a registered apprenticeship program, or may lead to 
+        admission to a 2- or 4-year college or university.
+        (6) Community-based organizations._The term ``community-based 
+    organizations'' has the meaning given such term in section 4(5) of 
+    the Job Training Partnership Act (29 U.S.C. 1503(5)).
+        (7) Elementary school._The term ``elementary school'' means a 
+    day or residential school that provides elementary education, as 
+    determined under State law.
+        (8) Employer._The term ``employer'' includes both public and 
+    private employers.
+        (9) Governor._The term ``Governor'' means the chief executive 
+    of a State.
+        (10) Local educational agency._The term ``local educational 
+    agency'' means a public board of education or other public 
+    authority legally constituted within a State for either 
+    administrative control or direction of, or to perform a service 
+    function for, public elementary or secondary schools in a city, 
+    county, township, school district, or other political subdivision 
+    of a State, or such combination of school districts or counties as 
+    are recognized in a State as an administrative agency for its 
+    public elementary or secondary schools. Such term includes any 
+    other public institution or agency having administrative control 
+    and direction of a public elementary or secondary school.
+        (11) Local partnership._The term ``local partnership'' means a 
+    local entity that is responsible for local School-to-Work 
+    Opportunities programs and that_
+            (A) consists of employers, representatives of local 
+        educational agencies and local postsecondary educational 
+        institutions (including representatives of area vocational 
+        education schools, where applicable), local educators (such as 
+        teachers, counselors, or administrators), representatives of 
+        labor organizations or nonmanagerial employee representatives, 
+        and students; and
+            (B) may include other entities, such as_
+                (i) employer organizations;
+                (ii) community-based organizations;
+                (iii) national trade associations working at the local 
+            levels;
+                (iv) industrial extension centers;
+                (v) rehabilitation agencies and organizations;
+                (vi) registered apprenticeship agencies;
+                (vii) local vocational education entities;
+                (viii) proprietary institutions of higher education (as 
+            defined in section 481(b) of the Higher Education Act of 
+            1965 (20 U.S.C. 1088(b)) that continue to meet the 
+            eligibility and certification requirements under title IV 
+            of such Act (20 U.S.C. 1070 et seq.);
+                (ix) local government agencies;
+                (x) parent organizations;
+                (xi) teacher organizations;
+                (xii) vocational student organizations;
+                (xiii) private industry councils established under 
+            section 102 of the Job Training Partnership Act (29 U.S.C. 
+            1512);
+                (xiv) federally recognized Indian tribes, Indian 
+            organizations, and Alaska Native villages within the 
+            meaning of the Alaska Native Claims Settlement Act (43 
+            U.S.C. 1601 et seq.); and
+                (xv) Native Hawaiian entities.
+        (12) Postsecondary educational institution._The term 
+    ``postsecondary educational institution'' means an institution of 
+    higher education (as such term is defined in section 481 of the 
+    Higher Education Act of 1965 (20 U.S.C. 1088)) which continues to 
+    meet the eligibility and certification requirements under title IV 
+    of such Act (20 U.S.C. 1070 et seq.).
+        (13) Registered apprenticeship agency._The term ``registered 
+    apprenticeship agency'' means the Bureau of Apprenticeship and 
+    Training in the Department of Labor or a State apprenticeship 
+    agency recognized and approved by the Bureau of Apprenticeship and 
+    Training as the appropriate body for State registration or approval 
+    of local apprenticeship programs and agreements for Federal 
+    purposes.
+        (14) Registered apprenticeship program._The term ``registered 
+    apprenticeship program'' means a program registered by a registered 
+    apprenticeship agency.
+        (15) Related services._The term ``related services'' includes 
+    the types of services described in section 602(17) of the 
+    Individuals with Disabilities Education Act (20 U.S.C. 1401(17)).
+        (16) Rural community with low population density._The term 
+    ``rural community with low population density'' means a county, 
+    block number area in a nonmetropolitan county, or consortium of 
+    counties or of such block number areas, that has a population 
+    density of 20 or fewer individuals per square mile.
+        (17) School dropout._The term ``school dropout'' means a youth 
+    who is no longer attending any school and who has not received a 
+    secondary school diploma or a certificate from a program of 
+    equivalency for such a diploma.
+        (18) School site mentor._The term ``school site mentor'' means 
+    a professional employed at a school who is designated as the 
+    advocate for a particular student, and who works in consultation 
+    with classroom teachers, counselors, related services personnel, 
+    and the employer of the student to design and monitor the progress 
+    of the School-to-Work Opportunities program of the student.
+        (19) School-to-work opportunities program._The term ``School-
+    to-Work Opportunities program'' means a program that meets the 
+    requirements of this Act, other than a program described in section 
+    401(a).
+        (20) Secondary school._The term ``secondary school'' means_
+            (A) a nonprofit day or residential school that provides 
+        secondary education, as determined under State law, except that 
+        it does not include any education provided beyond grade 12; and
+            (B) a Job Corps center under part B of title IV of the Job 
+        Training Partnership Act (29 U.S.C. 1691 et seq.).
+        (21) Secretaries._The term ``Secretaries'' means the Secretary 
+    of Education and the Secretary of Labor.
+        (22) Skill certificate._The term ``skill certificate'' means a 
+    portable, industry-recognized credential issued by a School-to-Work 
+    Opportunities program under an approved State plan, that certifies 
+    that a student has mastered skills at levels that are at least as 
+    challenging as skill standards endorsed by the National Skill 
+    Standards Board established under the National Skill Standards Act 
+    of 1994, except that until such skill standards are developed, the 
+    term ``skill certificate'' means a credential issued under a 
+    process described in the approved State plan.
+        (23) State._The term ``State'' means each of the several 
+    States, the District of Columbia, the Commonwealth of Puerto Rico, 
+    the Commonwealth of the Northern Mariana Islands, American Samoa, 
+    Guam, the Virgin Islands, the Federated States of Micronesia, the 
+    Republic of the Marshall Islands, and the Republic of Palau.
+        (24) State educational agency._The term ``State educational 
+    agency'' means the officer or agency primarilyP responsible for the 
+    State supervision of public elementary and secondary schools.
+        (25) Workplace mentor._The term ``workplace mentor'' means an 
+    employee or other individual, approved by the employer at a 
+    workplace, who possesses the skills and knowledge to be mastered by 
+    a student, and who instructs the student, critiques the performance 
+    of the student, challenges the student to perform well, and works 
+    in consultation with classroom teachers and the employer of the 
+    student.
+
+SEC. 5. FEDERAL ADMINISTRATION.
+
+    (a) Joint Administration._
+        (1) In general._Notwithstanding the Department of Education 
+    Organization Act (20 U.S.C. 3401 et seq.), the General Education 
+    Provisions Act (20 U.S.C. 1221 et seq.), the Act entitled ``An Act 
+    To Create a Department of Labor'', approved March 4, 1913 (29 
+    U.S.C. 551 et seq.), and section 166 of the Job Training 
+    Partnership Act (29 U.S.C. 1576), the Secretaries shall jointly 
+    provide for, and shall exercise final authority over, the 
+    administration of this Act, and shall have final authority to 
+    jointly issue whatever procedures, guidelines, and regulations, in 
+    accordance with section 553 of title 5, United States Code, the 
+    Secretaries consider necessary and appropriate to administer and 
+    enforce the provisions of this Act.
+        (2) Submission of plan._Not later than 120 days after the date 
+    of enactment of this Act, the Secretaries shall prepare a plan for 
+    the joint administration of this Act and submit such plan to 
+    Congress for review and comment.
+    (b) Acceptance of Gifts._The Secretaries are authorized, in 
+carrying out this Act, to accept, purchase, or lease in the name of the 
+Department of Labor or the Department of Education, and employ or 
+dispose of in furtherance of the purposes of this Act, any money or 
+property, real, personal, or mixed, tangible or intangible, received by 
+gift, devise, bequest, or otherwise.
+    (c) Use of Voluntary and Uncompensated Services._Notwithstanding 
+section 1342 of title 31, United States Code, the Secretaries are 
+authorized to accept voluntary and uncompensated services in 
+furtherance of the purposes of this Act.
+
+     TITLE I_SCHOOL-TO-WORK OPPORTUNITIES BASIC PROGRAM COMPONENTS
+
+SEC. 101. GENERAL PROGRAM REQUIREMENTS.
+
+    A School-to-Work Opportunities program under this Act shall_
+        (1) integrate school-based learning and work-based learning, as 
+    provided for in sections 102 and 103, integrate academic and 
+    occupational learning, and establish effective linkages between 
+    secondary and postsecondary education;
+        (2) provide participating students with the opportunity to 
+    complete career majors;
+        (3) incorporate the program components provided in sections 102 
+    through 104;
+        (4) provide participating students, to the extent practicable, 
+    with strong experience in and understanding of all aspects of the 
+    industry the students are preparing to enter; and
+        (5) provide all students with equal access to the full range of 
+    such program components (including both school-based and work-based 
+    learning components) and related activities, such as recruitment, 
+    enrollment, and placement activities, except that nothing in this 
+    Act shall be construed to provide any individual with an 
+    entitlement to services under this Act.
+
+SEC. 102. SCHOOL-BASED LEARNING COMPONENT.
+
+    The school-based learning component of a School-to-Work 
+Opportunities program shall include_
+        (1) career awareness and career exploration and counseling 
+    (beginning at the earliest possible age, but not later than the 7th 
+    grade) in order to help students who may be interested to identify, 
+    and select or reconsider, their interests, goals, and career 
+    majors, including those options that may not be traditional for 
+    their gender, race, or ethnicity;
+        (2) initial selection by interested students of a career major 
+    not later than the beginning of the 11th grade;
+        (3) a program of study designed to meet the same academic 
+    content standards the State has established for all students, 
+    including, where applicable, standards established under the Goals 
+    2000: Educate America Act, and to meet the requirements necessary 
+    to prepare a student for postsecondary education and the 
+    requirements necessary for a student to earn a skill certificate;
+        (4) a program of instruction and curriculum that integrates 
+    academic and vocational learning (including applied methodologies 
+    and team-teaching strategies), and incorporates instruction, to the 
+    extent practicable, in all aspects of an industry, appropriately 
+    tied to the career major of a participant;
+        (5) regularly scheduled evaluations involving ongoing 
+    consultation and problem solving with students and school dropouts 
+    to identify their academic strengths and weaknesses, academic 
+    progress, workplace knowledge, goals, and the need for additional 
+    learning opportunities to master core academic and vocational 
+    skills; and
+        (6) procedures to facilitate the entry of students 
+    participating in a School-to-Work Opportunities program into 
+    additional training or postsecondary education programs, as well as 
+    to facilitate the transfer of the students between education and 
+    training programs.
+
+SEC. 103. WORK-BASED LEARNING COMPONENT.
+
+    (a) Mandatory Activities._The work-based learning component of a 
+School-to-Work Opportunities program shall include_
+        (1) work experience;
+        (2) a planned program of job training and work experiences 
+    (including training related to preemployment and employment skills 
+    to be mastered at progressively higher levels) that are coordinated 
+    with learning in the school-based learning component described in 
+    section 102 and are relevant to the career majors of students and 
+    lead to the award of skill certificates;
+        (3) workplace mentoring;
+        (4) instruction in general workplace competencies, including 
+    instruction and activities related to developing positive work 
+    attitudes, and employability and participative skills; and
+        (5) broad instruction, to the extent practicable, in all 
+    aspects of the industry.
+    (b) Permissible Activities._Such component may include such 
+activities as paid work experience, job shadowing, school-sponsored 
+enterprises, or on-the-job training.
+
+SEC. 104. CONNECTING ACTIVITIES COMPONENT.
+
+    The connecting activities component of a School-to-Work 
+Opportunities program shall include_
+        (1) matching students with the work-based learning 
+    opportunities of employers;
+        (2) providing, with respect to each student, a school site 
+    mentor to act as a liaison among the student and the employer, 
+    school, teacher, school administrator, and parent of the student, 
+    and, if appropriate, other community partners;
+        (3) providing technical assistance and services to employers, 
+    including small- and medium-sized businesses, and other parties in_
+            (A) designing school-based learning components described in 
+        section 102, work-based learning components described in 
+        section 103, and counseling and case management services; and
+            (B) training teachers, workplace mentors, school site 
+        mentors, and counselors;
+        (4) providing assistance to schools and employers to integrate 
+    school-based and work-based learning and integrate academic and 
+    occupational learning into the program;
+        (5) encouraging the active participation of employers, in 
+    cooperation with local education officials, in the implementation 
+    of local activities described in section 102, section 103, or this 
+    section;
+        (6)(A) providing assistance to participants who have completed 
+    the program in finding an appropriate job, continuing their 
+    education, or entering into an additional training program; and
+        (B) linking the participants with other community services that 
+    may be necessary to assure a successful transition from school to 
+    work;
+        (7) collecting and analyzing information regarding post-program 
+    outcomes of participants in the School-to-Work Opportunities 
+    program, to the extent practicable, on the basis of socioeconomic 
+    status, race, gender, ethnicity, culture, and disability, and on 
+    the basis of whether the participants are students with limited-
+    English proficiency, school dropouts, disadvantaged students, or 
+    academically talented students; and
+        (8) linking youth development activities under this Act with 
+    employer and industry strategies for upgrading the skills of their 
+    workers.
+
+     TITLE II_SCHOOL-TO-WORK OPPORTUNITIES SYSTEM DEVELOPMENT AND 
+                    IMPLEMENTATION GRANTS TO STATES
+                  Subtitle A_State Development Grants
+
+SEC. 201. PURPOSE.
+
+    The purpose of this subtitle is to assist States in planning and 
+developing comprehensive statewide School-to-Work Opportunities 
+systems.
+
+SEC. 202. AUTHORIZATION.
+
+    (a) Grants to States._
+        (1) In general._On the application of the Governor on behalf of 
+    a State in accordance with section 203, the Secretaries may provide 
+    a development grant to the State in such amounts as the Secretaries 
+    determine to be necessary to enable such State to complete planning 
+    and development of a comprehensive statewide School-to-Work 
+    Opportunities system.
+        (2) Amount._The amount of a development grant under this 
+    section may not exceed $1,000,000 for any fiscal year.
+        (3) Completion._The Secretaries may provide such grant to 
+    complete development of a statewide School-to-Work Opportunities 
+    systems initiated with funds received under the Job Training 
+    Partnership Act (29 U.S.C. 1501 et seq.) or the Carl D. Perkins 
+    Vocational and Applied Technology Education Act (20 U.S.C. 2301 et 
+    seq.).
+    (b) Grants to Territories._In providing grants under this section 
+to the Commonwealth of the Northern Mariana Islands, American Samoa, 
+Guam, the Virgin Islands, the Federated States of Micronesia, the 
+Republic of the Marshall Islands, or the Republic of Palau, the 
+Secretaries shall use amounts reserved under section 605(b)(1).
+
+SEC. 203. APPLICATION.
+
+    (a) In General._The Secretaries may not provide a development grant 
+under section 202 to a State unless the Governor of the State, on 
+behalf of the State, submits to the Secretaries an application, at such 
+time, in such form, and containing such information as the Secretaries 
+may reasonably require.
+    (b) Contents._Such application shall include_
+        (1) a timetable and an estimate of the amount of funding needed 
+    to complete the planning and development necessary to implement a 
+    comprehensive statewide School-to-Work Opportunities system for all 
+    students;
+        (2) a description of how_
+            (A) the Governor;
+            (B) the State educational agency;
+            (C) the State agency officials responsible for economic 
+        development;
+            (D) the State agency officials responsible for employment;
+            (E) the State agency officials responsible for job 
+        training;
+            (F) the State agency officials responsible for 
+        postsecondary education;
+            (G) the State agency officials responsible for vocational 
+        education;
+            (H) the State agency officials responsible for vocational 
+        rehabilitation;
+            (I) the individual assigned by the State under section 
+        111(b)(1) of the Carl D. Perkins Vocational and Applied 
+        Technology Education Act (20 U.S.C. 2321(b)(1));
+            (J) other appropriate officials, including the State human 
+        resource investment council established in accordance with 
+        title VII of the Job Training Partnership Act (29 U.S.C. 1792 
+        et seq.), if the State has established such a council; and
+            (K) representatives of the private sector;
+    will collaborate in the planning and development of the statewide 
+    School-to-Work Opportunities system;
+        (3) a description of the manner in which the State has obtained 
+    and will continue to obtain the active and continued participation, 
+    in the planning and development of the statewide School-to-Work 
+    Opportunities system, of employers and other interested parties, 
+    such as locally elected officials, secondary schools and 
+    postsecondary educational institutions (or related agencies), 
+    business associations, industrial extension centers, employees, 
+    labor organizations or associations of such organizations, 
+    teachers, related services personnel, students, parents, community-
+    based organizations, rehabilitation agencies and organizations, 
+    Indian tribes, registered apprenticeship agencies, vocational 
+    educational agencies, vocational student organizations, and human 
+    service agencies;
+        (4) a description of the manner in which the State will 
+    coordinate planning activities with any local school-to-work 
+    programs, including programs funded under title III, if any;
+        (5) a designation of a fiscal agent to receive and be 
+    accountable for funds provided from a grant under section 202; and
+        (6) a description of how the State will provide opportunities 
+    for students from low-income families, low-achieving students, 
+    students with limited-English proficiency, students with 
+    disabilities, students living in rural communities with low 
+    population densities, school dropouts, and academically talented 
+    students to participate in School-to-Work Opportunities programs.
+    (c) Coordination With Goals 2000: Educate America Act._A State 
+seeking assistance under both this subtitle and the Goals 2000: Educate 
+America Act may_
+        (1) submit a single application containing plans that meet the 
+    requirements of such subtitle and such Act and ensure that the 
+    plans are coordinated and not duplicative; or
+        (2) if such State has already submitted its application for 
+    funds under the Goals 2000: Educate America Act, submit its 
+    application under this subtitle as an amendment to the Goals 2000: 
+    Educate America Act application if such amendment meets the 
+    requirements of this subtitle and is coordinated with and not 
+    duplicative of the Goals 2000: Educate America Act application.
+
+SEC. 204. APPROVAL OF APPLICATION.
+
+    The Secretaries may approve an application submitted by a State 
+under section 203 only if the State demonstrates in such application 
+that the activities proposed to be undertaken by the State to develop a 
+statewide School-to-Work Opportunities system are consistent with the 
+State improvement plan for the State, if any, under the Goals 2000: 
+Educate America Act.
+
+SEC. 205. USE OF AMOUNTS.
+
+    The Secretaries may not provide a development grant under section 
+202 to a State unless the State agrees that the State will use all 
+amounts received from such grant for activities to develop a statewide 
+School-to-Work Opportunities system, which may include_
+        (1) identifying or establishing an appropriate State structure 
+    to administer the statewide School-to-Work Opportunities system;
+        (2) identifying secondary and postsecondary school-to-work 
+    programs in existence on or after the date of the enactment of this 
+    Act that might be incorporated into such system;
+        (3) identifying or establishing broad-based partnerships among 
+    employers, labor, education, government, and other community-based 
+    organizations and parent organizations to participate in the 
+    design, development, and administration of School-to-Work 
+    Opportunities programs;
+        (4) developing a marketing plan to build consensus and support 
+    for such programs;
+        (5) promoting the active involvement of business (including 
+    small- and medium-sized businesses) in planning, developing, and 
+    implementing local School-to-Work Opportunities programs, and in 
+    establishing partnerships between business and elementary schools 
+    and secondary schools (including middle schools);
+        (6) identifying ways that local school-to-work programs in 
+    existence on or after the date of the enactment of this Act could 
+    be coordinated with the statewide School-to-Work Opportunities 
+    system;
+        (7) supporting local planning and development activities to 
+    provide guidance, training and technical assistance for teachers, 
+    employers, mentors, counselors, administrators, and others in the 
+    development of School-to-Work Opportunities programs;
+        (8) identifying or establishing mechanisms for providing 
+    training and technical assistance to enhance the development of the 
+    statewide School-to-Work Opportunities system;
+        (9) developing a training and technical support system for 
+    teachers, employers, mentors, counselors, related services 
+    personnel, and others that includes specialized training and 
+    technical support for the counseling and training of women, 
+    minorities, and individuals with disabilities for high-skill, high-
+    wage careers in nontraditional employment;
+        (10) initiating pilot programs for testing key components of 
+    the program design of programs under the statewide School-to-Work 
+    Opportunities system;
+        (11) developing a State process for issuing skill certificates 
+    that is, to the extent feasible, consistent with the skill 
+    standards certification systems endorsed under the National Skill 
+    Standards Act of 1994;
+        (12) designing challenging curricula, in cooperation with 
+    representatives of local partnerships, that take into account the 
+    diverse learning needs and abilities of the student population 
+    served by the statewide School-to-Work Opportunities system;
+        (13) developing a system for labor market analysis and 
+    strategic planning for local targeting of industry sectors or broad 
+    occupational clusters that can provide students with placements in 
+    high-skill workplaces;
+        (14) analyzing the post-high school employment experiences of 
+    recent high school graduates and school dropouts;
+        (15) preparing the plan described in section 213(d);
+        (16) working with localities to develop strategies to recruit 
+    and retain all students in programs under this Act through 
+    collaborations with community-based organizations, where 
+    appropriate, and other entities with expertise in working with such 
+    students;
+        (17) coordinating recruitment of out-of-school, at-risk, and 
+    disadvantaged youths with those organizations and institutions that 
+    have a successful history of working with such youths; and
+        (18) providing technical assistance to rural areas in planning, 
+    developing, and implementing local School-to-Work Opportunities 
+    programs that meet the needs of rural communities with low 
+    population densities.
+
+SEC. 206. MAINTENANCE OF EFFORT.
+
+    (a) In General._A State may receive a development grant under 
+section 202 for a fiscal year only if the State provides assurances, 
+satisfactory to the Secretaries, that_
+        (1) the amount of State funds expended per student by the State 
+    for school-to-work activities of the type described in title I for 
+    the preceding fiscal year was not less than 90 percent of the 
+    amount so expended for the second preceding fiscal year; or
+        (2) the aggregate amount of State funds expended by the State 
+    for such activities for the preceding fiscal year was not less than 
+    90 percent of the amount so expended for the second preceding 
+    fiscal year.
+    (b) Waiver._
+        (1) Determination._The Secretaries may jointly waive the 
+    requirements described in subsection (a) for a State that requests 
+    such a waiver if the Secretaries determine that such a waiver would 
+    be equitable due to_
+            (A) exceptional or uncontrollable circumstances such as a 
+        natural disaster; or
+            (B) a precipitous decline in the financial resources of the 
+        State.
+        (2) Request._To be eligible to receive such a waiver, a State 
+    shall submit a request at such time, in such form, and containing 
+    such information as the Secretaries may require.
+
+SEC. 207. REPORTS.
+
+    The Secretaries may not provide a development grant under section 
+202 to a State unless the State agrees that the State will submit to 
+the Secretaries such reports as the Secretaries may reasonably require, 
+relating to the use of amounts from such grant, except that the 
+Secretaries may not require more than 1 such report during any 3-month 
+period.
+
+                 Subtitle B_State Implementation Grants
+
+SEC. 211. PURPOSE.
+
+    The purpose of this subtitle is to assist States in the 
+implementation of comprehensive statewide School-to-Work Opportunities 
+systems.
+
+SEC. 212. AUTHORIZATION.
+
+    (a) Grants to States._On the application of the Governor on behalf 
+of a State in accordance with section 213, the Secretaries may provide 
+an implementation grant to the State in such amounts as the Secretaries 
+determine to be necessary to enable such State to implement a 
+comprehensive statewide School-to-Work Opportunities system.
+    (b) Grants to Territories._In providing grants under this section 
+to the Commonwealth of the Northern Mariana Islands, American Samoa, 
+Guam, the Virgin Islands, the Federated States of Micronesia, the 
+Republic of the Marshall Islands, or the Republic of Palau, the 
+Secretaries shall use amounts reserved under section 605(b)(1).
+    (c) Period of Grant._The provision of payments under a grant under 
+subsection (a) shall not exceed 5 fiscal years and shall be subject to 
+the annual approval of the Secretaries and subject to the availability 
+of appropriations for the fiscal year involved to make the payments.
+    (d) Limitation._A State shall be eligible to receive only 1 
+implementation grant under subsection (a).
+
+SEC. 213. APPLICATION.
+
+    (a) In General._
+        (1) Submission by governor on behalf of state._Subject to 
+    paragraph (2), the Secretaries may not provide an implementation 
+    grant under section 212 to a State unless the Governor of the 
+    State, on behalf of the State, submits to the Secretaries an 
+    application, at such time, in such form, and containing such 
+    information as the Secretaries may reasonably require.
+        (2) Review and comment by certain individuals and entities._If, 
+    after a reasonable effort, the Governor is unable in accordance 
+    with subsection (d)(4) to obtain the support of the individuals and 
+    entities described in subparagraphs (A) through (J) of subsection 
+    (b)(4) for the State plan described in subsection (d), then the 
+    Governor shall_
+            (A) provide such individuals and entities with copies of 
+        such application;
+            (B) allow such individuals and entities to submit to the 
+        Governor, not later than the end of the 30-day period beginning 
+        on the date on which the Governor provides such individuals and 
+        entities with copies of such application under subparagraph 
+        (A), comments on those portions of the plan that address 
+        matters that, under State or other applicable law, are under 
+        the jurisdiction of such individuals or entities; and
+            (C) include any such comments in the application in 
+        accordance with subsection (b)(5).
+    (b) Contents._Such application shall include_
+        (1) a plan for a comprehensive, statewide School-to-Work 
+    Opportunities system that meets the requirements of subsection (d);
+        (2) a description of the manner in which the State will 
+    allocate funds made available through such a grant to local 
+    partnerships under section 215(b)(7);
+        (3) a request, if the State decides to submit such a request, 
+    for 1 or more waivers of certain statutory or regulatory 
+    requirements, as provided for under title V;
+        (4) a description of the manner in which_
+            (A) the Governor;
+            (B) the State educational agency;
+            (C) the State agency officials responsible for economic 
+        development;
+            (D) the State agency officials responsible for employment;
+            (E) the State agency officials responsible for job 
+        training;
+            (F) the State agency officials responsible for 
+        postsecondary education;
+            (G) the State agency officials responsible for vocational 
+        education;
+            (H) the State agency officials responsible for vocational 
+        rehabilitation;
+            (I) the individual assigned for the State under section 
+        111(b)(1) of the Carl D. Perkins Vocational and Applied 
+        Technology Education Act (20 U.S.C. 2321(b)(1));
+            (J) other appropriate officials, including the State human 
+        resource investment council established in accordance with 
+        title VII of the Job Training Partnership Act (29 U.S.C. 1792 
+        et seq.), if the State has established such a council; and
+            (K) representatives of the private sector;
+    collaborated in the development of the application;
+        (5) the comments submitted to the Governor under subsection 
+    (a)(2), where applicable; and
+        (6) such other information as the Secretaries may require.
+    (c) Coordination With Goals 2000: Educate America Act._A State 
+seeking assistance under both this subtitle and the Goals 2000: Educate 
+America Act may_
+        (1) submit a single application containing plans that meet the 
+    requirements of such subtitle and such Act and ensure that the 
+    plans are coordinated and not duplicative; or
+        (2) if such State has already submitted its application for 
+    funds under the Goals 2000: Educate America Act, submit its 
+    application under this subtitle as an amendment to the Goals 2000: 
+    Educate America Act application if such amendment meets the 
+    requirements of this subtitle and is coordinated with and not 
+    duplicative of the Goals 2000: Educate America Act application.
+    (d) State Plan._A State plan referred to in subsection (b)(1) 
+shall_
+        (1) designate the geographical areas, including urban and rural 
+    areas, to be served by local partnerships that receive grants under 
+    section 215(b), which geographic areas shall, to the extent 
+    feasible, reflect local labor market areas;
+        (2) describe the manner in which the State will stimulate and 
+    support local School-to-Work Opportunities programs and the manner 
+    in which the statewide School-to-Work Opportunities system will be 
+    expanded over time to cover all geographic areas in the State, 
+    including urban and rural areas;
+        (3) describe the procedure by which the individuals and 
+    entities described in subsection (b)(4) will collaborate in the 
+    implementation of the School-to-Work Opportunities system;
+        (4) demonstrate the support of individuals and entities 
+    described in subparagraphs (A) through (J) of subsection (b)(4) for 
+    the plan, except in the case where the Governor is unable to obtain 
+    the support of such individuals and entities as provided in 
+    subsection (a)(2);
+        (5) describe the manner in which the State has obtained and 
+    will continue to obtain the active and continued involvement, in 
+    the statewide School-to-Work Opportunities system, of employers and 
+    other interested parties such as locally elected officials, 
+    secondary schools and postsecondary educational institutions (or 
+    related agencies), business associations, industrial extension 
+    centers, employees, labor organizations or associations of such 
+    organizations, teachers, related services personnel, students, 
+    parents, community-based organizations, rehabilitation agencies and 
+    organizations, registered apprenticeship agencies, local vocational 
+    educational agencies, vocational student organizations, State or 
+    regional cooperative education associations, and human service 
+    agencies;
+        (6) describe the manner in which the statewide School-to-Work 
+    Opportunities system will coordinate with or integrate local 
+    school-to-work programs in existence on or after the date of the 
+    enactment of this Act, including programs financed from State and 
+    private sources, with funds available from such related Federal 
+    programs as programs under_
+            (A) the Adult Education Act (20 U.S.C. 1201 et seq.);
+            (B) the Carl D. Perkins Vocational and Applied Technology 
+        Education Act (20 U.S.C. 2301 et seq.);
+            (C) the Elementary and Secondary Education Act of 1965 (20 
+        U.S.C. 2701 et seq.);
+            (D) the Higher Education Act of 1965 (20 U.S.C. 1001 et 
+        seq.);
+            (E) part F of title IV of the Social Security Act (42 
+        U.S.C. 681 et seq.);
+            (F) the Goals 2000: Educate America Act;
+            (G) the National Skills Standards Act of 1994;
+            (H) the Individuals with Disabilities Education Act (20 
+        U.S.C. 1400 et seq.);
+            (I) the Job Training Partnership Act (29 U.S.C. 1501 et 
+        seq.);
+            (J) the Act of August 16, 1937 (commonly known as the 
+        ``National Apprenticeship Act''; 50 Stat. 664, chapter 663; 29 
+        U.S.C. 50 et seq.);
+            (K) the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.); 
+        and
+            (L) the National and Community Service Act of 1990 (42 
+        U.S.C. 12501 et seq.);
+        (7) describe the strategy of the State for providing training 
+    for teachers, employers, mentors, counselors, related services 
+    personnel, and others, including specialized training and technical 
+    support for the counseling and training of women, minorities, and 
+    individuals with disabilities for high-skill, high-wage careers in 
+    nontraditional employment, and provide assurances of coordination 
+    with similar training and technical support under other provisions 
+    of law;
+        (8) describe how the State will adopt, develop, or assist local 
+    partnerships to adopt or develop model curricula and innovative 
+    instructional methodologies, to be used in the secondary, and where 
+    possible, the elementary grades, that integrate academic and 
+    vocational learning and promote career awareness, and that are 
+    consistent with academic and skill standards established pursuant 
+    to the Goals 2000: Educate America Act and the National Skill 
+    Standards Act of 1994;
+        (9) describe how the State will expand and improve career and 
+    academic counseling in the elementary and secondary grades, which 
+    may include linkages to career counseling and labor market 
+    information services outside of the school system;
+        (10) describe the strategy of the State for integrating 
+    academic and vocational education;
+        (11) describe the resources, including private sector 
+    resources, the State intends to employ in maintaining the statewide 
+    School-to-Work Opportunities system when funds under this Act are 
+    no longer available;
+        (12) describe the extent to which the statewide School-to-Work 
+    Opportunities system will include programs that will require paid 
+    high-quality, work-based learning experiences, and the steps the 
+    State will take to generate such paid experiences;
+        (13) describe the manner in which the State will ensure 
+    effective and meaningful opportunities for all students in the 
+    State to participate in School-to-Work Opportunities programs;
+        (14) describe the goals of the State and the methods the State 
+    will use, such as awareness and outreach, to ensure opportunities 
+    for young women to participate in School-to-Work Opportunities 
+    programs in a manner that leads to employment in high-performance, 
+    high-paying jobs, including nontraditional employment, and goals to 
+    ensure an environment free from racial and sexual harassment;
+        (15) describe how the State will ensure opportunities for low 
+    achieving students, students with disabilities, school dropouts, 
+    and academically talented students to participate in School-to-Work 
+    Opportunities programs;
+        (16) describe the process of the State for assessing the skills 
+    and knowledge required in career majors, and the process for 
+    awarding skill certificates that is, to the extent feasible, 
+    consistent with the skills standards certification systems endorsed 
+    under the National Skill Standards Act of 1994;
+        (17) describe the manner in which the State will ensure that 
+    students participating in the programs are provided, to the 
+    greatest extent possible, with flexibility to develop new career 
+    goals over time and to change career majors;
+        (18) describe the manner in which the State will, to the extent 
+    feasible, continue programs funded under title III in the statewide 
+    School-to-Work Opportunities system;
+        (19) describe how the State will serve students from rural 
+    communities with low population densities;
+        (20) describe how local School-to-Work Opportunities programs, 
+    including those funded under title III, if any, will be integrated 
+    into the statewide School-to-Work Opportunities system;
+        (21) describe the performance standards that the State intends 
+    to meet in establishing and carrying out the statewide School-to-
+    Work Opportunities system, including how such standards relate to 
+    those performance standards established under other related 
+    programs;
+        (22) designate a fiscal agent to receive and be accountable for 
+    funds provided from a grant under section 212; and
+        (23) describe the procedures to facilitate the entry of 
+    students participating in a School-to-Work Opportunities program 
+    into additional training or postsecondary education programs, as 
+    well as to facilitate the transfer of the students between 
+    education and training programs.
+
+SEC. 214. REVIEW OF APPLICATION.
+
+    (a) Considerations._In evaluating applications submitted under 
+section 213, the Secretaries shall_
+        (1) give priority to applications that describe the highest 
+    levels of concurrence by the individuals and entities described in 
+    section 213(b)(4) with the State plan for the statewide School-to-
+    Work Opportunities system;
+        (2) give priority to applications that require paid, high-
+    quality work-based learning experiences as an integral part of such 
+    system; and
+        (3) take into consideration the quality of the application, 
+    including the replicability, sustainability, and innovation of 
+    School-to-Work Opportunities programs described in the application.
+    (b) Approval Criteria._The Secretaries_
+        (1) shall approve only those applications submitted under 
+    section 213 that demonstrate the highest levels of collaboration by 
+    the individuals and entities described in section 213(b)(4) in the 
+    development and implementation of the statewide School-to-Work 
+    system;
+        (2) shall approve an application submitted under section 213 
+    only if the State provides the assurances described in section 
+    206(a) (relating to maintenance of effort) in accordance with such 
+    section, except that this requirement may be waived in accordance 
+    with section 206(b); and
+        (3) may approve an application submitted under section 213 only 
+    if the State demonstrates in the application_
+            (A) that other Federal, State, and local resources will be 
+        used to implement the proposed State plan;
+            (B) the extent to which such plan would limit 
+        administrative costs and increase amounts spent on delivery of 
+        services to students enrolled in programs under this Act;
+            (C) that the State, where appropriate, will ensure the 
+        establishment of a partnership in at least 1 urban and 1 rural 
+        area in the State; and
+            (D) that the State plan contained in such application is 
+        consistent with the State improvement plan for the State, if 
+        any, under the Goals 2000: Educate America Act.
+    (c) Actions._
+        (1) In general._In reviewing each application submitted under 
+    section 213, the Secretaries shall determine whether the 
+    application and the plan described in such application meet the 
+    approval criteria in subsection (b).
+        (2) Actions after affirmative determination._If the 
+    determination under paragraph (1) is affirmative, the Secretaries 
+    may take 1 or more of the following actions:
+            (A) Provide an implementation grant under section 212 to 
+        the State submitting the application.
+            (B) Approve the request of the State, if any, for a waiver 
+        in accordance with the procedures set forth in title V.
+        (3) Action after nonaffirmative determination._If the 
+    determination under paragraph (1) is not affirmative, the 
+    Secretaries shall inform the State of the opportunity to apply for 
+    development funds under subtitle A in accordance with such 
+    subtitle.
+    (d) Use of Funds for Review of Applications._The Secretaries may 
+use amounts reserved under section 605(b)(4) for the review of 
+applications submitted under section 213.
+
+SEC. 215. USE OF AMOUNTS.
+
+    (a) In General._The Secretaries may not provide an implementation 
+grant under section 212 to a State unless the State agrees that the 
+State will use all amounts received from such grant to implement the 
+statewide School-to-Work Opportunities system in accordance with this 
+section.
+    (b) Subgrants to Local Partnerships._
+        (1) Authority._
+            (A) In general._Except as provided in subparagraph (B), the 
+        State shall provide subgrants to local partnerships, according 
+        to criteria established by the State, for the purpose of 
+        carrying out School-to-Work Opportunities programs.
+            (B) Prohibition._The State shall not provide subgrants to 
+        local partnerships that have received implementation grants 
+        under title III, except that this prohibition shall not apply 
+        with respect to local partnerships that are located in high 
+        poverty areas, as such term is defined in section 307.
+        (2) Application._A local partnership that seeks a subgrant to 
+    carry out a local School-to-Work Opportunities program, including a 
+    program initiated under section 302, shall submit an application to 
+    the State that_
+            (A) describes how the program will include the program 
+        components described in sections 102, 103, and 104 and 
+        otherwise meet the requirements of this Act;
+            (B) sets forth measurable program goals and outcomes;
+            (C) describes the local strategies and timetables of the 
+        local partnership to provide opportunities for all students in 
+        the area served to participate in a School-to-Work 
+        Opportunities program;
+            (D) describes the extent to which the program will require 
+        paid high-quality, work-based learning experiences, and the 
+        steps the local partnerships will take to generate such paid 
+        experiences;
+            (E) describes the process that will be used to ensure 
+        employer involvement in the development and implementation of 
+        the local School-to-Work Opportunities program;
+            (F) provides assurances that, to the extent practicable, 
+        opportunities provided to students to participate in a School-
+        to-Work Opportunities program will be in industries and 
+        occupations offering high-skill, high-wage employment 
+        opportunities;
+            (G) provides such other information as the State may 
+        require; and
+            (H) is submitted at such time and in such form as the State 
+        may require.
+        (3) Disapproval of application._If the State determines that an 
+    application submitted by a local partnership does not meet the 
+    criteria under paragraph (2), or that the application is incomplete 
+    or otherwise unsatisfactory, the State shall_
+            (A) notify the local partnership of the reasons for the 
+        failure to approve the application; and
+            (B) permit the local partnership to resubmit a corrected or 
+        amended application.
+        (4) Allowable activities._A local partnership shall expend 
+    funds provided through subgrants under this subsection only for 
+    activities undertaken to carry out local School-to-Work 
+    Opportunities programs, and such activities may include, for each 
+    such program_
+            (A) recruiting and providing assistance to employers, 
+        including small- and medium-size businesses, to provide the 
+        work-based learning components described in section 103;
+            (B) establishing consortia of employers to support the 
+        School-to-Work Opportunities program and provide access to jobs 
+        related to the career majors of students;
+            (C) supporting or establishing intermediaries (selected 
+        from among the members of the local partnership) to perform the 
+        activities described in section 104 and to provide assistance 
+        to students or school dropouts in obtaining jobs and further 
+        education and training;
+            (D) designing or adapting school curricula that can be used 
+        to integrate academic, vocational, and occupational learning, 
+        school-based and work-based learning, and secondary and 
+        postsecondary education for all students in the area served;
+            (E) providing training to work-based and school-based staff 
+        on new curricula, student assessments, student guidance, and 
+        feedback to the school regarding student performance;
+            (F) establishing, in schools participating in the School-
+        to-Work Opportunities program, a graduation assistance program 
+        to assist at-risk students, low-achieving students, and 
+        students with disabilities, in graduating from high school, 
+        enrolling in postsecondary education or training, and finding 
+        or advancing in jobs;
+            (G) providing career exploration and awareness services, 
+        counseling and mentoring services, college awareness and 
+        preparation services, and other services (beginning at the 
+        earliest possible age, but not later than the 7th grade) to 
+        prepare students for the transition from school to work;
+            (H) providing supplementary and support services, including 
+        child care and transportation, when such services are necessary 
+        for participation in a local School-to-Work Opportunities 
+        program;
+            (I) conducting or obtaining an in-depth analysis of the 
+        local labor market and the generic and specific skill needs of 
+        employers to identify high-demand, high-wage careers to target;
+            (J) integrating school-based and work-based learning into 
+        job training programs that are for school dropouts and that are 
+        in existence on or after the date of the enactment of this Act;
+            (K) establishing or expanding school-to-apprenticeship 
+        programs in cooperation with registered apprenticeship agencies 
+        and apprenticeship sponsors;
+            (L) assisting participating employers, including small- and 
+        medium-size businesses, to identify and train workplace mentors 
+        and to develop work-based learning components;
+            (M) promoting the formation of partnerships between 
+        elementary schools and secondary schools (including middle 
+        schools) and local businesses as an investment in future 
+        workplace productivity and competitiveness;
+            (N) designing local strategies to provide adequate planning 
+        time and staff development activities for teachers, school 
+        counselors, related services personnel, and school site 
+        mentors, including opportunities outside the classroom that are 
+        at the worksite;
+            (O) enhancing linkages between after-school, weekend, and 
+        summer jobs, career exploration, and school-based learning; and
+            (P) obtaining the assistance of organizations and 
+        institutions that have a history of success in working with 
+        school dropouts and at-risk and disadvantaged youths in 
+        recruiting such school dropouts and youths to participate in 
+        the local School-to-Work Opportunities program.
+        (5) Local partnership compact._The State may not provide a 
+    subgrant under paragraph (1) to a local partnership unless the 
+    partnership agrees that the local partnership will establish a 
+    process by which the responsibilities and expectations of students, 
+    parents, employers, and schools are clearly established and agreed 
+    upon at the point of entry of the student into a career major 
+    program of study.
+        (6) Administrative costs._The local partnership may not use 
+    more than 10 percent of amounts received from a subgrant under 
+    paragraph (1) for any fiscal year for administrative costs 
+    associated with activities in carrying out, but not including, 
+    activities under paragraphs (4) and (5) for such fiscal year.
+        (7) Allocation requirements._
+            (A) First year._In the 1st fiscal year for which a State 
+        receives amounts from a grant under section 212, the State 
+        shall use not less than 70 percent of such amounts to provide 
+        subgrants to local partnerships under paragraph (1).
+            (B) Second year._In the 2d fiscal year for which a State 
+        receives amounts from a grant under section 212, the State 
+        shall use not less than 80 percent of such amounts to provide 
+        subgrants to local partnerships under paragraph (1).
+            (C) Third year and succeeding years._In the 3d fiscal year 
+        for which a State receives amounts from a grant under section 
+        212, and in each succeeding year, the State shall use not less 
+        than 90 percent of such amounts to provide subgrants to local 
+        partnerships under paragraph (1).
+    (c) Additional State Activities._In carrying out the statewide 
+School-to-Work Opportunities system, the State may also_
+        (1) recruit and provide assistance to employers to provide 
+    work-based learning for all students;
+        (2) conduct outreach activities to promote and support 
+    collaboration, in School-to-Work Opportunities programs, by 
+    businesses, labor organizations, and other organizations;
+        (3) provide training for teachers, employers, workplace 
+    mentors, school site mentors, counselors, related services 
+    personnel, and other parties;
+        (4) provide labor market information to local partnerships that 
+    is useful in determining which high-skill, high-wage occupations 
+    are in demand;
+        (5) design or adapt model curricula that can be used to 
+    integrate academic, vocational, and occupational learning, school-
+    based and work-based learning, and secondary and postsecondary 
+    education, for all students in the State;
+        (6) design or adapt model work-based learning programs and 
+    identify best practices for such programs;
+        (7) conduct outreach activities and provide technical 
+    assistance to other States that are developing or implementing 
+    School-to-Work Opportunities systems;
+        (8) reorganize and streamline school-to-work programs in the 
+    State to facilitate the development of a comprehensive statewide 
+    School-to-Work Opportunities system;
+        (9) identify ways that local school-to-work programs in 
+    existence on or after the date of the enactment of this Act could 
+    be integrated with the statewide School-to-Work Opportunities 
+    system;
+        (10) design career awareness and exploration activities 
+    (beginning at the earliest possible age, but not later than the 7th 
+    grade), such as job shadowing, job site visits, school visits by 
+    individuals in various occupations, and mentoring;
+        (11) design and implement school-sponsored work experiences, 
+    such as school-sponsored enterprises and community development 
+    projects;
+        (12) promote the formation of partnerships between elementary 
+    schools and secondary schools (including middle schools) and local 
+    businesses as an investment in future workplace productivity and 
+    competitiveness;
+        (13) obtain the assistance of organizations and institutions 
+    that have a history of success in working with school dropouts and 
+    at-risk and disadvantaged youths in recruiting such school dropouts 
+    and youths to participate in the statewide School-to-Work 
+    Opportunities system;
+        (14) conduct outreach to all students in a manner that most 
+    appropriately meets their needs and the needs of their communities; 
+    and
+        (15) provide career exploration and awareness services, 
+    counseling and mentoring services, college awareness and 
+    preparation services, and other services (beginning at the earliest 
+    possible age, but not later than the 7th grade) to prepare students 
+    for the transition from school to work.
+
+SEC. 216. ALLOCATION REQUIREMENT.
+
+    The Secretaries shall establish the minimum and maximum amounts 
+available for an implementation grant under section 212, and shall 
+determine the actual amount granted to any State under such section, 
+based on such criteria as the scope and quality of the plan described 
+in section 213(d) and the number of projected participants in programs 
+carried out through the system.
+
+SEC. 217. LIMITATION ON ADMINISTRATIVE COSTS.
+
+    A State that receives an implementation grant under section 212 may 
+not use more than 10 percent of the amounts received through the grant 
+for any fiscal year for administrative costs associated with 
+implementing the statewide School-to-Work Opportunities system for such 
+fiscal year.
+
+SEC. 218. REPORTS.
+
+    The Secretaries may not provide an implementation grant under 
+section 212 to a State unless the State agrees that the State will 
+submit to the Secretaries such reports as the Secretaries may 
+reasonably require, relating to the use of amounts from such grant, 
+except that the Secretaries may not require more than 1 such report 
+during any 3-month period.
+
+  Subtitle C_Development and Implementation Grants for School-to-Work 
+                       Programs for Indian Youths
+
+SEC. 221. AUTHORIZATION.
+
+    (a) In General._From amounts reserved under section 605(b)(2), the 
+Secretaries shall provide grants to establish and carry out School-to-
+Work Opportunities programs for Indian youths that involve Bureau 
+funded schools (as defined in section 1139(3) of the Education 
+Amendments of 1978 (25 U.S.C. 2019(3))).
+    (b) Additional Authorities._The Secretaries may carry out 
+subsection (a) through such means as the Secretaries find appropriate, 
+including_
+        (1) the transfer of funds to the Secretary of the Interior; and
+        (2) the provision of financial assistance to Indian tribes and 
+    Indian organizations.
+
+SEC. 222. REQUIREMENTS.
+
+    In providing grants under section 221, the Secretaries shall 
+require recipients of such grants to comply with requirements similar 
+to those requirements imposed on States under subtitles A and B of this 
+title.
+
+     TITLE III_FEDERAL IMPLEMENTATION GRANTS TO LOCAL PARTNERSHIPS
+
+SEC. 301. PURPOSES.
+
+    The purposes of this title are_
+        (1) to authorize the Secretaries to provide competitive grants 
+    directly to local partnerships in order to provide funding for 
+    communities that have built a sound planning and development base 
+    for School-to-Work Opportunities programs and are ready to begin 
+    implementing a local School-to-Work Opportunities program; and
+        (2) to authorize the Secretaries to provide competitive grants 
+    to local partnerships to implement School-to-Work Opportunities 
+    programs in high poverty areas of urban and rural communities to 
+    provide support for a comprehensive range of education, training, 
+    and support services for youths residing in such areas.
+
+SEC. 302. AUTHORIZATION.
+
+    (a) Grants to Local Partnerships._
+        (1) In general._Subject to paragraph (2), the Secretaries may 
+    provide implementation grants, in accordance with competitive 
+    criteria established by the Secretaries, directly to local 
+    partnerships in States in such amounts as the Secretaries determine 
+    to be necessary to enable such partnerships to implement School-to-
+    Work Opportunities programs.
+        (2) Restrictions._A local partnership_
+            (A) shall be eligible to receive only 1 grant under this 
+        subsection; and
+            (B) shall not be eligible to receive a grant under this 
+        subsection if such partnership is located in a State that_
+                (i) has been provided an implementation grant under 
+            section 212; and
+                (ii) has received amounts from such grant for any 
+            fiscal year after the 1st fiscal year under such grant.
+    (b) Grants to Local Partnerships in High Poverty Areas._
+        (1) In general._Subject to paragraphs (2) and (3), the 
+    Secretaries shall, from amounts reserved under section 605(b)(3), 
+    provide grants to local partnerships that are located in high 
+    poverty areas in States in such amounts as the Secretaries 
+    determine to be necessary to enable such partnerships to implement 
+    School-to-Work Opportunities programs in such areas.
+        (2) Restriction._A local partnership shall be eligible to 
+    receive only 1 grant under this subsection.
+        (3) Priority._In providing grants under paragraph (1), the 
+    Secretaries shall give priority to local partnerships that have a 
+    demonstrated effectiveness in the delivery of comprehensive 
+    vocational preparation programs with successful rates in job 
+    placement through cooperative activities among local educational 
+    agencies, local businesses, labor organizations, and other 
+    organizations.
+    (c) Period of Grant._The provision of payments under a grant under 
+subsection (a) or (b) shall not exceed 5 fiscal years and shall be 
+subject to the annual approval of the Secretaries and subject to the 
+availability of appropriations for the fiscal year involved to make the 
+payments.
+
+SEC. 303. APPLICATION.
+
+    (a) In General._A local partnership that desires to receive a 
+Federal implementation grant under section 302 shall submit an 
+application to the Secretaries at such time and in such form as the 
+Secretaries may require. The local partnership shall submit the 
+application to the State for review and comment before submitting the 
+application to the Secretaries.
+    (b) Time Limit for State Review and Comment._
+        (1) In general._The State shall provide for review and comment 
+    on the application under subsection (a) not later than 30 days 
+    after the date on which the State receives the application from the 
+    local partnership.
+        (2) Submission without state review and comment._If the State 
+    does not provide review and comment within the 30-day time period 
+    specified in paragraph (1), the local partnership may submit the 
+    application to the Secretaries without first obtaining such review 
+    and comment.
+    (c) Contents._The application described in subsection (a) shall 
+include a plan for local School-to-Work Opportunities programs that_
+        (1) describes the manner in which the local partnership will 
+    meet the requirements of this Act;
+        (2) includes the comments of the State on the plan, if any;
+        (3) contains information that is consistent with the 
+    information required to be submitted as part of a State plan in 
+    accordance with paragraphs (5) through (17) and paragraph (23) of 
+    section 213(d);
+        (4) designates a fiscal agent to receive and be accountable for 
+    funds under this section; and
+        (5) provides such other information as the Secretaries may 
+    require.
+    (d) Use of Funds for Review of Applications._The Secretaries may 
+use amounts reserved under section 605(b)(4) for the review of 
+applications submitted under subsection (a).
+
+SEC. 304. USE OF AMOUNTS.
+
+    The Secretaries may not provide an implementation grant under 
+section 302 to a local partnership unless the partnership agrees that 
+it will use all amounts from such grant to carry out activities to 
+implement a School-to-Work Opportunities program, including the 
+activities described in section 215(b)(4).
+    SEC. 305. CONFORMITY WITH APPROVED STATE PLAN.
+    The Secretaries shall not provide a grant under section 302 to a 
+local partnership in a State that has an approved State plan unless the 
+Secretaries determine, after consultation with the State, that the plan 
+submitted by the partnership is in accordance with such approved State 
+plan.
+
+SEC. 306. REPORTS.
+
+    The Secretaries may not provide an implementation grant under 
+section 302 to a local partnership unless the partnership agrees that 
+the local partnership will submit to the Secretaries such reports as 
+the Secretaries may reasonably require, relating to the use of amounts 
+from such grant, except that the Secretaries may not require more than 
+1 such report during any 3-month period.
+
+SEC. 307. HIGH POVERTY AREA DEFINED.
+
+    For purposes of this title, the term ``high poverty area'' means an 
+urban census tract, a contiguous group of urban census tracts, a block 
+number area in a nonmetropolitan county, a contiguous group of block 
+number areas in a nonmetropolitan county, or an Indian reservation (as 
+defined in section 403(9) of the Indian Child Protection and Family 
+Violence Prevention Act (25 U.S.C. 3202(9))), with a poverty rate of 20 
+percent or more among individuals who have not attained the age of 22, 
+as determined by the Bureau of the Census.
+
+                       TITLE IV_NATIONAL PROGRAMS
+
+    SEC. 401. RESEARCH, DEMONSTRATION, AND OTHER PROJECTS.
+    (a) In General._The Secretaries shall conduct research and 
+development projects and establish a program of experimental and 
+demonstration projects, to further the purposes of this Act.
+    (b) Additional Use of Funds._The Secretaries may provide assistance 
+for programs or services authorized under any other provision of this 
+Act that are most appropriately administered at the national level and 
+that will operate in, or benefit, more than 1 State.
+    SEC. 402. PERFORMANCE OUTCOMES AND EVALUATION.
+    (a) In General._The Secretaries, in collaboration with the States, 
+shall by grant, contract, or otherwise, establish a system of 
+performance measures for assessing State and local programs regarding_
+        (1) progress in the development and implementation of State 
+    plans described in section 213(d) that include the basic program 
+    components described in sections 102, 103, and 104 and otherwise 
+    meet the requirements of title I;
+        (2) participation in School-to-Work Opportunities programs by 
+    employers, schools, students, and school dropouts, including 
+    information on the gender, race, ethnicity, socioeconomic 
+    background, limited-English proficiency, and disability of all 
+    participants and whether the participants are academically talented 
+    students;
+        (3) progress in developing and implementing strategies for 
+    addressing the needs of students and school dropouts;
+        (4) progress in meeting the goals of the State to ensure 
+    opportunities for young women to participate in School-to-Work 
+    Opportunities programs, including participation in nontraditional 
+    employment through such programs;
+        (5) outcomes for participating students and school dropouts, by 
+    gender, race, ethnicity, socioeconomic background, limited-English 
+    proficiency, and disability of the participants, and whether the 
+    participants are academically talented students, including 
+    information on_
+            (A) academic learning gains;
+            (B) staying in school and attaining_
+                (i) a high school diploma, or a general equivalency 
+            diploma, or an alternative diploma or certificate for those 
+            students with disabilities for whom such alternative 
+            diploma or certificate is appropriate;
+                (ii) a skill certificate; and
+                (iii) a postsecondary degree;
+            (C) attainment of strong experience in and understanding of 
+        all aspects of the industry the students are preparing to 
+        enter;
+            (D) placement and retention in further education or 
+        training, particularly in the career major of the student; and
+            (E) job placement, retention, and earnings, particularly in 
+        the career major of the student; and
+        (6) the extent to which the program has met the needs of 
+    employers.
+    (b) Evaluation._Not later than September 30, 1998, the Secretaries 
+shall complete a national evaluation of School-to-Work Opportunities 
+programs funded under this Act by grants, contracts, or otherwise, that 
+will track and assess the progress of implementation of State and local 
+programs and their effectiveness based on measures such as those 
+measures described in subsection (a).
+    (c) Reports to the Secretaries._
+        (1) In general._Each State shall prepare and submit to the 
+    Secretaries periodic reports, at such intervals as the Secretaries 
+    may determine, containing information regarding the matters 
+    described in paragraphs (1) through (6) of subsection (a).
+        (2) Federal programs._Each State shall prepare and submit 
+    reports to the Secretaries, at such intervals as the Secretaries 
+    may determine, containing information on the extent to which 
+    Federal programs that are in existence on the date of submission of 
+    the report and that are implemented at the State or local level may 
+    be duplicative, outdated, overly restrictive, or otherwise 
+    counterproductive to the development of comprehensive statewide 
+    School-to-Work Opportunities systems.
+
+SEC. 403. TRAINING AND TECHNICAL ASSISTANCE.
+
+    (a) Purpose._The Secretaries shall work in cooperation with the 
+States, the individuals assigned under section 111(b)(1) of the Carl D. 
+Perkins Vocational and Applied Technology Education Act (20 U.S.C. 
+2321(b)(1)), employers and their associations, secondary schools and 
+postsecondary educational institutions, student and teacher 
+organizations, labor organizations, and community-based organizations, 
+to increase their capacity to develop and implement effective School-
+to-Work Opportunities programs.
+    (b) Authorized Activities._The Secretaries shall provide, through 
+grants, contracts, or otherwise_
+        (1) training, technical assistance, and other activities that 
+    will_
+            (A) enhance the skills, knowledge, and expertise of the 
+        personnel involved in planning and implementing State and local 
+        School-to-Work Opportunities programs, such as training of the 
+        personnel to assist students; and
+            (B) improve the quality of services provided to individuals 
+        served under this Act;
+        (2) assistance to States and local partnerships involved in 
+    carrying out School-to-Work Opportunities programs in order to 
+    integrate resources available under this Act with resources 
+    available under other Federal, State, and local authorities;
+        (3) assistance to States and such local partnerships, including 
+    local partnerships in rural communities with low population 
+    densities or in urban areas, to recruit employers to provide the 
+    work-based learning component, described in section 103, of School-
+    to-Work Opportunities programs; and
+        (4) assistance to States and local partnerships involved in 
+    carrying out School-to-Work Opportunities programs to design and 
+    implement school-sponsored enterprises.
+    SEC. 404. CAPACITY BUILDING AND INFORMATION AND DISSEMINATION 
+      NETWORK.
+    The Secretaries, acting through such mechanisms as the Capacity 
+Building and Information and Dissemination Network established under 
+section 453(b) of the Job Training Partnership Act (29 U.S.C. 1733(b)), 
+the Educational Resources Information Center Clearinghouses referred to 
+in the Educational Research, Development, Dissemination, and 
+Improvement Act of 1994, and the National Network for Curriculum 
+Coordination in Vocational and Technical Education under section 402(c) 
+of the Carl D. Perkins Vocational and Applied Technology Education Act 
+(20 U.S.C. 2402(c)), shall_
+        (1) collect and disseminate information_
+            (A) on successful School-to-Work Opportunities programs and 
+        innovative school- and work-based curricula;
+            (B) on research and evaluation conducted concerning school-
+        to-work activities;
+            (C) that will assist States and local partnerships in 
+        undertaking labor market analysis, surveys, or other activities 
+        related to economic development;
+            (D) on skill certificates, skill standards, and related 
+        assessment technologies; and
+            (E) on methods for recruiting and building the capacity of 
+        employers to provide work-based learning opportunities; and
+        (2) facilitate communication and the exchange of information 
+    and ideas among States and local partnerships carrying out School-
+    to-Work Opportunities programs.
+
+SEC. 405. REPORTS TO CONGRESS.
+
+    (a) In General._Not later than 24 months after the date of the 
+enactment of this Act, and every 12 months thereafter, the Secretaries 
+shall prepare and submit a report to the Congress on all activities 
+carried out pursuant to this Act.
+    (b) Contents._The Secretaries shall, at a minimum, include in each 
+such report_
+        (1) information concerning the programs that receive assistance 
+    under this Act;
+        (2) a summary of the information contained in the State and 
+    local partnership reports submitted under titles II and III and 
+    section 402(c); and
+        (3) information regarding the findings and actions taken as a 
+    result of any evaluation conducted by the Secretaries.
+
+SEC. 406. FUNDING.
+
+    The Secretaries shall use funds reserved under section 605(b)(4) to 
+carry out activities under this title.
+
+        TITLE V_WAIVER OF STATUTORY AND REGULATORY REQUIREMENTS
+
+    SEC. 501. STATE AND LOCAL PARTNERSHIP REQUESTS AND RESPONSIBILITIES 
+      FOR WAIVERS.
+    (a) State Request for Waiver._A State may submit to the Secretaries 
+a request for a waiver of 1 or more requirements of the provisions of 
+law referred to in sections 502 and 503, or of the regulations issued 
+under such provisions, in order to carry out the statewide School-to-
+Work Opportunities system established by such State under subtitle B of 
+title II. The State may submit the request as a part of the application 
+described in section 213 (or as an amendment to the application at any 
+time after submission of the application). Such request may include a 
+request for different waivers with respect to different areas within 
+the State.
+    (b) Local Partnership Request for Waiver._
+        (1) In general._A local partnership that seeks a waiver of such 
+    a requirement shall submit an application for such waiver to the 
+    State, and the State shall determine whether to submit a request 
+    for a waiver to the Secretaries, as provided in subsection (a).
+        (2) Time limit._
+            (A) In general._The State shall make a determination to 
+        submit or not submit the request for a waiver under paragraph 
+        (1) not later than 30 days after the date on which the State 
+        receives the application from the local partnership.
+            (B) Direct submission._
+                (i) In general._If the State does not make a 
+            determination to submit or not submit the request within 
+            the 30-day time period specified in subparagraph (A), the 
+            local partnership may submit the application to the 
+            Secretaries.
+                (ii) Requirements._In submitting such an application, 
+            the local partnership shall obtain the agreement of the 
+            State involved to comply with the requirements of section 
+            502(a)(1)(C) or 503(a)(1)(C), as appropriate, and comply 
+            with the other requirements of section 502 or 503, as 
+            appropriate, and of subsections (c) and (d), that would 
+            otherwise apply to a State submitting a request for a 
+            waiver. In reviewing such an application, the Secretaries 
+            shall comply with the requirements of such section and such 
+            subsections that would otherwise apply to the Secretaries 
+            with respect to review of such a request.
+    (c) Waiver Criteria._Any such request by the State shall meet the 
+criteria contained in section 502 or 503 and shall specify the 
+provisions or regulations referred to in such sections with respect to 
+which the State seeks a waiver.
+    (d) Support by Appropriate State Agencies._In requesting such a 
+waiver, the State shall provide evidence of support for the waiver 
+request by the State agencies or officials with jurisdiction over the 
+provisions or regulations that would be waived.
+    SEC. 502. WAIVER AUTHORITY OF SECRETARY OF EDUCATION.
+    (a) Waiver Authority._
+        (1) In general._Except as provided in subsection (c), the 
+    Secretary of Education may waive any requirement under any 
+    provision of law referred to in subsection (b), or of any 
+    regulation issued under such provision, for a State that requests 
+    such a waiver and has an approved State plan_
+            (A) if, and only to the extent that, the Secretary of 
+        Education determines that such requirement impedes the ability 
+        of the State or a local partnership to carry out the purposes 
+        of this Act;
+            (B) if the State provides the Secretary of Education with 
+        documentation of the necessity for the waiver, including 
+        information concerning_
+                (i) the specific requirement that will be waived;
+                (ii) the specific positive outcomes expected from the 
+            waiver and why those outcomes cannot be achieved while 
+            complying with the requirement;
+                (iii) the process that will be used to monitor the 
+            progress of the State or local partnership in implementing 
+            the waiver; and
+                (iv) such other information as the Secretary of 
+            Education may require;
+            (C) if the State waives, or agrees to waive, similar 
+        requirements of State law; and
+            (D) if the State_
+                (i) has provided all local partnerships that carry out 
+            programs under this Act, and local educational agencies 
+            participating in such a local partnership, in the State 
+            with notice and an opportunity to comment on the proposal 
+            of the State to seek a waiver;
+                (ii) provides, to the extent feasible, to students, 
+            parents, advocacy and civil rights groups, and labor and 
+            business organizations an opportunity to comment on the 
+            proposal of the State to seek a waiver; and
+                (iii) has submitted the comments of the local 
+            partnerships and local educational agencies to the 
+            Secretary of Education.
+        (2) Approval or disapproval._The Secretary of Education shall 
+    promptly approve or disapprove any request submitted pursuant to 
+    paragraph (1) and shall issue a decision that shall_
+            (A) include the reasons for approving or disapproving the 
+        request, including a response to comments on the proposal; and
+            (B) in the case of a decision to approve the request, be 
+        disseminated by the State seeking the waiver to interested 
+        parties, including educators, parents, students, advocacy and 
+        civil rights organizations, labor and business organizations, 
+        and the public.
+        (3) Approval criteria._In approving a request under paragraph 
+    (2), the Secretary of Education shall consider the amount of State 
+    resources that will be used to implement the approved State plan.
+        (4) Term._Each waiver approved pursuant to this subsection 
+    shall be for a period not to exceed 5 years, except that the 
+    Secretary of Education may extend such period if the Secretary of 
+    Education determines that the waiver has been effective in enabling 
+    the State or local partnership to carry out the purposes of this 
+    Act.
+    (b) Included Programs._The provisions subject to the waiver 
+authority of this section are_
+        (1) chapter 1 of title I of the Elementary and Secondary 
+    Education Act of 1965 (20 U.S.C. 2701 et seq.), including the Even 
+    Start programs carried out under part B of such chapter (20 U.S.C. 
+    2741 et seq.);
+        (2) part A of chapter 2 of title I of the Elementary and 
+    Secondary Education Act of 1965 (20 U.S.C. 2921 et seq.);
+        (3) part A of title II of the Elementary and Secondary 
+    Education Act of 1965 (20 U.S.C. 2981 et seq.);
+        (4) part D of title IV of the Elementary and Secondary 
+    Education Act of 1965 (20 U.S.C. 3121 et seq.);
+        (5) title V of the Elementary and Secondary Education Act of 
+    1965 (20 U.S.C. 3171 et seq.); and
+        (6) the Carl D. Perkins Vocational and Applied Technology 
+    Education Act (20 U.S.C. 2301 et seq.).
+    (c) Waivers Not Authorized._The Secretary of Education may not 
+waive any requirement of any provision referred to in subsection (b), 
+or of any regulation issued under such provision, relating to_
+        (1) the basic purposes or goals of such provision;
+        (2) maintenance of effort;
+        (3) comparability of services;
+        (4) the equitable participation of students attending private 
+    schools;
+        (5) student and parental participation and involvement;
+        (6) the distribution of funds to State or local educational 
+    agencies;
+        (7) the eligibility of an individual for participation in a 
+    program under such provision;
+        (8) public health or safety, labor standards, civil rights, 
+    occupational safety and health, or environmental protection; or
+        (9) prohibitions or restrictions relating to the construction 
+    of buildings or facilities.
+    (d) Termination of Waivers._The Secretary of Education shall 
+periodically review the performance of any State, local partnership, or 
+local educational agency, for which the Secretary of Education has 
+granted a waiver under this section and shall terminate the waiver 
+under this section if the Secretary of Education determines that the 
+performance of the State, local partnership, or local educational 
+agency that is affected by the waiver has been inadequate to justify a 
+continuation of the waiver, or the State fails to waive similar 
+requirements of State law as required or agreed to in accordance with 
+subsection (a)(1)(C).
+    SEC. 503. WAIVER AUTHORITY OF SECRETARY OF LABOR.
+    (a) Waiver Authority._
+        (1) In general._Except as provided in subsection (b), the 
+    Secretary of Labor may waive any requirement under any provision of 
+    the Job Training Partnership Act (29 U.S.C. 1501 et seq.), or of 
+    any regulation issued under such provision, for a State that 
+    requests such a waiver and has an approved State plan_
+            (A) if, and only to the extent that, the Secretary of Labor 
+        determines that such requirement impedes the ability of the 
+        State or a local partnership to carry out the purposes of this 
+        Act;
+            (B) if the State provides the Secretary of Labor with 
+        documentation of the necessity for the waiver, including 
+        information concerning_
+                (i) the specific requirement that will be waived;
+                (ii) the specific positive outcomes expected from the 
+            waiver and why those outcomes cannot be achieved while 
+            complying with the requirement;
+                (iii) the process that will be used to monitor the 
+            progress of the State or local partnership in implementing 
+            the waiver; and
+                (iv) such other information as the Secretary of Labor 
+            may require;
+            (C) if the State waives, or agrees to waive, similar 
+        requirements of State law; and
+            (D) if the State_
+                (i) has provided all local partnerships that carry out 
+            programs under this Act in the State with notice and an 
+            opportunity to comment on the proposal of the State to seek 
+            a waiver;
+                (ii) provides, to the extent feasible, to students, 
+            parents, advocacy and civil rights groups, and labor and 
+            business organizations an opportunity to comment on the 
+            proposal of the State to seek a waiver; and
+                (iii) has submitted the comments of the local 
+            partnerships to the Secretary of Labor.
+        (2) Approval or disapproval._The Secretary of Labor shall 
+    promptly approve or disapprove any request submitted pursuant to 
+    paragraph (1) and shall issue a decision that shall_
+            (A) include the reasons for approving or disapproving the 
+        request, including a response to comments on the proposal; and
+            (B) in the case of a decision to approve the request, be 
+        disseminated by the State seeking the waiver to interested 
+        parties, including educators, parents, students, advocacy and 
+        civil rights organizations, labor and business organizations, 
+        and the public.
+        (3) Approval criteria._In approving a request under paragraph 
+    (2), the Secretary of Labor shall consider the amount of State 
+    resources that will be used to implement the approved State plan.
+        (4) Term._Each waiver approved pursuant to this subsection 
+    shall be for a period not to exceed 5 years, except that the 
+    Secretary of Labor may extend such period if the Secretary of Labor 
+    determines that the waiver has been effective in enabling the State 
+    or local partnership to carry out the purposes of this Act.
+    (b) Waivers Not Authorized._The Secretary of Labor may not waive 
+any requirement under any provision of the Job Training Partnership Act 
+(29 U.S.C. 1501 et seq.), or of any regulation issued under such 
+provision, relating to_
+        (1) the basic purposes or goals of such provision;
+        (2) maintenance of effort;
+        (3) the distribution of funds;
+        (4) the eligibility of an individual for participation in a 
+    program under such provision;
+        (5) public health or safety, labor standards, civil rights, 
+    occupational safety and health, or environmental protection; or
+        (6) prohibitions or restrictions relating to the construction 
+    of buildings or facilities.
+    (c) Termination of Waivers._The Secretary of Labor shall 
+periodically review the performance of any State or local partnership 
+for which the Secretary of Labor has granted a waiver under this 
+section and shall terminate the waiver under this section if the 
+Secretary of Labor determines that the performance of the State or 
+local partnership affected by the waiver has been inadequate to justify 
+a continuation of the waiver, or the State fails to waive similar 
+requirements of State law as required or agreed to in accordance with 
+subsection (a)(1)(C).
+    SEC. 504. COMBINATION OF FEDERAL FUNDS FOR HIGH POVERTY SCHOOLS.
+    (a) In General._
+        (1) Purposes._The purposes of this section are_
+            (A) to integrate activities under this Act with school-to-
+        work activities carried out under other Acts; and
+            (B) to maximize the effective use of resources.
+        (2) Combination of funds._To carry out such purposes, a local 
+    partnership that receives assistance under title II or III may 
+    carry out schoolwide school-to-work activities in schools that meet 
+    the requirements of subparagraphs (A) and (B) of section 263(g)(1) 
+    of the Job Training Partnership Act (29 U.S.C. 1643(g)(1) (A) and 
+    (B)) with funds obtained by combining_
+            (A) Federal funds under this Act; and
+            (B) other Federal funds made available from among programs 
+        under_
+                (i) the provisions of law listed in paragraphs (2) 
+            through (6) of section 502(b); and
+                (ii) the Job Training Partnership Act (29 U.S.C. 1501 
+            et seq.).
+    (b) Use of Funds._A local partnership may use the Federal funds 
+combined under subsection (a) under the requirements of this Act, 
+except that the provisions relating to the matters specified in 
+paragraphs (1) through (6) and paragraphs (8) and (9) of section 
+502(c), and paragraphs (1) through (3) and paragraphs (5) and (6) of 
+section 503(b), that relate to the program through which the funds 
+described in subsection (a)(2)(B) were made available, shall remain in 
+effect with respect to the use of such funds.
+    (c) Additional Information in Application._A local partnership 
+seeking to combine funds under subsection (a) shall include in the 
+application of the local partnership under title II or III_
+        (1) a description of the funds the local partnership proposes 
+    to combine under the requirements of this Act;
+        (2) the activities to be carried out with such funds;
+        (3) the specific outcomes expected of participants in 
+    schoolwide school-to-work activities; and
+        (4) such other information as the State, or Secretaries, as the 
+    case may be, may require.
+    (d) Provision of Information._The local partnership shall, to the 
+extent feasible, provide information on the proposed combination of 
+Federal funds under subsection (a) to educators, parents, students, 
+advocacy and civil rights organizations, labor and business 
+organizations, and the public.
+    SEC. 505. COMBINATION OF FEDERAL FUNDS BY STATES FOR SCHOOL-TO-WORK 
+      ACTIVITIES.
+    (a) In General._
+        (1) Purposes._The purposes of this section are_
+            (A) to integrate activities under this Act with State 
+        school-to-work activities carried out under other Acts; and
+            (B) to maximize the effective use of resources.
+        (2) Combination of funds._To carry out such purposes, a State 
+    that has an approved State plan may carry out activities necessary 
+    to develop and implement a statewide School-to-Work Opportunities 
+    system with funds obtained by combining_
+            (A) Federal funds under this Act; and
+            (B) other Federal funds that are made available under_
+                (i) section 102(a)(3) of the Carl D. Perkins Vocational 
+            Education and Applied Technology Education Act (20 U.S.C. 
+            2312(a)(3));
+                (ii) section 202(c)(1)(C) or section 262(c)(1)(C) of 
+            the Job Training Partnership Act (29 U.S.C. 1602(c)(1)(C) 
+            or 1642(c)(1)(C));
+                (iii) section 202(c)(1)(B) of the Job Training 
+            Partnership Act that would otherwise be available for the 
+            purposes described in section 202(c)(3) of such Act; or
+                (iv) section 262(c)(1)(B) of the Job Training 
+            Partnership Act that would otherwise be available for the 
+            purposes described in section 262(c)(3) of such Act.
+    (b) Use of Funds._A State may use, under the requirements of this 
+Act, Federal funds that are made available to the State and combined 
+under subsection (a) to carry out school-to-work activities, except 
+that the provisions relating to the matters specified in section 
+502(c), and section 503(b), that relate to the program through which 
+the funds described in subsection (a)(2)(B) were made available, shall 
+remain in effect with respect to the use of such funds.
+    (c) Additional Information in Application._A State seeking to 
+combine funds under subsection (a) shall include in the application 
+described in section 213_
+        (1) a description of the funds the State proposes to combine 
+    under the requirements of this Act;
+        (2) the activities to be carried out with such funds;
+        (3) the specific outcomes expected of participants in school-
+    to-work activities;
+        (4) formal evidence of support for the request by the State 
+    agencies or officials with jurisdiction over the funds that would 
+    be combined; and
+        (5) such other information as the Secretaries may require.
+    (d) Extension._The authority of a State to combine funds under this 
+section shall not exceed 5 years, except that the Secretaries may 
+extend such period if the Secretaries determine that an extension of 
+such authority would further the purposes of this Act.
+    (e) Limitation._Nothing in this section shall be construed to 
+relieve a State of an obligation to conduct the activities required 
+under section 201(b) of the Carl D. Perkins Vocational Education and 
+Applied Technology Education Act.
+
+                      TITLE VI_GENERAL PROVISIONS
+
+SEC. 601. REQUIREMENTS.
+
+    The following requirements shall apply to programs under this Act:
+        (1) Prohibition on displacement._No student participating in 
+    such a program shall displace any currently employed worker 
+    (including a partial displacement, such as a reduction in the hours 
+    of nonovertime work, wages, or employment benefits).
+        (2) Prohibition on impairment of contracts._No such program 
+    shall impair existing contracts for services or collective 
+    bargaining agreements, and no such program that would be 
+    inconsistent with the terms of a collective bargaining agreement 
+    shall be undertaken without the written concurrence of the labor 
+    organization and employer concerned.
+        (3) Prohibition on replacement._No student participating in 
+    such a program shall be employed or fill a job_
+            (A) when any other individual is on temporary layoff, with 
+        the clear possibility of recall, from the same or any 
+        substantially equivalent job with the participating employer; 
+        or
+            (B) when the employer has terminated the employment of any 
+        regular employee or otherwise reduced the workforce of the 
+        employer with the intention of filling the vacancy so created 
+        with the student.
+        (4) Workplaces._Students participating in such programs shall 
+    be provided with adequate and safe equipment and safe and healthful 
+    workplaces in conformity with all health and safety requirements of 
+    Federal, State, and local law.
+        (5) Effect on other laws._Nothing in this Act shall be 
+    construed to modify or affect any Federal or State law prohibiting 
+    discrimination on the basis of race, religion, color, ethnicity, 
+    national origin, gender, age, or disability, or to modify or affect 
+    any right to enforcement of this Act that may exist under other 
+    Federal laws, except as expressly provided by this Act.
+        (6) Prohibition concerning wages._Funds appropriated under 
+    authority of this Act shall not be expended for wages of students 
+    or workplace mentors participating in such programs.
+        (7) Other requirements._The Secretaries shall establish such 
+    other requirements as the Secretaries may determine to be 
+    appropriate, in order to ensure that participants in programs under 
+    this Act are afforded adequate supervision by skilled adult 
+    workers, or to otherwise further the purposes of this Act.
+
+SEC. 602. SANCTIONS.
+
+    (a) Termination or Suspension of Assistance._
+        (1) In general._The Secretaries may terminate or suspend any 
+    financial assistance under this Act, in whole or in part, or not 
+    make payments under a grant awarded under this Act, if the 
+    Secretaries determine that a recipient has failed to meet any 
+    requirements of this Act, including_
+            (A) reporting requirements under section 402(c);
+            (B) regulations under this Act; or
+            (C) requirements of an approved State plan.
+        (2) Notice and opportunity for hearing._If the Secretaries 
+    terminate or suspend such financial assistance, or do not make such 
+    payments under paragraph (1), with respect to a recipient, then the 
+    Secretaries shall provide_
+            (A) prompt notice to such recipient; and
+            (B) the opportunity for a hearing to such recipient not 
+        later than 30 days after the date on which such notice is 
+        provided.
+    (b) Nondelegation._The Secretaries shall not delegate any of the 
+functions or authority specified in this section, other than to an 
+officer whose appointment is required to be made by and with the advice 
+and consent of the Senate.
+
+SEC. 603. STATE AUTHORITY.
+
+    Nothing in this Act shall be construed to negate or supersede the 
+legal authority, under State law or other applicable law, of any State 
+agency, State entity, or State public official over programs that are 
+under the jurisdiction of the agency, entity, or official. Nothing in 
+this Act shall be construed to interfere with the authority of such 
+agency, entity, or official to enter into a contract under any 
+provision of law.
+    SEC. 604. PROHIBITION ON FEDERAL MANDATES, DIRECTION, AND CONTROL.
+    Nothing in this Act shall be construed to authorize an officer or 
+employee of the Federal Government to mandate, direct, or control a 
+State's, local educational agency's, or school's curriculum, program of 
+instruction, or allocation of State or local resources or mandate a 
+State or any subdivision thereof to spend any funds or incur any costs 
+not paid for under this Act.
+
+SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General._There are authorized to be appropriated to the 
+Secretaries to carry out this Act $300,000,000 for fiscal year 1995 and 
+such sums as may be necessary for each of the fiscal years 1996 through 
+1999.
+    (b) Reservations._From amounts appropriated under subsection (a) 
+for any fiscal year, the Secretaries_
+        (1) shall reserve not more than \1/2\ of 1 percent of such 
+    amounts for such fiscal year to provide grants under sections 202 
+    and 212 to the jurisdictions described in section 202(b);
+        (2) shall reserve not more than \1/2\ of 1 percent of such 
+    amounts for such fiscal year to provide grants under subtitle C of 
+    title II to establish and carry out School-to-Work Opportunities 
+    programs for Indian youths that involve Bureau funded schools (as 
+    defined in section 1139(3) of the Education Amendments of 1978 (25 
+    U.S.C. 2019(3)));
+        (3) shall reserve 10 percent of such amounts for such fiscal 
+    year to provide grants under section 302(b) to local partnerships 
+    located in high poverty areas, which reserved funds may be used in 
+    conjunction with funds available under the Youth Fair Chance 
+    Program set forth in part H of title IV of the Job Training 
+    Partnership Act (29 U.S.C. 1782 et seq.); and
+        (4)(A) shall reserve 2.5 percent of such amounts for such 
+    fiscal year to carry out section 404; and
+        (B) shall reserve not more than an additional 5 percent of such 
+    amounts for such fiscal year to carry out other activities under 
+    title IV, and activities under sections 214(d) and 303(d).
+    (c) Availability of Funds._Funds appropriated for any fiscal year 
+for programs authorized under this Act shall remain available until 
+expended.
+
+                        TITLE VII_OTHER PROGRAMS
+      Subtitle A_Reauthorization of Job Training for the Homeless 
+Demonstration Program Under the Stewart B. McKinney Homeless Assistance 
+                                  Act
+
+SEC. 701. REAUTHORIZATION.
+
+    (a) In General._Section 739(a) of the Stewart B. McKinney Homeless 
+Assistance Act (42 U.S.C. 11449(a)) is amended by striking ``the 
+following amounts:'' and all that follows and inserting ``such sums as 
+may be necessary for each of the fiscal years 1994 and 1995.''.
+    (b) Conforming Amendment._Section 741 of the Stewart B. McKinney 
+Homeless Assistance Act (42 U.S.C. 11450) is amended by striking 
+``1993'' and inserting ``1995''.
+
+                     Subtitle B_Tech-Prep Programs
+
+SEC. 711. TECH-PREP EDUCATION.
+
+    (a) Contents of Program._Section 344(b)(2) of the Tech-Prep 
+Education Act (20 U.S.C. 2394b(b)(2)) is amended by inserting ``or 4 
+years'' before ``of secondary school''.
+    (b) Special Consideration; Priority._Section 345(d)(2) of the Tech-
+Prep Education Act (20 U.S.C. 2394c(d)(2)) is amended to read as 
+follows:
+        ``(2) are developed in consultation with business, industry, 
+    labor unions, and institutions of higher education that award 
+    baccalaureate degrees; and''.
+
+                Subtitle C_Alaska Native Art and Culture
+
+SEC. 721. SHORT TITLE.
+
+    This title may be cited as the ``Alaska Native Culture and Arts 
+Development Act''.
+
+SEC. 722. ALASKA NATIVE ART AND CULTURE.
+
+    Part B of title XV of the Higher Education Amendments of 1986 (20 
+U.S.C. 4441 et seq.) is amended_
+        (1) in the part heading, to read as follows:
+
+            ``Part B_Native Hawaiians and Alaska Natives'';
+
+    and
+        (2) in section 1521, to read as follows:
+``SEC. 1521. PROGRAM FOR NATIVE HAWAIIAN AND ALASKA NATIVE CULTURE AND 
+ARTS DEVELOPMENT.
+    ``(a) In General._The Secretary of the Interior is authorized to 
+make grants for the purpose of supporting programs for Native Hawaiian 
+or Alaska Native culture and arts development to any private, nonprofit 
+organization or institution which_
+        ``(1) primarily serves and represents Native Hawaiians or 
+    Alaska Natives, and
+        ``(2) has been recognized by the Governor of the State of 
+    Hawaii or the Governor of the State of Alaska, as appropriate, for 
+    the purpose of making such organization or institution eligible to 
+    receive such grants.
+    ``(b) Purpose of Grants._Grants made under subsection (a) shall, to 
+the extent deemed possible by the Secretary and the recipient of the 
+grant, be used_
+        ``(1) to provide scholarly study of, and instruction in, Native 
+    Hawaiian or Alaska Native art and culture,
+        ``(2) to establish programs which culminate in the awarding of 
+    degrees in the various fields of Native Hawaiian or Alaska Native 
+    art and culture, or
+        ``(3) to establish centers and programs with respect to Native 
+    Hawaiian or Alaska Native art and culture that are similar in 
+    purpose to the centers and programs described in subsections (b) 
+    and (c) of section 1510.
+    ``(c) Management of Grants._
+        ``(1) Any organization or institution which is the recipient of 
+    a grant made under subsection (a) shall establish a governing board 
+    to manage and control the program with respect to which such grant 
+    is made.
+        ``(2) For any grants made with respect to Native Hawaiian art 
+    and culture, the members of the governing board which is required 
+    to be established under paragraph (1) shall_
+            ``(A) be Native Hawaiians or individuals widely recognized 
+        in the field of Native Hawaiian art and culture,
+            ``(B) include a representative of the Office of Hawaiian 
+        Affairs of the State of Hawaii,
+            ``(C) include the president of the University of Hawaii,
+            ``(D) include the president of the Bishop Museum, and
+            ``(E) serve for a fixed term of office.
+        ``(3) For any grants made with respect to Alaska Native art and 
+    culture, the members of the governing board which is required to be 
+    established under paragraph (1) shall_
+            ``(A) include Alaska Natives and individuals widely 
+        recognized in the field of Alaska Native art and culture,
+            ``(B) represent the Eskimo, Indian and Aleut cultures of 
+        Alaska, and
+            ``(C) serve for a fixed term.''.
+
+                        Subtitle D_Job Training
+
+    SEC. 731. AMENDMENT TO JOB TRAINING PARTNERSHIP ACT TO PROVIDE 
+      ALLOWANCES FOR CHILD CARE COSTS TO CERTAIN INDIVIDUALS 
+      PARTICIPATING IN THE JOB CORPS.
+    Section 429 of the Job Training Partnership Act (29 U.S.C. 1699) is 
+amended by adding at the end the following new subsection:
+    ``(e) In addition to child care assistance provided under section 
+428(e), the Secretary shall provide enrollees who otherwise could not 
+participate in the Job Corps with allowances to pay for child care 
+costs, such as food, clothing, and health care for the child. 
+Allowances under this subsection may only be provided during the first 
+2 months of an enrollee's participation in the program and shall be in 
+an amount that does not exceed the maximum amount that may be provided 
+by the State pursuant to section 402(g)(1)(C) of the Social Security 
+Act (42 U.S.C. 602(g)(1)(C)).''.
+
+                    TITLE VIII_TECHNICAL PROVISIONS
+
+SEC. 801. EFFECTIVE DATE.
+
+    This Act shall take effect on the date of enactment of this Act.
+
+SEC. 802. SUNSET.
+
+    The authority provided by this Act shall terminate on October 1, 
+2001.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

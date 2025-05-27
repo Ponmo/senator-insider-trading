@@ -1,0 +1,915 @@
+--S.20--
+S.20
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To amend title 5, United States Code, to strengthen the protections available
+to Federal employees against prohibited personnel practices, and for other
+purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Whistleblower Protection Act of 1989'.
+SEC. 2. FINDINGS AND PURPOSE.
+ (a) FINDINGS- The Congress finds that--
+ (1) Federal employees who make disclosures described in section 2302(b)(8)
+ of title 5, United States Code, serve the public interest by assisting in the
+ elimination of fraud, waste, abuse, and unnecessary Government expenditures;
+ (2) protecting employees who disclose Government illegality, waste, and
+ corruption is a major step toward a more effective civil service; and
+ (3) in passing the Civil Service Reform Act of 1978, Congress established
+ the Office of Special Counsel to protect whistleblowers (those individuals
+ who make disclosures described in such section 2302(b)(8)) from reprisal.
+ (b) PURPOSE- The purpose of this Act is to strengthen and improve protection
+ for the rights of Federal employees, to prevent reprisals, and to help
+ eliminate wrongdoing within the Government by--
+ (1) mandating that employees should not suffer adverse consequences as a
+ result of prohibited personnel practices; and
+ (2) establishing--
+ (A) that the primary role of the Office of Special Counsel is to protect
+ employees, especially whistleblowers, from prohibited personnel practices;
+ (B) that the Office of Special Counsel shall act in the interests of
+ employees who seek assistance from the Office of Special Counsel; and
+ (C) that while disciplining those who commit prohibited personnel practices
+ may be used as a means by which to help accomplish that goal, the protection
+ of individuals who are the subject of prohibited personnel practices remains
+ the paramount consideration.
+SEC. 3. MERIT SYSTEMS PROTECTION BOARD; OFFICE OF SPECIAL COUNSEL; INDIVIDUAL
+RIGHT OF ACTION.
+ (a) MERIT SYSTEMS PROTECTION BOARD- Chapter 12 of title 5, United States
+ Code is amended--
+ (1) in section 1201 in the second sentence by striking out `Chairman and';
+ (2) in the heading for section 1202 by striking out the comma and inserting
+ in lieu thereof a semicolon;
+ (3) in section 1202(b)--
+ (A) in the first sentence by striking out `his' and inserting in lieu thereof
+ `the member's'; and
+ (B) in the second sentence by striking out `of this title';
+ (4) in section 1203(a) in the first sentence by striking out the comma after
+ `time';
+ (5) in section 1203(c) by striking out `the Chairman and Vice Chairman'
+ and inserting in lieu thereof `the Chairman and the Vice Chairman';
+ (6) by redesignating section 1204 as section 1211(b) and inserting such
+ subsection after section 1211(a) (as added in paragraph (11) of this
+ subsection);
+ (7) by redesignating section 1205 as section 1204, and amending such
+ redesignated section--
+ (A) by striking out `and Special Counsel', `the Special Counsel,' and
+ `of this section' each place such terms appear;
+ (B) by striking out `subpena' and `subpenaed' each place such terms appear
+ and inserting in lieu thereof `subpoena' and `subpoenaed', respectively;
+ (C) in subsection (a)(4) by striking out `(e)' and inserting in lieu thereof
+ `(f)';
+ (D) by amending subsection (b)(2) to read as follows:
+ `(2) Any member of the Board, any administrative law judge appointed by
+ the Board under section 3105, and any employee of the Board designated by
+ the Board may, with respect to any individual--
+ `(A) issue subpoenas requiring the attendance and presentation of testimony
+ of any such individual, and the production of documentary or other evidence
+ from any place in the United States, any territory or possession of the United
+ States, the Commonwealth of Puerto Rico, or the District of Columbia; and
+ `(B) order the taking of depositions from, and responses to written
+ interrogatories by, any such individual.';
+ (E) in subsection (c) in the first sentence--
+ (i) by striking out `(b)(2) of this section,' and inserting in lieu thereof
+ `(b)(2)(A) or section 1214(b), upon application by the Board,'; and
+ (ii) by striking out `judicial';
+ (F) by redesignating subsections (d) through (k) as subsections (e) through
+ (l), respectively, and inserting after subsection (c) the following new
+ subsection:
+ `(d) A subpoena referred to in subsection (b)(2)(A) may, in the case of any
+ individual outside the territorial jurisdiction of any court of the United
+ States, be served in such manner as the Federal Rules of Civil Procedure
+ prescribe for service of a subpoena in a foreign country. To the extent
+ that the courts of the United States can assert jurisdiction over such
+ individual, the United States District Court for the District of Columbia
+ shall have the same jurisdiction to take any action respecting compliance
+ under this subsection by such individual that such court would have if such
+ individual were personally within the jurisdiction of such court.';
+ (G) in subsection (e) (as redesignated by subparagraph (F) of this
+ paragraph)--
+ (i) in paragraph (1)--
+ (I) by redesignating such paragraph as subparagraph (A) of paragraph (1); and
+ (II) by inserting at the end thereof the following new subparagraph:
+ `(B)(i) The Merit Systems Protection Board may, during an investigation by
+ the Office of Special Counsel or during the pendency of any proceeding before
+ the Board, issue any order which may be necessary to protect a witness or
+ other individual from harassment, except that an agency (other than the
+ Office of Special Counsel) may not request any such order with regard to
+ an investigation by the Office of Special Counsel from the Board during
+ such investigation.
+ `(ii) An order issued under this subparagraph may be enforced in the same
+ manner as provided for under paragraph (2) with respect to any order under
+ subsection (a)(2).';
+ (ii) in paragraph (2)--
+ (I) by redesignating such paragraph as subparagraph (A) of paragraph (2)
+ and striking out `of this section' in the first sentence therein; and
+ (II) by inserting at the end thereof the following new subparagraph (B):
+ `(B) The Board shall prescribe regulations under which any employee who is
+ aggrieved by the failure of any other employee to comply with an order of
+ the Board may petition the Board to exercise its authority under subparagraph
+ (A).'; and
+ (iii) in paragraph (3) by inserting `of Personnel Management' after `Office';
+ (H) in subsection (f) (as redesignated by subparagraph (F) of this
+ paragraph)--
+ (i) in paragraph (1) in the first sentence by inserting `of the Office of
+ Personnel Management' after `Director', and by striking out `of this title';
+ (ii) in paragraph (2)--
+ (I) in the first sentence by inserting a comma after `subsection';
+ (II) in subparagraph (A) by striking out `of this title'; and
+ (III) in subparagraph (B) by striking out `of this title'; and
+ (iii) in paragraph (3)--
+ (I) in subparagraph (A) by striking out `(A)';
+ (II) by striking out subparagraph (B); and
+ (III) by redesignating subparagraph (C) and clauses (i) and (ii) therein
+ as paragraph (4) and subparagraphs (A) and (B), respectively; and
+ (I) in subsection (j) (as redesignated by subparagraph (F) of this paragraph)
+ in the second sentence by striking out `of this title' after `chapter 33';
+ (8) by striking out sections 1206 through 1208;
+ (9) by redesignating section 1209(a) as section 1205, and inserting before
+ such section the following section heading:
+`Sec. 1205. Transmittal of information to Congress';
+ (10) by redesignating section 1209(b) as section 1206, and inserting before
+ such section the following section heading:
+`Sec. 1206. Annual report';
+ (11) by inserting after section 1206 (as redesignated in paragraph (10)
+ of this subsection) the following:
+`SUBCHAPTER II--OFFICE OF SPECIAL COUNSEL
+`Sec. 1211. Establishment
+ `(a) There is established the Office of Special Counsel, which shall be headed
+ by the Special Counsel. The Office shall have an official seal which shall be
+ judicially noticed. The Office shall have its principal office in the District
+ of Columbia and shall have field offices in other appropriate locations.';
+ (12) by amending section 1211(b) (as redesignated and inserted by paragraph
+ (6) of this subsection)--
+ (A) in the first sentence by striking out `of the Merit Systems Protection
+ Board' and `from attorneys';
+ (B) by striking the second sentence and inserting in lieu thereof `The
+ Special Counsel shall be an attorney who, by demonstrated ability, background,
+ training, or experience, is especially qualified to carry out the functions
+ of the position. A Special Counsel appointed to fill a vacancy occurring
+ before the end of a term of office of the Special Counsel's predecessor
+ serves for the remainder of the term.'; and
+ (C) by adding at the end thereof `The Special Counsel may not hold another
+ office or position in the Government of the United States, except as
+ otherwise provided by law or at the direction of the President.'; and
+ (13) inserting after section 1211 the following:
+`Sec. 1212. Powers and functions of the Office of Special Counsel
+ `(a) The Office of Special Counsel shall--
+ `(1) in accordance with section 1214(a) and other applicable provisions of
+ this subchapter, protect employees, former employees, and applicants for
+ employment from prohibited personnel practices;
+ `(2) receive and investigate allegations of prohibited personnel practices,
+ and, where appropriate--
+ `(A) bring petitions for stays, and petitions for corrective action, under
+ section 1214; and
+ `(B) file a complaint or make recommendations for disciplinary action under
+ section 1215;
+ `(3) receive, review, and, where appropriate, forward to the Attorney General
+ or an agency head under section 1213, disclosures of violations of any law,
+ rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse
+ of authority, or a substantial and specific danger to public health or safety;
+ `(4) review rules and regulations issued by the Director of the Office of
+ Personnel Management in carrying out functions under section 1103 and,
+ where the Special Counsel finds that any such rule or regulation would,
+ on its face or as implemented, require the commission of a prohibited
+ personnel practice, file a written complaint with the Board; and
+ `(5) investigate and, where appropriate, bring actions concerning allegations
+ of violations of other laws within the jurisdiction of the Office of Special
+ Counsel (as referred to in section 1216).
+ `(b)(1) The Special Counsel and any employee of the Office of Special Counsel
+ designated by the Special Counsel may administer oaths, examine witnesses,
+ take depositions, and receive evidence.
+ `(2) The Special Counsel may--
+ `(A) issue subpoenas; and
+ `(B) order the taking of depositions and order responses to written
+ interrogatories;
+in the same manner as provided under section 1204.
+ `(3)(A) In the case of contumacy or failure to obey a subpoena issued
+ under paragraph (2)(A), the Special Counsel may apply to the Merit Systems
+ Protection Board to enforce the subpoena in court pursuant to section 1204(c).
+ `(B) A subpoena under paragraph (2)(A) may, in the case of any individual
+ outside the territorial jurisdiction of any court of the United States, be
+ served in the manner referred to in subsection (d) of section 1204, and the
+ United States District Court for the District of Columbia may, with respect
+ to any such individual, compel compliance in accordance with such subsection.
+ `(4) Witnesses (whether appearing voluntarily or under subpoena) shall be
+ paid the same fee and mileage allowances which are paid subpoenaed witnesses
+ in the courts of the United States.
+ `(c)(1) Except as provided in paragraph (2), the Special Counsel may as a
+ matter of right intervene or otherwise participate in any proceeding before
+ the Merit Systems Protection Board, except that the Special Counsel shall
+ comply with the rules of the Board.
+ `(2) The Special Counsel may not intervene in an action brought by an
+ individual under section 1221, or in an appeal brought by an individual
+ under section 7701, without the consent of such individual.
+ `(d)(1) The Special Counsel may appoint the legal, administrative, and
+ support personnel necessary to perform the functions of the Special Counsel.
+ `(2) Any appointment made under this subsection shall be made in accordance
+ with the provisions of this title, except that such appointment shall
+ not be subject to the approval or supervision of the Office of Personnel
+ Management or the Executive Office of the President (other than approval
+ required under section 3324 or subchapter VIII of chapter 33).
+ `(e) The Special Counsel may prescribe such regulations as may be necessary
+ to perform the functions of the Special Counsel. Such regulations shall be
+ published in the Federal Register.
+ `(f) The Special Counsel may not issue any advisory opinion concerning any
+ law, rule, or regulation (other than an advisory opinion concerning chapter
+ 15 or subchapter III of chapter 73).
+ `(g)(1) The Special Counsel may not respond to any inquiry or provide
+ information concerning any person making an allegation under section 1214(a),
+ except in accordance with the provisions of section 552a of title 5, United
+ States Code, or as required by any other applicable Federal law.
+ `(2) Notwithstanding the exception under paragraph (1), the Special Counsel
+ may not respond to any inquiry concerning a matter described in subparagraph
+ (A) or (B) of section 2302(b)(2) in connection with a person described in
+ paragraph (1)--
+ `(A) unless the consent of the individual as to whom the information pertains
+ is obtained in advance; or
+ `(B) except upon request of an agency which requires such information in
+ order to make a determination concerning an individual's having access to
+ the information unauthorized disclosure of which could be expected to cause
+ exceptionally grave damage to the national security.
+`Sec. 1213. Provisions relating to disclosures of violations of law, gross
+mismanagement, and certain other matters
+ `(a) This section applies with respect to--
+ `(1) any disclosure of information by an employee, former employee, or
+ applicant for employment which the employee, former employee, or applicant
+ reasonably believes evidences--
+ `(A) a violation of any law, rule, or regulation; or
+ `(B) gross mismanagement, a gross waste of funds, an abuse of authority,
+ or a substantial and specific danger to public health or safety;
+if such disclosure is not specifically prohibited by law and if such
+information is not specifically required by Executive order to be kept secret
+in the interest of national defense or the conduct of foreign affairs; and
+ `(2) any disclosure by an employee, former employee, or applicant for
+ employment to the Special Counsel or to the Inspector General of an agency
+ or another employee designated by the head of the agency to receive such
+ disclosures of information which the employee, former employee, or applicant
+ reasonably believes evidences--
+ `(A) a violation of any law, rule, or regulation; or
+ `(B) gross mismanagement, a gross waste of funds, an abuse of authority,
+ or a substantial and specific danger to public health or safety.
+ `(b) Whenever the Special Counsel receives information of a type described
+ in subsection (a) of this section, the Special Counsel shall review such
+ information and, within 15 days after receiving the information, determine
+ whether there is a substantial likelihood that the information discloses
+ a violation of any law, rule, or regulation, or gross mismanagement, gross
+ waste of funds, abuse of authority, or substantial and specific danger to
+ public health and safety.
+ `(c)(1) Subject to paragraph (2), if the Special Counsel makes a positive
+ determination under subsection (b) of this section, the Special Counsel shall
+ promptly transmit the information with respect to which the determination
+ was made to the appropriate agency head and require that the agency head--
+ `(A) conduct an investigation with respect to the information and any
+ related matters transmitted by the Special Counsel to the agency head; and
+ `(B) submit a written report setting forth the findings of the agency head
+ within 60 days after the date on which the information is transmitted to
+ the agency head or within any longer period of time agreed to in writing
+ by the Special Counsel.
+ `(2) The Special Counsel may require an agency head to conduct an
+ investigation and submit a written report under paragraph (1) only if the
+ information was transmitted to the Special Counsel by--
+ `(A) an employee, former employee, or applicant for employment in the agency
+ which the information concerns; or
+ `(B) an employee who obtained the information in connection with the
+ performance of the employee's duties and responsibilities.
+ `(d) Any report required under subsection (c) shall be reviewed and signed
+ by the head of the agency and shall include--
+ `(1) a summary of the information with respect to which the investigation
+ was initiated;
+ `(2) a description of the conduct of the investigation;
+ `(3) a summary of any evidence obtained from the investigation;
+ `(4) a listing of any violation or apparent violation of any law, rule,
+ or regulation; and
+ `(5) a description of any action taken or planned as a result of the
+ investigation, such as--
+ `(A) changes in agency rules, regulations, or practices;
+ `(B) the restoration of any aggrieved employee;
+ `(C) disciplinary action against any employee; and
+ `(D) referral to the Attorney General of any evidence of a criminal violation.
+ `(e)(1) Any such report shall be submitted to the Special Counsel, and the
+ Special Counsel shall transmit a copy to the complainant, except as provided
+ under subsection (f) of this section. The complainant may submit comments to
+ the Special Counsel on the agency report within 15 days of having received
+ a copy of the report.
+ `(2) Upon receipt of any report of the head of an agency required under
+ subsection (c) of this section, the Special Counsel shall review the report
+ and determine whether--
+ `(A) the findings of the head of the agency appear reasonable; and
+ `(B) the report of the agency under subsection (c)(1) of this section
+ contains the information required under subsection (d) of this section.
+ `(3) The Special Counsel shall transmit any agency report received
+ pursuant to subsection (c) of this section, any comments provided by the
+ complainant pursuant to subsection (e)(1), and any appropriate comments or
+ recommendations by the Special Counsel to the President, the congressional
+ committees with jurisdiction over the agency which the disclosure involves,
+ and the Comptroller General.
+ `(4) Whenever the Special Counsel does not receive the report of the agency
+ within the time prescribed in subsection (c)(2) of this section, the Special
+ Counsel shall transmit a copy of the information which was transmitted to the
+ agency head to the President, the congressional committees with jurisdiction
+ over the agency which the disclosure involves, and the Comptroller General
+ together with a statement noting the failure of the head of the agency to
+ file the required report.
+ `(f) In any case in which evidence of a criminal violation obtained by an
+ agency in an investigation under subsection (c) of this section is referred
+ to the Attorney General--
+ `(1) the report shall not be transmitted to the complainant; and
+ `(2) the agency shall notify the Office of Personnel Management and the
+ Office of Management and Budget of the referral.
+ `(g)(1) If the Special Counsel receives information of a type described
+ in subsection (a) from an individual other than an individual described
+ in subparagraph (A) or (B) of subsection (c)(2), the Special Counsel may
+ transmit the information to the head of the agency which the information
+ concerns. The head of such agency shall, within a reasonable time after
+ the information is transmitted, inform the Special Counsel in writing
+ of what action has been or is being taken and when such action shall be
+ completed. The Special Counsel shall inform the individual of the report of
+ the agency head. If the Special Counsel does not transmit the information
+ to the head of the agency, the Special Counsel shall return any documents
+ and other matter provided by the individual who made the disclosure.
+ `(2) If the Special Counsel receives information of a type described in
+ subsection (a) from an individual described in subparagraph (A) or (B)
+ of subsection (c)(2), but does not make a positive determination under
+ subsection (b), the Special Counsel may transmit the information to the head
+ of the agency which the information concerns, except that the information
+ may not be transmitted to the head of the agency without the consent of the
+ individual. The head of such agency shall, within a reasonable time after
+ the information is transmitted, inform the Special Counsel in writing of what
+ action has been or is being taken and when such action will be completed. The
+ Special Counsel shall inform the individual of the report of the agency head.
+ `(3) If the Special Counsel does not transmit the information to the head
+ of the agency under paragraph (2), the Special Counsel shall--
+ `(A) return any documents and other matter provided by the individual who
+ made the disclosure; and
+ `(B) inform the individual of--
+ `(i) the reasons why the disclosure may not be further acted on under this
+ chapter; and
+ `(ii) other offices available for receiving disclosures, should the individual
+ wish to pursue the matter further.
+ `(h) The identity of any individual who makes a disclosure described
+ in subsection (a) may not be disclosed by the Special Counsel without
+ such individual's consent unless the Special Counsel determines that the
+ disclosure of the individual's identity is necessary because of an imminent
+ danger to public health or safety or imminent violation of any criminal law.
+ `(i) Except as specifically authorized under this section, the provisions
+ of this section shall not be considered to authorize disclosure of any
+ information by any agency or any person which is--
+ `(1) specifically prohibited from disclosure by any other provision of law; or
+ `(2) specifically required by Executive order to be kept secret in the
+ interest of national defense or the conduct of foreign affairs.
+ `(j) With respect to any disclosure of information described in subsection
+ (a) which involves foreign intelligence or counterintelligence information,
+ if the disclosure is specifically prohibited by law or by Executive order,
+ the Special Counsel shall transmit such information to the National Security
+ Advisor, the Permanent Select Committee on Intelligence of the House of
+ Representatives, and the Select Committee on Intelligence of the Senate.
+`Sec. 1214. Investigation of prohibited personnel practices; corrective action
+ `(a)(1)(A) The Special Counsel shall receive any allegation of a prohibited
+ personnel practice and shall investigate the allegation to the extent
+ necessary to determine whether there are reasonable grounds to believe that
+ a prohibited personnel practice has occurred, exists, or is to be taken.
+ `(B) Within 15 days after the date of receiving an allegation of a prohibited
+ personnel practice under paragraph (1), the Special Counsel shall provide
+ written notice to the person who made the allegation that--
+ `(i) the allegation has been received by the Special Counsel; and
+ `(ii) shall include the name of a person at the Office of Special Counsel
+ who shall serve as a contact with the person making the allegation.
+ `(C) Unless an investigation is terminated under paragraph (2), the Special
+ Counsel shall--
+ `(i) within 90 days after notice is provided under subparagraph (B), notify
+ the person who made the allegation of the status of the investigation and
+ any action taken by the Office of the Special Counsel since the filing of
+ the allegation;
+ `(ii) notify such person of the status of the investigation and any action
+ taken by the Office of the Special Counsel since the last notice, at least
+ every 60 days after notice is given under clause (i); and
+ `(iii) notify such person of the status of the investigation and any action
+ taken by the Special Counsel at such time as determined appropriate by the
+ Special Counsel.
+ `(2)(A) If the Special Counsel terminates any investigation under paragraph
+ (1), the Special Counsel shall prepare and transmit to any person on whose
+ allegation the investigation was initiated a written statement notifying
+ the person of--
+ `(i) the termination of the investigation;
+ `(ii) a summary of relevant facts ascertained by the Special Counsel,
+ including the facts that support, and the facts that do not support, the
+ allegations of such person; and
+ `(iii) the reasons for terminating the investigation.
+ `(B) A written statement under subparagraph (A) may not be admissible as
+ evidence in any judicial or administrative proceeding, without the consent
+ of the person who received such statement under subparagraph (A).
+ `(3) Except in a case in which an employee, former employee, or applicant for
+ employment has the right to appeal directly to the Merit Systems Protection
+ Board under any law, rule, or regulation, any such employee, former employee,
+ or applicant shall seek corrective action from the Special Counsel before
+ seeking corrective action from the Board. An employee, former employee,
+ or applicant for employment may seek corrective action from the Board
+ under section 1221, if such employee, former employee, or applicant seeks
+ corrective action for a prohibited personnel practice described in section
+ 2302(b)(8) from the Special Counsel and--
+ `(A)(i) the Special Counsel notifies such employee, former employee, or
+ applicant that an investigation concerning such employee, former employee,
+ or applicant has been terminated; and
+ `(ii) no more than 60 days have elapsed since notification was provided
+ to such employee, former employee, or applicant for employment that such
+ investigation was terminated; or
+ `(B) 120 days after seeking corrective action from the Special Counsel,
+ such employee, former employee, or applicant has not been notified by the
+ Special Counsel that the Special Counsel shall seek corrective action on
+ behalf of such employee, former employee, or applicant.
+ `(4) If an employee, former employee, or applicant seeks a corrective action
+ from the Board under section 1221, pursuant to the provisions of paragraph
+ (3)(B), the Special Counsel may continue to seek corrective action personal
+ to such employee, former employee, or applicant only with the consent of
+ such employee, former employee, or applicant.
+ `(5) In addition to any authority granted under paragraph (1), the Special
+ Counsel may, in the absence of an allegation, conduct an investigation for
+ the purpose of determining whether there are reasonable grounds to believe
+ that a prohibited personnel practice (or a pattern of prohibited personnel
+ practices) has occurred, exists, or is to be taken.
+ `(b)(1)(A)(i) The Special Counsel may request any member of the Merit
+ Systems Protection Board to order a stay of any personnel action for 45
+ days if the Special Counsel determines that there are reasonable grounds
+ to believe that the personnel action was taken, or is to be taken, as a
+ result of a prohibited personnel practice.
+ `(ii) Any member of the Board requested by the Special Counsel to order a
+ stay under clause (i) shall order such stay unless the member determines
+ that, under the facts and circumstances involved, such a stay would not
+ be appropriate.
+ `(iii) Unless denied under clause (ii), any stay under this subparagraph shall
+ be granted within 3 calendar days (excluding Saturdays, Sundays, and legal
+ holidays) after the date of the request for the stay by the Special Counsel.
+ `(B) The Board may extend the period of any stay granted under subparagraph
+ (A) for any period which the Board considers appropriate.
+ `(C) The Board shall allow any agency which is the subject of a stay to
+ comment to the Board on any extension of stay proposed under subparagraph (B).
+ `(D) A stay may be terminated by the Board at any time, except that a stay
+ may not be terminated by the Board--
+ `(i) on its own motion or on the motion of an agency, unless notice and
+ opportunity for oral or written comments are first provided to the Special
+ Counsel and the individual on whose behalf the stay was ordered; or
+ `(ii) on motion of the Special Counsel, unless notice and opportunity for
+ oral or written comments are first provided to the individual on whose
+ behalf the stay was ordered.
+ `(2)(A) If, in connection with any investigation, the Special Counsel
+ determines that there are reasonable grounds to believe that a prohibited
+ personnel practice has occurred, exists, or is to be taken which requires
+ corrective action, the Special Counsel shall report the determination together
+ with any findings or recommendations to the Board, the agency involved and
+ to the Office of Personnel Management, and may report such determination,
+ findings and recommendations to the President. The Special Counsel may
+ include in the report recommendations for corrective action to be taken.
+ `(B) If, after a reasonable period of time, the agency does not act to
+ correct the prohibited personnel practice, the Special Counsel may petition
+ the Board for corrective action.
+ `(C) If the Special Counsel finds, in consultation with the individual
+ subject to the prohibited personnel practice, that the agency has acted to
+ correct the prohibited personnel practice, the Special Counsel shall file
+ such finding with the Board, together with any written comments which the
+ individual may provide.
+ `(3) Whenever the Special Counsel petitions the Board for corrective action,
+ the Board shall provide an opportunity for--
+ `(A) oral or written comments by the Special Counsel, the agency involved,
+ and the Office of Personnel Management; and
+ `(B) written comments by any individual who alleges to be the subject of
+ the prohibited personnel practice.
+ `(4)(A) The Board shall order such corrective action as the Board considers
+ appropriate, if the Board determines that the Special Counsel has demonstrated
+ that a prohibited personnel practice, other than one described in section
+ 2302(b)(8), has occurred, exists, or is to be taken.
+ `(B)(i) Subject to the provisions of clause (ii), in any case involving
+ an alleged prohibited personnel practice as described under section
+ 2302(b)(8), the Board shall order such corrective action as the Board
+ considers appropriate if the Special Counsel has demonstrated that a
+ disclosure described under section 2302(b)(8) was a contributing factor in
+ the personnel action which was taken or is to be taken against the individual.
+ `(ii) Corrective action under clause (i) may not be ordered if the agency
+ demonstrates by clear and convincing evidence that it would have taken the
+ same personnel action in the absence of such disclosure.
+ `(c)(1) Judicial review of any final order or decision of the Board under
+ this section may be obtained by any employee, former employee, or applicant
+ for employment adversely affected by such order or decision.
+ `(2) A petition for review under this subsection shall be filed with such
+ court, and within such time, as provided for under section 7703(b).
+ `(d)(1) If, in connection with any investigation under this subchapter,
+ the Special Counsel determines that there is reasonable cause to believe
+ that a criminal violation has occurred, the Special Counsel shall report the
+ determination to the Attorney General and to the head of the agency involved,
+ and shall submit a copy of the report to the Director of the Office of
+ Personnel Management and the Director of the Office of Management and Budget.
+ `(2) In any case in which the Special Counsel determines that there are
+ reasonable grounds to believe that a prohibited personnel practice has
+ occurred, exists, or is to be taken, the Special Counsel shall proceed with
+ any investigation or proceeding unless--
+ `(A) the alleged violation has been reported to the Attorney General; and
+ `(B) the Attorney General is pursuing an investigation, in which case the
+ Special Counsel, after consultation with the Attorney General, has discretion
+ as to whether to proceed.
+ `(e) If, in connection with any investigation under this subchapter, the
+ Special Counsel determines that there is reasonable cause to believe that
+ any violation of any law, rule, or regulation has occurred other than one
+ referred to in subsection (b) or (d), the Special Counsel shall report such
+ violation to the head of the agency involved. The Special Counsel shall
+ require, within 30 days after the receipt of the report by the agency,
+ a certification by the head of the agency which states--
+ `(1) that the head of the agency has personally reviewed the report; and
+ `(2) what action has been or is to be taken, and when the action will
+ be completed.
+ `(f) During any investigation initiated under this subchapter, no disciplinary
+ action shall be taken against any employee for any alleged prohibited activity
+ under investigation or for any related activity without the approval of
+ the Special Counsel.
+`Sec. 1215. Disciplinary action
+ `(a)(1) Except as provided in subsection (b), if the Special Counsel
+ determines that disciplinary action should be taken against any employee
+ for having--
+ `(A) committed a prohibited personnel practice,
+ `(B) violated the provisions of any law, rule, or regulation, or engaged
+ in any other conduct within the jurisdiction of the Special Counsel as
+ described in section 1216, or
+ `(C) knowingly and willfully refused or failed to comply with an order of
+ the Merit Systems Protection Board,
+the Special Counsel shall prepare a written complaint against the employee
+containing the Special Counsel's determination, together with a statement
+of supporting facts, and present the complaint and statement to the employee
+and the Board, in accordance with this subsection.
+ `(2) Any employee against whom a complaint has been presented to the Merit
+ Systems Protection Board under paragraph (1) is entitled to--
+ `(A) a reasonable time to answer orally and in writing, and to furnish
+ affidavits and other documentary evidence in support of the answer;
+ `(B) be represented by an attorney or other representative;
+ `(C) a hearing before the Board or an administrative law judge appointed
+ under section 3105 and designated by the Board;
+ `(D) have a transcript kept of any hearing under subparagraph (C); and
+ `(E) a written decision and reasons therefor at the earliest practicable
+ date, including a copy of any final order imposing disciplinary action.
+ `(3) A final order of the Board may impose disciplinary action consisting
+ of removal, reduction in grade, debarment from Federal employment for a
+ period not to exceed 5 years, suspension, reprimand, or an assessment of
+ a civil penalty not to exceed $1,000.
+ `(4) There may be no administrative appeal from an order of the Board. An
+ employee subject to a final order imposing disciplinary action under this
+ subsection may obtain judicial review of the order by filing a petition
+ therefor with such court, and within such time, as provided for under
+ section 7703(b).
+ `(5) In the case of any State or local officer or employee under chapter
+ 15, the Board shall consider the case in accordance with the provisions of
+ such chapter.
+ `(b) In the case of an employee in a confidential, policy-making,
+ policy-determining, or policy-advocating position appointed by the President,
+ by and with the advice and consent of the Senate (other than an individual
+ in the Foreign Service of the United States), the complaint and statement
+ referred to in subsection (a)(1), together with any response of the employee,
+ shall be presented to the President for appropriate action in lieu of being
+ presented under subsection (a).
+ `(c)(1) In the case of members of the uniformed services and individuals
+ employed by any person under contract with an agency to provide goods or
+ services, the Special Counsel may transmit recommendations for disciplinary or
+ other appropriate action (including the evidence on which such recommendations
+ are based) to the head of the agency concerned.
+ `(2) In any case in which the Special Counsel transmits recommendations
+ to an agency head under paragraph (1), the agency head shall, within 60
+ days after receiving such recommendations, transmit a report to the Special
+ Counsel on each recommendation and the action taken, or proposed to be taken,
+ with respect to each such recommendation.
+`Sec. 1216. Other matters within the jurisdiction of the Office of Special
+Counsel
+ `(a) In addition to the authority otherwise provided in this chapter,
+ the Special Counsel shall, except as provided in subsection (b), conduct
+ an investigation of any allegation concerning--
+ `(1) political activity prohibited under subchapter III of chapter 73,
+ relating to political activities by Federal employees;
+ `(2) political activity prohibited under chapter 15, relating to political
+ activities by certain State and local officers and employees;
+ `(3) arbitrary or capricious withholding of information prohibited under
+ section 552, except that the Special Counsel shall make no investigation of
+ any withholding of foreign intelligence or counterintelligence information the
+ disclosure of which is specifically prohibited by law or by Executive order;
+ `(4) activities prohibited by any civil service law, rule, or regulation,
+ including any activity relating to political intrusion in personnel
+ decisionmaking; and
+ `(5) involvement by any employee in any prohibited discrimination found by
+ any court or appropriate administrative authority to have occurred in the
+ course of any personnel action.
+ `(b) The Special Counsel shall make no investigation of any allegation of
+ any prohibited activity referred to in subsection (a)(5), if the Special
+ Counsel determines that the allegation may be resolved more appropriately
+ under an administrative appeals procedure.
+ `(c)(1) If an investigation by the Special Counsel under subsection (a)(1)
+ substantiates an allegation relating to any activity prohibited under section
+ 7324, the Special Counsel may petition the Merit Systems Protection Board
+ for any penalties provided for under section 7325.
+ `(2) If the Special Counsel receives an allegation concerning any matter
+ under paragraph (3), (4), or (5) of subsection (a), the Special Counsel
+ may investigate and seek corrective action under section 1214 in the same
+ way as if a prohibited personnel practice were involved.
+`Sec. 1217. Transmittal of information to Congress
+ `The Special Counsel or any employee of the Special Counsel designated
+ by the Special Counsel, shall transmit to the Congress on the request of
+ any committee or subcommittee thereof, by report, testimony, or otherwise,
+ information and the Special Counsel's views on functions, responsibilities, or
+ other matters relating to the Office. Such information shall be transmitted
+ concurrently to the President and any other appropriate agency in the
+ executive branch.
+`Sec. 1218. Annual report
+ `The Special Counsel shall submit an annual report to the Congress on
+ the activities of the Special Counsel, including the number, types,
+ and disposition of allegations of prohibited personnel practices filed
+ with it, investigations conducted by it, and actions initiated by it
+ before the Merit Systems Protection Board, as well as a description of
+ the recommendations and reports made by it to other agencies pursuant
+ to this subchapter, and the actions taken by the agencies as a result of
+ the reports or recommendations. The report required by this section shall
+ include whatever recommendations for legislation or other action by Congress
+ the Special Counsel may consider appropriate.
+`Sec. 1219. Public information
+ `(a) The Special Counsel shall maintain and make available to the public--
+ `(1) a list of noncriminal matters referred to heads of agencies under
+ subsection (c) of section 1213, together with reports from heads of agencies
+ under subsection (c)(1)(B) of such section relating to such matters;
+ `(2) a list of matters referred to heads of agencies under section 1215(c)(2);
+ `(3) a list of matters referred to heads of agencies under subsection (e)
+ of section 1214, together with certifications from heads of agencies under
+ such subsection; and
+ `(4) reports from heads of agencies under section 1213(g)(1).
+ `(b) The Special Counsel shall take steps to ensure that any list or
+ report made available to the public under this section does not contain any
+ information the disclosure of which is prohibited by law or by Executive
+ order requiring that information be kept secret in the interest of national
+ defense or the conduct of foreign affairs.
+`SUBCHAPTER III--INDIVIDUAL RIGHT OF ACTION IN CERTAIN REPRISAL CASES
+`Sec. 1221. Individual right of action in certain reprisal cases
+ `(a) Subject to the provisions of subsection (b) of this section and
+ subsection 1214(a)(3), an employee, former employee, or applicant for
+ employment may, with respect to any personnel action taken, or proposed to be
+ taken, against such employee, former employee, or applicant for employment, as
+ a result of a prohibited personnel practice described in section 2302(b)(8),
+ seek corrective action from the Merit Systems Protection Board.
+ `(b) This section may not be construed to prohibit any employee, former
+ employee, or applicant for employment from seeking corrective action from
+ the Merit Systems Protection Board before seeking corrective action from
+ the Special Counsel, if such employee, former employee, or applicant for
+ employment has the right to appeal directly to the Board under any law,
+ rule, or regulation.
+ `(c)(1) Any employee, former employee, or applicant for employment seeking
+ corrective action under subsection (a) may request that the Board order a
+ stay of the personnel action involved.
+ `(2) Any stay requested under paragraph (1) shall be granted within 10
+ calendar days (excluding Saturdays, Sundays, and legal holidays) after the
+ date the request is made, if the Board determines that such a stay would
+ be appropriate.
+ `(3)(A) The Board shall allow any agency which would be subject to a stay
+ under this subsection to comment to the Board on such stay request.
+ `(B) Except as provided in subparagraph (C), a stay granted under this
+ subsection shall remain in effect for such period as the Board determines
+ to be appropriate.
+ `(C) The Board may modify or dissolve a stay under this subsection at
+ any time, if the Board determines that such a modification or dissolution
+ is appropriate.
+ `(d)(1) At the request of an employee, former employee, or applicant for
+ employment seeking corrective action under subsection (a), the Board may issue
+ a subpoena for the attendance and testimony of any person or the production
+ of documentary or other evidence from any person if the Board finds that
+ such subpoena is necessary for the development of relevant evidence.
+ `(2) A subpoena under this subsection may be issued, and shall be enforced,
+ in the same manner as applies in the case of subpoenas under section 1204.
+ `(e)(1) Subject to the provisions of paragraph (2), in any case involving an
+ alleged prohibited personnel practice as described under section 2302(b)(8),
+ the Board shall order such corrective action as the Board considers
+ appropriate if the employee, former employee, or applicant for employment
+ has demonstrated that a disclosure described under section 2302(b)(8) was
+ a contributing factor in the personnel action which was taken or is to be
+ taken against such employee, former employee, or applicant.
+ `(2) Corrective action under paragraph (1) may not be ordered if the agency
+ demonstrates by clear and convincing evidence that it would have taken the
+ same personnel action in the absence of such disclosure.
+ `(f)(1) A final order or decision shall be rendered by the Board as soon
+ as practicable after the commencement of any proceeding under this section.
+ `(2) A decision to terminate an investigation under subchapter II may not
+ be considered in any action or other proceeding under this section.
+ `(g)(1) If an employee, former employee, or applicant for employment is the
+ prevailing party before the Merit Systems Protection Board, and the decision
+ is based on a finding of a prohibited personnel practice, the agency involved
+ shall be liable to the employee, former employee, or applicant for reasonable
+ attorney's fees and any other reasonable costs incurred.
+ `(2) If an employee, former emloyee, or applicant for employment is the
+ prevailing party in an appeal from the Merit Systems Protection Board,
+ the agency involved shall be liable to the employee, former employee, or
+ applicant for reasonable attorney's fees and any other reasonable costs
+ incurred, regardless of the basis of the decision.
+ `(h)(1) An employee, former employee, or applicant for employment adversely
+ affected or aggrieved by a final order or decision of the Board under this
+ section may obtain judicial review of the order or decision.
+ `(2) A petition for review under this subsection shall be filed with such
+ court, and within such time, as provided for under section 7703(b).
+ `(i) Subsections (a) through (h) shall apply in any proceeding brought under
+ section 7513(d) if, or to the extent that, a prohibited personnel practice
+ as defined in section 2302(b)(8) is alleged.
+ `(j) In determining the appealability of any case involving an allegation
+ made by an individual under the provisions of this chapter, neither the
+ status of an individual under any retirement system established under a
+ Federal statute nor any election made by such individual under any such
+ system may be taken into account.
+`Sec. 1222. Availability of other remedies
+ `Except as provided in section 1221(i), nothing in this chapter or chapter 23
+ shall be construed to limit any right or remedy available under a provision
+ of statute which is outside of both this chapter and chapter 23.'.
+ (b) CONFORMING AMENDMENTS- (1) The table of chapters for part II of title 5,
+ United States Code, is amended by striking the item relating to chapter 12
+ and inserting in lieu thereof the following:
+1201'.
+ (2) The heading for chapter 12 of title 5, United States Code, is amended
+ to read as follows:
+`CHAPTER 12--MERIT SYSTEMS PROTECTION BOARD, OFFICE OF SPECIAL COUNSEL,
+AND EMPLOYEE RIGHT OF ACTION'.
+ (3) The table of sections for chapter 12 of title 5, United States Code,
+ is amended to read as follows:
+`SUBCHAPTER I--MERIT SYSTEMS PROTECTION BOARD
+`Sec. 1201. Appointment of members of the Merit Systems Protection Board.
+`Sec. 1202. Term of office; filling vacancies; removal.
+`Sec. 1203. Chairman; Vice Chairman.
+`Sec. 1204. Powers and functions of the Merit Systems Protection Board.
+`Sec. 1205. Transmittal of information to Congress.
+`Sec. 1206. Annual report.
+`SUBCHAPTER II--OFFICE OF SPECIAL COUNSEL
+`Sec. 1211. Establishment.
+`Sec. 1212. Powers and functions of the Office of Special Counsel.
+`Sec. 1213. Provisions relating to disclosures of violations of law,
+mismanagement, and certain other matters.
+`Sec. 1214. Investigation of prohibited personnel practices; corrective action.
+`Sec. 1215. Disciplinary action.
+`Sec. 1216. Other matters within the jurisdiction of the Office of Special
+Counsel.
+`Sec. 1217. Transmittal of information to Congress.
+`Sec. 1218. Annual report.
+`Sec. 1219. Public information.
+`SUBCHAPTER III--INDIVIDUAL RIGHT OF ACTION IN CERTAIN REPRISAL CASES
+`Sec. 1221. Individual right of action in certain reprisal cases.
+`Sec. 1222. Availability of other remedies.'.
+ (4) Chapter 12 of title 5, United States Code, is further amended by
+ inserting before section 1201 the following subchapter heading:
+`SUBCHAPTER I--MERIT SYSTEMS PROTECTION BOARD'.
+SEC. 4. REPRISALS.
+ (a) AMENDMENTS TO SECTION 2302(b)(8)- Section 2302(b)(8) of title 5, United
+ States Code, is amended--
+ (1) by inserting `, or threaten to take or fail to take,' after `take or
+ fail to take';
+ (2) by striking out `as a reprisal for' and inserting in lieu thereof
+ `because of';
+ (3) in subparagraph (A) by striking out `a disclosure' and inserting in
+ lieu thereof `any disclosure';
+ (4) in subparagraph (A)(ii) by inserting `gross' before `mismanagement';
+ (5) in subparagraph (B) by striking out `a disclosure' and inserting in
+ lieu thereof `any disclosure'; and
+ (6) in subparagraph (B)(ii) by inserting `gross' before `mismanagement'.
+ (b) AMENDMENT TO SECTION 2302(b)(9)- Section 2302(b)(9) of title 5, United
+ States Code, is amended to read as follows:
+ `(9) take or fail to take, or threaten to take or fail to take, any personnel
+ action against any employee or applicant for employment because of--
+ `(A) the exercise of any appeal, complaint, or grievance right granted by
+ any law, rule, or regulation;
+ `(B) testifying for or otherwise lawfully assisting any individual in the
+ exercise of any right referred to in subparagraph (A);
+ `(C) cooperating with or disclosing information to the Inspector General of
+ an agency, or the Special Counsel, in accordance with applicable provisions
+ of law; or
+ `(D) for refusing to obey an order that would require the individual to
+ violate a law;'.
+SEC. 5. PREFERENCE IN TRANSFERS FOR WHISTLEBLOWERS.
+ (a) IN GENERAL- Subchapter IV of chapter 33 of title 5, United States Code,
+ is amended by adding at the end thereof the following new section:
+`Sec. 3352. Preference in transfers for employees making certain disclosures
+ `(a) Subject to the provisions of subsections (d) and (e), in filling a
+ position within any Executive agency, the head of such agency may give
+ preference to any employee of such agency, or any other Executive agency,
+ to transfer to a position of the same status and tenure as the position of
+ such employee on the date of applying for a transfer under subsection (b) if--
+ `(1) such employee is otherwise qualified for such position;
+ `(2) such employee is eligible for appointment to such position; and
+ `(3) the Merit Systems Protection Board makes a determination under the
+ provisions of chapter 12 that a prohibited personnel action described under
+ section 2302(b)(8) was taken against such employee.
+ `(b) An employee who meets the conditions described under subsection (a)
+ (1), (2), and (3) may voluntarily apply for a transfer to a position, as
+ described in subsection (a), within the Executive agency employing such
+ employee or any other Executive agency.
+ `(c) If an employee applies for a transfer under the provisions of subsection
+ (b) and the selecting official rejects such application, the selecting
+ official shall provide the employee with a written notification of the
+ reasons for the rejection within 30 days after receiving such application.
+ `(d) An employee whose application for transfer is rejected under the
+ provisions of subsection (c) may request the head of such agency to review
+ the rejection. Such request for review shall be submitted to the head of
+ the agency within 30 days after the employee receives notification under
+ subsection (c). Within 30 days after receiving a request for review, the
+ head of the agency shall complete the review and provide a written statement
+ of findings to the employee and the Merit Systems Protection Board.
+ `(e) The provisions of subsection (a) shall apply with regard to any
+ employee--
+ `(1) for no more than 1 transfer;
+ `(2) for a transfer from or within the agency such employee is employed
+ at the time of a determination by the Merit Systems Protection Board that
+ a prohibited personnel action as described under section 2302(b)(8) was
+ taken against such employee; and
+ `(3) no later than 18 months after such a determination is made by the
+ Merit Systems Protection Board.
+ `(f) Notwithstanding the provisions of subsection (a), no preference may
+ be given to any employee applying for a transfer under subsection (b),
+ with respect to a preference eligible (as defined under section 2108(3))
+ applying for the same position.'.
+ (b) TECHNICAL AMENDMENT- The table of sections for chapter 33 of title 5,
+ United States Code, is amended by inserting after the item relating to
+ section 3351 the following:
+`3352. Preference in transfers for employees making certain disclosures.'.
+SEC. 6. INTERIM RELIEF.
+ Section 7701 of title 5, United States Code, is amended--
+ (1) by redesignating subsection (b) as paragraph (1) of subsection (b); and
+ (2) by adding at the end thereof the following new paragraph:
+ `(2)(A) If an employee or applicant for employment is the prevailing party
+ in an appeal under this subsection, the employee or applicant shall be
+ granted the relief provided in the decision effective upon the making of
+ the decision, and remaining in effect pending the outcome of any petition
+ for review under subsection (e), unless--
+ `(i) the deciding official determines that the granting of such relief is
+ not appropriate; or
+ `(ii)(I) the relief granted in the decision provides that such employee
+ or applicant shall return or be present at the place of employment during
+ the period pending the outcome of any petition for review under subsection
+ (e); and
+ `(II) the employing agency, subject to the provisions of subparagraph (B),
+ determines that the return or presence of such employee or applicant is
+ unduly disruptive to the work environment.
+ `(B) If an agency makes a determination under subparagraph (A)(ii)(II) that
+ prevents the return or presence of an employee at the place of employment,
+ such employee shall receive pay, compensation, and all other benefits as
+ terms and conditions of employment during the period pending the outcome
+ of any petition for review under subsection (e).
+ `(C) Nothing in the provisions of this paragraph may be construed to require
+ any award of back pay or attorney fees be paid before the decision is final.'.
+SEC. 7. SAVINGS PROVISIONS.
+ (a) ORDERS, RULES, AND REGULATIONS- All orders, rules, and regulations
+ issued by the Merit Systems Protection Board or the Special Counsel before
+ the effective date of this Act shall continue in effect, according to their
+ terms, until modified, terminated, superseded, or repealed.
+ (b) ADMINISTRATIVE PROCEEDINGS- No provision of this Act shall affect
+ any administrative proceeding pending at the time such provisions take
+ effect. Orders shall be issued in such proceedings, and appeals shall be
+ taken therefrom, as if this Act had not been enacted.
+ (c) SUITS AND OTHER PROCEEDINGS- No suit, action, or other proceeding lawfully
+ commenced by or against the members of the Merit Systems Protection Board,
+ the Special Counsel, or officers or employees thereof, in their official
+ capacity or in relation to the discharge of their official duties, as in
+ effect immediately before the effective date of this Act, shall abate by
+ reason of the enactment of this Act. Determinations with respect to any
+ such suit, action, or other proceeding shall be made as if this Act had
+ not been enacted.
+SEC. 8. AUTHORIZATION OF APPROPRIATIONS; RESTRICTION RELATING TO APPROPRIATIONS
+UNDER THE CIVIL SERVICE REFORM ACT OF 1978; TRANSFER OF FUNDS.
+ (a) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated,
+ out of any moneys in the Treasury not otherwise appropriated--
+ (1) for each of fiscal years 1989, 1990, 1991, 1992, 1993, and 1994, such
+ sums as necessary to carry out subchapter I of chapter 12 of title 5,
+ United States Code (as amended by this Act); and
+ (2) for each of fiscal years 1989, 1990, 1991, and 1992, such sums as
+ necessary to carry out subchapter II of chapter 12 of title 5, United States
+ Code (as amended by this Act).
+ (b) RESTRICTION RELATING TO APPROPRIATIONS UNDER THE CIVIL SERVICE REFORM
+ ACT OF 1978- No funds may be appropriated to the Merit Systems Protection
+ Board or the Office of Special Counsel pursuant to section 903 of the Civil
+ Service Reform Act of 1978 (5 U.S.C. 5509 note).
+ (c) TRANSFER OF FUNDS- The personnel, assets, liabilities, contracts,
+ property, records, and unexpended balances of appropriations, authorizations,
+ allocations, and other funds employed, held, used, arising from, available
+ or to be made available to the Special Counsel of the Merit Systems
+ Protection Board are, subject to section 1531 of title 31, United States
+ Code, transferred to the Special Counsel referred to in section 1211 of
+ title 5, United States Code (as added by section 3(a) of this Act), for
+ appropriate allocation.
+SEC. 9. TECHNICAL AND CONFORMING AMENDMENTS.
+ (a)(1) Section 2303(c) of title 5, United States Code, is amended by striking
+ `the provisions of section 1206' and inserting `applicable provisions of
+ sections 1214 and 1221'.
+ (2) Sections 7502, 7512(E), 7521(b)(C), and 7542 of title 5, United States
+ Code, are amended by striking `1206' and inserting `1215'.
+ (3) Section 1109(a) of the Foreign Service Act of 1980 (22 U.S.C. 4139(a))
+ is amended by striking `1206' and inserting `1214 or 1221'.
+ (b) Section 3393(g) of title 5, United States Code, is amended by striking
+ `1207' and inserting `1215'.
+SEC. 10. BOARD RESPONDENT.
+ Section 7703(a)(2) of title 5, United States Code, is amended to read
+ as follows:
+ `(2) The Board shall be named respondent in any proceeding brought pursuant
+ to this subsection, unless the employee or applicant for employment seeks
+ review of a final order or decision on the merits on the underlying personnel
+ action or on a request for attorney fees, in which case the agency responsible
+ for taking the personnel action shall be the respondent.'.
+SEC. 11. EFFECTIVE DATE.
+ This Act and the amendments made by this Act shall take effect 90 days
+ following the date of enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

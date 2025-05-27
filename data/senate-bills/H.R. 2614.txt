@@ -1,0 +1,473 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2614 Engrossed Amendment Senate (EAS)]
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+                  In the Senate of the United States,
+
+                                                         June 14, 2000.
+    Resolved, That the bill from the House of Representatives (H.R. 
+2614) entitled ``An Act to amend the Small Business Investment Act to 
+make improvements to the certified development company program, and for 
+other purposes.'', do pass with the following
+
+                               AMENDMENT:
+
+            Strike out all after the enacting clause and insert:
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Certified Development Company 
+Program Improvements Act of 2000''.
+
+SEC. 2. WOMEN-OWNED BUSINESSES.
+
+    Section 501(d)(3)(C) of the Small Business Investment Act of 1958 
+(15 U.S.C. 695(d)(3)(C)) is amended by inserting before the comma ``or 
+women-owned business development''.
+
+SEC. 3. MAXIMUM DEBENTURE SIZE.
+
+    Section 502(2) of the Small Business Investment Act of 1958 (15 
+U.S.C. 696(2)) is amended to read as follows:
+            ``(2) Loan limits.--Loans made by the Administration under 
+        this section shall be limited to $1,000,000 for each such 
+        identifiable small business concern, other than loans meeting 
+        the criteria specified in section 501(d)(3), which shall be 
+        limited to $1,300,000 for each such identifiable small business 
+        concern.''.
+
+SEC. 4. FEES.
+
+    Section 503(f) of the Small Business Investment Act of 1958 (15 
+U.S.C. 697(f)) is amended to read as follows:
+    ``(f) Effective Date.--The fees authorized by subsections (b) and 
+(d) shall apply to any financing approved by the Administration during 
+the period beginning on October 1, 1996 and ending on September 30, 
+2003.''.
+
+SEC. 5. PREMIER CERTIFIED LENDERS PROGRAM.
+
+    Section 217(b) of the Small Business Administration Reauthorization 
+and Amendments Act of 1994 (15 U.S.C. 697e note) is repealed.
+
+SEC. 6. SALE OF CERTAIN DEFAULTED LOANS.
+
+    Section 508 of the Small Business Investment Act of 1958 (15 U.S.C. 
+697e) is amended--
+            (1) in subsection (a), by striking ``On a pilot program 
+        basis, the'' and inserting ``The'';
+            (2) by redesignating subsections (d) though (i) as 
+        subsections (e) though (j), respectively;
+            (3) in subsection (f) (as redesignated by paragraph (2)), 
+        by striking ``subsection (f)'' and inserting ``subsection 
+        (g)'';
+            (4) in subsection (h) (as redesignated by paragraph (2)), 
+        by striking ``subsection (f)'' and inserting ``subsection 
+        (g)''; and
+            (5) by inserting after subsection (c) the following:
+    ``(d) Sale of Certain Defaulted Loans.--
+            ``(1) Notice.--
+                    ``(A) In general.--If, upon default in repayment, 
+                the Administration acquires a loan guaranteed under 
+                this section and identifies such loan for inclusion in 
+                a bulk asset sale of defaulted or repurchased loans or 
+                other financings, the Administration shall give prior 
+                notice thereof to any certified development company 
+                that has a contingent liability under this section.
+                    ``(B) Timing.--The notice required by subparagraph 
+                (A) shall be given to the certified development company 
+                as soon as possible after the financing is identified, 
+                but not later than 90 days before the date on which the 
+                Administration first makes any record on such financing 
+                available for examination by prospective purchasers 
+                prior to its offering in a package of loans for bulk 
+                sale.
+            ``(2) Limitations.--The Administration may not offer any 
+        loan described in paragraph (1)(A) as part of a bulk sale, 
+        unless the Administration--
+                    ``(A) provides prospective purchasers with the 
+                opportunity to examine the records of the 
+                Administration with respect to such loan; and
+                    ``(B) provides the notice required by paragraph 
+                (1).''.
+
+SEC. 7. LOAN LIQUIDATION.
+
+    (a) Liquidation and Foreclosure.--Title V of the Small Business 
+Investment Act of 1958 (15 U.S.C. 695 et seq.) is amended by adding at 
+the end the following:
+
+``SEC. 510. FORECLOSURE AND LIQUIDATION OF LOANS.
+
+    ``(a) Delegation of Authority.--In accordance with this section, 
+the Administration shall delegate to any qualified State or local 
+development company (as defined in section 503(e)) that meets the 
+eligibility requirements of subsection (b)(1) of this section the 
+authority to foreclose and liquidate, or to otherwise treat in 
+accordance with this section, defaulted loans in its portfolio that are 
+funded with the proceeds of debentures guaranteed by the Administration 
+under section 503.
+    ``(b) Eligibility for Delegation.--
+            ``(1) Requirements.--A qualified State or local development 
+        company shall be eligible for a delegation of authority under 
+        subsection (a) if--
+                    ``(A) the company--
+                            ``(i) has participated in the loan 
+                        liquidation pilot program established by the 
+                        Small Business Programs Improvement Act of 1996 
+                        (15 U.S.C. 695 note), as in effect on the day 
+                        before the date of issuance of final 
+                        regulations by the Administration implementing 
+                        this section;
+                            ``(ii) is participating in the Premier 
+                        Certified Lenders Program under section 508; or
+                            ``(iii) during the 3 fiscal years 
+                        immediately prior to seeking such a delegation, 
+                        has made an average of not fewer than 10 loans 
+                        per year that are funded with the proceeds of 
+                        debentures guaranteed under section 503; and
+                    ``(B) the company--
+                            ``(i) has 1 or more employees--
+                                    ``(I) with not less than 2 years of 
+                                substantive, decision-making experience 
+                                in administering the liquidation and 
+                                workout of problem loans secured in a 
+                                manner substantially similar to loans 
+                                funded with the proceeds of debentures 
+                                guaranteed under section 503; and
+                                    ``(II) who have completed a 
+                                training program on loan liquidation 
+                                developed by the Administration in 
+                                conjunction with qualified State and 
+                                local development companies that meet 
+                                the requirements of this paragraph; or
+                            ``(ii) submits to the Administration 
+                        documentation demonstrating that the company 
+                        has contracted with a qualified third-party to 
+                        perform any liquidation activities and secures 
+                        the approval of the contract by the 
+                        Administration with respect to the 
+                        qualifications of the contractor and the terms 
+                        and conditions of liquidation activities.
+            ``(2) Confirmation.--On request, the Administration shall 
+        examine the qualifications of any company described in 
+        subsection (a) to determine if such company is eligible for the 
+        delegation of authority under this section. If the 
+        Administration determines that a company is not eligible, the 
+        Administration shall provide the company with the reasons for 
+        such ineligibility.
+    ``(c) Scope of Delegated Authority.--
+            ``(1) In general.--Each qualified State or local 
+        development company to which the Administration delegates 
+        authority under subsection (a) may, with respect to any loan 
+        described in subsection (a)--
+                    ``(A) perform all liquidation and foreclosure 
+                functions, including the purchase in accordance with 
+                this subsection of any other indebtedness secured by 
+                the property securing the loan, in a reasonable and 
+                sound manner, according to commercially accepted 
+                practices, pursuant to a liquidation plan approved in 
+                advance by the Administration under paragraph (2)(A);
+                    ``(B) litigate any matter relating to the 
+                performance of the functions described in subparagraph 
+                (A), except that the Administration may--
+                            ``(i) defend or bring any claim if--
+                                    ``(I) the outcome of the litigation 
+                                may adversely affect management by the 
+                                Administration of the loan program 
+                                established under section 502; or
+                                    ``(II) the Administration is 
+                                entitled to legal remedies not 
+                                available to a qualified State or local 
+                                development company, and such remedies 
+                                will benefit either the Administration 
+                                or the qualified State or local 
+                                development company; or
+                            ``(ii) oversee the conduct of any such 
+                        litigation; and
+                    ``(C) take other appropriate actions to mitigate 
+                loan losses in lieu of total liquidation or 
+                foreclosure, including the restructuring of a loan in 
+                accordance with prudent loan servicing practices and 
+                pursuant to a workout plan approved in advance by the 
+                Administration under paragraph (2)(C).
+            ``(2) Administration approval.--
+                    ``(A) Liquidation plan.--
+                            ``(i) In general.--Before carrying out 
+                        functions described in paragraph (1)(A), a 
+                        qualified State or local development company 
+                        shall submit to the Administration a proposed 
+                        liquidation plan.
+                            ``(ii) Administration action on plan.--
+                                    ``(I) Timing.--Not later than 15 
+                                business days after a liquidation plan 
+                                is received by the Administration under 
+                                clause (i), the Administration shall 
+                                approve or reject the plan.
+                                    ``(II) Notice of no decision.--With 
+                                respect to any liquidation plan that 
+                                cannot be approved or denied within the 
+                                15-day period required by subclause 
+                                (I), the Administration shall, during 
+                                such period, provide notice in 
+                                accordance with subparagraph (E) to the 
+                                company that submitted the plan.
+                            ``(iii) Routine actions.--In carrying out 
+                        functions described in paragraph (1)(A), a 
+                        qualified State or local development company 
+                        may undertake any routine action not addressed 
+                        in a liquidation plan without obtaining 
+                        additional approval from the Administration.
+                    ``(B) Purchase of indebtedness.--
+                            ``(i) In general.--In carrying out 
+                        functions described in paragraph (1)(A), a 
+                        qualified State or local development company 
+                        shall submit to the Administration a request 
+                        for written approval before committing the 
+                        Administration to the purchase of any other 
+                        indebtedness secured by the property securing a 
+                        defaulted loan.
+                            ``(ii) Administration action on request.--
+                                    ``(I) Timing.--Not later than 15 
+                                business days after receiving a request 
+                                under clause (i), the Administration 
+                                shall approve or deny the request.
+                                    ``(II) Notice of no decision.--With 
+                                respect to any request that cannot be 
+                                approved or denied within the 15-day 
+                                period required by subclause (I), the 
+                                Administration shall, during such 
+                                period, provide notice in accordance 
+                                with subparagraph (E) to the company 
+                                that submitted the request.
+                    ``(C) Workout plan.--
+                            ``(i) In general.--In carrying out 
+                        functions described in paragraph (1)(C), a 
+                        qualified State or local development company 
+                        shall submit to the Administration a proposed 
+                        workout plan.
+                            ``(ii) Administration action on plan.--
+                                    ``(I) Timing.--Not later than 15 
+                                business days after a workout plan is 
+                                received by the Administration under 
+                                clause (i), the Administration shall 
+                                approve or reject the plan.
+                                    ``(II) Notice of no decision.--With 
+                                respect to any workout plan that cannot 
+                                be approved or denied within the 15-day 
+                                period required by subclause (I), the 
+                                Administration shall, during such 
+                                period, provide notice in accordance 
+                                with subparagraph (E) to the company 
+                                that submitted the plan.
+                    ``(D) Compromise of indebtedness.--In carrying out 
+                functions described in paragraph (1)(A), a qualified 
+                State or local development company may--
+                            ``(i) consider an offer made by an obligor 
+                        to compromise the debt for less than the full 
+                        amount owing; and
+                            ``(ii) pursuant to such an offer, release 
+                        any obligor or other party contingently liable, 
+                        if the company secures the written approval of 
+                        the Administration.
+                    ``(E) Contents of notice of no decision.--Any 
+                notice provided by the Administration under 
+                subparagraph (A)(ii)(II), (B)(ii)(II), or (C)(ii)(II)--
+                            ``(i) shall be in writing;
+                            ``(ii) shall state the specific reason for 
+                        the inability of the Administration to act on 
+                        the subject plan or request;
+                            ``(iii) shall include an estimate of the 
+                        additional time required by the Administration 
+                        to act on the plan or request; and
+                            ``(iv) if the Administration cannot act 
+                        because insufficient information or 
+                        documentation was provided by the company 
+                        submitting the plan or request, shall specify 
+                        the nature of such additional information or 
+                        documentation.
+            ``(3) Conflict of interest.--In carrying out functions 
+        described in paragraph (1), a qualified State or local 
+        development company shall take no action that would result in 
+        an actual or apparent conflict of interest between the company 
+        (or any employee of the company) and any third party lender (or 
+        any associate of a third party lender) or any other person 
+        participating in a liquidation, foreclosure, or loss mitigation 
+        action.
+    ``(d) Suspension or Revocation of Authority.--The Administration 
+may revoke or suspend a delegation of authority under this section to 
+any qualified State or local development company, if the Administration 
+determines that the company--
+            ``(1) does not meet the requirements of subsection (b)(1);
+            ``(2) has violated any applicable rule or regulation of the 
+        Administration or any other applicable provision of law; or
+            ``(3) has failed to comply with any reporting requirement 
+        that may be established by the Administration relating to 
+        carrying out functions described in subsection (c)(1).
+    ``(e) Report.--
+            ``(1) In general.--Based on information provided by 
+        qualified State and local development companies and the 
+        Administration, the Administration shall annually submit to the 
+        Committees on Small Business of the House of Representatives 
+        and the Senate a report on the results of delegation of 
+        authority under this section.
+            ``(2) Contents.--Each report submitted under paragraph (1) 
+        shall include--
+                    ``(A) with respect to each loan foreclosed or 
+                liquidated by a qualified State or local development 
+                company under this section, or for which losses were 
+                otherwise mitigated by the company pursuant to a 
+                workout plan under this section--
+                            ``(i) the total cost of the project 
+                        financed with the loan;
+                            ``(ii) the total original dollar amount 
+                        guaranteed by the Administration;
+                            ``(iii) the total dollar amount of the loan 
+                        at the time of liquidation, foreclosure, or 
+                        mitigation of loss;
+                            ``(iv) the total dollar losses resulting 
+                        from the liquidation, foreclosure, or 
+                        mitigation of loss; and
+                            ``(v) the total recoveries resulting from 
+                        the liquidation, foreclosure, or mitigation of 
+                        loss, both as a percentage of the amount 
+                        guaranteed and the total cost of the project 
+                        financed;
+                    ``(B) with respect to each qualified State or local 
+                development company to which authority is delegated 
+                under this section, the totals of each of the amounts 
+                described in clauses (i) through (v) of subparagraph 
+                (A);
+                    ``(C) with respect to all loans subject to 
+                foreclosure, liquidation, or mitigation under this 
+                section, the totals of each of the amounts described in 
+                clauses (i) through (v) of subparagraph (A);
+                    ``(D) a comparison between--
+                            ``(i) the information provided under 
+                        subparagraph (C) with respect to the 12-month 
+                        period preceding the date on which the report 
+                        is submitted; and
+                            ``(ii) the same information with respect to 
+                        loans foreclosed and liquidated, or otherwise 
+                        treated, by the Administration during the same 
+                        period; and
+                    ``(E) the number of times that the Administration 
+                has failed to approve or reject a liquidation plan in 
+                accordance with subsection (c)(2)(A) or a workout plan 
+                in accordance with subsection (c)(2)(C), or to approve 
+                or deny a request for purchase of indebtedness under 
+                subsection (c)(2)(B), including specific information 
+                regarding the reasons for the failure of the 
+                Administration and any delay that resulted.''.
+    (b) Regulations.--
+            (1) In general.--Not later than 150 days after the date of 
+        enactment of this Act, the Administrator shall issue such 
+        regulations as may be necessary to carry out section 510 of the 
+        Small Business Investment Act of 1958, as added by subsection 
+        (a) of this section.
+            (2) Termination of pilot program.--Effective on the date on 
+        which final regulations are issued under paragraph (1), section 
+        204 of the Small Business Programs Improvement Act of 1996 (15 
+        U.S.C. 695 note) is repealed.
+
+SEC. 8. FUNDING LEVELS FOR CERTAIN FINANCINGS UNDER THE SMALL BUSINESS 
+              INVESTMENT ACT OF 1958.
+
+    Section 20 of the Small Business Act (15 U.S.C. 631 note) is 
+amended by adding at the end the following:
+    ``(g) Program Levels for Certain Small Business Investment Act of 
+1958 Financings.--The following program levels are authorized for 
+financings under section 504 of the Small Business Investment Act of 
+1958:
+            ``(1) $4,000,000,000 for fiscal year 2001.
+            ``(2) $5,000,000,000 for fiscal year 2002.
+            ``(3) $6,000,000,000 for fiscal year 2003.''.
+
+SEC. 9. TIMELY ACTION ON APPLICATIONS.
+
+    (a) Automatic Approval of Pending Applications.--An application by 
+a State or local development company to expand its operations under 
+title V of the Small Business Investment Act of 1958 into another 
+territory, county, or State that is pending on the date of enactment of 
+this Act and that was submitted to the Administration 12 months or more 
+before that date of enactment shall be deemed to be approved beginning 
+21 days after that date of enactment, unless the Administration has 
+taken final action to approve or deny the application before the end of 
+that 21-day period.
+    (b) Definitions.--In this section--
+            (1) the term ``Administration'' means the headquarters of 
+        the Small Business Administration; and
+            (2) the term ``development company'' has the same meaning 
+        as in section 103 of the Small Business Investment Act of 1958 
+        (15 U.S.C. 662).
+
+SEC. 10. USE OF CERTAIN UNOBLIGATED AND UNEXPENDED FUNDS.
+
+    (a) Transfer of Funds.--Notwithstanding any other provision of law, 
+unobligated and unexpended balances of the funds described in 
+subsection (b) are transferred to and made available to the Small 
+Business Administration to fund the costs of guaranteed loans under 
+section 7(a) of the Small Business Act.
+    (b) Sources.--Funds described in this subsection are--
+            (1) funds transferred to the Business Loan Program Account 
+        of the Small Business Administration from the Department of 
+        Defense under the Department of Defense Appropriations Act, 
+        1995 (Public Law 103-335) and section 507(g) of the Small 
+        Business Reauthorization Act of 1997 (15 U.S.C. 636 note) for 
+        the DELTA Program under that section 507; and
+            (2) funds previously made available under the Omnibus 
+        Consolidated Rescissions and Appropriations Act of 1996 (110 
+        Stat. 1321 et seq.) and the Omnibus Consolidated Appropriations 
+        Act, 1997 (110 Stat. 3009 et seq.) for the microloan guarantee 
+        program under section 7(m) of the Small Business Act.
+
+SEC. 11. HUBZONE REDESIGNATED AREAS.
+
+    Section 3(p) of the Small Business Act (15 U.S.C. 632(p)) is 
+amended--
+            (1) in paragraph (1)--
+                    (A) in subparagraph (B), by striking ``or'' at the 
+                end;
+                    (B) in subparagraph (C), by striking the period at 
+                the end and inserting ``; or''; and
+                    (C) by adding at the end the following:
+                    ``(D) redesignated areas.''; and
+            (2) in paragraph (4), by adding at the end the following:
+                    ``(C) Redesignated area.--The term `redesignated 
+                area' means any census tract that ceases to be 
+                qualified under subparagraph (A) and any 
+                nonmetropolitan county that ceases to be qualified 
+                under subparagraph (B), except that a census tract or a 
+                nonmetropolitan county may be a `redesignated area' 
+                only for the 3-year period following the date on which 
+                the census tract or nonmetropolitan county ceased to be 
+                so qualified.''.
+
+            Attest:
+
+                                                             Secretary.
+106th CONGRESS
+
+  2d Session
+
+                               H. R. 2614
+
+_______________________________________________________________________
+
+                               AMENDMENT
+
+HR 2614 EAS----2
+HR 2614 EAS----3
+HR 2614 EAS----4
+HR 2614 EAS----5

@@ -1,0 +1,251 @@
+Calendar No. 67
+102d CONGRESS
+1st Session
+S. 173
+[Report No. 102-41]
+A BILL
+To permit the Bell Telephone Companies to conduct research on, design,
+and manufacture telecommunications equipment, and for other purposes.
+April 19, 1991
+Reported with amendments
+S 173 RS
+Calendar No. 67
+102d CONGRESS
+1st Session
+S. 173
+[Report No. 102-41]
+To permit the Bell Telephone Companies to conduct research on, design,
+and manufacture telecommunications equipment, and for other purposes.
+IN THE SENATE OF THE UNITED STATES
+January 14 (legislative day, JANUARY 3), 1991
+Mr. HOLLINGS (for himself, Mr. DANFORTH, Mr. BREAUX, Mr. STEVENS,
+Mr. BURNS, Mr. ADAMS, Mr. COCHRAN, Mr. ROTH, Mr. BENTSEN, Mr. HEFLIN,
+Mr. LOTT, Mr. HATCH, Mr. FOWLER, Ms. MIKULSKI, Mr. MACK, Mr. FORD, Mr. GORE,
+Mr. DASCHLE, Mr. SHELBY, Mr. SYMMS, Mr. NUNN, Mr. CRAIG, and Mr. HELMS)
+introduced the following bill; which was read twice and referred to the
+Committee on Commerce, Science, and Transportation
+April 19, 1991
+Reported, under authority of the order of the Senate of April 18 (legislative
+day, April 9), 1991, by Mr. Hollings, with amendments
+[Omit the part struck through and insert the part printed in italic]
+A BILL
+To permit the Bell Telephone Companies to conduct research on, design,
+and manufacture telecommunications equipment, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Telecommunications Equipment  Research and
+  Manufacturing Competition Act of 1991'.
+SEC. 2. FINDINGS.
+  The Congress finds that the continued economic growth and the international
+  competitiveness of American industry would be assisted by permitting the Bell
+  Telephone Companies, through their affiliates, to manufacture (including
+  design, development, and fabrication) telecommunications equipment and
+  customer premises equipment, and to engage in research with respect to
+  such equipment.
+SEC. 3. AMENDMENTS TO THE COMMUNICATIONS ACT OF 1934.
+  Title II of the Communications Act of 1934  (47 U.S.C. 201 et seq.) is
+  amended by adding at the end the following new section:
+`REGULATION OF MANUFACTURING BY BELL TELEPHONE COMPANIES
+  `SEC. 227. (a) Subject to the requirements of this section and the
+  regulations prescribed thereunder, a Bell Telephone Company, through an
+  affiliate of that Company, notwithstanding any restriction or obligation
+  imposed before the date of enactment of this section pursuant to the
+  Modification of Final Judgment on the lines of business in which a Bell
+  Telephone Company may engage, may manufacture and provide telecommunications
+  equipment and manufacture customer premises equipment, except that
+  neither a Bell Telephone Company nor any of its affiliates may engage in
+  such manufacturing in conjunction with a Bell Telephone Company not so
+  affiliated or any of its affiliates.
+  `(b) Any manufacturing or provision authorized under subsection (a)
+  shall be conducted only through an affiliate (hereafter in this section
+  referred to as a `manufacturing affiliate') that is separate from any Bell
+  Telephone Company.
+  `(c) The Commission shall prescribe regulations to ensure that--
+  `(1) such manufacturing affiliate shall maintain books, records, and
+  accounts separate from its affiliated Bell Telephone Company which identify
+  all transactions between the manufacturing affiliate and its affiliated
+  Bell Telephone Company and, even if such manufacturing affiliate is not
+  a publicly held corporation, prepare financial statements which are in
+  compliance with Federal financial reporting requirements for publicly
+  held corporations, file such statements with the Commission, and make such
+  statements available for public inspection;
+  `(2) consistent with the provisions of this section, neither a Bell Telephone
+  Company nor any of its nonmanufacturing affiliates shall perform sales,
+  advertising, installation, production, or maintenance operations for a
+  manufacturing affiliate; except that institutional advertising, of a type
+  not related to specific telecommunications equipment, carried out by the
+  Bell Telephone Company or its affiliates shall be permitted if each party
+  pays its pro rata share;
+  `(3)(A) such manufacturing affiliate shall conduct all of its manufacturing
+  within the United States and, except as otherwise provided in this
+  paragraph, all component parts of customer premises equipment manufactured
+  by such affiliate, and all component parts of telecommunications equipment
+  manufactured by such affiliate, shall have been manufactured within the
+  United  States;
+  `(B) such affiliate may use component parts manufactured outside the United
+  States if--
+  `(i) such affiliate first makes a good faith effort to obtain equivalent
+  component parts manufactured within the United States at reasonable prices,
+  terms, and conditions; and
+  `(ii) for the aggregate of telecommunications equipment and customer
+  premises equipment manufactured and sold in the United States by such
+  affiliate in any calendar year, the cost of the components manufactured
+  outside the United States contained in the equipment does not exceed 40
+  percent of the sales revenue derived from such equipment;
+  `(C) any such affiliate that uses component parts manufactured outside
+  the United States in the manufacture of telecommunications equipment and
+  customer premises equipment within the United States shall--
+  `(i) certify to the Commission that a good faith effort was made to obtain
+  equivalent parts manufactured within the United States at reasonable prices,
+  terms, and conditions, which certification shall be filed on a quarterly
+  basis with the Commission and list component parts, by type, manufactured
+  outside the United States; and
+  `(ii) certify to the Commission on an annual basis that for the aggregate of
+  telecommunications equipment and customer premises equipment manufactured
+  and sold in the United States by such affiliate in the previous calendar
+  year, the cost of the components manufactured outside the United States
+  contained in such equipment did not exceed the percentage specified in
+  subparagraph (B)(ii) or adjusted in accordance with subparagraph (G);
+  `(D)(i) if the Commission determines, after reviewing the certification
+  required in subparagraph (C)(i), that such affiliate failed to make the
+  good faith effort required in subparagraph (B)(i) or, after reviewing the
+  certification required in subparagraph (C)(ii), that such affiliate has
+  exceeded the percentage specified in subparagraph (B)(ii), the Commission
+  may impose penalties or forfeitures as provided for in title V of this Act;
+  `(ii) any supplier claiming to be damaged because a manufacturing affiliate
+  failed to make the good faith effort required in subparagraph (B)(i) may
+  make complaint to the Commission as provided for in section 208 of this
+  Act, or may bring suit for the recovery of actual damages for which such
+  supplier claims such affiliate may be liable under the provisions of this
+  Act in any district court of the United States of competent jurisdiction;
+  `(E) the Commission, in consultation with the Secretary of Commerce, shall,
+  on an annual basis, determine the cost of component parts manufactured
+  outside the United States contained in all telecommunications equipment
+  and customer premises equipment sold in the United States as a percentage
+  of the revenues from sales of such equipment in the previous calendar year;
+  `(F) a manufacturing affiliate may use intellectual property created outside
+  the United States in the manufacture of telecommunications equipment and
+  customer premises equipment in the United States;
+  `(G) the Commission may not waive or alter the requirements of this
+  subsection, except that the Commission, on an annual basis, shall adjust the
+  percentage specified in subparagraph (B)(ii) to the percentage determined
+  by the Commission, in consultation with the Secretary of Commerce, as
+  directed in subparagraph (E);
+  `(4) no more than 90  [Struck out->] per centum  [<-Struck out] percent of
+  the equity of such manufacturing affiliate shall be owned by its affiliated
+  Bell Telephone Company and any affiliates of that Bell Telephone Company;
+  `(5) any debt incurred by such manufacturing affiliate may not be issued
+  by its affiliates, and such manufacturing affiliate shall be prohibited
+  from incurring debt in a manner that would permit a creditor, on default,
+  to have recourse to the assets of its affiliated Bell Telephone Company's
+  telecommunications services business;
+  `(6) such manufacturing affiliate shall not be required to operate separately
+  from the other affiliates of its affiliated Bell Telephone Company;
+  `(7) if an affiliate of a Bell Telephone Company becomes affiliated with
+  a manufacturing entity, such affiliate shall be treated as a manufacturing
+  affiliate of that Bell Telephone Company within the meaning of subsection
+  (b) and shall comply with the requirements of this section; and
+  `(8) such manufacturing affiliate shall make available, without
+  discrimination or self-preference as to price, delivery, terms, or
+  conditions, to all local telephone exchange carriers, for use with the
+  public telecommunications network, any telecommunications equipment
+  manufactured by such affiliate so long as each such purchasing carrier--
+  `(A) does not either manufacture telecommunications equipment, or have a
+  manufacturing affiliate which manufactures telecommunications equipment, or
+  `(B) agrees to make available, to the Bell Telephone Company affiliated
+  with such manufacturing affiliate or any of the other affiliates of such
+  [Struck out->] company,  [<-Struck out] Company, any telecommunications
+  equipment manufactured by such purchasing carrier or by any entity or
+  organization with which such carrier is affiliated.
+  `(d)(1) The Commission shall prescribe regulations to require that each
+  Bell Telephone Company shall maintain and file with the Commission full
+  and complete information with respect to the protocols and technical
+  requirements for connection with and use of its telephone exchange service
+  facilities. Such regulations shall require each such  [Struck out->]
+  company  [<-Struck out] Company to report promptly to the Commission any
+  material changes or planned changes to such protocols and requirements,
+  and the schedule for implementation of such changes or planned changes.
+  `(2) A Bell Telephone Company shall not disclose to any of its affiliates
+  any information required to be filed under paragraph (1) unless that
+  information is immediately so filed.
+  `(3) When two or more carriers are providing regulated telephone
+  exchange service in the same area of interest, each such carrier shall
+  provide to other such carriers timely information on the deployment of
+  telecommunications equipment.
+  `(4) The Commission may prescribe such additional regulations under this
+  subsection as may be necessary to ensure that manufacturers in competition
+  with a Bell Telephone Company's manufacturing affiliate have ready and
+  equal access to the information required for such competition that such
+  [Struck out->] company  [<-Struck out] Company makes available to its
+  manufacturing affiliate.
+  `(e) The Commission shall prescribe regulations requiring that any Bell
+  Telephone Company which has an affiliate that engages in any manufacturing
+  authorized by subsection (a) shall--
+  `(1) provide, to other manufacturers of telecommunications equipment and
+  customer premises equipment, opportunities to sell such equipment to such
+  Bell Telephone Company which are comparable to the opportunities which
+  such Company provides to its affiliates;
+  `(2) not subsidize its manufacturing affiliate with revenues from its
+  regulated telecommunications services; and
+  `(3) only purchase equipment from its manufacturing affiliate at the open
+  market price.
+  `(f) A Bell Telephone Company and its affiliates may engage in close
+  collaboration with any manufacturer of customer premises equipment or
+  telecommunications equipment during the design and development of hardware,
+  software, or combinations thereof relating to such equipment.
+  `(g) The Commission may prescribe such additional rules and regulations
+  as the Commission determines necessary to carry out the provisions of
+  this section.
+  `(h) For the purposes of administering and enforcing the provisions of this
+  section and the regulations prescribed thereunder, the Commission shall have
+  the same authority, power, and functions with respect to any Bell Telephone
+  Company as the Commission has in administering and enforcing the provisions
+  of this title with respect to any common carrier subject to this Act.
+  `(i) The authority of the Commission to prescribe regulations to carry out
+  this section is effective on the date of enactment of this section. The
+  Commission shall prescribe such regulations within one hundred and eighty
+  days after such date of enactment, and the authority to engage in the
+  manufacturing authorized in subsection (a) shall not take effect until
+  regulations prescribed by the Commission under subsections (c), (d), and
+  (e) are in effect.
+  `(j) Nothing in this section shall prohibit any Bell Telephone Company
+  from engaging, directly or through any affiliate, in any manufacturing
+  activity in which any Company or affiliate was authorized to engage on
+  the date of enactment of this section.
+  `(k) As used in this section:
+  `(1) The term `affiliate' means any organization or entity that, directly
+  or indirectly, owns or controls, is owned or controlled by, or is under
+  common ownership with a Bell Telephone Company. Such term includes any
+  organization or entity (A) in which a Bell Telephone Company and any of
+  its affiliates have an equity interest of greater than 10 percent, or a
+  management interest of greater than 10 percent, or (B) in which a Bell
+  Telephone Company and any of its affiliates have any other significant
+  financial interest.
+  `(2) The term `Bell Telephone Company' means those companies listed in
+  appendix A of the Modification of Final Judgment, and includes any successor
+  or assign of any such company, but does not include any affiliate of any
+  such company.
+  `(3) The term `customer premises equipment' means equipment employed
+  on the premises of a person (other than a carrier) to originate, route,
+  or terminate telecommunications.
+  `(4) The term `manufacturing' has the same meaning as such term has in the
+  Modification of Final Judgment as interpreted in United States v. Western
+  Electric, Civil Action No. 82-0192 (United States District Court, District
+  of Columbia) (filed December 3, 1987).
+  `(5) The term `Modification of Final Judgment' means the decree entered
+  August 24, 1982, in United States v. Western Electric, Civil Action
+  No. 82-0192 (United States District Court, District of Columbia).
+  `(6) The term `telecommunications' means the transmission, between
+  or among points specified by the user, of information of the user's
+  choosing, without change in the form or content of the information as
+  sent and received, by means of an electromagnetic transmission medium,
+  including all instrumentalities, facilities, apparatus, and services
+  (including the collection, storage, forwarding, switching, and delivery
+  of such information) essential to such transmission.
+  `(7) The term `telecommunications equipment' means equipment, other than
+  customer premises equipment, used by a carrier to provide telecommunications
+  services.
+  `(8) The term `telecommunications service' means the offering for hire
+  of telecommunications facilities, or of telecommunications by means of
+  such facilities.'.

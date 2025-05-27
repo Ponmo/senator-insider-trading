@@ -1,0 +1,168 @@
+Calendar No. 244
+112th CONGRESS
+1st Session
+S. 1931
+
+To provide civilian payroll tax relief, to reduce the Federal budget deficit, and for other purposes.
+IN THE SENATE OF THE UNITED STATES
+November 30, 2011
+Mr. Heller introduced the following bill; which was read the first time
+December 1, 2011
+Read the second time and placed on the calendar
+A BILL
+To provide civilian payroll tax relief, to reduce the Federal budget deficit, and for other purposes.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.—This Act may be cited as the “Temporary Tax Holiday and Government Reduction Act”.
+(b) Table Of Contents.—The table of contents of this Act is as follows:
+
+Sec. 1. Short title; table of contents.
+TITLE I—PAYROLL TAX RELIEF
+
+Sec. 101. Extension of payroll tax holiday.
+TITLE II—DEFICIT REDUCTION
+Subtitle A—Reform Of Federal Benefits For Millionaires
+
+Sec. 201. Ending unemployment and supplemental nutrition assistance program benefits for millionaires.
+Sec. 202. Increase in the Medicare part B and D premiums for higher-income Medicare beneficiaries.
+Subtitle B—Federal Employee Provisions
+
+Sec. 211. Reduction in the number of Federal employees.
+Sec. 212. Extension of pay freeze for Federal employees.
+Sec. 213. Reduction of revised discretionary spending limits to achieve savings from Federal employee provisions.
+Subtitle C—Buffett Rule Act Of 2011
+
+Sec. 221. Short title.
+Sec. 222. Donation to pay down national debt.
+TITLE I—PAYROLL TAX RELIEF
+SEC. 101. EXTENSION OF PAYROLL TAX HOLIDAY.
+Section 601(c) of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (26 U.S.C. 1401 note) is amended by striking “year 2011” and inserting “years 2011 and 2012”.
+TITLE II—DEFICIT REDUCTION
+Subtitle A—Reform Of Federal Benefits For Millionaires
+SEC. 201. ENDING UNEMPLOYMENT AND SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM BENEFITS FOR MILLIONAIRES.
+(a) Ending Unemployment Benefits For Millionaires.—
+(1) IN GENERAL.—Subtitle E of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter:
+“CHAPTER 56—EXCESS UNEMPLOYMENT COMPENSATION
+
+“Sec. 5895. Excess unemployment compensation.
+“SEC. 5895. EXCESS UNEMPLOYMENT COMPENSATION.
+“(a) Imposition Of Tax.—There is hereby imposed a tax equal to 100 percent of the excess unemployment compensation received by a taxpayer in any taxable year.
+“(b) Excess Unemployment Compensation.—For purposes of this section, the term ‘excess unemployment compensation’ means, with respect to any State, the amount which bears the same ratio (not to exceed 1) to the amount of unemployment compensation received by the taxpayer from such State in the taxable year as—
+“(1) the excess of—
+“(A) the taxpayer's adjusted gross income for such taxable year, over
+“(B) $750,000 ($1,500,000 in the case of a joint return), bears to
+“(2) $250,000 ($500,000 in the case of a joint return).
+“(c) Additional Definitions.—For purposes of this section—
+“(1) ADJUSTED GROSS INCOME.—The term ‘adjusted gross income’ has the meaning given such term by section 62.
+“(2) UNEMPLOYMENT COMPENSATION.—The term ‘unemployment compensation’ has the meaning given such term by section 85(b).
+“(d) Administrative Provisions.—For purposes of the deficiency procedures of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
+“(e) Transfer Of Tax Receipts.—With respect to excess unemployment compensation received by any taxpayer from a State, there is hereby appropriated to the unemployment fund (as defined in section 3306(f)) of such State, an amount equal to the amount of the tax imposed under subsection (a) on such excess unemployment compensation received in the Treasury.”.
+(2) TAX NOT DEDUCTIBLE.—Section 275(a) of the Internal Revenue Code of 1986 is amended by inserting after paragraph (6) the following new paragraph:
+“(7) Tax imposed by section 5895.”.
+(3) CLERICAL AMENDMENT.—The table of chapters for subtitle E of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:
+“CHAPTER 56—EXCESS UNEMPLOYMENT COMPENSATION
+(4) EFFECTIVE DATE.—The amendments made by this subsection shall apply to unemployment compensation received in taxable years beginning after December 31, 2011.
+(b) Ending Supplemental Nutrition Assistance Program Benefits For Millionaires.—
+(1) IN GENERAL.—Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015) is amended by adding at the end the following:
+“(r) Disqualification For Receipt Of Assets Of At Least $1,000,000.—Any household in which a member receives income or assets with a fair market value of at least $1,000,000 shall, immediately on the receipt of the assets, become ineligible for further participation in the program until the date on which the household meets the income eligibility and allowable financial resources standards under section 5.”.
+(2) CONFORMING AMENDMENTS.—Section 5(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(a)) is amended in the second sentence by striking “sections 6(b), 6(d)(2), and 6(g)” and inserting “subsections (b), (d)(2), (g), and (r) of section 6”.
+SEC. 202. INCREASE IN THE MEDICARE PART B AND D PREMIUMS FOR HIGHER-INCOME MEDICARE BENEFICIARIES.
+(a) Increase.—
+(1) IN GENERAL.—Section 1839(i)(3) of the Social Security Act (42 U.S.C. 1395r(i)(3)) is amended—
+(A) in subparagraph (A)(i), by inserting “and year” after “individual”;
+(B) in the table specified in subparagraph (C)(i)—
+(i) in the fourth row, by inserting “but not more than $750,000” after “$200,000”; and
+(ii) by adding at the end the following 2 new rows:
+
+
+More than $750,000 but not more than $1,000,000 95 percent
+More than $1,000,000 100 percent
+(2) EFFECTIVE DATE.—The amendments made by paragraph (1) shall apply to 2013 and subsequent years.
+(b) Extension Of Freeze On Inflation Adjustments.—Section 1839(i)(6) of the Social Security Act (42 U.S.C. 1395r(i)(6)) is amended, in the matter preceding subparagraph (A), by striking “December 31, 2019” and inserting “December 31, 2022”.
+Subtitle B—Federal Employee Provisions
+SEC. 211. REDUCTION IN THE NUMBER OF FEDERAL EMPLOYEES.
+(a) Definitions.—In this section—
+(1) the term “agency” means an executive agency as defined under section 105 of title 5, United States Code; and
+(2) the term “employee” has the meaning given that term under section 2105 of title 5, United States Code.
+(b) Determination Of Number Of Employees.—Not later than 60 days after the date of enactment of this Act, the Director of the Office of Management and Budget and the Director of the Office of Personnel Management shall determine the number of full-time employees employed in each agency. The head of each agency shall cooperate with the Director of the Office of Management and Budget and the Director of the Office of Personnel Management in making the determinations.
+(c) Replacement Hire Rate.—
+(1) IN GENERAL.—During the period described under paragraph (2), the head of each agency may hire no more than 1 employee in that agency for every 3 full-time employees who leave employment in that agency.
+(2) PERIOD OF REPLACEMENT HIRE RATE.—Paragraph (1) shall apply to each agency during the period beginning 60 days after the date of enactment of this Act and ending on the date on which the Director of the Office of Management and Budget and the Director of the Office of Personnel Management make a determination that the number of full-time employees employed in that agency is 10 percent less than the number of full-time employees employed in that agency determined under subsection (b).
+(d) Waivers.—
+(1) IN GENERAL.—This section may be waived upon a written determination by the President that—
+(A) the existence of a state of war or other national security concern so requires; or
+(B) the existence of an extraordinary emergency threatening life, health, public safety, property, or the environment so requires.
+(2) SUBMISSION TO CONGRESS.—The President shall submit to Congress any written determination under paragraph (1).
+SEC. 212. EXTENSION OF PAY FREEZE FOR FEDERAL EMPLOYEES.
+(a) In General.—Section 147 of the Continuing Appropriations Act, 2011 (Public Law 111–242; 5 U.S.C. 5303 note) is amended—
+(1) in subsection (b)(1), by striking “December 31, 2012” and inserting “December 31, 2015”; and
+(2) in subsection (c), by striking “December 31, 2012” and inserting “December 31, 2015”.
+(b) Clarification That Freeze Applies To Legislative Branch.—
+(1) MEMBERS OF CONGRESS.—Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) (relating to cost of living adjustments for Members of Congress) during the period beginning on the first day of the first pay period beginning on or after February 1, 2013 and ending on December 31, 2015.
+(2) LEGISLATIVE BRANCH EMPLOYEES.—
+(A) DEFINITION.—In this paragraph, the term “legislative branch employee” means—
+(i) an employee whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
+(ii) an employee of any agency established in the legislative branch.
+(B) FREEZE.—Notwithstanding any other provision of law, no cost of living adjustment required by statute with respect to a legislative branch employee which (but for this subparagraph) would otherwise take effect during the period beginning on the date of enactment of this Act and ending on December 31, 2015 shall be made.
+SEC. 213. REDUCTION OF REVISED DISCRETIONARY SPENDING LIMITS TO ACHIEVE SAVINGS FROM FEDERAL EMPLOYEE PROVISIONS.
+Section 251A(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a(2)) is amended to read as follows:
+“(2) REVISED DISCRETIONARY SPENDING LIMITS.—The discretionary spending limits for fiscal years 2013 through 2021 under section 251(c) shall be replaced with the following:
+“(A) For fiscal year 2013—
+“(i) for the revised security category, $542,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $493,000,000,000 in budget authority.
+“(B) For fiscal year 2014—
+“(i) for the revised security category, $548,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $497,000,000,000 in budget authority.
+“(C) For fiscal year 2015—
+“(i) for the revised security category, $556,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $503,000,000,000 in budget authority.
+“(D) For fiscal year 2016—
+“(i) for the revised security category, $567,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $512,000,000,000 in budget authority.
+“(E) For fiscal year 2017—
+“(i) for the revised security category, $579,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $522,000,000,000 in budget authority.
+“(F) For fiscal year 2018—
+“(i) for the revised security category, $592,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $534,000,000,000 in budget authority.
+“(G) For fiscal year 2019—
+“(i) for the revised security category, $605,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $546,000,000,000 in budget authority.
+“(H) For fiscal year 2020—
+“(i) for the revised security category, $618,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $557,000,000,000 in budget authority.
+“(I) For fiscal year 2021—
+“(i) for the revised security category, $632,000,000,000 in budget authority; and
+“(ii) for the revised nonsecurity category, $568,000,000,000 in budget authority.”.
+Subtitle C—Buffett Rule Act Of 2011
+SEC. 221. SHORT TITLE.
+This title may be cited as the “Buffett Rule Act of 2011”.
+SEC. 222. DONATION TO PAY DOWN NATIONAL DEBT.
+(a) In General.—Subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by adding at the end the following new part:
+“PART IX—DONATIONS TO PAY DOWN NATIONAL DEBT
+
+“Sec. 6097. Donation to pay down national debt.
+“SEC. 6097. DONATION TO PAY DOWN NATIONAL DEBT.
+“(a) General Rule.—Every taxpayer who makes a return of the tax imposed by subtitle A for any taxable year may donate an amount (not less than $1), in addition to any payment of tax for such taxable year, which shall be deposited in the general fund of the Treasury.
+“(b) Manner And Time Of Designation.—Any donation under subsection (a) for any taxable year—
+“(1) shall be made at the time of filing the return of the tax imposed by subtitle A for such taxable year and in such manner as the Secretary may by regulation prescribe, except that—
+“(A) the designation for such donation shall be either on the first page of the return or on the page bearing the taxpayer’s signature, and
+“(B) the designation shall be by a box added to the return, and the text beside the box shall provide:
+
+
+“By checking here, I signify that in addition to my tax liability, I would like to donate the included payment to be used exclusively for the purpose of paying down the national debt.
+and
+“(2) shall be accompanied by a payment of the amount so designated.
+“(c) Treatment Of Amounts Donated.—For purposes of this title, the amount donated by any taxpayer under subsection (a) shall be treated as a contribution made by such taxpayer to the United States on the last date prescribed for filing the return of tax imposed by subtitle A (determined without regard to extensions) or, if later, the date the return is filed.
+“(d) Transfers To Account To Reduce Public Debt.—The Secretary shall, from time to time, transfer to the special account established by section 3113(d) of title 31, United States Code, amounts equal to the amounts donated under this section.”.
+(b) Clerical Amendment.—The table of parts for subchapter A of such chapter is amended by adding at the end the following new item:
+“PART IX. DONATIONS TO PAY DOWN NATIONAL DEBT”.
+(c) Effective Date.—The amendments made by this section shall apply to returns for taxable years ending after December 31, 2011.
+Calendar No. 244
+112th CONGRESS
+     1st Session
+S. 1931
+A BILL
+To provide civilian payroll tax relief, to reduce the Federal budget deficit, and for other purposes.
+December 1, 2011
+Read the second time and placed on the calendar

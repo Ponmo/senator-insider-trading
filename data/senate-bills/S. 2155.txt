@@ -1,0 +1,142 @@
+Economic Growth, Regulatory Relief, and Consumer Protection Act
+
+TITLE I--IMPROVING CONSUMER ACCESS TO MORTGAGE CREDIT
+
+(Sec. 101) This bill amends the Truth in Lending Act (TILA) to allow a depository institution or credit union with assets below a specified threshold to forgo certain ability-to-pay requirements regarding residential mortgage loans. Specifically, those requirements are waived if a loan: (1) is originated by and retained by the institution, (2) complies with requirements regarding prepayment penalties and points and fees, and (3) does not have negative amortization or interest-only terms. Furthermore, for such requirements to be waived, the institution must consider and verify the debt, income, and financial resources of the consumer.
+
+The bill also provides for circumstances in which such requirements shall be waived with respect to a loan that is transferred: (1) by reason of bankruptcy or failure of the originating institution, (2) to a similar institution, (3) in the event of a merger, or (4) to a wholly owned subsidiary of the institution.
+
+(Sec. 102) Mortgage appraisal services donated by a fee appraiser to an organization eligible to receive tax-deductible charitable contributions are deemed to be customary and reasonable under TILA.
+
+(Sec. 103) The bill amends the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to exempt from appraisal requirements certain federally related, rural real-estate transactions valued below a specified limit if no certified appraiser is available.
+
+(Sec. 104) The bill amends the Home Mortgage Disclosure Act of 1975 to exempt from specified public disclosure requirements depository institutions and credit unions that originate fewer than a specified number of closed-end mortgages or open-end lines of credit.
+
+The Government Accountability Office (GAO) must report on these changes.
+
+(Sec. 105) The bill amends the Federal Credit Union Act to allow a credit union to extend a member business loan with respect to a one- to four-family dwelling, regardless of whether the dwelling is the member's primary residence. Under current law, a member business loan may be extended with respect to such a dwelling only if it is the member's primary residence.
+
+(Sec. 106) The bill amends the S.A.F.E. Mortgage Licensing Act of 2008 to revise the Act's civil liability immunity provisions and to temporarily allow loan originators that meet specified requirements to continue to originate loans after moving: (1) from one state to another, or (2) from a depository institution to a non-depository institution.
+
+(Sec. 107) The bill amends TILA to specify that a retailer of manufactured housing that meets certain requirements is generally not a "mortgage originator" subject to requirements under that Act.
+
+(Sec. 108) The bill exempts from certain escrow requirements a residential mortgage loan held by a depository institution or credit union that: (1) has assets of $10 billion or less, (2) originated 1,000 or fewer mortgages in the preceding year, and (3) meets other specified requirements.
+
+(Sec. 109) The required mortgage disclosure waiting period is eliminated with respect to a second offer of credit if the creditor offers a consumer a lower annual percentage rate in the second offer.
+
+TITLE II--REGULATORY RELIEF AND PROTECTING CONSUMER ACCESS TO CREDIT
+
+(Sec. 201) Federal banking agencies must develop a specified Community Bank Leverage Ratio (the ratio of a bank's equity capital to its consolidated assets) for banks with assets of less than $10 billion. Such banks that exceed this ratio shall be deemed to be in compliance with all other capital and leverage requirements. Federal banking agencies may consider a company's risk profile when evaluating whether it qualifies as a community bank for purposes of the ratio requirement.
+
+(Sec. 202) The bill amends the Federal Deposit Insurance Act to exclude reciprocal deposits of an insured depository institution from certain limitations on prohibited broker deposits if the total reciprocal deposits of the institution do not exceed the lesser of $5 billion or 20% of its total liabilities. Reciprocal deposits are deposits that banks make with each other in equal amounts. (Generally, an insured depository institution that is not well capitalized may not accept funds obtained by or through any deposit broker for deposit.)
+
+(Sec. 203) The bill amends the Bank Holding Company Act of 1956 to exempt from the "Volcker Rule" banks with: (1) total assets valued at less than $10 billion, and (2) trading assets and liabilities comprising not more than 5% of total assets. (The Volcker Rule prohibits banking agencies from engaging in proprietary trading or entering into certain relationships with hedge funds and private-equity funds.)
+
+(Sec. 204) Volcker Rule restrictions on entity name sharing are eased in specified circumstances.
+
+(Sec. 205) The bill amends the Federal Deposit Insurance Act to require federal banking agencies to issue regulations allowing certain small depository institutions to satisfy reporting requirements with a reduced Report of Condition and Income (i.e., call report).
+
+(Sec. 206) The bill amends the Home Owners' Loan Act to permit certain federal savings associations to elect to operate, subject to supervision by the Office of the Comptroller of the Currency, with the same rights and duties as national banks (including operating without certain lending restrictions).
+
+(Sec. 207) The Federal Reserve Board (FRB) must increase, from $1 billion to $3 billion, the consolidated asset threshold (i.e., permissible debt level) for a bank holding company or savings and loan holding company that: (1) is not engaged in significant nonbanking activities; (2) does not conduct significant off-balance-sheet activities; and (3) does not have a material amount of debt or equity securities, other than trust-preferred securities, outstanding. If warranted for supervisory purposes, the FRB may exclude a company from this threshold increase.
+
+(Sec. 208) The bill amends the Expedited Funds Availability Act to apply the Act, which governs bank deposit holds, to American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam. The Act's one-day extension for certain deposits in noncontiguous states or territories shall also apply to these territories.
+
+(Sec. 209) The bill amends the United States Housing Act of 1937 to reduce inspection requirements and environmental-review requirements for certain smaller, rural public-housing agencies.
+
+(Sec. 210) The bill amends the Federal Deposit Insurance Act to increase the asset limit below which certain depository institutions are eligible for an 18-month, instead of a 12-month, examination cycle.
+
+(Sec. 211) The bill creates the Insurance Policy Advisory Committee on International Capital Standards and Other Insurance Issues at the FRB. The FRB and the Department of the Treasury must report on: (1) their efforts regarding global insurance regulatory or supervisory forums, and (2) any final international insurance capital standards prior to adoption of such standards.
+
+(Sec. 212) The bill amends the Federal Credit Union Act to require the National Credit Union Administration to hold public hearings on its draft annual budget.
+
+(Sec. 213) A financial institution is authorized to record personal information from a scan, copy, or image of an individual's driver's license or personal identification card and store the information electronically when an individual initiates an online request to open an account or obtain a financial product. The financial institution may use the information for the purpose of verifying the authenticity of the driver's license or identification card, verifying the identity of the individual, or complying with legal requirements. The financial institution must delete any copy or image of an individual's driver's license or personal identification card after use.
+
+(Sec. 214) The bill amends the Federal Deposit Insurance Act to specify that a federal banking agency may not subject a depository institution to higher capital standards with respect to a high-volatility commercial real-estate (HVCRE) exposure unless the exposure is an HVCRE acquisition, development, or construction (ADC) loan.
+
+An HVCRE ADC loan : (1) is secured by land or improved real property; (2) has the purpose of providing financing to acquire, develop, or improve the real property such that the property becomes income-producing; and (3) is dependent upon future income or sales proceeds from, or refinancing of, the real property for the repayment of the loan.
+
+(Sec. 215) The Social Security Administration (SSA) is directed to develop a database to facilitate the verification of consumer information upon request by a certified financial institution. Such verification shall be provided only with the consumer's consent and in connection with a credit transaction. Users of the database shall pay system costs as determined by the SSA.
+
+(Sec. 216) The bill directs Treasury to report on the risks of cyber threats to financial institutions and capital markets.
+
+(Sec. 217) The bill amends the Federal Reserve Act to lower the maximum allowable amount of surplus funds of the Federal Reserve banks.
+
+TITLE III--PROTECTIONS FOR VETERANS, CONSUMERS, AND HOMEOWNERS
+
+(Sec. 301) The bill amends the Fair Credit Reporting Act to increase the length of time a consumer reporting agency must include a fraud alert in a consumer's file. It also: (1) requires a consumer reporting agency to provide a consumer with free credit freezes and to notify a consumer of their availability, (2) establishes provisions related to the placement and removal of these freezes, (3) creates requirements related to the protection of the credit records of minors.
+
+(Sec. 302) The bill limits, and establishes  a dispute process and verification procedures with respect to, the inclusion of a veteran's medical debt in a consumer credit report.
+
+(Sec. 303) The bill extends immunity from liability to certain individuals employed at financial institutions who, in good faith and with reasonable care, disclose the suspected exploitation of a senior citizen to a regulatory or law-enforcement agency. Similarly, the employing financial institution shall not be liable with respect to disclosures made by such employees.
+
+The bill allows financial institutions and third-party entities to offer training related to the suspected financial exploitation of a senior citizen to specified employees. The bill provides guidance regarding the content, timing, and record-maintenance requirements of such training.
+
+(Sec. 304) The sunset provision of the Protecting Tenants at Foreclosure Act is repealed, restoring notification requirements and other protections related to the eviction of renters in foreclosed properties. (The Act expired on December 31, 2014.)
+
+(Sec. 305) Treasury may use loan guarantees and credit enhancements to remediate lead and asbestos hazards in residential properties.
+
+(Sec. 306) The bill amends the United States Housing Act of 1937 to revise the Family-Self-Sufficiency (FSS) program, an employment and savings incentive program for families that reside in public housing or have housing vouchers. Specifically, the bill:
+
+combines existing, separately operated FSS programs into a single program;
+extends program eligibility to tenants of certain privately owned properties subsidized with project-based rental assistance;
+revises program requirements related to eligibility, supportive services, and escrow deposits; and
+otherwise modifies the FSS program.
+
+(Sec. 307) The Consumer Financial Protection Bureau is directed to promulgate ability-to-repay regulations regarding property assessed clean energy financing.
+
+(Sec. 308) The bill directs the GAO to report on the accuracy and security of consumer reporting agencies and consumer reports.
+
+(Sec. 309) A refinanced home loan may not be guaranteed by the Department of Veterans Affairs (VA), unless: (1) a specified minimum time period has passed between the original loan and the refinancing; and (2) the lender complies with provisions related to fee recoupment, mortgage interest rates, and net tangible benefit tests.
+
+The Department of Housing and Urban Development (HUD) and the Government National Mortgage Association (Ginnie Mae) must report on the liquidity of the VA Housing Loan Program.
+
+The VA must report annually on refinanced home loans to veterans.
+
+(Sec. 310) The bill amends the Federal National Mortgage Association Charter Act and the Federal Home Loan Mortgage Corporation Act to allow the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac), when determining whether to purchase a residential mortgage, to consider a borrower's credit score only if certain procedural requirements are met with respect to the validation and approval of credit-scoring models.
+
+The Federal Housing Finance Agency must, by regulation, establish standards and criteria for processes used by Fannie Mae and Freddie Mac to validate and approve credit-scoring models in accordance with the bill.
+
+(Sec. 311) The GAO is directed to report on foreclosures, homeownership, and mortgage defaults in Puerto Rico before and after Hurricane Maria.
+
+(Sec. 312) HUD must report on and provide recommendations for lead-based paint hazard prevention and abatement, with an emphasis on preventing exposure in children.
+
+(Sec. 313) The bill amends the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 to make permanent the one-year grace period during which a servicemember is protected from foreclosure after leaving military service.
+
+TITLE IV--TAILORING REGULATIONS FOR CERTAIN BANK HOLDING COMPANIES
+
+(Sec. 401) The bill amends the Financial Stability Act of 2010, with respect to nonbank financial companies supervised by the FRB and certain bank holding companies, to:
+
+increase the asset threshold at which certain enhanced prudential standards shall apply, from $50 billion to $250 billion, while allowing the FRB discretion in determining whether a financial institution with assets equal or greater than $100 billion must be subject to such standards;
+increase the asset threshold at which company-run stress tests are required, from $10 billion to $250 billion; and 
+increase the asset threshold for mandatory risk committees, from $10 billion to $50 billion.
+
+(Sec. 402) The bill requires the appropriate federal banking agencies to exclude, for purposes of calculating a custodial bank's supplementary leverage ratio, funds of a custodial bank that are deposited with a central bank. ("Supplementary leverage ratio" is a capital adequacy measure that refers to the ratio of a banking organization's tier-one capital to its leverage exposure.) The amount of such funds may not exceed the total value of deposits of the custodial bank linked to fiduciary or custodial and safekeeping accounts.
+
+(Sec. 403) This bill amends the Federal Deposit Insurance Act to require certain municipal obligations to be treated as level 2B liquid assets if they are investment grade, liquid, and readily marketable. Under current law, corporate debt securities and publicly traded common-equity shares, but not municipal obligations, may be treated as level 2B liquid assets (which are considered to be high-quality assets).
+
+TITLE V--ENCOURAGING CAPITAL FORMATION
+
+(Sec. 501) The bill amends the Securities Act of 1933 to exempt from state registration securities qualified for national trading by the Securities and Exchange Commission (SEC) and authorized to be listed on a national securities exchange. Currently, securities listed on exchanges specified by statute or SEC rule are exempt.
+
+(Sec. 502) The bill directs the SEC to report on the risks and benefits of algorithmic trading in capital markets.
+
+(Sec. 504) The bill amends the Investment Company Act of 1940 to exempt from the definition of an "investment company," for purposes of specified limitations applicable to such a company under the Act, a qualifying venture capital fund that has no more than 250 investors. Specifically, the bill applies to a venture capital fund that has less than $10 million in aggregate capital contributions and uncalled committed capital. Under current law, a venture capital fund is considered to be an investment company if it has more than 100 investors.
+
+(Sec. 505) The bill requires the SEC to offset future fees and assessments due from a national securities exchange or association that: (1) has previously overpaid such fees and assessments, and (2) informs the SEC of the overpayment within 10 years.
+
+(Sec. 506) The bill amends the Investment Company Act of 1940 to apply the Act to investment companies created under the laws of Puerto Rico, the U.S. Virgin Islands, or any other U.S. possession.
+
+(Sec. 507) The bill requires the SEC to increase, from $5 million to $10 million, the 12-month sales threshold beyond which an issuer is required to provide investors with additional disclosures related to compensatory benefit plans.
+
+(Sec. 508) The bill expands the applicability to issuers of "Regulation A+" (which exempts certain smaller offerings from securities registration requirements).
+
+(Sec. 509) The bill directs the SEC to revise registration rules to allow a closed-end company to use offering and proxy rules currently available to other issuers of securities, thereby reducing filing requirements and restrictions on communications with investors in certain circumstances. (A closed-end company is a publicly traded investment management company that sells a limited number of shares to investors in an initial public offering.)
+
+TITLE VI--PROTECTIONS FOR STUDENT BORROWERS
+
+(Sec. 601) The bill amends TILA to prospectively revise provisions relating to cosigners of private student loans. Specifically, the bill: (1) prohibits a creditor from declaring a default or accelerating the debt of a private student loan on the sole basis of the death or bankruptcy of a cosigner to such a loan, and (2) directs loan holders to release cosigners from any obligation upon the death of the student borrower.
+
+(Sec. 602) The bill amends the Fair Credit Reporting Act to allow a person to request the removal of a previously reported default regarding a private education loan from a consumer report if: (1) the lender chooses to offer a loan-rehabilitation program that requires a number of consecutive on-time monthly payments demonstrating renewed ability and willingness to repay the loan, and (2) the consumer meets those requirements. A consumer may obtain such rehabilitation benefits only once per loan. The GAO shall report on the implementation of these provisions.
+
+(Sec. 603) The bill amends the Financial Literacy and Education Improvement Act to direct the Financial Literacy and Education Commission to establish best practices for teaching financial literacy skills at institutions of higher education.

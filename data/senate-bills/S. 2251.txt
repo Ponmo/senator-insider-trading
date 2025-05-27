@@ -1,0 +1,2178 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2251 Placed on Calendar Senate (PCS)]
+
+
+
+
+
+                                                       Calendar No. 464
+
+106th CONGRESS
+
+  2d Session
+
+                                S. 2251
+
+_______________________________________________________________________
+
+                                 A BILL
+
+   To amend the Federal Crop Insurance Act to improve crop insurance 
+  coverage, to provide agricultural producers with choices to manage 
+                     risk, and for other purposes.
+
+_______________________________________________________________________
+
+                             March 20, 2000
+
+                 Read twice and placed on the calendar
+
+
+
+
+
+                                                       Calendar No. 464
+106th CONGRESS
+  2d Session
+                                S. 2251
+
+   To amend the Federal Crop Insurance Act to improve crop insurance 
+  coverage, to provide agricultural producers with choices to manage 
+                     risk, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 20, 2000
+
+Mr. Lugar, from the Committee on Agriculture, Nutrition, and Forestry, 
+ reported the following original bill; which was read twice and placed 
+                            on the calendar
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Federal Crop Insurance Act to improve crop insurance 
+  coverage, to provide agricultural producers with choices to manage 
+                     risk, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Risk Management 
+for the 21st Century Act''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                    TITLE I--CROP INSURANCE COVERAGE
+
+Sec. 101. Quality adjustment.
+Sec. 102. Prevented planting.
+Sec. 103. Payment of portion of premium by Corporation.
+Sec. 104. Assigned yields.
+Sec. 105. Multiyear disaster actual production history adjustment.
+Sec. 106. Noninsured crop disaster assistance program.
+                 TITLE II--RESEARCH AND PILOT PROGRAMS
+
+Sec. 201. Research and pilot programs.
+Sec. 202. Research and development contracting authority.
+Sec. 203. Choice of risk management options.
+Sec. 204. Conforming amendments.
+                       TITLE III--ADMINISTRATION
+
+Sec. 301. Board of Directors of Corporation.
+Sec. 302. Good farming practices.
+Sec. 303. Sanctions for program noncompliance and fraud.
+Sec. 304. Oversight of agents and loss adjusters.
+Sec. 305. Adequate coverage for States.
+Sec. 306. Records and reporting.
+Sec. 307. Fees for plans of insurance.
+Sec. 308. Limitation on double insurance.
+Sec. 309. Specialty crops.
+Sec. 310. Federal Crop Insurance Improvement Commission.
+Sec. 311. Highly erodible land and wetland conservation.
+          TITLE IV--EFFECTIVE DATES; TERMINATION OF AUTHORITY
+
+Sec. 401. Effective dates.
+Sec. 402. Termination of authority.
+
+                    TITLE I--CROP INSURANCE COVERAGE
+
+SEC. 101. QUALITY ADJUSTMENT.
+
+    Section 508(a) of the Federal Crop Insurance Act (7 U.S.C. 1508(a)) 
+is amended by striking paragraph (6) and inserting the following:
+            ``(6) Quality adjustment policies.--
+                    ``(A) In general.--The Corporation shall offer 
+                coverage that permits a reduction in the quantity of 
+                production of an agricultural commodity produced during 
+                a crop year, or any similar adjustment, that results 
+                from the agricultural commodity not meeting the quality 
+                standards established in the policy.
+                    ``(B) Election not to receive coverage.--
+                            ``(i) In general.--A producer may elect not 
+                        to receive quality adjustment coverage.
+                            ``(ii) Premium reduction.--In the case of 
+                        an election described in clause (i), the 
+                        Corporation shall provide a reduction in the 
+                        premium payable by the producer for a plan of 
+                        insurance in an amount equal to the premium for 
+                        the quality adjustment coverage, as determined 
+                        by the Corporation.
+                    ``(C) Review of criteria and procedures.--The 
+                Corporation shall--
+                            ``(i) contract with a qualified person to 
+                        analyze the quality loss adjustment procedures 
+                        of the Corporation; and
+                            ``(ii) based on the analysis, make 
+                        adjustments in the quality loss adjustment 
+                        procedures of the Corporation necessary to more 
+                        accurately reflect local quality discounts that 
+                        are applied to agricultural commodities insured 
+                        under this title, taking into consideration the 
+                        actuarial soundness of the adjustment and the 
+                        prevention of fraud, waste, and abuse.''.
+
+SEC. 102. PREVENTED PLANTING.
+
+    (a) In General.--Section 508(a) of the Federal Crop Insurance Act 
+(7 U.S.C. 1508(a)) (as amended by section 101) is amended by inserting 
+after paragraph (6) the following:
+            ``(7) Prevented planting.--
+                    ``(A) Election not to receive coverage.--
+                            ``(i) In general.--A producer may elect not 
+                        to receive coverage for prevented planting of 
+                        an agricultural commodity.
+                            ``(ii) Premium reduction.--In the case of 
+                        an election described in clause (i), the 
+                        Corporation shall provide a reduction in the 
+                        premium payable by the producer for a plan of 
+                        insurance in an amount equal to the premium for 
+                        the prevented planting coverage, as determined 
+                        by the Corporation.
+                    ``(B) Equal coverage.--For each agricultural 
+                commodity for which prevented planting coverage is 
+                available, the Corporation shall offer an equal 
+                percentage level of prevented planting coverage.
+                    ``(C) Area conditions required for payment.--The 
+                Corporation shall limit prevented planting payments to 
+                producers in the area in which the farm is located that 
+                are generally affected by the conditions that prevent 
+                an agricultural commodity from being planted.
+                    ``(D) Substitute commodity.--
+                            ``(i) Authority to plant.--Subject to 
+                        clause (v), a producer that has prevented 
+                        planting coverage and is eligible to receive an 
+                        indemnity under the coverage may plant an 
+                        agricultural commodity, other than the 
+                        commodity covered by the prevented planting 
+                        coverage, on the acreage originally prevented 
+                        from being planted.
+                            ``(ii) Nonavailability of insurance.--A 
+                        substitute agricultural commodity planted under 
+                        clause (i) for harvest in the same crop year 
+                        shall not be eligible for coverage under a 
+                        policy or plan of insurance under this title or 
+                        for noninsured crop disaster assistance under 
+                        section 196 of the Agricultural Market 
+                        Transition Act (7 U.S.C. 7333).
+                            ``(iii) Relationship to other 
+                        requirements.--The producer of a substitute 
+                        agricultural commodity under clause (ii) shall 
+                        remain eligible for the benefits described in 
+                        subsection (b)(7).
+                            ``(iv) Effect on actual production 
+                        history.--If a producer plants a substitute 
+                        agricultural commodity under clause (i) for a 
+                        crop year, the Corporation shall assign the 
+                        producer a yield, for that crop year for the 
+                        commodity that was prevented from being 
+                        planted, equal to 60 percent of the producer's 
+                        actual production history for that commodity 
+                        for purposes of determining the producer's 
+                        actual production history for subsequent crop 
+                        years.
+                            ``(v) Effect on prevented planting 
+                        payment.--If a producer plants a substitute 
+                        agricultural commodity under clause (i) before 
+                        the latest planting date established by the 
+                        Corporation for the agricultural commodity 
+                        prevented from being planted, the Corporation 
+                        shall not make a prevented planting payment 
+                        with regard to the commodity prevented from 
+                        being planted.
+                    ``(E) Relationship to other law.--This paragraph 
+                shall supersede subsection (h)(7) to the extent that 
+                this paragraph is inconsistent with subsection (h)(7).
+                    ``(F) Fiscal years.--This paragraph shall apply to 
+                each of fiscal years 2001 through 2004.''.
+    (b) Application.--The amendment made by subsection (a) shall be 
+reflected in the rates for applicable plans of insurance not later than 
+the 2001 reinsurance year.
+
+SEC. 103. PAYMENT OF PORTION OF PREMIUM BY CORPORATION.
+
+    (a) Expected Market Price.--Section 508(c) of the Federal Crop 
+Insurance Act (7 U.S.C. 1508(c)) is amended by striking paragraph (5) 
+and inserting the following:
+            ``(5) Expected market price.--
+                    ``(A) In general.--For the purposes of this title, 
+                the Corporation shall establish or approve the price 
+                level (referred to in this title as the `expected 
+                market price') of each agricultural commodity for which 
+                insurance is offered.
+                    ``(B) Amount.--The expected market price of an 
+                agricultural commodity--
+                            ``(i) except as otherwise provided in this 
+                        subparagraph, shall be not less than the 
+                        projected market price of the agricultural 
+                        commodity, as determined by the Corporation;
+                            ``(ii) may be based on the actual market 
+                        price of the agricultural commodity at the time 
+                        of harvest, as determined by the Corporation;
+                            ``(iii) in the case of revenue and other 
+                        similar plans of insurance, shall be the actual 
+                        market price of the agricultural commodity, as 
+                        determined by the Corporation; or
+                            ``(iv) in the case of cost of production or 
+                        similar plans of insurance, shall be the 
+                        projected cost of producing the agricultural 
+                        commodity, as determined by the Corporation.''.
+    (b) Premium Amounts.--Section 508(d)(2) of the Federal Crop 
+Insurance Act (7 U.S.C. 1508(d)(2)) is amended by striking subparagraph 
+(C) and inserting the following:
+                    ``(C) In the case of additional coverage at greater 
+                than or equal to 65 percent of the recorded or 
+                appraised average yield indemnified at 100 percent of 
+                the expected market price, or a comparable coverage for 
+                a plan of insurance that is not based on yield, but 
+                less than 75 percent of the recorded or appraised 
+                average yield indemnified at 100 percent of the 
+                expected market price, or a comparable coverage for a 
+                plan of insurance that is not based on yield, the 
+                amount of the premium shall--
+                            ``(i) be sufficient to cover anticipated 
+                        losses and a reasonable reserve; and
+                            ``(ii) include an amount for operating and 
+                        administrative expenses, as determined by the 
+                        Corporation, on an industry-wide basis as a 
+                        percentage of the amount of the premium used to 
+                        define loss ratio.
+                    ``(D) In the case of additional coverage equal to 
+                or greater than 75 percent of the recorded or appraised 
+                average yield indemnified at 100 percent of the 
+                expected market price, or a comparable coverage for a 
+                plan of insurance that is not based on yield, the 
+                amount of the premium shall--
+                            ``(i) be sufficient to cover anticipated 
+                        losses and a reasonable reserve; and
+                            ``(ii) include an amount for operating and 
+                        administrative expenses, as determined by the 
+                        Corporation, on an industry-wide basis as a 
+                        percentage of the amount of the premium used to 
+                        define loss ratio.''.
+    (c) Payment of Portion of Premium by Corporation.--Section 508(e) 
+of the Federal Crop Insurance Act (7 U.S.C. 1508(e)) is amended--
+            (1) by striking paragraph (1) and inserting the following:
+            ``(1) In general.--
+                    ``(A) Mandatory payments.--For the purpose of 
+                encouraging the broadest possible participation of 
+                producers in the crop insurance plans of insurance 
+                described in subsections (b) and (c), the Corporation 
+                shall pay a part of the premium in the amounts 
+                determined under this subsection.
+                    ``(B) Discretionary payments.--For the purpose of 
+                encouraging the broadest possible participation of 
+                producers, in the case of a plan of insurance approved 
+                by the Corporation under subsection (h), the 
+                Corporation may pay a part of the premium as determined 
+                under this subsection.''; and
+            (2) in paragraph (2), by striking subparagraphs (B) and (C) 
+        and inserting the following:
+                    ``(B) In the case of additional coverage less than 
+                or equal to 50 percent of the recorded or appraised 
+                average yield indemnified at 100 percent of the 
+                expected market price, or a comparable coverage for a 
+                plan of insurance that is not based on yield, the 
+                amount shall be equal to the sum of--
+                            ``(i) 60 percent of the amount of the 
+                        premium established under subsection 
+                        (d)(2)(B)(i); and
+                            ``(ii) the amount of operating and 
+                        administrative expenses determined under 
+                        subsection (d)(2)(B)(ii).
+                    ``(C) In the case of additional coverage at 55 
+                percent or 60 percent of the recorded or appraised 
+                average yield indemnified at 100 percent of the 
+                expected market price, or a comparable coverage for a 
+                plan of insurance that is not based on yield, the 
+                amount shall be equal to the sum of--
+                            ``(i) 45 percent of the amount of the 
+                        premium established under subsection 
+                        (d)(2)(B)(i); and
+                            ``(ii) the amount of operating and 
+                        administrative expenses determined under 
+                        subsection (d)(2)(B)(ii).
+                    ``(D) In the case of additional coverage at 65 
+                percent or 70 percent of the recorded or appraised 
+                average yield indemnified at 100 percent of the 
+                expected market price, or a comparable coverage for a 
+                plan of insurance that is not based on yield, the 
+                amount shall be equal to the sum of--
+                            ``(i) 50 percent of the amount of the 
+                        premium established under subsection 
+                        (d)(2)(C)(i); and
+                            ``(ii) the amount of operating and 
+                        administrative expenses determined under 
+                        subsection (d)(2)(C)(ii).
+                    ``(E) In the case of additional coverage equal to 
+                or greater than 75 percent of the recorded or appraised 
+                average yield indemnified at 100 percent of the 
+                expected market price, or a comparable coverage for a 
+                plan of insurance that is not based on yield, the 
+                amount shall be equal to the sum of--
+                            ``(i) 55 percent of the amount of the 
+                        premium established for coverage at 75 percent 
+                        of the recorded or appraised average yield 
+                        indemnified at 100 percent of the expected 
+                        market price under subsection (d)(2)(D)(i); and
+                            ``(ii) the amount of operating and 
+                        administrative expenses determined under 
+                        subsection (d)(2)(D)(ii).
+                    ``(F) Subparagraphs (A) through (E) shall apply to 
+                each of fiscal years 2001 through 2004.''.
+    (d) Revenue Coverage for Potatoes.--Section 508(a) of the Federal 
+Crop Insurance Act (7 U.S.C. 1508(a)) is amended by striking paragraph 
+(3) and inserting the following:
+            ``(3) Exclusions.--
+                    ``(A) In general.--Insurance provided under this 
+                subsection shall not cover losses due to--
+                            ``(i) the neglect or malfeasance of the 
+                        producer;
+                            ``(ii) the failure of the producer to 
+                        reseed to the same crop in such areas and under 
+                        such circumstances as it is customary to 
+                        reseed; or
+                            ``(iii) the failure of the producer to 
+                        follow good farming practices (as determined by 
+                        the Secretary).
+                    ``(B) Revenue coverage for potatoes.--No plan of 
+                insurance provided under this title (including a plan 
+                of insurance approved by the Board under subsection 
+                (h)) shall cover losses due to a reduction in revenue 
+                for potatoes except as covered under a whole farm plan 
+                of insurance, as determined by the Corporation.''.
+    (e) Conforming Amendments.--Section 508 of the Federal Crop 
+Insurance Act (7 U.S.C. 1508) is amended--
+            (1) in subsection (e), by striking paragraph (4); and
+            (2) in subsection (g)(2)(D), by striking ``(as provided in 
+        subsection (e)(4))''.
+
+SEC. 104. ASSIGNED YIELDS.
+
+    Section 508(g)(2)(B) of the Federal Crop Insurance Act (7 U.S.C. 
+1508(g)(2)(B)) is amended--
+            (1) by striking ``assigned a yield'' and inserting 
+        ``assigned--
+                            ``(i) a yield'';
+            (2) by striking the period at the end and inserting ``; 
+        or''; and
+            (3) by adding at the end the following:
+                            ``(ii) a yield determined by the 
+                        Corporation, in the case of--
+                                    ``(I) a producer that has not had a 
+                                share of the production of the insured 
+                                crop for more than 2 crop years, as 
+                                determined by the Secretary;
+                                    ``(II) a producer that produces an 
+                                agricultural commodity on land that has 
+                                not been farmed by the producer; and
+                                    ``(III) a producer that rotates a 
+                                crop produced on a farm to a crop that 
+                                has not been produced on the farm.''.
+
+SEC. 105. MULTIYEAR DISASTER ACTUAL PRODUCTION HISTORY ADJUSTMENT.
+
+    Section 508(g) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)) 
+is amended by adding at the end the following:
+            ``(4) Transitional adjustment for disasters.--
+                    ``(A) Definition of a producer that has suffered a 
+                multiyear disaster.--In this paragraph, the term `a 
+                producer that has suffered a multiyear disaster' means 
+                a producer (or a successor entity through which the 
+                actual production history of the producer can be 
+                traced) that has suffered a natural disaster during at 
+                least 3 of the immediately preceding 5 crop years that 
+                resulted in a cumulative reduction of at least 25 
+                percent in the actual production history of the crop of 
+                an agricultural commodity.
+                    ``(B) Elimination of certain years of production 
+                history.--Notwithstanding paragraph (2), effective 
+                beginning with the 2001 crop year, for the purpose of 
+                calculating the actual production history for a crop of 
+                an agricultural commodity, a producer that has suffered 
+                a multiyear disaster with respect to the crop may 
+                exclude 1 year of production history for each 5 years 
+                included in the actual production history calculation 
+                of the crop for which the producer purchased crop 
+                insurance.
+                    ``(C) Corporation's share of changed costs.--In the 
+                case of an exclusion under subparagraph (B), in 
+                addition to any other authority to pay any portion of 
+                premium, the Corporation shall pay--
+                            ``(i) the portion of the premium that 
+                        represents the increase in premium associated 
+                        with the exclusion;
+                            ``(ii) all additional indemnities 
+                        associated with the exclusion; and
+                            ``(iii) any amounts that result from the 
+                        difference in the administrative and operating 
+                        expenses owed to an approved insurance provider 
+                        as the result of an exclusion in actual 
+                        production history under this paragraph.
+                    ``(D) Increase in actual production history after 
+                exclusions.--In the case of a producer that has 
+                received an exclusion under subparagraph (B), the 
+                Corporation shall not limit the increase of the actual 
+                production history based on the producer's actual 
+                production of the crop of an agricultural commodity in 
+                succeeding crop years until the actual production 
+                history for the producer reaches the level for the crop 
+                year immediately preceding the first year of the 
+                multiyear disaster.
+                    ``(E) Termination of exclusion authority.--The 
+                authority to apply this paragraph to a producer shall 
+                terminate with respect to the first crop year in which 
+                crop insurance is available to the producer that 
+                adequately insures against natural disasters that occur 
+                in multiple crop years, as determined by the 
+                Corporation.
+                    ``(F) Reinsurance years.--This paragraph shall 
+                apply to each of the 2001 through 2004 reinsurance 
+                years.''.
+
+SEC. 106. NONINSURED CROP DISASTER ASSISTANCE PROGRAM.
+
+    (a) Operation and Administration of Program.--Section 196(a)(2) of 
+the Agricultural Market Transition Act (7 U.S.C. 7333(a)(2)) is amended 
+by adding at the end the following:
+                    ``(C) Combination of similar types or varieties.--
+                At the option of the Secretary, all types or varieties 
+                of a crop or commodity, described in subparagraphs (A) 
+                and (B), may be considered to be a single eligible crop 
+                under this section.''.
+    (b) Records and Application Date.--Section 196(b) of the 
+Agricultural Market Transition Act (7 U.S.C. 7333(b)) is amended--
+            (1) in the second sentence of paragraph (1), by striking 
+        ``at such time as the Secretary may require.'' and inserting 
+        ``not later than March 15.'';
+            (2) by striking paragraph (2) and inserting the following:
+            ``(2) Records.--To be eligible for assistance under this 
+        section, a producer shall provide annually to the Secretary 
+        records of crop acreage, acreage yields, and production for 
+        each crop, as required by the Secretary.''; and
+            (3) in paragraph (3), by inserting ``annual'' after ``shall 
+        provide''.
+    (c) Loss Requirements.--Section 196 of the Agricultural Market 
+Transition Act (7 U.S.C. 7333) is amended by striking subsection (c) 
+and inserting the following:
+    ``(c) Loss Requirements.--
+            ``(1) Cause.--To be eligible for assistance under this 
+        section, a producer of an eligible crop shall have suffered a 
+        loss of a noninsured commodity as the result of a cause 
+        described in subsection (a)(3).
+            ``(2) Assistance.--On making a determination described in 
+        subsection (a)(3), the Secretary shall provide assistance under 
+        this section to producers of an eligible crop that have 
+        suffered a loss as a result of the cause described in 
+        subsection (a)(3).
+            ``(3) Prevented planting.--The Secretary shall make a 
+        prevented planting noninsured crop disaster assistance payment 
+        to a producer if the producer is prevented from planting more 
+        than 15 percent of the acreage intended for the eligible crop 
+        because of a cause described in subsection (a)(3), as 
+        determined by the Secretary.
+            ``(4) Area trigger.--The Secretary may provide assistance 
+        to individual producers without any requirement of an area 
+        loss.''.
+    (d) New Eligible Crops.--Section 196 of the Agricultural Market 
+Transition Act (7 U.S.C. 7333) is amended--
+            (1) in subsection (d)(1)--
+                    (A) by inserting ``(except as provided in 
+                subsection (j))'' after ``percent''; and
+                    (B) by inserting ``determined under subsection 
+                (e)'' after ``for the crop'';
+            (2) by redesignating subsection (j) as subsection (l); and
+            (3) by inserting after subsection (i) the following:
+    ``(j) New Eligible Crops.--
+            ``(1) In general.--Subject to paragraph (2), if a producer 
+        produces an eligible crop that is new to an area (as determined 
+        by the Secretary), a payment for the producer shall be computed 
+        by substituting the following percentages of yields for the 
+        percentages of yields specified in subsection (d)(1):
+                    ``(A) In the case of the first crop year of the 
+                eligible crop produced by the producer, 35 percent of 
+                the established yield for the crop determined under 
+                subsection (e).
+                    ``(B) In the case of each of the second through 
+                fourth years of the eligible crop produced by the 
+                producer--
+                            ``(i) 45 percent of the established yield 
+                        for the crop determined under subsection (e); 
+                        or
+                            ``(ii) if the producer received a payment 
+                        under this section for the first crop year of 
+                        the eligible crop produced by the producer, 35 
+                        percent of the established yield for the crop 
+                        determined under subsection (e).
+            ``(2) Temporary ineligibility.--If a producer of an 
+        eligible crop described in paragraph (1) receives a payment 
+        under this section in both the first and second crop years of 
+        the eligible crop, the producer shall be ineligible for a 
+        payment under this section until the producer has successfully 
+        produced the crop for at least 3 consecutive crop years with no 
+        loss reported, as determined by the Secretary.''.
+    (e) Service Fee.--Section 196 of the Agricultural Market Transition 
+Act (7 U.S.C. 7333) (as amended by subsection (d)) is amended by 
+inserting after subsection (j) the following:
+    ``(k) Service Fee.--
+            ``(1) In general.--To be eligible to receive assistance for 
+        an eligible crop for a crop year under this section, a producer 
+        shall pay to the Secretary (at the time at which the producer 
+        provides reports under subsection (b)(3)) a service fee for the 
+        eligible crop in an amount that is equal to the lesser of--
+                    ``(A) the equivalent of the per policy fee for 
+                catastrophic risk protection available under section 
+                508(b)(5) of the Federal Crop Insurance Act (7 U.S.C. 
+                1508(b)(5)); or
+                    ``(B) $200 per producer per county, but not to 
+                exceed a total of $600 per producer.
+            ``(2) Waiver.--The Secretary shall waive the service fee 
+        required under paragraph (1) in the case of a limited resource 
+        farmer, as defined by the Secretary.
+            ``(3) Use.--The Secretary shall deposit service fees 
+        collected under this subsection in the Commodity Credit 
+        Corporation Fund.''.
+    (f) Crop Years.--This section and the amendments made by this 
+section shall apply to each of the 2001 through 2004 crop years.
+
+                 TITLE II--RESEARCH AND PILOT PROGRAMS
+
+SEC. 201. RESEARCH AND PILOT PROGRAMS.
+
+    The Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) is amended 
+by adding at the end the following:
+
+``SEC. 522. RESEARCH AND PILOT PROGRAMS.
+
+    ``(a) General Provisions.--
+            ``(1) In general.--Except as otherwise provided in this 
+        subsection, the Corporation may conduct research, surveys, 
+        pilot programs, and investigations relating to crop insurance 
+        and agriculture-related risks and losses based on proposals 
+        developed by the Corporation or by an approved insurance 
+        provider to evaluate whether the proposal or new risk 
+        management tool is suitable for the marketplace and addresses 
+        the needs of producers of agricultural commodities.
+            ``(2) Private coverage.--Under this section, the 
+        Corporation shall not conduct any activity that provides 
+        insurance protection against a risk if insurance protection 
+        against the risk is generally available from private companies.
+            ``(3) Covered activities.--The activities described in 
+        paragraph (1) include insurance on losses involving--
+                    ``(A) reduced forage on rangeland caused by drought 
+                or insect infestation;
+                    ``(B) livestock poisoning and disease;
+                    ``(C) destruction of bees due to the use of 
+                pesticides;
+                    ``(D) unique special risks related to fruits, nuts, 
+                vegetables, and specialty crops in general, 
+                aquacultural species, and forest industry needs 
+                (including appreciation);
+                    ``(E) loss of timber due to drought, flood, fire, 
+                or other natural disaster;
+                    ``(F) other agricultural products as determined by 
+                the Board; and
+                    ``(G) after October 1, 2000, insurance coverage for 
+                livestock.
+            ``(4) Scope of pilot programs.--The Corporation may--
+                    ``(A) offer a pilot program authorized under this 
+                title on a regional, State, or national basis after 
+                considering the interests of affected producers and the 
+                interests of, and risks to, the Corporation;
+                    ``(B) operate the pilot program, including any 
+                modifications of the pilot program, for a period of up 
+                to 4 years;
+                    ``(C) extend the time period for the pilot program 
+                for additional periods, as determined appropriate by 
+                the Corporation; and
+                    ``(D) provide pilot programs that would allow 
+                producers--
+                            ``(i) to receive premium discounts for 
+                        using whole farm units or single crop units of 
+                        insurance; and
+                            ``(ii) to cross State and county boundaries 
+                        to form insurable units.
+            ``(5) Evaluation.--After the completion of any pilot 
+        program under this section, the Corporation shall evaluate the 
+        pilot program and submit to the Committee on Agriculture of the 
+        House of Representatives and the Committee on Agriculture, 
+        Nutrition, and Forestry of the Senate, a report on the 
+        operations of the pilot program, including the evaluation by 
+        the Corporation of the pilot program and the recommendations of 
+        the Corporation with respect to implementing the program on a 
+        national basis.
+            ``(6) Funding.--The amount of funds used to carry out 
+        research and pilot programs that are established after the date 
+        of enactment of this section (other than subsection (b)(2)) 
+        shall not exceed--
+                    ``(A) in the case of fiscal year 2001, $20,000,000;
+                    ``(B) in the case of fiscal year 2002, $40,000,000;
+                    ``(C) in the case of fiscal year 2003, $60,000,000; 
+                and
+                    ``(D) in the case of fiscal year 2004, $80,000,000.
+            ``(7) Fiscal years.--Paragraphs (3)(E), (3)(G), (4), and 
+        (6) shall apply to each of fiscal years 2001 through 2004.
+            ``(8) Relation to other laws.--
+                    ``(A) In general.--The terms and conditions of any 
+                policy or plan of insurance offered under this section 
+                that is reinsured by the Corporation shall not--
+                            ``(i) be subject to the jurisdiction of the 
+                        Commodity Futures Trading Commission or the 
+                        Securities and Exchange Commission; or
+                            ``(ii) be considered to be accounts, 
+                        agreements (including any transaction that is 
+                        of the character of, or is commonly known to 
+                        the trade as, an `option', `privilege', 
+                        `indemnity', `bid', `offer', `put', `call', 
+                        `advance guaranty', or `decline guaranty'), or 
+                        transactions involving contracts of sale of a 
+                        commodity for future delivery, traded or 
+                        executed on a contract market for the purposes 
+                        of the Commodity Exchange Act (7 U.S.C. 1 et 
+                        seq.).
+                    ``(B) Effect on cftc and commodity exchange act.--
+                Nothing in this paragraph affects the jurisdiction of 
+                the Commodity Futures Trading Commission or the 
+                applicability of the Commodity Exchange Act (7 U.S.C. 1 
+                et seq.) to any transaction conducted on a contract 
+                market under that Act by an approved insurance provider 
+                to offset the approved insurance provider's risk under 
+                a plan or policy of insurance under this section.''.
+
+SEC. 202. RESEARCH AND DEVELOPMENT CONTRACTING AUTHORITY.
+
+    Section 522 of the Federal Crop Insurance Act (as added by section 
+201) is amended by adding at the end the following:
+    ``(b) Research and Development Contracting Authority.--
+            ``(1) In general.--Subject to section 523(a), to obtain the 
+        best research and analysis concerning any significant issue 
+        pertaining to crop insurance, including outreach and education, 
+        pilot programs, or the development of a new plan of insurance, 
+        the Corporation may use only the authority provided by this 
+        section and funds made available under section 516(b)(2)(A) 
+        to--
+                    ``(A) contract on a competitive basis with 
+                qualified persons;
+                    ``(B) reimburse research costs associated with 
+                product development; and
+                    ``(C) reimburse costs associated with the 
+                reassessment and modification of plans of insurance.
+            ``(2) Alternative rating methodologies.--
+                    ``(A) In general.--The Corporation shall enter into 
+                contracts with qualified persons to study and develop 
+                alternative methodologies for rating plans of insurance 
+                for catastrophic risk protection and higher levels of 
+                additional coverage under subsections (b) and (c), 
+                respectively, of section 508, and rates for the plans 
+                of insurance, that take into account--
+                            ``(i) producers that elect not to 
+                        participate in the Federal crop insurance 
+                        program; and
+                            ``(ii) producers that elect to obtain only 
+                        catastrophic risk protection.
+                    ``(B) Priority.--The studies conducted under this 
+                paragraph shall provide priority to agricultural 
+                commodities with--
+                            ``(i) the largest average acreage 
+                        nationwide; and
+                            ``(ii) the lowest percentage of producers 
+                        that purchase additional coverage.
+                    ``(C) Funding.--
+                            ``(i) In general.--The Corporation shall 
+                        fund the studies conducted under this paragraph 
+                        from funds in the insurance fund available 
+                        under section 516(b)(2)(A).
+                            ``(ii) Amount.--There are authorized for 
+                        the studies conducted under this paragraph--
+                                    ``(I) in the case of each of fiscal 
+                                years 2001 and 2002, $1,000,0000; and
+                                    ``(II) in the case of each of 
+                                fiscal years 2003 and 2004, $250,000.
+                    ``(D) Fiscal years.--This paragraph shall apply to 
+                each of fiscal years 2001 through 2004.
+            ``(3) Research and development priorities.--The Corporation 
+        shall establish, as 1 of the highest research and development 
+        priorities of the Corporation, the development of a pasture, 
+        range, and forage program to promote land stewardship.
+            ``(4) Study of multiyear coverage.--
+                    ``(A) In general.--The Corporation shall contract 
+                with a qualified person to conduct a study to determine 
+                whether offering plans of insurance that provide 
+                coverage for multiple years would reduce fraud and 
+                abuse by persons that participate in the Federal crop 
+                insurance program.
+                    ``(B) Report.--Not later than 1 year after the date 
+                of enactment of this section, the Corporation shall 
+                submit to the Committee on Agriculture of the House of 
+                Representatives and the Committee on Agriculture, 
+                Nutrition, and Forestry of the Senate a report that 
+                describes the results of the study conducted under 
+                subparagraph (A).''.
+
+SEC. 203. CHOICE OF RISK MANAGEMENT OPTIONS.
+
+    (a) In General.--Section 522 of the Federal Crop Insurance Act (as 
+amended by section 202) is amended by adding at the end the following:
+    ``(c) Choice of Risk Management Options.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Agricultural commodity.--The term 
+                `agricultural commodity' means each agricultural 
+                commodity specified in section 518--
+                            ``(i) for which catastrophic risk 
+                        protection or additional coverage is available 
+                        under this title, other than solely this 
+                        section; and
+                            ``(ii) that is selected by the Secretary in 
+                        a manner that--
+                                    ``(I) encourages the maximum number 
+                                of participants in the program under 
+                                this subsection;
+                                    ``(II) provides a mixture of 
+                                program, specialty, and regional crops; 
+                                and
+                                    ``(III) gives consideration to 
+                                agricultural commodities with low crop 
+                                insurance participation rates.
+                    ``(B) Applicable crop.--The term `applicable crop' 
+                means each of the 2002 through 2004 crops of an 
+                agricultural commodity produced by a producer.
+                    ``(C) Applicable year.--The term `applicable year' 
+                means the year in which--
+                            ``(i) the applicable crop is produced on 
+                        the farm of a producer; and
+                            ``(ii) the producer elects to receive a 
+                        risk management payment or crop insurance 
+                        premium subsidy under this subsection.
+                    ``(D) Regulated exchange.--The term `regulated 
+                exchange' means a board of trade (as defined in section 
+                1a of the Commodity Exchange Act (7 U.S.C. 1a)) that is 
+                designated as a contract market under section 
+                2(a)(1)(B) of that Act (7 U.S.C. 2a).
+            ``(2) Risk management payments.--
+                    ``(A) Offer.--The Corporation shall offer either to 
+                make either risk management payments or to provide crop 
+                insurance premium subsidies for each of the 2002 
+                through 2004 crops of an agricultural commodity in 
+                accordance with subparagraph (B).
+                    ``(B) Terms.--Not later than the sales closing date 
+                for obtaining coverage for an agricultural commodity 
+                for each applicable year, an eligible producer may 
+                elect to receive, with respect to the agricultural 
+                commodity--
+                            ``(i) a risk management payment under this 
+                        subsection; or
+                            ``(ii) a crop insurance premium subsidy, 
+                        including a catastrophic risk protection 
+                        subsidy, under this subsection.
+            ``(3) Risk management payment.--
+                    ``(A) In general.--In the case of a producer that 
+                elects to receive a risk management payment for an 
+                applicable crop of an agricultural commodity under this 
+                subsection, the Corporation shall make a risk 
+                management payment to the producer that covers the 
+                agricultural commodity produced by the producer for the 
+                applicable crop.
+                    ``(B) Basis for payment.--The amount of a risk 
+                management payment shall be determined in accordance 
+                with paragraph (5).
+            ``(4) Qualifying risk management practices.--To be eligible 
+        for a risk management payment under this subsection for an 
+        applicable crop of an agricultural commodity, a producer shall 
+        obtain or use for the applicable crop a qualifying risk 
+        management practice from at least 2 of the following 
+        categories:
+                    ``(A) Crop insurance category.--A producer may 
+                purchase coverage for an agricultural commodity under a 
+                private plan of insurance or a Federal plan of 
+                insurance that is not subsidized.
+                    ``(B) Marketing risk category.--
+                            ``(i) Future or option.--A producer may 
+                        enter into a future or option for an 
+                        agricultural commodity produced on the farm of 
+                        the producer for the applicable crop on a 
+                        regulated exchange that is (as determined by 
+                        the Corporation)--
+                                    ``(I)(aa) in the case of a future, 
+                                at least 1 regulated futures contract 
+                                (as defined in section 1256(g) of the 
+                                Internal Revenue Code of 1986); and
+                                    ``(bb) in the case of an option, at 
+                                least 1 listed option (as defined in 
+                                section 1256(g) of that Code); and
+                                    ``(II) a hedging transaction (as 
+                                defined in section 1256(e)(2) of that 
+                                Code) involving an agricultural 
+                                commodity that is used to reduce 
+                                production, price, or revenue risk.
+                            ``(ii) Agricultural trade option.--A 
+                        producer may purchase, on other than a 
+                        regulated exchange, an agricultural trade 
+                        option for the applicable crop of an 
+                        agricultural commodity produced on the farm of 
+                        the producer that (as determined by the 
+                        Corporation)--
+                                    ``(I) provides coverage for at 
+                                least 10 percent of the estimated 
+                                monetary value of the agricultural 
+                                commodity;
+                                    ``(II) is an equity option (as 
+                                defined in section 1256(g) of the 
+                                Internal Revenue Code of 1986); and
+                                    ``(III) is a hedging transaction 
+                                (as defined in section 1256(e)(2) of 
+                                that Code) involving an agricultural 
+                                commodity that is used to reduce 
+                                production, price, or revenue risk.
+                            ``(iii) Cash forward or other marketing 
+                        contract.--A producer may enter into a cash 
+                        forward or other type of marketing contract for 
+                        at least 20 percent of the monetary value of an 
+                        agricultural commodity produced on the farm of 
+                        the producer for the applicable crop, as 
+                        determined by the Secretary.
+                            ``(iv) Marketing through cooperatives.--A 
+                        producer may market at least 25 percent of an 
+                        agricultural commodity produced by the producer 
+                        through a cooperative that is owned by 
+                        agricultural producers.
+                    ``(C) Financial risk category.--
+                            ``(i) Trust.--A producer may make a deposit 
+                        of an amount equal to at least 10 percent of 
+                        the payments of the producer for the applicable 
+                        year under the Agricultural Market Transition 
+                        Act (7 U.S.C. 7201 et seq.) into a trust 
+                        authorized by statute for eligible farming 
+                        businesses that may be established to accept 
+                        tax deductible contributions.
+                            ``(ii) Agricultural marketing and risk 
+                        management education.--A producer may attend 
+                        and complete in the applicable year an 
+                        agricultural marketing or risk management class 
+                        or seminar approved by the Corporation.
+                            ``(iii) Financial risk reduction.--A 
+                        producer may reduce farm financial risk by 
+                        reducing debt in an amount that reduces 
+                        leverage or by increasing liquidity, as 
+                        determined by the Secretary.
+                            ``(iv) Diversification.--A producer may 
+                        address production or financial risk by--
+                                    ``(I) diversifying production on 
+                                the farm of the producer by producing 
+                                at least 1 additional commodity on the 
+                                farm;
+                                    ``(II) significantly increasing 
+                                farm enterprise diversification in the 
+                                applicable year, as determined by the 
+                                Secretary;
+                                    ``(III) maintaining an integrated 
+                                farming system with a substantial 
+                                degree of diversification, as 
+                                determined by the Secretary; or
+                                    ``(IV) implementing a transition to 
+                                organic farming.
+                    ``(D) Farm resources risk category.--
+                            ``(i) Conservation practices.--A producer 
+                        may implement new or existing conservation 
+                        practices consisting of--
+                                    ``(I) nutrient management;
+                                    ``(II) integrated pest management;
+                                    ``(III) conservation tillage;
+                                    ``(IV) conservation buffers; or
+                                    ``(V) other conservation practices 
+                                that are appropriate for the farm, as 
+                                determined by the Secretary.
+                            ``(ii) Agricultural conservation management 
+                        plan.--A producer may develop a plan to 
+                        mitigate financial risk associated with 
+                        resource conservation through practices 
+                        consisting of--
+                                    ``(I) nutrient management;
+                                    ``(II) integrated pest management;
+                                    ``(III) soil erosion control;
+                                    ``(IV) conservation buffers;
+                                    ``(V) soil residue management;
+                                    ``(VI) water quantity or quality 
+                                management; or
+                                    ``(VII) other conservation 
+                                practices that are appropriate for the 
+                                farm, as determined by the Secretary.
+                            ``(iii) Agricultural resource 
+                        improvements.--A producer may invest in the 
+                        improvement or development of 1 or more of the 
+                        following capital land improvements on the farm 
+                        of the producer to reduce production risk:
+                                    ``(I) Irrigation management.
+                                    ``(II) Watershed management 
+                                structures.
+                                    ``(III) Planting trees for 
+                                windbreaks or water quality.
+                                    ``(IV) Soil quality management 
+                                options.
+                                    ``(V) Animal waste management 
+                                structures.
+                                    ``(VI) Other land improvements, as 
+                                determined by the Secretary.
+                    ``(E) Other category.--A producer may engage in any 
+                other risk management practice approved by the 
+                Secretary.
+            ``(5) Determination of risk management payment.--
+                    ``(A) In general.--The Secretary shall determine 
+                the amount of a risk management payment for an 
+                agricultural commodity produced on the farm of a 
+                producer for an applicable crop taking into 
+                consideration the expenditure by the producer on the 
+                risk management practices obtained or used by the 
+                producer.
+                    ``(B) Maximum payment.--No payment shall be made in 
+                excess of an amount equal to the national average of 
+                the previous year's liability for all catastrophic risk 
+                protection policies.
+                    ``(C) Funding.--
+                            ``(i) In general.--Subject to clause (ii), 
+                        there are authorized to be expended to carry 
+                        out this subsection from the insurance fund 
+                        under section 516(b)(2)(C) not more than 
+                        $500,000,000 for the period of fiscal years 
+                        2002 through 2004.
+                            ``(ii) Annual limitation.--Not more than 
+                        $200,000,000 may be expended in any fiscal year 
+                        to carry out this subsection.
+            ``(6) Administrative provisions.--
+                    ``(A) Certification.--A producer shall submit to 
+                the crop insurance agent or approved insurance provider 
+                a risk management practices form that certifies, in 
+                accordance with standards prescribed by the Secretary, 
+                the qualifying risk management practices and associated 
+                costs that were obtained or used by the producer during 
+                the applicable year.
+                    ``(B) Compliance.--The Corporation may perform 
+                random audits of producers that obtain a risk 
+                management payment to ensure that the producers 
+                obtained or used the qualifying risk management 
+                practices described in the form.
+                    ``(C) Violation of terms of risk management 
+                payment.--If a producer has accepted a risk management 
+                payment or crop insurance premium subsidy for an 
+                applicable year and the producer fails to comply with 
+                subparagraph (A), or to carry out a qualifying risk 
+                management option elected by the producer under 
+                paragraph (4), with respect to the applicable year, the 
+                producer--
+                            ``(i) shall refund to the Corporation an 
+                        amount equal to the risk management payment; 
+                        and
+                            ``(ii) may be subject to debarment from 
+                        loans and payments for a period of not to 
+                        exceed 5 years, as provided in section 
+                        506(n)(3)(B).
+                    ``(D) Assignment and sharing of benefits.--
+                            ``(i) Assignment of benefits.--Assignment 
+                        of a benefit provided under this subsection 
+                        shall be carried out as provided in section 
+                        8(g) of the Soil Conservation and Domestic 
+                        Allotment Act (16 U.S.C. 590h(g)).
+                            ``(ii) Notice.--The producer making the 
+                        assignment, or the assignee, shall provide the 
+                        Corporation with notice, in such manner as the 
+                        Corporation may require, of any assignment.
+                            ``(iii) Sharing of benefits.--The 
+                        Corporation shall provide for the sharing of 
+                        benefits under this subsection among all 
+                        producers that are at risk in the production of 
+                        an applicable crop on a fair and equitable 
+                        basis.
+            ``(7) Fiscal years.--This subsection shall apply to each of 
+        fiscal years 2002 through 2004.''.
+    (b) Authorization of Appropriations.--Section 516(a) of the Federal 
+Crop Insurance Act (7 U.S.C. 1516(a)) is amended--
+            (1) by striking paragraph (1) and inserting the following:
+            ``(1) Discretionary expenses.--There are authorized to be 
+        appropriated for fiscal year 1999 and each subsequent fiscal 
+        year such sums as are necessary to cover--
+                    ``(A) the salaries and expenses of the Corporation; 
+                and
+                    ``(B) the expenses of approved insurance providers 
+                incurred in carrying out section 522(c).''; and
+            (2) in paragraph (2)--
+                    (A) in subparagraph (A), by striking ``and'' at the 
+                end;
+                    (B) in subparagraph (B), by striking the period at 
+                the end and inserting a semicolon; and
+                    (C) by adding at the end the following:
+                    ``(C) risk management payments authorized under 
+                section 522(c) in an amount not to exceed $500,000,000 
+                for the period of fiscal years 2002 through 2004, of 
+                which not more than $200,000,000 may be expended for 
+                any 1 fiscal year; and''.
+
+SEC. 204. CONFORMING AMENDMENTS.
+
+    (a) Section 508 of the Federal Crop Insurance Act (7 U.S.C. 1508) 
+is amended--
+            (1) by striking subsection (m); and
+            (2) by redesignating subsection (n) as subsection (m).
+    (b) Section 516(b)(2)(A) of the Federal Crop Insurance Act (7 
+U.S.C. 1516(b)(2)(A)) is amended by striking ``exceed $3,500,000 for 
+each fiscal year.'' and inserting ``exceed--
+                            ``(i) in the case of each of fiscal years 
+                        2001 and 2002, $4,500,000;
+                            ``(ii) in the case of each of fiscal years 
+                        2003 and 2004, $3,750,000; and
+                            ``(iii) in the case of each subsequent 
+                        fiscal year, $3,500,000.''.
+    (c) Section 518 of the Federal Crop Insurance Act (7 U.S.C. 1518) 
+is amended by striking ``subsection (a) or (m) of section 508 of this 
+title'' and inserting ``section 508(a), 522, or 523''.
+
+                       TITLE III--ADMINISTRATION
+
+SEC. 301. BOARD OF DIRECTORS OF CORPORATION.
+
+    (a) In General.--Section 505 of the Federal Crop Insurance Act (7 
+U.S.C. 1505) is amended by striking subsection (a) and inserting the 
+following:
+    ``(a) Board of Directors.--
+            ``(1) In general.--The management of the Corporation shall 
+        be vested in a Board of Directors, subject to the general 
+        supervision of the Secretary.
+            ``(2) Composition.--The Board shall consist of--
+                    ``(A) 4 members who are active agricultural 
+                producers with or without crop insurance, with 1 member 
+                appointed from each of the 4 regions of the United 
+                States (as determined by the Secretary);
+                    ``(B) 1 member who is active in the crop insurance 
+                business;
+                    ``(C) 1 member who is active in the reinsurance 
+                business;
+                    ``(D) the Under Secretary for Farm and Foreign 
+                Agricultural Services;
+                    ``(E) the Under Secretary for Rural Development; 
+                and
+                    ``(F) the Chief Economist of the Department of 
+                Agriculture.
+            ``(3) Appointment and terms of private sector members.--The 
+        members of the Board described in subparagraphs (A), (B), and 
+        (C) of paragraph (2)--
+                    ``(A) shall be appointed by, and hold office at the 
+                pleasure of, the Secretary;
+                    ``(B) shall not be otherwise employed by the 
+                Federal Government;
+                    ``(C) shall be appointed to staggered 4-year terms, 
+                as determined by the Secretary; and
+                    ``(D) shall serve not more than 2 consecutive 
+                terms.
+            ``(4) Chairperson.--The Board shall select a member of the 
+        Board described in subparagraph (A), (B), or (C) of paragraph 
+        (2) to serve as Chairperson of the Board.
+            ``(5) Office of risk management.--The Office of Risk 
+        Management shall provide assistance to the Board in developing, 
+        reviewing, and recommending--
+                    ``(A) new plans of insurance and pilot projects 
+                under this title that are proposed by the Office or by 
+                a private insurance provider;
+                    ``(B) terms of the Standard Reinsurance Agreement;
+                    ``(C) rates for plans of insurance under this 
+                title; and
+                    ``(D) other issues involved in the administration 
+                of Federal crop insurance, as requested by the Board.
+            ``(6) Executive director; staff.--
+                    ``(A) Executive director.--An executive director 
+                appointed by the Secretary, with the concurrence of the 
+                Board, shall--
+                            ``(i) assist the Board, as provided in 
+                        subparagraph (C); and
+                            ``(ii) report to the Secretary.
+                    ``(B) Staff.--
+                            ``(i) In general.--A staff of 4 individuals 
+                        appointed by the Executive Director shall 
+                        report to the Executive Director.
+                            ``(ii) Qualifications.--An individual 
+                        described in clause (i) (except the Executive 
+                        Director) shall be knowledgeable and 
+                        experienced in quantitative mathematics and 
+                        actuarial rating.
+                    ``(C) Functions.--The Executive Director and staff 
+                appointed under this paragraph shall--
+                            ``(i) assist the Board in reviewing and 
+                        approving policies and materials with respect 
+                        to plans of insurance or other materials 
+                        authorized or submitted under section 508, 522, 
+                        or 523;
+                            ``(ii) provide at least monthly reports to 
+                        the Board on crop insurance issues, which shall 
+                        be based on comments received from producers, 
+                        approved insurance providers, and other sources 
+                        that the Executive Director and staff consider 
+                        appropriate;
+                            ``(iii) review policies and materials with 
+                        respect to--
+                                    ``(I) subsidized plans of insurance 
+                                authorized under section 508; and
+                                    ``(II) unsubsidized plans of 
+                                insurance submitted to the Board under 
+                                section 508(h);
+                            ``(iv) make recommendations to the Board 
+                        with respect to approval of the policies and 
+                        materials, including recommendations with 
+                        respect to the disapproval of any policies and 
+                        materials that contain terms or conditions that 
+                        promote fraud;
+                            ``(v) make recommendations to the Board to 
+                        encourage cooperation between United States 
+                        attorneys, the Corporation, and approved 
+                        insurance providers to minimize fraud in 
+                        connection with an insurance plan or policy 
+                        under this title;
+                            ``(vi) review and make recommendations to 
+                        the Board with respect to methodologies for 
+                        rating plans of insurance under this title; and
+                            ``(vii) perform such other functions as the 
+                        Board considers appropriate.
+                    ``(D) Funding.--
+                            ``(i) Insurance fund.--From amounts in the 
+                        insurance fund under section 516(c)(1), 
+                        effective for fiscal year 2001, $500,000 shall 
+                        be available to pay the salaries and expenses 
+                        of the Executive Director and staff appointed 
+                        under this paragraph.
+                            ``(ii) Salaries and expenses.--Subject to 
+                        the availability of appropriations, the Risk 
+                        Management Agency shall transfer $500,000 for 
+                        fiscal year 2001, and $1,000,000 for each 
+                        subsequent fiscal year, at the beginning of the 
+                        fiscal year to the Executive Director for the 
+                        salaries and expenses of the Executive Director 
+                        and staff appointed under this paragraph.''.
+    (b) Submission of Policies and Materials to Board.--Section 508(h) 
+of the Federal Crop Insurance Act (7 U.S.C. 1508(h)) is amended--
+            (1) by striking paragraphs (1) through (4) and inserting 
+        the following:
+            ``(1) In general.--In addition to any standard forms or 
+        policies that the Board may require be made available to 
+        producers under subsection (c), a person may propose to the 
+        Board--
+                    ``(A) loss of yield or revenue insurance coverage 
+                on an individual, area, or a combination of individual 
+                and area basis, for 1 or more agricultural commodities;
+                    ``(B) rates of premium for a proposed or existing 
+                policy; and
+                    ``(C) underwriting systems for a proposed or 
+                existing policy.
+            ``(2) Submission of proposals.--
+                    ``(A) In general.--Subject to subparagraph (B) and 
+                paragraph (3), a proposal submitted to the Board under 
+                this subsection may be prepared without regard to the 
+                limitations of this title, including limitations--
+                            ``(i) concerning actuarial soundness;
+                            ``(ii) concerning levels of coverage;
+                            ``(iii) concerning rates of premium;
+                            ``(iv) that the price level for coverage 
+                        for each insured commodity must equal the 
+                        expected market price for the commodity as 
+                        established by the Board; and
+                            ``(v) that an approved insurance provider 
+                        shall provide coverage under a policy 
+                        throughout a State for all commodities if the 
+                        approved insurance provider elects to provide 
+                        any coverage in the State.
+                    ``(B) Maximum allowable subsidy.--The payment by 
+                the Corporation of a portion of the premium of the 
+                policy approved by the Board under this subsection may 
+                not exceed the amount that would otherwise be 
+                authorized under subsection (e).
+            ``(3) Standards.--
+                    ``(A) In general.--The Board shall approve a 
+                proposal under this subsection for subsidy and 
+                reinsurance if the Board finds that the proposal 
+                adequately ensures that--
+                            ``(i) the interests of producers of 
+                        commodities are adequately protected;
+                            ``(ii) premiums charged to producers are 
+                        actuarially appropriate;
+                            ``(iii) the underwriting system included in 
+                        the proposal is appropriate and adequate; and
+                            ``(iv) the proposal is reinsured under this 
+                        title, is reinsured through private 
+                        reinsurance, or is self-insured;
+                    ``(B) Rates of premium.--A proposed rate of premium 
+                (including the part of premium paid by the Corporation) 
+                shall be considered to be actuarially appropriate if 
+                the rate is sufficient to cover projected losses and 
+                expenses, a reasonable reserve, and the amount of 
+                operating and administrative expenses of the approved 
+                insurance provider determined under subsection (d)(2).
+                    ``(C) Proposed underwriting plans.--A proposed 
+                underwriting plan--
+                            ``(i) may be on an area or individual farm 
+                        basis; and
+                            ``(ii) shall, at a minimum, specify factors 
+                        such as yield history for the farm or region, 
+                        soils and resource quality for the farm, and 
+                        farm production practices.
+                    ``(D) Reinsurance.--
+                            ``(i) Federal reinsurance.--The Corporation 
+                        shall, to the maximum extent practicable, make 
+                        reinsurance available to an approved insurance 
+                        provider under this subsection.
+                            ``(ii) Private or federal reinsurance.--An 
+                        approved insurance provider may--
+                                    ``(I) obtain private reinsurance 
+                                for the proposal;
+                                    ``(II) obtain reinsurance for the 
+                                proposal under this title; or
+                                    ``(III) self-insure the proposal.
+                    ``(E) Actuarially appropriate.--The Board shall 
+                prescribe standards for determining whether premium 
+                rates are actuarially appropriate considering the risk 
+                inherent in the proposed product.
+            ``(4) Review and approval by board.--With respect to any 
+        policy or other material submitted to the Board after October 
+        1, 2000, under this subsection, the following guidelines shall 
+        apply:
+                    ``(A) In general.--The policy or other material 
+                shall be reviewed by the Board in accordance with 
+                subparagraphs (C) and (D).
+                    ``(B) Multiple insurance agreements.--The 
+                Corporation may enter into more than 1 reinsurance 
+                agreement simultaneously with the approved insurance 
+                provider to facilitate the offering of the new policy.
+                    ``(C) Procedures for submission and review.--The 
+                Corporation shall promulgate regulations that establish 
+                procedures for the submission and review by the Board 
+                of proposals submitted to the Board under this 
+                subsection, including--
+                            ``(i) the standards applicable to a 
+                        proposal under paragraph (3) (including 
+                        documentation required to establish that a 
+                        proposal satisfies the standards);
+                            ``(ii) procedures concerning the time 
+                        limitations provided under this paragraph; and
+                            ``(iii) procedures that provide an 
+                        applicant the opportunity to present the 
+                        proposal to the Board in person.
+                    ``(D) Review by the board.--
+                            ``(i) Period for approval.--Notwithstanding 
+                        any other provision of law, a proposal 
+                        submitted to the Board shall be considered to 
+                        be approved unless the Board disapproves the 
+                        proposal by the date that is 60 business days 
+                        after the later of--
+                                    ``(I) the date of submission of the 
+                                completed proposal to the Board; or
+                                    ``(II) the date on which the 
+                                applicant provides to the Board notice 
+                                of intent to modify the proposal under 
+                                clause (ii)(IV).
+                            ``(ii) Notice of disapproval.--
+                                    ``(I) In general.--Not later than 
+                                15 days before the date on which the 
+                                Board intends to announce disapproval 
+                                of a proposal, the Board shall provide 
+                                the applicant, by registered mail, with 
+                                notice of intent to disapprove the 
+                                proposal.
+                                    ``(II) Right to modify.--An 
+                                applicant that is notified under 
+                                subclause (I) may modify the proposal.
+                                    ``(III) Original application.--For 
+                                the purposes of this clause, any 
+                                modified proposal shall be considered 
+                                to be an original proposal.
+                                    ``(IV) Notice of intent to 
+                                modify.--Not later than 5 business days 
+                                after receipt of a notice under 
+                                subclause (I), an applicant that 
+                                intends to modify the proposal shall so 
+                                notify the Board.
+                    ``(E) Timing.--In establishing procedures under 
+                this subsection, the Board shall prescribe a reasonable 
+                deadline for the submission of proposals that approved 
+                insurance providers expect to market during the 
+                reinsurance year.
+                    ``(F) Confidentiality.--
+                            ``(i) In general.--A proposal submitted to 
+                        the Board under this subsection (including any 
+                        information generated from the proposal) shall 
+                        be considered to be confidential commercial or 
+                        financial information for the purposes of 
+                        section 552(b)(4) of title 5, United States 
+                        Code.
+                            ``(ii) Standard of confidentiality.--Except 
+                        as provided in clauses (iii) and (iv), if 
+                        information concerning a proposal could be 
+                        withheld by the Secretary under the standard 
+                        for privileged or confidential information 
+                        pertaining to trade secrets and commercial or 
+                        financial information under section 552(b)(4) 
+                        of title 5, United States Code, the information 
+                        shall not be released to the public.
+                            ``(iii) Exception for purchasers of plans 
+                        of insurance.--Clause (ii) shall not apply in 
+                        the case of an approved insurance provider that 
+                        elects to pay a fee to sell a plan of insurance 
+                        developed by another provider under paragraph 
+                        (5).
+                            ``(iv) Approved proposals.--In lieu of 
+                        publication in the Federal Register, a general 
+                        summary of the content of the proposal shall be 
+                        made available to other approved insurance 
+                        providers at the time at which the proposal is 
+                        approved by the Board, consisting of a 
+                        description of--
+                                    ``(I) the identity of the approved 
+                                insurance provider;
+                                    ``(II) the coverage provided; and
+                                    ``(III) the area to be covered by 
+                                the approved proposal.'';
+            (2) by striking paragraphs (6), (8), and (10); and
+            (3) by redesignating paragraphs (7) and (9) as paragraphs 
+        (6) and (7), respectively.
+    (c) Conforming Amendments.--Section 516(b)(1) of the Federal Crop 
+Insurance Act (7 U.S.C. 1516(b)(1)) is amended--
+            (1) in subparagraph (B), by striking ``; and'' and 
+        inserting a semicolon;
+            (2) in subparagraph (C), by striking the period at the end 
+        and inserting a semicolon; and
+            (3) by adding at the end the following:
+                    ``(D) the salaries and expenses of the Executive 
+                Director and staff appointed under section 505(a)(6) 
+                for fiscal year 2001, but not to exceed $500,000 for 
+                the fiscal year; and''.
+
+SEC. 302. GOOD FARMING PRACTICES.
+
+    Section 508(a)(3) of the Federal Crop Insurance Act (7 U.S.C. 
+1508(a)(3)) (as amended by section 103(d)) is amended in subparagraph 
+(A)(iii) by inserting after ``good farming practices'' the following: 
+``, including scientifically sound sustainable and organic farming 
+practices''.
+
+SEC. 303. SANCTIONS FOR PROGRAM NONCOMPLIANCE AND FRAUD.
+
+    (a) In General.--Section 506 of the Federal Crop Insurance Act (7 
+U.S.C. 1506) is amended by striking subsection (n) and inserting the 
+following:
+    ``(n) Sanctions for Program Noncompliance and Fraud.--
+            ``(1) False information.--A producer, agent, loss adjuster, 
+        approved insurance provider, or other person that willfully and 
+        intentionally provides any false or inaccurate information to 
+        the Corporation or to an approved insurance provider with 
+        respect to a policy or plan of insurance under this title may, 
+        after notice and an opportunity for a hearing on the record, be 
+        subject to 1 or more of the sanctions described in paragraph 
+        (3).
+            ``(2) Compliance.--A person may, after notice and an 
+        opportunity for a hearing on the record, be subject to 1 or 
+        more of the sanctions described in paragraph (3) if the person 
+        is--
+                    ``(A) a producer, agent, loss adjuster, approved 
+                insurance provider, or other person that willfully and 
+                intentionally fails to comply with a requirement of the 
+                Corporation; or
+                    ``(B) an agent, loss adjuster, approved insurance 
+                provider, or other person (other than a producer) that 
+                willfully and intentionally fails to comply with a 
+                requirement of the Standard Reinsurance Agreement.
+            ``(3) Authorized sanctions.--If the Secretary determines 
+        that a person covered by this subsection has committed a 
+        material violation under paragraph (1) or (2), the following 
+        sanctions may be imposed:
+                    ``(A) Civil fines.--A civil fine may be imposed for 
+                each violation in an amount not to exceed the greater 
+                of--
+                            ``(i) the amount of the pecuniary gain 
+                        obtained as a result of the false or inaccurate 
+                        information provided or the noncompliance with 
+                        a requirement of this title; or
+                            ``(ii) $10,000.
+                    ``(B) Debarment.--
+                            ``(i) Producers.--In the case of a 
+                        violation committed by a producer, the producer 
+                        may be disqualified for a period of up to 5 
+                        years from receiving any monetary or 
+                        nonmonetary benefit provided under--
+                                    ``(I) this title;
+                                    ``(II) the Agricultural Market 
+                                Transition Act (7 U.S.C. 7201 et seq.), 
+                                including the noninsured crop disaster 
+                                assistance program under section 196 of 
+                                that Act (7 U.S.C. 7333);
+                                    ``(III) the Agricultural Act of 
+                                1949 (7 U.S.C. 1421 et seq.);
+                                    ``(IV) the Commodity Credit 
+                                Corporation Charter Act (15 U.S.C. 714 
+                                et seq.);
+                                    ``(V) the Agricultural Adjustment 
+                                Act of 1938 (7 U.S.C. 1281 et seq.);
+                                    ``(VI) title XII of the Food 
+                                Security Act of 1985 (16 U.S.C. 3801 et 
+                                seq.);
+                                    ``(VII) the Consolidated Farm and 
+                                Rural Development Act (7 U.S.C. 1921 et 
+                                seq.); and
+                                    ``(VIII) any law that provides 
+                                assistance to a producer of an 
+                                agricultural commodity affected by a 
+                                crop loss or a decline in the prices of 
+                                agricultural commodities.
+                            ``(ii) Other persons.--In the case of a 
+                        violation committed by an agent, loss adjuster, 
+                        approved insurance provider, or other person 
+                        (other than a producer), the violator may be 
+                        disqualified for a period of up to 5 years from 
+                        participating in any program, or receiving any 
+                        benefit, under this title.
+            ``(4) Assessment of sanction.--The Secretary shall consider 
+        the gravity of the violation of the person covered by this 
+        subsection in determining--
+                    ``(A) whether to impose a sanction under this 
+                subsection; and
+                    ``(B) the amount of the sanction to be imposed.
+            ``(5) Disclosure of sanctions.--Each policy or plan of 
+        insurance under this title shall provide notice about the 
+        sanctions prescribed under paragraph (3) for willfully and 
+        intentionally--
+                    ``(A) providing false or inaccurate information to 
+                the Corporation or to an approved insurance provider; 
+                or
+                    ``(B) failing to comply with a requirement of the 
+                Corporation or the Standard Reinsurance Agreement.
+            ``(6) Insurance fund.--Any funds collected under this 
+        subsection shall be deposited into the insurance fund under 
+        section 516(c)(1).''.
+    (b) Conforming Amendments.--Section 516(c) of the Federal Crop 
+Insurance Act (7 U.S.C. 1516(c)) is amended by striking paragraph (1) 
+and inserting the following:
+            ``(1) In general.--There is established the insurance fund, 
+        which shall include (to remain available without fiscal year 
+        limitation)--
+                    ``(A) premium income;
+                    ``(B) amounts made available under subsection 
+                (a)(2); and
+                    ``(C) civil fines collected under section 
+                506(n)(3)(A).''.
+
+SEC. 304. OVERSIGHT OF AGENTS AND LOSS ADJUSTERS.
+
+    Section 506(q) of the Federal Crop Insurance Act (7 U.S.C. 1506(q)) 
+is amended by adding at the end the following:
+            ``(3) Oversight of agents and loss adjusters.--The 
+        Corporation shall--
+                    ``(A) develop procedures for an annual review by an 
+                approved insurance provider of the performance of each 
+                agent and loss adjuster used by the approved insurance 
+                provider;
+                    ``(B) oversee the annual review conducted by each 
+                approved insurance provider; and
+                    ``(C) consult with each approved insurance provider 
+                regarding any remedial action that is determined 
+                necessary as a result of the annual review of an agent 
+                or loss adjuster.
+            ``(4) Compliance reports.--Not later than the end of each 
+        fiscal year, the Corporation shall submit, to the Committee on 
+        Agriculture of the House of Representatives, the Committee on 
+        Agriculture, Nutrition, and Forestry of the Senate, and the 
+        Board, a report concerning compliance by approved insurance 
+        providers, agents, and loss adjusters with this title, 
+        including any recommendations for legislative or administrative 
+        changes that could further improve compliance.''.
+
+SEC. 305. ADEQUATE COVERAGE FOR STATES.
+
+    Section 508(a) of the Federal Crop Insurance Act (7 U.S.C. 1508(a)) 
+(as amended by section 102(a)) is amended by adding at the end the 
+following:
+            ``(8) Adequate coverage for states.--
+                    ``(A) Definition of adequately served.--In this 
+                paragraph, the term `adequately served' means having a 
+                participation rate that is at least 50 percent of the 
+                national average participation rate.
+                    ``(B) Review.--The Board shall review the plans of 
+                insurance that are offered by approved insurance 
+                providers under this title to determine if each State 
+                is adequately served by the plans of insurance.
+                    ``(C) Report.--
+                            ``(i) In general.--Not later than 30 days 
+                        after completion of the review under 
+                        subparagraph (B), the Board shall submit to 
+                        Congress a report on the results of the review.
+                            ``(ii) Recommendations.--The report shall 
+                        include recommendations to increase 
+                        participation in States that are not adequately 
+                        served by the plans of insurance.''.
+
+SEC. 306. RECORDS AND REPORTING.
+
+    (a) Condition of Obtaining Coverage.--Section 508(f)(3)(A) of the 
+Federal Crop Insurance Act (7 U.S.C. 1508(f)(3)(A)) is amended by 
+striking ``provide,'' and all that follows through ``sought'' and 
+inserting ``provide annually records acceptable to the Secretary 
+regarding crop acreage, acreage yields, and production for each 
+agricultural commodity insured under this title''.
+    (b) Coordination and Use of Records and Reports.--Section 506(h) of 
+the Federal Crop Insurance Act (7 U.S.C. 1506(h)) is amended--
+            (1) by striking ``The Corporation'' and inserting the 
+        following:
+            ``(1) In general.--The Corporation''; and
+            (2) by adding at the end the following:
+            ``(2) Coordination and use of records and reports.--
+                    ``(A) Coordination.--The Secretary shall ensure 
+                that recordkeeping and reporting requirements under 
+                this title and section 196 of the Agricultural Market 
+                Transition Act (7 U.S.C. 7333) are coordinated by the 
+                Corporation and the Farm Service Agency--
+                            ``(i) to avoid duplication of records and 
+                        reports;
+                            ``(ii) to streamline procedures involved 
+                        with the submission of records and reports; and
+                            ``(iii) to enhance the accuracy of records 
+                        and reports.
+                    ``(B) Use.--Records submitted under this title and 
+                section 196 of the Agricultural Market Transition Act 
+                (7 U.S.C. 7333) shall be available to agencies and 
+                local offices of the Department, appropriate State and 
+                Federal agencies and divisions, and approved insurance 
+                providers for use in carrying out this title, that 
+                section, and other agricultural programs and related 
+                responsibilities.''.
+
+SEC. 307. FEES FOR PLANS OF INSURANCE.
+
+    (a) In General.--Section 508(h) of the Federal Crop Insurance Act 
+(7 U.S.C. 1508(h)) is amended by striking paragraph (5) and inserting 
+the following:
+            ``(5) Fees for plans of insurance.--
+                    ``(A) Fees for existing plans of insurance.--
+                            ``(i) In general.--Effective beginning with 
+                        the 2001 reinsurance year, if an approved 
+                        insurance provider elects to sell a plan of 
+                        insurance that was developed by another 
+                        approved insurance provider and the plan of 
+                        insurance was approved by the Board before 
+                        January 1, 2000, the approved insurance 
+                        provider that developed the plan of insurance 
+                        shall have the right to receive a fee from the 
+                        approved insurance provider that elects to sell 
+                        the plan of insurance.
+                            ``(ii) Amount.--The amount of the fee that 
+                        is payable by an approved insurance provider 
+                        for a plan of insurance under clause (i) shall 
+                        be--
+                                    ``(I) for each of the first 5 crop 
+                                years that the plan is sold, $2.00 for 
+                                each policy under the plan that is sold 
+                                by the approved insurance provider;
+                                    ``(II) for each of the next 3 crop 
+                                years that the plan is sold, $1.00 for 
+                                each policy under the plan that is sold 
+                                by the approved insurance provider; and
+                                    ``(III) for each crop year 
+                                thereafter that the plan is sold, 50 
+                                cents for each policy under the plan 
+                                that is sold by the approved insurance 
+                                provider.
+                    ``(B) Fees for new plans of insurance.--
+                            ``(i) In general.--Effective beginning with 
+                        the 2001 reinsurance year, if an approved 
+                        insurance provider elects to sell a plan of 
+                        insurance that was developed by another 
+                        approved insurance provider, the plan of 
+                        insurance was approved by the Board under this 
+                        subsection on or after January 1, 2000, and the 
+                        plan of insurance was not available at the time 
+                        at which the plan of insurance was approved by 
+                        the Board, the approved insurance provider that 
+                        developed the plan of insurance shall have the 
+                        right to receive a fee from the approved 
+                        insurance provider that elects to sell the plan 
+                        of insurance.
+                            ``(ii) Amount.--
+                                    ``(I) In general.--Subject to 
+                                subclause (II), the amount of the fee 
+                                that is payable by an approved 
+                                insurance provider for a plan of 
+                                insurance under clause (i) shall be an 
+                                amount that is--
+                                            ``(aa) determined by the 
+                                        approved insurance provider 
+                                        that developed the plan; and
+                                            ``(bb) approved by the 
+                                        Board.
+                                    ``(II) Approval.--The Board shall 
+                                not approve the amount of a fee under 
+                                clause (i) if the amount of the fee 
+                                unnecessarily inhibits the use of the 
+                                plan of insurance, as determined by the 
+                                Board.
+                    ``(C) Payments.--The Corporation shall annually--
+                            ``(i) collect from an approved insurance 
+                        provider the amount of any fees that are 
+                        payable by the approved insurance provider 
+                        under subparagraphs (A) and (B); and
+                            ``(ii) credit any fees that are payable to 
+                        an approved insurance provider under 
+                        subparagraphs (A) and (B).
+                    ``(D) Exceptions.--In the case of a policy 
+                developed by an approved insurance provider that does 
+                not conduct business in a State--
+                            ``(i) the approved policy may be marketed 
+                        in the State by another approved insurance 
+                        provider if the approved insurance provider 
+                        marketing the policy pays any fee for marketing 
+                        the policy imposed by the developing provider; 
+                        and
+                            ``(ii) the developing provider shall not 
+                        deny payment of a fee by another provider to 
+                        maintain full marketing rights of the approved 
+                        policy.''.
+    (b) Funding.--Section 516 of the Federal Crop Insurance Act (7 
+U.S.C. 1516) (as amended by sections 301(c) and 303(b)) is amended--
+            (1) in subsection (b)(1), by adding at the end the 
+        following:
+                    ``(E) payment of fees in accordance with section 
+                508(h)(5)(C).''; and
+            (2) in subsection (c)(1)(A), by inserting ``and fees'' 
+        after ``premium income''.
+
+SEC. 308. LIMITATION ON DOUBLE INSURANCE.
+
+    Subsection (m) of section 508 of the Federal Crop Insurance Act (7 
+U.S.C. 1508) (as redesignated by section 204(a)(2)) is amended by 
+adding at the end the following:
+            ``(3) Limitation on double insurance.--The Corporation may 
+        offer plans of insurance or reinsurance for only 1 agricultural 
+        commodity produced on specific acreage during a crop year, 
+        unless--
+                    ``(A) there is an established practice of double-
+                cropping in an area, as determined by the Corporation;
+                    ``(B) the additional plan of insurance is offered 
+                with respect to an agricultural commodity that is 
+                customarily double-cropped in the area; and
+                    ``(C) the producer has a history of double cropping 
+                or the specific acreage has historically been double-
+                cropped.''.
+
+SEC. 309. SPECIALTY CROPS.
+
+    (a) In General.--The Federal Crop Insurance Act (7 U.S.C. 1501 et 
+seq.) (as amended by sections 201 through 203) is amended by adding at 
+the end the following:
+
+``SEC. 523. SPECIALTY CROPS.
+
+    ``(a) Research Regarding the Development of New or Revised Crop 
+Insurance Policies.--To encourage the development of new or revised 
+crop insurance policies and other materials for specialty crops by 
+qualified private entities, and the submission of those insurance 
+policies and other materials to the Corporation under section 508(h), 
+the Specialty Crops Coordinator may--
+            ``(1) make grants on a competitive basis for the research 
+        and development of plans of insurance for underserved specialty 
+        crops;
+            ``(2) reimburse research costs associated with product 
+        development; and
+            ``(3) enter into contracts on a competitive basis for the 
+        research and development of plans of insurance for underserved 
+        specialty crops.
+    ``(b) Partnerships for Development of Risk Management Tools for 
+Specialty Crops.--
+            ``(1) Purpose.--The purpose of this subsection is to 
+        authorize the Specialty Crops Coordinator, on behalf of the 
+        Corporation, to enter into partnerships with qualified public 
+        and private entities for the purpose of increasing the 
+        availability of risk management tools for producers of 
+        specialty crops.
+            ``(2) Authority.--
+                    ``(A) In general.--For each of fiscal years 2001 
+                through 2004, the Corporation may use not more than 
+                $20,000,000 from funds in the insurance fund under 
+                section 516(c)(1) to enter into partnerships with the 
+                Cooperative State Research, Education, and Extension 
+                Service, the Agricultural Research Service, the 
+                National Oceanic and Atmospheric Administration, and 
+                other appropriate public and private entities with 
+                demonstrated capabilities in developing and 
+                implementing risk management and marketing options for 
+                specialty crops.
+                    ``(B) Exclusion.--Amounts necessary to carry out 
+                subparagraph (A) shall not be counted toward the 
+                limitation on research and development expenses 
+                established in section 516(b)(2)(A).
+            ``(3) Objectives.--The Corporation may enter into a 
+        partnership under this subsection to--
+                    ``(A) enhance the notice, and timeliness of notice 
+                of weather conditions, that could negatively affect 
+                specialty crop yields, quality, and final product use 
+                in order to allow producers to take preventive actions 
+                to increase end-product profitability and marketability 
+                and to reduce the possibility of crop insurance claims;
+                    ``(B) develop a multifaceted approach to pest 
+                management to decrease inputs, decrease the development 
+                of pest resistance, and increase the effectiveness of 
+                pest prevention applications;
+                    ``(C) develop a multifaceted approach to 
+                fertilization to decrease inputs, decrease excessive 
+                nutrient loading to the environment, and increase 
+                application efficiency;
+                    ``(D) develop or improve techniques for planning, 
+                breeding, growing, maintaining, harvesting, storage, 
+                and shipping that will address quality and quantity 
+                challenges for specialty crops and livestock associated 
+                with year-to-year and regional variations;
+                    ``(E) provide assistance to State foresters or 
+                equivalent officials for the prescribed use of burning 
+                on private forest land for the prevention, control, and 
+                suppression of fire; and
+                    ``(F) develop other risk management tools that 
+                specialty crop producers can use to further increase 
+                their economic and production stability.
+    ``(c) Time Periods for Purchase of Coverage for Specialty Crops.--
+            ``(1) Sales closing date.--The sales closing date for 
+        obtaining coverage for a specialty crop under this title may 
+        not expire before the end of the 120-day period beginning on 
+        the date of the final release of materials for policies from 
+        the Risk Management Agency and the Specialty Crops Coordinator.
+            ``(2) Purchase during insurance period.--A producer of a 
+        specialty crop may purchase new coverage for the specialty 
+        crop, or increase coverage levels, at any time during the 
+        insurance period, subject to a 30-day waiting period for the 
+        coverage to take effect to permit an inspection to verify 
+        acceptability by the insurance provider.
+    ``(d) Studies of New Specialty Crop Insurance Policies.--
+            ``(1) In general.--The Corporation and the Specialty Crops 
+        Coordinator authorized under section 507(g) shall jointly 
+        conduct studies of the feasibility of developing new insurance 
+        policies for specialty crops, including policies based on the 
+        cost of production or adjusted gross income, quality-based 
+        policies, or an intermediate program with a higher coverage and 
+        cost than the catastrophic risk protection offered on the date 
+        of enactment of this section.
+            ``(2) Submission of results.--Not later than 1 year after 
+        the date of enactment of this section, and annually thereafter, 
+        the Corporation and the Specialty Crops Coordinator shall 
+        submit to Congress a report containing the results of the 
+        studies required under this subsection.
+    ``(e) Fiscal Years.--Subsections (b) and (c) shall apply to each of 
+fiscal years 2001 through 2004.''.
+    (b) Report on Coverage of New and Specialty Crops and Method for 
+Provision of Catastrophic Risk Protection.--Not later than 180 days 
+after the date of enactment of this Act, the Secretary of Agriculture 
+shall submit to the President, the Committee on Agriculture of the 
+House of Representatives, and the Committee on Agriculture, Nutrition, 
+and Forestry of the Senate a report assessing--
+            (1)(A) the progress made by the Department of Agriculture 
+        in expanding crop insurance coverage for new and specialty 
+        crops; and
+            (B) the plans of the Department to continue to expand 
+        coverage for additional crops; and
+            (2)(A) whether provision of catastrophic risk protection by 
+        private sector insurance providers--
+                    (i) has resulted in a uniform quality of risk 
+                protection services in all regions of the United 
+                States; and
+                    (ii) has fulfilled the goal of increased 
+                participation in the Federal crop insurance program, 
+                particularly in States with traditionally low crop 
+                insurance participation rates and States with a high 
+                proportion of specialty crops; and
+            (B) whether, particularly in States described in 
+        subparagraph (A)(ii), the Secretary should resume direct 
+        provision of catastrophic risk protection and performance of 
+        loss adjustment functions through local offices of the 
+        Department.
+
+SEC. 310. FEDERAL CROP INSURANCE IMPROVEMENT COMMISSION.
+
+    (a) In General.--Section 515 of the Federal Crop Insurance Act (7 
+U.S.C. 1515) is amended to read as follows:
+
+``SEC. 515. FEDERAL CROP INSURANCE IMPROVEMENT COMMISSION.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Commission.--The term `Commission' means the Federal 
+        Crop Insurance Improvement Commission established by subsection 
+        (b).
+            ``(2) Specialty crop.--The term `specialty crop' means an 
+        agricultural commodity other than a contract commodity (as 
+        defined in section 102 of the Agricultural Marketing Transition 
+        Act (7 U.S.C. 7202)).
+    ``(b) Establishment of Commission.--There is established a 
+Commission to be known as the `Federal Crop Insurance Improvement 
+Commission'.
+    ``(c) Membership.--
+            ``(1) In general.--The Commission shall be composed of the 
+        following 9 members:
+                    ``(A) The Under Secretary for Farm and Foreign 
+                Agricultural Services of the Department.
+                    ``(B) The manager of the Corporation.
+                    ``(C) The Chief Economist of the Department or a 
+                person appointed by the Chief Economist.
+                    ``(D) An employee of the Office of Management and 
+                Budget, appointed by the Director of the Office of 
+                Management and Budget.
+                    ``(E) A representative of the National Association 
+                of Insurance Commissioners, experienced in insurance 
+                regulation, appointed by the National Association of 
+                Insurance Commissioners.
+                    ``(F) Representatives of 3 approved insurance 
+                providers (the 3 approved insurance providers being 
+                elected by majority vote of all approved insurance 
+                providers), appointed by the 3 approved insurance 
+                providers.
+                    ``(G) A representative of a private nonprofit 
+                organization designated by the manager of the 
+                Corporation--
+                            ``(i) that is organized and has operated 
+                        for at least 5 consecutive years as an 
+                        insurance advisory and statistical agent 
+                        organization for crop insurance written in the 
+                        United States;
+                            ``(ii) that is licensed and approved as a 
+                        statistical agent by substantially all States 
+                        in which federally reinsured crop insurance is 
+                        sold; and
+                            ``(iii) the activities of which have 
+                        included--
+                                    ``(I) the accumulation and analysis 
+                                of loss expenses and other crop 
+                                insurance statistics;
+                                    ``(II) the development of forms for 
+                                crop insurance policies; and
+                                    ``(III) the development of 
+                                procedures for loss adjustment;
+                appointed by the organization.
+            ``(2) Time of appointment.--The members of the Commission 
+        shall be appointed not later than 60 days after the date of 
+        enactment of the Risk Management for the 21st Century Act.
+            ``(3) Term.--A member of the Commission shall serve for the 
+        life of the Commission.
+    ``(d) Duties.--The Commission shall study the following subjects:
+            ``(1) The extent to which approved insurance providers 
+        should bear the risk of loss for federally subsidized crop 
+        insurance.
+            ``(2) Whether the Corporation should--
+                    ``(A) continue to provide financial assistance for 
+                the benefit of agricultural producers by reinsuring 
+                coverage written by approved insurance providers; or
+                    ``(B) provide assistance in another form, such as 
+                by acting as an excess insurer.
+            ``(3) The extent to which development of new insurance 
+        products should be undertaken by the private sector, including 
+        development of insurance products for specialty crops.
+            ``(4) The use by the Corporation of private sector 
+        resources under section 507(c).
+            ``(5) The progress of the Corporation in reducing 
+        administrative and operating costs of approved insurance 
+        providers under section 508(k)(5).
+            ``(6) The identification of methods, and of organizational, 
+        statutory, and structural changes, to enhance and improve--
+                    ``(A) delivery of reasonably priced crop insurance 
+                products to agricultural producers;
+                    ``(B) loss adjustment procedures;
+                    ``(C) good farming practices;
+                    ``(D) the establishment of premiums; and
+                    ``(E) compliance with this title (including 
+                regulations issued under this title, the terms and 
+                conditions of insurance coverage, and adjustments of 
+                losses).
+    ``(e) Commission Operations.--
+            ``(1) Chairperson; voting.--The Under Secretary for Farm 
+        and Foreign Agricultural Services of the Department of 
+        Agriculture shall--
+                    ``(A) serve as Chairperson of the Commission; and
+                    ``(B) vote in the case of a tie.
+            ``(2) Meetings.--
+                    ``(A) In general.--The Commission shall meet 
+                regularly, but not less than 6 times per year.
+                    ``(B) Time.--A meeting may be called--
+                            ``(i) at any time, by the Chairperson; or
+                            ``(ii) notwithstanding section 10(f) of the 
+                        Federal Advisory Committee Act (5 U.S.C. App.), 
+                        by any 3 members of the Commission, if those 
+                        members give notice to the Commission not later 
+                        than 10 days before the date of the meeting.
+            ``(3) Disclosure.--
+                    ``(A) In general.--To the extent that the records, 
+                papers, or other documents received, prepared, or 
+                maintained by the Commission are subject to public 
+                disclosure, the documents shall be available for public 
+                inspection and copying at the Office of Risk 
+                Management.
+                    ``(B) Exceptions.--Section 10(a) of the Federal 
+                Advisory Committee Act (5 U.S.C. App.) shall not apply 
+                to--
+                            ``(i) a meeting of the Commission; or
+                            ``(ii) any disclosure of records, reports, 
+                        transcripts, minutes, appendixes, working 
+                        papers, drafts, studies, agenda, or other 
+                        similar documents containing such information 
+                        as is not required under section 10(b) of that 
+                        Act.
+                    ``(C) Applicability.--The exceptions described in 
+                subparagraph (B) shall not exempt the Commission from 
+                any requirement of--
+                            ``(i) section 10(a)(2) of the Federal 
+                        Advisory Committee Act (5 U.S.C. App.) (to the 
+                        extent of giving public notice of its 
+                        meetings);
+                            ``(ii) section 10(a)(3) of that Act (to the 
+                        extent of allowing interested persons to appear 
+                        and to present or file statements); or
+                            ``(iii) section 10(c) of that Act.
+            ``(4) Compensation.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), a member of the Commission who is 
+                employed by the Department or by another agency, 
+                department, or office of the Federal Government shall 
+                receive no additional compensation for the services of 
+                the employee as a member of the Commission.
+                    ``(B) Expenses.--A member of the Commission may be 
+                allowed necessary traveling and subsistence expenses 
+                when engaged in business of the Commission.
+                    ``(C) Non-federal members.--A member of the 
+                Commission who is not employed by the Federal 
+                Government, when on the business of the Commission away 
+                from the home or regular place of business of the 
+                member, shall be paid--
+                            ``(i) compensation for the services of the 
+                        member at the daily equivalent of the annual 
+                        rate of basic pay prescribed for level IV of 
+                        the Executive Schedule under section 5315 of 
+                        title 5, United States Code; and
+                            ``(ii) necessary traveling and subsistence 
+                        expenses (or a per diem allowance in lieu of 
+                        subsistence expenses) as authorized by section 
+                        5703 of title 5, United States Code, for 
+                        persons employed intermittently in the Federal 
+                        Government service.
+            ``(5) Miscellaneous accommodations.--
+                    ``(A) Office space.--The Under Secretary for Farm 
+                and Foreign Agricultural Services (or, on delegation by 
+                the Under Secretary for Farm and Foreign Agricultural 
+                Services, the manager of the Corporation) shall arrange 
+                for the Commission to occupy offices and meeting rooms 
+                at the offices of the Department in the District of 
+                Columbia, in accordance with section 5(b)(5) of the 
+                Federal Advisory Committee Act (5 U.S.C. App.).
+                    ``(B) Support services.--The Department shall 
+                provide support services for the Commission in 
+                accordance with section 12 of the Federal Advisory 
+                Committee Act (5 U.S.C. App.).
+            ``(6) Staff.--
+                    ``(A) In general.--The Commission may employ staff 
+                and retain the services of professionals such as 
+                accountants, actuaries, attorneys, economists, and 
+                management consultants to assist the Commission in 
+                carrying out its duties under this section.
+                    ``(B) Compensation.--In accordance with 
+                subparagraph (C), the Commission--
+                            ``(i) may compensate staff hired and 
+                        professionals retained under subparagraph (A) 
+                        on such terms and in such amounts as are 
+                        customary and reasonable within the private 
+                        sector; and
+                            ``(ii) shall not be limited in any respect 
+                        to terms, amounts, and limitations related to 
+                        compensation that would apply if the Commission 
+                        were retaining contractors to or for a 
+                        governmental entity.
+                    ``(C) Limitation on compensation.--The aggregate of 
+                all staff and professional compensation shall not 
+                exceed $4,000,000 per year.
+                    ``(D) Reimbursement.--A member of the Commission 
+                may be reimbursed for the costs of professional 
+                services obtained by the member to assist in the work 
+                of the member for the Commission, except that--
+                            ``(i) no reimbursement (other than travel 
+                        and subsistence expenses) shall be allowed with 
+                        respect to any services rendered by any person 
+                        otherwise employed by the Federal Government;
+                            ``(ii) a majority of the Commission shall 
+                        approve in advance the retention by a member of 
+                        professional services, including the terms of 
+                        compensation of the professional;
+                            ``(iii) the services to be reimbursed shall 
+                        relate exclusively to the work of the 
+                        Commission;
+                            ``(iv) the work product of any professional 
+                        hired under this paragraph shall be available 
+                        to the Commission and all professionals engaged 
+                        by the Commission;
+                            ``(v) no reimbursement may be made without 
+                        approval by a majority of the Commission; and
+                            ``(vi) the aggregate amount of all such 
+                        services for all members of the Commission 
+                        under this subparagraph shall not exceed 
+                        $1,000,000 for each fiscal year.
+            ``(7) Source of funds.--All expenses of the Commission, 
+        including payments made under paragraphs (4) and (6), shall be 
+        paid from the insurance fund established under section 516.
+    ``(f) Final Report.--
+            ``(1) In general.--Not later than 2 years after the date of 
+        enactment of the Risk Management for the 21st Century Act, the 
+        Commission shall submit to the Committee on Agriculture of the 
+        House of Representatives and the Committee on Agriculture, 
+        Nutrition, and Forestry of the Senate a final report on the 
+        study under subsection (d).
+            ``(2) Copies.--The Commission shall provide copies of the 
+        final report to--
+                    ``(A) the Secretary;
+                    ``(B) the Board; and
+                    ``(C) the Comptroller General of the United States.
+            ``(3) Interim reports.--To expedite completion of the work 
+        of the Commission, the Commission may submit 1 or more interim 
+        reports or reports on 1 or more of the subjects to be studied.
+    ``(g) Termination.--The Commission shall terminate on the earlier 
+of--
+            ``(1) 60 days after the date on which the Commission 
+        submits the final report under subsection (f); or
+            ``(2) September 30, 2004.''.
+    (b) Conforming Amendments.--Section 516 of the Federal Crop 
+Insurance Act (as amended by section 203(b)(2)) is amended--
+            (1) in subsection (a)(2), by adding at the end the 
+        following:
+                    ``(D) all necessary amounts to fund the operations 
+                of the Commission authorized under section 515.''; and
+            (2) in subsection (b), by adding at the end the following:
+            ``(3) Funds for commission.--For each of fiscal years 2001 
+        through 2004, the Corporation shall pay from the insurance fund 
+        established under subsection (c) such sums as are necessary to 
+        fund the operation of the Commission authorized under section 
+        515.''.
+
+SEC. 311. HIGHLY ERODIBLE LAND AND WETLAND CONSERVATION.
+
+    (a) Highly Erodible Land.--Section 1211(3) of the Food Security Act 
+of 1985 (16 U.S.C. 3811(3)) is amended--
+            (1) in subparagraph (C), by striking ``or'' at the end;
+            (2) in subparagraph (D), by striking the period at the end 
+        and inserting ``; or''; and
+            (3) by adding at the following:
+                    ``(E) crop or revenue insurance, or a risk 
+                management payment, under the Federal Crop Insurance 
+                Act (7 U.S.C. 1501 et seq).''.
+    (b) Wetland Conservation.--Section 1221(b)(3) of the Food Security 
+Act of 1985 (16 U.S.C. 3821(b)(3)) is amended by adding at the end the 
+following:
+                    ``(E) Crop or revenue insurance, or a risk 
+                management payment, under the Federal Crop Insurance 
+                Act (7 U.S.C. 1501 et seq).''.
+
+          TITLE IV--EFFECTIVE DATES; TERMINATION OF AUTHORITY
+
+SEC. 401. EFFECTIVE DATES.
+
+    (a) In General.--Except as provided in subsections (b) and (c)(2) 
+and section 402(a), this Act and the amendments made by this Act take 
+effect on the date of enactment of this Act.
+    (b) Delayed Obligation.--The Federal Crop Insurance Corporation 
+shall not obligate funds to carry out the amendments made by sections 
+102, 103, 105, 106, 201 through 204, 309, and 310 until October 1, 
+2000.
+    (c) Regulations.--
+            (1) In general.--Not later than 60 days after the date of 
+        enactment of this Act, the Secretary of Agriculture shall 
+        promulgate regulations to carry out this Act and the amendments 
+        made by this Act.
+            (2) Voiding of bulletin.--
+                    (A) In general.--Bulletin MGR-99-004, issued by the 
+                Administrator of the Risk Management Agency of the 
+                Department of Agriculture, is void.
+                    (B) Transitional provision.--The original terms of 
+                the crop revenue coverage plan of insurance, as 
+                published on July 14, 1998 (63 Fed. Reg. 37829), shall 
+                remain in effect for the 1999 crop year.
+                    (C) Effective date.--This paragraph takes effect on 
+                October 1, 2000.
+
+SEC. 402. TERMINATION OF AUTHORITY.
+
+    (a) Effective Date.--This section and the amendments made by this 
+section take effect on September 30, 2004.
+    (b) Repeal.--
+            (1) In general.--The amendments made by sections 102, 103, 
+        105, 106, 203(b), and 310 are repealed.
+            (2) Applicability.--The Federal Crop Insurance Act (7 
+        U.S.C. 1501 et seq.) and section 196 of the Agricultural Market 
+        Transition Act (7 U.S.C. 7333) shall be applied and 
+        administered as if the provisions described in paragraph (1) 
+        had not been enacted.
+            (3) Conforming amendment.--Section 508(a) of the Federal 
+        Crop Insurance Act (7 U.S.C. 1508(a)) is amended by 
+        redesignating paragraph (8) (as added by section 305) as 
+        paragraph (7).
+    (c) Pilot Programs.--Section 522 of the Federal Crop Insurance Act 
+(as added by sections 201 through 203) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (3)--
+                            (i) in subparagraph (D), by adding ``and'' 
+                        at the end;
+                            (ii) by striking subparagraphs (E) and (G);
+                            (iii) in subparagraph (F), by striking ``; 
+                        and'' and inserting a period; and
+                            (iv) by redesignating subparagraph (F) as 
+                        subparagraph (E);
+                    (B) by striking paragraphs (4), (6), and (7); and
+                    (C) by redesignating paragraphs (5) and (8) as 
+                paragraphs (4) and (5), respectively;
+            (2) in subsection (b)--
+                    (A) by striking paragraph (2); and
+                    (B) by redesignating paragraphs (3) and (4) as 
+                paragraphs (2) and (3), respectively; and
+            (3) by striking subsection (c).
+    (d) Board of Directors of Corporation.--Section 516(b)(1) of the 
+Federal Crop Insurance Act (7 U.S.C. 1516(b)(1)) (as amended by 
+sections 301(c) and 307(b)(1)) is amended--
+            (1) in subparagraph (C), by inserting ``and'' after the 
+        semicolon;
+            (2) by striking subparagraph (D); and
+            (3) by redesignating subparagraph (E) as subparagraph (D).
+    (e) Specialty Crops.--
+            (1) In general.--Section 523 of the Federal Crop Insurance 
+        Act (as added by section 309(a)) is amended--
+                    (A) in subsection (b)--
+                            (i) by striking paragraph (2); and
+                            (ii) by redesignating paragraph (3) as 
+                        paragraph (2);
+                    (B) by striking subsections (c) and (e); and
+                    (C) by redesignating subsection (d) as subsection 
+                (c).
+            (2) Report.--Section 309 of this Act is amended by striking 
+        subsection (b).
+    (f) Funding.--Neither the Secretary of Agriculture nor the Federal 
+Crop Insurance Corporation may use the funds of the insurance fund 
+under section 516(c)(1) of the Federal Crop Insurance Act (7 U.S.C. 
+1516(c)(1)), the funds of the Commodity Credit Corporation, or funds 
+under any provision of law to carry out a provision repealed or struck 
+by this section.

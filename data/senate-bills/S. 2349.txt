@@ -1,0 +1,1381 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2349 Engrossed Amendment House (EAH)]
+
+
+                In the House of Representatives, U. S.,
+
+                                                          May 23, 2006.
+
+    Resolved, That the bill from the Senate (S. 2349) entitled ``An Act to 
+provide greater transparency in the legislative process'', do pass with the 
+following
+
+                              AMENDMENTS:
+
+            Strike out all after the enacting clause and insert:
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Lobbying 
+Accountability and Transparency Act of 2006'' and ``527 Reform Act of 
+2006''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+                 TITLE I--ENHANCING LOBBYING DISCLOSURE
+
+Sec. 101. Quarterly filing of lobbying disclosure reports.
+Sec. 102. Electronic filing of lobbying registrations and disclosure 
+                            reports.
+Sec. 103. Public database of lobbying disclosure information.
+Sec. 104. Disclosure by registered lobbyists of past executive branch 
+                            and congressional employment.
+Sec. 105. Disclosure of lobbyist contributions and gifts.
+Sec. 106. Increased penalty for failure to comply with lobbying 
+                            disclosure requirements.
+Sec. 107. Penalties for offering gifts.
+
+                  TITLE II--SLOWING THE REVOLVING DOOR
+
+Sec. 201. Notification of post-employment restrictions.
+Sec. 202. Disclosure by Members of the House of Representatives of 
+                            employment negotiations.
+Sec. 203. Wrongfully influencing, on a partisan basis, an entity's 
+                            employment decisions or practices.
+
+  TITLE III--SUSPENSION OF PRIVATELY-FUNDED TRAVEL; CURBING LOBBYIST 
+                                 GIFTS
+
+Sec. 301. Pre-certification of privately funded travel.
+Sec. 302. Recommendations from the Committee on Standards of Official 
+                            Conduct on gifts.
+Sec. 303. Prohibiting registered lobbyists on corporate flights.
+Sec. 304. Valuation of tickets to sporting and entertainment events.
+
+            TITLE IV--OVERSIGHT OF LOBBYING AND ENFORCEMENT
+
+Sec. 401. Audits of lobbying reports by House Inspector General.
+Sec. 402. House Inspector General review and annual reports.
+
+                     TITLE V--INSTITUTIONAL REFORMS
+
+Sec. 501. Earmarking reform.
+Sec. 502. Mandatory ethics training for House employees.
+Sec. 503. Biennial publication of ethics manual.
+
+              TITLE VI--FORFEITURE OF RETIREMENT BENEFITS
+
+Sec. 601. Loss of pensions accrued during service as a Member of 
+                            Congress for abusing the public trust.
+
+                       TITLE VII--LEADERSHIP PACS
+
+Sec. 701. Restrictions on disposition of funds by leadership PACS.
+
+               TITLE VIII--ETHICS TRAINING FOR LOBBYISTS
+
+Sec. 801. Ethics training for lobbyists.
+
+                   TITLE IX--MISCELLANEOUS PROVISIONS
+
+Sec. 901. Bribery.
+
+                    TITLE X--527 REFORM ACT OF 2006
+
+Sec. 1001. Short title.
+Sec. 1002. Treatment of section 527 organizations.
+Sec. 1003. Rules for allocation of expenses between Federal and non-
+                            Federal activities.
+Sec. 1004. Repeal of limit on amount of party expenditures on behalf of 
+                            candidates in general elections.
+Sec. 1005. Construction.
+Sec. 1006. Judicial review.
+Sec. 1007. Effective date.
+
+                 TITLE I--ENHANCING LOBBYING DISCLOSURE
+
+SEC. 101. QUARTERLY FILING OF LOBBYING DISCLOSURE REPORTS.
+
+    (a) Quarterly Filing Required.--Section 5 of the Lobbying 
+Disclosure Act of 1995 (in this title referred to as the ``Act'') (2 
+U.S.C. 1604) is amended--
+            (1) in subsection (a)--
+                    (A) in the heading, by striking ``Semiannual'' and 
+                inserting ``Quarterly'';
+                    (B) by striking ``45'' and inserting ``20'';
+                    (C) by striking ``the semiannual period'' and all 
+                that follows through ``July of each year'' and insert 
+                ``the quarterly period beginning on the first day of 
+                January, April, July, and October of each year''; and
+                    (D) by striking ``such semiannual period'' and 
+                insert ``such quarterly period''; and
+            (2) in subsection (b)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``semiannual report'' and inserting 
+                ``quarterly report'';
+                    (B) in paragraph (2), by striking ``semiannual 
+                filing period'' and inserting ``quarterly period'';
+                    (C) in paragraph (3), by striking ``semiannual 
+                period'' and inserting ``quarterly period''; and
+                    (D) in paragraph (4), by striking ``semiannual 
+                filing period'' and inserting ``quarterly period''.
+    (b) Conforming Amendments.--
+            (1) Definition.--Section 3(10) of the Act (2 U.S.C. 
+        1602(10)) is amended by striking ``six month period'' and 
+        inserting ``3-month period''.
+            (2) Registration.--Section 4 of the Act (2 U.S.C. 1603) is 
+        amended--
+                    (A) in subsection (a)(3)(A), by striking 
+                ``semiannual period'' and inserting ``quarterly 
+                period''; and
+                    (B) in subsection (b)(3)(A), by striking 
+                ``semiannual period'' and inserting ``quarterly 
+                period''.
+            (3) Enforcement.--Section 6(6) of the Act (2 U.S.C. 
+        1605(6)) is amended by striking ``semiannual period'' and 
+        inserting ``quarterly period''.
+            (4) Estimates.--Section 15 of the Act (2 U.S.C. 1610) is 
+        amended--
+                    (A) in subsection (a)(1), by striking ``semiannual 
+                period'' and inserting ``quarterly period''; and
+                    (B) in subsection (b)(1), by striking ``semiannual 
+                period'' and inserting ``quarterly period''.
+            (5) Dollar amounts.--
+                    (A) Registration.--Section 4 of the Act (2 U.S.C. 
+                1603) is amended--
+                            (i) in subsection (a)(3)(A)(i), by striking 
+                        ``$5,000'' and inserting ``$2,500'';
+                            (ii) in subsection (a)(3)(A)(ii), by 
+                        striking ``$20,000'' and inserting ``$10,000'';
+                            (iii) in subsection (b)(3)(A), by striking 
+                        ``$10,000'' and inserting ``$5,000''; and
+                            (iv) in subsection (b)(4), by striking 
+                        ``$10,000'' and inserting ``$5,000''.
+                    (B) Reports.--Section 5(c) of the Act (2 U.S.C. 
+                1604(c)) is amended--
+                            (i) in paragraph (1), by striking 
+                        ``$10,000'' and ``$20,000'' and inserting 
+                        ``$5,000'' and ``$1,000'', respectively; and
+                            (ii) in paragraph (2), by striking 
+                        ``$10,000'' both places such term appears and 
+                        inserting ``$5,000''.
+
+SEC. 102. ELECTRONIC FILING OF LOBBYING REGISTRATIONS AND DISCLOSURE 
+              REPORTS.
+
+    (a) Registrations.--Section 4 of the Act (2 U.S.C. 1603) is 
+amended--
+            (1) by redesignating subsection (d) as subsection (e); and
+            (2) by inserting after subsection (c) the following:
+    ``(d) Electronic Filing Required.--A registration required to be 
+filed under this section on or after the date of enactment of the 
+Lobbying Accountability and Transparency Act of 2006 shall be filed in 
+electronic form, in addition to any other form that may be required by 
+the Secretary of the Senate or the Clerk of the House of 
+Representatives. The due date for a registration filed in electronic 
+form shall be no later than the due date for a registration filed in 
+any other form.''.
+    (b) Reports.--Section 5 of the Act (2 U.S.C. 1604) is amended by 
+adding at the end the following:
+    ``(d) Electronic Filing Required.--
+            ``(1) In general.--A report required to be filed under this 
+        section shall be filed in electronic form, in addition to any 
+        other form that may be required by the Secretary of the Senate 
+        or the Clerk of the House of Representatives. The due date for 
+        a report filed in electronic form shall be no later than the 
+        due date for a report filed in any other form, except as 
+        provided in paragraph (2).
+            ``(2) Extension of time to file in electronic form.--The 
+        Secretary of the Senate or the Clerk of the House of 
+        Representatives may establish a later due date for the filing 
+        of a report in electronic form by a registrant, if and only 
+        if--
+                    ``(A) on or before the original due date, the 
+                registrant--
+                            ``(i) timely files the report in every form 
+                        required, other than electronic form; and
+                            ``(ii) makes a request for such a later due 
+                        date to the Secretary or the Clerk, as the case 
+                        may be; and
+                    ``(B) the request is supported by good cause 
+                shown.''.
+
+SEC. 103. PUBLIC DATABASE OF LOBBYING DISCLOSURE INFORMATION.
+
+    (a) Database Required.--Section 6 of the Act (2 U.S.C. 1605) is 
+amended--
+            (1) in paragraph (7), by striking ``and'' at the end;
+            (2) in paragraph (8), by striking the period and inserting 
+        ``; and''; and
+            (3) by adding at the end the following:
+            ``(9) maintain, and make available to the public over the 
+        Internet, without a fee or other access charge, in a 
+        searchable, sortable, and downloadable manner, an electronic 
+        database that--
+                    ``(A) includes the information contained in 
+                registrations and reports filed under this Act;
+                    ``(B) directly links the information it contains to 
+                the information disclosed in reports filed with the 
+                Federal Election Commission under section 304 of the 
+                Federal Election Campaign Act of 1971 (2 U.S.C. 434); 
+                and
+                    ``(C) is searchable and sortable, at a minimum, by 
+                each of the categories of information described in 
+                sections 4(b) and 5(b).''.
+    (b) Availability of Reports.--Section 6(4) of the Act is amended by 
+inserting before the semicolon the following: ``and, in the case of a 
+registration filed in electronic form pursuant to section 4(d) or a 
+report filed in electronic form pursuant to section 5(d), shall make 
+such registration or report (as the case may be) available for public 
+inspection over the Internet not more than 48 hours after the 
+registration or report (as the case may be) is approved as received by 
+the Secretary of the Senate or the Clerk of the House of 
+Representatives (as the case may be)''.
+    (c) Authorization of Appropriations.--There are authorized to be 
+appropriated such sums as may be necessary to carry out paragraph (9) 
+of section 6 of the Act, as added by subsection (a) of this section.
+
+SEC. 104. DISCLOSURE BY REGISTERED LOBBYISTS OF PAST EXECUTIVE BRANCH 
+              AND CONGRESSIONAL EMPLOYMENT.
+
+    Section 4(b)(6) of the Act (2 U.S.C. 1603(b)(6)) is amended by 
+striking ``2 years'' and inserting ``7 years''.
+
+SEC. 105. DISCLOSURE OF LOBBYIST CONTRIBUTIONS AND GIFTS.
+
+    (a) In General.--Section 5(b) of the Act (2 U.S.C. 1604(b)) is 
+amended--
+            (1) in paragraph (3), by striking ``and'' after the 
+        semicolon;
+            (2) in paragraph (4), by striking the period and inserting 
+        a semicolon; and
+            (3) by adding at the end the following:
+            ``(5) for each registrant (and for any political committee, 
+        as defined in 301(4) of the Federal Election Campaign Act of 
+        1971 (2 U.S.C. 431(4)), affiliated with the registrant), and 
+        for each employee listed as a lobbyist by the registrant under 
+        paragraph (2)(C), the name of each Federal candidate or 
+        officeholder, and of each leadership PAC, political party 
+        committee, or other political committee to whom a contribution 
+        was made which is required to be reported to the Federal 
+        Election Commission by the recipient, and the date and amount 
+        of such contribution;
+            ``(6) the date, recipient, and amount of any gift that 
+        under the Rules of the House of Representatives counts towards 
+        the cumulative annual limit described in such rules and is 
+        given to a covered legislative branch official by the 
+        registrant or an employee listed as a lobbyist by the 
+        registrant under paragraph (2)(C); and
+            ``(7) the date, recipient, and amount of funds contributed 
+        by the registrant or an employee listed as a lobbyist by the 
+        registrant under paragraph (2)(C)--
+                    ``(A) to, or on behalf of, an entity that is named 
+                for a covered legislative branch official, or to a 
+                person or entity in recognition of such official; or
+                    ``(B) to an entity established, financed, 
+                maintained, or controlled by a covered legislative 
+                branch official;
+        except that this paragraph shall not apply to any payment or 
+        reimbursement made from funds required to be reported under 
+        section 304 of the Federal Election Campaign Act of 1971 (2 
+        U.S.C. 434).''.
+    (b) Factors to be Considered to Determine Relationship Between 
+Officials and Other Entities.--Section 5 of the Act (2 U.S.C. 1604), as 
+amended by section 102(b) of this Act, is amended by adding at the end 
+the following new subsection:
+    ``(e) Factors to Determine Relationship Between Officials and Other 
+Entities.--
+            ``(1) In general.--In determining under subsection 
+        (b)(7)(B) whether a covered legislative branch official 
+        directly or indirectly established, finances, maintains, or 
+        controls an entity, the factors described in paragraph (2) 
+        shall be examined in the context of the overall relationship 
+        between that covered official and the entity to determine 
+        whether the presence of any such factor or factors is evidence 
+        that the covered official directly or indirectly established, 
+        finances, maintains, or controls the entity.
+            ``(2) Factors.--The factors referred to in paragraph (1) 
+        include, but are not limited to, the following:
+                    ``(A) Whether the covered official, directly or 
+                through its agent, owns a controlling interest in the 
+                voting stock or securities of the entity.
+                    ``(B) Whether the covered official, directly or 
+                through its agent, has the authority or ability to 
+                direct or participate in the governance of the entity 
+                through provisions of constitutions, bylaws, contracts, 
+                or other rules, or through formal or informal practices 
+                or procedures.
+                    ``(C) Whether the covered official, directly or 
+                through its agent, has the authority or ability to 
+                hire, appoint, demote, or otherwise control the 
+                officers or other decisionmaking employees or members 
+                of the entity.
+                    ``(D) Whether the covered official has a common or 
+                overlapping membership with the entity that indicates a 
+                formal or ongoing relationship between the covered 
+                official and the entity.
+                    ``(E) Whether the covered official has common or 
+                overlapping officers or employees with the entity that 
+                indicates a formal or ongoing relationship between the 
+                covered official and the entity.
+                    ``(F) Whether the covered official has any members, 
+                officers, or employees who were members, officers, or 
+                employees of the entity that indicates a formal or 
+                ongoing relationship between the covered official and 
+                the entity, or that indicates the creation of a 
+                successor entity.
+                    ``(G) Whether the covered official, directly or 
+                through its agent, provides funds or goods in a 
+                significant amount or on an ongoing basis to the 
+                entity, such as through direct or indirect payments for 
+                administrative, fundraising, or other costs.
+                    ``(H) Whether the covered official, directly or 
+                through its agent, causes or arranges for funds in a 
+                significant amount or on an ongoing basis to be 
+                provided to the entity.
+                    ``(I) Whether the covered official, directly or 
+                through its agent, had an active or significant role in 
+                the formation of the entity.
+                    ``(J) Whether the covered official and the entity 
+                have similar patterns of receipts or disbursements that 
+                indicate a formal or ongoing relationship between the 
+                covered official and the entity.''.
+    (c) Conforming Amendment.--Section 3 of the Act (2 U.S.C. 1602) is 
+amended by adding at the end the following new paragraphs:
+            ``(17) Gift.--The term `gift' means a gratuity, favor, 
+        discount, entertainment, hospitality, loan, forbearance, or 
+        other item having monetary value. The term includes gifts of 
+        services, training, and meals, whether provided in kind, by 
+        purchase of a ticket, payment in advance, or reimbursement 
+        after the expense has been incurred.
+            ``(18) Leadership PAC.--The term `leadership PAC' means, 
+        with respect to an individual holding Federal office, an 
+        unauthorized political committee (as defined in the Federal 
+        Election Campaign Act of 1971) which is associated with such 
+        individual.''.
+
+SEC. 106. INCREASED PENALTY FOR FAILURE TO COMPLY WITH LOBBYING 
+              DISCLOSURE REQUIREMENTS.
+
+    Section 7 of the Act (2 U.S.C. 1606) is amended--
+            (1) by striking ``Whoever'' and inserting ``(a) Civil 
+        Penalty.--Whoever'';
+            (2) by striking ``$50,000'' and inserting ``$100,000''; and
+            (3) by adding at the end the following:
+    ``(b) Criminal Penalty.--
+            ``(1) In general.--Whoever knowingly and willfully fails to 
+        comply with any provision of this Act shall be imprisoned not 
+        more than 3 years, or fined under title 18, United States Code, 
+        or both.
+            ``(2) Corruptly.--Whoever knowingly, willfully, and 
+        corruptly fails to comply with any provision of this Act shall 
+        be imprisoned not more than 5 years, or fined under title 18, 
+        United States Code, or both.''.
+
+SEC. 107. PENALTIES FOR OFFERING GIFTS.
+
+    Section 7 of the Act (2 U.S.C. 1606), as amended by section 106, is 
+amended by adding at the end the following:
+    ``(c) Penalties for Offering Gifts.--
+            ``(1) In general.--Any person who is--
+                    ``(A) a lobbyist registered under this Act,
+                    ``(B) a lobbyist who is an employee of an 
+                organization registered under this Act, or
+                    ``(C) the client of any such lobbyist or 
+                organization,
+        and who offers to a covered legislative branch official of the 
+        House of Representatives any gift, knowing that such gift 
+        violates the rules of the House of Representatives, shall, upon 
+        proof thereof by a preponderance of the evidence, be subject to 
+        a civil fine of not more than $50,000.
+            ``(2) Definition.--In this subsection, the term `covered 
+        legislative branch official of the House of Representatives' 
+        means--
+                    ``(A) a Representative in, or Delegate or Resident 
+                Commissioner to, the Congress; and
+                    ``(B) an employee of, or any other individual 
+                functioning in the capacity of an employee of--
+                            ``(i) an individual described in 
+                        subparagraph (A);
+                            ``(ii) a committee of the House of 
+                        Representatives;
+                            ``(iii) the leadership staff of the House 
+                        of Representatives;
+                            ``(iv) a joint committee of Congress; or
+                            ``(v) a working group or caucus organized 
+                        to provide legislative services to individuals 
+                        described in subparagraph (A).''.
+
+                  TITLE II--SLOWING THE REVOLVING DOOR
+
+SEC. 201. NOTIFICATION OF POST-EMPLOYMENT RESTRICTIONS.
+
+    Section 207(e) of title 18, United States Code, is amended by 
+adding at the end the following new paragraph:
+            ``(8) Notification of post-employment restrictions.--After 
+        a Member of the House of Representatives or an elected officer 
+        of the House of Representatives leaves office, or after the 
+        termination of employment with the House of Representatives of 
+        an employee of the House of Representatives covered under 
+        paragraph (2), (3), or (4), the Clerk of the House of 
+        Representatives, after consultation with the Committee on 
+        Standards of Official Conduct, shall inform the Member, 
+        officer, or employee of the beginning and ending date of the 
+        prohibitions that apply to the Member, officer, or employee 
+        under this subsection, and also inform each office of the House 
+        of Representatives with respect to which such prohibitions 
+        apply of those dates.''.
+
+SEC. 202. DISCLOSURE BY MEMBERS OF THE HOUSE OF REPRESENTATIVES OF 
+              EMPLOYMENT NEGOTIATIONS.
+
+    The Code of Official Conduct set forth in rule XXIII of the Rules 
+of the House of Representatives is amended by redesignating clause 14 
+as clause 15 and by inserting after clause 13 the following new clause:
+            ``14. (a) A Member, Delegate, or Resident Commissioner 
+        shall file with the Committee on Standards of Official Conduct 
+        a statement that he or she is negotiating compensation for 
+        prospective employment or has any arrangement concerning 
+        prospective employment if a conflict of interest or the 
+        appearance of a conflict of interest may exist. Such statement 
+        shall be made within 5 days (other than Saturdays, Sundays, or 
+        public holidays) after commencing the negotiation for 
+        compensation or entering into the arrangement.
+            ``(b) A Member, Delegate, or Resident Commissioner should 
+        refrain from voting on any legislative measure pending before 
+        the House or any committee thereof if the negotiation described 
+        in subparagraph (a) may create a conflict of interest.''.
+
+SEC. 203. WRONGFULLY INFLUENCING, ON A PARTISAN BASIS, AN ENTITY'S 
+              EMPLOYMENT DECISIONS OR PRACTICES.
+
+    The Code of Official Conduct set forth in rule XXIII of the Rules 
+of the House of Representatives (as amended by section 202) is further 
+amended by redesignating clause 15 as clause 16 and by inserting after 
+clause 14 the following new clause:
+            ``15. A Member, Delegate, Resident Commissioner, officer, 
+        or employee of the House may not, with the intent to influence 
+        on the basis of political party affiliation an employment 
+        decision or employment practice of any private or public entity 
+        (except for the Congress)--
+                    ``(a) take or withhold, or offer or threaten to 
+                take or withhold, an official act; or
+                    ``(b) influence, or offer or threaten to influence, 
+                the official act of another.''.
+
+  TITLE III--SUSPENSION OF PRIVATELY-FUNDED TRAVEL; CURBING LOBBYIST 
+                                 GIFTS
+
+SEC. 301 PRE-CERTIFICATION OF PRIVATELY FUNDED TRAVEL.
+
+    (a) Acceptance of Privately Funded Travel.--Notwithstanding clause 
+5 of rule XXV of the Rules of the House of Representatives, no Member, 
+Delegate, Resident Commissioner, officer, or employee of the House may 
+accept a gift of travel related to his official duties (including any 
+transportation, lodging, and meals during such travel) from any private 
+source unless the private source first obtains a certification in 
+writing from the Committee on Standards of Official Conduct that the 
+gift of travel complies with all House rules and standards of conduct.
+    (b) Review and Recommendations.--(1) The Committee on Standards of 
+Official Conduct may not issue any such certification until it reports 
+its recommendations on changes to rule XXV to the Committee on Rules 
+unless two-thirds of the Members of the Committee, present and voting 
+in the affirmative, vote to issue such certification. The Committee on 
+Standards of Official Conduct shall report its recommendations to the 
+Committee on Rules not later than June 15, 2006.
+    (2) In developing such recommendations, the Committee on Standards 
+of Official Conduct shall--
+            (A) survey public reports of registered lobbyist and 
+        registered foreign agent-related private travel, as well as 
+        public reports of late or inaccurate disclosure of private 
+        travel; and
+            (B) consider--
+                    (i) The ability of the current provisions of rule 
+                XXV regarding travel to protect the House, its Members, 
+                officers, and employees, from the appearance of 
+                impropriety.
+                    (ii) With respect to the allowance for privately-
+                funded travel contained in clause 5(b) of rule XXV--
+                            (I) the degree to which the privately-
+                        funded travel meets the representational needs 
+                        of the House, its Members, officers, and 
+                        employees;
+                            (II) whether certain entities should or 
+                        should not be permitted to fund the travel of 
+                        the Members, officers, and employees of the 
+                        House, what sources of funding may be 
+                        permissible, and what other individuals may 
+                        participate in that travel; and
+                            (III) the adequacy of the current system of 
+                        approval and disclosure of such travel.
+
+SEC. 302 RECOMMENDATIONS FROM THE COMMITTEE ON STANDARDS OF OFFICIAL 
+              CONDUCT ON GIFTS.
+
+    The Committee on Standards of Official Conduct shall report its 
+recommendations on changes to rule XXV of the Rules of the House of 
+Representatives regarding the exceptions to the limitation on the 
+acceptance of gifts contained in clause 5(a) of that rule to the 
+Committee on Rules. In developing its recommendations, the Committee on 
+Standards of Official Conduct shall consider the following:
+
+SEC. 303. PROHIBITING REGISTERED LOBBYISTS ON CORPORATE FLIGHTS.
+
+    The Lobbying Disclosure Act of 1995 is amended by inserting after 
+section 5 the following new section:
+
+``SEC. 5A. PROHIBITING REGISTERED LOBBYISTS ON CORPORATE FLIGHTS.
+
+    ``If a Representative in, or Delegate or Resident Commissioner to, 
+the Congress, or an officer or employee of the House of 
+Representatives, is a passenger or crew member on a flight of an 
+aircraft that is not licensed by the Federal Aviation Administration to 
+operate for compensation or hire and that is owned or operated by a 
+person who is the client of a lobbyist or a lobbying firm, then such 
+lobbyist may not be a passenger or crew member on that flight.''.
+
+SEC. 304. VALUATION OF TICKETS TO SPORTING AND ENTERTAINMENT EVENTS.
+
+    Clause 5(a)(2)(A) of rule XXV of the Rules of the House of 
+Representatives is amended by--
+            (1) inserting ``(i)'' after ``(A)''; and
+            (2) adding at the end the following:
+    ``(ii) A gift of a ticket to a sporting or entertainment event 
+shall be valued at the face value of the ticket, provided that in the 
+case of a ticket without a face value, the ticket shall be valued at 
+the highest cost of a ticket with a face value for the event.''.
+
+            TITLE IV--OVERSIGHT OF LOBBYING AND ENFORCEMENT
+
+SEC. 401. AUDITS OF LOBBYING REPORTS BY HOUSE INSPECTOR GENERAL.
+
+    (a) Access to Lobbying Reports.--The Office of Inspector General of 
+the House of Representatives shall have access to all lobbyists' 
+disclosure information received by the Clerk of the House of 
+Representatives under the Lobbying Disclosure Act of 1995 and shall 
+conduct random audits of lobbyists' disclosure information as necessary 
+to ensure compliance with that Act.
+    (b) Referral Authority.--The Office of the Inspector General of the 
+House of Representatives may refer potential violations by lobbyists of 
+the Lobbying Disclosure Act of 1995 to the Department of Justice for 
+disciplinary action.
+
+SEC. 402. HOUSE INSPECTOR GENERAL REVIEW AND ANNUAL REPORTS.
+
+    (a) Ongoing Review Required.--The Inspector General of the House of 
+Representatives shall review on an ongoing basis the activities carried 
+out by the Clerk of the House of Representatives under section 6 of the 
+Lobbying Disclosure Act of 1995 (2 U.S.C. 1605). The review shall 
+emphasize--
+            (1) the effectiveness of those activities in securing the 
+        compliance by lobbyists with the requirements of that Act; and
+            (2) whether the Clerk has the resources and authorities 
+        needed for effective oversight and enforcement of that Act.
+    (b) Annual Reports.--Not later than December 31 of each year, the 
+Inspector General of the House of Representatives shall submit to the 
+House of Representatives a report on the review required by subsection 
+(a). The report shall include the Inspector General's assessment of the 
+matters required to be emphasized by that subsection and any 
+recommendations of the Inspector General to--
+            (1) improve the compliance by lobbyists with the 
+        requirements of the Lobbying Disclosure Act of 1995; and
+            (2) provide the Clerk of the House of Representatives with 
+        the resources and authorities needed for effective oversight 
+        and enforcement of that Act.
+
+                     TITLE V--INSTITUTIONAL REFORMS
+
+SEC. 501. EARMARKING REFORM.
+
+    (a) In the House of Representatives, it shall not be in order to 
+consider--
+            (1) a general appropriation bill reported by the Committee 
+        on Appropriations unless the report includes a list of earmarks 
+        in the bill or in the report (and the names of Members who 
+        submitted requests to the Committee on Appropriations for 
+        earmarks included in such list); or
+            (2) a conference report to accompany a general 
+        appropriation bill unless the joint explanatory statement 
+        prepared by the managers on the part of the House and the 
+        managers on the part of the Senate includes a list of earmarks 
+        in the conference report or joint statement (and the names of 
+        Members who submitted requests to the Committee on 
+        Appropriations for earmarks included in such list) that were--
+                    (A) not committed to the conference committee by 
+                either House;
+                    (B) not in the report specified in paragraph (1); 
+                and
+                    (C) not in a report of a committee of the Senate on 
+                a companion measure.
+    (b) In the House of Representatives, it shall not be in order to 
+consider a rule or order that waives the application of subsection 
+(a)(2).
+    (c)(1) A point of order raised under subsection (a)(1) may be based 
+only on the failure of a report of the Committee on Appropriations to 
+include the list required by subsection (a)(1).
+            (2) As disposition of a point of order under subsection 
+        (a), the Chair shall put the question of consideration with 
+        respect to the proposition that is the subject of the point of 
+        order.
+            (3) As disposition of a point of order under subsection (b) 
+        with respect to a rule or order relating to a conference 
+        report, the Chair shall put the question of consideration as 
+        follows: ``Shall the House now consider the resolution 
+        notwithstanding the assertion of [the maker of the point of 
+        order] that the object of the resolution introduces a new 
+        earmark or new earmarks?''.
+            (4) The question of consideration under this subsection 
+        shall be debatable for 15 minutes by the Member initiating the 
+        point of order and for 15 minutes by an opponent, but shall 
+        otherwise be decided without intervening motion except one that 
+        the House adjourn.
+    (d)(1) For the purpose of this resolution, the term ``earmark'' 
+means a provision in a bill or conference report, or language in an 
+accompanying committee report or joint statement of managers, providing 
+or recommending a specific amount of discretionary budget authority to 
+a non-Federal entity, if such entity is specifically identified in the 
+report or bill; or if the discretionary budget authority is allocated 
+outside of the normal formula-driven or competitive bidding process and 
+is targeted or directed to an identifiable person, specific State, or 
+congressional district.
+    (2) For the purpose of subsection (a), government-sponsored 
+enterprises, Federal facilities, and Federal lands shall be considered 
+Federal entities.
+    (3) For the purpose of subsection (a), to the extent that the non-
+Federal entity is a State or territory, an Indian tribe, a foreign 
+government or an intergovernmental international organization, the 
+provision or language shall not be considered an earmark unless the 
+provision or language also specifies the specific purpose for which the 
+designated budget authority is to be expended.
+
+SEC. 502. MANDATORY ETHICS TRAINING FOR HOUSE EMPLOYEES.
+
+    (a) Mandatory Ethics Training for House Employees.--
+            (1) Chief administrative officer.--Clause 4 of rule II of 
+        the Rules of the House of Representatives is amended by 
+        inserting the following new paragraph at the end:
+    ``(d) The Chief Administrative Officer may not pay any compensation 
+to any employee of the House with respect to any pay period during 
+which the employee, as determined by the Committee on Standards of 
+Official Conduct, is not in compliance with the applicable requirements 
+of regulations promulgated pursuant to clause 3(r) of Rule XI.''.
+            (2) Mandatory ethics training program.--Clause 3 of rule XI 
+        of the Rules of the House of Representatives is amended by 
+        adding at the end the following:
+    ``(r) The committee shall establish a program of regular ethics 
+training for employees of the House and promulgate regulations 
+providing for the following:
+            ``(1)(A) Except as otherwise provided, all employees of the 
+        House are required to complete ethics training offered by the 
+        committee at least once during each congress. Any employee who 
+        is hired after the date of adoption of such rules is required 
+        to complete such training within 30 days of being hired.
+            ``(B) Any employee of the House who works in a Member's 
+        district office shall not be required to complete such ethics 
+        training until 30 days after the district office has received a 
+        notice from the Committee on Standards of Official Conduct that 
+        the required ethics training program is available on the 
+        Internet.
+            ``(2) After any employee of the House completes such ethics 
+        training, that employee shall file a written certification with 
+        the committee that he is familiar with the contents of any 
+        pertinent publications that are so designated by the committee 
+        and has completed the required ethics training.
+            ``(3) As used in this paragraph, the term `employee of the 
+        House' refers to any individual whose compensation is disbursed 
+        by the Chief Administrative Officer, including any staff 
+        assigned to a Member's personal office, any staff of a 
+        committee or leadership office, or any employee of the Office 
+        of the Clerk, of the Office of the Chief Administrative 
+        Officer, or of the Sergeant-at-Arms, but does not include a 
+        Member, Delegate, or Resident Commissioner.''.
+    (b) Ethics Training for Members, Delegates, and the Resident 
+Commissioner.--Clause 3 of rule XI of the Rules of the House of 
+Representatives is amended by inserting at the end:
+    ``(s)(1) The committee shall establish a program of regular ethics 
+training for Members, Delegates, and the Resident Commissioner similar 
+to the program established in paragraph (r).
+    ``(2) The committee shall publish a list of Members who have and 
+have not completed such ethics training within the first one hundred 
+calendar days after being sworn-in during each Congress. The committee 
+shall update this list with the names of Members who complete the 
+training after the deadline with the date on which the training was 
+completed.
+    ``(3) Publication of the list of Members who have and have not 
+completed the ethics training shall be made available on the official 
+website of the committee and published in the Congressional Record.''.
+
+SEC. 503. BIENNIAL PUBLICATION OF ETHICS MANUAL.
+
+    Within 120 days after the date of enactment of this Act and during 
+each Congress thereafter, the Committee on Standards of Official 
+Conduct shall publish an up-to-date ethics manual for Members, 
+officers, and employees of the House of Representatives and make such 
+manual available to all such individuals. The committee has a duty to 
+keep all Members, Delegates, the Resident Commissioner, officers, and 
+employees of the House of Representatives apprised of current rulings 
+or advisory opinions when potentially constituting changes to or 
+interpretations of existing policies.
+
+              TITLE VI--FORFEITURE OF RETIREMENT BENEFITS
+
+SEC. 601. LOSS OF PENSIONS ACCRUED DURING SERVICE AS A MEMBER OF 
+              CONGRESS FOR ABUSING THE PUBLIC TRUST.
+
+    (a) Civil Service Retirement System.--Section 8332 of title 5, 
+United States Code, is amended by adding at the end the following:
+    ``(o)(1) Notwithstanding any other provision of this subchapter, 
+the service of an individual finally convicted of an offense described 
+in paragraph (2) shall not be taken into account for purposes of this 
+subchapter, except that this sentence applies only to service rendered 
+as a Member (irrespective of when rendered). Any such individual (or 
+other person determined under section 8342(c), if applicable) shall be 
+entitled to be paid so much of such individual's lump-sum credit as is 
+attributable to service to which the preceding sentence applies.
+    ``(2)(A) An offense described in this paragraph is any offense 
+described in subparagraph (B) for which the following apply:
+            ``(i) Every act or omission of the individual (referred to 
+        in paragraph (1)) that is needed to satisfy the elements of the 
+        offense occurs while the individual is a Member.
+            ``(ii) Every act or omission of the individual that is 
+        needed to satisfy the elements of the offense directly relates 
+        to the performance of the individual's official duties as a 
+        Member.
+            ``(iii) The offense is committed after the date of 
+        enactment of this subsection.
+    ``(B) An offense described in this subparagraph is only the 
+following, and only to the extent that the offense is a felony under 
+title 18:
+            ``(i) An offense under section 201 of title 18 (bribery of 
+        public officials and witnesses).
+            ``(ii) An offense under section 219 of title 18 (officers 
+        and employees acting as agents of foreign principals).
+            ``(iii) An offense under section 371 of title 18 
+        (conspiracy to commit offense or to defraud United States) to 
+        the extent of any conspiracy to commit an act which constitutes 
+        an offense under clause (i) or (ii).
+    ``(3) An individual convicted of an offense described in paragraph 
+(2) shall not, after the date of the final conviction, be eligible to 
+participate in the retirement system under this subchapter or chapter 
+84 while serving as a Member.
+    ``(4) The Office of Personnel Management shall prescribe any 
+regulations necessary to carry out this subsection. Such regulations 
+shall include--
+            ``(A) provisions under which interest on any lump-sum 
+        payment under the second sentence of paragraph (1) shall be 
+        limited in a manner similar to that specified in the last 
+        sentence of section 8316(b); and
+            ``(B) provisions under which the Office may provide for--
+                    ``(i) the payment, to the spouse or children of any 
+                individual referred to in the first sentence of 
+                paragraph (1), of any amounts which (but for this 
+                clause) would otherwise have been nonpayable by reason 
+                of such first sentence, but only to the extent that the 
+                application of this clause is considered necessary 
+                given the totality of the circumstances; and
+                    ``(ii) an appropriate adjustment in the amount of 
+                any lump-sum payment under the second sentence of 
+                paragraph (1) to reflect the application of clause (i).
+    ``(5) For purposes of this subsection--
+            ``(A) the term `Member' has the meaning given such term by 
+        section 2106, notwithstanding section 8331(2); and
+            ``(B) the term `child' has the meaning given such term by 
+        section 8341.''.
+    (b) Federal Employees' Retirement System.--Section 8411 of title 5, 
+United States Code, is amended by adding at the end the following:
+    ``(l)(1) Notwithstanding any other provision of this chapter, the 
+service of an individual finally convicted of an offense described in 
+paragraph (2) shall not be taken into account for purposes of this 
+chapter, except that this sentence applies only to service rendered as 
+a Member (irrespective of when rendered). Any such individual (or other 
+person determined under section 8424(d), if applicable) shall be 
+entitled to be paid so much of such individual's lump-sum credit as is 
+attributable to service to which the preceding sentence applies.
+    ``(2) An offense described in this paragraph is any offense 
+described in section 8332(o)(2)(B) for which the following apply:
+            ``(A) Every act or omission of the individual (referred to 
+        in paragraph (1)) that is needed to satisfy the elements of the 
+        offense occurs while the individual is a Member.
+            ``(B) Every act or omission of the individual that is 
+        needed to satisfy the elements of the offense directly relates 
+        to the performance of the individual's official duties as a 
+        Member.
+            ``(C) The offense is committed after the date of enactment 
+        of this subsection.
+    ``(3) An individual finally convicted of an offense described in 
+paragraph (2) shall not, after the date of the conviction, be eligible 
+to participate in the retirement system under this chapter while 
+serving as a Member.
+    ``(4) The Office of Personnel Management shall prescribe any 
+regulations necessary to carry out this subsection. Such regulations 
+shall include--
+            ``(A) provisions under which interest on any lump-sum 
+        payment under the second sentence of paragraph (1) shall be 
+        limited in a manner similar to that specified in the last 
+        sentence of section 8316(b); and
+            ``(B) provisions under which the Office may provide for--
+                    ``(i) the payment, to the spouse or children of any 
+                individual referred to in the first sentence of 
+                paragraph (1), of any amounts which (but for this 
+                clause) would otherwise have been nonpayable by reason 
+                of such first sentence, but only to the extent that the 
+                application of this clause is considered necessary 
+                given the totality of the circumstances; and
+                    ``(ii) an appropriate adjustment in the amount of 
+                any lump-sum payment under the second sentence of 
+                paragraph (1) to reflect the application of clause (i).
+    ``(5) For purposes of this subsection--
+            ``(A) the term `Member' has the meaning given such term by 
+        section 2106, notwithstanding section 8401(20); and
+            ``(B) the term `child' has the meaning given such term by 
+        section 8341.''.
+
+                       TITLE VII--LEADERSHIP PACS
+
+SEC. 701. RESTRICTIONS ON DISPOSITION OF FUNDS BY LEADERSHIP PACS.
+
+    (a) Restrictions.--Section 313 of the Federal Election Campaign Act 
+of 1971 (2 U.S.C. 439a) is amended--
+            (1) by redesignating subsection (b) as subsection (c); and
+            (2) by inserting after subsection (a) the following new 
+        subsection:
+    ``(b) Use of Funds by Leadership PACs.--
+            ``(1) Uses permitted.--The funds of a leadership PAC may be 
+        used by the leadership PAC--
+                    ``(A) for otherwise authorized expenditures in 
+                connection with campaigns for election for Federal 
+                office;
+                    ``(B) for charitable contributions described in 
+                section 170(c) of the Internal Revenue Code of 1986; or
+                    ``(C) for transfers to a national, State, or local 
+                committee of a political party (subject to the 
+                applicable limitations of this Act).
+            ``(2) Leadership pac defined.--In this subsection, the term 
+        `leadership PAC' means a political committee which is directly 
+        or indirectly established, maintained, or controlled by a 
+        candidate for election for Federal office or an individual 
+        holding Federal office but is not an authorized committee of 
+        the candidate or individual, except that such term does not 
+        include any political committee of a political party.''.
+    (b) Conforming Amendment Regarding Conversion of Funds to Personal 
+Use.--Section 313(c) of such Act (2 U.S.C. 439a(c)), as redesignated by 
+subsection (a), is amended by inserting after ``subsection (a)'' the 
+following: ``or funds of a leadership PAC described in subsection 
+(b)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to elections occurring after December 2006.
+
+               TITLE VIII--ETHICS TRAINING FOR LOBBYISTS
+
+SEC. 801. ETHICS TRAINING FOR LOBBYISTS.
+
+    (a) Training Course.--During each Congress, the Committee on 
+Standards of Official Conduct of the House of Representatives shall 
+provide an 8-hour ethics training course to persons registered as 
+lobbyists under the Lobbying Disclosure Act of 1995.
+    (b) Contents of Course.--Training under subsection (a) shall cover 
+information on the code of conduct and disclosure requirements 
+applicable to Members, officers, and employees of the House of 
+Representatives, including rules relating to acceptance of gifts 
+(including travel and meals), and financial disclosure requirements 
+under the Ethics in Government Act of 1978.
+    (c) Penalties for Failure to Complete Training.--Any person who is 
+registered or required to register as a lobbyist under the Lobbying 
+Disclosure Act of 1995 and who fails to complete the training course 
+under subsection (a) at least once during each Congress shall be 
+subject to the penalties under section 7 of that Act to the same extent 
+as a failure to comply with any provision of that Act.
+
+                   TITLE IX--MISCELLANEOUS PROVISIONS
+
+SEC. 901. BRIBERY.
+
+    Section 201(a)(3) of title 18, United States Code, is amended by 
+inserting ``including an earmark as defined in section 501(d) of the 
+Lobbying Accountability and Transparency Act of 2006,'' after 
+``controversy,''.
+
+                    TITLE X--527 REFORM ACT OF 2006
+
+SEC. 1001. SHORT TITLE.
+
+    This title may be cited as the ``527 Reform Act of 2006''.
+
+SEC. 1002. TREATMENT OF SECTION 527 ORGANIZATIONS.
+
+    (a) Definition of Political Committee.--Section 301(4) of the 
+Federal Election Campaign Act of 1971 (2 U.S.C. 431(4)) is amended--
+            (1) by striking the period at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (2) by adding at the end the following:
+            ``(D) any applicable 527 organization.''.
+    (b) Definition of Applicable 527 Organization.--Section 301 of such 
+Act (2 U.S.C. 431) is amended by adding at the end the following new 
+paragraph:
+    ``(27) Applicable 527 Organization.--
+            ``(A) In general.--For purposes of paragraph (4)(D), the 
+        term `applicable 527 organization' means a committee, club, 
+        association, or group of persons that--
+                    ``(i) has given notice to the Secretary of the 
+                Treasury under section 527(i) of the Internal Revenue 
+                Code of 1986 that it is to be treated as an 
+                organization described in section 527 of such Code; and
+                    ``(ii) is not described in subparagraph (B).
+            ``(B) Excepted organizations.--A committee, club, 
+        association, or other group of persons described in this 
+        subparagraph is--
+                    ``(i) an organization described in section 
+                527(i)(5) of the Internal Revenue Code of 1986;
+                    ``(ii) an organization which is a committee, club, 
+                association or other group of persons that is 
+                organized, operated, and makes disbursements 
+                exclusively for paying expenses described in the last 
+                sentence of section 527(e)(2) of the Internal Revenue 
+                Code of 1986 or expenses of a newsletter fund described 
+                in section 527(g) of such Code;
+                    ``(iii) an organization which is a committee, club, 
+                association, or other group that consists solely of 
+                candidates for State or local office, individuals 
+                holding State or local office, or any combination of 
+                either, but only if the organization refers only to one 
+                or more non-Federal candidates or applicable State or 
+                local issues in all of its voter drive activities and 
+                does not refer to a Federal candidate or a political 
+                party in any of its voter drive activities; or
+                    ``(iv) an organization described in subparagraph 
+                (C).
+            ``(C) Applicable organization.--For purposes of 
+        subparagraph (B)(iv), an organization described in this 
+        subparagraph is a committee, club, association, or other group 
+        of persons whose election or nomination activities relate 
+        exclusively to--
+                    ``(i) elections where no candidate for Federal 
+                office appears on the ballot; or
+                    ``(ii) one or more of the following purposes:
+                            ``(I) Influencing the selection, 
+                        nomination, election, or appointment of one or 
+                        more candidates to non-Federal offices.
+                            ``(II) Influencing one or more applicable 
+                        State or local issues.
+                            ``(III) Influencing the selection, 
+                        appointment, nomination, or confirmation of one 
+                        or more individuals to non-elected offices.
+            ``(D) Exclusivity test.--A committee, club, association, or 
+        other group of persons shall not be treated as meeting the 
+        exclusivity requirement of subparagraph (C) if it makes 
+        disbursements aggregating more than $1,000 for any of the 
+        following:
+                    ``(i) A public communication that promotes, 
+                supports, attacks, or opposes a clearly identified 
+                candidate for Federal office during the 1-year period 
+                ending on the date of the general election for the 
+                office sought by the clearly identified candidate (or, 
+                if a runoff election is held with respect to such 
+                general election, on the date of the runoff election).
+                    ``(ii) Any voter drive activity during a calendar 
+                year, except that no disbursements for any voter drive 
+                activity shall be taken into account under this 
+                subparagraph if the committee, club, association, or 
+                other group of persons during such calendar year--
+                            ``(I) makes disbursements for voter drive 
+                        activities with respect to elections in only 1 
+                        State and complies with all applicable election 
+                        laws of that State, including laws related to 
+                        registration and reporting requirements and 
+                        contribution limitations;
+                            ``(II) refers to one or more non-Federal 
+                        candidates or applicable State or local issues 
+                        in all of its voter drive activities and does 
+                        not refer to any Federal candidate or any 
+                        political party in any of its voter drive 
+                        activities;
+                            ``(III) does not have a candidate for 
+                        Federal office, an individual who holds any 
+                        Federal office, a national political party, or 
+                        an agent of any of the foregoing, control or 
+                        materially participate in the direction of the 
+                        organization, solicit contributions to the 
+                        organization (other than funds which are 
+                        described under clauses (i) and (ii) of section 
+                        323(e)(1)(B)), or direct disbursements, in 
+                        whole or in part, by the organization; and
+                            ``(IV) makes no contributions to Federal 
+                        candidates.
+            ``(E) Certain references to federal candidates not taken 
+        into account.--For purposes of subparagraphs (B)(iii) and 
+        (D)(ii)(II), a voter drive activity shall not be treated as 
+        referring to a clearly identified Federal candidate if the only 
+        reference to the candidate in the activity is--
+                    ``(i) a reference in connection with an election 
+                for a non-Federal office in which such Federal 
+                candidate is also a candidate for such non-Federal 
+                office; or
+                    ``(ii) a reference to the fact that the candidate 
+                has endorsed a non-Federal candidate or has taken a 
+                position on an applicable State or local issue, 
+                including a reference that constitutes the endorsement 
+                or position itself.
+            ``(F) Certain references to political parties not taken 
+        into account.--For purposes of subparagraphs (B)(iii) and 
+        (D)(ii)(II), a voter drive activity shall not be treated as 
+        referring to a political party if the only reference to the 
+        party in the activity is--
+                    ``(i) a reference for the purpose of identifying a 
+                non-Federal candidate;
+                    ``(ii) a reference for the purpose of identifying 
+                the entity making the public communication or carrying 
+                out the voter drive activity; or
+                    ``(iii) a reference in a manner or context that 
+                does not reflect support for or opposition to a Federal 
+                candidate or candidates and does reflect support for or 
+                opposition to a State or local candidate or candidates 
+                or an applicable State or local issue.
+            ``(G) Applicable state or local issue.--For purposes of 
+        this paragraph, the term `applicable State or local issue' 
+        means any State or local ballot initiative, State or local 
+        referendum, State or local constitutional amendment, State or 
+        local bond issue, or other State or local ballot issue.''.
+    (c) Definition of Voter Drive Activity.--Section 301 of such Act (2 
+U.S.C. 431), as amended by subsection (b), is further amended by adding 
+at the end the following new paragraph:
+    ``(28) Voter Drive Activity.--The term `voter drive activity' means 
+any of the following activities conducted in connection with an 
+election in which a candidate for Federal office appears on the ballot 
+(regardless of whether a candidate for State or local office also 
+appears on the ballot):
+            ``(A) Voter registration activity.
+            ``(B) Voter identification.
+            ``(C) Get-out-the-vote activity.
+            ``(D) Generic campaign activity.
+            ``(E) Any public communication related to activities 
+        described in subparagraphs (A) through (D).
+Such term shall not include any activity described in subparagraph (A) 
+or (B) of section 316(b)(2).''.
+
+SEC. 1003. RULES FOR ALLOCATION OF EXPENSES BETWEEN FEDERAL AND NON-
+              FEDERAL ACTIVITIES.
+
+    (a) In General.--Title III of the Federal Election Campaign Act of 
+1971 (2 U.S.C. 431 et seq.) is amended by adding at the end the 
+following:
+
+``SEC. 325. ALLOCATION AND FUNDING RULES FOR CERTAIN EXPENSES RELATING 
+              TO FEDERAL AND NON-FEDERAL ACTIVITIES.
+
+    ``(a) In General.--In the case of any disbursements by any 
+political committee that is a separate segregated fund or nonconnected 
+committee for which allocation rules are provided under subsection 
+(b)--
+            ``(1) the disbursements shall be allocated between Federal 
+        and non-Federal accounts in accordance with this section and 
+        regulations prescribed by the Commission; and
+            ``(2) in the case of disbursements allocated to non-Federal 
+        accounts, may be paid only from a qualified non-Federal 
+        account.
+    ``(b) Costs to Be Allocated and Allocation Rules.--
+            ``(1) In general.--Disbursements by any separate segregated 
+        fund or nonconnected committee, other than an organization 
+        described in section 323(b)(1), for any of the following 
+        categories of activity shall be allocated as follows:
+                    ``(A) 100 percent of the expenses for public 
+                communications or voter drive activities that refer to 
+                one or more clearly identified Federal candidates, but 
+                do not refer to any clearly identified non-Federal 
+                candidates, shall be paid with funds from a Federal 
+                account, without regard to whether the communication 
+                refers to a political party.
+                    ``(B) At least 50 percent, or a greater percentage 
+                if the Commission so determines by regulation, of the 
+                expenses for public communications and voter drive 
+                activities that refer to one or more clearly identified 
+                candidates for Federal office and one or more clearly 
+                identified non-Federal candidates shall be paid with 
+                funds from a Federal account, without regard to whether 
+                the communication refers to a political party.
+                    ``(C) At least 50 percent, or a greater percentage 
+                if the Commission so determines by regulation, of the 
+                expenses for public communications or voter drive 
+                activities that refer to a political party, but do not 
+                refer to any clearly identified Federal or non-Federal 
+                candidate, shall be paid with funds from a Federal 
+                account, except that this paragraph shall not apply to 
+                communications or activities that relate exclusively to 
+                elections where no candidate for Federal office appears 
+                on the ballot.
+                    ``(D) At least 50 percent, or a greater percentage 
+                if the Commission so determines by regulation, of the 
+                expenses for public communications or voter drive 
+                activities that refer to a political party and refer to 
+                one or more clearly identified non-Federal candidates, 
+                but do not refer to any clearly identified Federal 
+                candidates, shall be paid with funds from a Federal 
+                account, except that this paragraph shall not apply to 
+                communications or activities that relate exclusively to 
+                elections where no candidate for Federal office appears 
+                on the ballot.
+                    ``(E) Unless otherwise determined by the Commission 
+                in its regulations, at least 50 percent of any 
+                administrative expenses, including rent, utilities, 
+                office supplies, and salaries not attributable to a 
+                clearly identified candidate, shall be paid with funds 
+                from a Federal account, except that for a separate 
+                segregated fund such expenses may be paid instead by 
+                its connected organization.
+                    ``(F) At least 50 percent, or a greater percentage 
+                if the Commission so determines by regulation, of the 
+                direct costs of a fundraising program or event, 
+                including disbursements for solicitation of funds and 
+                for planning and administration of actual fundraising 
+                events, where Federal and non-Federal funds are 
+                collected through such program or event shall be paid 
+                with funds from a Federal account, except that for a 
+                separate segregated fund such costs may be paid instead 
+                by its connected organization. This paragraph shall not 
+                apply to any fundraising solicitations or any other 
+                activity that constitutes a public communication.
+            ``(2) Certain references to federal candidates not taken 
+        into account.--For purposes of paragraph (1), a public 
+        communication or voter drive activity shall not be treated as 
+        referring to a clearly identified Federal candidate if the only 
+        reference to the candidate in the communication or activity 
+        is--
+                    ``(A) a reference in connection with an election 
+                for a non-Federal office in which such Federal 
+                candidate is also a candidate for such non-Federal 
+                office; or
+                    ``(B) a reference to the fact that the candidate 
+                has endorsed a non-Federal candidate or has taken a 
+                position on an applicable State or local issue (as 
+                defined in section 301(27)(G)), including a reference 
+                that constitutes the endorsement or position itself.
+            ``(3) Certain references to political parties not taken 
+        into account.--For purposes of paragraph (1), a public 
+        communication or voter drive activity shall not be treated as 
+        referring to a political party if the only reference to the 
+        party in the communication or activity is--
+                    ``(A) a reference for the purpose of identifying a 
+                non-Federal candidate;
+                    ``(B) a reference for the purpose of identifying 
+                the entity making the public communication or carrying 
+                out the voter drive activity; or
+                    ``(C) a reference in a manner or context that does 
+                not reflect support for or opposition to a Federal 
+                candidate or candidates and does reflect support for or 
+                opposition to a State or local candidate or candidates 
+                or an applicable State or local issue.
+    ``(c) Qualified Non-Federal Account.--
+            ``(1) In general.--For purposes of this section, the term 
+        `qualified non-Federal account' means an account which consists 
+        solely of amounts--
+                    ``(A) that, subject to the limitations of 
+                paragraphs (2) and (3), are raised by the separate 
+                segregated fund or nonconnected committee only from 
+                individuals, and
+                    ``(B) with respect to which all requirements of 
+                Federal, State, or local law (including any law 
+                relating to contribution limits) are met.
+            ``(2) Limitation on individual donations.--
+                    ``(A) In general.--A separate segregated fund or 
+                nonconnected committee may not accept more than $25,000 
+                in funds for its qualified non-Federal account from any 
+                one individual in any calendar year.
+                    ``(B) Affiliation.--For purposes of this paragraph, 
+                all qualified non-Federal accounts of separate 
+                segregated funds or nonconnected committees which are 
+                directly or indirectly established, financed, 
+                maintained, or controlled by the same person or persons 
+                shall be treated as one account.
+            ``(3) Fundraising limitation.--
+                    ``(A) In general.--No donation to a qualified non-
+                Federal account may be solicited, received, directed, 
+                transferred, or spent by or in the name of any person 
+                described in subsection (a) or (e) of section 323.
+                    ``(B) Funds not treated as subject to act.--Except 
+                as provided in subsection (a)(2) and this subsection, 
+                any funds raised for a qualified non-Federal account in 
+                accordance with the requirements of this section shall 
+                not be considered funds subject to the limitations, 
+                prohibitions, and reporting requirements of this Act 
+                for any purpose (including for purposes of subsection 
+                (a) or (e) of section 323 or subsection (d)(1) of this 
+                section).
+    ``(d) Definitions.--
+            ``(1) Federal account.--The term `Federal account' means an 
+        account which consists solely of contributions subject to the 
+        limitations, prohibitions, and reporting requirements of this 
+        Act. Nothing in this section or in section 323(b)(2)(B)(iii) 
+        shall be construed to infer that a limit other than the limit 
+        under section 315(a)(1)(C) applies to contributions to the 
+        account.
+            ``(2) Nonconnected committee.--The term `nonconnected 
+        committee' shall not include a political committee of a 
+        political party.
+            ``(3) Voter drive activity.--The term `voter drive 
+        activity' has the meaning given such term in section 
+        301(28).''.
+    (b) Reporting Requirements.--Section 304(e) of the Federal Election 
+Campaign Act of 1971 (2 U.S.C. 434(e)) is amended--
+            (1) by redesignating paragraphs (3) and (4) as paragraphs 
+        (4) and (5); and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) Receipts and disbursements from qualified non-federal 
+        accounts.--In addition to any other reporting requirement 
+        applicable under this Act, a political committee to which 
+        section 325(a) applies shall report all receipts and 
+        disbursements from a qualified non-Federal account (as defined 
+        in section 325(c)).''.
+
+SEC. 1004. REPEAL OF LIMIT ON AMOUNT OF PARTY EXPENDITURES ON BEHALF OF 
+              CANDIDATES IN GENERAL ELECTIONS.
+
+    (a) Repeal of Limit.--Section 315(d) of the Federal Election 
+Campaign Act of 1971 (2 U.S.C. 441a(d)) is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``(1) Notwithstanding any other 
+                provision of law with respect to limitations on 
+                expenditures or limitations on contributions, the 
+                national committee'' and inserting ``Notwithstanding 
+                any other provision of law with respect to limitations 
+                on amounts of expenditures or contributions, a national 
+                committee'',
+                    (B) by striking ``the general'' and inserting 
+                ``any'', and
+                    (C) by striking ``Federal office, subject to the 
+                limitations contained in paragraphs (2), (3), and (4) 
+                of this subsection'' and inserting ``Federal office in 
+                any amount''; and
+            (2) by striking paragraphs (2), (3), and (4).
+    (b) Conforming Amendments.--
+            (1) Indexing.--Section 315(c) of such Act (2 U.S.C. 
+        441a(c)) is amended--
+                    (A) in paragraph (1)(B)(i), by striking ``(d),''; 
+                and
+                    (B) in paragraph (2)(B)(i), by striking 
+                ``subsections (b) and (d)'' and inserting ``subsection 
+                (b)''.
+            (2) Increase in limits for senate candidates facing wealthy 
+        opponents.--Section 315(i) of such Act (2 U.S.C. 441a(i)(1)) is 
+        amended--
+                    (A) in paragraph (1)(C)(iii)--
+                            (i) by adding ``and'' at the end of 
+                        subclause (I),
+                            (ii) in subclause (II), by striking ``; 
+                        and'' and inserting a period, and
+                            (iii) by striking subclause (III);
+                    (B) in paragraph (2)(A) in the matter preceding 
+                clause (i), by striking ``, and a party committee shall 
+                not make any expenditure,'';
+                    (C) in paragraph (2)(A)(ii), by striking ``and 
+                party expenditures previously made''; and
+                    (D) in paragraph (2)(B), by striking ``and a party 
+                shall not make any expenditure''.
+            (3) Increase in limits for house candidates facing wealthy 
+        opponents.--Section 315A(a) of such Act (2 U.S.C. 441a-1(a)) is 
+        amended--
+                    (A) in paragraph (1)--
+                            (i) by adding ``and'' at the end of 
+                        subparagraph (A),
+                            (ii) in subparagraph (B), by striking ``; 
+                        and'' and inserting a period, and
+                            (iii) by striking subparagraph (C);
+                    (B) in paragraph (3)(A) in the matter preceding 
+                clause (i), by striking ``, and a party committee shall 
+                not make any expenditure,'';
+                    (C) in paragraph (3)(A)(ii), by striking ``and 
+                party expenditures previously made''; and
+                    (D) in paragraph (3)(B), by striking ``and a party 
+                shall not make any expenditure''.
+
+SEC. 1005. CONSTRUCTION.
+
+    No provision of this title, or amendment made by this title, shall 
+be construed--
+            (1) as approving, ratifying, or endorsing a regulation 
+        promulgated by the Federal Election Commission;
+            (2) as establishing, modifying, or otherwise affecting the 
+        definition of political organization for purposes of the 
+        Internal Revenue Code of 1986; or
+            (3) as affecting the determination of whether a group 
+        organized under section 501(c) of the Internal Revenue Code of 
+        1986 is a political committee under section 301(4) of the 
+        Federal Election Campaign Act of 1971.
+
+SEC. 1006. JUDICIAL REVIEW.
+
+    (a) Special Rules for Actions Brought on Constitutional Grounds.--
+If any action is brought for declaratory or injunctive relief to 
+challenge the constitutionality of any provision of this title or any 
+amendment made by this title, the following rules shall apply:
+            (1) The action shall be filed in the United States District 
+        Court for the District of Columbia and shall be heard by a 3-
+        judge court convened pursuant to section 2284 of title 28, 
+        United States Code.
+            (2) A copy of the complaint shall be delivered promptly to 
+        the Clerk of the House of Representatives and the Secretary of 
+        the Senate.
+            (3) A final decision in the action shall be reviewable only 
+        by appeal directly to the Supreme Court of the United States. 
+        Such appeal shall be taken by the filing of a notice of appeal 
+        within 10 days, and the filing of a jurisdictional statement 
+        within 30 days, of the entry of the final decision.
+            (4) It shall be the duty of the United States District 
+        Court for the District of Columbia and the Supreme Court of the 
+        United States to advance on the docket and to expedite to the 
+        greatest possible extent the disposition of the action and 
+        appeal.
+    (b) Intervention by Members of Congress.--In any action in which 
+the constitutionality of any provision of this title or any amendment 
+made by this title is raised (including but not limited to an action 
+described in subsection (a)), any Member of the House of 
+Representatives (including a Delegate or Resident Commissioner to 
+Congress) or Senate shall have the right to intervene either in support 
+of or opposition to the position of a party to the case regarding the 
+constitutionality of the provision or amendment. To avoid duplication 
+of efforts and reduce the burdens placed on the parties to the action, 
+the court in any such action may make such orders as it considers 
+necessary, including orders to require intervenors taking similar 
+positions to file joint papers or to be represented by a single 
+attorney at oral argument.
+    (c) Challenge by Members of Congress.--Any Member of Congress may 
+bring an action, subject to the special rules described in subsection 
+(a), for declaratory or injunctive relief to challenge the 
+constitutionality of any provision of this title or any amendment made 
+by this title.
+    (d) Applicability.--
+            (1) Initial claims.--With respect to any action initially 
+        filed on or before December 31, 2008, the provisions of 
+        subsection (a) shall apply with respect to each action 
+        described in such subsection.
+            (2) Subsequent actions.--With respect to any action 
+        initially filed after December 31, 2008, the provisions of 
+        subsection (a) shall not apply to any action described in such 
+        subsection unless the person filing such action elects such 
+        provisions to apply to the action.
+
+SEC. 1007. EFFECTIVE DATE.
+
+    The amendments made by this title shall take effect on the date of 
+the enactment of this Act.
+
+            Amend the title so as to read ``An Act to provide greater 
+        transparency with respect to lobbying activities, to amend the 
+        Federal Election Campaign Act of 1971 to clarify when 
+        organizations described in section 527 of the Internal Revenue 
+        Code of 1986 must register as political committees, and for 
+        other purposes.''.
+            Attest:
+
+                                                                          Clerk.
+109th CONGRESS
+
+  2d Session
+
+                                S. 2349
+
+_______________________________________________________________________
+
+                               AMENDMENTS

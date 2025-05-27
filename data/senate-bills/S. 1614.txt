@@ -1,0 +1,2930 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1614 Enrolled Bill (ENR)]
+
+        S.1614
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend the Child Nutrition Act of 1966 and the National School Lunch 
+Act to promote healthy eating habits for children and to extend certain 
+authorities contained in such Acts through fiscal year 1998, and for 
+other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Healthy Meals for 
+Healthy Americans Act of 1994''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Sense of Congress.
+
+            TITLE I--AMENDMENTS TO NATIONAL SCHOOL LUNCH ACT
+
+Sec. 101. Purchase of fresh fruits and vegetables.
+Sec. 102. Delivery of commodities.
+Sec. 103. Requirement of minimum percentage of commodity assistance.
+Sec. 104. Combined Federal and State commodity purchases.
+Sec. 105. Technical assistance to ensure compliance with nutritional 
+          requirements.
+Sec. 106. Nutritional and other program requirements.
+Sec. 107. Nutritional requirements relating to provision of milk.
+Sec. 108. Use of free and reduced price meal eligibility information.
+Sec. 109. Automatic eligibility of Head Start participants.
+Sec. 110. Use of nutrition education and training program resources.
+Sec. 111. Special assistance for schools electing to serve all children 
+          free lunches or breakfasts.
+Sec. 112. Miscellaneous provisions and definitions.
+Sec. 113. Food and nutrition projects.
+Sec. 114. Summer food service program for children.
+Sec. 115. Commodity distribution program.
+Sec. 116. Child and adult care food program.
+Sec. 117. Homeless children nutrition program.
+Sec. 118. Pilot projects.
+Sec. 119. Reduction of paperwork.
+Sec. 120. Food service management institute.
+Sec. 121. Compliance and accountability.
+Sec. 122. Duties of the Secretary of Agriculture relating to 
+          nonprocurement debarment under certain child nutrition 
+          programs.
+Sec. 123. Information clearinghouse.
+Sec. 124. Guidance and grants for accommodating special dietary needs of 
+          children with disabilities.
+Sec. 125. Study of adulteration of juice products sold to school meal 
+          programs.
+
+           TITLE II--AMENDMENTS TO CHILD NUTRITION ACT OF 1966
+
+Sec. 201. School breakfast program.
+Sec. 202. State administrative expenses.
+Sec. 203. Competitive foods of minimal nutritional value.
+Sec. 204. Special supplemental nutrition program.
+Sec. 205. Nutrition education and training program.
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+Sec. 301. Consolidation of school lunch program and school breakfast 
+          program into comprehensive meal program.
+Sec. 302. Study and report relating to use of private food 
+          establishments and caterers under school lunch program and 
+          school breakfast program.
+Sec. 303. Amendment to Commodity Distribution Reform Act and WIC 
+          Amendments of 1987.
+Sec. 304. Study of the effect of combining federally donated and 
+          federally inspected meat or poultry.
+
+                        TITLE IV--EFFECTIVE DATE
+
+Sec. 401. Effective date.
+
+SEC. 2. FINDINGS.
+
+    Congress finds that--
+        (1) undernutrition can permanently retard physical growth, 
+    brain development, and cognitive functioning of children;
+        (2) the longer a child's nutritional, emotional, and 
+    educational needs go unmet, the greater the likelihood of cognitive 
+    impairment;
+        (3) low-income children who attend school hungry score 
+    significantly lower on standardized tests than non-hungry low-
+    income children; and
+        (4) supplemental nutrition programs under the National School 
+    Lunch Act (42 U.S.C. 1751 et seq.) and the Child Nutrition Act of 
+    1966 (42 U.S.C. 1771 et seq.) can help to offset threats posed to a 
+    child's capacity to learn and perform in school that result from 
+    inadequate nutrient intake.
+
+SEC. 3. SENSE OF CONGRESS.
+
+    It is the sense of Congress that--
+        (1) funds should be made available for child nutrition programs 
+    to remove barriers to the participation of needy children in the 
+    school lunch program, school breakfast program, summer food service 
+    program for children, and the child and adult care food program 
+    under the National School Lunch Act (42 U.S.C. 1751 et seq.) and 
+    the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
+        (2) the Secretary of Agriculture should take actions to further 
+    strengthen the efficiency of child nutrition programs by 
+    streamlining administrative requirements to reduce the 
+    administrative burden on participating schools and other meal 
+    providers; and
+        (3) as a part of efforts to continue to serve nutritious meals 
+    to youths in the United States and to educate the general public 
+    regarding health and nutrition issues, the Secretary of Agriculture 
+    should take actions to coordinate the nutrition education efforts 
+    of all nutrition programs.
+
+            TITLE I--AMENDMENTS TO NATIONAL SCHOOL LUNCH ACT
+
+SEC. 101. PURCHASE OF FRESH FRUITS AND VEGETABLES.
+
+    Section 6(a) of the National School Lunch Act (42 U.S.C. 1755(a)) 
+is amended--
+        (1) in the second sentence, by striking ``Any school'' and 
+    inserting ``Except as provided in the next 2 sentences, any 
+    school''; and
+        (2) by inserting after the second sentence the following new 
+    sentences: ``Any school food authority may refuse some or all of 
+    the fresh fruits and vegetables offered to the school food 
+    authority in any school year and shall receive, in lieu of the 
+    offered fruits and vegetables, other more desirable fresh fruits 
+    and vegetables that are at least equal in value to the fresh fruits 
+    and vegetables refused by the school food authority. The value of 
+    any fresh fruits and vegetables refused by a school under the 
+    preceding sentence for a school year shall not be used to determine 
+    the 20 percent of the total value of agricultural commodities and 
+    other foods tendered to the school food authority in the school 
+    year under the second sentence.''.
+
+SEC. 102. DELIVERY OF COMMODITIES.
+
+    Subsection (b) of section 6 of the National School Lunch Act (42 
+U.S.C. 1755(b)) is amended to read as follows:
+    ``(b) The Secretary shall deliver, to each State participating in 
+the school lunch program under this Act, commodities valued at the 
+total level of assistance authorized under subsection (c) for each 
+school year for the school lunch program in the State, not later than 
+September 30 of the following school year.''.
+
+SEC. 103. REQUIREMENT OF MINIMUM PERCENTAGE OF COMMODITY ASSISTANCE.
+
+    Section 6 of the National School Lunch Act (42 U.S.C. 1755) is 
+amended by adding at the end the following new subsection:
+    ``(g)(1) Subject to paragraph (2), in each school year the 
+Secretary shall ensure that not less than 12 percent of the assistance 
+provided under section 4, this section, and section 11 shall be in the 
+form of commodity assistance provided under this section, including 
+cash in lieu of commodities and administrative costs for procurement of 
+commodities under this section.
+    ``(2) If amounts available to carry out the requirements of the 
+sections described in paragraph (1) are insufficient to meet the 
+requirement contained in paragraph (1) for a school year, the Secretary 
+shall, to the extent necessary, use the authority provided under 
+section 14(a) to meet the requirement for the school year.''.
+
+SEC. 104. COMBINED FEDERAL AND STATE COMMODITY PURCHASES.
+
+    Section 7 of the National School Lunch Act (42 U.S.C. 1756) is 
+amended by adding at the end the following new subsection:
+    ``(d) Notwithstanding any other provision of law, the Secretary may 
+enter into an agreement with a State agency, acting on the request of a 
+school food service authority, under which funds payable to the State 
+under section 4 or 11 may be used by the Secretary for the purpose of 
+purchasing commodities for use by the school food service authority in 
+meals served under the school lunch program under this Act.''.
+
+SEC. 105. TECHNICAL ASSISTANCE TO ENSURE COMPLIANCE WITH NUTRITIONAL 
+              REQUIREMENTS.
+
+    (a) School Lunch Program.--Section 9(a)(1) of the National School 
+Lunch Act (42 U.S.C. 1758(a)(1)) is amended--
+        (1) by inserting ``(A)'' after ``(1)''; and
+        (2) by adding at the end the following new subparagraph:
+    ``(B) The Secretary shall provide technical assistance and 
+training, including technical assistance and training in the 
+preparation of lower-fat versions of foods commonly used in the school 
+lunch program under this Act, to schools participating in the school 
+lunch program to assist the schools in complying with the nutritional 
+requirements prescribed by the Secretary pursuant to subparagraph (A) 
+and in providing appropriate meals to children with medically certified 
+special dietary needs. The Secretary shall provide additional technical 
+assistance to schools that are having difficulty maintaining compliance 
+with the requirements.''.
+    (b) Summer Food Service Program for Children.--Section 13(f) of 
+such Act (42 U.S.C. 1761(f)) is amended--
+        (1) by inserting after the first sentence the following new 
+    sentences: ``The Secretary shall provide technical assistance to 
+    service institutions and private nonprofit organizations 
+    participating in the program to assist the institutions and 
+    organizations in complying with the nutritional requirements 
+    prescribed by the Secretary pursuant to this subsection. The 
+    Secretary shall provide additional technical assistance to those 
+    service institutions and private nonprofit organizations that are 
+    having difficulty maintaining compliance with the requirements.''; 
+    and
+        (2) in the fourth sentence (after the amendment made by 
+    paragraph (1)), by striking ``Such meals'' and inserting ``Meals 
+    described in the first sentence''.
+    (c) Child and Adult Care Food Program.--Section 17(g)(1) of such 
+Act (42 U.S.C. 1766(g)(1)) is amended--
+        (1) by inserting ``(A)'' after ``(1)''; and
+        (2) by adding at the end the following new subparagraph:
+    ``(B) The Secretary shall provide technical assistance to those 
+institutions participating in the program under this section to assist 
+the institutions and family or group day care home sponsoring 
+organizations in complying with the nutritional requirements prescribed 
+by the Secretary pursuant to subparagraph (A). The Secretary shall 
+provide additional technical assistance to those institutions and 
+family or group day care home sponsoring organizations that are having 
+difficulty maintaining compliance with the requirements.''.
+
+SEC. 106. NUTRITIONAL AND OTHER PROGRAM REQUIREMENTS.
+
+    (a) Minimum Nutritional Requirements Based on Weekly Average of 
+Nutrient Content of School Lunches.--Section 9(a)(1)(A) of the National 
+School Lunch Act (42 U.S.C. 1758(a)(1)(A)) (as amended by section 
+105(a)) is further amended--
+        (1) by striking ``; except that such minimum nutritional 
+    requirements shall not'' and inserting ``, except that the minimum 
+    nutritional requirements--
+        ``(i) shall not'';
+        (2) by striking the period at the end and inserting ``; and''; 
+    and
+        (3) by adding at the end the following new clause:
+        ``(ii) shall, at a minimum, be based on the weekly average of 
+    the nutrient content of school lunches.''.
+    (b) Dietary Guidelines for Americans.--Section 9 of such Act (42 
+U.S.C. 1758) is amended by adding at the end the following new 
+subsection:
+    ``(f)(1) Not later than the first day of the 1996-97 school year, 
+the Secretary, State educational agencies, schools, and school food 
+service authorities shall, to the maximum extent practicable, inform 
+students who participate in the school lunch and school breakfast 
+programs, and parents and guardians of the students, of--
+        ``(A) the nutritional content of the lunches and breakfasts 
+    that are served under the programs; and
+        ``(B) the consistency of the lunches and breakfasts with the 
+    guidelines contained in the most recent `Dietary Guidelines for 
+    Americans' that is published under section 301 of the National 
+    Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 
+    5341) (referred to in this subsection as the `Guidelines'), 
+    including the consistency of the lunches and breakfasts with the 
+    guideline for fat content.
+    ``(2)(A) Except as provided in subparagraph (B), not later than the 
+first day of the 1996-97 school year, schools that are participating in 
+the school lunch or school breakfast program shall serve lunches and 
+breakfasts under the programs that are consistent with the Guidelines 
+(as measured in accordance with subsection (a)(1)(A)(ii) and section 
+4(e)(1)).
+    ``(B) State educational agencies may grant waivers from the 
+requirements of subparagraph (A) subject to criteria established by the 
+appropriate State educational agency. The waivers shall not permit 
+schools to implement the requirements later than July 1, 1998, or a 
+later date determined by the Secretary.
+    ``(C) To assist schools in meeting the requirements of this 
+paragraph, the Secretary--
+        ``(i) shall--
+            ``(I) develop, and provide to schools, standardized 
+        recipes, menu cycles, and food product specification and 
+        preparation techniques; and
+            ``(II) provide to schools information regarding nutrient 
+        standard menu planning, assisted nutrient standard menu 
+        planning, and food-based menu systems; and
+        ``(ii) may provide to schools information regarding other 
+    approaches, as determined by the Secretary.
+    ``(D) Schools may use any of the approaches described in 
+subparagraph (C) to meet the requirements of this paragraph. In the 
+case of schools that elect to use food-based menu systems to meet the 
+requirements of this paragraph, the Secretary may not require the 
+schools to conduct or use nutrient analysis.''.
+    (c) Production Records.--Section 9 of such Act (42 U.S.C. 1758) (as 
+amended by subsection (b)) is further amended by adding at the end the 
+following new subsection:
+    ``(g) Not later than 1 year after the date of enactment of this 
+subsection, the Secretary shall provide a notification to Congress that 
+justifies the need for production records required under section 
+210.10(b) of title 7, Code of Federal Regulations, and describes how 
+the Secretary has reduced paperwork relating to the school lunch and 
+school breakfast programs.''.
+
+SEC. 107. NUTRITIONAL REQUIREMENTS RELATING TO PROVISION OF MILK.
+
+    Section 9(a)(2) of the National School Lunch Act (42 U.S.C. 
+1758(a)(2)) is amended to read as follows:
+    ``(2)(A) Lunches served by schools participating in the school 
+lunch program under this Act--
+        ``(i) shall offer students fluid milk; and
+        ``(ii) shall offer students a variety of fluid milk consistent 
+    with prior year preferences unless the prior year preference for 
+    any such variety of fluid milk is less than 1 percent of the total 
+    milk consumed at the school.
+    ``(B)(i) The Secretary shall purchase in each calendar year to 
+carry out the school lunch program under this Act, and the school 
+breakfast program under section 4 of the Child Nutrition Act of 1966 
+(42 U.S.C. 1773), lowfat cheese on a bid basis in a quantity that is 
+the milkfat equivalent of the quantity of milkfat the Secretary 
+estimates the Commodity Credit Corporation will purchase each calendar 
+year as a result of the elimination of the requirement that schools 
+offer students fluid whole milk and fluid unflavored lowfat milk, based 
+on data provided by the Director of Office of Management and Budget.
+    ``(ii) Not later than 30 days after the Secretary provides an 
+estimate required under clause (i), the Director of the Congressional 
+Budget Office shall provide to the appropriate committees of Congress a 
+report on whether the Director concurs with the estimate of the 
+Secretary.
+    ``(iii) The quantity of lowfat cheese that is purchased under this 
+subparagraph shall be in addition to the quantity of cheese that is 
+historically purchased by the Secretary to carry out school feeding 
+programs. The Secretary shall take such actions as are necessary to 
+ensure that purchases under this subparagraph shall not displace 
+commercial purchases of cheese by schools.''.
+
+SEC. 108. USE OF FREE AND REDUCED PRICE MEAL ELIGIBILITY INFORMATION.
+
+    Section 9(b)(2)(C) of the National School Lunch Act (42 U.S.C. 
+1758(b)(2)(C)) is amended by striking clause (iii) and inserting the 
+following new clauses:
+    ``(iii) The use or disclosure of any information obtained from an 
+application for free or reduced price meals, or from a State or local 
+agency referred to in clause (ii), shall be limited to--
+        ``(I) a person directly connected with the administration or 
+    enforcement of this Act or the Child Nutrition Act of 1966 (42 
+    U.S.C. 1771 et seq.), or a regulation issued pursuant to either 
+    Act;
+        ``(II) a person directly connected with the administration or 
+    enforcement of--
+            ``(aa) a Federal education program;
+            ``(bb) a State health or education program administered by 
+        the State or local educational agency (other than a program 
+        carried out under title XIX of the Social Security Act (42 
+        U.S.C. 1396 et seq.)); or
+            ``(cc) a Federal, State, or local means-tested nutrition 
+        program with eligibility standards comparable to the program 
+        under this section; and
+        ``(III)(aa) the Comptroller General of the United States for 
+    audit and examination authorized by any other provision of law; and
+        ``(bb) notwithstanding any other provision of law, a Federal, 
+    State, or local law enforcement official for the purpose of 
+    investigating an alleged violation of any program covered by 
+    paragraph (1) or this paragraph.
+    ``(iv) Information provided under clause (iii)(II) shall be limited 
+to the income eligibility status of the child for whom application for 
+free or reduced price meal benefits was made or for whom eligibility 
+information was provided under clause (ii), unless the consent of the 
+parent or guardian of the child for whom application for benefits was 
+made is obtained.
+    ``(v) A person described in clause (iii) who publishes, divulges, 
+discloses, or makes known in any manner, or to any extent not 
+authorized by Federal law (including a regulation), any information 
+obtained under this subsection shall be fined not more than $1,000 or 
+imprisoned not more than 1 year, or both.''.
+
+SEC. 109. AUTOMATIC ELIGIBILITY OF HEAD START PARTICIPANTS.
+
+    (a) In General.--Section 9(b)(6) of the National School Lunch Act 
+(42 U.S.C. 1758(b)(6)) is amended--
+        (1) in subparagraph (A)--
+            (A) in the matter preceding clause (i), by striking ``a 
+        member of'';
+            (B) in clause (i)--
+                (i) by inserting ``a member of'' after ``(i)''; and
+                (ii) by striking ``or'' at the end;
+            (C) in clause (ii)--
+                (i) by inserting ``a member of'' after ``(ii)''; and
+                (ii) by striking the period at the end and inserting 
+            ``; or''; and
+            (D) by adding at the end the following new clause:
+        ``(iii) enrolled as a participant in a Head Start program 
+    authorized under the Head Start Act (42 U.S.C. 9831 et seq.), on 
+    the basis of a determination that the child is a member of a family 
+    that meets the low-income criteria prescribed under section 
+    645(a)(1)(A) of the Head Start Act (42 U.S.C. 9840(a)(1)(A)).''; 
+    and
+        (2) in subparagraph (B), by striking ``food stamps or aid to 
+    families with dependent children'' and inserting ``food stamps or 
+    aid to families with dependent children, or of enrollment or 
+    participation in a Head Start program on the basis described in 
+    subparagraph (A)(iii),''.
+    (b) Child and Adult Care Food Program.--Section 17(c) of such Act 
+(42 U.S.C. 1766(c)) is amended by adding at the end the following new 
+paragraph:
+    ``(5) A child shall be considered automatically eligible for 
+benefits under this section without further application or eligibility 
+determination, if the child is enrolled as a participant in a Head 
+Start program authorized under the Head Start Act (42 U.S.C. 9831 et 
+seq.), on the basis of a determination that the child is a member of a 
+family that meets the low-income criteria prescribed under section 
+645(a)(1)(A) of the Head Start Act (42 U.S.C. 9840(a)(1)(A)).''.
+    (c) Effective Date.--The amendments made by this section shall 
+become effective on September 25, 1995.
+
+SEC. 110. USE OF NUTRITION EDUCATION AND TRAINING PROGRAM RESOURCES.
+
+    Section 9 of the National School Lunch Act (42 U.S.C. 1758) (as 
+amended by section 106(c)) is further amended by adding at the end the 
+following new subsection:
+    ``(h) In carrying out this Act and the Child Nutrition Act of 1966 
+(42 U.S.C. 1771 et seq.), a State educational agency may use resources 
+provided through the nutrition education and training program 
+authorized under section 19 of the Child Nutrition Act of 1966 (42 
+U.S.C. 1788) for training aimed at improving the quality and acceptance 
+of school meals.''.
+
+SEC. 111. SPECIAL ASSISTANCE FOR SCHOOLS ELECTING TO SERVE ALL CHILDREN 
+              FREE LUNCHES OR BREAKFASTS.
+
+    Section 11(a)(1) of the National School Lunch Act (42 U.S.C. 
+1759a(a)(1)) is amended--
+        (1) by inserting ``(A)'' after ``(1)'';
+        (2) in the second sentence, by striking ``In the case of'' and 
+    inserting the following:
+    ``(B) Except as provided in subparagraph (C), (D), or (E), in the 
+case of''; and
+        (3) by striking the third and fourth sentences and inserting 
+    the following new subparagraphs:
+    ``(C)(i) Except as provided in subparagraph (D), in the case of any 
+school that--
+        ``(I) elects to serve all children in the school free lunches 
+    under the school lunch program during any period of 3 successive 
+    school years, or in the case of a school that serves both lunches 
+    and breakfasts, elects to serve all children in the school free 
+    lunches and free breakfasts under the school lunch program and the 
+    school breakfast program established under section 4 of the Child 
+    Nutrition Act of 1966 (42 U.S.C. 1773) during any period of 3 
+    successive school years; and
+        ``(II) pays, from sources other than Federal funds, for the 
+    costs of serving the lunches or breakfasts that are in excess of 
+    the value of assistance received under this Act and the Child 
+    Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the 
+    number of lunches or breakfasts served during the period;
+special assistance payments shall be paid to the State educational 
+agency with respect to the school during the period on the basis of the 
+number of lunches or breakfasts determined under clause (ii) or (iii).
+    ``(ii) For purposes of making special assistance payments under 
+clause (i), except as provided in clause (iii), the number of lunches 
+or breakfasts served by a school to children who are eligible for free 
+lunches or breakfasts or reduced price lunches or breakfasts during 
+each school year of the 3-school-year period shall be considered to be 
+equal to the number of lunches or breakfasts served by the school to 
+children eligible for free lunches or breakfasts or reduced price 
+lunches or breakfasts during the first school year of the period.
+    ``(iii) For purposes of computing the amount of the payments, a 
+school may elect to determine on a more frequent basis the number of 
+children who are eligible for free or reduced price lunches or 
+breakfasts who are served lunches or breakfasts during the 3-school-
+year period.
+    ``(D)(i) In the case of any school that, on the date of enactment 
+of this subparagraph, is receiving special assistance payments under 
+this paragraph for a 3-school-year period described in subparagraph 
+(C), the State may grant, at the end of the 3-school-year period, an 
+extension of the period for an additional 2 school years, if the State 
+determines, through available socioeconomic data approved by the 
+Secretary, that the income level of the population of the school has 
+remained stable.
+    ``(ii) A school described in clause (i) may reapply to the State at 
+the end of the 2-school-year period described in clause (i) for the 
+purpose of continuing to receive special assistance payments, as 
+determined in accordance with this paragraph, for a subsequent 5-
+school-year period. The school may reapply to the State at the end of 
+the 5-school-year period, and at the end of each 5-school-year period 
+thereafter for which the school receives special assistance payments 
+under this paragraph, for the purpose of continuing to receive the 
+payments for a subsequent 5-school-year period.
+    ``(iii) If the Secretary determines after considering the best 
+available socioeconomic data that the income level of families of 
+children enrolled in a school has not remained stable, the Secretary 
+may require the submission of applications for free and reduced price 
+lunches, or for free and reduced price lunches and breakfasts, in the 
+first school year of any 5-school-year period for which the school 
+receives special assistance payments under this paragraph, for the 
+purpose of calculating the special assistance payments.
+    ``(iv) For the purpose of updating information and reimbursement 
+levels, a school described in clause (i) that carries out a school 
+lunch or school breakfast program may at any time require submission of 
+applications for free and reduced price lunches or for free and reduced 
+price lunches and breakfasts.
+    ``(E)(i) In the case of any school that--
+        ``(I) elects to serve all children in the school free lunches 
+    under the school lunch program during any period of 4 successive 
+    school years, or in the case of a school that serves both lunches 
+    and breakfasts, elects to serve all children in the school free 
+    lunches and free breakfasts under the school lunch program and the 
+    school breakfast program during any period of 4 successive school 
+    years; and
+        ``(II) pays, from sources other than Federal funds, for the 
+    costs of serving the lunches or breakfasts that are in excess of 
+    the value of assistance received under this Act and the Child 
+    Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the 
+    number of lunches or breakfasts served during the period;
+total Federal cash reimbursements and total commodity assistance shall 
+be provided to the State educational agency with respect to the school 
+at a level that is equal to the total Federal cash reimbursements and 
+total commodity assistance received by the school in the last school 
+year for which the school accepted applications under the school lunch 
+or school breakfast program, adjusted annually for inflation in 
+accordance with paragraph (3)(B) and for changes in enrollment, to 
+carry out the school lunch or school breakfast program.
+    ``(ii) A school described in clause (i) may reapply to the State at 
+the end of the 4-school-year period described in clause (i), and at the 
+end of each 4-school-year period thereafter for which the school 
+receives reimbursements and assistance under this subparagraph, for the 
+purpose of continuing to receive the reimbursements and assistance for 
+a subsequent 4-school-year period. The State may approve an application 
+under this clause if the State determines, through available 
+socioeconomic data approved by the Secretary, that the income level of 
+the population of the school has remained consistent with the income 
+level of the population of the school in the last school year for which 
+the school accepted the applications described in clause (i).
+    ``(iii) Not later than 1 year after the date of enactment of this 
+subparagraph, the Secretary shall evaluate the effects of this 
+subparagraph and notify the Committee on Education and Labor of the 
+House of Representatives and the Committee on Agriculture, Nutrition, 
+and Forestry of the Senate of the results of the evaluation.''.
+
+SEC. 112. MISCELLANEOUS PROVISIONS AND DEFINITIONS.
+
+    (a) Technical Amendment to Definition of School.--
+        (1) In general.--Section 12(d)(5) of the National School Lunch 
+    Act (42 U.S.C. 1760(d)(5)) is amended--
+            (A) in the first sentence--
+                (i) in clause (A), by inserting ``and'' at the end;
+                (ii) in clause (B), by striking ``, and'' and inserting 
+            a period; and
+                (iii) by striking clause (C); and
+            (B) in the second sentence, by striking ``of clauses (A) 
+        and (B)''.
+        (2) Effective date.--The amendments made by paragraph (1) shall 
+    become effective on October 1, 1995.
+    (b) Reimbursement for Meals, Supplements, and Milk Under Certain 
+Programs Contingent on Timely Submission of Claims and Final Program 
+Operations Report.--Section 12 of such Act (42 U.S.C. 1760) is amended 
+by adding at the end the following new subsection:
+    ``(j)(1) Except as provided in paragraph (2), the Secretary may 
+provide reimbursements for final claims for service of meals, 
+supplements, and milk submitted to State agencies by eligible schools, 
+summer camps, family day care homes, institutions, and service 
+institutions only if--
+        ``(A) the claims have been submitted to the State agencies not 
+    later than 60 days after the last day of the month for which the 
+    reimbursement is claimed; and
+        ``(B) the final program operations report for the month is 
+    submitted to the Secretary not later than 90 days after the last 
+    day of the month.
+    ``(2) The Secretary may waive the requirements of paragraph (1) at 
+the discretion of the Secretary.''.
+    (c) Expedited Rulemaking.--Section 12 of such Act (42 U.S.C. 1760) 
+(as amended by subsection (b)) is further amended by adding at the end 
+the following new subsection:
+    ``(k)(1) Prior to the publication of final regulations that 
+implement changes that are intended to bring the meal pattern 
+requirements of the school lunch and breakfast programs into 
+conformance with the guidelines contained in the most recent `Dietary 
+Guidelines for Americans' that is published under section 301 of the 
+National Nutrition Monitoring and Related Research Act of 1990 (7 
+U.S.C. 5341) (referred to in this subsection as the `Guidelines'), the 
+Secretary shall issue proposed regulations permitting the use of food-
+based menu systems.
+    ``(2) Notwithstanding chapter 5 of title 5, United States Code, not 
+later than 45 days after the publication of the proposed regulations 
+permitting the use of food-based menu systems, the Secretary shall 
+publish notice in the Federal Register of, and hold, a public meeting 
+with--
+        ``(A) representatives of affected parties, such as Federal, 
+    State, and local administrators, school food service 
+    administrators, other school food service personnel, parents, and 
+    teachers; and
+        ``(B) organizations representing affected parties, such as 
+    public interest antihunger organizations, doctors specializing in 
+    pediatric nutrition, health and consumer groups, commodity groups, 
+    food manufacturers and vendors, and nutritionists involved with the 
+    implementation and operation of programs under this Act and the 
+    Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
+to discuss and obtain public comments on the proposed rule.
+    ``(3) Not later than June 1, 1995, the Secretary shall issue final 
+regulations to conform the nutritional requirements of the school lunch 
+and breakfast programs with the Guidelines. The final regulations shall 
+include--
+        ``(A) rules permitting the use of food-based menu systems; and
+        ``(B) adjustments to the rule on nutrition objectives for 
+    school meals published in the Federal Register on June 10, 1994 (59 
+    Fed. Reg. 30218).
+    ``(4) No school food service authority shall be required to 
+implement final regulations issued pursuant to this subsection until 
+the regulations have been final for at least 1 year.
+    ``(5) The final regulations shall reflect comments made at each 
+phase of the proposed rulemaking process, including the public meeting 
+required under paragraph (2).''.
+    (d) Authority of Secretary to Waive Statutory and Regulatory 
+Requirements.--Section 12 of the National School Lunch Act (42 U.S.C. 
+1760) (as amended by subsection (c)) is further amended by adding at 
+the end the following new subsection:
+    ``(l)(1)(A) Except as provided in paragraph (4), the Secretary may 
+waive any requirement under this Act or the Child Nutrition Act of 1966 
+(42 U.S.C. 1771 et seq.), or any regulation issued under either such 
+Act, for a State or eligible service provider that requests a waiver 
+if--
+        ``(i) the Secretary determines that the waiver of the 
+    requirement would facilitate the ability of the State or eligible 
+    service provider to carry out the purpose of the program;
+        ``(ii) the State or eligible service provider has provided 
+    notice and information to the public regarding the proposed waiver; 
+    and
+        ``(iii) the State or eligible service provider demonstrates to 
+    the satisfaction of the Secretary that the waiver will not increase 
+    the overall cost of the program to the Federal Government, and, if 
+    the waiver does increase the overall cost to the Federal 
+    Government, the cost will be paid from non-Federal funds.
+    ``(B) The notice and information referred to in subparagraph 
+(A)(ii) shall be provided in the same manner in which the State or 
+eligible service provider customarily provides similar notices and 
+information to the public.
+    ``(2)(A) To request a waiver under paragraph (1), a State or 
+eligible service provider (through the appropriate administering State 
+agency) shall submit an application to the Secretary that--
+        ``(i) identifies the statutory or regulatory requirements that 
+    are requested to be waived;
+        ``(ii) in the case of a State requesting a waiver, describes 
+    actions, if any, that the State has undertaken to remove State 
+    statutory or regulatory barriers;
+        ``(iii) describes the goal of the waiver to improve services 
+    under the program and the expected outcomes if the waiver is 
+    granted;
+        ``(iv) includes a description of the impediments to the 
+    efficient operation and administration of the program;
+        ``(v) describes the management goals to be achieved, such as 
+    fewer hours devoted to, or fewer number of personnel involved in, 
+    the administration of the program;
+        ``(vi) provides a timetable for implementing the waiver; and
+        ``(vii) describes the process the State or eligible service 
+    provider will use to monitor the progress in implementing the 
+    waiver, including the process for monitoring the cost implications 
+    of the waiver to the Federal Government.
+    ``(B) An application described in subparagraph (A) shall be 
+developed by the State or eligible service provider and shall be 
+submitted to the Secretary by the State.
+    ``(3)(A) The Secretary shall act promptly on a waiver request 
+contained in an application submitted under paragraph (2) and shall 
+either grant or deny the request. The Secretary shall state in writing 
+the reasons for granting or denying the request.
+    ``(B) If the Secretary grants a waiver request, the Secretary shall 
+state in writing the expected outcome of granting the waiver.
+    ``(C) The result of the decision of the Secretary shall be 
+disseminated by the State or eligible service provider through normal 
+means of communication.
+    ``(D)(i) Except as provided in clause (ii), a waiver granted by the 
+Secretary under this subsection shall be for a period not to exceed 3 
+years.
+    ``(ii) The Secretary may extend the period if the Secretary 
+determines that the waiver has been effective in enabling the State or 
+eligible service provider to carry out the purposes of the program.
+    ``(4) The Secretary may not grant a waiver under this subsection of 
+any requirement relating to--
+        ``(A) the nutritional content of meals served;
+        ``(B) Federal reimbursement rates;
+        ``(C) the provision of free and reduced price meals;
+        ``(D) offer versus serve provisions;
+        ``(E) limits on the price charged for a reduced price meal;
+        ``(F) maintenance of effort;
+        ``(G) equitable participation of children in private schools;
+        ``(H) distribution of funds to State and local school food 
+    service authorities and service institutions participating in a 
+    program under this Act and the Child Nutrition Act of 1966 (42 
+    U.S.C. 1771 et seq.);
+        ``(I) the disclosure of information relating to students 
+    receiving free or reduced price meals and other recipients of 
+    benefits;
+        ``(J) prohibiting the operation of a profit producing program;
+        ``(K) the sale of competitive foods;
+        ``(L) the commodity distribution program under section 14;
+        ``(M) the special supplemental nutrition program authorized 
+    under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 
+    1786); and
+        ``(N) enforcement of any constitutional or statutory right of 
+    an individual, including any right under--
+            ``(i) title VI of the Civil Rights Act of 1964 (42 U.S.C. 
+        2000d et seq.);
+            ``(ii) section 504 of the Rehabilitation Act of 1973 (29 
+        U.S.C. 794);
+            ``(iii) title IX of the Education Amendments of 1972 (20 
+        U.S.C. 1681 et seq.);
+            ``(iv) the Age Discrimination Act of 1975 (42 U.S.C. 6101 
+        et seq.);
+            ``(v) the Americans with Disabilities Act of 1990 (42 
+        U.S.C. 12101 et seq.); and
+            ``(vi) the Individuals with Disabilities Education Act (20 
+        U.S.C. 1400 et seq.).
+    ``(5) The Secretary shall periodically review the performance of 
+any State or eligible service provider for which the Secretary has 
+granted a waiver under this subsection and shall terminate the waiver 
+if the performance of the State or service provider has been inadequate 
+to justify a continuation of the waiver. The Secretary shall terminate 
+the waiver if, after periodic review, the Secretary determines that the 
+waiver has resulted in an increase in the overall cost of the program 
+to the Federal Government and the increase has not been paid for in 
+accordance with paragraph (1)(A)(iii).
+    ``(6)(A)(i) An eligible service provider that receives a waiver 
+under this subsection shall annually submit to the State a report 
+that--
+        ``(I) describes the use of the waiver by the eligible service 
+    provider; and
+        ``(II) evaluates how the waiver contributed to improved 
+    services to children served by the program for which the waiver was 
+    requested.
+    ``(ii) The State shall annually submit to the Secretary a report 
+that summarizes all reports received by the State from eligible service 
+providers.
+    ``(B) The Secretary shall annually submit to the Committee on 
+Education and Labor of the House of Representatives and the Committee 
+on Agriculture, Nutrition, and Forestry of the Senate, a report--
+        ``(i) summarizing the use of waivers by the State and eligible 
+    service providers;
+        ``(ii) describing whether the waivers resulted in improved 
+    services to children;
+        ``(iii) describing the impact of the waivers on providing 
+    nutritional meals to participants; and
+        ``(iv) describing how the waivers reduced the quantity of 
+    paperwork necessary to administer the program.
+    ``(7) As used in this subsection, the term `eligible service 
+provider' means--
+        ``(A) a local school food service authority;
+        ``(B) a service institution or private nonprofit organization 
+    described in section 13; or
+        ``(C) a family or group day care home sponsoring organization 
+    described in section 17.''.
+
+SEC. 113. FOOD AND NUTRITION PROJECTS.
+
+    Section 12 of the National School Lunch Act (42 U.S.C. 1760) (as 
+amended by section 112(d)) is further amended by adding at the end the 
+following new subsection:
+    ``(m)(1) The Secretary, acting through the Administrator of the 
+Food and Nutrition Service or through the Extension Service, shall 
+award on an annual basis grants to a private nonprofit organization or 
+educational institution in each of 3 States to create, operate, and 
+demonstrate food and nutrition projects that are fully integrated with 
+elementary school curricula.
+    ``(2) Each organization or institution referred to in paragraph (1) 
+shall be selected by the Secretary and shall--
+        ``(A) assist local schools and educators in offering food and 
+    nutrition education that integrates math, science, and verbal 
+    skills in the elementary grades;
+        ``(B) assist local schools and educators in teaching 
+    agricultural practices through practical applications, like 
+    gardening;
+        ``(C) create community service learning opportunities or 
+    educational programs;
+        ``(D) be experienced in assisting in the creation of 
+    curriculum-based models in elementary schools;
+        ``(E) be sponsored by an organization or institution, or be an 
+    organization or institution, that provides information, or conducts 
+    other educational efforts, concerning the success and productivity 
+    of American agriculture and the importance of the free enterprise 
+    system to the quality of life in the United States; and
+        ``(F) be able to provide model curricula, examples, advice, and 
+    guidance to schools, community groups, States, and local 
+    organizations regarding means of carrying out similar projects.
+    ``(3) Subject to the availability of appropriations to carry out 
+this subsection, the Secretary shall make grants to each of the 3 
+private organizations or institutions selected under this subsection in 
+amounts of not less than $100,000, nor more than $200,000, for each of 
+fiscal years 1995 through 1998.
+    ``(4) The Secretary shall establish fair and reasonable auditing 
+procedures regarding the expenditure of funds under this subsection.
+    ``(5) There are authorized to be appropriated to carry out this 
+subsection such sums as are necessary for each of fiscal years 1995 
+through 1998.''.
+
+SEC. 114. SUMMER FOOD SERVICE PROGRAM FOR CHILDREN.
+
+    (a) Priority Requirements for Determining Participation of Certain 
+Eligible Service Institutions.--Section 13(a)(4) of the National School 
+Lunch Act (42 U.S.C. 1761(a)(4)) is amended by striking subparagraphs 
+(A) through (F) and inserting the following new subparagraphs:
+        ``(A) Local schools.
+        ``(B) All other service institutions and private nonprofit 
+    organizations eligible under paragraph (7) that have demonstrated 
+    successful program performance in a prior year.
+        ``(C) New public institutions.
+        ``(D) New private nonprofit organizations eligible under 
+    paragraph (7).''.
+    (b) Elimination of 1-Year Waiting Period With Respect to 
+Participation of Private Nonprofit Organizations in Certain Areas Under 
+the Program.--Section 13(a)(7) of such Act (42 U.S.C. 1761(a)(7)) is 
+amended by striking subparagraph (C).
+    (c) Non-School Sites.--Section 13(c)(1) of such Act (42 U.S.C. 
+1761(c)(1)) is amended by inserting before the period at the end the 
+following: ``or that provide meal service at non-school sites to 
+children who are not in school for a period during the months of 
+October through April due to a natural disaster, building repair, court 
+order, or similar cause''.
+    (d) Registered Food Service Management Company Reports.--Section 
+13(l)(3) of such Act (42 U.S.C. 1761(l)(3)) is amended by striking 
+``and their program record'' and inserting ``that have been seriously 
+deficient in their participation in the program and may maintain a 
+record of other registered food service management companies,''.
+    (e) Management and Administration Plan.--Section 13(n) of such Act 
+(42 U.S.C. 1761(n)) is amended--
+        (1) by striking paragraphs (5), (6), (8), and (10); and
+        (2) by redesignating paragraphs (7), (9), and (11) as 
+    paragraphs (5), (6), and (7), respectively;
+        (3) by inserting ``and'' after the semicolon at the end of 
+    paragraph (6) (as so redesignated); and
+        (4) by striking ``; and (12)'' and all that follows through 
+    ``reimbursement''.
+    (f) Elimination of Warning in Private Nonprofit Organization 
+Application Relating to Criminal Provisions and Related Matters.--
+Section 13(q) of such Act (42 U.S.C. 1761(q)) is amended--
+        (1) by striking paragraph (2);
+        (2) by redesignating paragraphs (3) through (5) as paragraphs 
+    (2) through (4), respectively; and
+        (3) in paragraph (3) (as so redesignated), by striking 
+    ``paragraphs (1) and (3)'' and inserting ``paragraphs (1) and 
+    (2)''.
+    (g) Extension of Program.--Section 13(r) of such Act (42 U.S.C. 
+1761(r)) is amended by striking ``1994'' and inserting ``1998''.
+    (h) All-Day Activities.--The Secretary of Agriculture shall--
+        (1) not later than 180 days after the date of enactment of this 
+    Act, in consultation with the heads of other Federal agencies, 
+    identify sources of Federal funds that may be available from other 
+    Federal agencies for service institutions under the summer food 
+    service program for children established under section 13 of the 
+    National School Lunch Act (42 U.S.C. 1761) to carry out all-day 
+    educational and recreational activities for children at feeding 
+    sites under the program; and
+        (2) notify through State agencies, as determined appropriate by 
+    the Secretary, the service institutions of the sources.
+
+SEC. 115. COMMODITY DISTRIBUTION PROGRAM.
+
+    Section 14 of the National School Lunch Act (42 U.S.C. 1762a) is 
+amended--
+        (1) in subsection (a), by striking ``1994'' and inserting 
+    ``1998''; and
+        (2) in subsection (b)--
+            (A) by inserting ``(1)'' after ``(b)''; and
+            (B) by adding at the end the following new paragraphs:
+    ``(2) The Secretary shall maintain and continue to improve the 
+overall nutritional quality of entitlement commodities provided to 
+schools to assist the schools in improving the nutritional content of 
+meals.
+    ``(3) The Secretary shall--
+        ``(A) require that nutritional content information labels be 
+    placed on packages or shipments of entitlement commodities provided 
+    to the schools; or
+        ``(B) otherwise provide nutritional content information 
+    regarding the commodities provided to the schools.''.
+
+SEC. 116. CHILD AND ADULT CARE FOOD PROGRAM.
+
+    (a) Automatic Eligibility of Certain Even Start Participants.--
+Section 17(c) of the National School Lunch Act (42 U.S.C. 1766(c)) (as 
+amended by section 109(b)) is further amended by adding at the end the 
+following new paragraph:
+    ``(6)(A) A child who has not yet entered kindergarten shall be 
+considered automatically eligible for benefits under this section 
+without further application or eligibility determination if the child 
+is enrolled as a participant in the Even Start program under part B of 
+chapter 1 of title I of the Elementary and Secondary Education Act of 
+1965 (20 U.S.C. 2741 et seq.).
+    ``(B) Subparagraph (A) shall apply only with respect to the 
+provision of benefits under this section for the period beginning 
+September 1, 1995, and ending September 30, 1997.''.
+    (b) Reapplication for Assistance at 3-Year Intervals.--Section 
+17(d)(2)(A) of such Act (42 U.S.C. 1766(d)(2)(A)) is amended by 
+striking ``2-year intervals'' and inserting ``3-year intervals''.
+    (c) Use of Administrative Funds to Conduct Outreach and Recruitment 
+to Unlicensed Day Care Homes.--Section 17(f)(3)(C) of such Act (42 
+U.S.C. 1766(f)(3)(C)) is amended--
+        (1) by inserting ``(i)'' after ``(C)''; and
+        (2) by adding at the end the following new clause:
+    ``(ii) Funds for administrative expenses may be used by family or 
+group day care home sponsoring organizations to conduct outreach and 
+recruitment to unlicensed family or group day care homes so that the 
+day care homes may become licensed.''.
+    (d) Information and Training Concerning Child Health and 
+Development.--Section 17(k) of such Act (42 U.S.C. 1766(k)) is amended 
+by adding at the end the following new paragraph:
+    ``(4) The Secretary shall instruct States to provide, through 
+sponsoring organizations, information and training concerning child 
+health and development to family or group day care homes participating 
+in the program.''.
+    (e) Extension of Statewide Demonstration Projects.--Section 17(p) 
+of such Act (42 U.S.C. 1766(p)) is amended--
+        (1) in paragraph (1)(A), by striking ``25 percent of the 
+    children served by such organization'' and inserting ``25 percent 
+    of the children enrolled in the organization or 25 percent of the 
+    licensed capacity of the organization for children, whichever is 
+    less,'';
+        (2) in paragraph (4)(B), by striking ``1992'' and inserting 
+    ``1998''; and
+        (3) in paragraph (5), by striking ``1994'' and inserting 
+    ``1998''.
+    (f) WIC Information.--Section 17 of such Act (42 U.S.C. 1766) is 
+amended by adding at the end the following new subsection:
+    ``(q)(1) The Secretary shall provide State agencies with basic 
+information concerning the importance and benefits of the special 
+supplemental nutrition program for women, infants, and children 
+authorized under section 17 of the Child Nutrition Act of 1966 (42 
+U.S.C. 1786).
+    ``(2) The State agency shall--
+        ``(A) provide each child care institution participating in the 
+    program established under this section, other than institutions 
+    providing day care outside school hours for schoolchildren, with 
+    materials that include--
+            ``(i) a basic explanation of the benefits and importance of 
+        the special supplemental nutrition program for women, infants, 
+        and children;
+            ``(ii) the maximum income limits, according to family size, 
+        applicable to children up to age 5 in the State under the 
+        special supplemental nutrition program for women, infants, and 
+        children; and
+            ``(iii) a listing of the addresses and phone numbers of 
+        offices at which parents may apply;
+        ``(B) annually provide the institutions with an update of the 
+    information on income limits described in subparagraph (A)(ii); and
+        ``(C) ensure that, at least once a year, the institutions to 
+    which subparagraph (A) applies provide written information to 
+    parents that includes--
+            ``(i) basic information on the benefits provided under the 
+        special supplemental nutrition program for women, infants, and 
+        children;
+            ``(ii) information on the maximum income limits, according 
+        to family size, applicable to the program; and
+            ``(iii) information on where parents may apply to 
+        participate in the program.''.
+
+SEC. 117. HOMELESS CHILDREN NUTRITION PROGRAM.
+
+    (a) Homeless Children Nutrition Program.--
+        (1) In general.--The National School Lunch Act is amended by 
+    inserting after section 17A (42 U.S.C. 1766a) the following new 
+    section:
+
+``SEC. 17B. HOMELESS CHILDREN NUTRITION PROGRAM.
+
+    ``(a) In General.--The Secretary shall conduct projects designed to 
+provide food service throughout the year to homeless children under the 
+age of 6 in emergency shelters.
+    ``(b) Agreements To Participate in Projects.--
+        ``(1) In general.--The Secretary shall enter into agreements 
+    with State, city, local, or county governments, other public 
+    entities, or private nonprofit organizations to participate in the 
+    projects conducted under this section.
+        ``(2) Eligibility requirements.--The Secretary shall establish 
+    eligibility requirements for the entities described in paragraph 
+    (1) that desire to participate in the projects conducted under this 
+    section. The requirements shall include the following:
+            ``(A) Each private nonprofit organization shall operate not 
+        more than 5 food service sites under the project and shall 
+        serve not more than 300 homeless children at each such site.
+            ``(B) Each site operated by each such organization shall 
+        meet applicable State and local health, safety, and sanitation 
+        standards.
+    ``(c) Project Requirements.--
+        ``(1) In general.--A project conducted under this section 
+    shall--
+            ``(A) use the same meal patterns and receive reimbursement 
+        payments for meals and supplements at the same rates provided 
+        to child care centers participating in the child care food 
+        program under section 17 for free meals and supplements; and
+            ``(B) receive reimbursement payments for meals and 
+        supplements served on Saturdays, Sundays, and holidays, at the 
+        request of the sponsor of any such project.
+        ``(2) Modification.--The Secretary may modify the meal pattern 
+    requirements to take into account the needs of infants.
+        ``(3) Homeless children eligible for free meals without 
+    application.--Homeless children under the age of 6 in emergency 
+    shelters shall be considered eligible for free meals without 
+    application.
+    ``(d) Funding Priorities.--From the amount described in subsection 
+(g), the Secretary shall provide funding for projects carried out under 
+this section for a particular fiscal year (referred to in this 
+subsection as the `current fiscal year') in the following order of 
+priority, to the maximum extent practicable:
+        ``(1) The Secretary shall first provide the funding to entities 
+    and organizations, each of which--
+            ``(A) received funding under this section or section 18(c) 
+        (as in effect on the day before the date of enactment of this 
+        section) to carry out a project for the preceding fiscal year; 
+        and
+            ``(B) is eligible to receive funding under this section to 
+        carry out the project for the current fiscal year;
+    to enable the entity or organization to carry out the project under 
+    this section for the current fiscal year at the level of service 
+    provided by the project during the preceding fiscal year.
+        ``(2) From the portion of the amount that remains after the 
+    application of paragraph (1), the Secretary shall provide funds to 
+    entities and organizations, each of which is eligible to receive 
+    funding under this section, to enable the entity or organization to 
+    carry out a new project under this section for the current fiscal 
+    year, or to expand the level of service provided by a project for 
+    the current fiscal year over the level provided by the project 
+    during the preceding fiscal year.
+    ``(e) Notice.--The Secretary shall advise each State of the 
+availability of the projects conducted under this subsection for 
+States, cities, counties, local governments, and other public entities, 
+and shall advise each State of the procedures for applying to 
+participate in the project.
+    ``(f) Plan To Allow Participation in the Child and Adult Care Food 
+Program.--Not later than September 30, 1996, the Secretary shall submit 
+to the Committee on Education and Labor of the House of Representatives 
+and the Committee on Agriculture, Nutrition, and Forestry of the Senate 
+a plan describing--
+        ``(1) how emergency shelters and homeless children who have not 
+    attained the age of 6 and who are served by the shelters under the 
+    program might participate in the child and adult care food program 
+    authorized under section 17 by September 30, 1998; and
+        ``(2) the advantages and disadvantages of the action described 
+    in paragraph (1).
+    ``(g) Funding.--
+        ``(1) In general.--In addition to any amounts made available 
+    under section 7(a)(5)(B)(i)(I) of the Child Nutrition Act of 1966 
+    (42 U.S.C. 1776(a)(5)(B)(i)(I)) and any amounts that are otherwise 
+    made available for fiscal year 1995, out of any moneys in the 
+    Treasury not otherwise appropriated, the Secretary of the Treasury 
+    shall provide to the Secretary to carry out this section $1,800,000 
+    for fiscal year 1995, $2,600,000 for fiscal year 1996, $3,100,000 
+    for fiscal year 1997, $3,400,000 for fiscal year 1998, and 
+    $3,700,000 for fiscal year 1999 and each succeeding fiscal year. 
+    The Secretary shall be entitled to receive the funds and shall 
+    accept the funds.
+        ``(2) Insufficient number of applicants.--The Secretary may 
+    expend less than the amount described in paragraph (1) for a fiscal 
+    year if there is an insufficient number of suitable applicants to 
+    carry out projects under this section for the fiscal year. Any 
+    funds made available under this subsection to carry out the 
+    projects for a fiscal year that are not obligated to carry out the 
+    projects in the fiscal year shall remain available until expended 
+    for purposes of carrying out the projects.
+    ``(h) Definition of emergency shelter.--As used in this section, 
+the term `emergency shelter' has the meaning provided the term in 
+section 321(2) of the Stewart B. McKinney Homeless Assistance Act (42 
+U.S.C. 11351(2)).''.
+        (2) Conforming amendments.--
+            (A) National school lunch act.--Section 18 of the National 
+        School Lunch Act (42 U.S.C. 1769) is amended by striking 
+        subsection (c).
+            (B) Child nutrition act of 1966.--Section 7(a)(5)(B)(i)(I) 
+        of the Child Nutrition Act of 1966 (42 U.S.C. 
+        1776(a)(5)(B)(i)(I)) is amended--
+                (i) by striking ``projects under section 18(c) of the 
+            National School Lunch Act (42 U.S.C. 1769(c))'' and 
+            inserting ``projects under section 17B of the National 
+            School Lunch Act''; and
+                (ii) by striking ``each of fiscal years 1993 and 1994'' 
+            each place it appears and inserting ``fiscal year 1995 and 
+            each subsequent fiscal year''.
+    (b) Demonstration Program for the Prevention of Boarder Babies.--
+Section 18 of the National School Lunch Act (42 U.S.C. 1769(c)) (as 
+amended by subsection (a)(2)(A)) is further amended by inserting after 
+subsection (b) the following new subsection:
+    ``(c)(1) Using the funds provided under paragraph (7), the 
+Secretary shall conduct at least 1 demonstration project through a 
+participating entity during each of fiscal years 1995 through 1998 that 
+is designed to provide food and nutrition services throughout the year 
+to--
+        ``(A) homeless pregnant women; and
+        ``(B) homeless mothers or guardians of infants, and the 
+    children of the mothers and guardians.
+    ``(2) To be eligible to obtain funds under this subsection, a 
+homeless shelter, a transitional housing organization, or another 
+entity that provides or will provide temporary housing for individuals 
+described in paragraph (1) shall (in accordance with guidelines 
+established by the Secretary)--
+        ``(A) submit to the Secretary a proposal to provide food and 
+    nutrition services, including a plan for coordinating the services 
+    with services provided under the special supplemental nutrition 
+    program for women, infants, and children authorized under section 
+    17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786);
+        ``(B) receive the approval of the Secretary for the proposal;
+        ``(C) be located in an urban area that has--
+            ``(i) a significant population of boarder babies;
+            ``(ii) a very high rate of mortality for children under 1 
+        year of age; or
+            ``(iii) a significant population of homeless pregnant women 
+        and homeless women with infants;
+    as determined by the Secretary; and
+        ``(D) be able to coordinate services provided under this 
+    subsection with the services provided by the local government and 
+    with other programs that may assist the participants receiving 
+    services under this subsection.
+    ``(3) Food and nutrition services funded under this subsection--
+        ``(A) may include--
+            ``(i) meals, supplements, and other food;
+            ``(ii) nutrition education;
+            ``(iii) nutrition assessments;
+            ``(iv) referrals to--
+                ``(I) the special supplemental nutrition program for 
+            women, infants, and children authorized under section 17 of 
+            such Act (42 U.S.C. 1786);
+                ``(II) the medical assistance program established under 
+            title XIX of the Social Security Act (42 U.S.C. 1396 et 
+            seq.);
+                ``(III) the food stamp program established under 
+            section 4 of the Food Stamp Act of 1977 (7 U.S.C. 2013); 
+            and
+                ``(IV) other public or private programs and services;
+            ``(v) activities related to the services described in any 
+        of clauses (i) through (iv); and
+            ``(vi) administrative activities related to the services 
+        described in any of clauses (i) through (v); and
+        ``(B) may not include the construction, purchase, or rental of 
+    real property.
+    ``(4)(A) A participating entity shall--
+        ``(i) use the same meal patterns, and receive reimbursement 
+    payments for meals and supplements at the same rates, as apply to 
+    child care centers participating in the child care food program 
+    under section 17 for free meals and supplements;
+        ``(ii) receive reimbursement payments for meals and supplements 
+    served on Saturdays, Sundays, and holidays, at the request of the 
+    entity; and
+        ``(iii) maintain a policy of not providing services or 
+    assistance to pregnant women, or homeless women with infants, who 
+    use a controlled substance (as defined in section 102 of the 
+    Controlled Substances Act (21 U.S.C. 802)).
+    ``(B) The Secretary may modify the meal pattern requirements to 
+take into account the needs of infants, homeless pregnant women, 
+homeless mothers, guardians of infants, or the children of the women, 
+mothers, or guardians.
+    ``(C) The Secretary shall provide funding to a participating entity 
+for services described in paragraph (3) that are provided to 
+individuals described in paragraph (1).
+    ``(5) The Secretary shall impose such auditing and recordkeeping 
+requirements as are necessary to monitor the use of Federal funds to 
+carry out this subsection.
+    ``(6) The Secretary shall notify the Committee on Education and 
+Labor, and the Committee on Agriculture, of the House of 
+Representatives and the Committee on Agriculture, Nutrition, and 
+Forestry of the Senate on projects carried out under this subsection.
+    ``(7)(A) Out of any moneys in the Treasury not otherwise 
+appropriated, the Secretary of the Treasury shall provide to the 
+Secretary $400,000 for each of fiscal years 1995 through 1998 to carry 
+out this subsection. The Secretary shall be entitled to receive the 
+funds and shall accept the funds.
+    ``(B) Any funds provided under subparagraph (A) to carry out 
+projects under this subsection for a fiscal year that are not obligated 
+in the fiscal year shall be used by the Secretary to carry out the 
+homeless children nutrition program established under section 17B.
+    ``(8) As used in this subsection:
+        ``(A) The term `boarder baby' means an abandoned infant 
+    described in section 103(1) of the Abandoned Infants Assistance Act 
+    of 1988 (Public Law 100-505; 42 U.S.C. 670 note).
+        ``(B) The term `nutrition education' has the meaning provided 
+    in section 17(b)(7) of the Child Nutrition Act of 1966 (42 U.S.C. 
+    1786(b)(7)).''.
+
+SEC. 118. PILOT PROJECTS.
+
+    (a) Commodity Letter of Credit (CLOC) Programs.--The first sentence 
+of section 18(b)(1) of the National School Lunch Act (42 U.S.C. 
+1769(b)(1)) is amended by striking ``, and ending September 30, 1994''.
+    (b) Demonstration Program To Provide Meals and Supplements Outside 
+of School Hours.--Section 18 of such Act (42 U.S.C. 1769) is amended by 
+adding at the end the following new subsection:
+    ``(e)(1)(A) The Secretary shall establish a demonstration program 
+to provide grants to eligible institutions or schools to provide meals 
+or supplements to adolescents participating in educational, 
+recreational, or other programs and activities provided outside of 
+school hours.
+    ``(B) The amount of a grant under subparagraph (A) shall be equal 
+to the amount necessary to provide meals or supplements described in 
+such subparagraph and shall be determined in accordance with 
+reimbursement payment rates for meals and supplements under the child 
+and adult care food program under section 17.
+    ``(2) The Secretary may not provide a grant under paragraph (1) to 
+an eligible institution or school unless the institution or school 
+submits to the Secretary an application containing such information as 
+the Secretary may reasonably require.
+    ``(3) The Secretary may not provide a grant under paragraph (1) to 
+an eligible institution or school unless the institution or school 
+agrees that the institution or school will--
+        ``(A) use amounts from the grant to provide meals or 
+    supplements under educational, recreational, or other programs and 
+    activities for adolescents outside of school hours, and the 
+    programs and activities are carried out in geographic areas in 
+    which there are high rates of poverty, violence, or drug and 
+    alcohol abuse among school-aged youths; and
+        ``(B) use the same meal patterns as meal patterns required 
+    under the child and adult care food program under section 17.
+    ``(4) Determinations with regard to eligibility for free and 
+reduced price meals and supplements provided under programs and 
+activities under this subsection shall be made in accordance with the 
+income eligibility guidelines for free and reduced price lunches under 
+section 9.
+    ``(5)(A) Except as provided in subparagraph (B), the Secretary 
+shall expend to carry out this subsection, from amounts appropriated 
+for purposes of carrying out section 17, $325,000 for fiscal year 1995, 
+$475,000 for each of fiscal years 1996 and 1997, and $525,000 for 
+fiscal year 1998. In addition to amounts described in the preceding 
+sentence, the Secretary shall expend any additional amounts in any 
+fiscal year as may be provided in advance in appropriations Acts.
+    ``(B) The Secretary may expend less than the amount required under 
+subparagraph (A) if there is an insufficient number of suitable 
+applicants.
+    ``(6) As used in this subsection:
+        ``(A) The term `adolescent' means a child who has attained the 
+    age of 13 but has not attained the age of 19.
+        ``(B) The term `eligible institution or school' means--
+            ``(i) an institution, as the term is defined in section 17; 
+        or
+            ``(ii) an elementary or secondary school participating in 
+        the school lunch program under this Act.
+        ``(C) The term `outside of school hours' means after-school 
+    hours, weekends, or holidays during the regular school year.''.
+    (c) Fortified Fluid Milk.--Section 18 of such Act (42 U.S.C. 1769) 
+(as amended by subsection (b)) is further amended by adding at the end 
+the following new subsection:
+    ``(f)(1) Subject to the availability of appropriations to carry out 
+this subsection, the Secretary shall establish pilot projects in at 
+least 25 school districts under which the milk offered by schools meets 
+the fortification requirements of paragraph (3) for lowfat, skim, and 
+other forms of fluid milk.
+    ``(2) The Secretary shall make available to school districts 
+information that compares the nutritional benefits of fluid milk that 
+meets the fortification requirements of paragraph (3) and the 
+nutritional benefits of other milk that is made available through the 
+school lunch program established under this Act.
+    ``(3) The fortification requirements for fluid milk for the pilot 
+project referred to in paragraph (1) shall provide that--
+        ``(A) all whole milk in final package form for beverage use 
+    shall contain not less than--
+            ``(i) 3.25 percent milk fat; and
+            ``(ii) 8.7 percent milk solids not fat;
+        ``(B) all lowfat milk in final package form for beverage use 
+    shall contain not less than 10 percent milk solids not fat; and
+        ``(C) all skim milk in final package form for beverage use 
+    shall contain not less than 9 percent milk solids not fat.
+    ``(4)(A) In selecting where to establish pilot projects under this 
+subsection, the Secretary shall take into account, among other factors, 
+the availability of fortified milk and the interest of the school 
+district in being included in the pilot project.
+    ``(B) The Secretary shall establish the pilot projects in as many 
+geographic areas as practicable, except that none of the projects shall 
+be established in school districts that use milk described in paragraph 
+(3) or similar milk.
+    ``(5) Not later than 2 years after the establishment of the first 
+pilot project under this subsection, the Secretary shall report to the 
+Committee on Education and Labor, and the Committee on Agriculture, of 
+the House of Representatives and the Committee on Agriculture, 
+Nutrition, and Forestry of the Senate on--
+        ``(A) the acceptability of fortified whole, lowfat, and skim 
+    milk products to participating children;
+        ``(B) the impact of offering the milk on milk consumption;
+        ``(C) the views of the school food service authorities on the 
+    pilot projects; and
+        ``(D) any increases or reductions in costs attributed to the 
+    pilot projects.
+    ``(6) The Secretary shall--
+        ``(A) obtain copies of any research studies or papers that 
+    discuss the impact of the fortification of milk pursuant to 
+    standards established by the States; and
+        ``(B) on request, make available to State agencies and the 
+    public--
+            ``(i) the information obtained under subparagraph (A); and
+            ``(ii) information about where to obtain milk described in 
+        paragraph (3).
+    ``(7)(A) Each pilot project established under this subsection shall 
+terminate on the last day of the third year after the establishment of 
+the pilot project.
+    ``(B) The Secretary shall advise representatives of each district 
+participating in a pilot project that the district may continue to 
+offer the fortified forms of milk described in paragraph (3) after the 
+project terminates.''.
+    (d) Increased Choices of Fruits, Vegetables, Legumes, Cereals, and 
+Grain-Based Products.--Section 18 of such Act (42 U.S.C. 1769) (as 
+amended by subsection (c)) is further amended by adding at the end the 
+following new subsection:
+    ``(g)(1) The Secretary is authorized to establish a pilot project 
+to assist schools participating in the school lunch program established 
+under this Act, and the school breakfast program established under 
+section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), to offer 
+participating students additional choices of fruits, vegetables, 
+legumes, cereals, and grain-based products (including, subject to 
+paragraph (6), organically produced agricultural commodities and 
+products) (collectively referred to in this subsection as `qualified 
+products').
+    ``(2) The Secretary shall establish procedures under which schools 
+may apply to participate in the pilot project. To the maximum extent 
+practicable, the Secretary shall select qualified schools that apply 
+from each State.
+    ``(3) The Secretary may provide a priority for receiving funds 
+under this subsection to--
+        ``(A) schools that are located in low-income areas (as defined 
+    by the Secretary); and
+        ``(B) schools that rarely offer 3 or more choices of qualified 
+    products per meal.
+    ``(4) On request, the Secretary shall provide information to the 
+Committee on Education and Labor, and the Committee on Agriculture, of 
+the House of Representatives and the Committee on Agriculture, 
+Nutrition, and Forestry of the Senate on the impact of the pilot 
+project on participating schools, including--
+        ``(A) the extent to which participating children increased 
+    consumption of qualified products;
+        ``(B) the extent to which increased consumption of qualified 
+    products offered under the pilot project has contributed to a 
+    reduction in fat intake in the school breakfast and school lunch 
+    programs;
+        ``(C) the desirability of requiring that--
+            ``(i) each school participating in the school breakfast 
+        program increase the number of choices of qualified products 
+        offered per meal to at least 2 choices;
+            ``(ii) each school participating in the school lunch 
+        program increase the number of choices of qualified products 
+        offered per meal; and
+            ``(iii) the Secretary provide additional Federal 
+        reimbursements to assist schools in complying with clauses (i) 
+        and (ii);
+        ``(D) the views of school food service authorities on the pilot 
+    project; and
+        ``(E) any increase or reduction in costs to the schools in 
+    offering the additional qualified products.
+    ``(5) Subject to the availability of funds appropriated to carry 
+out this subsection, the Secretary shall use not more than $5,000,000 
+for each of fiscal years 1995 through 1997 to carry out this 
+subsection.
+    ``(6) For purposes of this subsection, qualified products shall 
+include organically produced agricultural commodities and products 
+beginning on the date the Secretary establishes an organic 
+certification program for producers and handlers of agricultural 
+products in accordance with the Organic Foods Production Act of 1990 (7 
+U.S.C. 6501 et seq.).''.
+    (e) Increased Choices of Lowfat Dairy Products and Lean Meat and 
+Poultry Products.--Section 18 of such Act (42 U.S.C. 1769) (as amended 
+by subsection (d)) is further amended by adding at the end the 
+following new subsection:
+    ``(h)(1) The Secretary is authorized to establish a pilot project 
+to assist schools participating in the school lunch program established 
+under this Act, and the school breakfast program established under 
+section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), to offer 
+participating students additional choices of lowfat dairy products 
+(including lactose-free dairy products) and lean meat and poultry 
+products (including, subject to paragraph (6), organically produced 
+agricultural commodities and products) (collectively referred to in 
+this subsection as `qualified products').
+    ``(2) The Secretary shall establish procedures under which schools 
+may apply to participate in the pilot project. To the maximum extent 
+practicable, the Secretary shall select qualified schools that apply 
+from each State.
+    ``(3) The Secretary may provide a priority for receiving funds 
+under this subsection to--
+        ``(A) schools that are located in low-income areas (as defined 
+    by the Secretary); and
+        ``(B) schools that rarely offer 3 or more choices of qualified 
+    products per meal.
+    ``(4) On request, the Secretary shall provide information to the 
+Committee on Education and Labor, and the Committee on Agriculture, of 
+the House of Representatives and the Committee on Agriculture, 
+Nutrition, and Forestry of the Senate on the impact of the pilot 
+project on participating schools, including--
+        ``(A) the extent to which participating children increased 
+    consumption of qualified products;
+        ``(B) the extent to which increased consumption of qualified 
+    products offered under the pilot project has contributed to a 
+    reduction in fat intake in the school breakfast and school lunch 
+    programs;
+        ``(C) the desirability of requiring that--
+            ``(i) each school participating in the school breakfast 
+        program increase the number of choices of qualified products 
+        offered per meal to at least 2 choices;
+            ``(ii) each school participating in the school lunch 
+        program increase the number of choices of qualified products 
+        offered per meal; and
+            ``(iii) the Secretary provide additional Federal 
+        reimbursements to assist schools in complying with clauses (i) 
+        and (ii);
+        ``(D) the views of the school food service authorities on the 
+    pilot project; and
+        ``(E) any increase or reduction in costs to the schools in 
+    offering the additional qualified products.
+    ``(5) Subject to the availability of funds appropriated to carry 
+out this subsection, the Secretary shall use not more than $5,000,000 
+for each of fiscal years 1995 through 1997 to carry out this 
+subsection.
+    ``(6) For purposes of this subsection, qualified products shall 
+include organically produced agricultural commodities and products 
+beginning on the date the Secretary establishes an organic 
+certification program for producers and handlers of agricultural 
+products in accordance with the Organic Foods Production Act of 1990 (7 
+U.S.C. 6501 et seq.).''.
+    (f) Reduced Paperwork and Application Requirements and Increased 
+Participation Pilots.--Section 18 of such Act (42 U.S.C. 1769) (as 
+amended by subsection (e)) is further amended by adding at the end the 
+following new subsection:
+    ``(i)(1) Subject to the availability of advance appropriations 
+under paragraph (8), the Secretary shall make grants to a limited 
+number of schools to conduct pilot projects in 2 or more States 
+approved by the Secretary to--
+        ``(A) reduce paperwork;
+        ``(B) reduce application and meal counting requirements; and
+        ``(C) make changes that will increase participation in the 
+    school lunch and school breakfast programs.
+    ``(2)(A) Except as provided in subparagraph (B), the Secretary may 
+waive the requirements of this Act and the Child Nutrition Act of 1966 
+(42 U.S.C. 1771 et seq.) relating to counting of meals, applications 
+for eligibility, and related requirements that would preclude the 
+Secretary from making a grant to conduct a pilot project under 
+paragraph (1).
+    ``(B) The Secretary may not waive a requirement under subparagraph 
+(A) if the waiver would prevent a program participant, a potential 
+program recipient, or a school from receiving all of the benefits and 
+protections of this Act, the Child Nutrition Act of 1966, or a Federal 
+statute or regulation that protects an individual constitutional right 
+or a statutory civil right.
+    ``(C) No child otherwise eligible for free or reduced price meals 
+under section 9 or under section 4 of the Child Nutrition Act of 1966 
+(42 U.S.C. 1773) shall be required to pay more under a program carried 
+out under this subsection for such a meal than the child would 
+otherwise pay under section 9 or under section 4 of the Child Nutrition 
+Act of 1966 (42 U.S.C. 1771 et seq.), respectively.
+    ``(3) To be eligible to receive a grant to conduct a pilot project 
+under this subsection, a school shall--
+        ``(A) submit an application to the Secretary at such time, in 
+    such manner, and accompanied by such information as the Secretary 
+    may reasonably require, including, at a minimum, information--
+            ``(i) demonstrating that the program carried out under the 
+        project differs from programs carried out under subparagraph 
+        (C), (D), or (E) of section 11(a)(1);
+            ``(ii) demonstrating that at least 40 percent of the 
+        students participating in the school lunch program at the 
+        school are eligible for free or reduced price meals;
+            ``(iii) demonstrating that the school operates both a 
+        school lunch program and a school breakfast program;
+            ``(iv) describing the funding, if any that the school will 
+        receive from non-Federal sources to carry out the pilot 
+        project;
+            ``(v) describing and justifying the additional amount, over 
+        the most recent prior year reimbursement amount received under 
+        the school lunch program and the school breakfast program 
+        (adjusted for inflation and fluctuations in enrollment), that 
+        the school needs from the Federal government to conduct the 
+        pilot; and
+            ``(vi) describing the policy of the school on a la carte 
+        and competitive foods;
+        ``(B) not have a history of violations of this Act or the Child 
+    Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); and
+        ``(C) meet any other requirement that the Secretary may 
+    reasonably require.
+    ``(4) To the extent practicable, the Secretary shall select schools 
+to participate in the pilot program under this subsection in a manner 
+that will provide for an equitable distribution among the following 
+types of schools:
+        ``(A) Urban and rural schools.
+        ``(B) Elementary, middle, and high schools.
+        ``(C) Schools of varying income levels.
+    ``(5)(A) Except as provided in subparagraph (B), a school 
+conducting a pilot project under this subsection shall receive 
+commodities in an amount equal to the amount the school received in the 
+prior year under the school lunch program under this Act and under the 
+school breakfast program under section 4 of the Child Nutrition Act of 
+1966, adjusted for inflation and fluctuations in enrollment.
+    ``(B) Commodities required for the pilot project in excess of the 
+amount of commodities received by the school in the prior year under 
+the school lunch program and the school breakfast program may be funded 
+from amounts appropriated to carry out this section.
+    ``(6)(A) Except as provided in subparagraph (B), a school 
+conducting a pilot project under this subsection shall receive a total 
+Federal reimbursement under the school lunch program and school 
+breakfast program in an amount equal to the total Federal reimbursement 
+for the school in the prior year under each such program (adjusted for 
+inflation and fluctuations in enrollment).
+    ``(B) Funds required for the pilot project in excess of the level 
+of reimbursement received by the school in the prior year (adjusted for 
+inflation and fluctuations in enrollment) may be taken from any non-
+Federal source or from amounts appropriated to carry out this 
+subsection. If no appropriations are made for the pilot projects, 
+schools may not conduct the pilot projects.
+    ``(7)(A) The Secretary shall require each school conducting a pilot 
+project under this subsection to submit to the Secretary documentation 
+sufficient for the Secretary, to the extent practicable, to--
+        ``(i) determine the effect that participation by schools in the 
+    pilot projects has on the rate of student participation in the 
+    school lunch program and the school breakfast program, in total and 
+    by various income groups;
+        ``(ii) compare the quality of meals served under the pilot 
+    project to the quality of meals served under the school lunch 
+    program and the school breakfast program during the school year 
+    immediately preceding participation in the pilot project;
+        ``(iii) summarize the views of students, parents, and 
+    administrators with respect to the pilot project;
+        ``(iv) compare the amount of administrative costs under the 
+    pilot project to the amount of administrative costs under the 
+    school lunch program and the school breakfast program during the 
+    school year immediately preceding participation in the pilot 
+    project;
+        ``(v) determine the reduction in paperwork under the pilot 
+    project from the amount of paperwork under the school lunch and 
+    school breakfast programs at the school; and
+        ``(vi) determine the effect of participation in the pilot 
+    project on sales of, and school policy regarding, a la carte and 
+    competitive foods.
+    ``(B) Not later than January 31, 1998, the Secretary shall submit 
+to the Committee on Education and Labor of the House of Representatives 
+and the Committee on Agriculture, Nutrition, and Forestry of the Senate 
+a report containing--
+        ``(i) a description of the pilot projects approved by the 
+    Secretary under this subsection;
+        ``(ii) a compilation of the information received by the 
+    Secretary under paragraph (1) as of this date from each school 
+    conducting a pilot project under this subsection; and
+        ``(iii) an evaluation of the program by the Secretary.
+    ``(8) There are authorized to be appropriated to carry out this 
+subsection $9,000,000 for each fiscal year during the period beginning 
+October 1, 1995, and ending July 31, 1998.''.
+
+SEC. 119. REDUCTION OF PAPERWORK.
+
+    Section 19(a) of the National School Lunch Act (42 U.S.C. 1769a(a)) 
+is amended--
+        (1) by striking ``and other agencies'' and inserting ``other 
+    agencies''; and
+        (2) by inserting ``, and families of children participating in 
+    the programs,'' after ``assisted under such Acts''.
+
+SEC. 120. FOOD SERVICE MANAGEMENT INSTITUTE.
+
+    (a) Required Activities.--Section 21(c)(2) of the National School 
+Lunch Act (42 U.S.C. 1769b-1(c)(2)) is amended--
+        (1) in subparagraph (B)--
+            (A) by striking ``and'' at the end of clause (viii);
+            (B) by redesignating clause (ix) as clause (x); and
+            (C) by inserting after clause (viii) the following new 
+        clause:
+                ``(ix) culinary skills; and'';
+        (2) by striking ``and'' at the end of subparagraph (D);
+        (3) by striking the period at the end of subparagraph (E) and 
+    inserting a semicolon; and
+        (4) by adding at the end the following new subparagraphs:
+            ``(F) training food service personnel to comply with the 
+        nutrition guidance and objectives of section 24 through a 
+        national network of instructors or other means;
+            ``(G) preparing informational materials, such as video 
+        instruction tapes and menu planners, to promote healthier food 
+        preparation; and
+            ``(H) assisting State educational agencies in providing 
+        additional nutrition and health instructions and instructors, 
+        including training personnel to comply with the nutrition 
+        guidance and objectives of section 24.''.
+    (b) Use of Food Service Management Institute for Dietary and 
+Nutrition Activities.--Section 21(d) of such Act (42 U.S.C. 1769b-1(d)) 
+is amended--
+        (1) by striking ``(d) Coordination.--The'' and inserting the 
+    following:
+    ``(d) Coordination.--
+        ``(1) In general.--The''; and
+        (2) by adding at the end the following new paragraph:
+        ``(2) Use of institute for dietary and nutrition activities.--
+    The Secretary shall use any food service management institute 
+    established under subsection (a)(2) to assist in carrying out 
+    dietary and nutrition activities of the Secretary.''.
+    (c) Authorization of Appropriations.--Section 21 of such Act (42 
+U.S.C. 1769b-1) is amended--
+        (1) in subsection (a)(1), by striking ``from'' and inserting 
+    ``subject to the availability of, and from,''; and
+        (2) by striking subsection (e) and inserting the following new 
+    subsection:
+    ``(e) Authorization of Appropriations.--
+        ``(1) Training activities and technical assistance.--There are 
+    authorized to be appropriated to carry out subsection (a)(1) 
+    $3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, 
+    and $1,000,000 for each of fiscal years 1992 through 1998.
+        ``(2) Food service management institute.--
+            ``(A) Funding.--In addition to any amounts otherwise made 
+        available for fiscal year 1995, out of any moneys in the 
+        Treasury not otherwise appropriated, the Secretary of the 
+        Treasury shall provide to the Secretary $147,000 for fiscal 
+        year 1995, and $2,000,000 for fiscal year 1996 and each 
+        subsequent fiscal year, to carry out subsection (a)(2). The 
+        Secretary shall be entitled to receive the funds and shall 
+        accept the funds.
+            ``(B) Additional funding.--In addition to amounts made 
+        available under subparagraph (A), there are authorized to be 
+        appropriated to carry out subsection (a)(2) such sums as are 
+        necessary for fiscal year 1995 and each subsequent fiscal year. 
+        The Secretary shall carry out activities under subsection 
+        (a)(2), in addition to the activities funded under subparagraph 
+        (A), to the extent provided for, and in such amounts as are 
+        provided for, in advance in appropriations Acts.
+            ``(C) Funding for education, training, or applied research 
+        or studies.--In addition to amounts made available under 
+        subparagraphs (A) and (B), from amounts otherwise appropriated 
+        to the Secretary in discretionary appropriations, the Secretary 
+        may provide funds to any food service management institute 
+        established under subsection (a)(2) for projects specified by 
+        the Secretary that will contribute to implementing dietary or 
+        nutrition initiatives. Any additional funding under this 
+        subparagraph shall be provided noncompetitively in a separate 
+        cooperative agreement.''.
+
+SEC. 121. COMPLIANCE AND ACCOUNTABILITY.
+
+    Section 22(d) of the National School Lunch Act (42 U.S.C. 1769c(d)) 
+is amended by striking ``1990, 1991, 1992, 1993, and 1994'' and 
+inserting ``1994 through 1996''.
+
+SEC. 122. DUTIES OF THE SECRETARY OF AGRICULTURE RELATING TO 
+              NONPROCUREMENT DEBARMENT UNDER CERTAIN CHILD NUTRITION 
+              PROGRAMS.
+
+    (a) In General.--The National School Lunch Act (42 U.S.C. 1751 et 
+seq.) is amended by adding at the end the following new section:
+
+``SEC. 25. DUTIES OF THE SECRETARY RELATING TO NONPROCUREMENT 
+              DEBARMENT.
+
+    ``(a) Purposes.--The purposes of this section are to promote the 
+prevention and deterrence of instances of fraud, bid rigging, and other 
+anticompetitive activities encountered in the procurement of products 
+for child nutrition programs by--
+        ``(1) establishing guidelines and a timetable for the Secretary 
+    to initiate debarment proceedings, as well as establishing 
+    mandatory debarment periods; and
+        ``(2) providing training, technical advice, and guidance in 
+    identifying and preventing the activities.
+    ``(b) Definitions.--As used in this section:
+        ``(1) Child nutrition program.--The term `child nutrition 
+    program' means--
+            ``(A) the school lunch program established under this Act;
+            ``(B) the summer food service program for children 
+        established under section 13;
+            ``(C) the child and adult care food program established 
+        under section 17;
+            ``(D) the homeless children nutrition program established 
+        under section 17B;
+            ``(E) the special milk program established under section 3 
+        of the Child Nutrition Act of 1966 (42 U.S.C. 1772);
+            ``(F) the school breakfast program established under 
+        section 4 of such Act (42 U.S.C. 1773); and
+            ``(G) the special supplemental nutrition program for women, 
+        infants, and children authorized under section 17 of such Act 
+        (42 U.S.C. 1786).
+        ``(2) Contractor.--The term `contractor' means a person that 
+    contracts with a State, an agency of a State, or a local agency to 
+    provide goods or services in relation to the participation of a 
+    local agency in a child nutrition program.
+        ``(3) Local agency.--The term `local agency' means a school, 
+    school food authority, child care center, sponsoring organization, 
+    or other entity authorized to operate a child nutrition program at 
+    the local level.
+        ``(4) Nonprocurement debarment.--The term `nonprocurement 
+    debarment' means an action to bar a person from programs and 
+    activities involving Federal financial and nonfinancial assistance, 
+    but not including Federal procurement programs and activities.
+        ``(5) Person.--The term `person' means any individual, 
+    corporation, partnership, association, cooperative, or other legal 
+    entity, however organized.
+    ``(c) Assistance To Identify and Prevent Fraud and Anticompetitive 
+Activities.--The Secretary shall--
+        ``(1) in cooperation with any other appropriate individual, 
+    organization, or agency, provide advice, training, technical 
+    assistance, and guidance (which may include awareness training, 
+    training films, and troubleshooting advice) to representatives of 
+    States and local agencies regarding means of identifying and 
+    preventing fraud and anticompetitive activities relating to the 
+    provision of goods or services in conjunction with the 
+    participation of a local agency in a child nutrition program; and
+        ``(2) provide information to, and fully cooperate with, the 
+    Attorney General and State attorneys general regarding 
+    investigations of fraud and anticompetitive activities relating to 
+    the provision of goods or services in conjunction with the 
+    participation of a local agency in a child nutrition program.
+    ``(d) Nonprocurement Debarment.--
+        ``(1) In general.--Except as provided in paragraph (3) and 
+    subsection (e), not later than 180 days after notification of the 
+    occurrence of a cause for debarment described in paragraph (2), the 
+    Secretary shall initiate nonprocurement debarment proceedings 
+    against the contractor who has committed the cause for debarment.
+        ``(2) Causes for debarment.--Actions requiring initiation of 
+    nonprocurement debarment pursuant to paragraph (1) shall include a 
+    situation in which a contractor is found guilty in any criminal 
+    proceeding, or found liable in any civil or administrative 
+    proceeding, in connection with the supplying, providing, or selling 
+    of goods or services to any local agency in connection with a child 
+    nutrition program, of--
+            ``(A) an anticompetitive activity, including bid-rigging, 
+        price-fixing, the allocation of customers between competitors, 
+        or other violation of Federal or State antitrust laws;
+            ``(B) fraud, bribery, theft, forgery, or embezzlement;
+            ``(C) knowingly receiving stolen property;
+            ``(D) making a false claim or statement; or
+            ``(E) any other obstruction of justice.
+        ``(3) Exception.--If the Secretary determines that a decision 
+    on initiating nonprocurement debarment proceedings cannot be made 
+    within 180 days after notification of the occurrence of a cause for 
+    debarment described in paragraph (2) because of the need to further 
+    investigate matters relating to the possible debarment, the 
+    Secretary may have such additional time as the Secretary considers 
+    necessary to make a decision, but not to exceed an additional 180 
+    days.
+        ``(4) Mandatory child nutrition program debarment periods.--
+            ``(A) In general.--Subject to the other provisions of this 
+        paragraph and notwithstanding any other provision of law except 
+        subsection (e), if, after deciding to initiate nonprocurement 
+        debarment proceedings pursuant to paragraph (1), the Secretary 
+        decides to debar a contractor, the debarment shall be for a 
+        period of not less than 3 years.
+            ``(B) Previous debarment.--If the contractor has been 
+        previously debarred pursuant to nonprocurement debarment 
+        proceedings initiated pursuant to paragraph (1), and the cause 
+        for debarment is described in paragraph (2) based on activities 
+        that occurred subsequent to the initial debarment, the 
+        debarment shall be for a period of not less than 5 years.
+            ``(C) Scope.--At a minimum, a debarment under this 
+        subsection shall serve to bar the contractor for the specified 
+        period from contracting to provide goods or services in 
+        conjunction with the participation of a local agency in a child 
+        nutrition program.
+            ``(D) Reversal, reduction, or exception.--Nothing in this 
+        section shall restrict the ability of the Secretary to--
+                ``(i) reverse a debarment decision;
+                ``(ii) reduce the period or scope of a debarment;
+                ``(iii) grant an exception permitting a debarred 
+            contractor to participate in a particular contract to 
+            provide goods or services; or
+                ``(iv) otherwise settle a debarment action at any time;
+        in conjunction with the participation of a local agency in a 
+        child nutrition program, if the Secretary determines there is 
+        good cause for the action, after taking into account factors 
+        set forth in paragraphs (1) through (6) of subsection (e).
+        ``(5) Information.--On request, the Secretary shall present to 
+    the Committee on Education and Labor, and the Committee on 
+    Agriculture, of the House of Representatives and the Committee on 
+    Agriculture, Nutrition, and Forestry of the Senate information 
+    regarding the decisions required by this subsection.
+        ``(6) Relationship to other authorities.--A debarment imposed 
+    under this section shall not reduce or diminish the authority of a 
+    Federal, State, or local government agency or court to penalize, 
+    imprison, fine, suspend, debar, or take other adverse action 
+    against a person in a civil, criminal, or administrative 
+    proceeding.
+        ``(7) Regulations.--The Secretary shall issue such regulations 
+    as are necessary to carry out this subsection.
+    ``(e) Mandatory Debarment.--Notwithstanding any other provision of 
+this section, the Secretary shall initiate nonprocurement debarment 
+proceedings against the contractor (including any cooperative) who has 
+committed the cause for debarment (as determined under subsection 
+(d)(2)), unless the action--
+        ``(1) is likely to have a significant adverse effect on 
+    competition or prices in the relevant market or nationally;
+        ``(2) will interfere with the ability of a local agency to 
+    procure a needed product for a child nutrition program;
+        ``(3) is unfair to a person, subsidiary corporation, affiliate, 
+    parent company, or local division of a corporation that is not 
+    involved in the improper activity that would otherwise result in 
+    the debarment;
+        ``(4) is likely to have significant adverse economic impacts on 
+    the local economy in a manner that is unfair to innocent parties;
+        ``(5) is not justified in light of the penalties already 
+    imposed on the contractor for violations relevant to the proposed 
+    debarment, including any suspension or debarment arising out of the 
+    same matter that is imposed by any Federal or State agency; or
+        ``(6) is not in the public interest, or otherwise is not in the 
+    interests of justice, as determined by the Secretary.
+    ``(f) Exhaustion of Administrative Remedies.--Prior to seeking 
+judicial review in a court of competent jurisdiction, a contractor 
+against whom a nonprocurement debarment proceeding has been initiated 
+shall--
+        ``(1) exhaust all administrative procedures prescribed by the 
+    Secretary; and
+        ``(2) receive notice of the final determination of the 
+    Secretary.
+    ``(g) Information Relating to Prevention and Control of 
+Anticompetitive Activities.--On request, the Secretary shall present to 
+the Committee on Education and Labor, and the Committee on Agriculture, 
+of the House of Representatives and the Committee on Agriculture, 
+Nutrition, and Forestry of the Senate information regarding the 
+activities of the Secretary relating to anticompetitive activities, 
+fraud, nonprocurement debarment, and any waiver granted by the 
+Secretary under this section.''.
+    (b) Applicability.--Section 25 of the National School Lunch Act (as 
+added by subsection (a)) shall not apply to a cause for debarment as 
+described in section 25(d)(2) of such Act that is based on an activity 
+that took place prior to the effective date of section 25 of such Act.
+    (c) No Reduction in Authority To Debar or Suspend a Person From 
+Federal Financial and Nonfinancial Assistance and Benefits.--The 
+authority of the Secretary of Agriculture that exists on the day before 
+the date of enactment of this Act to debar or suspend a person from 
+Federal financial and nonfinancial assistance and benefits under 
+Federal programs and activities shall not be diminished or reduced by 
+subsection (a) or the amendment made by subsection (a).
+
+SEC. 123. INFORMATION CLEARINGHOUSE.
+
+    The National School Lunch Act (42 U.S.C. 1751 et seq.) (as amended 
+by section 122) is further amended by adding at the end the following 
+new section:
+
+``SEC. 26. INFORMATION CLEARINGHOUSE.
+
+    ``(a) In General.--The Secretary shall enter into a contract with a 
+nongovernmental organization described in subsection (b) to establish 
+and maintain a clearinghouse to provide information to nongovernmental 
+groups located throughout the United States that assist low-income 
+individuals or communities regarding food assistance, self-help 
+activities to aid individuals in becoming self-reliant, and other 
+activities that empower low-income individuals or communities to 
+improve the lives of low-income individuals and reduce reliance on 
+Federal, State, or local governmental agencies for food or other 
+assistance.
+    ``(b) Nongovernmental Organization.--The nongovernmental 
+organization referred to in subsection (a) shall be selected on a 
+competitive basis and shall--
+        ``(1) be experienced in the gathering of first-hand information 
+    in all the States through onsite visits to grassroots organizations 
+    in each State that fight hunger and poverty or that assist 
+    individuals in becoming self-reliant;
+        ``(2) be experienced in the establishment of a clearinghouse 
+    similar to the clearinghouse described in subsection (a);
+        ``(3) agree to contribute in-kind resources towards the 
+    establishment and maintenance of the clearinghouse and agree to 
+    provide clearinghouse information, free of charge, to the 
+    Secretary, States, counties, cities, antihunger groups, and 
+    grassroots organizations that assist individuals in becoming self-
+    sufficient and self-reliant;
+        ``(4) be sponsored by an organization, or be an organization, 
+    that--
+            ``(A) has helped combat hunger for at least 10 years;
+            ``(B) is committed to reinvesting in the United States; and
+            ``(C) is knowledgeable regarding Federal nutrition 
+        programs;
+        ``(5) be experienced in communicating the purpose of the 
+    clearinghouse through the media, including the radio and print 
+    media, and be able to provide access to the clearinghouse 
+    information through computer or telecommunications technology, as 
+    well as through the mails; and
+        ``(6) be able to provide examples, advice, and guidance to 
+    States, counties, cities, communities, antihunger groups, and local 
+    organizations regarding means of assisting individuals and 
+    communities to reduce reliance on government programs, reduce 
+    hunger, improve nutrition, and otherwise assist low-income 
+    individuals and communities become more self-sufficient.
+    ``(c) Audits.--The Secretary shall establish fair and reasonable 
+auditing procedures regarding the expenditures of funds to carry out 
+this section.
+    ``(d) Funding.--Out of any moneys in the Treasury not otherwise 
+appropriated, the Secretary of the Treasury shall pay to the Secretary 
+to provide to the organization selected under this section, to 
+establish and maintain the information clearinghouse, $200,000 for each 
+of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, and 
+$100,000 for fiscal year 1998. The Secretary shall be entitled to 
+receive the funds and shall accept the funds.''.
+
+SEC. 124. GUIDANCE AND GRANTS FOR ACCOMMODATING SPECIAL DIETARY NEEDS 
+              OF CHILDREN WITH DISABILITIES.
+
+    The National School Lunch Act (42 U.S.C. 1751 et seq.) (as amended 
+by section 123) is further amended by adding at the end the following 
+new section:
+
+``SEC. 27. GUIDANCE AND GRANTS FOR ACCOMMODATING SPECIAL DIETARY NEEDS 
+              OF CHILDREN WITH DISABILITIES.
+
+    ``(a) Definitions.--As used in this section:
+        ``(1) Children with disabilities.--The term `children with 
+    disabilities' means individuals, each of whom is--
+            ``(A) a participant in a covered program; and
+            ``(B) an individual with a disability, as defined in 
+        section 7(8) of the Rehabilitation Act of 1973 (29 U.S.C. 
+        706(8)) for purposes of section 504 of the Rehabilitation Act 
+        of 1973 (29 U.S.C. 794).
+        ``(2) Covered program.--The term `covered program' means--
+            ``(A) the school lunch program established under this Act;
+            ``(B) the school breakfast program established under 
+        section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); 
+        and
+            ``(C) any other program established under this Act or the 
+        Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) that the 
+        Secretary determines is appropriate.
+        ``(3) Eligible entity.--The term `eligible entity' means a 
+    school food service authority, or an institution or organization, 
+    that participates in a covered program.
+    ``(b) Guidance.--
+        ``(1) Development.--The Secretary, in consultation with the 
+    Attorney General and the Secretary of Education, shall develop and 
+    approve guidance for accommodating the medical and special dietary 
+    needs of children with disabilities under covered programs in a 
+    manner that is consistent with section 504 of the Rehabilitation 
+    Act of 1973 (29 U.S.C. 794).
+        ``(2) Timing.--In the case of the school lunch program 
+    established under this Act and the school breakfast program 
+    established under section 4 of the Child Nutrition Act of 1966 (42 
+    U.S.C. 1773), the Secretary shall develop the guidance as required 
+    by paragraph (1) not later than 150 days after the date of 
+    enactment of this section.
+        ``(3) Distribution.--Not later than 60 days after the date that 
+    the development of the guidance relating to a covered program is 
+    completed, the Secretary shall distribute the guidance to school 
+    food service authorities, and institutions and organizations, 
+    participating in the covered program.
+        ``(4) Revision of guidance.--The Secretary, in consultation 
+    with the Attorney General and the Secretary of Education, shall 
+    periodically update and approve the guidances to reflect new 
+    scientific information and comments and suggestions from persons 
+    carrying out covered programs, recognized medical authorities, 
+    parents, and other persons.
+    ``(c) Grants.--
+        ``(1) In general.--Subject to the availability of 
+    appropriations provided in advance to carry out this subsection, 
+    the Secretary shall make grants on a competitive basis to State 
+    educational agencies for distribution to eligible entities to 
+    assist the eligible entities with nonrecurring expenses incurred in 
+    accommodating the medical and special dietary needs of children 
+    with disabilities in a manner that is consistent with section 504 
+    of the Rehabilitation Act of 1973 (29 U.S.C. 794).
+        ``(2) Additional assistance.--Subject to paragraph (3)(A)(iii), 
+    assistance received through grants made under this subsection shall 
+    be in addition to any other assistance that State educational 
+    agencies and eligible entities would otherwise receive.
+        ``(3) Allocation by secretary.--
+            ``(A) Preference.--In making grants under this subsection 
+        for any fiscal year, the Secretary shall provide a preference 
+        to State educational agencies that, individually--
+                ``(i) submit to the Secretary a plan for accommodating 
+            the needs described in paragraph (1), including a 
+            description of the purpose of the project for which the 
+            agency seeks such a grant, a budget for the project, and a 
+            justification for the budget;
+                ``(ii) provide to the Secretary data demonstrating that 
+            the State served by the agency has a substantial percentage 
+            of children with medical or special dietary needs, and 
+            information explaining the basis for the data; or
+                ``(iii) demonstrate to the satisfaction of the 
+            Secretary that the activities supported through such a 
+            grant will be coordinated with activities supported under 
+            other Federal, State, and local programs, including--
+
+                    ``(I) activities carried out under title XIX of the 
+                Social Security Act (42 U.S.C. 1396 et seq.);
+                    ``(II) activities carried out under the Individuals 
+                with Disabilities Education Act (20 U.S.C. 1400 et 
+                seq.); and
+                    ``(III) activities carried out under section 19 of 
+                the Child Nutrition Act of 1966 (42 U.S.C. 1788) or by 
+                the food service management institute established under 
+                section 21.
+
+            ``(B) Reallocation.--The Secretary shall act in a timely 
+        manner to recover and reallocate to other States any amounts 
+        provided to a State educational agency under this subsection 
+        that are not used by the agency within a reasonable period (as 
+        determined by the Secretary).
+            ``(C) Applications.--The Secretary shall allow State 
+        educational agencies to apply on an annual basis for assistance 
+        under this subsection.
+        ``(4) Allocation by state educational agencies.--In allocating 
+    funds made available under this subsection within a State, the 
+    State educational agency shall give a preference to eligible 
+    entities that demonstrate the greatest ability to use the funds to 
+    carry out the plan submitted by the State in accordance with 
+    paragraph (3)(A)(i).
+        ``(5) Maintenance of effort.--Expenditures of funds from State 
+    and local sources to accommodate the needs described in paragraph 
+    (1) shall not be diminished as a result of grants received under 
+    this subsection.
+        ``(6) Authorization of appropriations.--There are authorized to 
+    be appropriated $1,000,000 for each of fiscal years 1995 through 
+    1998 to carry out this subsection.''.
+
+SEC. 125. STUDY OF ADULTERATION OF JUICE PRODUCTS SOLD TO SCHOOL MEAL 
+              PROGRAMS
+
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study of the costs and problems associated with the sale of 
+adulterated fruit juice and juice products to the school lunch program 
+under the National School Lunch Act (42 U.S.C. 1751 et seq.) and school 
+breakfast program under section 4 of the Child Nutrition Act of 1966 
+(42 U.S.C. 1773), including a study of--
+        (1) the nature and extent to which juice products have been and 
+    are currently being adulterated;
+        (2) the adequacy of current requirements and standards to 
+    preclude manufacturers from processing adulterated products for 
+    school meal programs;
+        (3) the availability and effectiveness of various detection 
+    methods and testing procedures used to identify adulterated juice 
+    products;
+        (4) the adequacy of existing enforcement mechanisms and efforts 
+    to detect and prosecute manufacturers of adulterated juice 
+    products;
+        (5) the economic effect of the sale of adulterated juice 
+    products on the school meal program and on manufacturers of the 
+    products; and
+        (6) the effect alternative mandatory inspection methods would 
+    have on program costs and various purchasing options.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Comptroller General shall submit a report on the study 
+conducted under subsection (a) (including any related recommendations) 
+to the Committee on Education and Labor, and the Committee on 
+Agriculture, of the House of Representatives and the Committee on 
+Agriculture, Nutrition, and Forestry of the Senate.
+
+          TITLE II--AMENDMENTS TO CHILD NUTRITION ACT OF 1966
+
+SEC. 201. SCHOOL BREAKFAST PROGRAM.
+
+    (a) Minimum Nutritional Requirements Measured by Weekly Average of 
+Nutrient Content of School Breakfasts.--The first sentence of section 
+4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)) is 
+amended by inserting before the period at the end the following: ``, 
+except that the minimum nutritional requirements shall be measured by 
+not less than the weekly average of the nutrient content of school 
+breakfasts''.
+    (b) Technical Assistance for School Breakfast Program.--Section 
+4(e)(1) of such Act (42 U.S.C. 1773(e)(1)) is amended--
+        (1) by inserting ``(A)'' after ``(1)''; and
+        (2) by adding at the end the following new subparagraph:
+    ``(B) The Secretary shall provide through State educational 
+agencies technical assistance and training, including technical 
+assistance and training in the preparation of foods high in complex 
+carbohydrates and lower-fat versions of foods commonly used in the 
+school breakfast program established under this section, to schools 
+participating in the school breakfast program to assist the schools in 
+complying with the nutritional requirements prescribed by the Secretary 
+pursuant to subparagraph (A) and in providing appropriate meals to 
+children with medically certified special dietary needs. The Secretary 
+shall provide through State educational agencies additional technical 
+assistance to schools that are having difficulty maintaining compliance 
+with the requirements.''.
+    (c) Promotion of Program.--Section 4(f)(1) of such Act (42 U.S.C. 
+1773(f)(1)) is amended--
+        (1) by inserting ``(A)'' after ``(1)''; and
+        (2) by adding at the end the following new subparagraphs:
+    ``(B) In cooperation with State educational agencies, the Secretary 
+shall promote the school breakfast program by--
+        ``(i) marketing the program in a manner that expands 
+    participation in the program by schools and students; and
+        ``(ii) improving public education and outreach efforts in 
+    language appropriate materials that enhance the public image of the 
+    program.
+    ``(C) As used in this paragraph, the term `language appropriate 
+materials' means materials using a language other than the English 
+language in a case in which the language is dominant for a large 
+percentage of individuals participating in the program.''.
+    (d) Startup and Expansion of School Breakfast Program and Summer 
+Food Service Program for Children.--Subsection (g) of section 4 of such 
+Act (42 U.S.C. 1773(g)) is amended to read as follows:
+
+
+                      ``STARTUP AND EXPANSION COSTS
+
+    ``(g)(1) Out of any moneys in the Treasury not otherwise 
+appropriated, the Secretary of the Treasury shall provide to the 
+Secretary $5,000,000 for each of fiscal years 1991 through 1997, 
+$6,000,000 for fiscal year 1998, and $7,000,000 for fiscal year 1999 
+and each subsequent fiscal year to make payments under this subsection. 
+The Secretary shall be entitled to receive the funds and shall accept 
+the funds. The Secretary shall use the funds to make payments on a 
+competitive basis and in the following order of priority (subject to 
+other provisions of this subsection), to--
+        ``(A) State educational agencies in a substantial number of 
+    States for distribution to eligible schools to assist the schools 
+    with nonrecurring expenses incurred in--
+            ``(i) initiating a school breakfast program under this 
+        section; or
+            ``(ii) expanding a school breakfast program; and
+        ``(B) a substantial number of States for distribution to 
+    service institutions to assist the institutions with nonrecurring 
+    expenses incurred in--
+            ``(i) initiating a summer food service program for 
+        children; or
+            ``(ii) expanding a summer food service program for 
+        children.
+    ``(2) Payments received under this subsection shall be in addition 
+to payments to which State agencies are entitled under subsection (b) 
+and section 13 of the National School Lunch Act (42 U.S.C. 1761).
+    ``(3) To be eligible to receive a payment under this subsection, a 
+State educational agency shall submit to the Secretary a plan to 
+initiate or expand school breakfast programs conducted in the State, 
+including a description of the manner in which the agency will provide 
+technical assistance and funding to schools in the State to initiate or 
+expand the programs.
+    ``(4) In making payments under this subsection for any fiscal year 
+to initiate or expand school breakfast programs, the Secretary shall 
+provide a preference to State educational agencies that--
+        ``(A) have in effect a State law that requires the expansion of 
+    the programs during the year;
+        ``(B) have significant public or private resources that have 
+    been assembled to carry out the expansion of the programs during 
+    the year;
+        ``(C) do not have a school breakfast program available to a 
+    large number of low-income children in the State; or
+        ``(D) serve an unmet need among low-income children, as 
+    determined by the Secretary.
+    ``(5) In making payments under this subsection for any fiscal year 
+to initiate or expand summer food service programs for children, the 
+Secretary shall provide a preference to States--
+        ``(A)(i) in which the numbers of children participating in the 
+    summer food service program for children represent the lowest 
+    percentages of the number of children receiving free or reduced 
+    price meals under the school lunch program established under the 
+    National School Lunch Act (42 U.S.C. 1751 et seq.); or
+        ``(ii) that do not have a summer food service program for 
+    children available to a large number of low-income children in the 
+    State; and
+        ``(B) that submit to the Secretary a plan to expand the summer 
+    food service programs for children conducted in the State, 
+    including a description of--
+            ``(i) the manner in which the State will provide technical 
+        assistance and funding to service institutions in the State to 
+        expand the programs; and
+            ``(ii) significant public or private resources that have 
+        been assembled to carry out the expansion of the programs 
+        during the year.
+    ``(6) The Secretary shall act in a timely manner to recover and 
+reallocate to other States any amounts provided to a State educational 
+agency or State under this subsection that are not used by the agency 
+or State within a reasonable period (as determined by the Secretary).
+    ``(7) The Secretary shall allow States to apply on an annual basis 
+for assistance under this subsection.
+    ``(8) Each State agency and State, in allocating funds within the 
+State, shall give preference for assistance under this subsection to 
+eligible schools and service institutions that demonstrate the greatest 
+need for a school breakfast program or a summer food service program 
+for children, respectively.
+    ``(9) Expenditures of funds from State and local sources for the 
+maintenance of the school breakfast program and the summer food service 
+program for children shall not be diminished as a result of payments 
+received under this subsection.
+    ``(10) As used in this subsection:
+        ``(A) The term `eligible school' means a school--
+            ``(i) attended by children a significant percentage of whom 
+        are members of low-income families;
+            ``(ii)(I) as used with respect to a school breakfast 
+        program, that agrees to operate the school breakfast program 
+        established or expanded with the assistance provided under this 
+        subsection for a period of not less than 3 years; and
+            ``(II) as used with respect to a summer food service 
+        program for children, that agrees to operate the summer food 
+        service program for children established or expanded with the 
+        assistance provided under this subsection for a period of not 
+        less than 3 years.
+        ``(B) The term `service institution' means an institution or 
+    organization described in paragraph (1)(B) or (7) of section 13(a) 
+    of the National School Lunch Act (42 U.S.C. 1761(a)(1)(B) or (7)).
+        ``(C) The term `summer food service program for children' means 
+    a program authorized by section 13 of such Act (42 U.S.C. 1761).''.
+
+SEC. 202. STATE ADMINISTRATIVE EXPENSES.
+
+    (a) Withholding.--Section 7(a) of the Child Nutrition Act of 1966 
+(42 U.S.C. 1776(a)) is amended by adding at the end the following new 
+paragraph:
+    ``(9)(A) If the Secretary determines that the administration of any 
+program by a State under this Act (other than section 17) or under the 
+National School Lunch Act (42 U.S.C. 1751 et seq.), or compliance with 
+a regulation issued pursuant to either of such Acts, is seriously 
+deficient, and the State fails to correct the deficiency within a 
+specified period of time, the Secretary may withhold from the State 
+some or all of the funds allocated to the State under this section or 
+under section 13(k)(1) or 17 of the National School Lunch Act (42 
+U.S.C. 1761(k)(1) or 1766).
+    ``(B) On a subsequent determination by the Secretary that the 
+administration of any program referred to in subparagraph (A), or 
+compliance with the regulations issued to carry out the program, is no 
+longer seriously deficient and is operated in an acceptable manner, the 
+Secretary may allocate some or all of the funds withheld under such 
+subparagraph.''.
+    (b) Extension of Authority To Provide Funds for State 
+Administrative Expenses.--Section 7(h) of such Act (42 U.S.C. 1776(h)) 
+is amended by striking ``1994'' and inserting ``1998''.
+    (c) Prohibition of Funding Unless State Agrees To Participate in 
+Certain Studies or Surveys.--Section 7 of such Act (42 U.S.C. 1776) is 
+amended--
+        (1) by redesignating subsection (h) as subsection (i); and
+        (2) by inserting after subsection (g) the following new 
+    subsection:
+    ``(h) The Secretary may not provide amounts under this section to a 
+State for administrative costs incurred in any fiscal year unless the 
+State agrees to participate in any study or survey of programs 
+authorized under this Act or the National School Lunch Act (42 U.S.C. 
+1751 et seq.) and conducted by the Secretary.''.
+
+SEC. 203. COMPETITIVE FOODS OF MINIMAL NUTRITIONAL VALUE.
+
+    Section 10 of the Child Nutrition Act of 1966 (42 U.S.C. 1779) is 
+amended--
+        (1) by designating the first, second, and third sentences as 
+    subsections (a), (b), and (c), respectively;
+        (2) by indenting the margins of subsections (b) and (c) so as 
+    to align with the margins of subsection (b) of section 11 of such 
+    Act (42 U.S.C. 1780); and
+        (3) in subsection (b) (as designated by paragraph (1))--
+            (A) by striking ``Such regulations'' and inserting ``(1) 
+        The regulations''; and
+            (B) by adding at the end the following new paragraphs:
+    ``(2) The Secretary shall develop and provide to State agencies, 
+for distribution to private elementary schools and to public elementary 
+schools through local educational agencies, model language that bans 
+the sale of competitive foods of minimal nutritional value anywhere on 
+elementary school grounds before the end of the last lunch period.
+    ``(3) The Secretary shall provide to State agencies, for 
+distribution to private secondary schools and to public secondary 
+schools through local educational agencies, a copy of regulations (in 
+existence on the effective date of this paragraph) concerning the sale 
+of competitive foods of minimal nutritional value.
+    ``(4) Paragraphs (2) and (3) shall not apply to a State that has in 
+effect a ban on the sale of competitive foods of minimal nutritional 
+value in schools in the State.''.
+
+SEC. 204. SPECIAL SUPPLEMENTAL NUTRITION PROGRAM.
+
+    (a) Definition of Nutritional Risk.--Section 17(b)(8) of the Child 
+Nutrition Act of 1966 (42 U.S.C. 1786(b)(8)) is amended--
+        (1) by redesignating subparagraph (D) as subparagraph (E);
+        (2) by inserting after ``health,'' at the end of subparagraph 
+    (C) the following new subparagraph: ``(D) conditions that directly 
+    affect the nutritional health of a person, such as alcoholism or 
+    drug abuse,''; and
+        (3) in subparagraph (E) (as redesignated by paragraph (1)), by 
+    striking ``alcoholism and drug addiction, homelessness, and'' and 
+    inserting ``homelessness and''.
+    (b) Promotion of Program.--Section 17(c) of such Act (42 U.S.C. 
+1786(c)) is amended by adding at the end the following new paragraph:
+    ``(5) The Secretary shall promote the special supplemental 
+nutrition program by producing and distributing materials, including 
+television and radio public service announcements in English and other 
+appropriate languages, that inform potentially eligible individuals of 
+the benefits and services under the program.''.
+    (c) Eligibility for Certain Pregnant Women.--Section 17(d) of such 
+Act (42 U.S.C. 1786(d)) is amended--
+        (1) in paragraph (2), by adding at the end the following new 
+    subparagraph:
+    ``(C) In the case of a pregnant woman who is otherwise ineligible 
+for participation in the program because the family of the woman is of 
+insufficient size to meet the income eligibility standards of the 
+program, the pregnant woman shall be considered to have satisfied the 
+income eligibility standards if, by increasing the number of 
+individuals in the family of the woman by 1 individual, the income 
+eligibility standards would be met.''; and
+        (2) in paragraph (3)--
+            (A) by inserting ``(A)'' after ``(3)''; and
+            (B) by adding at the end the following new subparagraph:
+    ``(B) A State may consider pregnant women who meet the income 
+eligibility standards to be presumptively eligible to participate in 
+the program and may certify the women for participation immediately, 
+without delaying certification until an evaluation is made concerning 
+nutritional risk. A nutritional risk evaluation of such a woman shall 
+be completed not later than 60 days after the woman is certified for 
+participation. If it is subsequently determined that the woman does not 
+meet nutritional risk criteria, the certification of the woman shall 
+terminate on the date of the determination.''.
+    (d) Technical Corrections.--Section 17(e) of such Act (42 U.S.C. 
+1786(e)) is amended by redesignating paragraph (3) (as added by section 
+123(a)(3)(D) of the Child Nutrition and WIC Reauthorization Act of 1989 
+(Public Law 101-147; 103 Stat. 895)) and paragraphs (4) and (5) as 
+paragraphs (4), (5), and (6), respectively.
+    (e) Coordination of WIC and Medicaid Programs Using Coordinated 
+Care Providers.--Section 17(f)(1)(C)(iii) of such Act (42 U.S.C. 
+1786(f)(1)(C)(iii)) is amended by inserting before the semicolon at the 
+end the following: ``, including medicaid programs that use coordinated 
+care providers under a contract entered into under section 1903(m), or 
+a waiver granted under section 1915(b), of the Social Security Act (42 
+U.S.C. 1396b(m) or 1396n(b)) (including coordination through the 
+referral of potentially eligible women, infants, and children between 
+the program authorized under this section and the medicaid program)''.
+    (f) Priority Consideration for Certain Migrant Populations.--The 
+first sentence of section 17(f)(3) of such Act (42 U.S.C. 1786(f)(3)) 
+is amended by inserting before the period at the end the following: 
+``and shall ensure that local programs provide priority consideration 
+to serving migrant participants who are residing in the State for a 
+limited period of time''.
+    (g) Income Eligibility Guidelines.--Paragraph (18) of section 17(f) 
+of such Act (42 U.S.C. 1786(f)(18)) is amended to read as follows:
+    ``(18) Notwithstanding subsection (d)(2)(A)(i), not later than July 
+1 of each year, a State agency may implement income eligibility 
+guidelines under this section concurrently with the implementation of 
+income eligibility guidelines under the medicaid program established 
+under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).''.
+    (h) Use of Recovered Program Funds in Year Collected.--Section 
+17(f) of such Act (42 U.S.C. 1786(f)) is amended by adding at the end 
+the following new paragraph:
+    ``(23) A State agency may use funds recovered as a result of 
+violations in the food delivery system of the program in the year in 
+which the funds are collected for the purpose of carrying out the 
+program.''.
+    (i) Coordination Initiative for WIC and Medicaid Programs.--Section 
+17(f) of such Act (42 U.S.C. 1786(f)) (as amended by subsection (h)) is 
+further amended by adding at the end the following new paragraph:
+    ``(24) The Secretary and the Secretary of Health and Human Services 
+shall carry out an initiative to assure that, in a case in which a 
+State medicaid program uses coordinated care providers under a contract 
+entered into under section 1903(m), or a waiver granted under section 
+1915(b), of the Social Security Act (42 U.S.C. 1396b(m) or 1396n(b)), 
+coordination between the program authorized by this section and the 
+medicaid program is continued, including--
+        ``(A) the referral of potentially eligible women, infants, and 
+    children between the 2 programs; and
+        ``(B) the timely provision of medical information related to 
+    the program authorized by this section to agencies carrying out the 
+    program.''.
+    (j) Extension of Program.--Section 17 of such Act (42 U.S.C. 1786) 
+is amended--
+        (1) in the first sentence of subsection (g)(1), by striking 
+    ``1991, 1992, 1993, and 1994'' and inserting ``1995 through 1998''; 
+    and
+        (2) in the first sentence of subsection (h)(2)(A), by striking 
+    ``1990, 1991, 1992, 1993 and 1994'' and inserting ``1995 through 
+    1998''.
+    (k) Use of Funds for Technical Assistance and Research Evaluation 
+Projects.--Section 17(g)(5) of such Act (42 U.S.C. 1786(g)(5)) is 
+amended--
+        (1) by striking ``and administration of pilot projects'' and 
+    inserting ``administration of pilot projects''; and
+        (2) by inserting before the period at the end the following: 
+    ``, and carrying out technical assistance and research evaluation 
+    projects of the programs under this section''.
+    (l) Breastfeeding Promotion and Support Activities.--Section 
+17(h)(3) of such Act (42 U.S.C. 1786(h)(3)) is amended--
+        (1) in subparagraph (A)(i)(II)--
+            (A) by striking ``an amount'' and inserting ``except as 
+        otherwise provided in subparagraphs (F) and (G), an amount''; 
+        and
+            (B) by striking ``$8,000,000,'' and inserting ``the 
+        national minimum breastfeeding promotion expenditure, as 
+        described in subparagraph (E),''; and
+        (2) by adding at the end the following new subparagraphs:
+    ``(E) In the case of fiscal year 1996 (except as provided in 
+subparagraph (G)) and each subsequent fiscal year, the national minimum 
+breastfeeding promotion expenditure means an amount that is--
+        ``(i) equal to $21 multiplied by the number of pregnant women 
+    and breastfeeding women participating in the program nationwide, 
+    based on the average number of pregnant women and breastfeeding 
+    women so participating during the last 3 months for which the 
+    Secretary has final data; and
+        ``(ii) adjusted for inflation on October 1, 1996, and each 
+    October 1 thereafter, in accordance with paragraph (1)(B)(ii).
+    ``(F) In the case of fiscal year 1995, a State shall pay, in lieu 
+of the expenditure required under subparagraph (A)(i)(II), an amount 
+that is equal to the lesser of--
+        ``(i) an amount that is more than the expenditure of the State 
+    for fiscal year 1994 on the activities described in subparagraph 
+    (A)(i); or
+        ``(ii) an amount that is equal to $21 multiplied by the number 
+    of pregnant women and breastfeeding women participating in the 
+    program in the State, based on the average number of pregnant women 
+    and breastfeeding women so participating during the last 3 months 
+    for which the Secretary has final data.
+    ``(G)(i) If the Secretary determines that a State agency is unable, 
+for reasons the Secretary considers to be appropriate, to make the 
+expenditure required under subparagraph (A)(i)(II) for fiscal year 
+1996, the Secretary may permit the State to make the required level of 
+expenditure not later than October 1, 1996.
+    ``(ii) In the case of fiscal year 1996, if the Secretary makes a 
+determination described in clause (i), a State shall pay, in lieu of 
+the expenditure required under subparagraph (A)(i)(II), an amount that 
+is equal to the lesser of--
+        ``(I) an amount that is more than the expenditure of the State 
+    for fiscal year 1995 on the activities described in subparagraph 
+    (A)(i); and
+        ``(II) an amount that is equal to $21 multiplied by the number 
+    of pregnant women and breastfeeding women participating in the 
+    program in the State, based on the average number of pregnant women 
+    and breastfeeding women so participating during the last 3 months 
+    for which the Secretary has final data.''.
+    (m) Development of Standards for the Collection of Breastfeeding 
+Data.--Section 17(h)(4) of such Act (42 U.S.C. 1786(h)(4)) is amended--
+        (1) by striking ``and'' at the end of subparagraph (C);
+        (2) by striking the period at the end of subparagraph (D) and 
+    inserting ``; and''; and
+        (3) by adding at the end the following new subparagraph:
+        ``(E) not later than 1 year after the date of enactment of this 
+    subparagraph, develop uniform requirements for the collection of 
+    data regarding the incidence and duration of breastfeeding among 
+    participants in the program and, on development of the uniform 
+    requirements, require each State agency to report the data for 
+    inclusion in the report to Congress described in subsection 
+    (d)(4).''.
+    (n) Submission of Information to Congress on Waivers With Respect 
+to Procurement of Infant Formula.--Section 17(h)(8)(D)(iii) of such Act 
+(42 U.S.C. 1786(h)(8)(D)(iii)) is amended by striking ``at 6-month 
+intervals'' and inserting ``on a timely basis''.
+    (o) Cost Containment.--
+        (1) In general.--Section 17(h)(8)(G) of such Act (42 U.S.C. 
+    1786(h)(8)(G)) is amended by adding at the end the following new 
+    clause:
+    ``(ix) Not later than September 30, 1996, the Secretary shall offer 
+to solicit bids on behalf of State agencies regarding cost containment 
+contracts to be entered into by infant cereal manufacturers and State 
+agencies. In carrying out this clause, the Secretary shall, to the 
+maximum extent feasible, follow the procedures prescribed in this 
+subparagraph regarding offers made by the Secretary with regard to 
+soliciting bids regarding infant formula cost containment contracts. 
+The Secretary may carry out this clause without issuing regulations.''.
+        (2) Repeal of termination of authority.--Section 209 of the WIC 
+    Infant Formula Procurement Act of 1992 (Public Law 102-512; 42 
+    U.S.C. 1786 note) is repealed.
+    (p) Prohibition on Interest Liability to Federal Government on 
+Rebate Funds.--Section 17(h)(8) of such Act (42 U.S.C. 1786(h)(8)) is 
+amended by adding at the end the following new subparagraph:
+    ``(L) A State shall not incur any interest liability to the Federal 
+Government on rebate funds for infant formula and other foods if all 
+interest earned by the State on the funds is used for program 
+purposes.''.
+    (q) Use of Universal Product Codes.--Section 17(h)(8) of such Act 
+(42 U.S.C. 1786(h)(8)) (as amended by subsection (p)) is further 
+amended by adding at the end the following new subparagraph:
+    ``(M)(i) The Secretary shall establish pilot projects in at least 1 
+State, with the consent of the State, to determine the feasibility and 
+cost of requiring States to carry out a system for using universal 
+product codes to assist retail food stores that are vendors under the 
+program in providing the type of infant formula that the participants 
+in the program are authorized to obtain. In carrying out the projects, 
+the Secretary shall determine whether the system reduces the incidence 
+of incorrect redemptions of low-iron formula or brands of infant 
+formula not authorized to be redeemed through the program, or both.
+    ``(ii) The Secretary shall provide a notification to the Committee 
+on Education and Labor of the House of Representatives and the 
+Committee on Agriculture, Nutrition, and Forestry of the Senate 
+regarding whether the system is feasible, is cost-effective, reduces 
+the incidence of incorrect redemptions described in clause (i), and 
+results in any additional costs to States.
+    ``(iii) The system shall not require a vendor under the program to 
+obtain special equipment and shall not be applicable to a vendor that 
+does not have equipment that can use universal product codes.''.
+    (r) Use of Unspent Nutrition Services and Administration Funds.--
+Section 17(h) of such Act (42 U.S.C. 1786(h)) is amended by adding at 
+the end the following new paragraph:
+    ``(10)(A) For each of fiscal years 1995 through 1998, the Secretary 
+shall use for the purposes specified in subparagraph (B), $10,000,000 
+or the amount of nutrition services and administration funds for the 
+prior fiscal year that has not been obligated, whichever is less.
+    ``(B) Funds under subparagraph (A) shall be used for--
+        ``(i) development of infrastructure for the program under this 
+    section, including management information systems;
+        ``(ii) special State projects of regional or national 
+    significance to improve the services of the program under this 
+    section; and
+        ``(iii) special breastfeeding support and promotion projects, 
+    including projects to assess the effectiveness of particular 
+    breastfeeding promotion strategies and to develop State or local 
+    agency capacity or facilities to provide quality breastfeeding 
+    services.''.
+    (s) Spendback Funds.--Section 17(i)(3) of such Act (42 U.S.C. 
+1786(i)(3)) is amended--
+        (1) in subparagraph (A)(i), by inserting ``(except as provided 
+    in subparagraph (H))'' after ``1 percent''; and
+        (2) by adding at the end the following new subparagraph:
+    ``(H) The Secretary may authorize a State agency to expend not more 
+than 3 percent of the amount of funds allocated to a State under this 
+section for supplemental foods for a fiscal year for expenses incurred 
+under this section for supplemental foods during the preceding fiscal 
+year, if the Secretary determines that there has been a significant 
+reduction in infant formula cost containment savings provided to the 
+State agency that would affect the ability of the State agency to at 
+least maintain the level of participation by eligible participants 
+served by the State agency.''.
+    (t) Elimination of Duplicative Migrant Reports.--Section 17 of such 
+Act (42 U.S.C. 1786) is amended--
+        (1) in subsection (d)(4), by inserting after ``Congress'' the 
+    following: ``and the National Advisory Council on Maternal, Infant, 
+    and Fetal Nutrition established under subsection (k)''; and
+        (2) by striking subsection (j).
+    (u) Initiative To Provide Program Services at Community and Migrant 
+Health Centers.--Section 17 of such Act (42 U.S.C. 1786) (as amended by 
+subsection (t)(2)) is further amended by inserting after subsection (i) 
+the following new subsection:
+    ``(j)(1) The Secretary and the Secretary of Health and Human 
+Services (referred to in this subsection as the `Secretaries') shall 
+jointly establish and carry out an initiative for the purpose of 
+providing both supplemental foods and nutrition education under the 
+special supplemental nutrition program and health care services to low-
+income pregnant, postpartum, and breastfeeding women, infants, and 
+children at substantially more community health centers and migrant 
+health centers.
+    ``(2) The initiative shall also include--
+        ``(A) activities to improve the coordination of the provision 
+    of supplemental foods and nutrition education under the special 
+    supplemental nutrition program and health care services at 
+    facilities funded by the Indian Health Service; and
+        ``(B) the development and implementation of strategies to 
+    ensure that, to the maximum extent feasible, new community health 
+    centers, migrant health centers, and other federally supported 
+    health care facilities established in medically underserved areas 
+    provide supplemental foods and nutrition education under the 
+    special supplemental nutrition program.
+    ``(3) The initiative may include--
+        ``(A) outreach and technical assistance for State and local 
+    agencies and the facilities described in paragraph (2)(A) and the 
+    health centers and facilities described in paragraph (2)(B);
+        ``(B) demonstration projects in selected State or local areas; 
+    and
+        ``(C) such other activities as the Secretaries find are 
+    appropriate.
+    ``(4)(A) Not later than April 1, 1995, the Secretaries shall 
+provide to Congress a notification concerning the actions the 
+Secretaries intend to take to carry out the initiative.
+    ``(B) Not later than July 1, 1996, the Secretaries shall provide to 
+Congress a notification concerning the actions the Secretaries are 
+taking under the initiative or actions the Secretaries intend to take 
+under the initiative as a result of their experience in implementing 
+the initiative.
+    ``(C) On completion of the initiative, the Secretaries shall 
+provide to Congress a notification concerning an evaluation of the 
+initiative by the Secretaries and a plan of the Secretaries to further 
+the goals of the initiative.
+    ``(5) As used in this subsection:
+        ``(A) The term `community health center' has the meaning given 
+    the term in section 330(a) of the Public Health Service Act (42 
+    U.S.C. 254c(a)).
+        ``(B) The term `migrant health center' has the meaning given 
+    the term in section 329(a)(1) of such Act (42 U.S.C. 
+    254b(a)(1)).''.
+    (v) Expansion of Farmers' Market Nutrition Program.--
+        (1) Matching requirement for indian state agencies.--Section 
+    17(m)(3) of such Act (42 U.S.C. 1786(m)(3)) is amended by adding at 
+    the end the following new sentence: ``The Secretary may negotiate 
+    with an Indian State agency a lower percentage of matching funds 
+    than is required under the preceding sentence, but not lower than 
+    10 percent of the total cost of the program, if the Indian State 
+    agency demonstrates to the Secretary financial hardship for the 
+    affected Indian tribe, band, group, or council.''.
+        (2) Expansion.--Section 17(m)(5)(F) of such Act (42 U.S.C. 
+    1786(m)(5)(F)) is amended--
+            (A) in clause (i), by striking ``15 percent'' and inserting 
+        ``17 percent'';
+            (B) by striking clause (ii) and inserting the following new 
+        clause:
+        ``(ii) During any fiscal year for which a State receives 
+    assistance under this subsection, the Secretary shall permit the 
+    State to use not more than 2 percent of total program funds for 
+    market development or technical assistance to farmers' markets if 
+    the Secretary determines that the State intends to promote the 
+    development of farmers' markets in socially or economically 
+    disadvantaged areas, or remote rural areas, where individuals 
+    eligible for participation in the program have limited access to 
+    locally grown fruits and vegetables.''; and
+            (C) in clause (iii), strike ``for the administration of the 
+        program''.
+        (3) Continued funding for certain states under farmers' market 
+    nutrition program.--Subparagraph (A) of section 17(m)(6) of such 
+    Act (42 U.S.C. 1786(m)(6)(A)) is amended to read as follows:
+    ``(A) The Secretary shall give the same preference for funding 
+under this subsection to eligible States that participated in the 
+program under this subsection in a prior fiscal year as to States that 
+participated in the program in the most recent fiscal year. The 
+Secretary shall inform each State of the award of funds as prescribed 
+by subparagraph (G) by February 15 of each year.''.
+        (4) Funding reduction floor.--Section 17(m)(6)(B)(ii) of such 
+    Act (42 U.S.C. 1786(m)(6)(B)(ii)) is amended by striking 
+    ``$50,000'' each place it appears and inserting ``$75,000''.
+        (5) State plan submission date.--Section 17(m)(6)(D)(i) of such 
+    Act (42 U.S.C. 1786(m)(6)(D)(i)) is amended by striking ``at such 
+    time and in such manner as the Secretary may reasonably require'' 
+    and inserting ``by November 15 of each year''.
+        (6) Percentage of annual appropriations available to states 
+    under farmers' market nutrition program.--Section 17(m)(6)(G) of 
+    such Act (42 U.S.C. 1786(m)(6)(G)) is amended--
+            (A) in the first sentence of clause (i), by striking ``45 
+        to 55 percent'' and inserting ``75 percent''; and
+            (B) in the first sentence of clause (ii), by striking ``45 
+        to 55 percent'' and inserting ``25 percent''.
+        (7) Data collection requirements.--Section 17(m)(8) of such Act 
+    (42 U.S.C. 1786(m)(8)) is amended by striking subparagraphs (D) and 
+    (E) and inserting the following new subparagraphs:
+        ``(D) the change in consumption of fresh fruits and vegetables 
+    by recipients, if the information is available;
+        ``(E) the effects of the program on farmers' markets, if the 
+    information is available; and''.
+        (8) Extension of coupon program.--Section 17(m)(10)(A) of such 
+    Act (42 U.S.C. 1786(m)(10)(A)) is amended--
+            (A) by striking ``$3,000,000 for fiscal year 1992, 
+        $6,500,000 for fiscal year 1993, and''; and
+            (B) by inserting before the period at the end ``, 
+        $10,500,000 for fiscal year 1995, and such sums as may be 
+        necessary for each of fiscal years 1996 through 1998''.
+        (9) Elimination of funding carryover provision under farmers' 
+    market nutrition program.--Section 17(m)(10)(B)(i) of such Act (42 
+    U.S.C. 1786(m)(10)(B)(i)) is amended--
+            (A) in subclause (I), by striking ``Except as provided in 
+        subclause (II), each'' and inserting ``Each''; and
+            (B) in subclause (II), by striking ``or may be retained'' 
+        and all that follows and inserting a period.
+        (10) Elimination of reallocation of unexpended funds with 
+    respect to demonstration projects under farmers' market nutrition 
+    program.--Section 17(m)(10)(B)(ii) of such Act (42 U.S.C. 
+    1786(m)(10)(B)(ii)) is amended by striking the second sentence.
+        (11) Definition.--Section 17(m)(11)(D) of such Act (42 U.S.C. 
+    1786(m)(11)(D)) is amended by inserting before the period at the 
+    end the following: ``and any other agency approved by the chief 
+    executive officer of the State''.
+        (12) Promotion by the secretary.--The Secretary of Agriculture 
+    shall promote the use of farmers' markets by recipients of Federal 
+    nutrition programs administered by the Secretary.
+    (w) Change in Name of Program.--
+        (1) In general.--Section 17 of such Act (42 U.S.C. 1786) is 
+    amended--
+            (A) by striking the section heading and inserting the 
+        following new section heading:
+
+
+    ``special supplemental nutrition program for women, infants, and 
+                              children'';
+
+            (B) in the first sentence of subsection (c)(1), by striking 
+        ``special supplemental food program'' and inserting ``special 
+        supplemental nutrition program'';
+            (C) in the second sentence of subsection (k)(1), by 
+        striking ``special supplemental food program'' each place it 
+        appears and inserting ``special supplemental nutrition 
+        program''; and
+            (D) in subsection (o)(1)(B), by striking ``special 
+        supplemental food program'' and inserting ``special 
+        supplemental nutrition program''.
+        (2) Conforming amendments.--
+            (A) The second sentence of section 9(c) of the Food Stamp 
+        Act of 1977 (7 U.S.C. 2018(c)) is amended by striking ``special 
+        supplemental food program'' and inserting ``special 
+        supplemental nutrition program''.
+            (B) Section 685(b)(8) of the Individuals with Disabilities 
+        Education Act (20 U.S.C. 1484a(b)(8)) is amended by striking 
+        ``Special Supplemental Food Program for Women, Infants and 
+        Children'' and inserting ``special supplemental nutrition 
+        program for women, infants, and children''.
+            (C) Section 3803(c)(2)(C)(x) of title 31, United States 
+        Code, is amended by striking ``special supplemental food 
+        program'' and inserting ``special supplemental nutrition 
+        program''.
+            (D) Section 399(b)(6) of the Public Health Service Act (42 
+        U.S.C. 280c-6(b)(6)) is amended by striking ``special 
+        supplemental food program'' and inserting ``special 
+        supplemental nutrition program''.
+            (E) Paragraphs (11)(C) and (53)(A) of section 1902(a) of 
+        the Social Security Act (42 U.S.C. 1396a(a)) are each amended 
+        by striking ``special supplemental food program'' and inserting 
+        ``special supplemental nutrition program''.
+            (F) Section 202(b) of the WIC Infant Formula Procurement 
+        Act of 1992 (Public Law 102-512; 42 U.S.C. 1786 note) is 
+        amended by striking ``special supplemental food program'' and 
+        inserting ``special supplemental nutrition program''.
+        (3) References.--Any reference to the special supplemental food 
+    program established under section 17 of the Child Nutrition Act of 
+    1966 (42 U.S.C. 1786) in any provision of law, regulation, 
+    document, record, or other paper of the United States shall be 
+    considered to be a reference to the special supplemental nutrition 
+    program established under such section.
+
+SEC. 205. NUTRITION EDUCATION AND TRAINING PROGRAM.
+
+    (a) Name of Program.--Section 19 of the Child Nutrition Act of 1966 
+(42 U.S.C. 1788) is amended by striking ``information and education'' 
+each place it appears in subsections (b), (c), (d)(1), (f)(1)(G), and 
+(j)(1) and inserting ``education and training''.
+    (b) Nutrition Education Programs.--The second sentence of section 
+19(c) of such Act (42 U.S.C. 1788(c)) is amended--
+        (1) in subparagraph (B), by striking ``school food service'' 
+    and inserting ``child nutrition program'';
+        (2) by striking ``and'' at the end of subparagraph (C); and
+        (3) by inserting before the period at the end the following: 
+    ``; and (E) providing information to parents and caregivers 
+    regarding the nutritional value of food and the relationship 
+    between food and health''.
+    (c) Nutrition Education and Training.--Section 19(d) of such Act 
+(42 U.S.C. 1788(d)) is amended--
+        (1) in paragraph (1)(C), by inserting before the period at the 
+    end the following: ``, and the provision of nutrition education to 
+    parents and caregivers'';
+        (2) in the first sentence of paragraph (4), by striking 
+    ``educational and school food service personnel'' and inserting 
+    ``educational, school food service, child care, and summer food 
+    service personnel''; and
+        (3) in the first sentence of paragraph (5), by inserting after 
+    ``schools'' the following: ``, and in child care institutions and 
+    summer food service institutions,''.
+    (d) Use of Funds.--Section 19(f)(1) of such Act (42 U.S.C. 
+1788(f)(1)) is amended--
+        (1) by striking ``(f)(1) The funds'' and inserting ``(f)(1)(A) 
+    The funds'';
+        (2) by striking ``for (A) employing'' and inserting ``for--
+        ``(i) employing'';
+        (3) by redesignating subparagraphs (B) through (I) as clauses 
+    (ii) through (ix), respectively;
+        (4) by indenting the margins of each of clauses (ii) through 
+    (ix) (as redesignated by paragraph (3)) so as to align with the 
+    margins of clause (i) (as amended by paragraph (2));
+        (5) by striking ``and'' at the end of clause (viii);
+        (6) by redesignating clause (ix) as clause (xx);
+        (7) by inserting after clause (viii) the following new clauses:
+        ``(ix) providing funding for a nutrition component that can be 
+    offered in consumer and homemaking education programs as well as in 
+    the health education curriculum offered to children in kindergarten 
+    through grade 12;
+        ``(x) instructing teachers, school administrators, or other 
+    school staff on how to promote better nutritional health and to 
+    motivate children from a variety of linguistic and cultural 
+    backgrounds to practice sound eating habits;
+        ``(xi) developing means of providing nutrition education in 
+    language appropriate materials to children and families of children 
+    through after-school programs;
+        ``(xii) training in relation to healthy and nutritious meals;
+        ``(xiii) creating instructional programming, including language 
+    appropriate materials and programming, for teachers, school food 
+    service personnel, and parents on the relationships between 
+    nutrition and health and the role of the Food Guide Pyramid 
+    established by the Secretary;
+        ``(xiv) funding aspects of the Strategic Plan for Nutrition and 
+    Education issued by the Secretary;
+        ``(xv) encouraging public service advertisements, including 
+    language appropriate materials and advertisements, to promote 
+    healthy eating habits for children;
+        ``(xvi) coordinating and promoting nutrition education and 
+    training activities in local school districts (incorporating, to 
+    the maximum extent practicable, as a learning laboratory, child 
+    nutrition programs);
+        ``(xvii) contracting with public and private nonprofit 
+    educational institutions for the conduct of nutrition education 
+    instruction and programs relating to the purpose of this section;
+        ``(xviii) increasing public awareness of the importance of 
+    breakfasts for providing the energy necessary for the cognitive 
+    development of school-age children;
+        ``(xix) coordinating and promoting nutrition education and 
+    training activities carried out under child nutrition programs, 
+    including the summer food service program for children established 
+    under section 13 of the National School Lunch Act (42 U.S.C. 1761) 
+    and the child and adult care food program established under section 
+    17 of such Act (42 U.S.C. 1766); and''; and
+        (8) by adding at the end the following new subparagraph:
+    ``(B) As used in this paragraph, the term `language appropriate' 
+used with respect to materials, programming, or advertisements means 
+materials, programming, or advertisements, respectively, using a 
+language other than the English language in a case in which the 
+language is dominant for a large percentage of individuals 
+participating in the program.''.
+    (e) Administrative Purposes.--Section 19(f) of such Act (42 U.S.C. 
+1788(f)) is amended by striking paragraph (3) and inserting the 
+following new paragraph:
+    ``(3) A State agency may use an amount equal to not more than 15 
+percent of the funds made available through a grant under this section 
+for expenditures for administrative purposes in connection with the 
+program authorized under this section if the State makes available at 
+least an equal amount for administrative or program purposes in 
+connection with the program.''.
+    (f) State Coordinators for Nutrition; State Plan.--Section 19(h) of 
+such Act (42 U.S.C. 1788(h)) is amended--
+        (1) in the first sentence of paragraph (2), by inserting ``and 
+    training'' after ``education''; and
+        (2) in the third sentence of paragraph (3)--
+            (A) by striking ``and'' at the end of subparagraph (D); and
+            (B) by inserting before the period at the end the 
+        following: ``; and (F) a comprehensive plan for providing 
+        nutrition education during the first fiscal year beginning 
+        after the submission of the plan and the succeeding 4 fiscal 
+        years''.
+    (g) Authorization of Appropriations.--Section 19(i)(2)(A) of such 
+Act (42 U.S.C. 1788(i)(2)(A)) is amended to read as follows:
+    ``(A) Out of any moneys in the Treasury not otherwise appropriated, 
+and in addition to any amounts otherwise made available for fiscal year 
+1995, the Secretary of the Treasury shall provide to the Secretary 
+$1,000 for fiscal year 1995 and $10,000,000 for fiscal year 1996 and 
+each succeeding fiscal year for making grants under this section to 
+each State for the conduct of nutrition education and training 
+programs. The Secretary shall be entitled to receive the funds and 
+shall accept the funds.''.
+    (h) Availability of Funds.--Section 19(i) of such Act (42 U.S.C. 
+1788(i)) is amended--
+        (1) by redesignating paragraph (3) as paragraph (4); and
+        (2) by inserting after paragraph (2) the following new 
+    paragraph:
+    ``(3) Funds made available to any State under this section shall 
+remain available to the State for obligation in the fiscal year 
+succeeding the fiscal year in which the funds were received by the 
+State.''.
+
+                  TITLE III--MISCELLANEOUS PROVISIONS
+
+SEC. 301. CONSOLIDATION OF SCHOOL LUNCH PROGRAM AND SCHOOL BREAKFAST 
+              PROGRAM INTO COMPREHENSIVE MEAL PROGRAM.
+
+    (a) In General.--Notwithstanding any provision of National School 
+Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 
+(42 U.S.C. 1771 et seq.), except as otherwise provided in this section, 
+the Secretary of Agriculture shall, not later than 18 months after the 
+date of enactment of this Act, develop and implement regulations to 
+consolidate the school lunch program under the National School Lunch 
+Act (42 U.S.C. 1751 et seq.) and the school breakfast program under 
+section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a 
+comprehensive meal program.
+    (b) Requirements.--In establishing the comprehensive meal program 
+under subsection (a), the Secretary shall meet the following 
+requirements:
+        (1) The Secretary shall ensure that the program continues to 
+    serve children who are eligible for free and reduced price meals. 
+    The meals shall meet the nutritional requirements of section 
+    9(a)(1) of the National School Lunch Act (42 U.S.C. 1758(a)(1)) and 
+    section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 
+    1773(e)(1)).
+        (2) The Secretary shall continue to make breakfast assistance 
+    payments in accordance with section 4 of the Child Nutrition Act of 
+    1966 (42 U.S.C. 1773) and food assistance payments in accordance 
+    with the National School Lunch Act (42 U.S.C. 1751 et seq.).
+        (3) The Secretary may not consolidate any aspect of the school 
+    lunch program or the school breakfast program with respect to any 
+    matter described in any of subparagraphs (A) through (N) of section 
+    12(l)(4) of the National School Lunch Act (42 U.S.C. 1760(l)(4)).
+    (c) Plan and Recommendations.--
+        (1) Plan for consolidation and simplification.--Not later than 
+    180 days prior to implementing the regulations described in 
+    subsection (a), the Secretary shall prepare and submit to the 
+    Committee on Education and Labor of the House of Representatives 
+    and the Committee on Agriculture, Nutrition, and Forestry of the 
+    Senate a plan for the consolidation and simplification of the 
+    school lunch program and the school breakfast program.
+        (2) Recommendations with respect to change in payment 
+    amounts.--If the Secretary proposes to change the amount of the 
+    breakfast assistance payment or the food assistance payment under 
+    the comprehensive meal program, the Secretary shall not include the 
+    change in the consolidation and shall prepare and submit to the 
+    Committee on Education and Labor, and the Committee on Agriculture, 
+    of the House of Representatives and the Committee on Agriculture, 
+    Nutrition, and Forestry of the Senate recommendations for 
+    legislation to effect the change.
+
+SEC. 302. STUDY AND REPORT RELATING TO USE OF PRIVATE FOOD 
+              ESTABLISHMENTS AND CATERERS UNDER SCHOOL LUNCH PROGRAM 
+              AND SCHOOL BREAKFAST PROGRAM.
+
+    (a) Study.--The Comptroller General of the United States, in 
+conjunction with the Director of the Office of Technology Assessment, 
+shall conduct a study on the use of private food establishments and 
+caterers by schools that participate in the school lunch program under 
+the National School Lunch Act (42 U.S.C. 1751 et seq.) or the school 
+breakfast program under section 4 of the Child Nutrition Act of 1966 
+(42 U.S.C. 1773). In conducting the study, the Comptroller General of 
+the United States shall--
+        (1) examine the extent to which, manner in which, and terms 
+    under which the private food establishments and caterers supply 
+    meals and food to students and schools that participate in the 
+    school lunch program or the school breakfast program;
+        (2) determine the nutritional profile of all foods provided to 
+    students during school hours;
+        (3) evaluate the impact that the services provided by the 
+    establishments and caterers have on local child nutrition programs 
+    and the ability of the establishments and caterers to utilize the 
+    commodities under section 14 of the National School Lunch Act (42 
+    U.S.C. 1762a); and
+        (4) examine the impact that private food establishments and 
+    caterers have on--
+            (A) student participation in the national school lunch 
+        program;
+            (B) school food service employment;
+            (C) generation of revenues through school lunch sales and a 
+        la carte sales of food in schools; and
+            (D) the number of students leaving schools during lunch 
+        periods.
+    (b) Report.--Not later than September 1, 1996, the Comptroller 
+General of the United States shall submit to the Committee on Education 
+and Labor, and the Committee on Agriculture, of the House of 
+Representatives and the Committee on Agriculture, Nutrition, and 
+Forestry of the Senate a report that contains the findings, 
+determinations, and evaluations of the study conducted pursuant to 
+subsection (a).
+
+SEC. 303. AMENDMENT TO COMMODITY DISTRIBUTION REFORM ACT AND WIC 
+              AMENDMENTS OF 1987.
+
+    Section 3(h)(3) of the Commodity Distribution Reform Act and WIC 
+Amendments of 1987 (Public Law 100-237; 7 U.S.C. 612c note) is 
+amended--
+        (1) by striking ``Hawaii,''; and
+        (2) by adding at the end the following new sentence: ``The 
+    requirement established in paragraph (1) shall apply to recipient 
+    agencies in Hawaii only with respect to the purchase of 
+    pineapples.''.
+
+SEC. 304. STUDY OF THE EFFECT OF COMBINING FEDERALLY DONATED AND 
+              FEDERALLY INSPECTED MEAT OR POULTRY.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study on the incidence and the effect of States restricting 
+or prohibiting a legally contracted commercial entity from physically 
+combining federally donated and inspected meat or poultry from another 
+State.
+    (b) Report.--Not later than September 1, 1996, the Comptroller 
+General of the United States shall submit to the Committee on Education 
+and Labor and the Committee on Agriculture of the House of 
+Representatives and the Committee on Agriculture, Nutrition, and 
+Forestry of the Senate a report that describes the findings, 
+determinations, and evaluations of the study conducted pursuant to 
+subsection (a).
+
+                        TITLE IV--EFFECTIVE DATE
+
+SEC. 401. EFFECTIVE DATE.
+
+    Except as otherwise provided in this Act, this Act and the 
+amendments made by this Act shall become effective on October 1, 1994.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

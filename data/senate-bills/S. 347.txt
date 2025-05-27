@@ -1,0 +1,1293 @@
+--S.347--
+S.347
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Defense Production Act of 1950 to revitalize the defense
+industrial
+base of the United States, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Defense Production Act
+  Amendments of 1992'.
+  (b) Table of Contents-
+Section 1. Short title; table of contents.
+TITLE I--AMENDMENTS TO THE DEFENSE PRODUCTION ACT OF 1950
+Part A--Declaration of Policy
+Sec. 101. Declaration of policy.
+Part B--Amendments to Title I of the Defense Production Act
+Sec. 111. Strengthening of domestic capability and assistance for small
+businesses.
+Sec. 112. Limitation on actions without congressional authorization.
+Part C--Amendments to Title III of the Defense Production Act
+Sec. 121. Expanding the reach of existing authorities under title III.
+Sec. 122. Defense Production Act Fund.
+Sec. 123. Declaration of offset policy.
+Sec. 124. Annual report on impact of offsets.
+Sec. 125. Civil-military integration.
+Sec. 126. Testing, qualification, and use of industrial resources developed
+under title III projects.
+Part D--Amendments to Title VII of the Defense Production Act
+Sec. 131. Small business.
+Sec. 132. Definitions.
+Sec. 133. Appointment of personnel.
+Sec. 134. Regulations and orders.
+Sec. 135. Information on the defense industrial base.
+Sec. 136. Public participation in rulemaking.
+Part E--Technical Amendments
+Sec. 141. Technical correction.
+Sec. 142. Investigations; records; reports; subpoenas.
+Sec. 143. Employment of personnel.
+Sec. 144. Technical correction.
+Part F--Repealers and Conforming Amendments
+Sec. 151. Synthetic fuel action.
+Sec. 152. Repeal of interest payment provisions.
+Sec. 153. Joint Committee on Defense Production.
+Sec. 154. Persons disqualified for employment.
+Sec. 155. Feasibility study on uniform cost accounting standards; report
+submitted.
+Sec. 156. National commission on supplies and shortages.
+Part G--Reauthorization of Selected Provisions
+Sec. 161. Authorization of appropriations.
+Sec. 162. Extension of program.
+Sec. 163. Presidential study.
+TITLE II--ADDITIONAL PROVISIONS TO IMPROVE INDUSTRIAL PREPAREDNESS
+Sec. 201. Discouraging unfair trade practices.
+Sec. 202. Fraudulent use of `Made in America' labels.
+Sec. 203. Evaluation of domestic defense industrial base policy.
+TITLE III--MISCELLANEOUS PROVISIONS
+Sec. 301. Energy security.
+Sec. 302. Domestic retail deposit-taking by foreign banks.
+Sec. 303. Deposit insurance assessment rates for lifeline account deposits.
+Sec. 304. Effective date.
+Sec. 305. Provisional repeal of duplicative provisions.
+TITLE I--AMENDMENTS TO THE DEFENSE PRODUCTION ACT OF 1950
+PART A--DECLARATION OF POLICY
+SEC. 101. DECLARATION OF POLICY.
+  Section 2 of the Defense Production Act of 1950 (50 U.S.C. App. 2062)
+  is amended to read as follows:
+`SEC. 2. DECLARATION OF POLICY.
+  `(a) FINDINGS- The Congress finds that--
+  `(1) the vitality of the industrial and technology base of the United
+  States is a foundation of national security that provides the industrial and
+  technological capabilities employed to meet national defense requirements,
+  in peacetime and in time of national emergency;
+  `(2) in peacetime, the health of the industrial and technological base
+  contributes to the technological superiority of United States defense
+  equipment, which is a cornerstone of the national security strategy,
+  and the efficiency with which defense equipment is developed and produced;
+  `(3) in times of crisis, a healthy industrial base will be able to
+  effectively provide the graduated response needed to effectively meet the
+  demands of the emergency;
+  `(4) in view of continuing international problems, the Nation's demonstrated
+  reliance on imports of materials and components, and the need for measures to
+  reduce defense production lead times and bottlenecks, and in order to provide
+  for the national defense and national security, the United States defense
+  mobilization preparedness effort continues to require the development of--
+  `(A) preparedness programs;
+  `(B) domestic defense industrial base improvement measures;
+  `(C) provisions for a graduated response to any threatening international
+  or military situation;
+  `(D) the expansion of domestic productive capacity beyond the levels needed
+  to meet the civilian demand; and
+  `(E) some diversion of certain materials and facilities from civilian use
+  to military and related purposes.
+  `(5) to meet the requirements referred to in this subsection, this
+  Act affords to the President an array of authorities to shape defense
+  preparedness programs and to take appropriate steps to maintain and enhance
+  the defense industrial and technological base;
+  `(6) the activities referred to in this subsection are needed in order to--
+  `(A) improve domestic defense industrial base efficiency and responsiveness;
+  `(B) reduce the time required for industrial mobilization in the event of
+  an attack on the United States; or
+  `(C) to respond to actions occurring outside of the United States which
+  could result in the termination or reduction of the availability of strategic
+  and critical materials, including energy, and which could adversely affect
+  the national defense preparedness of the United States;
+  `(7) in order to ensure national defense preparedness, which is essential to
+  national security, it is necessary and appropriate to assure the availability
+  of domestic energy supplies for national defense needs;
+  `(8) to further assure the adequate maintenance of the defense industrial
+  base, to the maximum extent possible, such supplies should be augmented
+  through reliance on renewable fuels, including solar, geothermal, and wind
+  energy and ethanol and its derivatives, and on energy conservation measures;
+  `(9) the domestic defense industrial base is a component part of the core
+  industrial capacity of the Nation;
+  `(10) much of the industrial capacity which is relied upon by the Federal
+  Government for military production and other defense-related purposes is
+  deeply and directly influenced by--
+  `(A) the overall competitiveness of the United States industrial economy; and
+  `(B) the ability of United States industry, in general, to produce
+  internationally competitive products and operate profitably while maintaining
+  adequate research and development to preserve that competitive edge in
+  the future, with respect to military and civilian production;
+  `(11) the domestic defense industrial base is developing a growing
+  dependency on foreign sources for critical components and materials used in
+  manufacturing and assembling major weapons systems for the national defense;
+  `(12) such dependence is threatening the capability of many critical
+  industries to respond rapidly to defense production needs in the event of
+  war or other hostilities or diplomatic confrontation; and
+  `(13) the inability of United States industry, especially smaller
+  subcontractors and suppliers, to provide vital parts and components and
+  other materials would impair our ability to sustain United States Armed
+  Forces in combat for longer than a short period.
+  `(b) STATEMENT OF POLICY- It is the policy of the United States that--
+  `(1) in order to ensure productive capacity in the event of an attack
+  on the United States, the United States should encourage the geographic
+  dispersal of industrial facilities in the United States to discourage
+  the concentration of such productive facilities within limited geographic
+  areas which are vulnerable to attack by an enemy of the United States;
+  `(2) to ensure that essential mobilization requirements are met,
+  consideration should also be given to stockpiling strategic materials to
+  the extent that such stockpiling is economical and feasible;
+  `(3) in the construction of any Government-owned industrial facility, in
+  the rendition of any Government financial assistance for the construction,
+  expansion, or improvement of any industrial facility, and in the production
+  of goods and services, under this or any other Act, each department and
+  agency of the executive branch should apply, under the coordination of the
+  Federal Emergency Management Agency, when practicable and consistent with
+  existing law and the desirability for maintaining a sound economy, the
+  principle of the geographic dispersal of such facilities in the interest
+  of national defense, except that nothing in this paragraph shall preclude
+  the use of existing industrial facilities;
+  `(4) to ensure the adequacy of productive capacity and supply, executive
+  agencies and departments responsible for defense acquisition should
+  continuously assess the capability of the domestic defense industrial
+  base to satisfy peacetime requirements as well as increased mobilization
+  production requirements, specifically evaluating the availability of
+  adequate production sources, including subcontractors and suppliers,
+  materials, skilled labor, and professional and technical personnel;
+  `(5) every effort should be made to foster cooperation between the defense
+  and commercial sectors for research and development and for acquisition
+  of materials, components, and equipment; and
+  `(6) plans and programs to carry out this section shall be undertaken with
+  due consideration for promoting efficiency and competition.'.
+PART B--AMENDMENTS TO TITLE I OF THE DEFENSE PRODUCTION ACT
+SEC. 111. STRENGTHENING OF DOMESTIC CAPABILITY AND ASSISTANCE FOR SMALL
+BUSINESSES.
+  Title I of the Defense Production Act of 1950 (50 U.S.C. App. 2071, et
+  seq.) is amended by adding at the end the following new sections:
+`SEC. 107. STRENGTHENING DOMESTIC CAPABILITY.
+  `(a) IN GENERAL- Utilizing the authority of title III of this Act or any
+  other provision of law, the President may provide appropriate incentives
+  to develop, maintain, modernize, and expand the productive capacities of
+  domestic sources for critical components, critical technology items, and
+  industrial resources essential for the execution of the national security
+  strategy of the United States.
+  `(b) CRITICAL COMPONENTS AND CRITICAL TECHNOLOGY ITEMS-
+  `(1) IDENTIFICATION-
+  `(A) IN GENERAL- The President, acting through the Secretary of Defense,
+  shall identify critical components and critical technology items for each
+  item on the Critical Items List of the Commanders-in-Chief of the Unified
+  and Specified Commands and other items within the inventory of weapon
+  systems and defense equipment.
+  `(B) DEFINITION- Any component identified as critical by a National Security
+  Assessment conducted pursuant to section 113(i) of title 10, United States
+  Code, or by a Presidential determination as a result of a petition filed
+  under section 232 of the Trade Expansion Act of 1962 shall be designated
+  as a critical component for purposes of this Act, unless the President
+  determines that the designation is unwarranted.
+  `(2) MAINTENANCE OF RELIABLE SOURCES OF SUPPLY- The President shall
+  take appropriate actions to assure that critical components or critical
+  technology items are available from reliable sources when needed to meet
+  defense requirements during peacetime, graduated mobilization, and national
+  emergency.
+  `(3) APPROPRIATE ACTION- For purposes of this subsection, appropriate
+  action may include--
+  `(A) restricting contract solicitations to reliable sources;
+  `(B) restricting contract solicitations to domestic sources pursuant to--
+  `(i) section 2304(b)(1)(B) or section 2304(c)(3) of title 10, United
+  States Code;
+  `(ii) section 303(b)(1)(B) or section 303(c)(3) of the Federal Property
+  and Administrative Services Act of 1949; or
+  `(iii) other statutory authority;
+  `(C) stockpiling critical components; and
+  `(D) developing substitutes for a critical component or a critical
+  technology item.
+`SEC. 108. MODERNIZATION OF SMALL BUSINESS SUPPLIERS.
+  `(a) IN GENERAL- In providing any assistance under this Act, the President
+  shall accord a strong preference for small business concerns which are
+  subcontractors or suppliers, and, to the maximum extent practicable,
+  to such small business concerns located in areas of high unemployment or
+  areas that have demonstrated a continuing pattern of economic decline,
+  as identified by the Secretary of Labor.
+  `(b) MODERNIZATION OF EQUIPMENT-
+  `(1) IN GENERAL- Funds authorized under title III may be used to guarantee
+  the purchase or lease of advance manufacturing equipment, and any related
+  services with respect to any such equipment for purposes of this Act.
+  `(2) SMALL BUSINESS SUPPLIERS- In considering proposals for title III
+  projects under paragraph (1), the President shall provide a strong preference
+  for proposals submitted by a small business supplier or subcontractor
+  whose proposal--
+  `(A) has the support of the department or agency which will provide the
+  guarantee;
+  `(B) reflects that the small business concern has made arrangements to
+  obtain qualified outside assistance to support the effective utilization
+  of the advanced manufacturing equipment being proposed for installation; and
+  `(C) meets the requirements of section 301, 302, or 303.'.
+SEC. 112. LIMITATION ON ACTIONS WITHOUT CONGRESSIONAL AUTHORIZATION.
+  Section 104 of the Defense Production Act of 1950 (50 U.S.C. App. 2074)
+  is amended to read as follows:
+`SEC. 104. LIMITATION ON ACTIONS WITHOUT CONGRESSIONAL AUTHORIZATION.
+  `(a) WAGE OR PRICE CONTROLS- No provision of this Act shall be interpreted
+  as providing for the imposition of wage or price controls without the
+  prior authorization of such action by a joint resolution of Congress.
+  `(b) CHEMICAL OR BIOLOGICAL WEAPONS- No provision of title I of this Act
+  shall be exercised or interpreted to require action or compliance by any
+  private person to assist in any way in the production of or other involvement
+  in chemical or biological warfare capabilities, unless authorized by the
+  President (or the President's designee who is serving in a position at level
+  I of the Executive Schedule  in accordance with section 5312 of title 5,
+  United States Code) without further redelegation.'.
+PART C--AMENDMENTS TO TITLE III OF THE DEFENSE PRODUCTION ACT
+SEC. 121. EXPANDING THE REACH OF EXISTING AUTHORITIES UNDER TITLE III.
+  (a) GUARANTEE AUTHORITY- Section 301 of the Defense Production Act of 1950
+  (50 U.S.C. App. 2091) is amended--
+  (1) in subsection (a)(1), by striking `to expedite production and deliveries
+  or services under Government contracts for the procurement of materials
+  or the performance of services for the national defense' and inserting `to
+  expedite or expand production and deliveries or services under Government
+  contracts for the procurement of industrial resources or critical technology
+  items essential to the national defense';
+  (2) by amending subsection (a)(3)(A) to read as follows:
+  `(A) the guaranteed contract or activity is for industrial resources or
+  a critical technology item which is essential to the national defense;';
+  (3) in subsection (a)(3)(B)--
+  (A) by striking `Without' and inserting `without'; and
+  (B) by striking `the capability for the needed material or service' and
+  inserting `the needed industrial resources or critical technology item';
+  (4) by amending subsection (a)(3)(D) to read as follows:
+  `(D) the combination of the United States national defense demand and
+  foreseeable nondefense demand is not less than the output of domestic
+  industrial capability, as determined by the President, including the output
+  to be established through the guarantee.';
+  (5) in subsection (e)(1)(A), by striking `Except during periods of national
+  emergency declared by the Congress or the President' and inserting `Except
+  as provided in subparagraph (D)';
+  (6) in subsection (e)(1)(C), by striking `$25,000,000' and inserting
+  `$50,000,000'; and
+  (7) subsection (e)(1), by adding at the end the following new subparagraph:
+  `(D) The requirements of subparagraphs (A), (B), and (C) may be waived--
+  `(i) during periods of national emergency declared by the Congress or the
+  President; or
+  `(ii) upon a determination by the President, on a nondelegable basis,
+  that a specific guarantee is necessary to avert an industrial resource or
+  critical technology shortfall that would severely impair national defense
+  capability.'.
+  (b) LOANS TO PRIVATE BUSINESS ENTERPRISES- Section 302 of the Defense
+  Production Act of 1950 (50 U.S.C. App. 2092) is amended--
+  (1) in subsection (a), by striking `for the procurement of materials or
+  the performance of services for the national defense' and inserting `for
+  the procurement of industrial resources or a critical technology item for
+  the national defense';
+  (2) by amending subsection (b)(2)(D) to read as follows:
+  `(D) the combination of the United States national defense demand and
+  foreseeable nondefense demand is not less than the output of domestic
+  industrial capability, as determined by the President, including the output
+  to be established through the loan.';
+  (3) in subsection (c)(1), by striking `No such loan may be made under
+  this section, except during periods of national emergency declared by the
+  Congress or the President' and inserting `Except as provided in paragraph
+  (4), no loans may be made under this section';
+  (4) in subsection (c)(3), by striking `$25,000,000' and inserting
+  `$50,000,000'; or
+  (5) in subsection (c), by adding at the end the following new paragraph:
+  `(4) The requirements of paragraphs (1), (2), and (3) may be waived--
+  `(A) during periods of national emergency declared by the Congress or the
+  President; and
+  `(B) upon a determination by the President, on a nondelegable basis,
+  that a specific guarantee is necessary to avert an industrial resource or
+  critical technology shortfall that would severely impair national defense
+  capability.'.
+  (c) Purchases and Purchase Commitments-
+  (1) IN GENERAL- Section 303(a) of the Defense Production Act of 1950
+  (50 U.S.C. App. 2093(a)) is amended to read as follows:
+  `(a) PRESIDENTIAL PROVISIONS-
+  `(1) IN GENERAL- To assist in carrying out the objectives of this Act,
+  the President may make provision--
+  `(A) for purchases of or commitments to purchase an industrial resource
+  or a critical technology item, for Government use or resale; and
+  `(B) for the encouragement of exploration, development, and mining of
+  critical and strategic materials, and other materials.
+  `(2) TREATMENT OF CERTAIN AGRICULTURAL COMMODITIES- Purchases for resale
+  under this subsection shall not include that part of the supply of
+  an agricultural commodity which is domestically produced, except to the
+  extent that such domestically produced supply may be purchased for resale
+  for industrial use or stockpiling.
+  `(3) TERMS OF SALES- No commodity purchased under this subsection shall
+  be sold at less than--
+  `(A) the established ceiling price for such commodity, except that minerals,
+  metals, and materials shall not be sold at less than the established
+  ceiling price, or the current domestic market price, whichever is lower; or
+  `(B) if no ceiling price has been established, the higher of--
+  `(i) the current domestic market price for such commodity; or
+  `(ii) the minimum sale price established for agricultural commodities
+  owned or controlled by the Commodity Credit Corporation, as provided in
+  section 407 of the Agricultural Act of 1949.
+  `(4) DELIVERY DATES- No purchase or commitment to purchase any imported
+  agricultural commodity shall specify a delivery date which is more than
+  1 year after the expiration of this section.
+  `(5) PRESIDENTIAL DETERMINATIONS- Except as provided in paragraph (7),
+  the President may not execute a contract under this subsection unless the
+  President determines that--
+  `(A) the industrial resource or critical technology item is essential to
+  the national defense;
+  `(B) without Presidential action under the authority provided for in this
+  section, United States industry cannot reasonably be expected to provide
+  the capability for the needed industrial resource or critical technology
+  item in a timely manner;
+  `(C) purchases, purchase commitments, or other action pursuant to this
+  section are the most cost-effective, expedient, and practical alternative
+  method for meeting the need; and
+  `(D) the combination of the United States national defense demand and
+  foreseeable nondefense demand for the industrial resource or critical
+  technology item is not less than the output of domestic industrial
+  capability, as determined by the President, including the output to be
+  established through the purchase, purchase commitment, or other action.
+  `(6) IDENTIFICATION OF SHORTFALL-
+  `(A) IN GENERAL- Except as provided in paragraph (7), the President shall
+  take no action under this section unless the industrial resource shortfall
+  which such action is intended to correct has been identified in the Budget
+  of the United States, or amendments thereto, submitted to the Congress
+  and accompanied by a statement from the President demonstrating that the
+  budget submission is in accordance with the provisions of paragraph (5).
+  `(B) TIMING OF ACTION- Any such action may be taken only after 60 days
+  have elapsed after such industrial resource shortfall has been identified
+  pursuant to subparagraph (A).
+  `(C) LIMITATION- If the taking of any action or actions under this section
+  to correct an industrial resource shortfall would cause the aggregate
+  outstanding amount of all such actions for such industrial resource
+  shortfall to exceed $50,000,000, any such action or actions may be taken
+  only if specifically authorized by law.
+  `(7) WAIVER- The requirements of paragraphs (1) through (6) may be waived--
+  `(A) during periods of national emergency declared by the Congress or the
+  President; or
+  `(B) upon a determination by the President, on a nondelegable basis,
+  that a specific guarantee is necessary to avert an industrial resource or
+  critical technology shortfall that would severely impair national defense
+  capability.'.
+  (2) PURCHASE PERIODS- Section 303(b) of the Defense Production Act of
+  1950 (50 U.S.C. 2093(b)) is amended by striking `September 30, 1995'
+  and inserting `a date that is not more than 10 years from the date such
+  purchase, purchase commitment, or sale was initially made'.
+  (d) DEVELOPING SUBSTITUTES- Section 303(g) of the Defense Production
+  Act of 1950 (50 U.S.C. App. 2093(g)) is amended by inserting before the
+  period the following: `, critical components, critical technology items,
+  and other industrial resources'.
+SEC. 122. DEFENSE PRODUCTION ACT FUND.
+  Section 304 of the Defense Production Act of 1950 (50 U.S.C. App. 2094)
+  is amended to read as follows:
+`SEC. 304. DEFENSE PRODUCTION ACT FUND.
+  `(a) ESTABLISHMENT OF FUND- There is established in the Treasury of the
+  United States a separate fund to be known as the Defense Production Act Fund
+  (hereafter in this section referred to as `the Fund').
+  `(b) MONEYS IN FUND- There shall be credited to the Fund--
+  `(1) all moneys appropriated for the Fund, as authorized by section
+  711(c); and
+  `(2) all moneys received by the Fund on transactions entered into pursuant
+  to section 303.
+  `(c) USE OF FUND- The Fund shall be available to carry out the provisions
+  and purposes of this title, subject to the limitations set forth in this
+  Act and in appropriations Acts.
+  `(d) DURATION OF FUND- Moneys in the Fund shall remain available until
+  expended.
+  `(e) FUND BALANCE- The Fund balance at the close of each fiscal year
+  shall not exceed $400,000,000, excluding any moneys appropriated to the
+  Fund during that fiscal year or obligated funds. If, at the close of any
+  fiscal year, the Fund balance exceeds $400,000,000, the amount in excess
+  of $400,000,000 shall be paid into the general fund of the Treasury.
+  `(f) FUND MANAGER- The President shall designate a Fund manager. The duties
+  of the Fund manager shall include--
+  `(1) determining the liability of the Fund in accordance with subsection (g);
+  `(2) ensuring the visibility and accountability of transactions engaged
+  in through the Fund; and
+  `(3) reporting to the Congress each year regarding activities of the Fund
+  during the previous fiscal year.
+  `(g) LIABILITIES AGAINST FUND- When any agreement entered into pursuant
+  to this title after December 31, 1991, imposes any contingent liability
+  upon the United States, such liability shall be considered an obligation
+  against the Fund.'.
+SEC. 123. DECLARATION OF OFFSET POLICY.
+  (a) IN GENERAL- Recognizing that certain offsets for military exports
+  are economically inefficient and market distorting, and mindful of the
+  need to minimize the adverse effects of offsets in military exports while
+  ensuring that the ability of United States firms to compete for military
+  export sales is not undermined, it is the policy of the Congress that--
+  (1) no agency of the United States Government shall encourage, enter
+  directly into, or commit United States firms to any offset arrangement in
+  connection with the sale of defense goods or services to foreign governments;
+  (2) United States Government funds shall not be used to finance offsets
+  in security assistance transactions, except in accordance with policies
+  and procedures that were in existence on March 1, 1992;
+  (3) nothing in this section shall prevent agencies of the United States
+  Government from fulfilling obligations incurred through international
+  agreements entered into before March 1, 1992; and
+  (4) the decision whether to engage in offsets, and the responsibility
+  for negotiating and implementing offset arrangements, reside with the
+  companies involved.
+  (b) PRESIDENTIAL APPROVAL OF EXCEPTIONS- It is the policy of the Congress
+  that the President may approve an exception to the policy stated in
+  subsection (a) after receiving the recommendation of the National Security
+  Council.
+  (c) CONSULTATION- It is the policy of the Congress that the President
+  shall designate the Secretary of Defense to lead, in coordination with the
+  Secretary of State, an interagency team to consult with foreign nations on
+  limiting the adverse effects of offsets in defense procurement. The President
+  shall transmit an annual report on the results of these consultations to
+  the Congress as part of the report required under section 309(a) of the
+  Defense Production Act of 1950.
+SEC. 124. ANNUAL REPORT ON IMPACT OF OFFSETS.
+  Section 309 of the Defense Production Act of 1950 (50 U.S.C. App. 2099)
+  is amended--
+  (1) in subsection (a)--
+  (A) by striking `(a) REPORT REQUIRED- Not later' and inserting: `(a)
+  Annual Report on Impact of Offsets-
+  `(1) REPORT REQUIRED- Not later';
+  (B) by striking the second sentence; and
+  (C) by adding at the end the following new paragraph:
+  `(2) DUTIES OF THE SECRETARY OF COMMERCE- The Secretary of Commerce
+  (hereafter in this subsection referred to as `the Secretary') shall--
+  `(A) prepare the report required by paragraph (1);
+  `(B) consult with the Secretary of Defense, the Secretary of the Treasury,
+  the Secretary of State, and the United States Trade Representative in
+  connection with the preparation of such report; and
+  `(C) function as the President's Executive Agent for carrying out this
+  section.';
+  (2) by amending subsection (b) to read as follows:
+  `(b) Interagency Studies and Related Data-
+  `(1) PURPOSE OF REPORT- Each report required under subsection (a) shall
+  identify the cumulative effects of offset agreements on--
+  `(A) the full range of domestic defense productive capability (with
+  special attention paid to the firms serving as lower-tier subcontractors
+  or suppliers); and
+  `(B) the domestic defense technology base as a consequence of the technology
+  transfers associated with such offset agreements.
+  `(2) USE OF DATA- Data developed or compiled by any agency while conducting
+  any interagency study or other independent study or analysis shall be made
+  available to the Secretary to facilitate the execution of the Secretary's
+  responsibilities with respect to trade offset and countertrade policy
+  development.'; and
+  (3) by adding at the end the following new subsections:
+  `(c) Notice of Offset Agreements-
+  `(1) IN GENERAL- If a United States firm enters into a contract for the
+  sale of a weapon system or defense-related item to a foreign country or
+  foreign firm and such contract is subject to an offset agreement exceeding
+  $5,000,000 in value, such firm shall furnish to the official designated
+  in the regulations promulgated pursuant to paragraph (2) information
+  concerning such sale.
+  `(2) REGULATIONS- The information to be furnished under paragraph
+  (1) shall be prescribed in regulations promulgated by the Secretary.
+  Such regulations shall provide protection from public disclosure for
+  such information, unless public disclosure is subsequently specifically
+  authorized by the firm furnishing the information.
+  `(d) Contents of Report-
+  `(1) IN GENERAL- Each report under subsection (a) shall include--
+  `(A) a net assessment of the elements of the industrial base and technology
+  base covered by the report;
+  `(B) recommendations for appropriate remedial action under the authority
+  of this Act, or other law or regulations;
+  `(C) a summary of the findings and recommendations of any interagency
+  studies conducted during the reporting period under subsection (b);
+  `(D) a summary of offset arrangements concluded during the reporting period
+  for which information has been furnished pursuant to subsection (c); and
+  `(E) a summary and analysis of any bilateral and multilateral negotiations
+  relating to the use of offsets completed during the reporting period.
+  `(2) ALTERNATIVE FINDINGS OR RECOMMENDATIONS- Each report required under
+  this section shall include any alternative findings or recommendations
+  offered by any departmental Secretary, agency head, or the United States
+  Trade Representative to the Secretary.
+  `(e) UTILIZATION OF ANNUAL REPORT IN NEGOTIATIONS- The findings and
+  recommendations of the reports required by subsection (a), and any
+  interagency reports and analyses shall be considered by representatives
+  of the United States during bilateral and multilateral negotiations to
+  minimize the adverse effects of offsets.'.
+SEC. 125. CIVIL-MILITARY INTEGRATION.
+  Title III of the Defense Production Act of 1950 is amended by adding at
+  the end the following new section:
+`SEC. 310. CIVIL-MILITARY INTEGRATION.
+  `An important purpose of this title is the creation of production capacity
+  that will remain economically viable after guarantees and other assistance
+  provided under this title have expired.'.
+SEC. 126. TESTING, QUALIFICATION, AND USE OF INDUSTRIAL RESOURCES DEVELOPED
+UNDER TITLE III PROJECTS.
+  (a) IN GENERAL- Not later than 270 days after the date of enactment of this
+  Act, the single governmentwide Federal Acquisition Regulation, referred
+  to in section 25(c)(1) of the Office of Federal Procurement Policy Act (41
+  U.S.C. 421(c)(1)) shall be amended to provide for testing and qualification
+  (pursuant to subsection (b)) and use (pursuant to subsection (c)) of the
+  industrial resources manufactured or developed with assistance provided
+  under section 301, 302, or 303 of the Defense Production Act of 1950.
+  (b) TESTING AND QUALIFICATION- Any testing and qualification required
+  for the use or incorporation of the industrial resource developed or
+  manufactured with such assistance shall be undertaken upon the request
+  of the title III project contractor and the costs of such testing and
+  qualification shall be borne by the department or agency imposing the
+  testing and qualification requirement.
+  (c) USE- Upon qualification, the industrial resource shall be eligible for
+  use with respect to the development and manufacture of a major system or
+  an item of supply being undertaken by an executive agency.
+  (d) DEFINITIONS- For purposes of this section--
+  (1) the term `industrial resources' has the same meaning as in section
+  702(11) of the Defense Production Act of 1950;
+  (2) the term `item of supply' has the same meaning as in section 4(10)
+  of the Office of Federal Procurement Policy Act;
+  (3) the term `major system' has the same meaning as in section 4(9) of
+  the Office of Federal Procurement Policy Act; and
+  (4) the term `title III project contractor' means a contractor who has
+  received assistance for the development or manufacture of an industrial
+  resource under section 301, 302, or 303 of the Defense Production Act of
+  1950 (50 U.S.C. App. 2091-2093).
+PART D--AMENDMENTS TO TITLE VII OF THE DEFENSE PRODUCTION ACT
+SEC. 131. SMALL BUSINESS.
+  Section 701 of the Defense Production Act of 1950 (50 U.S.C. App. 2151)
+  is amended to read as follows:
+`SEC. 701. SMALL BUSINESS.
+  `(a) PARTICIPATION- Small business concerns shall be given the maximum
+  practicable opportunity to participate as contractors, and subcontractors
+  at various tiers, in all programs to maintain and strengthen the Nation's
+  industrial base and technology base undertaken pursuant to this Act.
+  `(b) ADMINISTRATION OF ACT- In administering the programs, implementing
+  regulations, policies, and procedures under this Act, requests, applications,
+  or appeals from small business concerns shall, to the maximum extent
+  practicable, be expeditiously handled.
+  `(c) ADVISORY COMMITTEE PARTICIPATION- Representatives of small business
+  concerns shall be afforded the maximum opportunity to participate in such
+  advisory committees as may be established pursuant to this Act.
+  `(d) INFORMATION- Information about this Act and activities undertaken in
+  accordance with this Act shall be made available to small business concerns.
+  `(e) ALLOCATIONS UNDER SECTION 101- Whenever the President makes
+  a determination to exercise any authority to allocate any material
+  pursuant to section 101, small business concerns shall be accorded, to
+  the extent practicable, a fair share of such material, in proportion to
+  the share received by such business concerns under normal conditions,
+  giving such special consideration as may be possible to emerging small
+  business concerns.'.
+SEC. 132. DEFINITIONS.
+  Section 702 of the Defense Production Act of 1950 (50 U.S.C. App. 2152)
+  is amended to read as follows:
+`SEC. 702. DEFINITIONS.
+  `For purposes of this Act, the following definitions shall apply:
+  `(1) CRITICAL COMPONENT- The term `critical component' includes such
+  components, subsystems, systems, and related special tooling and test
+  equipment essential to the production, repair, maintenance, or operation
+  of weapon systems or other items of military equipment identified by the
+  Secretary of Defense as being essential to the execution of the national
+  security strategy of the United States. Components identified as critical
+  by a National Security Assessment conducted pursuant to section 113(i)
+  of title 10, United States Code, or by a Presidential determination as a
+  result of a petition filed under section 232 of the Trade Expansion Act of
+  1962 shall be designated as critical components for purposes of this Act,
+  unless the President determines that the designation is unwarranted.
+  `(2) CRITICAL INDUSTRY FOR NATIONAL SECURITY- The term `critical industry
+  for national security' means any industry (or industry sector) identified
+  pursuant to section 2503(6) of title 10, United States Code, and such other
+  industries or industry sectors as may be designated by the President as
+  essential to provide industrial resources required for the execution of
+  the national security strategy of the United States.
+  `(3) CRITICAL TECHNOLOGY- The term `critical technology' includes any
+  technology that is included in 1 or more of the plans submitted pursuant to
+  section 6681 of title 42, United States Code, or section 2508 of title 10,
+  United States Code (unless subsequently deleted), or such other emerging
+  or dual use technology as may be designated by the President.
+  `(4) CRITICAL TECHNOLOGY ITEM- The term `critical technology item' means
+  materials directly employing, derived from, or utilizing a critical
+  technology.
+  `(5) DEFENSE CONTRACTOR- The term `defense contractor' means any person
+  who enters into a contract with the United States--
+  `(A) to furnish materials, industrial resources, or a critical technology
+  for the national defense; or
+  `(B) to perform services for the national defense.
+  `(6) DOMESTIC DEFENSE INDUSTRIAL BASE- The term `domestic defense
+  industrial base' means domestic sources which are providing, or which
+  would be reasonably expected to provide, materials or services to meet
+  national defense requirements during peacetime, graduated mobilization,
+  national emergency, or war.
+  `(7) DOMESTIC SOURCE- The term `domestic source' means a business concern--
+  `(A) that performs in the United States or Canada substantially all of
+  the research and development, engineering, manufacturing, and production
+  activities required of such business concern under a contract with the United
+  States relating to a critical component or a critical technology item; and
+  `(B) that procures from business concerns described in subparagraph
+  (A) substantially all of any components and assemblies required under
+  a contract with the United States relating to a critical component or
+  critical technology item.
+  `(8) ESSENTIAL WEAPON SYSTEM- The term `essential weapon system' means
+  a major weapon system and other items of military equipment identified
+  by the Secretary of Defense as being essential to the execution of the
+  national security strategy of the United States.
+  `(9) FACILITIES- The term `facilities' includes all types of buildings,
+  structures, or other improvements to real property (but excluding farms,
+  churches or other places of worship, and private dwelling houses), and
+  services relating to the use of any such building, structure, or other
+  improvement.
+  `(10) FOREIGN SOURCE- The term `foreign source' means a business entity
+  other than a `domestic source'.
+  `(11) INDUSTRIAL RESOURCES- The term `industrial resources' means materials,
+  services, processes, or manufacturing equipment (including the processes,
+  technologies, and ancillary services for the use of such equipment)
+  needed to establish or maintain an efficient and modern national defense
+  industrial capacity.
+  `(12) MATERIALS- The term `materials' includes--
+  `(A) any raw materials (including minerals, metals, and advanced processed
+  materials), commodities, articles, components (including critical
+  components), products, and items of supply; and
+  `(B) any technical information or services ancillary to the use of any
+  such materials, commodities, articles, components, products, or items.
+  `(13) NATIONAL DEFENSE- The term `national defense' means programs for
+  military and energy production or construction, military assistance to
+  any foreign nation, stockpiling, space, and any directly related activity.
+  `(14) PERSON- The term `person' includes an individual, corporation,
+  partnership, association, or any other organized group of persons, or legal
+  successor or representative thereof, or any State or local government or
+  agency thereof.
+  `(15) SERVICES- The term `services' includes any effort that is needed
+  for or incidental to--
+  `(A) the development, production, processing, distribution, delivery,
+  or use of an industrial resource or a critical technology item; or
+  `(B) the construction of facilities.
+  `(16) SMALL BUSINESS CONCERN- The term `small business concern' means a
+  business concern that meets the requirements of section 3(a) of the Small
+  Business Act and the regulations promulgated pursuant to that section,
+  and includes such business concerns owned and controlled by socially and
+  economically disadvantaged individuals or by women.
+  `(17) SMALL BUSINESS CONCERN OWNED AND CONTROLLED BY SOCIALLY AND
+  ECONOMICALLY DISADVANTAGED INDIVIDUALS- The term `small business concern
+  owned and controlled by socially and economically disadvantaged individuals'
+  has the same meaning as in section 8(d)(3)(C) of the Small Business Act.'.
+SEC. 133. APPOINTMENT OF PERSONNEL.
+  Section 703 of the Defense Production Act of 1950 (50 U.S.C. App. 2153)
+  is amended to read as follows:
+`SEC. 703. CIVILIAN PERSONNEL.
+  `Any officer or agency head may--
+  `(1) appoint civilian personnel without regard to section 5331(b) of title
+  5, United States Code, and without regard to the provisions of title 5,
+  United States Code, governing appointments in the competitive service; and
+  `(2) fix the rate of basic pay for such personnel without regard to the
+  provisions of chapter 51 and subchapter III of chapter 53 of title 5, United
+  States Code, relating to classification and General Schedule pay rates,
+except that no individual so appointed may receive pay in excess of the
+annual rate of basic pay payable for GS-18 of the General Schedule, as the
+President deems appropriate to carry out this Act.'.
+SEC. 134. REGULATIONS AND ORDERS.
+  Section 704 of the Defense Production Act of 1950 (50 U.S.C. App. 2154)
+  is amended to read as follows:
+`SEC. 704. REGULATIONS AND ORDERS.
+  `(a) IN GENERAL- Subject to section 709 and subsection (b), the President
+  may prescribe such regulations and issue such orders  as the President
+  may determine to be appropriate to carry out this Act.
+  `(b) PROCUREMENT REGULATIONS- Any procurement regulation, procedure, or
+  form issued pursuant to subsection (a) shall be issued pursuant to section
+  25 of the Office of Federal Procurement Policy Act, and shall conform to
+  any governmentwide procurement policy or regulation issued pursuant to
+  section 6 or 25 of that Act.'.
+SEC. 135. INFORMATION ON THE DEFENSE INDUSTRIAL BASE.
+  Title VII of the Defense Production Act of 1950 (50 U.S.C. App. 2151 et
+  seq.) is amended by adding at the end the following new section:
+`SEC. 722. DEFENSE INDUSTRIAL BASE INFORMATION SYSTEM.
+  `(a) Establishment Required-
+  `(1) IN GENERAL- The President, acting through the Secretary of Defense and
+  the heads of such other Federal agencies as the President may determine
+  to be appropriate, shall provide for the establishment of an information
+  system on the domestic defense industrial base which--
+  `(A) meets the requirements of this section; and
+  `(B) includes a systematic continuous procedure, to collect and analyze
+  information necessary to evaluate--
+  `(i) the adequacy of domestic industrial capacity to furnish critical
+  components and critical technology items essential to the national security
+  of the United States;
+  `(ii) dependence on foreign sources for critical components and critical
+  technology items essential to defense production; and
+  `(iii) the reliability of foreign sources for critical components and
+  critical technology items.
+  `(2) INCORPORATION OF DINET- The Defense Information Network (or DINET),
+  as established and maintained by the Secretary of Defense on the date
+  of enactment of the Defense Production Act Amendments of 1992, shall be
+  incorporated into the system established pursuant to paragraph (1).
+  `(3) USE OF INFORMATION- Information collected and analyzed under the
+  procedure established pursuant to paragraph (1) shall constitute a basis
+  for making any determination to exercise any authority under this Act
+  and a procedure for using such information shall be integrated into the
+  decisionmaking process with regard to the exercise of any such authority.
+  `(b) SOURCES OF INFORMATION-
+  `(1) FOREIGN DEPENDENCE-
+  `(A) SCOPE OF INFORMATION REVIEW- The procedure established to meet the
+  requirement of subsection (a)(1)(B)(ii) shall address defense production
+  with respect to the operations of prime contractors and at least the first
+  2 tiers of subcontractors, or at lower tiers if a critical component is
+  identified at such lower tier.
+  `(B) USE OF EXISTING DATA COLLECTION AND REVIEW CAPABILITIES- To the extent
+  feasible and appropriate, the President shall build upon existing methods
+  of data collection and analysis and shall integrate information available
+  from intelligence agencies with respect to industrial and technological
+  conditions in foreign countries.
+  `(C) INITIAL EMPHASIS ON PRIORITY LISTS- In establishing the procedure
+  referred to in subparagraph (A), the Secretary may place initial emphasis
+  on the production of critical components and critical technology items.
+  `(2) Production base analysis-
+  `(A) COMPREHENSIVE REVIEW- The analysis of the production base for any major
+  system acquisition included in the information system maintained pursuant
+  to subsection (a) shall, in addition to any information and analyses the
+  President may require--
+  `(i) include a review of all subcontractors and suppliers, beginning with
+  any raw material, special alloy, or composite material involved in the
+  production of a completed system;
+  `(ii) identify each contractor and subcontractor (or supplier) at each
+  level of production for such major system acquisition which represents a
+  potential for delaying or preventing the system's production and acquisition,
+  including the identity of each contractor or subcontractor whose contract
+  qualifies as a foreign source or sole source contract and any supplier which
+  is a foreign source or sole source for any item required in the production,
+  including critical components; and
+  `(iii) include information to permit appropriate management of accelerated
+  or surge production.
+  `(B) INITIAL REQUIREMENT FOR STUDY OF PRODUCTION BASES FOR NOT MORE THAN 6
+  MAJOR WEAPON SYSTEMS- In establishing the information system under subsection
+  (a), the President, acting through the Secretary of Defense, shall require
+  an analysis of the production base for not more than 2 weapons of each
+  military department which are major systems (as defined in section 2302(5)
+  of title 10, United States Code). Each such analysis shall identify the
+  critical components of each system.
+  `(3) CONSULTATION REGARDING THE CENSUS OF MANUFACTURERS-
+  `(A) IN GENERAL- The Secretary of Commerce, acting through the Bureau of the
+  Census, shall consult with the Secretary of Defense and the Director of the
+  Federal Emergency Management Agency to improve the usefulness of information
+  derived from the Census of Manufacturers in carrying out this section.
+  `(B) ISSUES TO BE ADDRESSED- The consultation required under subparagraph
+  (A) shall address improvements in the level of detail, timeliness, and
+  availability of input and output analyses derived from the Census of
+  Manufacturers necessary to carry out this section.
+  `(c) STRATEGIC PLAN FOR DEVELOPING COMPREHENSIVE SYSTEM-
+  `(1) PLAN REQUIRED- Not later than December 31, 1993, the President shall
+  provide for the establishment of and report to the Congress on a strategic
+  plan for developing a cost-effective, comprehensive information system
+  capable of identifying on a timely, ongoing basis vulnerability in critical
+  components and critical technology items.
+  `(2) ASSESSMENT OF CERTAIN PROCEDURES- In establishing the plan
+  pursuant to paragraph (1), the President shall assess the performance
+  and cost-effectiveness of procedures implemented under subsection (b),
+  and shall seek to build upon such procedures, as appropriate.
+  `(d) CAPABILITIES OF SYSTEM-
+  `(1) IN GENERAL- In connection with the establishment of the information
+  system under subsection (a), the President shall direct the Secretary of
+  Defense, the Secretary of Commerce, and the heads of such other Federal
+  agencies as the President may determine to be appropriate--
+  `(A) to consult with each other and provide such information, assistance,
+  and cooperation as may be necessary to establish and maintain the information
+  system required by this section in a manner which allows the coordinated
+  and efficient entry of information on the domestic defense industrial base
+  into, and the withdrawal, subject to the protection of proprietary data,
+  of information on the domestic defense industrial base from the system on
+  an on-line interactive basis by the Department of Defense;
+  `(B) to assure access to the information on the system, as appropriate,
+  for all participating Federal agencies, including each military department;
+  `(C) to coordinate standards, definitions, and specifications for information
+  on defense production, which is collected by the Department of Defense and
+  the military departments so that such information can be used by any Federal
+  agency or department, as the President determines to be appropriate; and
+  `(D) to assure that the information in the system is updated, as appropriate,
+  with the active assistance of the private sector.
+  `(2) TASK FORCE ON MILITARY-CIVILIAN PARTICIPATION- Upon the establishment
+  of the information system under subsection (a), the President shall convene
+  a task force consisting of the Secretary of Defense, the Secretary of
+  Commerce, the Secretary of each military department, and the heads of such
+  other Federal agencies and departments as the President may determine to
+  be appropriate to establish guidelines and procedures to ensure that all
+  Federal agencies and departments which acquire information with respect to
+  the domestic defense industrial base are fully participating in the system,
+  unless the President determines that all appropriate Federal agencies and
+  departments, including each military department, are voluntarily providing
+  information which is necessary for the system to carry out the purposes
+  of this Act and chapter 148 of title 10, United States Code.
+  `(e) REPORT ON SUBCONTRACTOR AND SUPPLIER BASE-
+  `(1) REPORT REQUIRED- The President shall issue a report (in accordance
+  with paragraph (4) which includes--
+  `(A) a list of critical components, technologies, and technology items
+  for which there is found to be inadequate domestic industrial capacity or
+  capability; and
+  `(B) an assessment of those subsectors of the economy of the United
+  States which--
+  `(i) support production of any component, technology, or technology item
+  listed pursuant to subparagraph (A); or
+  `(ii) have been identified as being critical to the development and
+  production of components required for the production of weapons, weapon
+  systems, and other military equipment essential to the national defense.
+  `(2) MATTERS TO BE CONSIDERED- The assessment made under paragraph (1)(B)
+  shall include consideration of--
+  `(A) the capacity of domestic sources, especially commercial firms, to
+  fulfill peacetime requirements and graduated mobilization requirements
+  for various items of supply and services;
+  `(B) any trend relating to the capabilities of domestic sources to meet
+  such peacetime and mobilization requirements;
+  `(C) the extent to which the production or acquisition of various items
+  of military material is dependent on foreign sources; and
+  `(D) any reason for the decline of the capabilities of selected sectors
+  of the United States economy necessary to meet peacetime and mobilization
+  requirements, including--
+  `(i) stability of defense requirements;
+  `(ii) acquisition policies;
+  `(iii) vertical integration of various segments of the industrial base;
+  `(iv) superiority of foreign technology and production efficiencies;
+  `(v) foreign government support of nondomestic sources; and
+  `(vi) offset arrangements.
+  `(3) POLICY RECOMMENDATIONS- The report required by paragraph (1) may
+  provide specific policy recommendations to correct deficiencies identified
+  in the assessment, which would help to strengthen domestic sources.
+  `(4) TIME FOR ISSUANCE- The report required by paragraph (1) shall be issued
+  not later than July 1 of each even-numbered year which begins after 1992.
+  `(5) RELEASE OF UNCLASSIFIED REPORT- The report required by this subsection
+  may be classified. An unclassified version of the report shall be made
+  available to the public.'.
+SEC. 136. PUBLIC PARTICIPATION IN RULEMAKING.
+  (a) IN GENERAL- Section 709 of the Defense Production Act of 1950 (50
+  U.S.C. 2159) is amended to read as follows:
+`SEC. 709. PUBLIC PARTICIPATION IN RULEMAKING.
+  `(a) EXEMPTION FROM THE ADMINISTRATIVE PROCEDURE ACT- Any regulation issued
+  under this Act shall not be subject to sections 551 through 559 of title 5,
+  United States Code.
+  `(b) OPPORTUNITY FOR NOTICE AND COMMENT-
+  `(1) IN GENERAL- Except as provided in subsection (c), any regulation issued
+  under this Act shall be published in the Federal Register and opportunity
+  for public comment shall be provided for not less than 30 days, consistent
+  with the requirements of section 553(b) of title 5, United States Code.
+  `(2) WAIVER FOR TEMPORARY PROVISIONS- The requirements of paragraph (1)
+  may be waived, if--
+  `(A) the officer authorized to issue the regulation finds that urgent
+  and compelling circumstances make compliance with such requirements
+  impracticable;
+  `(B) the regulation is issued on a temporary basis; and
+  `(C) the publication of such temporary regulation is accompanied by the
+  finding made under subparagraph (A) (and a brief statement of the reasons
+  for such finding) and an opportunity for public comment is provided for
+  not less than 30 days before any regulation becomes final.
+  `(3) CONSIDERATION OF PUBLIC COMMENTS- All comments received during the
+  public comment period specified pursuant to paragraph (1) or (2) shall
+  be considered and the publication of the final regulation shall contain
+  written responses to such comments.
+  `(c) PUBLIC COMMENT ON PROCUREMENT REGULATIONS- Any procurement policy,
+  regulation, procedure, or form (including any amendment or modification of
+  any such policy, regulation, procedure, or form) issued under this Act shall
+  be subject to section 22 of the Office of Federal Procurement Policy Act.'.
+  (b) SCOPE OF APPLICATION- Section 709 of the Defense Production Act of
+  1950 (50 U.S.C. App. 2159), as amended by subsection (a) of this section,
+  shall not apply to any regulation issued in proposed or final form on or
+  before the date of enactment of this Act.
+PART E--TECHNICAL AMENDMENTS
+SEC. 141. TECHNICAL CORRECTION.
+  Section 301(e)(2)(B) of the Defense Production Act of 1950 (50
+  U.S.C. App. 2091(e)(2)(B)) is amended by striking `and to the Committees
+  on Banking and Currency of the respective Houses' and inserting `and
+  to the Committee on Banking, Housing, and Urban Affairs of the Senate
+  and the Committee on Banking, Finance and Urban Affairs of the House of
+  Representatives'.
+SEC. 142. INVESTIGATIONS; RECORDS; REPORTS; SUBPOENAS.
+  Section 705 of the Defense Production Act of 1950 (50 U.S.C. App. 2155)
+  is amended--
+  (1) by striking `subpena' each place such term appears and inserting
+  `subpoena';
+  (2) by redesignating subsections (c), (d), (e), and (f) as subsections (b),
+  (c), (d), and (e), respectively;
+  (3) in subsection (c) (as redesignated by paragraph (2)), by striking
+  `$1,000' and inserting `$10,000';
+  (4) in subsection (d) (as redesignated by paragraph (2)), by striking all
+  after the first sentence; and
+  (5) in subsection (e) (as redesignated by paragraph (2)), by striking
+  `subpenaed' and inserting `subpoenaed'.
+SEC. 143. EMPLOYMENT OF PERSONNEL.
+  (a) NOTICE OF APPOINTMENT AND FINANCIAL DISCLOSURE FOR EMPLOYEES SERVING
+  WITHOUT COMPENSATION- Section 710(b)(6) of the Defense Production Act of
+  1950 (50 U.S.C. App. 2160(b)(6)) is amended to read as follows:
+  `(6) NOTICE AND FINANCIAL DISCLOSURE REQUIREMENTS-
+  `(A) PUBLIC NOTICE OF APPOINTMENT- The head of any department or agency who
+  appoints any individual under this subsection shall publish a notice of such
+  appointment in the Federal Register, including the name of the appointee,
+  the employing department or agency, the title of the appointee's position,
+  and the name of the appointee's private employer.
+  `(B) FINANCIAL DISCLOSURE- Any individual appointed under this subsection who
+  is not required to file a financial disclosure report pursuant to section
+  101 of the Ethics in Government Act of 1978, shall file a confidential
+  financial disclosure report pursuant to section 107 of that Act with the
+  appointing department or agency.'.
+  (b) TECHNICAL AMENDMENTS- Section 710(b) of the Defense Production Act of
+  1950 (50 U.S.C. App. 2160(b)) is amended--
+  (1) in paragraph (7)--
+  (A) by striking `Chairman of the United States Civil Service Commission'
+  and inserting `Director of the Office of Personnel Management';
+  (B) by striking `his findings' and inserting `his or her findings';
+  (C) by striking `and the Joint Committee on Defense Production'; and
+  (D) by striking `he may' and inserting `he or she may'; and
+  (2) in paragraph (8), by striking `transportation and not to exceed $15 per
+  diem in lieu of subsistence while away from their homes or regular places
+  of business pursuant to such appointment' and inserting `reimbursement
+  for travel, subsistence, and other necessary expenses incurred by them
+  in carrying out the functions for which they were appointed in the same
+  manner as persons employed intermittently in the Federal Government are
+  allowed expenses under section 5703 of title 5, United States Code'.
+SEC. 144. TECHNICAL CORRECTION.
+  Section 711(a)(1) of the Defense Production Act of 1950 (50
+  U.S.C. App. 2161(a)(1)) is amended by striking `Bureau of the Budget'
+  and inserting `Office of Management and Budget'.
+PART F--REPEALERS AND CONFORMING AMENDMENTS
+SEC. 151. SYNTHETIC FUEL ACTION.
+  Section 307 of the Defense Production Act of 1950 (50 U.S.C. App. 2097)
+  is amended--
+  (1) in subsection (b), by striking the second sentence; and
+  (2) by striking subsection (c) and all that follows through the end of
+  the section.
+SEC. 152. REPEAL OF INTEREST PAYMENT PROVISIONS.
+  Section 711 of the Defense Production Act of 1950 (50 U.S.C. App. 2161)
+  is amended--
+  (1) by striking subsection (b); and
+  (2) in subsection (a)--
+  (A) by striking `(a)(1) Except as provided in paragraph (2) and paragraph
+  (4)' and inserting the following:
+  `(a) AUTHORIZATION-
+  `(1) IN GENERAL-  Except as provided in subsection (c),';
+  (B) in paragraph (1), in the parenthetical, by striking `and for payment
+  of interest under subsection (b) of this section';
+  (C) by striking paragraph (2);
+  (D) in paragraph (3), by striking `(3) There are' and inserting the
+  following:
+  `(b) SECTION 305 AUTHORIZATION- '; and
+  (E) in paragraph (4)--
+  (i) by striking `(4)(A) There are' and inserting the following:
+  `(c) SECTION 303 AUTHORIZATION- There are'; and
+  (ii) by striking subparagraph (B).
+SEC. 153. JOINT COMMITTEE ON DEFENSE PRODUCTION.
+  Section 712 of the Defense Production Act of 1950 (50 U.S.C. App. 2162)
+  is repealed.
+SEC. 154. PERSONS DISQUALIFIED FOR EMPLOYMENT.
+  Section 716 of the Defense Production Act of 1950 (50 U.S.C. App. 2165)
+  is repealed.
+SEC. 155. FEASIBILITY STUDY ON UNIFORM COST ACCOUNTING STANDARDS; REPORT
+SUBMITTED.
+  Section 718 of the Defense Production Act of 1950 (50 U.S.C. App. 2167)
+  is repealed.
+SEC. 156. NATIONAL COMMISSION ON SUPPLIES AND SHORTAGES.
+  Section 720 of the Defense Production Act of 1950 (50 U.S.C. App. 2169)
+  is repealed.
+PART G--REAUTHORIZATION OF SELECTED PROVISIONS
+SEC. 161. AUTHORIZATION OF APPROPRIATIONS.
+  Section 711 of the Defense Production Act of 1950 (50 U.S.C. App. 2161)
+  (as amended by section 152 of this Act) is amended by adding at the end
+  the following new subsection:
+  `(d) TITLE III AUTHORIZATION- There are authorized to be appropriated for
+  each of fiscal years 1993, 1994, and 1995 not more than $200,000,000 to
+  carry out the provisions of title III of this Act.'.
+SEC. 162. EXTENSION OF PROGRAM.
+  The first sentence of section 717(a) of the Defense Production Act of 1950
+  (50 U.S.C. App. 2166(a)) is amended by striking `March 1, 1992' and inserting
+  `September 30, 1995'.
+SEC. 163. PRESIDENTIAL STUDY.
+  Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 2170)
+  is amended by adding at the end the following new subsection:
+  `(k) QUADRENNIAL REPORT-
+  `(1) IN GENERAL- In order to assist the Congress in its oversight
+  responsibilities with respect to this section, the President and such
+  agencies as the President shall designate shall complete and furnish to
+  the Congress, not later than 1 year after the date of enactment of this
+  section and upon the expiration of every 4 years thereafter, a report which--
+  `(A) evaluates whether there is credible evidence of a coordinated strategy
+  by 1 or more countries or companies to acquire United States companies
+  involved in research, development, or production of critical technologies
+  for which the United States is a leading producer; and
+  `(B) evaluates whether there are industrial espionage activities directed
+  by foreign governments against private United States companies aimed at
+  obtaining commercial secrets related to critical technologies.
+  `(2) DEFINITION- For the purposes of this subsection, the term `critical
+  technologies' means technologies identified under title VI of the National
+  Science and Technology Policy, Organization, and Priorities Act of 1976
+  or other critical technology, critical components, or critical technology
+  items essential to national defense identified pursuant to this section.
+  `(3) RELEASE OF UNCLASSIFIED STUDY- The report required by this subsection
+  may be classified. An unclassified version of the report shall be made
+  available to the public.'.
+TITLE II--ADDITIONAL PROVISIONS TO IMPROVE INDUSTRIAL PREPAREDNESS
+SEC. 201. DISCOURAGING UNFAIR TRADE PRACTICES.
+  (a) SUSPENSION OR DEBARMENT AUTHORIZED- Not later than 270 days after the
+  date of enactment of this Act, subpart 9.4 of title 48, Code of Federal
+  Regulations (or any successor regulation) shall be amended to specify the
+  circumstances under which a contractor, who has engaged in an unfair trade
+  practice, as defined in subsection (b), may be found to presently lack such
+  business integrity or business honesty to such a degree as to seriously
+  and directly affect the responsibility of the contractor to perform any
+  contract awarded by the Federal Government or perform a subcontract under
+  such a contract.
+  (b) DEFINITION OF `UNFAIR TRADE PRACTICE'- For purposes of this section,
+  the term `unfair trade practice' means the commission of any of the
+  following acts by a contractor:
+  (1) UNFAIR TRADE PRACTICES- An unfair trade practice, as determined by
+  the International Trade Commission, for a violation of section 337 of the
+  Tariff Act of 1930 (19 U.S.C. 1337).
+  (2) VIOLATION OF AGREEMENTS OF COCOM- A violation, as determined by
+  the Secretary of Commerce, of any agreement of the group known as the
+  `Coordinating Committee' for purposes of the Export Administration Act of
+  1979 or any similar bilateral or multilateral export control agreement.
+  (3) FALSE STATEMENTS- A knowingly false statement regarding a material
+  element of a certification concerning the foreign content of an item of
+  supply, as determined by the Secretary of the department or the head of
+  the agency to which such certificate was furnished.
+SEC. 202. FRAUDULENT USE OF `MADE IN AMERICA' LABELS.
+  Not later than 270 days after the date of enactment of this Act, subpart
+  9.4 of title 48, Code of Federal Regulations (or any successor regulation)
+  shall be amended to specify that any person having been determined to have
+  intentionally affixed a label bearing a `Made in America' inscription (or
+  any inscription having the same meaning) to a product sold in or shipped
+  to the United States may, when such product was not made in the United
+  States, be found to presently lack business integrity or business honesty
+  to such a degree as to seriously and directly affect the responsibility
+  of such person to perform any contract awarded by the Federal Government
+  or perform a subcontract under such a contract.
+SEC. 203. EVALUATION OF DOMESTIC DEFENSE INDUSTRIAL BASE POLICY.
+  (a) CONGRESSIONAL COMMISSION ON THE EVALUATION OF DEFENSE INDUSTRIAL BASE
+  POLICY ESTABLISHED- There is established the Congressional Commission on
+  the Evaluation of the Defense Industrial Base Policy (hereafter in this
+  section referred to as the `Commission').
+  (b) DUTIES OF THE COMMISSION-
+  (1) IN GENERAL- The Commission shall develop criteria for maintaining the
+  strength of the domestic defense industrial base for purposes of supporting
+  the national security strategy of the United States.
+  (2) CONSIDERATION OF AGENCY PROCEDURES AND ACTIVITIES- In developing
+  criteria under paragraph (1), the Commission shall consider, with respect
+  to each Federal agency and department which has any responsibility for
+  maintaining the strength of the domestic defense industrial base--
+  (A) the extent to which the statutory authority, policies, regulations,
+  organizational arrangements, plans, programs, and budgets of such agency
+  or department are adequate for the purpose of maintaining the strength of
+  the domestic defense industrial base; and
+  (B) the degree to which such authority, policies, regulations, arrangements,
+  plans, programs, and budgets are being effectively implemented and
+  sufficiently coordinated (within the agency or department and with other
+  Federal agencies and departments).
+  (3) EVALUATION OF CIVIL-MILITARY INTEGRATION- The Commission, in
+  developing criteria under paragraph (1) and considering agency procedures
+  and activities under paragraph (2), shall evaluate the feasibility of
+  integrating defense research, development, production, acquisition,
+  and other relevant contracting activities with similar activities in
+  the commercial sector, and the degree to which such integration is being
+  implemented by the agency or department.
+  (c) MEMBERSHIP-
+  (1) NUMBER AND APPOINTMENT- The Commission shall be composed of 9 members,
+  including--
+  (A) 3 members appointed by the Speaker of the House of Representatives (2
+  of whom shall be appointed upon the recommendation of the majority leader
+  of the House of Representatives and 1 of whom shall be appointed upon the
+  recommendation of the minority leader of the House of Representatives) from
+  among individuals who are especially qualified to serve on the Commission
+  by reason of their education, training, or experience;
+  (B) 3 members appointed by the President pro tempore of the Senate (2 of
+  whom shall be appointed upon the recommendation of the majority leader of
+  the Senate and 1 of whom shall be appointed upon the recommendation of the
+  minority leader of the Senate) from among individuals who are especially
+  qualified to serve on the Commission by reason of their education, training,
+  or experience; and
+  (C) 3 members appointed by a majority of the members appointed under
+  subparagraphs (A) and (B) from among individuals who are especially
+  qualified to serve on the Commission by reason of their education, training,
+  or experience.
+  (2) TERMS-
+  (A) IN GENERAL- Each member shall be appointed for the life of the
+  Commission.
+  (B) VACANCY- A vacancy in the Commission shall be filled in the same manner
+  in which the original appointment was made.
+  (3) PROHIBITION ON COMPENSATION-
+  (A) IN GENERAL- Except as provided in subparagraph (B), members of the
+  Commission shall serve without pay.
+  (B) TRAVEL EXPENSES- Each member shall receive travel expenses, including
+  per diem in lieu of subsistence, in accordance with sections 5702 and 5703
+  of title 5, United States Code.
+  (4) QUORUM- A majority of the members of the Commission shall constitute
+  a quorum, but a lesser number may hold hearings.
+  (5) CHAIRPERSON- The Chairperson of the Commission shall be elected by
+  the members of the Commission from among the individuals appointed under
+  paragraph (1)(C).
+  (6) MEETINGS- The Commission shall meet at the call of the Chairperson or
+  a majority of the members.
+  (d) POWERS OF COMMISSION-
+  (1) HEARINGS AND SESSIONS-
+  (A) IN GENERAL- The Commission may, for the purpose of carrying out this
+  section, hold hearings, sit and act at times and places, take testimony,
+  and receive evidence as the Commission considers appropriate.
+  (B) ADMINISTRATION OF OATHS- The Commission may administer oaths or
+  affirmations to witnesses appearing before the Commission.
+  (2) POWERS OF MEMBERS AND AGENTS- Any member or agent of the Commission may,
+  if authorized by the Commission, take any action which the Commission is
+  authorized to take.
+  (3) OBTAINING OFFICIAL DATA-
+  (A) AUTHORITY TO OBTAIN- Notwithstanding any provision of section 552a of
+  title 5, United States Code, the Commission may secure directly from any
+  department or agency of the United States information necessary to enable
+  the Commission to carry out this Act.
+  (B) PROCEDURE- Upon request of the Chairperson of the Commission, the head
+  of a department or agency referred to in subparagraph (A) shall furnish
+  the information requested to the Commission.
+  (C) USE OF INFORMATION- The Commission shall be subject to the same
+  limitations with respect to the use or disclosure of any confidential
+  or privileged information, trade secrets, or other proprietary or
+  business-sensitive information which is obtained from any department or
+  agency under this subsection as are applicable to the use or disclosure
+  of such information or secrets by such department or agency.
+  (4) MAILS- The Commission may use the United States mails in the same
+  manner and under the same conditions as other departments and agencies of
+  the United States.
+  (5) ADMINISTRATIVE SUPPORT SERVICES- Upon the request of the Commission,
+  the Administrator of General Services shall provide to the Commission,
+  on a reimbursable basis, the administrative support services necessary
+  for the Commission to carry out its responsibilities under this section.
+  (e) STAFF OF COMMISSION; EXPERTS AND CONSULTANTS-
+  (1) STAFF- Subject to such regulations as the Commission may prescribe,
+  and with the approval of the Commission, the Chairperson may appoint and
+  fix the pay of such personnel as the Chairperson considers appropriate.
+  (2) APPLICABILITY OF CERTAIN CIVIL SERVICE LAWS- The staff of the Commission
+  may be appointed without regard to the provisions of title 5, United States
+  Code, governing appointments in the competitive service, and may be paid
+  without regard to the provisions of chapter 51 and subchapter III of chapter
+  53 of that title relating to classification and General Schedule pay rates,
+  except that an individual so appointed may not receive pay in excess of
+  the annual rate of basic pay payable for GS-18 of the General Schedule.
+  (3) EXPERTS AND CONSULTANTS- Subject to such regulations as the Commission
+  may prescribe, the Chairperson may procure temporary and intermittent
+  services under section 3109(b) of title 5, United States Code, but at
+  rates for individuals not to exceed the annual rate of basic pay payable
+  for GS-18 of the General Schedule.
+  (4) STAFF OF FEDERAL AGENCIES- Upon request of the Chairperson, the head
+  of any Federal department or agency may detail, on a reimbursable basis,
+  any of the personnel of that department or agency to the Commission to
+  assist it in carrying out its duties under this Act.
+  (f) DOMESTIC DEFENSE INDUSTRIAL BASE DEFINED- For the purposes of this
+  section, the term `domestic defense industrial base' means--
+  (1) the industries in the United States and Canada which at any time are
+  providing national defense materials and services; and
+  (2) the industries in the United States and Canada which reasonably would
+  be expected to provide national defense materials and services in a time
+  of emergency or war.
+  (g) REPORTS- The Commission shall submit to the Congress and the President--
+  (1) an interim report at the end of the 1-year period beginning on the
+  date the Commission first meets with a majority of members present; and
+  (2) a final report not later than March 1, 1995, on the findings of the
+  Commission under this section with respect to the domestic defense industrial
+  base, together with such recommendations for legislative, administrative,
+  or policy action as the Commission may determine to be appropriate.
+  (h) TERMINATION- The Commission shall cease to exist 60 days after the
+  date on which the final report is submitted pursuant to subsection (g)(2).
+  (i) AUTHORIZATION OF APPROPRIATIONS- There is authorized to be appropriated
+  an amount equal to not more than $500,000 to carry out this section,
+  such sums to remain available until the termination of the Commission.
+TITLE III--MISCELLANEOUS PROVISIONS
+SEC. 301. ENERGY SECURITY.
+  Section 203 of the Geothermal Energy Research, Development, and Demonstration
+  Act of 1974 (30 U.S.C. 1143) is amended by striking `1990' and inserting
+  `1993'.
+SEC. 302. DOMESTIC RETAIL DEPOSIT-TAKING BY FOREIGN BANKS.
+  (a) IN GENERAL- Section 6(c) of the International Banking Act of 1978
+  (12 U.S.C. 3104(c)) is amended--
+  (1) in paragraph (1)--
+  (A) by inserting `domestic retail' before `deposit accounts'; and
+  (B) by inserting `and requiring deposit insurance protection,' after
+  `$100,000,'; and
+  (2) in paragraph (2)--
+  (A) by striking `Deposit' and inserting `Domestic retail deposit'; and
+  (B) by inserting `that require deposit insurance protection' after
+  `$100,000'.
+  (b) EFFECTIVE DATE- This section, and the amendments made by this section,
+  shall have the same effective date as the Federal Deposit Insurance
+  Corporation Improvement Act of 1991.
+SEC. 303. DEPOSIT INSURANCE ASSESSMENT RATES FOR LIFELINE ACCOUNT DEPOSITS.
+  (a) IN GENERAL- Section 7(b)(2) of the Federal Deposit Insurance Act (12
+  U.S.C. 1817(b)(2)) (as amended by section 302(a) of the Federal Deposit
+  Insurance Corporation Improvement Act of 1991) is amended--
+  (1) in subparagraph (D), by striking the comma after `members'; and
+  (2) by adding at the end the following new subparagraph:
+  `(H) BANK ENTERPRISE ACT REQUIREMENT- The Corporation shall design
+  the risk-based assessment system so that, insofar as the system bases
+  assessments, directly or indirectly, on deposits, the portion of the
+  deposits of any insured depository institution which are attributable to
+  lifeline accounts established in accordance with the Bank Enterprise Act
+  of 1991 shall be subject to assessment at a rate determined in accordance
+  with such Act.'.
+  (b) CONFORMING AMENDMENTS-
+  (1) Section 232(b)(1) of the Federal Deposit Insurance Corporation
+  Improvement Act of 1991 (Public Law 102-242) is amended--
+  (A) by striking `(8), (9), and (10)' and inserting `and (8)'; and
+  (B) by striking `(9), (10), and (11)' and inserting `and (9)'.
+  (2) Section 233(a) of the Federal Deposit Insurance Corporation Improvement
+  Act of 1991 is amended by striking `section 235' where such term appears
+  in paragraphs (3) and (5) and inserting `section 234'.
+  (3) Section 7(d)(5) of the Federal Deposit Insurance Act (12
+  U.S.C. 1817(d)(4)) (as added by section 233(c)(1) of the Federal Deposit
+  Insurance Corporation Improvement Act of 1991) is amended by striking
+  `section 235' and inserting `section 234'.
+  (4) Effective on the effective date of the amendment made by section 302(a)
+  of the Federal Deposit Insurance Corporation Improvement Act of 1991,
+  section 232(a)(1) of the Federal Deposit Insurance Corporation Improvement
+  Act of 1991 (12 U.S.C. 1834(a)((1)) is amended by striking `7(b)(10)'
+  and inserting `7(b)(2)(H)'.
+  (5) Section 10(f) of the Federal Deposit Insurance Act (12 U.S.C. 1820(f))
+  (as added by section 302(d) of the Federal Deposit Insurance Corporation
+  Improvement Act of 1991) is hereby redesignated as subsection (g).
+  (6) Section 302(e) of the Federal Deposit Insurance Corporation Improvement
+  Act of 1991 (Public Law 102-242, 105 Stat. 2349) is amended--
+  (A) by redesignating paragraphs (2), (3), and (4) as paragraphs (3),
+  (4), and (5), respectively; and
+  (B) by striking paragraph (1) and inserting the following new paragraphs:
+  `(1) in section 5(d)(3)(B)(i)--
+  `(A) by striking `average assessment base' and inserting `deposits'; and
+  `(B) by striking `shall--' and all that follows through the period and
+  inserting `shall be treated as deposits which are insured by the Savings
+  Association Insurance Fund.';
+  `(2) in section 5(d)(3)(B)(ii)--
+  `(A) by striking `average assessment base' and inserting `deposits'; and
+  `(B) by striking `shall--' and all that follows through the period and
+  inserting `shall be treated as deposits which are insured by the Bank
+  Insurance Fund.'.
+  (7) Effective on the effective date of the amendment made by section 302(a)
+  of the Federal Deposit Insurance Corporation Improvement Act of 1991,
+  section 7(b) of the Federal Deposit Insurance Act (12 U.S.C. 1817(c)
+  (as amended by such section 302(a)) is amended--
+  (A) by adding at the end, the paragraph added to such section 7(b) (as in
+  effect on the day before the effective date of such amendment) by section
+  103(b)(2) of the Federal Deposit Insurance Corporation Improvement Act of
+  1991; and
+  (B) by redesignating such paragraph as paragraph (6).
+  (8) Effective on the effective date of the amendment made by section
+  302(e)(4) of the Federal Deposit Insurance Corporation Improvement Act
+  of 1991 (as so redesignated by paragraph (6)(A) of this subsection),
+  section 7(b) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b))
+  (as amended by section 302(a) of the Federal Deposit Insurance Corporation
+  Improvement Act of 1991) is amended by adding after paragraph (6) (as
+  transferred and so redesignated by paragraph (6) of this subsection)
+  the following new paragraph:
+  `(7) COMMUNITY ENTERPRISE CREDITS- The Corporation shall allow a credit
+  against any semiannual assessment to any insured depository institution
+  which satisfies the requirements of the Community Enterprise Assessment
+  Credit Board under section 233(a)(1) of the Bank Enterprise Act of 1991
+  in the amount determined by such Board by regulation.'.
+  (9) Effective on the effective date of the amendment made by section
+  302(e)(4) of the Federal Deposit Insurance Corporation Improvement Act of
+  1991 (as so redesignated by paragraph (3)(A) of this subsection), section
+  233 of the Federal Deposit Insurance Corporation Improvement Act of 1991
+  (12 U.S.C. 1834a) is amended--
+  (A) in subsection (a)(1)(A), by striking `7(d)(4)' and inserting `7(b)(7)';
+  (B) in subsection (a)(3), by striking `7(d)(4)' and inserting `7(b)(7)'; and
+  (C) in subsection (e)(2), by striking `made for purposes of the notification
+  required under section 7(d)(1)(B)' and inserting `of the semiannual
+  assessment to which such credit is applicable'.
+SEC. 304. EFFECTIVE DATE.
+  This Act and the amendments made by this Act shall be deemed to have become
+  effective on March 1, 1992, except as otherwise specifically provided in
+  this Act.
+SEC. 305. PROVISIONAL REPEAL OF DUPLICATIVE PROVISIONS.
+  In the event of the enactment of H.R. 5334 (An Act to amend and extend
+  certain laws relating to housing and community development, and for other
+  purposes), the following provisions of that Act, and the amendments made
+  by such provisions, are repealed, effective on the date of enactment of
+  this Act:
+  (1) Section 1603(a)(3) of such Act.
+  (2) Section 1604(a)(11) of such Act.
+  (3) Paragraphs (1), (2), and (3) of section 1604(b) of such Act.
+  (3) Paragraphs (2) through (7) of section 1605(a) of such Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

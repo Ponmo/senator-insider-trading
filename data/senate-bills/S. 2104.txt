@@ -1,0 +1,533 @@
+--S.2104--
+S.2104
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Civil Rights Act of 1964 to restore and strengthen civil rights
+laws that
+ban discrimination in employment, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Civil Rights Act of 1990'.
+SEC. 2. FINDINGS AND PURPOSES.
+ (a) FINDINGS- Congress finds that--
+ (1) in a series of recent decisions addressing employment discrimination
+ claims under Federal law, the Supreme Court cut back dramatically on the
+ scope and effectiveness of civil rights protections; and
+ (2) existing protections and remedies under Federal law are not adequate to
+ deter unlawful discrimination or to compensate victims of such discrimination.
+ (b) PURPOSES- The purposes of this Act are to--
+ (1) respond to the Supreme Court's recent decisions by restoring the civil
+ rights protections that were dramatically limited by those decisions; and
+ (2) strengthen existing protections and remedies available under Federal civil
+ rights laws to provide more effective deterrence and adequate compensation
+ for victims of discrimination.
+SEC. 3. DEFINITIONS.
+ Section 701 of the Civil Rights Act of 1964 (42 U.S.C. 2000e) is amended
+ by adding at the end thereof the following new subsections:
+ `(l) The term `complaining party' means the Commission, the Attorney General,
+ or a person who may bring an action or proceeding under this title.
+ `(m) The term `demonstrates' means meets the burdens of production and
+ persuasion.
+ `(n) The term `group of employment practices' means a combination of
+ employment practices that produces one or more decisions with respect to
+ employment, employment referral, or admission to a labor organization,
+ apprenticeship or other training or retraining program.
+ `(o)(1) The term `required by business necessity' means--
+ `(A) in the case of employment practices involving selection such as tests,
+ recruitment, evaluations, or requirements of education, experience, knowledge,
+ skill, ability or physical characteristics, or practices primarily related
+ to a measure of job performance, the practice or group of practices must
+ bear a significant relationship to successful performance of the job; or
+ `(B) in the case of other employment decisions, not involving employment
+ selection practices as covered by subparagraph (A) (such as, but not
+ limited to, a plant closing or bankruptcy), or that involve rules relating
+ to methadone, alcohol or tobacco use, the practice or group of practices
+ must bear a significant relationship to a manifest business objective of
+ the employer.
+ `(2) In deciding whether the standards described in paragraph (1) for
+ business necessity have been met, unsubstantiated opinion and hearsay are
+ not sufficient; demonstrable evidence is required. The court may receive
+ such evidence as statistical reports, validation studies, expert testimony,
+ performance evaluations, written records or notes related to the practice
+ or decision, testimony of individuals with knowledge of the practice or
+ decision involved, other evidence relevant to the employment decision,
+ prior successful experience and other evidence as permitted by the Federal
+ Rules of Evidence, and the court shall give such weight, if any, to such
+ evidence as is appropriate.
+ `(3) This subsection is meant to codify the meaning of `business necessity'
+ as used in Griggs v. Duke Power Co. (401 U.S. 424 (1971)) and to overrule
+ the treatment of business necessity as a defense in Wards Cove Packing
+ Co. v. Atonio (109 S. Ct. 2115 (1989)).
+ `(p) The term `respondent' means an employer, employment agency, labor
+ organization, joint labor-management committee controlling apprenticeship
+ or other training or retraining programs, including on-the-job training
+ programs, or those Federal entities subject to the provisions of section 717
+ (or the heads thereof).'.
+SEC. 4. RESTORING THE BURDEN OF PROOF IN DISPARATE IMPACT CASES.
+ Section 703 of the Civil Rights Act of 1964 (42 U.S.C. 2000e-2) is amended
+ by adding at the end thereof the following new subsection:
+ `(k) PROOF OF UNLAWFUL EMPLOYMENT PRACTICES IN DISPARATE IMPACT CASES- (1)
+ An unlawful employment practice based on disparate impact is established
+ under this section when--
+ `(A) a complaining party demonstrates that an employment practice results in
+ a disparate impact on the basis of race, color, religion, sex, or national
+ origin, and the respondent fails to demonstrate that such practice is
+ required by business necessity; or
+ `(B) a complaining party demonstrates that a group of employment practices
+ results in a disparate impact on the basis of race, color, religion, sex,
+ or national origin, and the respondent fails to demonstrate that such group
+ of employment practices is required by business necessity, except that--
+ `(i) except as provided in clause (iii), if a complaining party demonstrates
+ that a group of employment practices results in a disparate impact, such
+ party shall not be required to demonstrate which specific practice or
+ practices within the group results in such disparate impact;
+ `(ii) if the respondent demonstrates that a specific employment practice
+ within such group of employment practices is not responsible in whole or
+ in significant part for the disparate impact, the respondent shall not
+ be required to demonstrate that such practice is required by business
+ necessity; and
+ `(iii) the complaining party shall be required to demonstrate which specific
+ practice or practices are responsible for the disparate impact in all cases
+ unless the court finds after discovery (I) that the respondent has destroyed,
+ concealed or refused to produce existing records that are necessary to make
+ this showing, or (II) that the respondent failed to keep such records;
+ and except where the court makes such a finding, the respondent shall
+ be required to demonstrate business necessity only as to those specific
+ practices demonstrated by the complaining party to have been responsible
+ in whole or in significant part for the disparate impact;
+except that an employment practice or group of employment practices
+demonstrated to be required by business necessity shall be unlawful where
+a complaining party demonstrates that a different employment practice or
+group of employment practices with less disparate impact would serve the
+respondent as well.
+ `(2) A demonstration that an employment practice is required by business
+ necessity may be used as a defense only against a claim under this subsection.
+ `(3) Notwithstanding any other provision of this title, a rule barring the
+ employment of an individual who currently and knowingly uses or possesses
+ an illegal drug as defined in schedules I and II of section 102(6) of
+ the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or
+ possession of a drug taken under the supervision of a licensed health care
+ professional, or any other use or possession authorized by the Controlled
+ Substances Act or any other provision of Federal law, shall be considered an
+ unlawful employment practice under this title only if such rule is adopted
+ or applied with an intent to discriminate because of race, color, religion,
+ sex, or national origin.
+ `(4) The mere existence of a statistical imbalance in an employer's workforce
+ on account of race, color, religion, sex, or national origin is not alone
+ sufficient to establish a prima facie case of disparate impact violation.
+ `(5) Nothing in this subsection is intended to overrule existing cases
+ involving comparable worth.'.
+SEC. 5. CLARIFYING PROHIBITION AGAINST IMPERMISSIBLE CONSIDERATION OF RACE,
+COLOR, RELIGION, SEX, OR NATIONAL ORIGIN IN EMPLOYMENT PRACTICES.
+ (a) IN GENERAL- Section 703 of the Civil Rights Act of 1964 (42
+ U.S.C. 2000e-2) (as amended by section 4) is further amended by adding at
+ the end thereof the following new subsection:
+ `(l) DISCRIMINATORY PRACTICE NEED NOT BE SOLE MOTIVATING FACTOR- Except
+ as otherwise provided in this title, an unlawful employment practice
+ is established when the complaining party demonstrates that race, color,
+ religion, sex, or national origin was a motivating factor for any employment
+ practice, even though other factors also motivated such practice.'.
+ (b) ENFORCEMENT PROVISIONS- Section 706(g) of such Act (42 U.S.C. 2000e-5(g))
+ is amended by inserting before the period in the last sentence the following:
+ `or, in a case where a violation is established under section 703(l), if
+ the respondent demonstrates that it would have taken the same action in
+ the absence of any discrimination. On a claim where a violation is proven
+ under section 703(l) and the respondent demonstrates that it would have
+ taken the same action in the absence of any discrimination, the court may
+ grant declaratory relief, injunctive relief, attorney's fees and costs,
+ and it shall not award damages'.
+SEC. 6. FACILITATING PROMPT AND ORDERLY RESOLUTION OF CHALLENGES TO EMPLOYMENT
+PRACTICES IMPLEMENTING LITIGATED OR CONSENT JUDGMENTS OR ORDERS.
+ Section 703 of the Civil Rights Act of 1964 (42 U.S.C. 2000e-2) (as amended
+ by sections 4 and 5) is further amended by adding at the end thereof the
+ following new subsection:
+ `(m) FINALITY OF LITIGATED OR CONSENT JUDGMENTS OR ORDERS- (1) Notwithstanding
+ any other provision of law, and except as provided in paragraph (3), in
+ the case of orders or judgments entered before the date that occurs 30 days
+ after the date of enactment of the Civil Rights Act of 1990, an employment
+ practice that implements and is within the scope of a litigated or consent
+ judgment or order resolving a claim of employment discrimination under the
+ United States Constitution or Federal civil rights laws may not be challenged
+ in a claim under the United States Constitution or Federal civil rights laws--
+ `(A) by a person who, prior to the entry of such judgment or order, had--
+ `(i) actual notice from any source of the proposed judgment or order
+ sufficient to apprise such person that such judgment or order might affect
+ the interests of such person and that an opportunity was available to
+ present objections to such judgment or order; and
+ `(ii) a reasonable opportunity to present objections to such judgment
+ or order;
+ `(B) by a person with respect to whom the requirements of subparagraph
+ (A) are not satisfied, if the court determines that the interests of such
+ person were adequately represented by another person who challenged such
+ judgment or order prior to or after the entry of such judgment or order; or
+ `(C) if the court that entered the judgment or order determines that
+ reasonable efforts were made to provide notice to interested persons.
+A determination under subparagraph (C) shall be made prior to the entry of
+the judgment or order, except that if the judgment or order was entered
+prior to the date of the enactment of this subsection, the determination
+may be made at any reasonable time.
+ `(2) Notwithstanding any other provision of law, and except as provided in
+ paragraph (3), in the case of orders or judgments entered on or after the
+ date that occurs 30 days after the date of enactment of the Civil Rights
+ Act of 1990, an employment practice that implements and is within the scope
+ of a litigated or consent judgment or order resolving a claim of employment
+ discrimination under the United States Constitution or Federal civil rights
+ laws may not be challenged in a claim under the United States Constitution
+ or Federal civil rights laws--
+ `(A) by a person who during the period of notice was an employee, former
+ employee, or applicant who, prior to the entry of such judgment or order,
+ had actual notice of the proposed judgment or order in sufficient detail
+ to apprise such person--
+ `(i) that such judgment or order may adversely affect the interests and
+ legal rights of such person;
+ `(ii) of any numerical relief in the proposed judgment or order on the basis
+ of race, color, religion, sex, or national origin for any job, position,
+ or other employment opportunity;
+ `(iii) that an opportunity is available to present objections to such
+ judgment or order by a future date certain; and
+ `(iv) that such person will likely be barred from challenging the proposed
+ judgment or order after such date;
+ `(B) by a person who during the period of notice was an employee, former
+ employee, or applicant who, prior to the entry of such judgment or order,
+ failed to receive actual notice of the proposed judgment or order meeting
+ the requirements of subparagraph (A), despite the diligent and best efforts
+ of the parties to provide individual notice; or
+ `(C) by a person who during the period of notice was not an employee, former
+ employee, or applicant, whose interests were adequately and competently
+ represented by a similarly  situated person who had previously challenged
+ the judgment or order on the same legal grounds and with a similar factual
+ situation, unless there has been an intervening change in law or fact.
+ `(3) Nothing in this subsection shall be construed to--
+ `(A) alter the standards for intervention under rule 24 of the Federal Rules
+ of Civil Procedure or apply to the rights of parties who have successfully
+ intervened pursuant to such rule in the proceeding in which they intervened;
+ `(B) apply to the rights of parties to the action in which the litigated or
+ consent judgment or order was entered, or of members of a class represented
+ or sought to be represented in such action, or of members of a group on
+ whose behalf relief was sought in such action by the Federal Government;
+ `(C) prevent challenges to a litigated or consent judgment or order on the
+ ground that such judgment or order was obtained through collusion or fraud,
+ or is transparently invalid or was entered by a court lacking subject matter
+ jurisdiction; or
+ `(D) authorize or permit the denial to any person of the due process of
+ law required by the United States Constitution.
+ `(4) Any action, not precluded under this subsection, that challenges an
+ employment practice that implements and is within the scope of a litigated
+ or consent judgment or order of the type referred to in paragraph (1) shall
+ be brought in the court, and if possible before the judge, that entered such
+ judgment or order. Nothing in this subsection shall preclude a transfer of
+ such action pursuant to section 1404 of title 28, United States Code.'.
+SEC. 7. STATUTE OF LIMITATIONS; APPLICATION TO CHALLENGES TO SENIORITY SYSTEMS.
+ (a) STATUTE OF LIMITATIONS- Section 706(e) of the Civil Rights Act of 1964
+ (42 U.S.C. 2000e-5(e)) is amended--
+ (1) by striking out `one hundred and eighty days' and inserting in lieu
+ thereof `2 years';
+ (2) by inserting after `occurred' the first time it appears `or has been
+ applied to affect adversely the person aggrieved, whichever is later,';
+ (3) by striking out `, except that in' and inserting in lieu thereof
+ `. In'; and
+ (4) by striking out `such charge shall be filed' and all that follows through
+ `whichever is earlier, and'.
+ (b) APPLICATION TO CHALLENGES TO SENIORITY SYSTEMS- Section 703(h) of such
+ Act (42 U.S.C. 2000e-2) is amended by inserting after the first sentence the
+ following new sentence: `Where a seniority system or seniority practice is
+ part of a collective bargaining agreement and such system or practice was
+ included in such agreement with the intent to discriminate on the basis
+ of race, color, religion, sex, or national origin, the application of
+ such system or practice during the period that such collective bargaining
+ agreement is in effect shall be an unlawful employment practice.'.
+SEC. 8. PROVIDING FOR DAMAGES IN CASES OF INTENTIONAL DISCRIMINATION.
+ (a)  DAMAGES- Section 706(g) of the Civil Rights Act of 1964 (42
+ U.S.C. 2000e-5(g)) is amended by inserting before the last sentence the
+ following new sentences: `With respect to an unlawful employment practice
+ (other than an unlawful employment practice established in accordance with
+ section 703(k)) or in the case of an unlawful employment practice under the
+ Americans With Disabilities Act of 1990 (other than an unlawful employment
+ practice established in accordance with paragraph (3)(A) or paragraph (6)
+ of section 102 of that Act as it relates to standards and criteria that
+ tend to screen out individuals with disabilities)--
+ `(A) compensatory damages may be awarded; and
+ `(B) if the respondent (other than a government, government agency, or a
+ political subdivision) engaged in the unlawful employment practice with
+ malice, or with reckless or callous indifference to the federally protected
+ rights of others, punitive damages may be awarded against such respondent;
+in addition to the relief authorized by the preceding sentences of this
+subsection, except that compensatory damages shall not include backpay or
+any interest thereon. Compensatory and punitive damages and jury trials
+shall be available only for claims of intentional discrimination. If
+compensatory or punitive damages are sought with respect to a claim of
+intentional discrimination arising under this title, any party may demand
+a trial by jury.'.
+ (b) LIMITATION ON PUNITIVE DAMAGES- Section 706(g) of the Civil Rights Act
+ of 1964 (42 U.S.C. 2000e-5(g)) is amended--
+ (1) by inserting `(1)' after `(g)'; and
+ (2) by adding at the end the following:
+ `(2) The amount of punitive damages that may be awarded under paragraph
+ (1)(B) to an individual against a respondent shall not exceed--
+ `(A) $150,000; or
+ `(B) an amount equal to the sum of compensatory damages awarded under
+ paragraph (1)(A) and equitable monetary relief awarded under paragraph (1);
+whichever is greater.'.
+SEC. 9. CLARIFYING ATTORNEY'S FEES PROVISION.
+ Section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e-5(k))
+ is amended--
+ (1) by inserting `(1)' after `(k)';
+ (2) by inserting `(including expert fees and other litigation expenses)
+ and' after `attorney's fee,';
+ (3) by striking out `as part of the'; and
+ (4) by adding at the end thereof the following new paragraphs:
+ `(2) No consent order or judgment settling a claim under this title shall be
+ entered, and no stipulation of dismissal of a claim under this title shall
+ be effective, unless the parties or their counsel attest to the court that
+ a waiver of all or substantially all attorney's fees was not compelled as
+ a condition of the settlement.
+ `(3) In any action or proceeding in which any judgment or order granting
+ relief under this title is challenged, the court, in its discretion and in
+ order to promote fairness, may allow the prevailing party in the original
+ action (other than the Commission or the United States) to recover from
+ either an unsuccessful party challenging such relief or a party against
+ whom relief was granted in the original action or from more than one such
+ party under an equitable allocation determined by the court, a reasonable
+ attorney's fee (including expert fees and other litigation expenses) and
+ costs reasonably incurred in defending (as a party, intervenor or otherwise)
+ such judgment or order. In determining whether to allow recovery of fees
+ from the party challenging the initial judgment or order, the court should
+ consider not only whether such challenge was unsuccessful, but also whether
+ the award of fees against the challenging party promotes fairness, taking
+ into consideration such factors as the reasonableness of the challenging
+ party's legal and factual position and whether other special circumstances
+ make an award unjust.'.
+SEC. 10. PROVIDING FOR INTEREST, AND EXTENDING THE STATUTE OF LIMITATIONS,
+IN ACTIONS AGAINST THE FEDERAL GOVERNMENT.
+ Section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e-16) is amended--
+ (1) in subsection (c), by striking out `thirty days' and inserting in lieu
+ thereof `ninety days'; and
+ (2) in subsection (d), by inserting before the period `, and the same
+ interest to compensate for delay in payment shall be available as in cases
+ involving nonpublic parties, except that prejudgment interest may not be
+ awarded on compensatory damages'.
+SEC. 11. CONSTRUCTION.
+ Title XI of the Civil Rights Act of 1964 (42 U.S.C. 2000h et seq.) is
+ amended by adding at the end thereof the following new section:
+`SEC. 1107. RULES OF CONSTRUCTION FOR CIVIL RIGHTS LAWS.
+ `(a) EFFECTUATION OF PURPOSE- All Federal laws protecting the civil rights
+ of persons shall be interpreted consistent with the intent of such laws,
+ and shall be broadly construed to effectuate the purpose of such laws to
+ provide equal opportunity and provide effective remedies.
+ `(b) NONLIMITATION- Except as expressly provided, no Federal law protecting
+ the civil rights of persons shall be construed to repeal or amend by
+ implication any other Federal law protecting such civil rights.
+ `(c) INTERPRETATION- In interpreting Federal civil rights laws, including
+ laws protecting against discrimination on the basis of race, color, religion,
+ sex, national origin, age, and disability, courts and administrative agencies
+ shall not rely on the amendments made by the Civil Rights Act of 1990 as a
+ basis for limiting the theories of liability, rights, and remedies available
+ under civil rights laws not expressly amended by such Act.'.
+SEC. 12. RESTORING PROHIBITION AGAINST ALL RACIAL DISCRIMINATION IN THE
+MAKING AND ENFORCEMENT OF CONTRACTS.
+ Section 1977 of the Revised Statutes of the United States (42 U.S.C. 1981)
+ is amended--
+ (1) by inserting `(a)' before `All persons within'; and
+ (2) by adding at the end thereof the following new subsections:
+ `(b) For purposes of this section, the right to `make and enforce contracts'
+ shall include the making, performance, modification and termination
+ of contracts, and the enjoyment of all benefits, privileges, terms and
+ conditions of the contractual relationship.
+ `(c) The rights protected by this section are protected against impairment
+ by nongovernmental discrimination as well as against impairment under color
+ of State law.'.
+SEC. 13. LAWFUL COURT-ORDERED REMEDIES, AFFIRMATIVE ACTION AND CONCILIATION
+AGREEMENTS NOT AFFECTED.
+ Nothing in the amendments made by this Act shall be construed to require
+ or encourage an employer to adopt hiring or promotion quotas on the basis
+ of race, color, religion, sex, or national origin: Provided, however, That
+ nothing in the amendments made by this Act shall be construed to affect
+ court-ordered remedies, affirmative action, or conciliation agreements that
+ are otherwise in accordance with the law.
+SEC. 14. SEVERABILITY.
+ If any provision of this Act, or an amendment made by this Act, or the
+ application of such provision to any person or circumstances is held to
+ be invalid, the remainder of this Act and the amendments made by this Act,
+ and the application of such provision to other persons and circumstances,
+ shall not be affected thereby.
+SEC. 15. APPLICATION OF AMENDMENTS AND TRANSITION RULES.
+ (a) APPLICATION OF AMENDMENTS- The amendments made by--
+ (1) section 4 shall apply to all proceedings pending on or commenced after
+ June 5, 1989;
+ (2) section 5 shall apply to all proceedings pending on or commenced after
+ May 1, 1989;
+ (3) section 6 shall apply to all proceedings pending on or commenced after
+ June 12, 1989;
+ (4) sections 7(a)(1), 7(a)(3) and 7(a)(4), 7(b), 8, 9, 10, and 11 shall apply
+ to all proceedings pending on or commenced after the date of enactment of
+ this Act;
+ (5) section 7(a)(2) shall apply to all proceedings pending on or after June
+ 12, 1989; and
+ (6) section 12 shall apply to all proceedings pending on or commenced after
+ June 15, 1989.
+ (b) TRANSITION RULES-
+ (1) IN GENERAL- Any orders entered by a court between the effective dates
+ described in subsection (a) and the date of enactment of this Act that are
+ inconsistent with the amendments made by sections 4, 5, 7(a)(2), or 12,
+ shall be vacated if, not later than 1 year after such date of enactment,
+ a request for such relief is made.
+ (2) SECTION 6- Any orders entered between June 12, 1989 and the date of
+ enactment of this Act, that permit a challenge to an employment practice that
+ implements a litigated or consent judgment or order and that is inconsistent
+ with the amendment made by section 6, shall be vacated if, not later than 6
+ months after the date of enactment of this Act, a request for such relief is
+ made. For the 1-year period beginning on the date of enactment of this Act,
+ an individual whose challenge to an employment practice that implements a
+ litigated or consent judgment or order is denied under the amendment made
+ by section 6, or whose order or relief obtained under such challenge is
+ vacated under such section, shall have the same right of intervention in
+ the case in which the challenged litigated or consent judgment or order
+ was entered as that individual had on June 12, 1989.
+ (3) FINAL JUDGMENTS- Pursuant to paragraphs (1) and (2), any final judgment
+ entered prior to the date of the enactment of this Act as to which the
+ rights of any of the parties thereto have become fixed and vested, where
+ the time for seeking further judicial review of such judgment has otherwise
+ expired pursuant to title 28 of the United States Code, the Federal Rules
+ of Civil Procedure, and the Federal Rules of Appellate Procedure, shall be
+ vacated in whole or in part if justice requires pursuant to rule 60(b)(6)
+ of the Federal Rules of Civil Procedure or other appropriate authority,
+ and consistent with the constitutional requirements of due process of law.
+ (c) PERIOD OF LIMITATIONS- The period of limitations for the filing of a
+ claim or charge shall be tolled from the applicable effective date described
+ in subsection (a) until the date of enactment of this Act, on a showing that
+ the claim or charge was not filed because of a rule or decision altered by
+ the amendments made by section 4, 5, 7(a)(2), or 12.
+SEC. 16. COVERAGE OF CONGRESS AND THE AGENCIES OF THE LEGISLATIVE BRANCH.
+ (a)  COVERAGE OF THE SENATE-
+ (1) COMMITMENT TO RULE XLII- The Senate reaffirms its commitment to Rule
+ XLII of the Standing Rules of the Senate which provides as follows:
+ `No member, officer, or employee of the Senate shall, with respect to
+ employment by the Senate or any office thereof--
+ `(a) fail or refuse to hire an individual;
+ `(b) discharge an individual; or
+ `(c) otherwise discriminate against an individual with respect to promotion,
+ compensation, or terms, conditions, or privileges of employment;
+on the basis of such individual's race, color, religion, sex, national origin,
+age, or state of physical handicap.'.
+ (2) APPLICATION TO SENATE EMPLOYMENT- The rights and protections provided
+ pursuant to this Act, the Civil Rights Act of 1964, the Americans with
+ Disabilities Act of 1990, the Age Discrimination in Employment Act of 1967,
+ and the Rehabilitation Act of 1973 shall apply with respect to employment
+ by the United States Senate.
+ (3) INVESTIGATION AND ADJUDICATION OF CLAIMS- All claims raised by any
+ individual with respect to Senate employment, pursuant to the Acts referred
+ to in paragraph (2), shall be investigated and adjudicated by the Select
+ Committee on Ethics, pursuant to S. Res. 338, 88th Congress, as amended,
+ or such other entity as the Senate may designate.
+ (4) RIGHTS OF EMPLOYEES- The Committee on Rules and Administration shall
+ ensure that Senate employees are informed of their rights under the Acts
+ referred to in paragraph (2).
+ (5) APPLICABLE REMEDIES- When assigning remedies to individuals found to
+ have a valid claim under the Acts referred to in paragraph (2), the Select
+ Committee on Ethics, or such other entity as the Senate may designate,
+ should to the extent practicable apply the same remedies applicable to
+ all other employees covered by the Acts referred to in paragraph (2). Such
+ remedies shall apply exclusively.
+ (6) MATTERS OTHER THAN EMPLOYMENT-
+ (A) IN GENERAL- The rights and protections under the Americans with
+ Disabilities Act of 1990 shall, subject to subparagraph (B), apply with
+ respect to the conduct of the Senate regarding matters other than employment.
+ (B) REMEDIES- The Architect of the Capitol shall establish remedies and
+ procedures to be utilized with respect to the rights and protections
+ provided pursuant to subparagraph (A). Such remedies and procedures shall
+ apply exclusively, after approval in accordance with subparagraph (C).
+ (C) PROPOSED REMEDIES AND PROCEDURES- For purposes of subparagraph (B),
+ the Architect of the Capitol shall submit proposed remedies and procedures
+ to the Senate Committee on Rules and Administration. The remedies and
+ procedures shall be effective upon the approval of the Committee on Rules
+ and Administration.
+ (7) EXERCISE OF RULEMAKING POWER- Notwithstanding any other provision of
+ law, enforcement and adjudication of the rights and protections referred
+ to in paragraphs (2) and (6)(A) shall be within the exclusive jurisdiction
+ of the United States Senate. The provisions of paragraphs (1), (3), (4),
+ (5), (6)(B), and (6)(C) are enacted by the Senate as an exercise of the
+ rule-making power of the Senate, with full recognition of the right of the
+ Senate to change its rules, in the same manner, and to the same extent,
+ as in the case of any other rule of the Senate.
+ (b) COVERAGE OF THE HOUSE OF REPRESENTATIVES-
+ (1) IN GENERAL- Notwithstanding any provision of title VII of the Civil
+ Rights Act of 1964 (42 U.S.C. 2000e et seq.) or of other law, the purposes
+ of such title shall, subject to paragraph (2), apply in their entirety to
+ the House of Representatives.
+ (2) EMPLOYMENT IN THE HOUSE-
+ (A) APPLICATION- The rights and protections under title VII of the Civil
+ Rights Act of 1964 (42 U.S.C. 2000e et seq.) shall, subject to subparagraph
+ (B), apply with respect to any employee in an employment position in
+ the House of Representatives and any employing authority of the House of
+ Representatives.
+ (B) ADMINISTRATION-
+ (i) IN GENERAL- In the administration of this paragraph, the remedies and
+ procedures made applicable pursuant to the resolution described in clause
+ (ii) shall apply exclusively.
+ (ii) RESOLUTION- The resolution referred to in clause (i) is House Resolution
+ 15 of the One Hundred First Congress, as agreed to January 3, 1989, or
+ any other provision that continues in effect the provisions of, or is a
+ successor to, the Fair Employment Practices Resolution (House Resolution
+ 558 of the One Hundredth Congress, as agreed to October 4, 1988).
+ (C) EXERCISE OF RULEMAKING POWER- The provisions of subparagraph (B) are
+ enacted by the House of Representatives as an exercise of the rulemaking
+ power of the House of Representatives, with full recognition of the right
+ of the House to change its rules, in the same manner, and to the same extent
+ as in the case of any other rule of the House.
+ (c) INSTRUMENTALITIES OF CONGRESS-
+ (1) IN GENERAL- The rights and protections under this Act and title VII of
+ the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) shall, subject to
+ paragraph (2), apply with respect to the conduct of each instrumentality
+ of the Congress.
+ (2) ESTABLISHMENT OF REMEDIES AND PROCEDURES BY INSTRUMENTALITIES- The chief
+ official of each instrumentality of the Congress shall establish remedies
+ and procedures to be utilized with respect to the rights and protections
+ provided pursuant to paragraph (1). Such remedies and procedures shall
+ apply exclusively.
+ (3) REPORT TO CONGRESS- The chief official of each instrumentality of the
+ Congress shall, after establishing remedies and procedures for purposes
+ of paragraph (2), submit to the Congress a report describing the remedies
+ and procedures.
+ (4) DEFINITION OF INSTRUMENTALITIES- For purposes of this section,
+ instrumentalities of the Congress include the following: the Architect of
+ the Capitol, the Congressional Budget Office, the General Accounting Office,
+ the Government Printing Office, the Office of Technology Assessment, and
+ the United States Botanic Garden.
+ (5) CONSTRUCTION- Nothing in this section shall alter the enforcement
+ procedures for individuals protected under section 717 of title VII of the
+ Civil Rights Act of 1964 (42 U.S.C. 2000e-16).
+SEC. 17. OTHER STATUTE OF LIMITATIONS; NOTICE OF LIMITATIONS PERIOD.
+ (a) CHARGE FILING LIMITATION PERIOD- Section 7(d) of the Age Discrimination
+ in Employment Act of 1967 (29 U.S.C. 626(d)) is amended--
+ (1)  in paragraph (1)--
+ (A) by striking out `180 days' and inserting in lieu thereof `2 years'; and
+ (B) by inserting `or has been applied to affect adversely the person
+ aggrieved, whichever is later' after `occurred'; and
+ (2) in paragraph (2), by striking out `within 300 days' and all that follows
+ through `whichever is earlier' and inserting in lieu thereof `a copy of
+ such charge shall be filed by the Commission with the State agency'.
+ (b) NOTICE OF LIMITATIONS PERIOD FOR FILING SUIT- Section 7(e) of such Act
+ (29 U.S.C. 626(e)) is amended--
+ (1) by striking out paragraph (2);
+ (2) by striking out the paragraph designation in paragraph (1);
+ (3) by striking out `Sections 6 and' and inserting `Section'; and
+ (4) by adding at the end thereof the following: `If a charge filed with
+ the Commission is dismissed or the Commission's proceedings are otherwise
+ terminated by the Commission, the Commission shall so notify the individual
+ referred to in subsection (d) and such individual may bring an action
+ against the respondent named in the charge at any time after 60 days from
+ the time the charge was timely filed until the expiration of 90 days after
+ the receipt of the notice provided under this subsection.'.
+SEC. 18. ALTERNATIVE MEANS OF DISPUTE RESOLUTION.
+ Where appropriate and to the extent authorized by law, the use of alternative
+ means of dispute resolution, including settlement negotiations, conciliation,
+ facilitation, mediation, factfinding, mini-trials, and arbitration, is
+ encouraged to resolve disputes arising under the Acts amended by this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

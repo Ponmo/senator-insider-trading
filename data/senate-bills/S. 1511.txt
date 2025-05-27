@@ -1,0 +1,315 @@
+--S.1511--
+S.1511
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Age Discrimination in Employment Act of 1967 to clarify the
+protections given to older individuals in regard to employee benefit plans,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Older Workers Benefit Protection Act'.
+TITLE I--OLDER WORKERS BENEFIT PROTECTION
+SEC. 101. FINDING.
+ The Congress finds that, as a result of the decision of the Supreme Court in
+ Public Employees Retirement System of Ohio v. Betts, 109 S.Ct. 256 (1989),
+ legislative action is necessary to restore the original congressional intent
+ in passing and amending the Age Discrimination in Employment Act of 1967
+ (29 U.S.C. 621 et seq.), which was to prohibit discrimination against older
+ workers in all employee benefits except when age-based reductions in employee
+ benefit plans are justified by significant cost considerations.
+SEC. 102. DEFINITION.
+ Section 11 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 630)
+ is amended by adding at the end the following new subsection:
+ `(l) The term `compensation, terms, conditions, or privileges of employment'
+ encompasses all employee benefits, including such benefits provided pursuant
+ to a bona fide employee benefit plan.'.
+SEC. 103. LAWFUL EMPLOYMENT PRACTICES.
+ Section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623)
+ is amended--
+ (1) in subsection (f), by striking paragraph (2) and inserting the following
+ new paragraph:
+ `(2) to take any action otherwise prohibited under subsection (a), (b),
+ (c), or (e) of this section--
+ `(A) to observe the terms of a bona fide seniority system that is not
+ intended to evade the purposes of this Act, except that no such seniority
+ system shall require or permit the involuntary retirement of any individual
+ specified by section 12(a) because of the age of such individual; or
+ `(B) to observe the terms of a bona fide employee benefit plan--
+ `(i) where, for each benefit or benefit package, the actual amount of payment
+ made or cost incurred on behalf of an older worker is no less than that made
+ or incurred on behalf of a younger worker, as permissible under section
+ 1625.10, title 29, Code of Federal Regulations (as in effect on June 22,
+ 1989); or
+ `(ii) that is a voluntary early retirement incentive plan consistent with
+ the relevant purpose or purposes of this Act.
+Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee
+benefit plan or voluntary early retirement incentive plan shall excuse the
+failure to hire any individual, and no such employee benefit plan shall require
+or permit the involuntary retirement of any individual specified by section
+12(a), because of the age of such individual. An employer, employment agency,
+or labor organization acting under subparagraph (A), or under clause (i) or
+(ii) of subparagraph (B), shall have the burden of proving that such actions
+are lawful in any civil enforcement proceeding brought under this Act; or';
+ (2) by redesignating the second subsection (i) as subsection (j); and
+ (3) by adding at the end the following new subsections:
+ `(k) A seniority system or employee benefit plan shall comply with this
+ Act regardless of the date of adoption of such system or plan.
+ `(l) Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)--
+ `(1) It shall not be a violation of subsection (a), (b), (c), or (e)
+ solely because--
+ `(A) an employee pension benefit plan (as defined in section 3(2) of
+ the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)))
+ provides for the attainment of a minimum age as a condition of eligibility
+ for normal or early retirement benefits; or
+ `(B) a defined benefit plan (as defined in section 3(35) of such Act)
+ provides for--
+ `(i) payments that constitute the subsidized portion of an early retirement
+ benefit; or
+ `(ii) social security supplements for plan participants that commence before
+ the age and terminate at the age (specified by the plan) when participants
+ are eligible to receive reduced or unreduced old-age insurance benefits
+ under title II of the Social Security Act (42 U.S.C. 401 et seq.), and that
+ do not exceed such old-age insurance benefits.
+ `(2)(A) It shall not be a violation of subsection (a), (b), (c), or (e)
+ solely because following a contingent event unrelated to age--
+ `(i) the value of any retiree health benefits received by an individual
+ eligible for an immediate pension; and
+ `(ii) the value of any additional pension benefits that are made available
+ solely as a result of the contingent event unrelated to age and following
+ which the individual is eligible for not less than an immediate and
+ unreduced pension,
+are deducted from severance pay made available as a result of the contingent
+event unrelated to age.
+ `(B) For an individual who receives immediate pension benefits that are
+ actuarially reduced under subparagraph (A)(i), the amount of the deduction
+ available pursuant to subparagraph (A)(i) shall be reduced by the same
+ percentage as the reduction in the pension benefits.
+ `(C) For purposes of this paragraph, severance pay shall include that
+ portion of supplemental unemployment compensation benefits (as described
+ in section 501(c)(17) of the Internal Revenue Code of 1986) that--
+ `(i) constitutes additional benefits of up to 52 weeks;
+ `(ii) has the primary purpose and effect of continuing benefits until an
+ individual becomes eligible for an immediate and unreduced pension; and
+ `(iii) is discontinued once the individual becomes eligible for an immediate
+ and unreduced pension.
+ `(D) For purposes of this paragraph, the term `retiree health benefits'
+ means benefits provided pursuant to a group health plan covering retirees,
+ for which (determined as of the contingent event unrelated to age)--
+ `(i) the package of benefits provided by the employer for the retirees who
+ are below age 65 is at least comparable to benefits provided under title
+ XVIII of the Social Security Act (42 U.S.C. 1395 et seq.); and
+ `(ii) the package of benefits provided by the employer for the retirees
+ who are age 65 and above is at least comparable to that offered under a
+ plan that provides a benefit package with one-fourth the value of benefits
+ provided under title XVIII of such Act.
+ `(E)(i) If the obligation of the employer to provide retiree health benefits
+ is of limited duration, the value for each individual shall be calculated
+ at a rate of $3,000 per year for benefit years before age 65, and $750 per
+ year for benefit years beginning at age 65 and above.
+ `(ii) If the obligation of the employer to provide retiree health benefits is
+ of unlimited duration, the value for each individual shall be calculated at
+ a rate of $48,000 for individuals below age 65, and $24,000 for individuals
+ age 65 and above.
+ `(iii) The values described in clauses (i) and (ii) shall be calculated
+ based on the age of the individual as of the date of the contingent event
+ unrelated to age. The values are effective on the date of enactment of this
+ subsection, and shall be adjusted on an annual basis, with respect to a
+ contingent event that occurs subsequent to the first year after the date of
+ enactment of this subsection, based on the medical component of the Consumer
+ Price Index for all-urban consumers published by the Department of Labor.
+ `(iv) If an individual is required to pay a premium for retiree health
+ benefits, the value calculated pursuant to this subparagraph shall be
+ reduced by whatever percentage of the overall premium the individual is
+ required to pay.
+ `(F) If an employer that has implemented a deduction pursuant to subparagraph
+ (A) fails to fulfill the obligation described in subparagraph (E), any
+ aggrieved individual may bring an action for specific performance of the
+ obligation described in subparagraph (E). The relief shall be in addition
+ to any other remedies provided under Federal or State law.
+ `(3) It shall not be a violation of subsection (a), (b), (c), or (e) solely
+ because an employer provides a bona fide employee benefit plan or plans
+ under which long-term disability benefits received by an individual are
+ reduced by any pension benefits (other than those attributable to employee
+ contributions)--
+ `(A) paid to the individual that the individual voluntarily elects to
+ receive; or
+ `(B) for which an individual who has attained the later of age 62 or normal
+ retirement age is eligible.'.
+SEC. 104. RULES AND REGULATIONS.
+ Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967
+ (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such
+ rules and regulations as the Commission may consider necessary or appropriate
+ for carrying out this title, and the amendments made by this title, only after
+ consultation with the Secretary of the Treasury and the Secretary of Labor.
+SEC. 105. EFFECTIVE DATE.
+ (a) IN GENERAL- Except as otherwise provided in this section, this title
+ and the amendments made by this title shall apply only to--
+ (1) any employee benefit established or modified on or after the date of
+ enactment of this Act; and
+ (2) other conduct occurring more than 180 days after the date of enactment
+ of this Act.
+ (b) COLLECTIVELY BARGAINED AGREEMENTS- With respect to any employee benefits
+ provided in accordance with a collective bargaining agreement--
+ (1) that is in effect as of the date of enactment of this Act;
+ (2) that terminates after such date of enactment;
+ (3) any provision of which was entered into by a labor organization (as
+ defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29
+ U.S.C. 206(d)(4))); and
+ (4) that contains any provision that would be superseded (in whole or part)
+ by this title and the amendments made by this title, but for the operation
+ of this section,
+this title and the amendments made by this title shall not apply until
+the termination of such collective bargaining agreement or June 1, 1992,
+whichever occurs first.
+ (c) STATES AND POLITICAL SUBDIVISIONS-
+ (1) IN GENERAL- With respect to any employee benefits provided by an
+ employer--
+ (A) that is a State or political subdivision of a State or any agency or
+ instrumentality of a State or political subdivision of a State; and
+ (B) that maintained an employee benefit plan at any time between June 23,
+ 1989, and the date of enactment of this Act that would be superseded (in
+ whole or part) by this title and the amendments made by this title but
+ for the operation of this subsection, and which plan may be modified only
+ through a change in applicable State or local law,
+this title and the amendments made by this title shall not apply until the
+date that is 2 years after the date of enactment of this Act.
+ (2) Election of disability coverage for employees hired prior to effective
+ date-
+ (A) IN GENERAL- An employer that maintains a plan described in paragraph
+ (1)(B) may, with regard to disability benefits provided pursuant to such
+ a plan--
+ (i) following reasonable notice to all employees, implement new disability
+ benefits that satisfy the requirements of the Age Discrimination in Employment
+ Act of 1967 (as amended by this title); and
+ (ii) then offer to each employee covered by a plan described in paragraph
+ (1)(B) the option to elect such new disability benefits in lieu of the
+ existing disability benefits, if--
+ (I) the offer is made and reasonable notice provided no later than the date
+ that is 2 years after the date of enactment of this Act; and
+ (II) the employee is given up to 180 days after the offer in which to make
+ the election.
+ (B) PREVIOUS DISABILITY BENEFITS- If the employee does not elect to be
+ covered by the new disability benefits, the employer may continue to cover
+ the employee under the previous disability benefits even though such previous
+ benefits do not otherwise satisfy the requirements of the Age Discrimination
+ in Employment Act of 1967 (as amended by this title).
+ (C) ABROGATION OF RIGHT TO RECEIVE BENEFITS- An election of coverage under
+ the new disability benefits shall abrogate any right the electing employee
+ may have had to receive existing disability benefits. The employee shall
+ maintain any years of service accumulated for purposes of determining
+ eligibility for the new benefits.
+ (3) STATE ASSISTANCE- The Equal Employment Opportunity Commission, the
+ Secretary of Labor, and the Secretary of the Treasury shall, on request,
+ provide to States assistance in identifying and securing independent
+ technical advice to assist in complying with this subsection.
+ (4) DEFINITIONS- For purposes of this subsection:
+ (A) EMPLOYER AND STATE- The terms `employer' and `State' shall have the
+ respective meanings provided such terms under subsections (b) and (i)
+ of section 11 of the Age Discrimination in Employment Act of 1967 (29
+ U.S.C. 630).
+ (B) DISABILITY BENEFITS- The term `disability benefits' means any program
+ for employees of a State or political subdivision of a State that provides
+ long-term disability benefits, whether on an insured basis in a separate
+ employee benefit plan or as part of an employee pension benefit plan.
+ (C) REASONABLE NOTICE- The term `reasonable notice' means, with respect
+ to notice of new disability benefits described in paragraph (2)(A) that is
+ given to each employee, notice that--
+ (i) is sufficiently accurate and comprehensive to appraise the employee of
+ the terms and conditions of the disability benefits, including whether the
+ employee is immediately eligible for such benefits; and
+ (ii) is written in a manner calculated to be understood by the average
+ employee eligible to participate.
+ (d) DISCRIMINATION IN EMPLOYEE PENSION BENEFIT PLANS- Nothing in this title,
+ or the amendments made by this title, shall be construed as limiting the
+ prohibitions against discrimination that are set forth in section 4(j)
+ of the Age Discrimination in Employment Act of 1967 (as redesignated by
+ section 103(2) of this Act).
+ (e) CONTINUED BENEFIT PAYMENTS- Notwithstanding any other provision of this
+ section, on and after the effective date of this title and the amendments
+ made by this title (as determined in accordance with subsections (a), (b),
+ and (c)), this title and the amendments made by this title shall not apply
+ to a series of benefit payments made to an individual or the individual's
+ representative that began prior to the effective date and that continue
+ after the effective date pursuant to an arrangement that was in effect
+ on the effective date, except that no substantial modification to such
+ arrangement may be made after the date of enactment of this Act if the
+ intent of the modification is to evade the purposes of this Act.
+TITLE II--WAIVER OF RIGHTS OR CLAIMS
+SEC. 201. WAIVER OF RIGHTS OR CLAIMS.
+ Section 7 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 626)
+ is amended by adding at the end the following new subsection:
+ `(f)(1) An individual may not waive any right or claim under this Act unless
+ the waiver is knowing and voluntary. Except as provided in paragraph (2),
+ a waiver may not be considered knowing and voluntary unless at a minimum--
+ `(A) the waiver is part of an agreement between the individual and the
+ employer that is written in a manner calculated to be understood by such
+ individual, or by the average individual eligible to participate;
+ `(B) the waiver specifically refers to rights or claims arising under
+ this Act;
+ `(C) the individual does not waive rights or claims that may arise after
+ the date the waiver is executed;
+ `(D) the individual waives rights or claims only in exchange for consideration
+ in addition to anything of value to which the individual already is entitled;
+ `(E) the individual is advised in writing to consult with an attorney prior
+ to executing the agreement;
+ `(F)(i) the individual is given a period of at least 21 days within which
+ to consider the agreement; or
+ `(ii) if a waiver is requested in connection with an exit incentive or other
+ employment termination program offered to a group or class of employees,
+ the individual is given a period of at least 45 days within which to consider
+ the agreement;
+ `(G) the agreement provides that for a period of at least 7 days following
+ the execution of such agreement, the individual may revoke the agreement,
+ and the agreement shall not become effective or enforceable until the
+ revocation period has expired;
+ `(H) if a waiver is requested in connection with an exit incentive or other
+ employment termination program offered to a group or class of employees, the
+ employer (at the commencement of the period specified in subparagraph (F))
+ informs the individual in writing in a manner calculated to be understood
+ by the average individual eligible to participate, as to--
+ `(i) any class, unit, or group of individuals covered by such program,
+ any eligibility factors for such program, and any time limits applicable
+ to such program; and
+ `(ii) the job titles and ages of all individuals eligible or selected for
+ the program, and the ages of all individuals in the same job classification
+ or organizational unit who are not eligible or selected for the program.
+ `(2) A waiver in settlement of a charge filed with the Equal Employment
+ Opportunity Commission, or an action filed in court by the individual
+ or the individual's representative, alleging age discrimination of a kind
+ prohibited under section 4 or 15 may not be considered knowing and voluntary
+ unless at a minimum--
+ `(A) subparagraphs (A) through (E) of paragraph (1) have been met; and
+ `(B) the individual is given a reasonable period of time within which to
+ consider the settlement agreement.
+ `(3) In any dispute that may arise over whether any of the requirements,
+ conditions, and circumstances set forth in subparagraph (A), (B), (C),
+ (D), (E), (F), (G), or (H) of paragraph (1), or subparagraph (A) or (B) of
+ paragraph (2), have been met, the party asserting the validity of a waiver
+ shall have the burden of proving in a court of competent jurisdiction that
+ a waiver was knowing and voluntary pursuant to paragraph (1) or (2).
+ `(4) No waiver agreement may affect the Commission's rights and
+ responsibilities to enforce this Act. No waiver may be used to justify
+ interfering with the protected right of an employee to file a charge or
+ participate in an investigation or proceeding conducted by the Commission.'.
+SEC. 202. EFFECTIVE DATE.
+ (a) IN GENERAL- The amendment made by section 201 shall not apply with
+ respect to waivers that occur before the date of enactment of this Act.
+ (b) RULE ON WAIVERS- Effective on the date of enactment of this Act, the
+ rule on waivers issued by the Equal Employment Opportunity Commission and
+ contained in section 1627.16(c) of title 29, Code of Federal Regulations,
+ shall have no force and effect.
+TITLE III--SEVERABILITY
+SEC. 301. SEVERABILITY.
+ If any provision of this Act, or an amendment made by this Act, or the
+ application of such provision to any person or circumstances is held to
+ be invalid, the remainder of this Act and the amendments made by this Act,
+ and the application of such provision to other persons and circumstances,
+ shall not be affected thereby.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,143 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1372 Referred to Committee Senate (RTS)]
+
+
+104th CONGRESS
+  1st Session
+                                S. 1372
+
+ To amend the Social Security Act to increase the earnings limit, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 31, 1995
+
+   Mr. McCain (for himself, Mr. Dole, Mr. Stevens, and Mr. Santorum) 
+      introduced the following bill; which was read the first time
+
+                            November 1, 1995
+
+            Read the second time and placed on the calendar
+
+                            November 2, 1995
+
+Committed to the Committee on Finance pursuant to section 312(b) of the 
+            Congressional Budget Control and Impoundment Act
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Social Security Act to increase the earnings limit, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Senior Citizens' Freedom to Work 
+Act''.
+
+SEC. 2. ADJUSTMENTS IN MONTHLY EXEMPT AMOUNT FOR PURPOSES OF THE SOCIAL 
+              SECURITY EARNINGS TEST.
+
+    (a) Increase in Monthly Exempt Amount for Individuals Who Have 
+Attained Retirement Age.--
+            (1) In general.--Section 203(f)(8)(D) of the Social 
+        Security Act (42 U.S.C. 403(f)(8)(D)) is amended to read as 
+        follows:
+            ``(D)(i) Notwithstanding any other provision of this 
+        subsection, the exempt amount which is applicable to an 
+        individual who has attained retirement age (as defined in 
+        section 216(l)) before the close of the taxable year involved 
+        shall be--
+                    ``(I) $1,208.33\1/3\ for each month of any taxable 
+                year ending after 1995 and before 1997,
+                    ``(II) $1,416.66\2/3\ for each month of any taxable 
+                year ending after 1996 and before 1998,
+                    ``(III) $1,666.66\2/3\ for each month of any 
+                taxable year ending after 1997 and before 1999,
+                    ``(IV) $1,875.00 for each month of any taxable year 
+                ending after 1998 and before 2000,
+                    ``(V) $2,083.33\1/3\ for each month of any taxable 
+                year ending after 1999 and before 2001,
+                    ``(VI) $2,291.66\2/3\ for each month of any taxable 
+                year ending after 2000 and before 2002, and
+                    ``(VII) $2,500.00 for each month of any taxable 
+                year ending after 2001 and before 2003.''.
+            (2) Increased amounts subject to present law cost-of-living 
+        adjustment after 2002.--Section 203(f)(8)(D) of such Act (42 
+        U.S.C. 403(f)(8)(D)), as amended by paragraph (1), is amended 
+        by adding at the end the following new clause:
+            ``(ii) For purposes of this paragraph, the increase in the 
+        exempt amount provided under clause (i)(VII) shall be deemed to 
+        have resulted from a determination which shall be deemed to 
+        have been made under subparagraph (A) in 2001.''.
+            (3) Conforming amendment.--The second sentence of section 
+        223(d)(4)(A) of such Act (42 U.S.C. 423(d)(4)(A)) is amended by 
+        striking ``the exempt amount under section 203(f)(8) which is 
+        applicable to individuals described in subparagraph (D) 
+thereof'' and inserting the following: ``an amount equal to the exempt 
+amount which would have been applicable under section 203(f)(8), to 
+individuals described in subparagraph (D) thereof, if the amendments 
+made to such section by the Senior Citizens' Freedom to Work Act had 
+not been enacted''.
+            (4) Effective date of subsection.--The amendments made by 
+        this subsection shall apply with respect to taxable years 
+        beginning after 1995.
+    (b) Compensation of Trust Fund for Increased Outlays.--
+            (1) In general.--Section 201(d) of the Social Security Act 
+        (42 U.S.C. 401(d)) is amended--
+                    (A) by inserting ``(1)'' after ``(d)'';
+                    (B) in the fifth sentence, by striking ``shall bear 
+                interest'' and inserting ``shall (subject to paragraph 
+                (2)) bear interest''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+    ``(2) In the case of the Federal Old-Age and Survivors Insurance 
+Trust Fund, the Managing Trustee shall increase the rate of interest 
+(otherwise specified in the fifth sentence of paragraph (1)) which is 
+to be borne by obligations referred to in the fourth sentence of 
+paragraph (1) issued after September 30, 1995, and before October 1, 
+2002, by .25 percent point for each fiscal year beginning after 
+September 30, 1995, and before October 1, 2002. For purposes of this 
+paragraph, any obligation in which any portion of such Trust Fund is 
+invested which was issued before October 1, 1995, shall be deemed to 
+have matured on September 30, 1995, and to have been reissued on 
+October 1, 1995, with the same maturation date and same rate of 
+interest (subject to the increase provided under this paragraph).''.
+            (2) Effective date of subsection.--The amendments made by 
+        this subsection shall apply with respect to obligations issued 
+        after December 31, 1995.
+    (c) Additional Offsets.--
+            (1) In general.--Notwithstanding any other provision of 
+        law, each nonexempt account within the discretionary spending 
+        category for each of the fiscal years 1996 through 2002 shall 
+        be reduced, if necessary, by the uniform percentage necessary 
+        to offset the Federal Old-Age and Survivors Insurance Trust 
+        Fund shortfall resulting from the amendments made to section 
+        203(f)(8) of the Social Security Act by the Senior Citizens' 
+        Freedom to Work Act.
+            (2) Effective date.--The reductions required by this 
+        subsection shall be implemented pursuant to a Presidential 
+        order as provided for a sequester to eliminate a budget-year 
+        breach under section 251 of the Balanced Budget and Deficit 
+        Control Act of 1985. The reductions required by this subsection 
+        shall be in addition to any reductions required by section 251 
+        of the Balanced Budget and Deficit Control Act of 1985.
+    (d) Report by GAO.--Not later than the date which is 2 years after 
+the date of the enactment of this Act, the Comptroller General of the 
+United States shall report to the Congress regarding an analysis of the 
+dynamic effect of the reform of the social security earnings limit 
+under section 203(f)(8) of the Social Security Act, as provided by 
+subsection (a) of this section, and a calculation of the reform's true 
+effect on the Federal budget.

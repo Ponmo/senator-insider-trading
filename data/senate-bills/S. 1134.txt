@@ -1,0 +1,1615 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1134 Engrossed in Senate (ES)]
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+106th CONGRESS
+  2d Session
+                                S. 1134
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+     To amend the Internal Revenue Code of 1986 to allow tax-free 
+    expenditures from education individual retirement accounts for 
+   elementary and secondary school expenses, to increase the maximum 
+    annual amount of contributions to such accounts, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; AMENDMENT OF 1986 CODE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Affordable 
+Education Act of 2000''.
+    (b) Amendment of 1986 Code.--Except as otherwise expressly 
+provided, whenever in this Act an amendment or repeal is expressed in 
+terms of an amendment to, or repeal of, a section or other provision, 
+the reference shall be considered to be made to a section or other 
+provision of the Internal Revenue Code of 1986.
+    (c) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; amendment of 1986 Code; table of contents.
+                 TITLE I--EDUCATION SAVINGS INCENTIVES
+
+Sec. 101. Modifications to education individual retirement accounts.
+Sec. 102. Modifications to qualified tuition programs.
+                    TITLE II--EDUCATIONAL ASSISTANCE
+
+Sec. 201. Permanent extension of exclusion for employer-provided 
+                            educational assistance.
+Sec. 202. Elimination of 60-month limit on student loan interest 
+                            deduction.
+Sec. 203. Exclusion of certain amounts received under the National 
+                            Health Service Corps Scholarship Program 
+                            and the F. Edward Hebert Armed Forces 
+                            Health Professions Scholarship and 
+                            Financial Assistance Program.
+Sec. 204. 2-percent floor on miscellaneous itemized deductions not to 
+                            apply to qualified professional development 
+                            expenses of elementary and secondary school 
+                            teachers.
+Sec. 205. Credit to elementary and secondary school teachers who 
+                            provide classroom materials.
+Sec. 206. Exclusion of national service educational awards.
+Sec. 207. Elimination of marriage penalty in phaseout of education loan 
+                            interest deduction.
+  TITLE III--LIBERALIZATION OF TAX-EXEMPT FINANCING RULES FOR PUBLIC 
+                          SCHOOL CONSTRUCTION
+
+Sec. 301. Additional increase in arbitrage rebate exception for 
+                            governmental bonds used to finance 
+                            educational facilities.
+Sec. 302. Treatment of qualified public educational facility bonds as 
+                            exempt facility bonds.
+Sec. 303. Federal guarantee of school construction bonds by Federal 
+                            Housing Finance Board.
+Sec. 304. Disclosure of fire safety standards and measures with respect 
+                            to campus buildings.
+                    TITLE IV--TRANSITION TO TEACHING
+
+Sec. 401. Short title.
+Sec. 402. Findings.
+Sec. 403. Purpose.
+Sec. 404. Program authorized.
+Sec. 405. Application.
+Sec. 406. Uses of funds and period of service.
+Sec. 407. Equitable distribution.
+Sec. 408. Definitions.
+                   TITLE V--MISCELLANEOUS PROVISIONS
+
+Sec. 501. Expansion of deduction for computer donations to schools.
+Sec. 502. Credit for computer donations to schools and senior centers.
+Sec. 503. Report to Congress regarding extent and severity of child 
+                            poverty.
+Sec. 504. Careers to classrooms.
+Sec. 505. Pesticide application in schools.
+Sec. 506. Sense of the Senate regarding a safe learning environment.
+Sec. 507. Reduction in school violence.
+
+                 TITLE I--EDUCATION SAVINGS INCENTIVES
+
+SEC. 101. MODIFICATIONS TO EDUCATION INDIVIDUAL RETIREMENT ACCOUNTS.
+
+    (a) Maximum Annual Contributions.--
+            (1) In general.--Section 530(b)(1)(A)(iii) (defining 
+        education individual retirement account) is amended by striking 
+        ``$500'' and inserting ``$2,000''.
+            (2) Conforming amendment.--Section 4973(e)(1)(A) is amended 
+        by striking ``$500'' and inserting ``$2,000''.
+            (3) Elimination of the marriage penalty in the reduction in 
+        permitted contributions.--Section 530(c)(1) (relating to 
+        reduction in permitted contributions based on adjusted gross 
+        income) is amended--
+                    (A) by striking ``$150,000'' in subparagraph 
+                (A)(ii) and inserting ``$190,000'', and
+                    (B) by striking ``$10,000'' in subparagraph (B) and 
+                inserting ``$30,000''.
+    (b) Tax-Free Expenditures for Elementary and Secondary School 
+Expenses.--
+            (1) In general.--Section 530(b)(2) (defining qualified 
+        higher education expenses) is amended to read as follows:
+            ``(2) Qualified education expenses.--
+                    ``(A) In general.--The term `qualified education 
+                expenses' means--
+                            ``(i) qualified higher education expenses 
+                        (as defined in section 529(e)(3)), and
+                            ``(ii) qualified elementary and secondary 
+                        education expenses (as defined in paragraph 
+                        (4)).
+                    ``(B) Qualified state tuition programs.--Such term 
+                shall include any contribution to a qualified State 
+                tuition program (as defined in section 529(b)) on 
+                behalf of the designated beneficiary (as defined in 
+                section 529(e)(1)); but there shall be no increase in 
+                the investment in the contract for purposes of applying 
+                section 72 by reason of any portion of such 
+                contribution which is not includible in gross income by 
+                reason of subsection (d)(2).''.
+            (2) Qualified elementary and secondary education 
+        expenses.--Section 530(b) (relating to definitions and special 
+        rules) is amended by adding at the end the following new 
+        paragraph:
+            ``(4) Qualified elementary and secondary education 
+        expenses.--
+                    ``(A) In general.--The term `qualified elementary 
+                and secondary education expenses' means--
+                            ``(i) expenses for tuition, fees, academic 
+                        tutoring, special needs services, books, 
+                        supplies, computer equipment (including related 
+                        software and services), and other equipment 
+                        which are incurred in connection with the 
+                        enrollment or attendance of the designated 
+                        beneficiary of the trust as an elementary or 
+                        secondary school student at a public, private, 
+                        or religious school, and
+                            ``(ii) expenses for room and board, 
+                        uniforms, transportation, and supplementary 
+                        items and services (including extended day 
+                        programs) which are required or provided by a 
+                        public, private, or religious school in 
+                        connection with such enrollment or attendance.
+                    ``(B) Special rule for homeschooling.--Such term 
+                shall include expenses described in subparagraph (A)(i) 
+                in connection with education provided by homeschooling 
+                if the homeschool operates as a private school or a 
+                homeschool under State law.
+                    ``(C) School.--The term `school' means any school 
+                which provides elementary education or secondary 
+                education (kindergarten through grade 12), as 
+                determined under State law.''.
+            (3) Conforming amendments.--Section 530 is amended--
+                    (A) by striking ``higher'' each place it appears in 
+                subsections (b)(1) and (d)(2), and
+                    (B) by striking ``higher'' in the heading for 
+                subsection (d)(2).
+    (c) Waiver of Age Limitations for Children With Special Needs.--
+Section 530(b)(1) (defining education individual retirement account) is 
+amended by adding at the end the following flush sentence:
+        ``The age limitations in subparagraphs (A)(ii) and (E) and 
+        paragraphs (5) and (6) of subsection (d) shall not apply to any 
+        designated beneficiary with special needs (as determined under 
+        regulations prescribed by the Secretary).''.
+    (d) Entities Permitted To Contribute to Accounts.--Section 
+530(c)(1) (relating to reduction in permitted contributions based on 
+adjusted gross income) is amended by striking ``The maximum amount 
+which a contributor'' and inserting ``In the case of a contributor who 
+is an individual, the maximum amount the contributor''.
+    (e) Time When Contributions Deemed Made.--
+            (1) In general.--Section 530(b) (relating to definitions 
+        and special rules), as amended by subsection (b)(2), is amended 
+        by adding at the end the following new paragraph:
+            ``(5) Time when contributions deemed made.--An individual 
+        shall be deemed to have made a contribution to an education 
+        individual retirement account on the last day of the preceding 
+        taxable year if the contribution is made on account of such 
+        taxable year and is made not later than the time prescribed by 
+        law for filing the return for such taxable year (not including 
+        extensions thereof).''.
+            (2) Extension of time to return excess contributions.--
+        Subparagraph (C) of section 530(d)(4) (relating to additional 
+        tax for distributions not used for educational expenses) is 
+        amended--
+                    (A) by striking clause (i) and inserting the 
+                following new clause:
+                            ``(i) such distribution is made before the 
+                        1st day of the 6th month of the taxable year 
+                        following the taxable year, and'', and
+                    (B) by striking ``due date of return'' in the 
+                heading and inserting ``certain date''.
+    (f) Coordination With Hope and Lifetime Learning Credits and 
+Qualified Tuition Programs.--
+            (1) In general.--Section 530(d)(2)(C) is amended to read as 
+        follows:
+                    ``(C) Coordination with hope and lifetime learning 
+                credits and qualified tuition programs.--For purposes 
+                of subparagraph (A).
+                            ``(i) Credit coordination.--The total 
+                        amount of qualified higher education expenses 
+                        with respect to an individual for the taxable 
+                        year shall be reduced--
+                                    ``(I) as provided in section 
+                                25A(g)(2), and
+                                    ``(II) by the amount of such 
+                                expenses which were taken into account 
+                                in determining the credit allowed to 
+                                the taxpayer or any other person under 
+                                section 25A.
+                            ``(ii) Coordination with qualified tuition 
+                        programs.--If, with respect to an individual 
+                        for any taxable year--
+                                    ``(I) the aggregate distributions 
+                                during such year to which subparagraph 
+                                (A) and section 529(c)(3)(B) apply, 
+                                exceed
+                                    ``(II) the total amount of 
+                                qualified higher education expenses 
+                                (after the application of clause (i)) 
+                                for such year,
+                        the taxpayer shall allocate such expenses among 
+                        such distributions for purposes of determining 
+                        the amount of the exclusion under subparagraph 
+                        (A) and section 529(c)(3)(B).''.
+            (2) Conforming amendments.--
+                    (A) Subsection (e) of section 25A is amended to 
+                read as follows:
+    ``(e) Election Not To Have Section Apply.--A taxpayer may elect not 
+to have this section apply with respect to the qualified tuition and 
+related expenses of an individual for any taxable year.''.
+                    (B) Section 135(d)(2)(A) is amended by striking 
+                ``allowable'' and inserting ``allowed''.
+                    (C) Section 530(d)(2)(D) is amended--
+                            (i) by striking ``or credit'', and
+                            (ii) by striking ``credit or'' in the 
+                        heading.
+                    (D) Section 4973(e)(1) is amended by adding ``and'' 
+                at the end of subparagraph (A), by striking 
+                subparagraph (B), and by redesignating subparagraph (C) 
+                as subparagraph (B).
+    (g) Renaming Education Individual Retirement Accounts as Education 
+Savings Accounts.--
+            (1) In general.--
+                    (A) Section 530 (as amended by the preceding 
+                provisions of this section) is amended by striking 
+                ``education individual retirement account'' each place 
+                it appears and inserting ``education savings account''.
+                    (B) The heading for paragraph (1) of section 530(b) 
+                is amended by striking ``Education individual 
+                retirement account'' and inserting ``Education savings 
+                account''.
+                    (C) The heading for section 530 is amended to read 
+                as follows:
+
+``SEC. 530. EDUCATION SAVINGS ACCOUNTS.''.
+
+                    (D) The item in the table of contents for part VII 
+                of subchapter F of chapter 1 relating to section 530 is 
+                amended to read as follows:
+
+                              ``Sec. 530. Education savings 
+                                        accounts.''.
+            (2) Conforming amendments.--
+                    (A) The following provisions are each amended by 
+                striking ``education individual retirement'' each place 
+                it appears and inserting ``education savings'':
+                            (i) Section 25A(e)(2).
+                            (ii) Section 26(b)(2)(E).
+                            (iii) Section 72(e)(9).
+                            (iv) Section 135(c)(2)(C).
+                            (v) Subsections (a) and (e) of section 
+                        4973.
+                            (vi) Subsections (c) and (e) of section 
+                        4975.
+                            (vii) Section 6693(a)(2)(D).
+                    (B) The headings for each of the following 
+                provisions are amended by striking ``education 
+                individual retirement accounts'' each place it appears 
+                and inserting ``education savings accounts''.
+                            (i) Section 72(e)(9).
+                            (ii) Section 135(c)(2)(C).
+                            (iii) Section 4973(e).
+                            (iv) Section 4975(c)(5).
+    (h) Effective Dates.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall apply to taxable years 
+        beginning after December 31, 2000.
+            (2) Subsection (g).--The amendments made by subsection (g) 
+        shall take effect on the date of the enactment of this Act.
+
+SEC. 102. MODIFICATIONS TO QUALIFIED TUITION PROGRAMS.
+
+    (a) Eligible Educational Institutions Permitted To Maintain 
+Qualified Tuition Programs.--
+          (1) In general.--Section 529(b)(1) (defining qualified State 
+        tuition program) is amended by inserting ``or by 1 or more 
+        eligible educational institutions'' after ``maintained by a 
+        State or agency or instrumentality thereof''.
+            (2) Private qualified tuition programs limited to benefit 
+        plans.--Clause (ii) of section 529(b)(1)(A) is amended by 
+        inserting ``in the case of a program established and maintained 
+        by a State or agency or instrumentality thereof,'' before ``may 
+        make''.
+            (3) Conforming amendments.--
+                    (A) Sections 72(e)(9), 135(c)(2)(C), 135(d)(1)(D), 
+                529, 530(b)(2)(B), 4973(e), and 6693(a)(2)(C) are each 
+                amended by striking ``qualified State tuition'' each 
+                place it appears and inserting ``qualified tuition''.
+                    (B) The headings for sections 72(e)(9) and 
+                135(c)(2)(C) are each amended by striking ``qualified 
+                state tuition'' and inserting ``qualified tuition''.
+                    (C) The headings for sections 529(b) and 
+                530(b)(2)(B) are each amended by striking ``Qualified 
+                state tuition'' and inserting ``Qualified tuition''.
+                    (D) The heading for section 529 is amended by 
+                striking ``state''.
+                    (E) The item relating to section 529 in the table 
+                of sections for part VIII of subchapter F of chapter 1 
+                is amended by striking ``State''.
+    (b) Exclusion From Gross Income of Education Distributions From 
+Qualified Tuition Programs.--
+            (1) In general.--Section 529(c)(3)(B) (relating to 
+        distributions) is amended to read as follows:
+                    ``(B) Distributions for qualified higher education 
+                expenses.--For purposes of this paragraph--
+                            ``(i) In-kind distributions.--No amount 
+                        shall be includible in gross income under 
+                        subparagraph (A) by reason of a distribution 
+                        which consists of providing a benefit to the 
+                        distributee which, if paid for by the 
+                        distributee, would constitute payment of a 
+                        qualified higher education expense.
+                            ``(ii) Cash distributions.--In the case of 
+                        distributions not described in clause (i), if--
+                                    ``(I) such distributions do not 
+                                exceed the qualified higher education 
+                                expenses (reduced by expenses described 
+                                in clause (i)), no amount shall be 
+                                includible in gross income, and
+                                    ``(II) in any other case, the 
+                                amount otherwise includible in gross 
+                                income shall be reduced by an amount 
+                                which bears the same ratio to such 
+                                amount as such expenses bear to such 
+                                distributions.
+                            ``(iii) Exception for institutional 
+                        programs.--In the case of any taxable year 
+                        beginning before January 1, 2004, clauses (i) 
+                        and (ii) shall not apply with respect to any 
+                        distribution during such taxable year under a 
+                        qualified tuition program established and 
+                        maintained by 1 or more eligible educational 
+                        institutions.
+                            ``(iv) Treatment as distributions.--Any 
+                        benefit furnished to a designated beneficiary 
+                        under a qualified tuition program shall be 
+                        treated as a distribution to the beneficiary 
+                        for purposes of this paragraph.
+                            ``(v) Coordination with hope and lifetime 
+                        learning credits.--The total amount of 
+                        qualified higher education expenses with 
+                        respect to an individual for the taxable year 
+                        shall be reduced--
+                                    ``(I) as provided in section 
+                                25A(g)(2), and
+                                    ``(II) by the amount of such 
+                                expenses which were taken into account 
+                                in determining the credit allowed to 
+                                the taxpayer or any other person under 
+                                section 25A.
+                            ``(vi) Coordination with education savings 
+                        accounts.--If, with respect to an individual 
+                        for any taxable year--
+                                    ``(I) the aggregate distributions 
+                                to which clauses (i) and (ii) and 
+                                section 530(d)(2)(A) apply, exceed
+                                    ``(II) the total amount of 
+                                qualified higher education expenses 
+                                otherwise taken into account under 
+                                clauses (i) and (ii) (after the 
+                                application of clause (iv)) for such 
+                                year,
+                        the taxpayer shall allocate such expenses among 
+                        such distributions for purposes of determining 
+                        the amount of the exclusion under clauses (i) 
+                        and (ii) and section 530(d)(2)(A).''.
+            (2) Conforming amendments.--
+                    (A) Section 135(d)(2)(B) is amended by striking 
+                ``section 530(d)(2)'' and inserting ``sections 
+                529(c)(3)(B)(i) and 530(d)(2)''.
+                    (B) Section 221(e)(2)(A) is amended by inserting 
+                ``529,'' after ``135,''.
+    (c) Rollover to Different Program for Benefit of Same Designated 
+Beneficiary.--Section 529(c)(3)(C) (relating to change in 
+beneficiaries) is amended--
+            (1) by striking ``transferred to the credit'' in clause (i) 
+        and inserting ``transferred--
+                                    ``(I) to another qualified tuition 
+                                program for the benefit of the 
+                                designated beneficiary, or
+                                    ``(II) to the credit'',
+            (2) by adding at the end the following new clause:
+                            ``(iii) Limitation on certain rollovers.--
+                        Clause (i)(I) shall only apply to the first 3 
+                        transfers with respect to a designated 
+                        beneficiary.'', and
+            (3) by inserting ``or programs'' after ``beneficiaries'' in 
+        the heading.
+    (d) Member of Family Includes First Cousin.--Section 529(e)(2) 
+(defining member of family) is amended by striking ``and'' at the end 
+of subparagraph (B), by striking the period at the end of subparagraph 
+(C) and by inserting ``; and'', and by adding at the end the following 
+new subparagraph:
+                    ``(D) any first cousin of such beneficiary.''.
+    (e) Definition of Qualified Higher Education Expenses.--
+Subparagraph (A) of section 529(e)(3) (relating to definition of 
+qualified higher education expenses) is amended to read as follows:
+                    ``(A) In general.--The term `qualified higher 
+                education expenses' means--
+                            ``(i) tuition and fees required for the 
+                        enrollment or attendance of a designated 
+                        beneficiary at an eligible educational 
+                        institution for courses of instruction of such 
+                        beneficiary at such institution, and
+                            ``(ii) expenses for books, supplies, and 
+                        equipment which are incurred in connection with 
+                        such enrollment or attendance, but not to 
+                        exceed the allowance for books and supplies 
+                        included in the cost of attendance (as defined 
+                        in section 472 of the Higher Education Act of 
+                        1965 (20 U.S.C. 1087ll), as in effect on the 
+                        date of the enactment of the Affordable 
+                        Education Act of 2000) as determined by the 
+                        eligible educational institution.''.
+    (f) Effective Dates.--
+            (1) In general.--The amendments made by this section shall 
+        apply to taxable years beginning after December 31, 2000.
+            (2) Qualified higher education expenses.--The amendments 
+        made by subsection (e) shall apply to amounts paid for courses 
+        beginning after December 31, 2000.
+
+                    TITLE II--EDUCATIONAL ASSISTANCE
+
+SEC. 201. PERMANENT EXTENSION OF EXCLUSION FOR EMPLOYER-PROVIDED 
+              EDUCATIONAL ASSISTANCE.
+
+    (a) In General.--Section 127 (relating to exclusion for educational 
+assistance programs) is amended by striking subsection (d).
+    (b) Repeal of Limitation on Graduate Education.--
+            (1) In general.--The last sentence of section 127(c)(1) is 
+        amended by striking ``, and such term also does not include any 
+        payment for, or the provision of any benefits with respect to, 
+        any graduate level course of a kind normally taken by an 
+        individual pursuing a program leading to a law, business, 
+        medical, or other advanced academic or professional degree''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall apply with respect to expenses relating to courses 
+        beginning after December 31, 2000.
+
+SEC. 202. ELIMINATION OF 60-MONTH LIMIT ON STUDENT LOAN INTEREST 
+              DEDUCTION.
+
+    (a) In General.--Section 221 (relating to interest on education 
+loans) is amended by striking subsection (d) and by redesignating 
+subsections (e), (f), and (g) as subsections (d), (e), and (f), 
+respectively.
+    (b) Conforming Amendment.--Section 6050S(e) is amended by striking 
+``section 221(e)(1)'' and inserting ``section 221(d)(1)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to any loan interest paid after December 31, 2000.
+
+SEC. 203. EXCLUSION OF CERTAIN AMOUNTS RECEIVED UNDER THE NATIONAL 
+              HEALTH SERVICE CORPS SCHOLARSHIP PROGRAM AND THE F. 
+              EDWARD HEBERT ARMED FORCES HEALTH PROFESSIONS SCHOLARSHIP 
+              AND FINANCIAL ASSISTANCE PROGRAM.
+
+    (a) In General.--Section 117(c) (relating to the exclusion from 
+gross income amounts received as a qualified scholarship) is amended--
+            (1) by striking ``Subsections (a)'' and inserting the 
+        following:
+            ``(1) In general.--Except as provided in paragraph (2), 
+        subsections (a)'', and
+            (2) by adding at the end the following new paragraph:
+            ``(2) Exceptions.--Paragraph (1) shall not apply to any 
+        amount received by an individual under--
+                    ``(A) the National Health Service Corps Scholarship 
+                Program under section 338A(g)(1)(A) of the Public 
+                Health Service Act, or
+                    ``(B) the Armed Forces Health Professions 
+                Scholarship and Financial Assistance program under 
+                subchapter I of chapter 105 of title 10, United States 
+                Code.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply to amounts received in taxable years beginning after December 31, 
+1993.
+
+SEC. 204. 2-PERCENT FLOOR ON MISCELLANEOUS ITEMIZED DEDUCTIONS NOT TO 
+              APPLY TO QUALIFIED PROFESSIONAL DEVELOPMENT EXPENSES OF 
+              ELEMENTARY AND SECONDARY SCHOOL TEACHERS.
+
+    (a) In General.--Section 67(b) (defining miscellaneous itemized 
+deductions) is amended by striking ``and'' at the end of paragraph 
+(11), by striking the period at the end of paragraph (12) and inserting 
+``, and'', and by adding at the end the following new paragraph:
+            ``(13) any deduction allowable for the qualified 
+        professional development expenses paid or incurred by an 
+        eligible teacher.''.
+    (b) Definitions.--Section 67 (relating to 2-percent floor on 
+miscellaneous itemized deductions) is amended by adding at the end the 
+following new subsection:
+    ``(g) Qualified Professional Development Expenses of Eligible 
+Teachers.--For purposes of subsection (b)(13)--
+            ``(1) Qualified professional development expenses.--
+                    ``(A) In general.--The term `qualified professional 
+                development expenses' means expenses--
+                            ``(i) for tuition, fees, books, supplies, 
+                        equipment, and transportation required for the 
+                        enrollment or attendance of an individual in a 
+                        qualified course of instruction, and
+                            ``(ii) with respect to which a deduction is 
+                        allowable under section 162 (determined without 
+                        regard to this section).
+                    ``(B) Qualified course of instruction.--The term 
+                `qualified course of instruction' means a course of 
+                instruction which--
+                            ``(i) is--
+                                    ``(I) directly related to the 
+                                curriculum and academic subjects in 
+                                which an eligible teacher provides 
+                                instruction, or
+                                    ``(II) designed to enhance the 
+                                ability of an eligible teacher to 
+                                understand and use State standards for 
+                                the academic subjects in which such 
+                                teacher provides instruction,
+                            ``(ii) may--
+                                    ``(I) provide instruction in how to 
+                                teach children with different learning 
+                                styles, particularly children with 
+                                disabilities and children with special 
+                                learning needs (including children who 
+                                are gifted and talented), or
+                                    ``(II) provide instruction in how 
+                                best to discipline children in the 
+                                classroom and identify early and 
+                                appropriate interventions to help 
+                                children described in subclause (I) to 
+                                learn,
+                            ``(iii) is tied to challenging State or 
+                        local content standards and student performance 
+                        standards,
+                            ``(iv) is tied to strategies and programs 
+                        that demonstrate effectiveness in increasing 
+                        student academic achievement and student 
+                        performance, or substantially increasing the 
+                        knowledge and teaching skills of an eligible 
+                        teacher,
+                            ``(v) is of sufficient intensity and 
+                        duration to have a positive and lasting impact 
+                        on the performance of an eligible teacher in 
+                        the classroom (which shall not include 1-day or 
+                        short-term workshops and conferences), except 
+                        that this clause shall not apply to an activity 
+                        if such activity is 1 component described in a 
+                        long-term comprehensive professional 
+                        development plan established by an eligible 
+                        teacher and the teacher's supervisor based upon 
+                        an assessment of the needs of the teacher, the 
+                        students of the teacher, and the local 
+                        educational agency involved, and
+                            ``(vi) is part of a program of professional 
+                        development which is approved and certified by 
+                        the appropriate local educational agency as 
+                        furthering the goals of the preceding clauses.
+                    ``(C) Local educational agency.--The term `local 
+                educational agency' has the meaning given such term by 
+                section 14101 of the Elementary and Secondary Education 
+                Act of 1965, as in effect on the date of the enactment 
+                of this subsection.
+            ``(2) Eligible teacher.--
+                    ``(A) In general.--The term `eligible teacher' 
+                means an individual who is a kindergarten through grade 
+                12 classroom teacher in an elementary or secondary 
+                school.
+                    ``(B) Elementary or secondary school.--The terms 
+                `elementary school' and `secondary school' have the 
+                meanings given such terms by section 14101 of the 
+                Elementary and Secondary Education Act of 1965 (20 
+                U.S.C. 8801), as so in effect.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2000.
+
+SEC. 205. CREDIT TO ELEMENTARY AND SECONDARY SCHOOL TEACHERS WHO 
+              PROVIDE CLASSROOM MATERIALS.
+
+    (a) In General.--Subpart B of part IV of subchapter A of chapter 1 
+is amended by adding at the end the following new section:
+
+``SEC. 30B. CREDIT TO ELEMENTARY AND SECONDARY SCHOOL TEACHERS WHO 
+              PROVIDE CLASSROOM MATERIALS.
+
+    ``(a) Allowance of Credit.--In the case of an eligible teacher, 
+there shall be allowed as a credit against the tax imposed by this 
+chapter for such taxable year an amount equal to the qualified 
+elementary and secondary education expenses which are paid or incurred 
+by the taxpayer during such taxable year.
+    ``(b) Maximum Credit.--The credit allowed by subsection (a) for any 
+taxable year shall not exceed $100.
+    ``(c) Definitions.--
+            ``(1) Eligible teacher.--The term `eligible teacher' means 
+        an individual who is a kindergarten through grade 12 classroom 
+        teacher, instructor, counselor, aide, or principal in an 
+        elementary or secondary school on a full-time basis for an 
+        academic year ending during a taxable year.
+            ``(2) Qualified elementary and secondary education 
+        expenses.--The term `qualified elementary and secondary 
+        education expenses' means expenses for books, supplies (other 
+        than nonathletic supplies for courses of instruction in health 
+        or physical education), computer equipment (including related 
+        software and services) and other equipment, and supplementary 
+        materials used by an eligible teacher in the classroom.
+            ``(3) Elementary or secondary school.--The term `elementary 
+        or secondary school' means any school which provides elementary 
+        education or secondary education (through grade 12), as 
+        determined under State law.
+    ``(d) Special Rules.--
+            ``(1) Denial of double benefit.--No deduction shall be 
+        allowed under this chapter for any expense for which credit is 
+        allowed under this section.
+            ``(2) Application with other credits.--The credit allowable 
+        under subsection (a) for any taxable year shall not exceed the 
+        excess (if any) of--
+                    ``(A) the regular tax for the taxable year, reduced 
+                by the sum of the credits allowable under subpart A and 
+                the preceding sections of this subpart, over
+                    ``(B) the tentative minimum tax for the taxable 
+                year.
+    ``(e) Election To Have Credit Not Apply.--A taxpayer may elect to 
+have this section not apply for any taxable year.''.
+    (b) Clerical Amendment.--The table of sections for subpart B of 
+part IV of subchapter A of chapter 1 is amended by adding at the end 
+the following new item:
+
+                              ``Sec. 30B. Credit to elementary and 
+                                        secondary school teachers who 
+                                        provide classroom materials.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2000.
+
+SEC. 206. EXCLUSION OF NATIONAL SERVICE EDUCATIONAL AWARDS.
+
+    (a) In General.--Section 117 (relating to qualified scholarships) 
+is amended by adding at the end the following:
+    ``(e) Qualified National Service Educational Awards.--
+            ``(1) In general.--Gross income for any taxable year shall 
+        not include any qualified national service educational award.
+            ``(2) Qualified national service educational award.--For 
+        purposes of this subsection--
+                    ``(A) In general.--The term `qualified national 
+                service educational award' means any amount received by 
+                an individual in a taxable year as a national service 
+                educational award or other amount under section 148 of 
+                the National and Community Service Act of 1990 (42 
+                U.S.C. 12604) to the extent such amount does not exceed 
+                the qualified tuition and related expenses (as defined 
+                in subsection (b)(2)) of the individual for such 
+                taxable year.
+                    ``(B) Limitation.--The total amount of the 
+                qualified tuition and related expenses (as so defined) 
+                which may be taken into account under subparagraph (A) 
+                with respect to an individual for the taxable year 
+                shall be reduced (after the application of the 
+                reduction provided in section 25A(g)(2)) by the amount 
+                of such expenses which were taken into account in 
+                determining the credit allowed to the taxpayer or any 
+                other person under section 25A with respect to such 
+                expenses.''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to amounts received in taxable years beginning after December 31, 1999.
+
+SEC. 207. ELIMINATION OF MARRIAGE PENALTY IN PHASEOUT OF EDUCATION LOAN 
+              INTEREST DEDUCTION.
+
+    (a) In General.--Subparagraph (B) of section 221(b)(2) (relating to 
+limitation based on modified adjusted gross income) is amended--
+            (1) by striking ``$60,000'' in clause (i)(II) and inserting 
+        ``$80,000'', and
+            (2) by inserting ``($30,000 in the case of a joint 
+        return)'' after ``$15,000'' in clause (ii).
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2000.
+
+  TITLE III--LIBERALIZATION OF TAX-EXEMPT FINANCING RULES FOR PUBLIC 
+                          SCHOOL CONSTRUCTION
+
+SEC. 301. ADDITIONAL INCREASE IN ARBITRAGE REBATE EXCEPTION FOR 
+              GOVERNMENTAL BONDS USED TO FINANCE EDUCATIONAL 
+              FACILITIES.
+
+    (a) In General.--Section 148(f)(4)(D)(vii) (relating to increase in 
+exception for bonds financing public school capital expenditures) is 
+amended by striking ``$5,000,000'' the second place it appears and 
+inserting ``$10,000,000''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to obligations issued in calendar years beginning after December 
+31, 2000.
+
+SEC. 302. TREATMENT OF QUALIFIED PUBLIC EDUCATIONAL FACILITY BONDS AS 
+              EXEMPT FACILITY BONDS.
+
+    (a) Treatment as Exempt Facility Bond.--Subsection (a) of section 
+142 (relating to exempt facility bond) is amended by striking ``or'' at 
+the end of paragraph (11), by striking the period at the end of 
+paragraph (12) and inserting ``, or'', and by adding at the end the 
+following new paragraph:
+            ``(13) qualified public educational facilities.''.
+    (b) Qualified Public Educational Facilities.--Section 142 (relating 
+to exempt facility bond) is amended by adding at the end the following 
+new subsection:
+    ``(k) Qualified Public Educational Facilities.--
+            ``(1) In general.--For purposes of subsection (a)(13), the 
+        term `qualified public educational facility' means any school 
+        facility which is--
+                    ``(A) part of a public elementary school or a 
+                public secondary school, and
+                    ``(B) owned by a private, for-profit corporation 
+                pursuant to a public-private partnership agreement with 
+                a State or local educational agency described in 
+                paragraph (2).
+            ``(2) Public-private partnership agreement described.--A 
+        public-private partnership agreement is described in this 
+        paragraph if it is an agreement--
+                    ``(A) under which the corporation agrees--
+                            ``(i) to do 1 or more of the following: 
+                        construct, rehabilitate, refurbish, or equip a 
+                        school facility, and
+                            ``(ii) at the end of the term of the 
+                        agreement, to transfer the school facility to 
+                        such agency for no additional consideration, 
+                        and
+                    ``(B) the term of which does not exceed the term of 
+                the issue to be used to provide the school facility.
+            ``(3) School facility.--For purposes of this subsection, 
+        the term `school facility' means--
+                    ``(A) school buildings,
+                    ``(B) functionally related and subordinate 
+                facilities and land with respect to such buildings, 
+                including any stadium or other facility primarily used 
+                for school events, and
+                    ``(C) any property, to which section 168 applies 
+                (or would apply but for section 179), for use in the 
+                facility.
+            ``(4) Public schools.--For purposes of this subsection, the 
+        terms `elementary school' and `secondary school' have the 
+        meanings given such terms by section 14101 of the Elementary 
+        and Secondary Education Act of 1965 (20 U.S.C. 8801), as in 
+        effect on the date of the enactment of this subsection.
+            ``(5) Annual aggregate face amount of tax-exempt 
+        financing.--
+                    ``(A) In general.--An issue shall not be treated as 
+                an issue described in subsection (a)(13) if the 
+                aggregate face amount of bonds issued by the State 
+                pursuant thereto (when added to the aggregate face 
+                amount of bonds previously so issued during the 
+                calendar year) exceeds an amount equal to the greater 
+                of--
+                            ``(i) $10 multiplied by the State 
+                        population, or
+                            ``(ii) $5,000,000.
+                    ``(B) Allocation rules.--
+                            ``(i) In general.--Except as otherwise 
+                        provided in this subparagraph, the State may 
+                        allocate the amount described in subparagraph 
+                        (A) for any calendar year in such manner as the 
+                        State determines appropriate.
+                            ``(ii) Rules for carryforward of unused 
+                        limitation.--A State may elect to carry forward 
+                        an unused limitation for any calendar year for 
+                        3 calendar years following the calendar year in 
+                        which the unused limitation arose under rules 
+                        similar to the rules of section 146(f), except 
+                        that the only purpose for which the 
+                        carryforward may be elected is the issuance of 
+                        exempt facility bonds described in subsection 
+                        (a)(13).''.
+    (c) Exemption From General State Volume Caps.--Paragraph (3) of 
+section 146(g) (relating to exception for certain bonds) is amended--
+            (1) by striking ``or (12)'' and inserting ``(12), or 
+        (13)'', and
+            (2) by striking ``and environmental enhancements of 
+        hydroelectric generating facilities'' and inserting 
+        ``environmental enhancements of hydroelectric generating 
+        facilities, and qualified public educational facilities''.
+    (d) Exemption From Limitation on Use for Land Acquisition.--Section 
+147(h) (relating to certain rules not to apply to mortgage revenue 
+bonds, qualified student loan bonds, and qualified 501(c)(3) bonds) is 
+amended by adding at the end the following new paragraph:
+            ``(3) Exempt facility bonds for qualified public-private 
+        schools.--Subsection (c) shall not apply to any exempt facility 
+        bond issued as part of an issue described in section 142(a)(13) 
+        (relating to qualified public educational facilities).''.
+    (e) Conforming Amendment.--The heading for section 147(h) is 
+amended by striking ``Mortgage Revenue Bonds, Qualified Student Loan 
+Bonds, and Qualified 501(c)(3) Bonds'' and inserting ``Certain Bonds''.
+    (f) Effective Date.--The amendments made by this section shall 
+apply to bonds issued after December 31, 2000.
+
+SEC. 303. FEDERAL GUARANTEE OF SCHOOL CONSTRUCTION BONDS BY FEDERAL 
+              HOUSING FINANCE BOARD.
+
+    (a) In General.--Section 149(b)(3) (relating to exceptions) is 
+amended by adding at the end the following new subparagraph:
+                    ``(E) Certain guaranteed school construction 
+                bonds.--Any bond issued as part of an issue 95 percent 
+                or more of the net proceeds of which are used for 
+                public school construction shall not be treated as 
+                federally guaranteed for any calendar year by reason of 
+                any guarantee by the Federal Housing Finance Board 
+                (through any Federal Home Loan Bank) under the Federal 
+                Home Loan Bank Act (12 U.S.C. 1421 et seq.), as in 
+                effect on the date of the enactment of this 
+                subparagraph, to the extent the face amount of such 
+                bond, when added to the aggregate face amount of such 
+                bonds previously so guaranteed for such year, does not 
+                exceed $500,000,000.''.
+    (b) Effective Date.--Subparagraph (E) of section 149(b)(3) of the 
+Internal Revenue Code of 1986, as added by the amendment made by 
+subsection (a), shall take effect upon the enactment, after the date of 
+the enactment of this Act, of legislation expressly authorizing the 
+Federal Housing Finance Board to allocate authority to Federal Home 
+Loan Banks to guarantee any bond described in such subparagraph, but 
+only if such legislation makes specific reference to such subparagraph.
+
+SEC. 304. DISCLOSURE OF FIRE SAFETY STANDARDS AND MEASURES WITH RESPECT 
+              TO CAMPUS BUILDINGS.
+
+    (a) Short Title.--This section may be cited as the ``Campus Fire 
+Safety Right to Know Act''.
+    (b) Amendment.--Section 485 of the Higher Education Act of 1965 (20 
+U.S.C. 1092) is amended--
+            (1) in subsection (a)(1)--
+                    (A) by striking ``and'' at the end of subparagraph 
+                (N);
+                    (B) by striking the period at the end of 
+                subparagraph (O) and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+            ``(P) the fire safety report prepared by the institution 
+        pursuant to subsection (h).''; and
+            (2) by adding at the end the following new subsection:
+    ``(h) Disclosure of Fire Safety Standards and Measures.--
+            ``(1) Fire safety reports required.--Each eligible 
+        institution participating in any program under this title 
+        shall, beginning in academic year 2001-2002, and each year 
+        thereafter, prepare, publish, and distribute, through 
+        appropriate publications or mailings, to all current students 
+        and employees, and to any applicant for enrollment or 
+        employment upon request, an annual fire safety report 
+        containing at least the following information with respect to 
+        the campus fire safety practices and standards of that 
+        institution:
+                    ``(A) A statement that identifies each student 
+                housing facility of the institution, and whether or not 
+                each such facility is equipped with a fire sprinkler 
+                system or another equally protective fire safety 
+                system.
+                    ``(B) Statistics concerning the occurrence on 
+                campus, during the 2 preceding calendar years for which 
+                data are available, of fires and false fire alarms.
+                    ``(C) For each such occurrence, a statement of the 
+                human injuries or deaths and the structural damage 
+                caused by the occurrence.
+                    ``(D) Information regarding fire alarms, smoke 
+                alarms, the presence of adequate fire escape planning 
+                or protocols (as defined in local fire codes), rules on 
+                portable electrical appliances, smoking and open flames 
+                (such as candles), regular mandatory supervised fire 
+                drills, and planned and future improvement in fire 
+                safety.
+            ``(2) Rule of construction.--Nothing in this subsection 
+        shall be construed to authorize the Secretary to require 
+        particular policies, procedures, or practices by institutions 
+        of higher education with respect to fire safety.
+            ``(3) Reports.--Each institution participating in any 
+        program under this title shall make periodic reports to the 
+        campus community on fires and false fire alarms that are 
+        reported to local fire departments in a manner that will aid in 
+        the prevention of similar occurrences.
+            ``(4) Reports to secretary.--On an annual basis, each 
+        institution participating in any program under this title shall 
+        submit to the Secretary a copy of the statistics required to be 
+        made available under paragraph (1)(B). The Secretary shall--
+                    ``(A) review such statistics;
+                    ``(B) make copies of the statistics submitted to 
+                the Secretary available to the public; and
+                    ``(C) in coordination with representatives of 
+                institutions of higher education, identify exemplary 
+                fire safety policies, procedures, and practices and 
+                disseminate information concerning those policies, 
+                procedures, and practices that have proven effective in 
+                the reduction of campus fires.
+            ``(5) Definition of campus.--In this subsection the term 
+        `campus' has the meaning provided in subsection (f)(6).''.
+    (c) Report to Congress by Secretary of Education.--Not later than 1 
+year after the date of enactment of this Act, the Secretary of 
+Education shall prepare and submit to the Congress a report 
+containing--
+            (1) an analysis of the current status of fire safety 
+        systems in college and university facilities, including 
+        sprinkler systems;
+            (2) an analysis of the appropriate fire safety standards to 
+        apply to these facilities, which the Secretary shall prepare 
+        after consultation with such fire safety experts, 
+        representatives of institutions of higher education, and other 
+        Federal agencies as the Secretary, in the Secretary's 
+        discretion, considers appropriate;
+            (3) an estimate of the cost of bringing all nonconforming 
+        dormitories and other campus buildings up to current new 
+        building codes; and
+            (4) recommendations from the Secretary concerning the best 
+        means of meeting fire safety standards in all college and 
+        university facilities, including recommendations for methods to 
+        fund such cost.
+
+                    TITLE IV--TRANSITION TO TEACHING
+
+SEC. 401. SHORT TITLE.
+
+    This title may be cited as the ``Transition to Teaching Act''.
+
+SEC. 402. FINDINGS.
+
+    The Congress finds as follows:
+            (1) School districts will need to hire more than 2,000,000 
+        teachers in the next decade. The need for teachers in the areas 
+        of mathematics, science, foreign languages, special education, 
+        and bilingual education, and for those able to teach in high-
+        poverty school districts will be particularly high. To meet 
+        this need, talented Americans of all ages should be recruited 
+        to become successful, qualified teachers.
+            (2) Nearly 28 percent of teachers of academic subjects have 
+        neither an undergraduate major nor minor in their main 
+        assignment fields. This problem is more acute in high-poverty 
+        schools, where the out-of-field percentage is 39 percent.
+            (3) The Third International Math and Science Study (TIMSS) 
+        ranked United States high school seniors last among 16 
+        countries in physics and next to last in mathematics. It is 
+        also evident, mainly from the TIMSS data, that based on 
+        academic scores, a stronger emphasis needs to be placed on the 
+        academic preparation of our children in mathematics and 
+        science.
+            (4) One-fourth of high-poverty schools find it very 
+        difficult to fill bilingual teaching positions, and nearly half 
+        of public school teachers have students in their classrooms for 
+        whom English is a second language.
+            (5) Many career-changing professionals with strong content-
+        area skills are interested in a teaching career, but need 
+        assistance in getting the appropriate pedagogical training and 
+        classroom experience.
+            (6) The Troops to Teachers model has been highly successful 
+        in linking high-quality teachers to teach in high-poverty 
+        districts.
+
+SEC. 403. PURPOSE.
+
+    The purpose of this title is to address the need of high-poverty 
+school districts for highly qualified teachers in particular subject 
+areas, such as mathematics, science, foreign languages, bilingual 
+education, and special education, needed by those school districts, by 
+recruiting, preparing, placing, and supporting career-changing 
+professionals who have knowledge and experience that will help them 
+become such teachers.
+
+SEC. 404. PROGRAM AUTHORIZED.
+
+    (a) Authority.--The Secretary is authorized to use funds 
+appropriated under subsection (b) for each fiscal year to award grants, 
+contracts, or cooperative agreements to institutions of higher 
+education and public and private nonprofit agencies or organizations to 
+carry out programs authorized by this title.
+    (b) Authorization of Appropriations.--For the purpose of carrying 
+out this title, there are authorized to be appropriated $25,000,000 for 
+each of fiscal years 2001 through 2006.
+
+SEC. 405. APPLICATION.
+
+    Each applicant that desires an award under section 404(a) shall 
+submit an application to the Secretary containing such information as 
+the Secretary requires, including--
+            (1) a description of the target group of career-changing 
+        professionals upon which the applicant will focus in carrying 
+        out its program under this title, including a description of 
+        the characteristics of that target group that shows how the 
+        knowledge and experience of its members are relevant to meeting 
+        the purpose of this title;
+            (2) a description of how the applicant will identify and 
+        recruit program participants;
+            (3) a description of the training that program participants 
+        will receive and how that training will relate to their 
+        certification as teachers;
+            (4) a description of how the applicant will ensure that 
+        program participants are placed and teach in high-poverty local 
+        educational agencies;
+            (5) a description of the teacher induction services (which 
+        may be provided through existing induction programs) the 
+        program participants will receive throughout at least their 
+        first year of teaching;
+            (6) a description of how the applicant will collaborate, as 
+        needed, with other institutions, agencies, or organizations to 
+        recruit, train, place, and support program participants under 
+        this title, including evidence of the commitment of those 
+        institutions, agencies, or organizations to the applicant's 
+        program;
+            (7) a description of how the applicant will evaluate the 
+        progress and effectiveness of its program, including--
+                    (A) the program's goals and objectives;
+                    (B) the performance indicators the applicant will 
+                use to measure the program's progress; and
+                    (C) the outcome measures that will be used to 
+                determine the program's effectiveness; and
+            (8) an assurance that the applicant will provide to the 
+        Secretary such information as the Secretary determines 
+        necessary to determine the overall effectiveness of programs 
+        under this title.
+
+SEC. 406. USES OF FUNDS AND PERIOD OF SERVICE.
+
+    (a) Authorized Activities.--Funds under this title may be used 
+for--
+            (1) recruiting program participants, including informing 
+        them of opportunities under the program and putting them in 
+        contact with other institutions, agencies, or organizations 
+        that would train, place, and support them;
+            (2) training stipends and other financial incentives for 
+        program participants, not to exceed $5,000 per participant;
+            (3) assisting institutions of higher education or other 
+        providers of teacher training to tailor their training to meet 
+        the particular needs of professionals who are changing their 
+        careers to teaching;
+            (4) placement activities, including identifying high-
+        poverty local educational agencies with a need for the 
+        particular skills and characteristics of the newly trained 
+        program participants and assisting those participants to obtain 
+        employment in those local educational agencies; and
+            (5) post-placement induction or support activities for 
+        program participants.
+    (b) Period of Service.--A program participant in a program under 
+this title who completes his or her training shall serve in a high-
+poverty local educational agency for at least 3 years.
+    (c) Repayment.--The Secretary shall establish such requirements as 
+the Secretary determines appropriate to ensure that program 
+participants who receive a training stipend or other financial 
+incentive under subsection (a)(2), but fail to complete their service 
+obligation under subsection (b), repay all or a portion of such stipend 
+or other incentive.
+
+SEC. 407. EQUITABLE DISTRIBUTION.
+
+    To the extent practicable, the Secretary shall make awards under 
+this title that support programs in different geographic regions of the 
+Nation.
+
+SEC. 408. DEFINITIONS.
+
+    In this title:
+            (1) High-poverty local educational agency.--The term 
+        ``high-poverty local educational agency'' means a local 
+        educational agency in which the percentage of children, ages 5 
+        through 17, from families below the poverty level is 20 percent 
+        or greater, or the number of such children exceeds 10,000.
+            (2) Program participants.--The term ``program 
+        participants'' means career-changing professionals who--
+                    (A) hold at least a baccalaureate degree;
+                    (B) demonstrate interest in, and commitment to, 
+                becoming a teacher; and
+                    (C) have knowledge and experience that are relevant 
+                to teaching a high-need subject area in a high-need 
+                local educational agency.
+
+                   TITLE V--MISCELLANEOUS PROVISIONS
+
+SEC. 501. EXPANSION OF DEDUCTION FOR COMPUTER DONATIONS TO SCHOOLS.
+
+    (a) Extension of Age of Eligible Computers.--Section 
+170(e)(6)(B)(ii) (defining qualified elementary or secondary 
+educational contribution) is amended by striking ``2 years'' and 
+inserting ``3 years''.
+    (b) Reacquired Computers Eligible for Donation.--Section 
+170(e)(6)(B)(iii) (defining qualified elementary or secondary 
+educational contribution) is amended by inserting ``, the person from 
+whom the donor reacquires the property,'' after ``the donor''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to contributions made in taxable years ending after the date of 
+the enactment of this Act.
+
+SEC. 502. CREDIT FOR COMPUTER DONATIONS TO SCHOOLS AND SENIOR CENTERS.
+
+    (a) In General.--Subpart D of part IV of subchapter A of chapter 1 
+(relating to business related credits) is amended by adding at the end 
+the following:
+
+``SEC. 45D. CREDIT FOR COMPUTER DONATIONS TO SCHOOLS AND SENIOR 
+              CENTERS.
+
+    ``(a) General Rule.--For purposes of section 38, the computer 
+donation credit determined under this section is an amount equal to 30 
+percent of the qualified computer contributions made by the taxpayer 
+during the taxable year as determined after the application of section 
+170(e)(6)(A).
+    ``(b) Qualified Computer Contribution.--For purposes of this 
+section, the term `qualified computer contribution' has the meaning 
+given the term `qualified elementary or secondary educational 
+contribution' by section 170(e)(6)(B), except that--
+            ``(1) such term shall include the contribution of a 
+        computer (as defined in section 168(i)(2)(B)(ii)) only if 
+        computer software (as defined in section 197(e)(3)(B)) that 
+        serves as a computer operating system has been lawfully 
+        installed in such computer, and
+            ``(2) notwithstanding clauses (i) and (iv) of section 
+        170(e)(6)(B), such term shall include the contribution of 
+        computer technology or equipment to multipurpose senior centers 
+        (as defined in section 102(35) of the Older Americans Act of 
+        1965 (42 U.S.C. 3002(35)) described in section 501(c)(3) and 
+        exempt from tax under section 501(a) to be used by individuals 
+        who have attained 60 years of age to improve job skills in 
+        computers.
+    ``(c) Increased Percentage for Contributions to Entities in 
+Empowerment Zones, Enterprise Communities, and Indian Reservations.--In 
+the case of a qualified computer contribution to an entity located in 
+an empowerment zone or enterprise community designated under section 
+1391 or an Indian reservation (as defined in section 168(j)(6)), 
+subsection (a) shall be applied by substituting `50 percent' for `30 
+percent'.
+    ``(d) Certain Rules Made Applicable.--For purposes of this section, 
+rules similar to the rules of paragraphs (1) and (2) of section 41(f) 
+shall apply.
+    ``(e) Termination.--This section shall not apply to taxable years 
+beginning on or after the date which is 3 years after the date of the 
+enactment of the New Millennium Classrooms Act.''.
+    (b) Current Year Business Credit Calculation.--Section 38(b) 
+(relating to current year business credit) is amended by striking 
+``plus'' at the end of paragraph (11), by striking the period at the 
+end of paragraph (12) and inserting ``, plus'', and by adding at the 
+end the following:
+            ``(13) the computer donation credit determined under 
+        section 45D(a).''.
+    (c) Disallowance of Deduction by Amount of Credit.--Section 280C 
+(relating to certain expenses for which credits are allowable) is 
+amended by adding at the end the following:
+    ``(d) Credit for Computer Donations.--No deduction shall be allowed 
+for that portion of the qualified computer contributions (as defined in 
+section 45D(b)) made during the taxable year that is equal to the 
+amount of credit determined for the taxable year under section 45D(a). 
+In the case of a corporation which is a member of a controlled group of 
+corporations (within the meaning of section 52(a)) or a trade or 
+business which is treated as being under common control with other 
+trades or businesses (within the meaning of section 52(b)), this 
+subsection shall be applied under rules prescribed by the Secretary 
+similar to the rules applicable under subsections (a) and (b) of 
+section 52.''.
+    (d) Limitation on Carryback.--Subsection (d) of section 39 
+(relating to carryback and carryforward of unused credits) is amended 
+by adding at the end the following:
+            ``(9) No carryback of computer donation credit before 
+        effective date.--No amount of unused business credit available 
+        under section 45D may be carried back to a taxable year 
+        beginning on or before the date of the enactment of this 
+        paragraph.''.
+    (e) Clerical Amendment.--The table of sections for subpart D of 
+part IV of subchapter A of chapter 1 is amended by inserting after the 
+item relating to section 45C the following:
+
+                              ``Sec. 45D. Credit for computer donations 
+                                        to schools and senior 
+                                        centers.''.
+    (f) Effective Date.--The amendments made by this section shall 
+apply to contributions made in taxable years beginning after the date 
+of the enactment of this Act.
+
+SEC. 503. REPORT TO CONGRESS REGARDING EXTENT AND SEVERITY OF CHILD 
+              POVERTY.
+
+    (a) In General.--Not later than June 1, 2001 and prior to any 
+reauthorization of the temporary assistance to needy families program 
+under part A of title IV of the Social Security Act (42 U.S.C. 601 et 
+seq.) for any fiscal year after fiscal year 2002, the Secretary of 
+Health and Human Services (in this section referred to as the 
+``Secretary'') shall report to Congress on the extent and severity of 
+child poverty in the United States. Such report shall, at a minimum--
+            (1) determine for the period since the enactment of the 
+        Personal Responsibility and Work Opportunity Reconciliation Act 
+        of 1996 (Public Law 104-193; 110 Stat. 2105)--
+                    (A) whether the rate of child poverty in the United 
+                States has increased;
+                    (B) whether the children who live in poverty in the 
+                United States have gotten poorer; and
+                    (C) how changes in the availability of cash and 
+                non-cash benefits to poor families have affected child 
+                poverty in the United States;
+            (2) identify alternative methods for defining child poverty 
+        that are based on consideration of factors other than family 
+        income and resources, including consideration of a family's 
+        work-related expenses; and
+            (3) contain multiple measures of child poverty in the 
+        United States that may include the child poverty gap and the 
+        extreme poverty rate.
+    (b) Legislative Proposal.--If the Secretary determines that during 
+the period since the enactment of the Personal Responsibility and Work 
+Opportunity Reconciliation Act of 1996 (Public Law 104-193; 110 Stat. 
+2105) the extent or severity of child poverty in the United States has 
+increased to any extent, the Secretary shall include with the report to 
+Congress required under subsection (a) a legislative proposal 
+addressing the factors that led to such increase.
+
+SEC. 504. CAREERS TO CLASSROOMS.
+
+    (a) Definitions.--In this section:
+            (1) In general.--The terms ``elementary school'', ``local 
+        educational agency'', ``secondary school'', and ``Secretary'' 
+        have the meanings given the terms in section 14101 of the 
+        Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+        8801).
+            (2) Alternative certification or licensure requirements.--
+        The term ``alternative certification or licensure 
+        requirements'' means State or local teacher certification or 
+        licensure requirements that permit a demonstrated competence in 
+        appropriate subject areas gained in careers outside of 
+        education to be substituted for traditional teacher training 
+        course work.
+            (3) Eligible individual.--The term ``eligible individual'' 
+        means an individual who has received--
+                    (A) in the case of an individual applying for 
+                assistance for placement as an elementary school or 
+                secondary school teacher, a baccalaureate or advanced 
+                degree from an institution of higher education; or
+                    (B) in the case of an individual applying for 
+                assistance for placement as a teacher's aide in an 
+                elementary school or secondary school, an associate, 
+                baccalaureate, or advanced degree from an institution 
+                of higher education.
+            (4) Institution of higher education.--The term 
+        ``institution of higher education'' has the meaning given the 
+        term in section 101 of the Higher Education Act of 1965 (20 
+        U.S.C. 1001)
+            (5) State.--The term ``State'' means each of the several 
+        States of the United States, the District of Columbia, American 
+        Samoa, the Federated States of Micronesia, Guam, the Republic 
+        of the Marshall Islands, the Commonwealth of the Northern 
+        Mariana Islands, the Commonwealth of Puerto Rico, the Republic 
+        of Palau, and the United States Virgin Islands.
+    (b) Placement Program.--The Secretary may establish a program of 
+awarding grants to States--
+            (1) to enable the States to assist eligible individuals to 
+        obtain--
+                    (A) certification or licensure as elementary school 
+                or secondary school teachers; or
+                    (B) the credentials necessary to serve as teachers' 
+                aides; and
+            (2) to facilitate the employment of the eligible 
+        individuals by local educational agencies identified under 
+        subsection (c)(2) as experiencing a shortage of teachers or 
+        teachers' aides.
+    (c) States With Alternative Certification Requirements and Teacher 
+and Teacher's Aide Shortages.--Upon the establishment of the placement 
+program authorized by subsection (b), the Secretary shall--
+            (1) conduct a survey of States to identify those States 
+        that have alternative certification or licensure requirements 
+        for teachers;
+            (2) periodically request information from States identified 
+        under paragraph (1) to identify in these States those local 
+        educational agencies that--
+                    (A) are receiving grants under part A of title I of 
+                the Elementary and Secondary Education Act of 1965 (20 
+                U.S.C. 6311 et seq.) as a result of having within their 
+                jurisdictions concentrations of children from low-
+                income families; and
+                    (B) are also experiencing a shortage of qualified 
+                teachers, in particular a shortage of science, 
+                mathematics, computer science, or engineering teachers; 
+                and
+            (3) periodically request information from all States to 
+        identify local educational agencies that--
+                    (A) are receiving grants under part A of title I of 
+                the Elementary and Secondary Education Act of 1965 (20 
+                U.S.C. 6311 et seq.) as a result of having within their 
+                jurisdictions concentrations of children from low-
+                income families; and
+                    (B) are experiencing a shortage of teachers' aides.
+    (d) Selection of Eligible Individuals.--
+            (1) In general.--Selection of eligible individuals to 
+        participate in the placement program authorized by subsection 
+        (b) shall be made on the basis of applications submitted to a 
+        State. An application shall be in such form and contain such 
+        information as the State may require.
+            (2) Priority.--In selecting eligible individuals to receive 
+        assistance for placement as elementary school or secondary 
+        school teachers, the State shall give priority to eligible 
+        individuals who--
+                    (A) have substantial, demonstrated career 
+                experience in science, mathematics, computer science, 
+                or engineering and agree to seek employment as science, 
+                mathematics, computer science, or engineering teachers 
+                in elementary schools or secondary schools; or
+                    (B) have substantial, demonstrated career 
+                experience in another subject area identified by the 
+                State as important for national educational objectives 
+                and agree to seek employment in that subject area in 
+                elementary schools or secondary schools.
+    (e) Agreement.--An eligible individual selected to participate in 
+the placement program authorized by subsection (b) shall be required to 
+enter into an agreement with the State, in which the eligible 
+individual agrees--
+            (1) to obtain, within such time as the State may require, 
+        certification or licensure as an elementary school or secondary 
+        school teacher or the necessary credentials to serve as a 
+        teacher's aide in an elementary school or secondary school; and
+            (2) to accept--
+                    (A) in the case of an eligible individual selected 
+                for assistance for placement as a teacher, an offer of 
+                full-time employment as an elementary school or 
+                secondary school teacher for not less than two school 
+                years with a local educational agency identified under 
+                subsection (c)(2), to begin the school year after 
+                obtaining that certification or licensure; or
+                    (B) in the case of an eligible individual selected 
+                for assistance for placement as a teacher's aide, an 
+                offer of full-time employment as a teacher's aide in an 
+                elementary school or secondary school for not less than 
+                2 school years with a local educational agency 
+                identified under subsection (c)(3), to begin the school 
+                year after obtaining the necessary credentials.
+    (f) Stipend for Participants.--
+            (1) In general.--The State shall pay to an eligible 
+        individual participating in the placement program a stipend in 
+        an amount equal to the lesser of--
+                    (A) $5,000; or
+                    (B) the total costs of the type described in 
+                paragraphs (1), (2), (3), (8), and (9) of section 472 
+                of the Higher Education Act of 1965 (20 U.S.C. 1087ll) 
+                incurred by the eligible individual while obtaining 
+                teacher certification or licensure or the necessary 
+                credentials to serve as a teacher's aide and employment 
+                as an elementary school or secondary school teacher or 
+                teacher aide.
+            (2) Relation to other assistance.--A stipend paid under 
+        paragraph (1) shall be taken into account in determining the 
+        eligibility of the eligible individual for Federal student 
+        financial assistance provided under title IV of the Higher 
+        Education Act of 1965 (20 U.S.C. 1070 et seq.).
+    (g) Grants To Facilitate Placement.--
+            (1) Teachers.--In the case of an eligible individual in the 
+        placement program obtaining teacher certification or licensure, 
+        the State may offer to enter into an agreement under this 
+        subsection with the first local educational agency identified 
+        under subsection (b)(2) that employs the eligible individual as 
+        a full-time elementary school or secondary school teacher after 
+        the eligible individual obtains teacher certification or 
+        licensure.
+            (2) Teacher's aides.--In the case of an eligible individual 
+        in the program obtaining credentials to serve as a teacher's 
+        aide, the State may offer to enter into an agreement under this 
+        subsection with the first local educational agency identified 
+        under subsection (b)(3) that employs the participant as a full-
+        time teacher's aide.
+            (3) Agreements contracts.--Under an agreement referred to 
+        in paragraph (1) or (2)--
+                    (A) the local educational agency shall agree to 
+                employ the eligible individual full time for not less 
+                than 2 consecutive school years (at a basic salary to 
+                be certified to the State) in a school of the local 
+                educational agency that--
+                            (i) serves a concentration of children from 
+                        low-income families; and
+                            (ii) has an exceptional need for eligible 
+                        individuals; and
+                    (B) the State shall agree to pay to the local 
+                educational agency for each eligible individual, from 
+                amounts provided under this section, $5,000 per year 
+                for a maximum of 2 years.
+    (h) Reimbursement Under Certain Circumstances.--
+            (1) In general.--If an eligible individual in the placement 
+        program fails to obtain teacher certification or licensure, 
+        employment as an elementary school or secondary school teacher, 
+        or employment as a teacher's aide as required under the 
+        agreement or voluntarily leaves, or is terminated for cause, 
+        from the employment during the 2 years of required service, the 
+        eligible individual shall be required to reimburse the State 
+        for any stipend paid to the eligible individual under 
+        subsection (f)(1) in an amount that bears the same ratio to the 
+        amount of the stipend as the unserved portion of required 
+        service bears to the 2 years of required service. A State shall 
+        forward the proceeds of any reimbursement received under this 
+        paragraph to the Secretary.
+            (2) Obligation to reimburse.--The obligation to reimburse 
+        the State under this subsection is, for all purposes, a debt 
+        owing the United States. A discharge in bankruptcy under title 
+        11 shall not release a participant from the obligation to 
+        reimburse the State. Any amount owed by an eligible individual 
+        under paragraph (1) shall bear interest at the rate equal to 
+        the highest rate being paid by the United States on the day on 
+        which the reimbursement is determined to be due for securities 
+        having maturities of 90 days or less and shall accrue from the 
+        day on which the eligible individual is first notified of the 
+        amount due.
+    (i) Exceptions to Reimbursement Provisions.--
+            (1) In general.--An eligible individual in the placement 
+        program shall not be considered to be in violation of an 
+        agreement entered into under subsection (e) during any period 
+        in which the participant--
+                    (A) is pursuing a full-time course of study related 
+                to the field of teaching at an institution of higher 
+                education;
+                    (B) is serving on active duty as a member of the 
+                Armed Forces;
+                    (C) is temporarily totally disabled for a period of 
+                time not to exceed 3 years as established by sworn 
+                affidavit of a qualified physician;
+                    (D) is unable to secure employment for a period not 
+                to exceed 12 months by reason of the care required by a 
+                spouse who is disabled;
+                    (E) is seeking and unable to find full-time 
+                employment as a teacher or teacher's aide in an 
+                elementary school or secondary school for a single 
+                period not to exceed 27 months; or
+                    (F) satisfies the provisions of additional 
+                reimbursement exceptions that may be prescribed by the 
+                Secretary.
+            (2) Forgiveness.--An eligible individual shall be excused 
+        from reimbursement under subsection (h) if the eligible 
+        individual becomes permanently totally disabled as established 
+        by sworn affidavit of a qualified physician. The Secretary may 
+        also waive reimbursement in cases of extreme hardship to the 
+        participant, as determined by the Secretary.
+
+SEC. 505. PESTICIDE APPLICATION IN SCHOOLS.
+
+    (a) In General.--Each school that receives Federal funding shall--
+            (1) take steps to reduce the exposure of children to 
+        pesticides on school grounds, both indoors and outdoors; and
+            (2) provide parents and guardians of children that attend 
+        the school with advance notification of certain pesticide 
+        applications on school grounds in accordance with subsections 
+        (b) and (c).
+    (b) EPA List of Toxic Pesticides.--
+            (1) In general.--The Administrator of the Environmental 
+        Protection Agency shall distribute to each school that receives 
+        Federal funding the current manual of the Environmental 
+        Protection Agency that guides schools in the establishment of a 
+        least toxic pesticide policy.
+            (2) List.--Not later than 1 year after the date of 
+        enactment of this Act, the Administrator of the Environmental 
+        Protection Agency shall provide each school that receives 
+        Federal funding with a list of pesticides that contain a 
+        substance that the Administrator has identified as a known 
+        carcinogen, a developmental or reproductive toxin, or a 
+        category I or II acute nerve toxin.
+    (c) Parental Notification of Toxic Pesticide Applications in 
+Schools.--
+            (1) In general.--On or after the date that is 18 months 
+        after the date of enactment of this Act, any school that 
+        receives Federal funding shall not apply any pesticide 
+        described in paragraph (b)(2) on school grounds, either indoors 
+        or outdoors, unless an administrative official of the school 
+        provides notice of the planned application to parents and 
+        guardians of children that attend the school not later than 48 
+        hours before the application of the pesticide.
+            (2) Notice.--The notice described in paragraph (1)--
+                    (A) shall include--
+                            (i) a description of the intended area of 
+                        application; and
+                            (ii) the name of each pesticide to be 
+                        applied; and
+                    (B) shall indicate whether the pesticide is a known 
+                carcinogen, a developmental or reproductive toxin, or a 
+                category I or II acute nerve toxin.
+            (3) Incorporation of notice.--The notice described in 
+        paragraph (1) may be incorporated in any notice that is being 
+        sent to parents and guardians at the time at which the 
+        pesticide notice is required to be sent.
+
+SEC. 506. SENSE OF THE SENATE REGARDING A SAFE LEARNING ENVIRONMENT.
+
+    (a) Findings.--Congress finds that:
+            (1) Every school child in America should have a safe 
+        learning environment free from violence and illegal drugs.
+            (2) Violence and illegal drugs in the schools undermine a 
+        safe and secure learning environment.
+            (3) Any instance of violence or illegal drugs in schools is 
+        unacceptable and undermines the efforts of Congress, State and 
+        local governments and school boards, and parents to provide 
+        American children with the best education possible.
+            (4) In the last 12 months, there have been at least 50 
+        people killed or injured in school shootings in America.
+            (5) From 1992 through 1998, the number of referrals made by 
+        the Bureau of Alcohol, Tobacco, and Firearms to the Federal 
+        Bureau of Investigation for Federal firearms prosecutions fell 
+        44 percent, which resulted in a 40-percent drop in prosecutions 
+        and a 31-percent decline in convictions, allowing criminals to 
+        remain on the streets preying on our most vulnerable citizens, 
+        including our children.
+            (6) From 1996 to 1998, the Justice Department only 
+        prosecuted an average of seven persons per year for illegally 
+        transferring a handgun to a juvenile.
+            (7) Since 1992, the percentage of 8th grade students using 
+        marijuana, cocaine, and heroin in the past 30 days has 
+        increased 162 percent, 86 percent, and 50 percent, 
+        respectively, according to the respected Monitoring the Future 
+        survey.
+            (8) The February 29, 2000, shooting at Buell Elementary 
+        School in Mount Morris Township, Michigan, is evidence that gun 
+        violence in American schools continues, that the drug culture 
+        contributes to youth violence, and that the breakdown of the 
+        American family has contributed to the increase in violence 
+        among American children.
+    (b) Sense of the Senate.--It is the sense of the Senate that the 
+reauthorization of the Safe and Drug-Free Schools program that Congress 
+soon will be considering should target the elimination of illegal drugs 
+and violence in our schools and should encourage local schools to 
+insist on zero-tolerance policies towards violence and illegal drug 
+use.
+
+SEC. 507. REDUCTION IN SCHOOL VIOLENCE.
+
+    (a) Short Title.--This section may be cited as the ``School 
+Violence Reduction Act''.
+    (b) Findings.--Congress finds that:
+            (1) Every school child in America has a right to a safe 
+        learning environment free from guns and violence.
+            (2) The United States Department of Education report on the 
+        Implementation of the Gun-Free Schools Act found that 3,930 
+        children were expelled for bringing guns to school during the 
+        1997-98 school year.
+            (3) Nationwide, 57 percent of the expulsions were high 
+        school students, 33 percent were in junior high and 10 percent 
+        were in elementary school.
+    (c) Grants.--The Secretary of Education shall award grants to 
+elementary and secondary schools (as such terms are defined in section 
+14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+8801)) to enable such schools to--
+            (1) develop and disseminate model programs to reduce 
+        violence in schools,
+            (2) educate students about the dangers associated with 
+        guns, and
+            (3) provide violence prevention information (including 
+        information about safe gun storage) to children and their 
+        parents.
+    (d) Application.--To be eligible to receive a grant under 
+subsection (b), an elementary or secondary school shall prepare and 
+submit to the Secretary of Education an application at such time, in 
+such manner, and containing such information as the Secretary may 
+require.
+    (e) Public Service Announcements.--The Secretary of Education shall 
+provide for the development and dissemination of public service 
+announcements and other information on ways to reduce violence in our 
+Nation's schools, including safe gun storage and other measures.
+    (f) Authorization of Appropriations.--For the purpose of carrying 
+out this section, there are authorized to be appropriated funds of up 
+to $7,000,000 for fiscal year 2001 and such sums as may be necessary 
+for each of the four succeeding fiscal years.
+
+            Passed the Senate March 2, 2000.
+
+            Attest:
+
+                                                             Secretary.
+106th CONGRESS
+
+  2d Session
+
+                                S. 1134
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To amend the Internal Revenue Code of 1986 to allow tax-free 
+    expenditures from education individual retirement accounts for 
+   elementary and secondary school expenses, to increase the maximum 
+    annual amount of contributions to such accounts, and for other 
+                               purposes.
+
+S 1134 ES----2
+S 1134 ES----3
+S 1134 ES----4
+S 1134 ES----5

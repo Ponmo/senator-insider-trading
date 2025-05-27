@@ -1,0 +1,2448 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2586 Enrolled Bill (ENR)]
+
+        H.R.2586
+
+                       One Hundred Fourth Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+         Begun and held at the City of Washington on Wednesday,
+  the fourth day of January, one thousand nine hundred and ninety-five
+
+
+                                 An Act
+
+
+ 
+ To provide for a temporary increase in the public debt limit, and for 
+                             other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. TEMPORARY INCREASE IN PUBLIC DEBT LIMIT.
+
+    Subsection (b) of section 3101 of title 31, United States Code, is 
+amended by adding at the end the following new sentence: ``During the 
+period after the date of the enactment of this sentence, the preceding 
+sentence shall be applied by substituting for the dollar amount 
+contained therein--
+        ``(1) `$4,967,000,000,000' for the portion of such period 
+    before December 13, 1995, and
+        ``(2) `$4,800,000,000,000' after December 12, 1995.''
+
+SEC. 2. APPLICABILITY OF PUBLIC DEBT LIMIT TO FEDERAL TRUST FUNDS AND 
+              OTHER FEDERAL ACCOUNTS.
+
+    (a) Protection of Federal Funds.--Notwithstanding any other 
+provision of law--
+        (1) no officer or employee of the United States may--
+            (A) delay the deposit of any amount into (or delay the 
+        credit of any amount to) any Federal fund or otherwise vary 
+        from the normal terms, procedures, or timing for making such 
+        deposits or credits, or
+            (B) refrain from the investment in public debt obligations 
+        of amounts in any Federal fund,
+    if a purpose of such action or inaction is to not increase the 
+    amount of outstanding public debt obligations, and
+        (2) no officer or employee of the United States may disinvest 
+    amounts in any Federal fund which are invested in public debt 
+    obligations if a purpose of the disinvestment is to reduce the 
+    amount of outstanding public debt obligations.
+    (b) Protection of Benefits and Expenditures for Administrative 
+Expenses.--
+        (1) In general.--Notwithstanding subsection (a), during any 
+    period for which cash benefits or administrative expenses would not 
+    otherwise be payable from a covered benefits fund by reason of an 
+    inability to issue further public debt obligations because of the 
+    applicable public debt limit, public debt obligations held by such 
+    covered benefits fund shall be sold or redeemed only for the 
+    purpose of making payment of such benefits or administrative 
+    expenses and only to the extent cash assets of the covered benefits 
+    fund are not available from month to month for making payment of 
+    such benefits or administrative expenses.
+        (2) Issuance of corresponding debt.--For purposes of 
+    undertaking the sale or redemption of public debt obligations held 
+    by a covered benefits fund pursuant to paragraph (1), the Secretary 
+    of the Treasury may issue corresponding public debt obligations to 
+    the public, in order to obtain the cash necessary for payment of 
+    benefits or administrativeexpenses from such covered benefits fund, 
+notwithstanding the public debt limit.
+        (3) Advance notice of sale or redemption.--Not less than 3 days 
+    prior to the date on which, by reason of the public debt limit, the 
+    Secretary of the Treasury expects to undertake a sale or redemption 
+    authorized under paragraph (1), the Secretary of the Treasury shall 
+    report to each House of the Congress and to the Comptroller General 
+    of the United States regarding the expected sale or redemption. 
+    Upon receipt of such report, the Comptroller General shall review 
+    the extent of compliance with subsection (a) and paragraphs (1) and 
+    (2) of this subsection and shall issue such findings and 
+    recommendations to each House of the Congress as the Comptroller 
+    General considers necessary and appropriate.
+    (c) Public Debt Obligation.--For purposes of this section, the term 
+``public debt obligation'' means any obligation subject to the public 
+debt limit established under section 3101 of title 31, United States 
+Code.
+    (d) Federal Fund.--For purposes of this section, the term ``Federal 
+fund'' means any Federal trust fund or Government account established 
+pursuant to Federal law to which the Secretary of the Treasury has 
+issued or is expressly authorized by law directly to issue obligations 
+under chapter 31 of title 31, United States Code, in respect of public 
+money, money otherwise required to be deposited in the Treasury, or 
+amounts appropriated.
+    (e) Covered Benefits Fund.--For purposes of subsection (b), the 
+term ``covered benefits fund'' means any Federal fund from which cash 
+benefits are payable by law in the form of retirement benefits, 
+separation payments, life or disability insurance benefits, or 
+dependent's or survivor's benefits, including (but not limited to) the 
+following:
+        (1) the Federal Old-Age and Survivors Insurance Trust Fund;
+        (2) the Federal Disability Insurance Trust Fund;
+        (3) the Civil Service Retirement and Disability Fund;
+        (4) the Government Securities Investment Fund;
+        (5) the Department of Defense Military Retirement Fund;
+        (6) the Unemployment Trust Fund;
+        (7) each of the railroad retirement funds and accounts;
+        (8) the Department of Defense Education Benefits Fund and the 
+    Post-Vietnam Era Veterans Education Fund; and
+        (9) the Black Lung Disability Trust Fund.
+
+SEC. 3. CONFORMING AMENDMENTS.
+
+    Subsections (j), (k), and (l) of section 8348 of title 5, United 
+States Code, and subsections (g) and (h) of section 8438 of such title 
+are hereby repealed.
+
+SEC. 4. COMMITMENT TO A SEVEN-YEAR BALANCED BUDGET.
+
+  (a) With the enactment of this Act the President and the Congress 
+commit to enacting legislation in calendar year 1995 to achieve a 
+balanced budget, as scored by the non-partisan Congressional Budget 
+Office, not later than the fiscal year 2002.
+  (b) The Congress affirms that it will not enact legislation providing 
+for a further increase in the permanent statutory limit on the public 
+debt unless the President signs into law the balanced budget 
+legislation referred to in subsection (a).
+
+SEC. 5. MEDICARE COVERAGE OF CERTAIN ANTI-CANCER DRUG TREATMENTS.
+
+  (a) Coverage of Certain Self-Administered Anticancer Drugs.--Section 
+1861(s)(2)(Q) of the Social Security Act (42 U.S.C. 1395x(s)(2)(Q)) is 
+amended--
+      (1) by striking ``(Q)'' and inserting ``(Q)(i)''; and
+      (2) by striking the semicolon at the end and inserting ``, and''; 
+    and
+      (3) by adding at the end the following:
+  ``(ii) an oral drug (which is approved by the Federal Food and Drug 
+Administration) prescribed for use as an anticancer nonsteroidal 
+antiestrogen for the treatment of breast cancer or nonsteroidal 
+antiandrogen agent for the treatment of prostate cancer;''.
+  (b) Uniform Coverage of Anticancer Drugs in All Settings.--Section 
+1861(t)(2)(A) of such Act (42 U.S.C. 1395x(t)(2)(A)) is amended by 
+adding (including a nonsteroidal antiestrogen or nonsteroidal 
+antiandrogen regimen)'' after ``regimen''.
+  (c) Conforming Amendment.--Section 1834(j)(5)(F)(iv) of such Act (42 
+U.S.C. 1395m(j)(5)(F)(iv)) is amended by striking ``prescribed for 
+use'' and all that follows through ``1861(s)(2)(Q))'' and inserting 
+``described in section 1861(s)(2)(Q))''.
+  (d) Effective Date.--The amendments made by this section shall apply 
+to drugs furnished on or after the date of the enactment of this 
+section.
+
+                     TITLE I--HABEAS CORPUS REFORM
+
+SEC. 101. FILING DEADLINES.
+
+    Section 2244 of title 28, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(d)(1) A 1-year period of limitation shall apply to an 
+application for a write of habeas corpus by a person in custody 
+pursuant to the judgment of a State court. The limitation period shall 
+run from the latest of--
+        ``(A) the date on which the judgment became final by the 
+    conclusion of direct review or the expiration of the time for 
+    seeking such review;
+        ``(B) the date on which the impediment to filing an application 
+    created by State action in violation of the Constitution or laws of 
+    the United States is removed, if the applicant was prevented from 
+    filing by such State action;
+        ``(C) the date on which the constitutional right asserted was 
+    initially recognized by the Supreme Court, if the right has been 
+    newly recognized by the Supreme Court and made retroactively 
+    applicable to cases on collateral review; or
+        ``(D) the date on which the factual predicate of the claim or 
+    claims presented could have been discovered through the exercise of 
+    due diligence.
+    ``(2) The time during which a properly filed application for State 
+post-conviction or other collateral review with respect to the 
+pertinent judgment or claim shall not be counted toward any period of 
+limitation under this subsection.''.
+
+SEC. 102. APPEAL.
+
+    Section 2253 of title 28, United States Code, is amended to read as 
+follows:
+
+``Sec. 2253. Appeal
+
+    ``(a) In a habeas corpus proceeding or a proceeding under section 
+2255 before a district judge, the final order shall be subject to 
+review, on appeal, by the court of appeals for the circuit in which the 
+proceeding is held.
+    ``(b) There shall be no right of appeal from a final order in a 
+proceeding to test the validity of a warrant to remove to another 
+district or place for commitment or trial a person charged with a 
+criminal offense against the United States, or to test the validity of 
+such person's detention pending removal proceedings.
+    ``(c)(1) Unless a circuit justice or judge issues a certificate of 
+appealability, an appeal may not be taken to the court of appeals 
+from--
+        ``(A) the final order in a habeas corpus proceeding in which 
+    the detention complained of arises out of process issued by a State 
+    court; or
+        ``(B) the final order in a proceeding under section 2255.
+    ``(2) A certificate of appealability may issue under paragraph (1) 
+only if the applicant has made a substantial showing of the denial of a 
+constitutional right.
+    ``(3) The certificate of appealability under paragraph (1) shall 
+indicate which specific issue or issues satisfy the showing required by 
+paragraph (2).''.
+
+SEC. 103. AMENDMENT OF FEDERAL RULES OF APPELLATE PROCEDURE.
+
+    Rule 22 of the Federal Rules of Appellate Procedure is amended to 
+read as follows:
+
+``Rule 22. Habeas corpus and section 2255 proceedings
+
+    ``(a) Application for the Original Writ.--An application for a writ 
+of habeas corpus shall be made to the appropriate district court. If 
+application is made to a circuit judge, the application shall be 
+transferred to the appropriate district court. If an application is 
+made to or transferred to the district court and denied, renewal of the 
+application before a circuit judge shall not be permitted. The 
+applicant may, pursuant to section 2253 of title 28, United States 
+Code, appeal to the appropriate court of appeals from the order of the 
+district court denying the writ.
+    ``(b) Certificate of Appealability.--In a habeas corpus proceeding 
+in which the detention complained of arises out of process issued by a 
+State court, an appeal by the applicant for the writ may not proceed 
+unless a district or a circuit judge issues a certificate of 
+appealability pursuant to section 2253(c) of title 28, United States 
+Code. If an appeal is taken by the applicant, the district judge who 
+rendered the judgment shall either issue a certificate of appealability 
+or state the reasons why such a certificate should not issue. The 
+certificate or the statement shall be forwarded to the court of appeals 
+with the notice of appeal and the file of the proceedings in the 
+district court. If the district judge has denied the certificate, the 
+applicant for the writ may then request issuance of the certificate by 
+a circuit judge. If such a request is addressed to the court of 
+appeals, it shall be deemed addressed to the judges thereof and shall 
+be considered by a circuit judge or judges as the court deems 
+appropriate. If no express request for a certificate is filed, the 
+notice of appeal shall be deemed to constitute a request addressed to 
+the judges of the court of appeals. If an appeal is taken by a State or 
+its representative, a certificate of appealability is not required.''.
+
+SEC. 104. SECTION 2254 AMENDMENTS.
+
+    Section 2254 of title 28, United States Code, is amended--
+        (1) by amending subsection (b) to read as follows:
+    ``(b)(1) An application for a writ of habeas corpus on behalf of a 
+person in custody pursuant to the judgment of a State court shall not 
+be granted unless it appears that--
+        ``(A) the applicant has exhausted the remedies available in the 
+    courts of the State; or
+        ``(B)(i) there is an absence of available State corrective 
+    process; or
+        ``(ii) circumstances exist that render such process ineffective 
+    to protect the rights of the applicant.
+    ``(2) An application for a writ of habeas corpus may be denied on 
+the merits, notwithstanding the failure of the applicant to exhaust the 
+remedies available in the courts of the State.
+    ``(3) A State shall not be deemed to have waived the exhaustion 
+requirement or be estopped from reliance upon the requirement unless 
+the State, through counsel, expressly waives the requirement.'';
+        (2) by redesignating subsections (d), (e), and (f) as 
+    subsections (e), (f), and (g), respectively;
+        (3) by inserting after subsection (c) the following new 
+    subsection:
+    ``(d) An application for a writ of habeas corpus on behalf of a 
+person in custody pursuant to the judgment of a State court shall not 
+be granted with respect to any claim that was adjudicated on the merits 
+in State court proceedings unless the adjudication of the claim--
+        ``(1) resulted in a decision that was contrary to, or involved 
+    an unreasonable application of, clearly established Federal law, as 
+    determined by the Supreme Court of the United States; or
+        ``(2) resulted in a decision that was based on an unreasonable 
+    determination of the facts in light of the evidence presented in 
+    the State court proceeding.'';
+        (4) by amending subsection (e), as redesignated by paragraph 
+    (2), to read as follows:
+    ``(e)(1) In a proceeding instituted by an application for a writ of 
+habeas corpus by a person in custody pursuant to the judgment of a 
+State court, a determination of a factual issue made by a State court 
+shall be presumed to be correct. The applicant shall have the burden of 
+rebutting the presumption of correctness by clear and convincing 
+evidence.
+    ``(2) If the applicant has failed to develop the factual basis of a 
+claim in State court proceedings, the court shall not hold an 
+evidentiary hearing on the claim unless the applicant shows that--
+        ``(A) the claim relies on--
+            ``(i) a new rule of constitutional law, made retroactive to 
+        cases on collateral review by the Supreme Court, that was 
+        previously unavailable; or
+            ``(ii) a factual predicate that could not have been 
+        previously discovered through the exercise of due diligence; 
+        and
+        ``(B) the facts underlying the claim would be sufficient to 
+    establish by clear and convincing evidence that but for 
+    constitutional error, no reasonable factfinder would have found the 
+    applicant guilty of the underlying offense.''; and
+        (5) by adding at the end the following new subsections:
+    ``(h) Except as provided in title 21, United States Code, section 
+848, in all proceedings brought under this section, and any subsequent 
+proceedings on review, the court may appoint counsel for an applicant 
+who is or becomes financially unable to afford counsel, except as 
+provided by a rule promulgated by the Supreme Court pursuant to 
+statutory authority. Appointment of counsel under this section shall be 
+governed by section 3006A of title 18.
+    ``(i) The ineffectiveness or incompetence of counsel during Federal 
+or State collateral post-conviction proceedings shall not be a ground 
+for relief in a proceeding arising under section 2254.''.
+
+SEC. 105. SECTION 2255 AMENDMENTS.
+
+    Section 2255 of title 28, United States Code, is amended--
+        (1) by striking the second and fifth undesignated paragraphs; 
+    and
+        (2) by adding at the end the following new undesignated 
+    paragraphs:
+    ``A 1-year period of limitation shall apply to a motion under this 
+section. The limitation period shall run from the latest of--
+        ``(1) the date on which the judgment of conviction becomes 
+    final;
+        ``(2) the date on which the impediment to making a motion 
+    created by governmental action in violation of the Constitution or 
+    laws of the United States is removed, if the movant was prevented 
+    from making a motion by such governmental action;
+        ``(3) the date on which the right asserted was initially 
+    recognized by the Supreme Court, if that right has been newly 
+    recognized by the Supreme Court and made retroactively applicable 
+    to cases on collateral review; or
+        ``(4) the date on which the facts supporting the claim or 
+    claims presented could have been discovered through the exercise of 
+    due diligence.
+    ``Except as provided in title 21, United States Code, section 848, 
+in all proceedings brought under this section, and any subsequent 
+proceedings on review, the court may appoint counsel for a movant who 
+is or becomes financially unable to afford counsel shall be in the 
+discretion of the court, except as provided by a rule promulgated by 
+the Supreme Court pursuant to statutory authority. Appointment of 
+counsel under this section shall be governed by section 3006A of title 
+18.
+    ``A second or successive motion must be certified as provided in 
+section 2244 by a panel of the appropriate court of appeals to 
+contain--
+        ``(1) newly discovered evidence that, if proven and viewed in 
+    light of the evidence as a whole, would be sufficient to establish 
+    by clear and convincing evidence that no reasonable factfinder 
+    would have found the movant guilty of the offense; or
+        ``(2) a new rule of constitutional law, made retroactive to 
+    cases on collateral review by the Supreme Court, that was 
+    previously unavailable.''.
+
+SEC. 106. LIMITS ON SECOND OR SUCCESSIVE APPLICATIONS.
+
+    (a) Conforming Amendment to Section 2244(a).--Section 2244(a) of 
+title 28, United States Code, is amended by striking ``and the 
+petition'' and all that follows through ``by such inquiry.'' and 
+inserting ``, except as provided in section 2255.''.
+    (b) Limits on Second or Successive Applications.--Section 2244(b) 
+of title 28, United States Code, is amended to read as follows:
+    ``(b)(1) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was presented in a prior 
+application shall be dismissed.
+    ``(2) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was not presented in a prior 
+application shall be dismissed unless--
+        ``(A) the applicant shows that the claim relies on a new rule 
+    of constitutional law, made retroactive to cases on collateral 
+    review by the Supreme Court, that was previously unavailable; or
+        ``(B)(i) the factual predicate for the claim could not have 
+    been discovered previously through the exercise of due diligence; 
+    and
+        ``(ii) the facts underlying the claim, if proven and viewed in 
+    light of the evidence as a whole, would be sufficient to establish 
+    by clear and convincing evidence that, but for constitutional 
+    error, no reasonable factfinder would have found the applicant 
+    guilty of the underlying offense.
+    ``(3)(A) Before a second or successive application permitted by 
+this section is filed in the district court, the applicant shall move 
+in the appropriate court of appeals for an order authorizing the 
+district court to consider the application.
+    ``(B) A motion in the court of appeals for an order authorizing the 
+district court to consider a second or successive application shall be 
+determined by a three-judge panel of the court of appeals.
+    ``(C) The court of appeals may authorize the filing of a second or 
+successive application only if it determines that the application makes 
+a prima facie showing that the application satisfies the requirements 
+of this subsection.
+    ``(D) The court of appeals shall grant or deny the authorization to 
+file a second or successive application not later than 30 days after 
+the filing of the motion.
+    ``(E) The grant or denial of an authorization by a court of appeals 
+to file a second or successive application shall not be appealable and 
+shall not be the subject of a petition for rehearing or for a writ of 
+certiorari.
+    ``(4) A district court shall dismiss any claim presented in a 
+second or successive application that the court of appeals has 
+authorized to be filed unless the applicant shows that the claim 
+satisfies the requirements of this section.''.
+
+SEC. 107. DEATH PENALTY LITIGATION PROCEDURES.
+
+    (a) Addition of Chapter to Title 28, United States Code.--Title 28, 
+United States Code, is amended by inserting after chapter 153 the 
+following new chapter:
+
+    ``CHAPTER 154--SPECIAL HABEAS CORPUS PROCEDURES IN CAPITAL CASES
+
+``Sec.
+``2261. Prisoners in State custody subject to capital sentence; 
+          appointment of counsel; requirement of rule of court or 
+          statute; procedures for appointment.
+``2262. Mandatory stay of execution; duration; limits on stays of 
+          execution; successive petitions.
+``2263. Filing of habeas corpus application; time requirements; tolling 
+          rules.
+``2264. Scope of Federal review; district court adjudications.
+``2265. Application to State unitary review procedure.
+``2266. Limitation periods for determining applications and motions.
+
+``Sec. 2261. Prisoners in State custody subject to capital sentence; 
+            appointment of counsel; requirement of rule of court or 
+            statute; procedures for appointment
+
+    ``(a) This chapter shall apply to cases arising under section 2254 
+brought by prisoners in State custody who are subject to a capital 
+sentence. It shall apply only if the provisions of subsections (b) and 
+(c) are satisfied.
+    ``(b) This chapter is applicable if a State establishes by statute, 
+rule of its court of last resort, or by another agency authorized by 
+State law, a mechanism for the appointment, compensation, and payment 
+of reasonable litigation expenses of competent counsel in State post-
+conviction proceedings brought by indigent prisoners whose capital 
+convictions and sentences have been upheld on direct appeal to the 
+court of last resort in the State or have otherwise become final for 
+State law purposes. The rule of court or statute must provide standards 
+of competency for the appointment of such counsel.
+    ``(c) Any mechanism for the appointment, compensation, and 
+reimbursement of counsel as provided in subsection (b) must offer 
+counsel to all State prisoners under capital sentence and must provide 
+for the entry of an order by a court of record--
+        ``(1) appointing one or more counsels to represent the prisoner 
+    upon a finding that the prisoner is indigent and accepted the offer 
+    or is unable competently to decide whether to accept or reject the 
+    offer;
+        ``(2) finding, after a hearing if necessary, that the prisoner 
+    rejected the offer of counsel and made the decision with an 
+    understanding of its legal consequences; or
+        ``(3) denying the appointment of counsel upon a finding that 
+    the prisoner is not indigent.
+    ``(d) No counsel appointed pursuant to subsections (b) and (c) to 
+represent a State prisoner under capital sentence shall have previously 
+represented the prisoner at trial or on direct appeal in the case for 
+which the appointment is made unless the prisoner and counsel expressly 
+request continued representation.
+    ``(e) The ineffectiveness or incompetence of counsel during State 
+or Federal post-conviction proceedings in a capital case shall not be a 
+ground for relief in a proceeding arising under section 2254. This 
+limitation shall not preclude the appointment of different counsel, on 
+the court's own motion or at the request of the prisoner, at any phase 
+of State or Federal post-conviction proceedings on the basis of the 
+ineffectiveness or incompetence of counsel in such proceedings.
+
+``Sec. 2262. Mandatory stay of execution; duration; limits on stays of 
+            execution; successive petitions
+
+    ``(a) Upon the entry in the appropriate State court of record of an 
+order under section 2261(c), a warrant or order setting an execution 
+date for a State prisoner shall be stayed upon application to any court 
+that would have jurisdiction over any proceedings filed under section 
+2254. The application shall recite that the State has invoked the post-
+conviction review procedures of this chapter and that the scheduled 
+execution is subject to stay.
+    ``(b) A stay of execution granted pursuant to subsection (a) shall 
+expire if--
+        ``(1) a State prisoner fails to file a habeas corpus 
+    application under section 2254 within the time required in section 
+    2263;
+        ``(2) before a court of competent jurisdiction, in the presence 
+    of counsel, unless the prisoner has competently and knowingly 
+    waived such counsel, and after having been advised of the 
+    consequences, a State prisoner under capital sentence waives the 
+    right to pursue habeas corpus review under section 2254; or
+        ``(3) a State prisoner files a habeas corpus petition under 
+    section 2254 within the time required by section 2263 and fails to 
+    make a substantial showing of the denial of a Federal right or is 
+    denied relief in the district court or at any subsequent stage of 
+    review.
+    ``(c) If one of the conditions in subsection (b) has occurred, no 
+Federal court thereafter shall have the authority to enter a stay of 
+execution in the case, unless the court of appeals approves the filing 
+of a second or successive application under section 2244(b).
+
+``Sec. 2263. Filing of habeas corpus application; time requirements; 
+            tolling rules
+
+    ``(a) Any application under this chapter for habeas corpus relief 
+under section 2254 must be filed in the appropriate district court not 
+later than 180 days after final State court affirmance of the 
+conviction and sentence on direct review or the expiration of the time 
+for seeking such review.
+    ``(b) The time requirements established by subsection (a) shall be 
+tolled--
+        ``(1) from the date that a petition for certiorari is filed in 
+    the Supreme Court until the date of final disposition of the 
+    petition if a State prisoner files the petition to secure review by 
+    the Supreme Court of the affirmance of a capital sentence on direct 
+    review by the court of last resort of the State or other final 
+    State court decision on direct review;
+        ``(2) from the date on which the first petition for post-
+    conviction review or other collateral relief is filed until the 
+    final State court disposition of such petition; and
+        ``(3) during an additional period not to exceed 30 days, if--
+            ``(A) a motion for an extension of time is filed in the 
+        Federal district court that would have jurisdiction over the 
+        case upon the filing of a habeas corpus application under 
+        section 2254; and
+            ``(B) a showing of good cause is made for the failure to 
+        file the habeas corpus application within the time period 
+        established by this section.
+
+``Sec. 2264. Scope of Federal review; district court adjudications
+
+    ``(a) Whenever a State prisoner under capital sentence files a 
+petition for habeas corpus relief to which this chapter applies, the 
+district court shall only consider a claim or claims that have been 
+raised and decided on the merits in the State courts, unless the 
+failure to raise the claim properly is--
+        ``(1) the result of State action in violation of the 
+    Constitution or laws of the United States;
+        ``(2) the result of the Supreme Court recognition of a new 
+    Federal right that is made retroactively applicable; or
+        ``(3) based on a factual predicate that could not have been 
+    discovered through the exercise of due diligence in time to present 
+    the claim for State or Federal post-conviction review.
+    ``(b) Following review subject to subsections (a), (d), and (e) of 
+section 2254, the court shall rule on the claims properly before it.
+
+``Sec. 2265. Application to State unitary review procedure
+
+    ``(a) For purposes of this section, a `unitary review' procedure 
+means a State procedure that authorizes a person under sentence of 
+death to raise, in the course of direct review of the judgment, such 
+claims as could be raised on collateral attack. This chapter shall 
+apply, as provided in this section, in relation to a State unitary 
+review procedure if the State establishes by rule of its court of last 
+resort or by statute a mechanism for the appointment, compensation, and 
+payment of reasonable litigation expenses of competent counsel in the 
+unitary review proceedings, including expenses relating to the 
+litigation of collateral claims in the proceedings. The rule of court 
+or statute must provide standards of competency for the appointment of 
+such counsel.
+    ``(b) To qualify under this section, a unitary review procedure 
+must include an offer of counsel following trial for the purpose of 
+representation on unitary review, and entry of an order, as provided in 
+section 2261(c), concerning appointment of counsel or waiver or denial 
+of appointment of counsel for that purpose. No counsel appointed to 
+represent the prisoner in the unitary review proceedings shall have 
+previously represented the prisoner at trial in the case for which the 
+appointment is made unless the prisoner and counsel expressly request 
+continued representation.
+    ``(c) Sections 2262, 2263, 2264, and 2266 shall apply in relation 
+to cases involving a sentence of death from any State having a unitary 
+review procedure that qualifies under this section. References to State 
+`post-conviction review' and `direct review' in such sections shall be 
+understood as referring to unitary review under the State procedure. 
+The reference in section 2262(a) to `an order under section 2261(c)' 
+shall be understood as referring to the post-trial order under 
+subsection (b) concerning representation in the unitary review 
+proceedings, but if a transcript of the trial proceedings is 
+unavailable at the time of the filing of such an order in the 
+appropriate State court, then the start of the 180-day limitation 
+period under section 2263 shall be deferred until a transcript is made 
+available to the prisoner or counsel of the prisoner.
+
+``Sec. 2266. Limitation periods for determining applications and 
+            motions
+
+    ``(a) The adjudication of any application under section 2254 that 
+is subject to this chapter, and the adjudication of any motion under 
+section 2255 by a person under sentence of death, shall be given 
+priority by the district court and by the court of appeals over all 
+noncapital matters.
+    ``(b)(1)(A) A district court shall render a final determination and 
+enter a final judgment on any application for a writ of habeas corpus 
+brought under this chapter in a capital case not later than 180 days 
+after the date on which the application is filed.
+    ``(B) A district court shall afford the parties at least 120 days 
+in which to complete all actions, including the preparation of all 
+pleadings and briefs, and if necessary, a hearing, prior to the 
+submission of the case for decision.
+    ``(C)(i) A district court may delay for not more than one 
+additional 30-day period beyond the period specified in subparagraph 
+(A), the rendering of a determination of an application for a writ of 
+habeas corpus if the court issues a written order making a finding, and 
+stating the reasons for the finding, that the ends of justice that 
+would be served by allowing the delay outweigh the best interests of 
+the public and the applicant in a speedy disposition of the 
+application.
+    ``(ii) The factors, among others, that a court shall consider in 
+determining whether a delay in the disposition of an application is 
+warranted are as follows:
+        ``(I) Whether the failure to allow the delay would be likely to 
+    result in a miscarriage of justice.
+        ``(II) Whether the case is so unusual or so complex, due to the 
+    number of defendants, the nature of the prosecution, or the 
+    existence of novel questions of fact or law, that it is 
+    unreasonable to expect adequate briefing within the time 
+    limitations established by subparagraph (A).
+        ``(III) Whether the failure to allow a delay in a case, that, 
+    taken as a whole, is not so unusual or so complex as described in 
+    subclause (II), but would otherwise deny the applicant reasonable 
+    time to obtain counsel, would unreasonably deny the applicant or 
+    the government continuity of counsel, or would deny counsel for the 
+    applicant or the government the reasonable time necessary for 
+    effective preparation, taking into account the exercise of due 
+    diligence.
+    ``(iii) No delay in disposition shall be permissible because of 
+general congestion of the court's calendar.
+    ``(iv) The court shall transmit a copy of any order issued under 
+clause (i) to the Director of the Administrative Office of the United 
+States Courts for inclusion in the report under paragraph (5).
+    ``(2) The time limitations under paragraph (1) shall apply to--
+        ``(A) an initial application for a writ of habeas corpus;
+        ``(B) any second or successive application for a writ of habeas 
+    corpus; and
+        ``(C) any redetermination of an application for a writ of 
+    habeas corpus following a remand by the court of appeals or the 
+    Supreme Court for further proceedings, in which case the limitation 
+    period shall run from the date the remand is ordered.
+    ``(3)(A) The time limitations under this section shall not be 
+construed to entitle an applicant to a stay of execution, to which the 
+applicant would otherwise not be entitled, for the purpose of 
+litigating any application or appeal.
+    ``(B) No amendment to an application for a writ of habeas corpus 
+under this chapter shall be permitted after the filing of the answer to 
+the application, except on the grounds specified in section 2244(b).
+    ``(4)(A) The failure of a court to meet or comply with a time 
+limitation under this section shall not be a ground for granting relief 
+from a judgment of conviction or sentence.
+    ``(B) The State may enforce a time limitation under this section by 
+petitioning for a writ of mandamus to the court of appeals. The court 
+of appeals shall act on the petition for a writ of mandamus not later 
+than 30 days after the filing of the petition.
+    ``(5)(A) The Administrative Office of United States Courts shall 
+submit to Congress an annual report on the compliance by the district 
+courts with the time limitations under this section.
+    ``(B) The report described in subparagraph (A) shall include copies 
+of the orders submitted by the district courts under paragraph 
+(1)(B)(iv).
+    ``(c)(1)(A) A court of appeals shall hear and render a final 
+determination of any appeal of an order granting or denying, in whole 
+or in part, an application brought under this chapter in a capital case 
+not later than 120 days after the date on which the reply brief is 
+filed, or if no reply brief is filed, not later than 120 days after the 
+date on which the answering brief is filed.
+    ``(B)(i) A court of appeals shall decide whether to grant a 
+petition for rehearing or other request for rehearing en banc not later 
+than 30 days after the date on which the petition for rehearing is 
+filed unless a responsive pleading is required, in which case the court 
+shall decide whether to grant the petition not later than 30 days after 
+the date on which the responsive pleading is filed.
+    ``(ii) If a petition for rehearing or rehearing en banc is granted, 
+the court of appeals shall hear and render a final determination of the 
+appeal not later than 120 days after the date on which the order 
+granting rehearing or rehearing en banc is entered.
+    ``(2) The time limitations under paragraph (1) shall apply to--
+        ``(A) an initial application for a writ of habeas corpus;
+        ``(B) any second or successive application for a writ of habeas 
+    corpus; and
+        ``(C) any redetermination of an application for a writ of 
+    habeas corpus or related appeal following a remand by the court of 
+    appeals en banc or the Supreme Court for further proceedings, in 
+    which case the limitation period shall run from the date the remand 
+    is ordered.
+    ``(3) The time limitations under this section shall not be 
+construed to entitle an applicant to a stay of execution, to which the 
+applicant would otherwise not be entitled, for the purpose of 
+litigating any application or appeal.
+    ``(4)(A) The failure of a court to meet or comply with a time 
+limitation under this section shall not be a ground for granting relief 
+from a judgment of conviction or sentence.
+    ``(B) The State may enforce a time limitation under this section by 
+applying for a writ of mandamus to the Supreme Court.
+    ``(5) The Administrative Office of United States Courts shall 
+submit to Congress an annual report on the compliance by the courts of 
+appeals with the time limitations under this section.''.
+    (b) Technical Amendment.--The part analysis for part IV of title 
+28, United States Code, is amended by adding after the item relating to 
+chapter 153 the following new item:
+
+``154. Special habeas corpus procedures in capital cases........2261.''.
+
+    (c) Effective Date.--Chapter 154 of title 28, United States Code 
+(as added by subsection (a)), shall apply to cases pending on or after 
+the date of enactment of this Act.
+
+SEC. 108. TECHNICAL AMENDMENT.
+
+    Section 408(q) of the Controlled Substances Act (21 U.S.C. 848(q)) 
+is amended by amending paragraph (9) to read as follows:
+    ``(9) Upon a finding that investigative, expert, or other services 
+are reasonably necessary for the representation of the defendant, 
+whether in connection with issues relating to guilt or the sentence, 
+the court may authorize the defendant's attorneys to obtain such 
+services on behalf of the defendant and, if so authorized, shall order 
+the payment of fees and expenses therefor under paragraph (10). No ex 
+parte proceeding, communication, or request may be considered pursuant 
+to this section unless a proper showing is made concerning the need for 
+confidentiality. Any such proceeding, communication, or request shall 
+be transcribed and made a part of the record available for appellate 
+review.''.
+
+SEC. 109. SEVERABILITY.
+
+    If any provision of this title, an amendment made by this title, or 
+the application of such provision or amendment to any person or 
+circumstance is held to be unconstitutional, the remainder of this 
+title, the amendments made by this title, and the application of the 
+provisions of such to any person or circumstances shall not be affected 
+thereby.
+
+                      TITLE II--REGULATORY REFORM
+
+SEC. 2001. SHORT TITLE.
+
+    This title may be cited as the ``Comprehensive Regulatory Reform 
+Act of 1995''.
+
+SEC. 2002. ANALYSIS OF AGENCY RULES.
+
+    (a) In General.--(1) Section 551 of title 5, United States Code, is 
+amended by striking ``and'' at the end of paragraph (13), by striking 
+the period at the end of paragraph (14) and inserting a semicolon, and 
+by adding at the end the following:
+        ``(15) `major rule' means any rule subject to section 553(c) 
+    that is likely to result in--
+            ``(A) an annual effect on the economy of $100,000,000 or 
+        more;
+            ``(B) a major increase in costs or prices for consumers, 
+        individual industries, Federal, State, or local government 
+        agencies, or geographic regions, or
+            ``(C) significant adverse effects on competition, 
+        employment, investment, productivity, innovation, or on the 
+        ability of United States-based enterprises to compete with 
+        foreign-based enterprises in domestic and export markets;
+        ``(16) `Director' means the Director of the Office of 
+    Management and Budget;
+        ``(17) `cost' means the reasonably identifiable significant 
+    adverse effects, quantifiable and nonquantifiable, including 
+    social, environmental, health, and economic effects that are 
+    expected to result directly or indirectly from implementation of a 
+    rule or other agency action;
+        ``(18) `cost-benefit analysis' means an evaluation of the costs 
+    and benefits of a rule, quantified to the extent feasible and 
+    appropriate and otherwise qualitatively described, that is prepared 
+    in accordance with the requirements of this subchapter at the level 
+    of detail appropriate and practicable for reasoned decision making 
+    on the matter involved, taking into consideration the significance 
+    and complexity of the decision and any need for expedition; and
+        ``(19) `reasonable alternatives' means the range of reasonable 
+    regulatory options that the agency has authority to consider under 
+    the statute granting rulemaking authority, including flexible 
+    regulatory options, unless precluded by the statute granting the 
+    rulemaking authority.''.
+    (2) Section 553 of title 5, United States Code, is amended by 
+adding at the end the following:
+    ``(f)(1) Each agency shall for a proposed major rule publish in the 
+Federal Register, at least 90 days before the date of publication of 
+the general notice required under subsection (b), a notice of intent to 
+engage in rulemaking.
+    ``(2) A notice under paragraph (1) for a proposed major rule shall 
+include, to the extent possible, the information required to be 
+included in a regulatory impact analysis for the rule under subsection 
+(i)(4)(B) and (D).
+    ``(3) For a major rule proposed by an agency, the head of the 
+agency shall include in a general notice under subsection (b), a 
+preliminary regulatory impact analysis for the rule prepared in 
+accordance with subsection (i).
+    ``(4) For a final major rule, the agency shall include with the 
+statement of basis and purpose--
+        ``(A) a summary of a final regulatory impact analysis of the 
+    rule in accordance with subsection (i); and
+        ``(B) a clear delineation of all changes in the information 
+    included in the final regulatory impact analysis under subsection 
+    (i) from any such information that was included in the notice for 
+    the rule under subsection (b).
+The agency shall provide the complete text of a final regulatory impact 
+analysis upon request.
+    ``(5) The issuance of a notice of intent to engage in rulemaking 
+under paragraph (1) and the issuance of a preliminary regulatory impact 
+analysis under paragraph (3) shall not be considered final agency 
+action for purposes of section 704.
+    ``(6) In a rulemaking involving a major rule, the agency conducting 
+the rulemaking shall make a written record describing the subject of 
+all contacts the agency made with persons outside the agency relating 
+to such rulemaking. If the contact was made with a non-governmental 
+person, the written record of such contact shall be made available, 
+upon request to the public.''.
+    (3)(A) Hearing Requirement.--Section 553 of title 5, United States 
+Code, is further amended by adding after subsection (f) the following:
+    ``(g) If more than 100 interested persons acting individually 
+submit requests for a hearing to an agency regarding any major rule 
+proposed by the agency, the agency shall hold such a hearing on the 
+proposed rule.''.
+    (B) Extension of Comment Period.--Section 553 of title 5, United 
+States Code, is further amended by adding after subsection (g) the 
+following:
+    ``(h) If during the 90-day period beginning on the date of 
+publication of a notice under subsection (f) for a proposed major rule, 
+or if during the period beginning on the date of publication or service 
+of notice required by subsection (b) for a proposed major rule, more 
+than 100 persons individually contact the agency to request an 
+extension of the period for making submissions under subsection (c) 
+pursuant to the notice, the agency--
+        ``(1) shall provide an additional 30-day period for making 
+    those submissions; and
+        ``(2) may not adopt the rule until after the additional 
+    period.''.
+    (C) Response to Comments.--Section 553(c) of title 5, United States 
+Code, is amended--
+        (i) by inserting ``(1)'' after ``(c)''; and
+        (ii) by adding at the end the following:
+    ``(2) Each agency shall publish in the Federal Register, with each 
+rule published under section 552(a)(1)(D), responses to the substance 
+of the comments received by the agency regarding the rule.''.
+    (4) Section 553 of title 5, United States Code, is further amended 
+by adding after subsection (h) the following:
+    ``(i)(1) Each agency shall, in connection with every major rule, 
+prepare, and, to the extent permitted by law, consider, a regulatory 
+impact analysis. Such analysis may be combined with any regulatory 
+flexibility analysis performed under sections 603 and 604.
+    ``(2) Each agency shall initially determine whether a rule it 
+intends to propose or issue is a major rule. The Director shall have 
+authority to order a rule to be treated as a major rule and to require 
+any set of related rules to be considered together as a major rule.
+    ``(3) Except as provided in subsection (j), agencies shall 
+prepare--
+        ``(A) a preliminary regulatory impact analysis, which shall be 
+    transmitted, along with a notice of proposed rulemaking, to the 
+    Director at least 60 days prior to the publication of notice of 
+    proposed rulemaking, and
+        ``(B) a final regulatory impact analysis, which shall be 
+    transmitted along with the final rule at least 30 days prior to the 
+    publication of a major rule.
+    ``(4) Each preliminary and final regulatory impact analysis shall 
+contain the following information:
+        ``(A) A description of the potential benefits of the rule, 
+    including any beneficial effects that cannot be quantified in 
+    monetary terms and the identification of those likely to receive 
+    the benefits.
+        ``(B) An explanation of the necessity, legal authority, and 
+    reasonableness of the rule and a description of the condition that 
+    the rule is to address.
+        ``(C) A description of the potential costs of the rule, 
+    including any adverse effects that cannot be quantified in monetary 
+    terms, and the identification of those likely to bear the costs.
+        ``(D) An analysis of alternative approaches, including market 
+    based mechanisms or other flexible regulatory options that could 
+    substantially achieve the same regulatory goal at a lower cost and 
+    an explanation of the reasons why such alternative approaches were 
+    not adopted, together with a demonstration that the rule provides 
+    for the least costly approach.
+        ``(E) A statement that the rule does not conflict with, or 
+    duplicate, any other rule or a statement of the reasons why such a 
+    conflict or duplication exists.
+        ``(F) A statement of whether the rule will require on-site 
+    inspections or whether persons will be required by the rule to 
+    maintain any records which will be subject to inspection, and a 
+    statement of whether the rule will require persons to obtain 
+    licenses, permits, or other certifications, including specification 
+    of any associated fees or fines.
+        ``(G) An estimate of the costs to the agency for implementation 
+    and enforcement of the rule and of whether the agency can be 
+    reasonably expected to implement the rule with the current level of 
+    appropriations.
+    ``(5)(A) The Director is authorized to review and prepare comments 
+on any preliminary or final regulatory impact analysis, notice of 
+proposed rulemaking, or final rule based on the requirements of this 
+subsection.
+    ``(B) Upon the request of the Director, an agency shall consult 
+with the Director concerning the review of a preliminary impact 
+analysis or notice of proposed rulemaking and shall refrain from 
+publishing its preliminary regulatory impact analysis or notice of 
+proposed rulemaking until such review is concluded. The Director's 
+review may not take longer than 90 days after the date of the request 
+of the Director.
+    ``(6)(A) An agency may not adopt a major rule unless the final 
+regulatory impact analysis for the rule is approved or commented upon 
+in writing by the Director or by an individual designated by the 
+Director for that purpose.
+    ``(B) Upon receiving notice that the Director intends to comment in 
+writing with respect to any final regulatory impact analysis or final 
+rule, the agency shall refrain from publishing its final regulatory 
+impact analysis or final rule until the agency has responded to the 
+Director's comments and incorporated those comments in the agency's 
+response in the rulemaking file.
+    ``(7)(A) Except as provided in subparagraph (B), no final major 
+rule subject to this section shall be promulgated unless the agency 
+head publishes in the Federal Register a finding that--
+        ``(i) the benefits of the rule justify the costs of the rule; 
+    and
+        ``(ii) the rule employs to the extent practicable flexible 
+    alternatives as set forth in paragraph (4)(D) and adopts the 
+    reasonable alternative which has the greater net benefits and 
+    achieves the objectives of the statute.
+    ``(B) If, applying the statutory requirements upon which the rule 
+is based, a rule cannot satisfy the criteria of subparagraph (A), the 
+agency head may promulgate the rule if the agency head finds that--
+        ``(i) the rule employs to the extent practicable flexible 
+    reasonable alternatives of the type described in paragraph (4)(D); 
+    and
+        ``(ii) the rule adopts the alternative with the least net cost 
+    of the reasonable alternatives that achieve the objectives of the 
+    statute.
+    ``(8) Notwithstanding section 551(16), for purposes of this 
+subsection with regard to any rule proposed or issued by an appropriate 
+Federal banking agency (as that term is defined in section 3(q) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1813(q)), the National Credit 
+Union Administration, or the Office of Federal Housing Enterprise 
+Oversight, the term `Director' means the head of such agency, 
+Administration, or Office.''.
+    (5) Section 553 of title 5, United States Code, is further amended 
+by adding after subsection (i) the following:
+    ``(j) To the extent practicable, the head of an agency shall seek 
+to ensure that any proposed major rule or regulatory impact analysis of 
+such a rule is written in a reasonably simple and understandable manner 
+and provides adequate notice of the content of the rule to affected 
+persons.''.
+    (6) Section 553 of title 5, United States Code, is further amended 
+by adding after subsection (j) the following:
+    ``(k)(1) The provisions of this section regarding major rules shall 
+not apply if--
+        ``(A) the agency for good cause finds that conducting cost-
+    benefit analysis is impracticable due to an emergency, or health or 
+    safety threat, or a food safety threat that is likely to result in 
+    significant harm to the public or natural resources; and
+        ``(B) the agency publishes in the Federal Register, together 
+    with such finding, a succinct statement of the basis for the 
+    finding.
+    ``(2) Not later than one year after the promulgation of a final 
+major rule to which paragraph (1) applies, the agency shall comply with 
+the provisions of this subchapter and, as thereafter necessary, revise 
+the rule.
+    (7) Section 553 of title 5, United States Code, is further amended 
+by adding after subsection (k) the following:
+    ``(l) The provisions of this section regarding major rules shall 
+not apply to--
+        ``(1) any regulation proposed or issued in connection with the 
+    implementation of monetary policy or to ensure the safety and 
+    soundness of federally insured depository institutions, any 
+    affiliate of such institution, credit unions, or government 
+    sponsored housing enterprises regulated by the Office of Federal 
+    Housing Enterprise Oversight;
+        ``(2) any agency action that the head of the agency certifies 
+    is limited to interpreting, implementing, or administering the 
+    internal revenue laws of the United States, including any 
+    regulation proposed or issued in connection with ensuring the 
+    collection of taxes from a subsidiary of a foreign company doing 
+    business in the United States; and
+        ``(3) any regulation proposed or issued pursuant to section 553 
+    of title 5, United States Code, in connection with imposing trade 
+    sanctions against any country that engages in illegal trade 
+    activities against the United States that are injurious to American 
+    technology, jobs, pensions, or general economic well-being.''.
+    (8) The Director of the Office of Management and Budget shall 
+submit a report to the Congress no later than 24 months after the date 
+of the enactment of this Act containing an analysis of rulemaking 
+procedures of Federal agencies and an analysis of the impact of those 
+rulemaking procedures on the regulated public and regulatory process.
+    (9) The amendments made by this subsection shall apply only to 
+final agency rules issued after rulemaking begun after the date of 
+enactment of this Act.
+
+SEC. 2003. RISK ASSESSMENT.
+
+    (a) In General.--Chapter 6 of title 5, United States Code, is 
+amended by adding at the end the following:
+
+                   ``SUBCHAPTER III--RISK ASSESSMENTS
+
+``Sec. 631. Short title
+
+    ``This subchapter may be cited as the `Risk Assessment and 
+Communication Act of 1995'.
+
+``Sec. 632. Purposes
+
+    ``The purposes of this subchapter are--
+        ``(1) to present the public and executive branch with the most 
+    scientifically objective and unbiased information concerning the 
+    nature and magnitude of health, safety, and environmental risks in 
+    order to provide for sound regulatory decisions and public 
+    education;
+        ``(2) to provide for full consideration and discussion of 
+    relevant data and potential methodologies;
+        ``(3) to require explanation of significant choices in the risk 
+    assessment process which will allow for better peer review and 
+    public understanding; and
+        ``(4) to improve consistency within the executive branch in 
+    preparing risk assessments and risk characterizations.
+
+``Sec. 633. Effective date; applicability; savings provisions
+
+    ``(a) Effective Date.--Except as otherwise specifically provided in 
+this subchapter, the provisions of this subchapter shall take effect 18 
+months after the date of enactment of this subchapter.
+    ``(b) Applicability.--
+        ``(1) In general.--Except as provided in paragraph (3), this 
+    subchapter applies to all significant risk assessment documents and 
+    significant risk characterization documents, as defined in 
+    paragraph (2).
+        ``(2) Significant risk assessment document or significant risk 
+    characterization document.--(A) As used in this subchapter, the 
+    terms `significant risk assessment document' and `significant risk 
+    characterization document' include, at a minimum, risk assessment 
+    documents or risk characterization documents prepared by or on 
+    behalf of a covered Federal agency in the implementation of a 
+    regulatory program designed to protect human health, safety, or the 
+    environment, used as a basis for one of the items referred to in 
+    subparagraph (B), and--
+            ``(i) included by the agency in that item; or
+            ``(ii) inserted by the agency in the administrative record 
+        for that item.
+        ``(B) The items referred to in subparagraph (A) are the 
+    following:
+            ``(i) Any proposed or final major rule, including any 
+        analysis or certification under subchapter II, promulgated as 
+        part of any Federal regulatory program designed to protect 
+        human health, safety, or the environment.
+            ``(ii) Any proposed or final environmental clean-up plan 
+        for a facility or Federal guidelines for the issuance of any 
+        such plan. As used in this clause, the term `environmental 
+        clean-up' means a corrective action under the Solid Waste 
+        Disposal Act, a removal or remedial action under the 
+        Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980, and any other environmental restoration 
+        and waste management carried out by or on behalf of a covered 
+        Federal agency with respect to any substance other than 
+        municipal waste.
+            ``(iii) Any proposed or final permit condition placing a 
+        restriction on facility siting or operation under Federal laws 
+        administered by the Environmental Protection Agency or the 
+        Department of the Interior. Nothing in this section (iii) shall 
+        apply to the requirements of section 404 of the Clean Water 
+        Act.
+            ``(iv) Any report to Congress.
+            ``(v) Any regulatory action to place a substance on any 
+        official list of carcinogens or toxic or hazardous substances 
+        or to place a new health effects value on such list, including 
+        the Integrated Risk Information System Database maintained by 
+        the Environmental Protection Agency.
+            ``(vi) Any guidance, including protocols of general 
+        applicability, establishing policy regarding risk assessment or 
+        risk characterization.
+        ``(C) The terms `significant risk assessment document' and 
+    `significant risk characterization document' shall also include the 
+    following:
+            ``(i) Any such risk assessment and risk characterization 
+        documents provided by a covered Federal agency to the public 
+        and which are likely to result in an annual effect on the 
+        economy of $75,000,000 or more.
+            ``(ii) Environmental restoration and waste management 
+        carried out by or on behalf of the Department of Defense with 
+        respect to any substance other than municipal waste.
+        ``(D) Within 15 months after the date of the enactment of this 
+    subchapter, each covered Federal agency administering a regulatory 
+    program designed to protect human health, safety, or the 
+    environment shall promulgate a rule establishing those additional 
+    categories, if any, of risk assessment and risk characterization 
+    documents prepared by or on behalf of the covered Federal agency 
+    that the agency will consider significant risk assessment documents 
+    or significant risk characterization documents for purposes of this 
+    subchapter. In establishing such categories, the head of the agency 
+    shall consider each of the following:
+            ``(i) The benefits of consistent compliance by documents of 
+        the covered Federal agency in the categories.
+            ``(ii) The administrative burdens of including documents in 
+        the categories.
+            ``(iii) The need to make expeditious administrative 
+        decisions regarding documents in the categories.
+            ``(iv) The possible use of a risk assessment or risk 
+        characterization in any compilation of risk hazards or health 
+        or environmental effects prepared by an agency and commonly 
+        made available to, or used by, any Federal, State, or local 
+        government agency.
+            ``(v) Such other factors as may be appropriate.
+        ``(E)(i) Not later than 18 months after the date of the 
+    enactment of this subchapter, the President, acting through the 
+    Director of the Office of Management and Budget, shall determine 
+    whether any other Federal agencies should be considered covered 
+    Federal agencies for purposes of this subchapter. Such 
+    determination, with respect to a particular Federal agency, shall 
+    be based on the impact of risk assessment documents and risk 
+    characterization documents on--
+            ``(I) regulatory programs administered by that agency; and
+            ``(II) the communication of risk information by that agency 
+        to the public.
+    The effective date of such a determination shall be no later than 6 
+    months after the date of the determination.
+        ``(ii) Not later than 15 months after the President, acting 
+    through the Director of the Office of Management and Budget, 
+    determines pursuant to clause (i) that a Federal agency should be 
+    considered a covered Federal agency for purposes of this 
+    subchapter, the head of that agency shall promulgate a rule 
+    pursuant to subparagraph (D) to establish additional categories of 
+    risk assessment and risk characterization documents described in 
+    that subparagraph.
+        ``(3) Exceptions.--(A) This subchapter does not apply to risk 
+    assessment or risk characterization documents containing risk 
+    assessments or risk characterizations performed with respect to the 
+    following:
+            ``(i) A screening analysis, where appropriately labeled as 
+        such, including a screening analysis for purposes of product 
+        regulation or premanufacturing notices.
+            ``(ii) Any health, safety, or environmental inspections.
+            ``(iii) The sale or lease of Federal resources or 
+        regulatory activities that directly result in the collection of 
+        Federal receipts.
+        ``(B) No analysis shall be treated as a screening analysis for 
+    purposes of subparagraph (A) if the results of such analysis are 
+    used as the basis for imposing restrictions on substances or 
+    activities.
+        ``(C) The risk assessment principle set forth in section 
+    634(b)(1) need not apply to any risk assessment or risk 
+    characterization document described in clause (iii) of paragraph 
+    (2)(B). The risk characterization and communication principle set 
+    forth in section 635(4) need not apply to any risk assessment or 
+    risk characterization document described in clause (v) or (vi) of 
+    paragraph (2)(B).
+    ``(c) Savings Provisions.--The provisions of this subchapter shall 
+be supplemental to any other provisions of law relating to risk 
+assessments and risk characterizations, except that nothing in this 
+subchapter shall be construed to modify any statutory standard or 
+statutory requirement designed to protect health, safety, or the 
+environment. Nothing in this subchapter shall be interpreted to 
+preclude the consideration of any data or the calculation of any 
+estimate to more fully describe risk or provide examples of scientific 
+uncertainty or variability. Nothing in this subchapter shall be 
+construed to require the disclosure of any trade secret or other 
+confidential information.
+
+``Sec. 634. Principles for risk assessment
+
+    ``(a) In General.--The head of each covered Federal agency shall 
+apply the principles set forth in subsection (b) in order to assure 
+that significant risk assessment documents and all of their components 
+distinguish scientific findings from other considerations and are, to 
+the extent feasible, scientifically objective, unbiased, and inclusive 
+of all relevant data and rely, to the extent available and practicable, 
+on scientific findings. Discussions or explanations required under this 
+section need not be repeated in each risk assessment document as long 
+as there is a reference to the relevant discussion or explanation in 
+another agency document which is available to the public.
+    ``(b) Principles.--The principles to be applied are as follows:
+        ``(1) When discussing human health risks, a significant risk 
+    assessment document shall contain a discussion of both relevant 
+    laboratory and relevant epidemiological data of sufficient quality 
+    which finds, or fails to find, a correlation between health risks 
+    and a potential toxin or activity. Where conflicts among such data 
+    appear to exist, or where animal data is used as a basis to assess 
+    human health, the significant risk assessment document shall, to 
+    the extent feasible and appropriate, include discussion of possible 
+    reconciliation of conflicting information, and as relevant, 
+    differences in study designs, comparative physiology, routes of 
+    exposure, bioavailability, pharmacokinetics, and any other relevant 
+    factor, including the sufficiency of basic data for review. The 
+    discussion of possible reconciliation should indicate whether there 
+    is a biological basis to assume a resulting harm in humans. Animal 
+    data shall be reviewed with regard to its relevancy to humans.
+        ``(2) Where a significant risk assessment document involves 
+    selection of any significant assumption, inference, or model, the 
+    document shall, to the extent feasible--
+            ``(A) present a representative list and explanation of 
+        plausible and alternative assumptions, inferences, or models;
+            ``(B) explain the basis for any choices;
+            ``(C) identify any policy or value judgments;
+            ``(D) fully describe any model used in the risk assessment 
+        and make explicit the assumptions incorporated in the model; 
+        and
+            ``(E) indicate the extent to which any significant model 
+        has been validated by, or conflicts with, empirical data.
+
+``Sec. 635. Principles for risk characterization and communication
+
+    ``Each significant risk characterization document shall meet each 
+of the following requirements:
+        ``(1) Estimates of risk.--The risk characterization shall 
+    describe the populations or natural resources which are the subject 
+    of the risk characterization. If a numerical estimate of risk is 
+    provided, the agency shall, to the extent feasible, provide--
+            ``(A) the best estimate or estimates for the specific 
+        populations or natural resources which are the subject of the 
+        characterization (based on the information available to the 
+        Federal agency); and
+            ``(B) a statement of the reasonable range of scientific 
+        uncertainties.
+    In addition to such best estimate or estimates, the risk 
+    characterization document may present plausible upper-bound or 
+    conservative estimates in conjunction with plausible lower bound 
+    estimates. Where appropriate, the risk characterization document 
+    may present, in lieu of a single best estimate, multiple best 
+    estimates based on assumptions, inferences, or models which are 
+    equally plausible, given current scientific understanding. To the 
+    extent practical and appropriate, the document shall provide 
+    descriptions of the distribution and probability of risk estimates 
+    to reflect differences in exposure variability or sensitivity in 
+    populations and attendant uncertainties. Sensitive subpopulations 
+    or highly exposed subpopulations include, where relevant and 
+    appropriate, children, the elderly, pregnant women, and disabled 
+    persons.
+        ``(2) Exposure scenarios.--The risk characterization document 
+    shall explain the exposure scenarios used in any risk assessment, 
+    and, to the extent feasible, provide a statement of the size of the 
+    corresponding population at risk and the likelihood of such 
+    exposure scenarios.
+        ``(3) Comparisons.--The document shall contain a statement that 
+    places the nature and magnitude of risks to human health, safety, 
+    or the environment in context. Such statement shall, to the extent 
+    feasible, provide comparisons with estimates of greater, lesser, 
+    and substantially equivalent risks that are familiar to and 
+    routinely encountered by the general public as well as other risks, 
+    and, where appropriate and meaningful, comparisons of those risks 
+    with other similar risks regulated by the Federal agency resulting 
+    from comparable activities and exposure pathways. Such comparisons 
+    should consider relevant distinctions among risks, such as the 
+    voluntary or involuntary nature of risks and the preventability or 
+    nonpreventability of risks.
+        ``(4) Substitution risks.--Each significant risk assessment or 
+    risk characterization document shall include a statement of any 
+    significant substitution risks to human health, where information 
+    on such risks has been provided to the agency.
+        ``(5) Summaries of other risk estimates.--If--
+            ``(A) a commenter provides a covered Federal agency with a 
+        relevant risk assessment document or a risk characterization 
+        document, and a summary thereof, during a public comment 
+        provided by the agency for a significant risk assessment 
+        document or a significant risk characterization document, or, 
+        where no comment period is provided but a commenter provides 
+        the covered Federal agency with the relevant risk assessment 
+        document or risk characterization document, and a summary 
+        thereof, in a timely fashion, and
+            ``(B) the risk assessment document or risk characterization 
+        document is consistent with the principles and the guidance 
+        provided under this subchapter,
+    the agency shall, to the extent feasible, present such summary in 
+    connection with the presentation of the agency's significant risk 
+    assessment document or significant risk characterization document. 
+    Nothing in this paragraph shall be construed to limit the inclusion 
+    of any comments or material supplied by any person to the 
+    administrative record of any proceeding.
+A document may satisfy the requirements of paragraph (3), (4) or (5) by 
+reference to information or material otherwise available to the public 
+if the document provides a brief summary of such information or 
+material.
+
+``Sec. 636. Recommendations or classifications by a non-United States-
+            based entity
+
+    ``No covered Federal agency shall automatically incorporate or 
+adopt any recommendation or classification made by a non-United States-
+based entity concerning the health effects value of a substance without 
+an opportunity for notice and comment, and any risk assessment document 
+or risk characterization document adopted by a covered Federal agency 
+on the basis of such a recommendation or classification shall comply 
+with the provisions of this subchapter. For the purposes of this 
+section, the term `non-United States-based entity' means--
+        ``(1) any foreign government and its agencies;
+        ``(2) the United Nations or any of its subsidiary 
+    organizations;
+        ``(3) any other international governmental body or 
+    international standards-making organization; or
+        ``(4) any other organization or private entity without a place 
+    of business located in the United States or its territories.
+
+``Sec. 637. Guidelines and report
+
+    ``(a) Guidelines.--Within 15 months after the date of enactment of 
+this subchapter, the President shall issue guidelines for Federal 
+agencies consistent with the risk assessment and characterization 
+principles set forth in sections 634 and 635 and shall provide a format 
+for summarizing risk assessment results. In addition, such guidelines 
+shall include guidance on at least the following subjects: criteria for 
+scaling animal studies to assess risks to human health; use of 
+different types of dose-response models; thresholds; definitions, use, 
+and interpretations of the maximum tolerated dose; weighting of 
+evidence with respect to extrapolating human health risks from 
+sensitive species; evaluation of benign tumors, and evaluation of 
+different human health endpoints.
+    ``(b) Report.--Within 3 years after the date of the enactment of 
+this subchapter, each covered Federal agency shall provide a report to 
+the Congress evaluating the categories of policy and value judgments 
+identified under subparagraph (C) of section 634(b)(2).
+    ``(c) Public Comment and Consultation.--The guidelines and report 
+under this section, shall be developed after notice and opportunity for 
+public comment, and after consultation with representatives of 
+appropriate State, local, and tribal governments, and such other 
+departments and agencies, offices, organizations, or persons as may be 
+advisable.
+    ``(d) Review.--The President shall review and, where appropriate, 
+revise the guidelines published under this section at least every 4 
+years.
+
+``Sec. 638. Research and training in risk assessment
+
+    ``(a) Evaluation.--The head of each covered agency shall regularly 
+and systematically evaluate risk assessment research and training needs 
+of the agency, including, where relevant and appropriate, the 
+following:
+        ``(1) Research to reduce generic data gaps, to address 
+    modelling needs (including improved model sensitivity), and to 
+    validate default options, particularly those common to multiple 
+    risk assessments.
+        ``(2) Research leading to improvement of methods to quantify 
+    and communicate uncertainty and variability among individuals, 
+    species, populations, and, in the case of ecological risk 
+    assessment, ecological communities.
+        ``(3) Emerging and future areas of research, including research 
+    on comparative risk analysis, exposure to multiple chemicals and 
+    other stressors, noncancer endpoints, biological markers of 
+    exposure and effect, mechanisms of action in both mammalian and 
+    nonmammalian species, dynamics and probabilities of physiological 
+    and ecosystem exposures, and prediction of ecosystem-level 
+    responses.
+        ``(4) Long-term needs to adequately train individuals in risk 
+    assessment and risk assessment application. Evaluations under this 
+    paragraph shall include an estimate of the resources needed to 
+    provide necessary training.
+    ``(b) Strategy and Actions To Meet Identified Needs.--The head of 
+each covered agency shall develop a strategy and schedule for carrying 
+out research and training to meet the needs identified in subsection 
+(a).
+    ``(c) Report.--Not later than 6 months after the date of the 
+enactment of this subchapter, the head of each covered agency shall 
+submit to the Congress a report on the evaluations conducted under 
+subsection (a) and the strategy and schedule developed under subsection 
+(b). The head of each covered agency shall report to the Congress 
+periodically on the evaluations, strategy, and schedule.
+
+``Sec. 639. Study of comparative risk analysis
+
+    ``(a) In General.--(1) The Director of the Office of Management and 
+Budget, in consultation with the Office of Science and Technology 
+Policy, shall conduct, or provide for the conduct of, a study using 
+comparative risk analysis to rank health, safety, and environmental 
+risks and to provide a common basis for evaluating strategies for 
+reducing or preventing those risks. The goal of the study shall be to 
+improve methods of comparative risk analysis.
+    ``(2) Not later than 90 days after the date of the enactment of 
+this subchapter, the Director, in collaboration with the heads of 
+appropriate Federal agencies, shall enter into a contract with the 
+National Research Council to provide technical guidance on approaches 
+to using comparative risk analysis and other considerations in setting 
+health, safety, and environmental risk reduction priorities.
+    ``(b) Scope of Study.--The study shall have sufficient scope and 
+breadth to evaluate comparative risk analysis and to test approaches 
+for improving comparative risk analysis and its use in setting 
+priorities for health, safety, and environmental risk reduction. The 
+study shall compare and evaluate a range of diverse health, safety, and 
+environmental risks.
+    ``(c) Study Participants.--In conducting the study, the Director 
+shall provide for the participation of a range of individuals with 
+varying backgrounds and expertise, both technical and nontechnical, 
+comprising broad representation of the public and private sectors.
+    ``(d) Duration.--The study shall begin within 180 days after the 
+date of the enactment of this subchapter and terminate within 2 years 
+after the date on which it began.
+    ``(e) Recommendations for Improving Comparative Risk Analysis and 
+Its Use.--Not later than 90 days after the termination of the study, 
+the Director shall submit to the Congress the report of the National 
+Research Council with recommendations regarding the use of comparative 
+risk analysis and ways to improve the use of comparative risk analysis 
+for decision-making in appropriate Federal agencies.
+
+``Sec. 639a. Definitions
+
+    ``For purposes of this subchapter:
+        ``(1) Risk assessment document.--The term `risk assessment 
+    document' means a document containing the explanation of how 
+    hazards associated with a substance, activity, or condition have 
+    been identified, quantified, and assessed. The term also includes a 
+    written statement accepting the findings of any such document.
+        ``(2) Risk characterization document.--The term `risk 
+    characterization document' means a document quantifying or 
+    describing the degree of toxicity, exposure, or other risk posed by 
+    hazards associated with a substance, activity, or condition to 
+    which individuals, populations, or resources are exposed. The term 
+    also includes a written statement accepting the findings of any 
+    such document.
+        ``(3) Best estimate.--The term `best estimate' means a 
+    scientifically appropriate estimate which is based, to the extent 
+    feasible, on one of the following:
+            ``(A) Central estimates of risk using the most plausible 
+        assumptions.
+            ``(B) An approach which combines multiple estimates based 
+        on different scenarios and weighs the probability of each 
+        scenario.
+            ``(C) Any other methodology designed to provide the most 
+        unbiased representation of the most plausible level of risk, 
+        given the current scientific information available to the 
+        Federal agency concerned.
+        ``(4) Substitution risk.--The term `substitution risk' means a 
+    potential risk to human health, safety, or the environment from a 
+    regulatory alternative designed to decrease other risks.
+        ``(5) Covered federal agency.--The term `covered Federal 
+    agency' means each of the following:
+            ``(A) The Environmental Protection Agency.
+            ``(B) The Occupational Safety and Health Administration.
+            ``(C) The Department of Transportation (including the 
+        National Highway Transportation Safety Administration).
+            ``(D) The Food and Drug Administration.
+            ``(E) The Department of Energy.
+            ``(F) The Department of the Interior.
+            ``(G) The Department of Agriculture.
+            ``(H) The Consumer Product Safety Commission.
+            ``(I) The National Oceanic and Atmospheric Administration.
+            ``(J) The United States Army Corps of Engineers.
+            ``(K) The Mine Safety and Health Administration.
+            ``(L) The Nuclear Regulatory Commission.
+            ``(M) Any other Federal agency considered a covered Federal 
+        agency pursuant to section 413(b)(2)(E).
+        ``(6) Federal agency.--The term `Federal agency' means an 
+    executive department, military department, or independent 
+    establishment as defined in part I of title 5 of the United States 
+    Code, except that such term also includes the Office of Technology 
+    Assessment.
+        ``(7) Document.--The term `document' includes material stored 
+    in electronic or digital form.
+
+``Sec. 639b. Peer review program
+
+    ``(a) Establishment.--For regulatory programs designed to protect 
+human health, safety, or the environment, the head of each Federal 
+agency shall develop a systematic program for independent and external 
+peer review required by subsection (b). Such program shall be 
+applicable across the agency and--
+        ``(1) shall provide for the creation of peer review panels 
+    consisting of experts and shall be broadly representative and 
+    balanced and to the extent relevant and appropriate, may include 
+    representatives of State, local, and tribal governments, small 
+    businesses, other representatives of industry, universities, 
+    agriculture, labor, consumers, conservation organizations, or other 
+    public interest groups and organizations;
+        ``(2) may provide for differing levels of peer review and 
+    differing numbers of experts on peer review panels, depending on 
+    the significance or the complexity of the problems or the need for 
+    expeditiousness;
+        ``(3) shall not exclude peer reviewers with substantial and 
+    relevant expertise merely because they represent entities that may 
+    have a potential interest in the outcome, provided that interest is 
+    fully disclosed to the agency and in the case of a regulatory 
+    decision affecting a single entity, no peer reviewer representing 
+    such entity may be included on the panel;
+        ``(4) may provide specific and reasonable deadlines for peer 
+    review panels to submit reports under subsection (c); and
+        ``(5) shall provide adequate protections for confidential 
+    business information and trade secrets, including requiring peer 
+    reviewers to enter into confidentiality agreements.
+    ``(b) Requirement for Peer Review.--In connection with any rule 
+that is likely to result in an annual increase in costs of $100,000,000 
+or more (other than any rule or other action taken by an agency to 
+authorize or approve any individual substance or product), each Federal 
+agency shall provide for peer review in accordance with this section of 
+any risk assessment or cost analysis which forms the basis for such 
+rule or of any analysis under section 431(a). In addition, the Director 
+of the Office of Management and Budget may order that peer review be 
+provided for any major risk assessment or cost assessment that is 
+likely to have a significant impact on public policy decisions.
+    ``(c) Contents.--Each peer review under this section shall include 
+a report to the Federal agency concerned with respect to the scientific 
+and economic merit of data and methods used for the assessments and 
+analyses.
+    ``(d) Response to Peer Review.--The head of the Federal agency 
+shall provide a written response to all significant peer review 
+comments.
+    ``(e) Availability to Public.--All peer review comments or 
+conclusions and the agency's responses shall be made available to the 
+public and shall be made part of the administrative record.
+    ``(f) Previously Reviewed Data and Analysis.--No peer review shall 
+be required under this section for any data or method which has been 
+previously subjected to peer review or for any component of any 
+analysis or assessment previously subjected to peer review.
+    ``(g) National Panels.--The President shall appoint National Peer 
+Review Panels to annually review the risk assessment and cost 
+assessment practices of each Federal agency for programs designed to 
+protect human health, safety, or the environment. The Panel shall 
+submit a report to the Congress no less frequently than annually 
+containing the results of such review.
+
+``Sec. 639c. Petition for review of a major free-standing risk 
+            assessment
+
+    ``(a) Any interested person may petition an agency to conduct a 
+scientific review of a risk assessment conducted or adopted by the 
+agency, except for a risk assessment used as the basis for a major rule 
+or a site-specific risk assessment.
+    ``(b) The agency shall utilize external peer review, as 
+appropriate, to evaluate the claims and analyses in the petition, and 
+shall consider such review in making its determination of whether to 
+grant the petition.
+    ``(c) The agency shall grant the petition if the petition 
+establishes that there is a reasonable likelihood that--
+        ``(1)(A) the risk assessment that is the subject of the 
+    petition was carried out in a manner substantially inconsistent 
+    with the principles in section 633; or
+        ``(B) the risk assessment that is the subject of the petition 
+    does not take into account material significant new scientific data 
+    and scientific understanding;
+        ``(2) the risk assessment that is the subject of the petition 
+    contains significantly different results than if it had been 
+    properly conducted pursuant to subchapter III; and
+        ``(3) a revised risk assessment will provide the basis for 
+    reevaluating an agency determination of risk, and such 
+    determination currently has an effect on the United States economy 
+    equivalent to that of major rule.
+    ``(d) A decision to grant, or final action to deny, a petition 
+under this subsection shall be made not later than 180 days after the 
+petition is submitted.
+    ``(e) If the agency grants the petition, it shall complete its 
+review of the risk assessment not later than 1 year after its decision 
+to grant the petition. If the agency revises the risk assessment, in 
+response to its review, it shall do so in accordance with section 633.
+
+``Sec. 639d. Risk-based priorities
+
+    ``(a) Purposes.--The purposes of this section are to--
+        ``(1) encourage Federal agencies engaged in regulating risks to 
+    human health, safety, and the environment to achieve the greatest 
+    risk reduction at the least cost practical;
+        ``(2) promote the coordination of policies and programs to 
+    reduce risks to human health, safety, and the environment; and
+        ``(3) promote open communication among Federal agencies, the 
+    public, the President, and Congress regarding environmental, 
+    health, and safety risks, and the prevention and management of 
+    those risks.
+    ``(b) Definitions.--For the purposes of this section:
+        ``(1) Comparative risk analysis.--The term `comparative risk 
+    analysis' means a process to systematically estimate, compare, and 
+    rank the size and severity of risks to provide a common basis for 
+    evaluating strategies for reducing or preventing those risks.
+        ``(2) Covered agency.--The term `covered agency' means each of 
+    the following:
+            ``(A) The Environmental Protection Agency.
+            ``(B) The Department of Labor.
+            ``(C) The Department of Transportation.
+            ``(D) The Food and Drug Administration.
+            ``(E) The Department of Energy.
+            ``(F) The Department of the Interior.
+            ``(G) The Department of Agriculture.
+            ``(H) The Consumer Product Safety Commission.
+            ``(I) The National Oceanic and Atmospheric Administration.
+            ``(J) The United States Army Corps of Engineers.
+            ``(K) The Nuclear Regulatory Commission.
+        ``(3) Effect.--The term `effect' means a deleterious change in 
+    the condition of--
+            ``(A) a human or other living thing (including death, 
+        cancer, or other chronic illness, decreased reproductive 
+        capacity, or disfigurement); or
+            ``(B) an inanimate thing important to human welfare 
+        (including destruction, degeneration, the loss of intended 
+        function, and increased costs for maintenance).
+        ``(4) Irreversibility.--The term `irreversibility' means the 
+    extent to which a return to conditions before the occurrence of an 
+    effect are either very slow or will never occur.
+        ``(5) Likelihood.--The term `likelihood' means the estimated 
+    probability that an effect will occur.
+        ``(6) Magnitude.--The term `magnitude' means the number of 
+    individuals or the quantity of ecological resources or other 
+    resources that contribute to human welfare that are affected by 
+    exposure to a stressor.
+        ``(7) Seriousness.--The term `seriousness' means the intensity 
+    of effect, the likelihood, the irreversibility, and the magnitude.
+    ``(c) Department and Agency Program Goals.--
+        ``(1) Setting priorities.--In exercising authority under 
+    applicable laws protecting human health, safety, or the 
+    environment, the head of each covered agency shall set priorities 
+    for the use of resources available under those laws to address 
+    those risks to human health, safety, and the environment that--
+            ``(A) the covered agency determines to be most serious; and
+            ``(B) can be addressed in a cost-effective manner, with the 
+        goal of achieving the greatest overall net reduction in risks 
+        with the public and private sector resources expended.
+        ``(2) Determining the most serious risks.--In identifying the 
+    greatest risks under paragraph (1) of this subsection, each covered 
+    agency shall consider, at a minimum--
+            ``(A) the likelihood, irreversibility, and severity of the 
+        effect; and
+            ``(B) the number and classes of individuals potentially 
+        affected,
+    and shall explicitly take into account the results of the 
+    comparative risk analysis conducted under subsection (d) of this 
+    section.
+        ``(3) OMB review.--The covered agency's determinations of the 
+    most serious risks for purposes of setting priorities shall be 
+    reviewed and approved by the Director of the Office of Management 
+    and Budget before submission of the covered agency's annual budget 
+    requests to Congress.
+        ``(4) Incorporating risk-based priorities into budget and 
+    planning.--The head of each covered agency shall incorporate the 
+    priorities identified under paragraph (1) into the agency budget, 
+    strategic planning, regulatory agenda, enforcement, and research 
+    activities. When submitting its budget request to Congress and when 
+    announcing its regulatory agenda in the Federal Register, each 
+    covered agency shall identify the risks that the covered agency 
+    head has determined are the most serious and can be addressed in a 
+    cost-effective manner under paragraph (1), the basis for that 
+    determination, and explicitly identify how the covered agency's 
+    requested budget and regulatory agenda reflect those priorities.
+        ``(5) Effective date.--This subsection shall take effect 12 
+    months after the date of enactment of this Act.
+    ``(d) Comparative Risk Analysis.--
+        ``(1) Requirement.--
+            ``(A)(i) No later than 6 months after the effective date of 
+        this Act, the Director of the Office of Management and Budget 
+        shall enter into appropriate arrangements with a nationally 
+        recognized scientific institution or scholarly organization--
+                ``(I) to conduct a study of the methodologies for using 
+            comparative risk to rank dissimilar human health, safety, 
+            and environmental risks; and
+                ``(II) to conduct a comparative risk analysis.
+            ``(ii) The comparative risk analysis shall compare and 
+        rank, to the extent feasible, human health, safety, and 
+        environmental risks potentially regulated across the spectrum 
+        of programs administered by all covered agencies.
+            ``(B) The Director shall consult with the Office of Science 
+        and Technology Policy regarding the scope of the study and the 
+        conduct of the comparative risk analysis.
+            ``(C) Nothing in this subsection should be construed to 
+        prevent the Director from entering into a sole-source 
+        arrangement with a nationally recognized scientific institution 
+        or scholarly organization.
+        ``(2) Criteria.--The Director shall ensure that the arrangement 
+    under paragraph (1) provides that--
+            ``(A) the scope and specificity of the analysis are 
+        sufficient to provide the President and agency heads guidance 
+        in allocating resources across agencies and among programs in 
+        agencies to achieve the greatest degree of risk prevention and 
+        reduction for the public and private resources expended;
+            ``(B) the analysis is conducted through an open process, 
+        including opportunities for the public to submit views, data, 
+        and analyses and to provide public comment on the results 
+        before making them final;
+            ``(C) the analysis is conducted by a balanced group of 
+        individuals with relevant expertise, including toxicologists, 
+        biologists, engineers, and experts in medicine, industrial 
+        hygiene, and environmental effects, and the selection of 
+        members for such study shall be at the sole discretion of the 
+        scientific institution or scholarly organization;
+            ``(D) the analysis is conducted, to the extent feasible and 
+        relevant, consistent with the risk assessment and risk 
+        characterization principles in section 633 of this subchapter;
+            ``(E) the methodologies and principal scientific 
+        determinations made in the analysis are subjected to 
+        independent peer review consistent with section 633(g), and the 
+        conclusions of the peer review are made publicly available as 
+        part of the final report required under subsection (e); and
+            ``(F) the results are presented in a manner that 
+        distinguishes between the scientific conclusions and any policy 
+        or value judgments embodied in the comparisons.
+        ``(3) Completion and review.--No later than 3 years after the 
+    effective date of this Act, the comparative risk analysis required 
+    under paragraph (1) shall be completed. The comparative risk 
+    analysis shall be reviewed and revised at least every 5 years 
+    thereafter for a minimum of 15 years following the release of the 
+    first analysis. The Director shall arrange for such review and 
+    revision by an accredited scientific body in the same manner as 
+    provided under paragraphs (1) and (2).
+        ``(4) Study.--The study of methodologies provided under 
+    paragraph (1) shall be conducted as part of the first comparative 
+    risk analysis and shall be completed no later than 180 days after 
+    the completion of that analysis. The goal of the study shall be to 
+    develop and rigorously test methods of comparative risk analysis. 
+    The study shall have sufficient scope and breadth to test 
+    approaches for improving comparative risk analysis and its use in 
+    setting priorities for human health, safety, and environmental risk 
+    prevention and reduction.
+        ``(5) Technical guidance.--No later than 180 days after the 
+    effective date of this Act, the Director, in collaboration with 
+    other heads of covered agencies shall enter into a contract with 
+    the National Research Council to provide technical guidance to 
+    agencies on approaches to using comparative risk analysis in 
+    setting human health, safety, and environmental priorities to 
+    assist agencies in complying with subsection (c) of this section.
+    ``(e) Reports and Recommendations to Congress and the President.--
+No later than 24 months after the effective date of this Act, each 
+covered agency shall submit a report to Congress and the President--
+        ``(1) detailing how the agency has complied with subsection (c) 
+    and describing the reason for any departure from the requirement to 
+    establish priorities to achieve the greatest overall net reduction 
+    in risk;
+        ``(2) recommending--
+            ``(A) modification, repeal, or enactment of laws to reform, 
+        eliminate, or enhance programs or mandates relating to human 
+        health, safety, or the environment; and
+            ``(B) modification or elimination of statutory or 
+        judicially mandated deadlines, that would assist the covered 
+        agency to set priorities in activities to address the risks to 
+        human health, safety, or the environment in a manner consistent 
+        with the requirements of subsection (c)(1);
+        ``(3) evaluating the categories of policy and value judgment 
+    used in risk assessment, risk characterization, or cost-benefit 
+    analysis; and
+        ``(4) discussing risk assessment research and training needs, 
+    and the agency's strategy and schedule for meeting those needs.
+    ``(f) Savings Provision and Judicial Review.--
+        ``(1) In general.--Nothing in this section shall be construed 
+    to modify any statutory standard or requirement designed to protect 
+    human health, safety, or the environment.
+        ``(2) Judicial review.--Compliance or noncompliance by an 
+    agency with the provisions of this section shall not be subject to 
+    judicial review.
+        ``(3) Agency analysis.--Any analysis prepared under this 
+    section shall not be subject to judicial consideration separate or 
+    apart from the requirement, rule, program, or law to which it 
+    relates. When an action for judicial review of a covered agency 
+    action is instituted, any analysis for, or relating to, the action 
+    shall constitute part of the whole record of agency action for the 
+    purpose of judicial review of the action and shall, to the extent 
+    relevant, be considered by a court in determining the legality of 
+    the covered agency action.''.
+    (b) Clerical Amendment.--The table of sections appearing at the 
+beginning of chapter 6 of title 5, United States Code, is amended--
+        (1) by inserting immediately below the chapter heading the 
+    following:
+
+                 ``SUBCHAPTER I--REGULATORY ANALYSIS'';
+
+and
+        (2) by adding at the end the following:
+
+                   ``SUBCHAPTER III--RISK ASSESSMENTS
+
+``631. Short title.
+``632. Purposes.
+``633. Effective date; applicability; savings provisions.
+``634. Principles for risk assessment.
+``635. Principles for risk characterization and communication.
+``636. Recommendations or classifications by a non-United States-based 
+          entity.
+``637. Guidelines and report.
+``638. Research and training in risk assessment.
+``639. Study of comparative risk analysis.
+``639a. Definitions.
+``639b. Peer review program.
+``639c. Petition for review of a major free-standing risk assessment.
+``639d. Risk-based priorities.''.
+
+SEC. 2004. REGULATORY FLEXIBILITY ANALYSIS.
+
+    (a) In General.--
+        (1) Judicial review.--
+            (A) Amendment.--Section 611 of title 5, United States Code, 
+        is amended to read as follows:
+
+``Sec. 611. Judicial review
+
+    ``(a)(1) Not later than one year, notwithstanding any other 
+provision of law, after the effective date of a final rule with respect 
+to which an agency--
+        ``(A) certified, pursuant to section 605(b), that such rule 
+    would not have a significant economic impact on a substantial 
+    number of small entities; or
+        ``(B) prepared a final regulatory flexibility analysis pursuant 
+    to section 604,
+an affected small entity may petition for the judicial review of such 
+certification or analysis in accordance with the terms of this 
+subsection. A court having jurisdiction to review such rule for 
+compliance with the provisions of section 553 or under any other 
+provision of law shall have jurisdiction to review such certification 
+or analysis. In the case where an agency delays the issuance of a final 
+regulatory flexibility analysis pursuant to section 608(b), a petition 
+for judicial review under this subsection shall be filed not later than 
+one year, notwithstanding any other provision of law, after the date 
+the analysis is made available to the public.
+    ``(2) For purposes of this subsection, the term `affected small 
+entity' means a small entity that is or will be adversely affected by 
+the final rule.
+    ``(3) Nothing in this subsection shall be construed to affect the 
+authority of any court to stay the effective date of any rule or 
+provision thereof under any other provision of law.
+    ``(4)(A) In the case where the agency certified that such rule 
+would not have a significant economic impact on a substantial number of 
+small entities, the court may order the agency to prepare a final 
+regulatory flexibility analysis pursuant to section 604 if the court 
+determines, on the basis of the rulemaking record, that the 
+certification was arbitrary, capricious, an abuse of discretion, or 
+otherwise not in accordance with law.
+    ``(B) In the case where the agency prepared a final regulatory 
+flexibility analysis, the court may order the agency to take corrective 
+action consistent with the requirements of section 604 if the court 
+determines, on the basis of the rulemaking record, that the final 
+regulatory flexibility analysis was prepared by the agency without 
+observance of procedure required by section 604.
+    ``(5) If, by the end of the 90-day period beginning on the date of 
+the order of the court pursuant to paragraph (4) (or such longer period 
+as the court may provide), the agency fails, as appropriate--
+        ``(A) to prepare the analysis required by section 604; or
+        ``(B) to take corrective action consistent with the 
+    requirements of section 604,
+the court may stay the rule or grant such other relief as it deems 
+appropriate.
+    ``(6) In making any determination or granting any relief authorized 
+by this subsection, the court shall take due account of the rule of 
+prejudicial error.
+    ``(b) In an action for the judicial review of a rule, any 
+regulatory flexibility analysis for such rule (including an analysis 
+prepared or corrected pursuant to subsection (a)(4)) shall constitute 
+part of the whole record of agency action in connection with such 
+review.
+    ``(c) Nothing in this section bars judicial review of any other 
+impact statement or similar analysis required by any other law if 
+judicial review of such statement or analysis is otherwise provided by 
+law.''.
+            (B) Effective date.--The amendment made by subsection (a) 
+        shall apply only to final agency rules issued after the date of 
+        enactment of this Act.
+        (2) Rules commented on by sba chief counsel for advocacy.--
+            (A) In general.--Section 612 of title 5, United States 
+        Code, is amended by adding at the end the following new 
+        subsection:
+    ``(d) Action by the SBA Chief Counsel for Advocacy.--
+        ``(1) Transmittal of proposed rules and initial regulatory 
+    flexibility analysis to sba chief counsel for advocacy.--On or 
+    before the 30th day preceding the date of publication by an agency 
+    of general notice of proposed rulemaking for a rule, the agency 
+    shall transmit to the Chief Counsel for Advocacy of the Small 
+    Business Administration--
+            ``(A) a copy of the proposed rule; and
+            ``(B)(i) a copy of the initial regulatory flexibility 
+        analysis for the rule if required under section 603; or
+            ``(ii) a determination by the agency that an initial 
+        regulatory flexibility analysis is not required for the 
+        proposed rule under section 603 and an explanation for the 
+        determination.
+        ``(2) Statement of effect.--On or before the 15th day following 
+    receipt of a proposed rule and initial regulatory flexibility 
+    analysis from an agency under paragraph (1), the Chief Counsel for 
+    Advocacy may transmit to the agency a written statement of the 
+    effect of the proposed rule on small entities.
+        ``(3) Response.--If the Chief Counsel for Advocacy transmits to 
+    an agency a statement of effect on a proposed rule in accordance 
+    with paragraph (2), the agency shall publish the statement, 
+    together with the response of the agency to the statement, in the 
+    Federal Register at the time of publication of general notice of 
+    proposed rulemaking for the rule.
+        ``(4) Special rule.--Any proposed rules issued by an 
+    appropriate Federal banking agency (as that term is defined in 
+    section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 
+    1813(q)), the National Credit Union Administration, or the Office 
+    of Federal Housing Enterprise Oversight, in connection with the 
+    implementation of monetary policy or to ensure the safety and 
+    soundness of federally insured depository institutions, any 
+    affiliate of such an institution, credit unions, or government 
+    sponsored housing enterprises or to protect the Federal deposit 
+    insurance funds shall not be subject to the requirements of this 
+    subsection.''.
+            (B) Conforming amendment.--Section 603(a) of title 5, 
+        United States Code, is amended by inserting ``in accordance 
+        with section 612(d)'' before the period at the end of the last 
+        sentence.
+        (3) Sense of congress regarding sba chief counsel for 
+    advocacy.--It is the sense of Congress that the Chief Counsel for 
+    Advocacy of the Small Business Administration should be permitted 
+    to appear as amicus curiae in any action or case brought in a court 
+    of the United States for the purpose of reviewing a rule.
+    (b) Subchapter Heading.--Chapter 6 of title 5, United States Code, 
+is amended by inserting immediately before section 601, the following 
+subchapter heading:
+
+                 ``SUBCHAPTER I--REGULATORY ANALYSIS''.
+
+SEC. 2005. GUIDANCE FOR JUDICIAL INTERPRETATION.
+
+    (a) In General.--Chapter 7 of title 5, United States Code, is 
+amended--
+        (1) by striking section 706; and
+        (2) by adding at the end the following new sections:
+
+``Sec. 706. Scope of review
+
+    ``(a) To the extent necessary to reach a decision and when 
+presented, the reviewing court shall decide all relevant questions of 
+law, interpret constitutional and statutory provisions, and determine 
+the meaning or applicability of the terms of an agency action. The 
+reviewing court shall--
+        ``(1) compel agency action unlawfully withheld or unreasonably 
+    delayed; and
+        ``(2) hold unlawful and set aside agency action, findings and 
+    conclusions found to be--
+            ``(A) arbitrary, capricious, an abuse of discretion, or 
+        otherwise not in accordance with law;
+            ``(B) contrary to constitutional right, power, privilege, 
+        or immunity;
+            ``(C) in excess of statutory jurisdiction, authority, or 
+        limitations, or short of statutory right;
+            ``(D) without observance of procedure required by law;
+            ``(E) unsupported by substantial evidence in a proceeding 
+        subject to sections 556 and 557 or otherwise reviewed on the 
+        record of an agency hearing provided by statute; or
+            ``(F) unwarranted by the facts to the extent that the facts 
+        are subject to trial de novo by the reviewing court.
+    ``(b) In making the determinations set forth in subsection (a), the 
+court shall review the whole record or those parts of it cited by a 
+party, and due account shall be taken of the rule of prejudicial error.
+
+``Sec. 707. Consent decrees
+
+    ``In interpreting any consent decree in effect on or after the date 
+of enactment of this section that imposes on an agency an obligation to 
+initiate, continue, or complete rulemaking proceedings, the court shall 
+not enforce the decree in a way that divests the agency of discretion 
+clearly granted to the agency by statute to respond to changing 
+circumstances, make policy or managerial choices, or protect the rights 
+of third parties.
+
+``Sec. 708. Affirmative defense
+
+    ``Notwithstanding any other provision of law, it shall be an 
+affirmative defense in any enforcement action brought by an agency that 
+the regulated person or entity reasonably relied on and is complying 
+with a rule, regulation, adjudication, directive, or order of such 
+agency or any other agency that is incompatible, contradictory, or 
+otherwise cannot be reconciled with the agency rule, regulation, 
+adjudication, directive, or order being enforced.
+
+``Sec. 709. Agency interpretations in civil and criminal actions
+
+    ``(a) No civil or criminal penalty shall be imposed by a court, and 
+no civil administrative penalty shall be imposed by an agency, for the 
+violation of a rule--
+        ``(1) if the court or agency, as appropriate, finds that the 
+    rule failed to give the defendant fair warning of the conduct that 
+    the rule prohibits or requires; or
+        ``(2) if the court or agency, as appropriate, finds that the 
+    defendant acted reasonably in good faith based upon the language of 
+    the rule as published in the Federal Register.
+    ``(b) Nothing in this section shall be construed to preclude an 
+agency--
+        ``(1) from revising a rule or changing its interpretation of a 
+    rule in accordance with sections 552 and 553 of this title, and 
+    subject to the provisions of this section, prospectively enforcing 
+    the requirements of such rule as revised or reinterpreted and 
+    imposing or seeking a civil or criminal penalty for any subsequent 
+    violation of such rule as revised or reinterpreted; or
+        ``(2) from making a new determination of fact, and based upon 
+    such determination, prospectively applying a particular legal 
+    requirement.
+    ``(c) This section shall apply to any action filed after the date 
+of the enactment of the Comprehensive Regulatory Reform Act of 1995.''.
+    (b) Technical Amendment.--The analysis for chapter 7 of title 5, 
+United States Code, is amended by striking the item relating to section 
+706 and inserting the following new items:
+``706. Scope of review.
+``707. Consent decrees.
+``708. Affirmative defense.
+``709. Agency interpretations in civil and criminal actions.''.
+
+SEC. 2006. CONGRESSIONAL REVIEW.
+
+    (a) Finding.--The Congress finds that effective steps for improving 
+the efficiency and proper management of Government operations will be 
+promoted if a moratorium on the implementation of certain major final 
+and proposed rules is imposed in order to provide Congress an 
+opportunity for review.
+    (b) In General.--Title 5, United States Code, is amended by 
+inserting immediately after chapter 7 the following new chapter:
+
+         ``CHAPTER 8--CONGRESSIONAL REVIEW OF AGENCY RULEMAKING
+
+``Sec.
+``801. Congressional review.
+``802. Congressional disapproval procedure.
+``803. Special rule on statutory, regulatory, and judicial deadlines.
+``804. Definitions.
+``805. Judicial review.
+``806. Applicability; severability.
+``807. Exemption for monetary policy.
+
+``Sec. 801. Congressional review
+
+    ``(a)(1)(A) Before a rule can take effect as a final rule, the 
+Federal agency promulgating such rule shall submit to each House of the 
+Congress and to the Comptroller General a report containing--
+        ``(i) a copy of the rule;
+        ``(ii) a concise general statement relating to the rule; and
+        ``(iii) the proposed effective date of the rule.
+    ``(B) The Federal agency promulgating the rule shall make available 
+to each House of Congress and the Comptroller General, upon request--
+        ``(i) a complete copy of the cost-benefit analysis of the rule, 
+    if any;
+        ``(ii) the agency's actions relevant to sections 603, 604, 605, 
+    607, and 609;
+        ``(iii) the agency's actions relevant to sections 202, 203, 
+    204, and 205 of the Unfunded Mandates Reform Act of 1995; and
+        ``(iv) any other relevant information or requirements under any 
+    other Act and any relevant Executive orders, such as Executive 
+    Order No. 12866.
+    ``(C) Upon receipt, each House shall provide copies to the Chairman 
+and Ranking Member of each committee with jurisdiction.
+    ``(2)(A) The Comptroller General shall provide a report on each 
+major rule to the committees of jurisdiction to each House of the 
+Congress by the end of 12 calendar days after the submission or 
+publication date as provided in section 802(b)(2). The report of the 
+Comptroller General shall include an assessment of the agency's 
+compliance with procedural steps required by paragraph (1)(B).
+    ``(B) Federal agencies shall cooperate with the Comptroller General 
+by providing information relevant to the Comptroller General's report 
+under subparagraph (A).
+    ``(3) A major rule relating to a report submitted under paragraph 
+(1) shall take effect as a final rule, the latest of--
+        ``(A) the later of the date occurring 60 days (excluding days 
+    either House of Congress is adjourned for more than 3 days during a 
+    session of Congress) after the date on which--
+            ``(i) the Congress receives the report submitted under 
+        paragraph (1); or
+            ``(ii) the rule is published in the Federal Register;
+        ``(B) if the Congress passes a joint resolution of disapproval 
+    described under section 802 relating to the rule, and the President 
+    signs a veto of such resolution, the earlier date--
+            ``(i) on which either House of Congress votes and fails to 
+        override the veto of the President; or
+            ``(ii) occurring 30 session days after the date on which 
+        the Congress received the veto and objections of the President; 
+        or
+        ``(C) the date the rule would have otherwise taken effect, if 
+    not for this section (unless a joint resolution of disapproval 
+    under section 802 is enacted).
+    ``(4) Except for a major rule, a rule shall take effect as 
+otherwise provided by law after submission to Congress under paragraph 
+(1).
+    ``(5) Notwithstanding paragraph (3), the effective date of a rule 
+shall not be delayed by operation of this chapter beyond the date on 
+which either House of Congress votes to reject a joint resolution of 
+disapproval under section 802.
+    ``(b)(1) A rule or proposed rule shall not take effect (or 
+continue) as a final rule, if the Congress passes a joint resolution of 
+disapproval described under section 802.
+    ``(2) A rule or proposed rule that does not take effect (or does 
+not continue) under paragraph (1) may not be reissued in substantially 
+the same form, and a new rule that is substantially the same as such a 
+rule or proposed rule may not be issued, unless the reissued or new 
+rule is specifically authorized by a law enacted after the date of the 
+joint resolution disapproving the original rule.
+    ``(c)(1) Notwithstanding any other provision of this section 
+(except subject to paragraph (3)), a rule that would not take effect by 
+reason of this chapter may take effect, if the President makes a 
+determination under paragraph (2) and submits written notice of such 
+determination to the Congress.
+    ``(2) Paragraph (1) applies to a determination made by the 
+President by Executive order that the rule should take effect because 
+such rule is--
+        ``(A) necessary because of an imminent threat to health or 
+    safety or other emergency;
+        ``(B) necessary for the enforcement of criminal laws;
+        ``(C) necessary for national security; or
+        ``(D) issued pursuant to a statute implementing an 
+    international trade agreement.
+    ``(3) An exercise by the President of the authority under this 
+subsection shall have no effect on the procedures under section 802 or 
+the effect of a joint resolution of disapproval under this section.
+    ``(d)(1) In addition to the opportunity for review otherwise 
+provided under this chapter, in the case of any rule that is published 
+in the Federal Register (as a rule that shall take effect as a final 
+rule) during the period beginning on the date occurring 60 days before 
+the date the Congress adjourns a session of Congress through the date 
+on which the same or succeeding Congress first convenes its next 
+session, section 802 shall apply to such rule in the succeeding session 
+of Congress.
+    ``(2)(A) In applying section 802 for purposes of such additional 
+review, a rule described under paragraph (1) shall be treated as 
+though--
+        ``(i) such rule were published in the Federal Register (as a 
+    rule that shall take effect as a final rule) on the 15th session 
+    day after the succeeding Congress first convenes; and
+        ``(ii) a report on such rule were submitted to Congress under 
+    subsection (a)(1) on such date.
+    ``(B) Nothing in this paragraph shall be construed to affect the 
+requirement under subsection (a)(1) that a report shall be submitted to 
+Congress before a final rule can take effect.
+    ``(3) A rule described under paragraph (1) shall take effect as a 
+final rule as otherwise provided by law (including other subsections of 
+this section).
+    ``(e)(1) Section 802 shall apply in accordance with its terms to 
+any major rule that was published in the Federal Register (as a rule 
+that shall take effect as a final rule) in the period beginning on 
+November 20, 1994, through the date of enactment of the Comprehensive 
+Regulatory Reform Act of 1995.
+    ``(2) In applying section 802 for purposes of Congressional review, 
+a rule described under paragraph (1) shall be treated as though--
+        ``(A) such rule were published in the Federal Register (as a 
+    rule that shall take effect as a final rule) on the date of 
+    enactment of the Comprehensive Regulatory Reform Act of 1995; and
+        ``(B) a report on such rule were submitted to Congress under 
+    subsection (a)(1) on such date.
+    ``(3) The effectiveness of a rule described under paragraph (1) 
+shall be as otherwise provided by law, unless the rule is made of no 
+force or effect under section 802.
+    ``(f) Any rule that takes effect and later is made of no force or 
+effect by enactment of a joint resolution under section 802 shall be 
+treated as though such rule had never taken effect.
+    ``(g) If the Congress does not enact a joint resolution of 
+disapproval under section 802, no court or agency may infer any intent 
+of the Congress from any action or inaction of the Congress with regard 
+to such rule, related statute, or joint resolution of disapproval.
+
+``Sec. 802. Congressional disapproval procedure
+
+    ``(a) Joint Resolution Defined.--For purposes of this section, the 
+term `joint resolution' means only--
+        ``(1) a joint resolution introduced in the period beginning on 
+    the date on which the report referred to in section 801(a) is 
+    received by Congress and ending 60 days thereafter (excluding days 
+    either House of Congress is adjourned for more than 3 days during a 
+    session of Congress), the matter after the resolving clause of 
+    which is as follows: `That Congress disapproves the rule submitted 
+    by the ____ relating to ____, and such rule shall have no force or 
+    effect.' (the blank spaces being appropriately filled in); or
+        ``(2) a joint resolution the matter after the resolving clause 
+    of which is as follows: `That the Congress disapproves the proposed 
+    rule published by the ________ relating to ______, and such 
+    proposed rule shall not be issued or take effect as a final rule.' 
+    (the blank spaces being appropriately filled in).
+    ``(b)(1) A joint resolution described in subsection (a) shall be 
+referred to the committees in each House of Congress with jurisdiction.
+    ``(2) For purposes of this section, the term `submission or 
+publication date' means--
+        ``(A) in the case of a joint resolution described in subsection 
+    (a)(1) the later of the date on which--
+            ``(i) the Congress receives the report submitted under 
+        section 801(a)(1); or
+            ``(ii) the rule is published in the Federal Register; or
+        ``(B) in the case of a joint resolution described in subsection 
+    (a)(2), the date of introduction of the joint resolution.
+    ``(c) In the Senate, if the committee to which is referred a joint 
+resolution described in subsection (a) has not reported such joint 
+resolution (or an identical joint resolution) at the end of 20 calendar 
+days after the submission or publication date defined under subsection 
+(b)(2), such committee may be discharged from further consideration of 
+such joint resolution upon a petition supported in writing by 30 
+Members of the Senate, and such joint resolution shall be placed on the 
+appropriate calendar.
+    ``(d)(1) In the Senate, when the committee to which a joint 
+resolution is referred has reported, or when a committee is discharged 
+(under subsection (c)) from further consideration of, a joint 
+resolution described in subsection (a), it is at any time thereafter in 
+order (even though a previous motion to the same effect has been 
+disagreed to) for a motion to proceed to the consideration of the joint 
+resolution, and all points of order against the joint resolution (and 
+against consideration of the joint resolution) are waived. The motion 
+is not subject to amendment, or to a motion to postpone, or to a motion 
+to proceed to the consideration of other business. A motion to 
+reconsider the vote by which the motion is agreed to or disagreed to 
+shall not be in order. If a motion to proceed to the consideration of 
+the joint resolution is agreed to, the joint resolution shall remain 
+the unfinished business of the Senate until disposed of.
+    ``(2) In the Senate, debate on the joint resolution, and on all 
+debatable motions and appeals in connection therewith, shall be limited 
+to not more than 10 hours, which shall be divided equally between those 
+favoring and those opposing the joint resolution. A motion further to 
+limit debate is in order and not debatable. An amendment to, or a 
+motion to postpone, or a motion to proceed to the consideration of 
+other business, or a motion to recommit the joint resolution is not in 
+order.
+    ``(3) In the Senate, immediately following the conclusion of the 
+debate on a joint resolution described in subsection (a), and a single 
+quorum call at the conclusion of the debate if requested in accordance 
+with the rules of the Senate, the vote on final passage of the joint 
+resolution shall occur.
+    ``(4) Appeals from the decisions of the Chair relating to the 
+application of the rules of the Senate to the procedure relating to a 
+joint resolution described in subsection (a) shall be decided without 
+debate.
+    ``(e) If, before the passage by one House of a joint resolution of 
+that House described in subsection (a), that House receives from the 
+other House a joint resolution described in subsection (a), then the 
+following procedures shall apply:
+        ``(1) The joint resolution of the other House shall not be 
+    referred to a committee.
+        ``(2) With respect to a joint resolution described in 
+    subsection (a) of the House receiving the joint resolution--
+            ``(A) the procedure in that House shall be the same as if 
+        no joint resolution had been received from the other House; but
+            ``(B) the vote on final passage shall be on the joint 
+        resolution of the other House.
+    ``(f) This section is enacted by Congress--
+        ``(1) as an exercise of the rulemaking power of the Senate and 
+    House of Representatives, respectively, and as such it is deemed a 
+    part of the rules of each House, respectively, but applicable only 
+    with respect to the procedure to be followed in that House in the 
+    case of a joint resolution described in subsection (a), and it 
+    supersedes other rules only to the extent that it is inconsistent 
+    with such rules; and
+        ``(2) with full recognition of the constitutional right of 
+    either House to change the rules (so far as relating to the 
+    procedure of that House) at any time, in the same manner, and to 
+    the same extent as in the case of any other rule of that House.
+
+``Sec. 803. Special rule on statutory, regulatory, and judicial 
+            deadlines
+
+    ``(a) In the case of any deadline for, relating to, or involving 
+any rule which does not take effect (or the effectiveness of which is 
+terminated) because of enactment of a joint resolution under section 
+802, that deadline is extended until the date 1 year after the date of 
+the joint resolution. Nothing in this subsection shall be construed to 
+affect a deadline merely by reason of the postponement of a rule's 
+effective date under section 801(a).
+    ``(b) The term `deadline' means any date certain for fulfilling any 
+obligation or exercising any authority established by or under any 
+Federal statute or regulation, or by or under any court order 
+implementing any Federal statute or regulation.
+
+``Sec. 804. Definitions
+
+    ``(a) For purposes of this chapter--
+        ``(1) the term `Federal agency' means any agency as that term 
+    is defined in section 551(1) (relating to administrative 
+    procedure);
+        ``(2) the term `major rule' has the same meaning given such 
+    term in section 621(5); and
+        ``(3) the term `final rule' means any final rule or interim 
+    final rule.
+    ``(b) As used in subsection (a)(3), the term `rule' has the meaning 
+given such term in section 551, except that such term does not include 
+any rule of particular applicability including a rule that approves or 
+prescribes for the future rates, wages, prices, services, or allowances 
+therefor, corporate or financial structures, reorganizations, mergers, 
+or acquisitions thereof, or accounting practices or disclosures bearing 
+on any of the foregoing or any rule of agency organization, personnel, 
+procedure, practice or any routine matter.
+
+``Sec. 805. Judicial review
+
+    ``No determination, finding, action, or omission under this chapter 
+shall be subject to judicial review.
+
+``Sec. 806. Applicability; severability
+
+    ``(a) This chapter shall apply notwithstanding any other provision 
+of law.
+    ``(b) If any provision of this chapter or the application of any 
+provision of this chapter to any person or circumstance, is held 
+invalid, the application of such provision to other persons or 
+circumstances, and the remainder of this chapter, shall not be affected 
+thereby.
+
+``Sec. 807. Exemption for monetary policy
+
+    ``Nothing in this chapter shall apply to rules that concern 
+monetary policy proposed or implemented by the Board of Governors of 
+the Federal Reserve System or the Federal Open Market Committee.''.
+    (c) Effective Date.--The amendment made by subsection (b) shall 
+take effect on the date of enactment of this Act.
+    (d) Technical Amendment.--The table of chapters for part I of title 
+5, United States Code, is amended by inserting immediately after the 
+item relating to chapter 7 the following:
+
+``8. Congressional Review of Agency Rulemaking................
+                                                                  801''.
+
+SEC. 2007. REGULATORY ACCOUNTING STATEMENT.
+
+    (a) Definitions.--For purposes of this section, the following 
+definitions apply:
+        (1) Major rule.--The term ``major rule'' has the same meaning 
+    as defined in section 621(5)(A)(i) of title 5, United States Code. 
+    The term shall not include--
+            (A) administrative actions governed by sections 556 and 557 
+        of title 5, United States Code;
+            (B) regulations issued with respect to a military or 
+        foreign affairs function of the United States or a statute 
+        implementing an international trade agreement; or
+            (C) regulations related to agency organization, management, 
+        or personnel.
+        (2) Agency.--The term ``agency'' means any executive 
+    department, military department, Government corporation, Government 
+    controlled corporation, or other establishment in the executive 
+    branch of the Government (including the Executive Office of the 
+    President), or any independent regulatory agency, but shall not 
+    include--
+            (A) the General Accounting Office;
+            (B) the Federal Election Commission;
+            (C) the governments of the District of Columbia and of the 
+        territories and possessions of the United States, and their 
+        various subdivisions; or
+            (D) Government-owned contractor-operated facilities, 
+        including laboratories engaged in national defense research and 
+        production activities.
+    (b) Accounting Statement.--
+        (1) In general.--
+            (A) The President shall be responsible for implementing and 
+        administering the requirements of this section.
+            (B) Not later than June 1, 1997, and each June 1 
+        thereafter, the President shall prepare and submit to Congress 
+        an accounting statement that estimates the annual costs of 
+        major rules and corresponding benefits in accordance with this 
+        subsection.
+        (2) Years covered by accounting statement.--Each accounting 
+    statement shall cover, at a minimum, the 5 fiscal years beginning 
+    on October 1 of the year in which the report is submitted and may 
+    cover any fiscal year preceding such fiscal years for purpose of 
+    revising previous estimates.
+        (3) Timing and procedures.--
+            (A) The President shall provide notice and opportunity for 
+        comment for each accounting statement. The President may 
+        delegate to an agency the requirement to provide notice and 
+        opportunity to comment for the portion of the accounting 
+        statement relating to that agency.
+            (B) The President shall propose the first accounting 
+        statement under this subsection not later than 2 years after 
+        the date of enactment of this Act and shall issue the first 
+        accounting statement in final form not later than 3 years after 
+        such effective date. Such statement shall cover, at a minimum, 
+        each of the fiscal years beginning after the date of enactment 
+        of this Act.
+        (4) Content of accounting statement.--
+            (A) Each accounting statement shall contain estimates of 
+        costs and benefits with respect to each fiscal year covered by 
+        the statement in accordance with this paragraph. For each such 
+        fiscal year for which estimates were made in a previous 
+        accounting statement, the statement shall revise those 
+        estimates and state the reasons for the revisions.
+            (B)(i) An accounting statement shall estimate the costs of 
+        major rules by setting forth, for each year covered by the 
+        statement--
+                (I) the annual expenditure of national economic 
+            resources for major rules, grouped by regulatory program; 
+            and
+                (II) such other quantitative and qualitative measures 
+            of costs as the President considers appropriate.
+            (ii) For purposes of the estimate of costs in the 
+        accounting statement, national economic resources shall 
+        include, and shall be listed under, at least the following 
+        categories:
+                (I) Private sector costs.
+                (II) Federal sector costs.
+                (III) State and local government administrative costs.
+        (C) An accounting statement shall estimate the benefits of 
+    major rules by setting forth, for each year covered by the 
+    statement, such quantitative and qualitative measures of benefits 
+    as the President considers appropriate. Any estimates of benefits 
+    concerning reduction in health, safety, or environmental risks 
+    shall present the most plausible level of risk practical, along 
+    with a statement of the reasonable degree of scientific certainty.
+    (c) Associated Report to Congress.--
+        (1) In general.--At the same time as the President submits an 
+    accounting statement under subsection (b), the President, acting 
+    through the Director of the Office of Management and Budget, shall 
+    submit to Congress a report associated with the accounting 
+    statement (hereinafter referred to as an ``associated report''). 
+    The associated report shall contain, in accordance with this 
+    subsection--
+            (A) analyses of impacts; and
+            (B) recommendations for reform.
+        (2) Analyses of impacts.--The President shall include in the 
+    associated report the following:
+            (A) Analyses prepared by the President of the cumulative 
+        impact of major rules in Federal regulatory programs covered in 
+        the accounting statement on the following:
+                (i) The ability of State and local governments to 
+            provide essential services, including police, fire 
+            protection, and education.
+                (ii) Small business.
+                (iii) Productivity.
+                (iv) Wages.
+                (v) Economic growth.
+                (vi) Technological innovation.
+                (vii) Consumer prices for goods and services.
+                (viii) Such other factors considered appropriate by the 
+            President.
+            (B) A summary of any independent analyses of impacts 
+        prepared by persons commenting during the comment period on the 
+        accounting statement.
+        (3) Recommendations for reform.--The President shall include in 
+    the associated report the following:
+            (A) A summary of recommendations of the President for 
+        reform or elimination of any Federal regulatory program or 
+        program element that does not represent sound use of national 
+        economic resources or otherwise is inefficient.
+            (B) A summary of any recommendations for such reform or 
+        elimination of Federal regulatory programs or program elements 
+        prepared by persons commenting during the comment period on the 
+        accounting statement.
+    (d) Guidance From Office of Management and Budget.--The Director of 
+the Office of Management and Budget shall, in consultation with the 
+Council of Economic Advisers, provide guidance to agencies--
+        (1) to standardize measures of costs and benefits in accounting 
+    statements prepared pursuant to sections 3 and 7 of this Act, 
+    including--
+            (A) detailed guidance on estimating the costs and benefits 
+        of major rules; and
+            (B) general guidance on estimating the costs and benefits 
+        of all other rules that do not meet the thresholds for major 
+        rules; and
+        (2) to standardize the format of the accounting statements.
+    (e) Recommendations From Congressional Budget Office.--After each 
+accounting statement and associated report submitted to Congress, the 
+Director of the Congressional Budget Office shall make recommendations 
+to the President--
+        (1) for improving accounting statements prepared pursuant to 
+    this section, including recommendations on level of detail and 
+    accuracy; and
+        (2) for improving associated reports prepared pursuant to this 
+    section, including recommendations on the quality of analysis.
+    (f) Judicial Review.--No requirements under this section shall be 
+subject to judicial review in any manner.
+
+SEC. 2008. STUDIES AND REPORTS.
+
+    (a) Risk Assessments.--The Administrative Conference of the United 
+States shall--
+        (1) develop and carry out an ongoing study of the operation of 
+    the risk assessment requirements of subchapter III of chapter 6 of 
+    title 5, United States Code (as added by section 4 of this Act); 
+    and
+        (2) submit an annual report to the Congress on the findings of 
+    the study.
+    (b) Administrative Procedure Act.--Not later than December 31, 
+1996, the Administrative Conference of the United States shall--
+        (1) carry out a study of the operation of the Administrative 
+    Procedure Act (as amended by section 3 of this Act); and
+        (2) submit a report to the Congress on the findings of the 
+    study, including proposals for revision, if any.
+
+SEC. 2009. MISCELLANEOUS PROVISIONS.
+
+    (a) Effective Date.--Except as otherwise provided, this Act and the 
+amendments made by this Act shall take effect on the date of enactment.
+    (b) Severability.--If any provision of this Act, an amendment made 
+by this Act, or the application of such provision or amendment to any 
+person or circumstance is held to be unconstitutional, the remainder of 
+this Act, the amendments made by this Act, and the application of the 
+provisions of such to any person or circumstance shall not be affected 
+thereby.
+
+                               Speaker of the House of Representatives.
+
+                            Vice President of the United States and    
+                                               President of the Senate.
