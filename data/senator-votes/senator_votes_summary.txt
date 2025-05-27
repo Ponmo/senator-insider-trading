@@ -1,0 +1,1735 @@
+Senator Voting Summary
+=====================
+
+Total senators: 346
+
+A. Allard:
+  Yea votes: 158
+  Nay votes: 77
+  Total votes: 235
+
+Adam Schiff:
+  Yea votes: 10
+  Nay votes: 27
+  Total votes: 37
+
+Al Franken:
+  Yea votes: 204
+  Nay votes: 84
+  Total votes: 288
+
+Alan Cranston:
+  Yea votes: 174
+  Nay votes: 37
+  Total votes: 211
+
+Alan Dixon:
+  Yea votes: 169
+  Nay votes: 46
+  Total votes: 215
+
+Alan Simpson:
+  Yea votes: 309
+  Nay votes: 95
+  Total votes: 404
+
+Albert Gore:
+  Yea votes: 171
+  Nay votes: 27
+  Total votes: 198
+
+Alex Padilla:
+  Yea votes: 86
+  Nay votes: 75
+  Total votes: 161
+
+Alfonse D'Amato:
+  Yea votes: 411
+  Nay votes: 109
+  Total votes: 520
+
+Amy Klobuchar:
+  Yea votes: 448
+  Nay votes: 174
+  Total votes: 622
+
+Andy Kim:
+  Yea votes: 14
+  Nay votes: 25
+  Total votes: 39
+
+Angela Alsobrooks:
+  Yea votes: 9
+  Nay votes: 24
+  Total votes: 33
+
+Angus King:
+  Yea votes: 273
+  Nay votes: 129
+  Total votes: 402
+
+Arlen Specter:
+  Yea votes: 789
+  Nay votes: 197
+  Total votes: 986
+
+Ashley Moody:
+  Yea votes: 26
+  Nay votes: 8
+  Total votes: 34
+
+Barack Obama:
+  Yea votes: 76
+  Nay votes: 27
+  Total votes: 103
+
+Barbara Boxer:
+  Yea votes: 694
+  Nay votes: 249
+  Total votes: 943
+
+Barbara Mikulski:
+  Yea votes: 936
+  Nay votes: 273
+  Total votes: 1209
+
+Ben Campbell:
+  Yea votes: 457
+  Nay votes: 84
+  Total votes: 541
+
+Ben Cardin:
+  Yea votes: 244
+  Nay votes: 125
+  Total votes: 369
+
+Ben Lujan:
+  Yea votes: 93
+  Nay votes: 69
+  Total votes: 162
+
+Ben Sasse:
+  Yea votes: 146
+  Nay votes: 85
+  Total votes: 231
+
+Benjamin Cardin:
+  Yea votes: 198
+  Nay votes: 39
+  Total votes: 237
+
+Bernard Sanders:
+  Yea votes: 259
+  Nay votes: 131
+  Total votes: 390
+
+Bernie Moreno:
+  Yea votes: 27
+  Nay votes: 8
+  Total votes: 35
+
+Bernie Sanders:
+  Yea votes: 88
+  Nay votes: 104
+  Total votes: 192
+
+Bill Bradley:
+  Yea votes: 272
+  Nay votes: 118
+  Total votes: 390
+
+Bill Cassidy:
+  Yea votes: 247
+  Nay votes: 84
+  Total votes: 331
+
+Bill Frist:
+  Yea votes: 470
+  Nay votes: 73
+  Total votes: 543
+
+Bill Hagerty:
+  Yea votes: 90
+  Nay votes: 60
+  Total votes: 150
+
+Bill Nelson:
+  Yea votes: 505
+  Nay votes: 129
+  Total votes: 634
+
+Blanche Lincoln:
+  Yea votes: 405
+  Nay votes: 76
+  Total votes: 481
+
+Bob Casey:
+  Yea votes: 455
+  Nay votes: 150
+  Total votes: 605
+
+Bob Corker:
+  Yea votes: 238
+  Nay votes: 174
+  Total votes: 412
+
+Bob Dole:
+  Yea votes: 288
+  Nay votes: 102
+  Total votes: 390
+
+Bob Graham:
+  Yea votes: 571
+  Nay votes: 197
+  Total votes: 768
+
+Bob Krueger:
+  Yea votes: 4
+  Nay votes: 1
+  Total votes: 5
+
+Bob Packwood:
+  Yea votes: 259
+  Nay votes: 77
+  Total votes: 336
+
+Bob Smith:
+  Yea votes: 373
+  Nay votes: 223
+  Total votes: 596
+
+Brian Schatz:
+  Yea votes: 254
+  Nay votes: 141
+  Total votes: 395
+
+Brock Adams:
+  Yea votes: 191
+  Nay votes: 37
+  Total votes: 228
+
+Byron Dorgan:
+  Yea votes: 578
+  Nay votes: 193
+  Total votes: 771
+
+Carl Levin:
+  Yea votes: 898
+  Nay votes: 270
+  Total votes: 1168
+
+Carol Moseley-Braun:
+  Yea votes: 204
+  Nay votes: 85
+  Total votes: 289
+
+Carte Goodwin:
+  Yea votes: 8
+  Nay votes: 2
+  Total votes: 10
+
+Catherine Cortez Masto:
+  Yea votes: 174
+  Nay votes: 105
+  Total votes: 279
+
+Charles Grassley:
+  Yea votes: 253
+  Nay votes: 148
+  Total votes: 401
+
+Charles Robb:
+  Yea votes: 488
+  Nay votes: 153
+  Total votes: 641
+
+Charles Schumer:
+  Yea votes: 698
+  Nay votes: 269
+  Total votes: 967
+
+Chris Van Hollen:
+  Yea votes: 154
+  Nay votes: 123
+  Total votes: 277
+
+Christopher Bond:
+  Yea votes: 746
+  Nay votes: 228
+  Total votes: 974
+
+Christopher Coons:
+  Yea votes: 324
+  Nay votes: 165
+  Total votes: 489
+
+Christopher Dodd:
+  Yea votes: 748
+  Nay votes: 234
+  Total votes: 982
+
+Christopher Murphy:
+  Yea votes: 257
+  Nay votes: 143
+  Total votes: 400
+
+Chuck Grassley:
+  Yea votes: 823
+  Nay votes: 286
+  Total votes: 1109
+
+Chuck Hagel:
+  Yea votes: 408
+  Nay votes: 103
+  Total votes: 511
+
+Cindy Hyde-Smith:
+  Yea votes: 157
+  Nay votes: 80
+  Total votes: 237
+
+Claiborne Pell:
+  Yea votes: 313
+  Nay votes: 92
+  Total votes: 405
+
+Claire McCaskill:
+  Yea votes: 302
+  Nay votes: 102
+  Total votes: 404
+
+Connie Mack:
+  Yea votes: 461
+  Nay votes: 164
+  Total votes: 625
+
+Conrad Burns:
+  Yea votes: 650
+  Nay votes: 202
+  Total votes: 852
+
+Cory Booker:
+  Yea votes: 201
+  Nay votes: 152
+  Total votes: 353
+
+Cory Gardner:
+  Yea votes: 142
+  Nay votes: 28
+  Total votes: 170
+
+Craig Thomas:
+  Yea votes: 431
+  Nay votes: 114
+  Total votes: 545
+
+Cynthia Lummis:
+  Yea votes: 93
+  Nay votes: 65
+  Total votes: 158
+
+Dale Bumpers:
+  Yea votes: 382
+  Nay votes: 133
+  Total votes: 515
+
+Dan Coats:
+  Yea votes: 502
+  Nay votes: 222
+  Total votes: 724
+
+Dan Sullivan:
+  Yea votes: 242
+  Nay votes: 84
+  Total votes: 326
+
+Daniel Akaka:
+  Yea votes: 767
+  Nay votes: 244
+  Total votes: 1011
+
+Daniel Inouye:
+  Yea votes: 796
+  Nay votes: 224
+  Total votes: 1020
+
+Daniel Moynihan:
+  Yea votes: 467
+  Nay votes: 150
+  Total votes: 617
+
+Dave Durenberger:
+  Yea votes: 223
+  Nay votes: 77
+  Total votes: 300
+
+David Boren:
+  Yea votes: 247
+  Nay votes: 49
+  Total votes: 296
+
+David McCormick:
+  Yea votes: 27
+  Nay votes: 7
+  Total votes: 34
+
+David Perdue:
+  Yea votes: 133
+  Nay votes: 36
+  Total votes: 169
+
+David Pryor:
+  Yea votes: 281
+  Nay votes: 91
+  Total votes: 372
+
+David Vitter:
+  Yea votes: 234
+  Nay votes: 170
+  Total votes: 404
+
+Dean Barkley:
+  Yea votes: 3
+  Nay votes: 0
+  Total votes: 3
+
+Dean Heller:
+  Yea votes: 161
+  Nay votes: 85
+  Total votes: 246
+
+Deb Fischer:
+  Yea votes: 276
+  Nay votes: 130
+  Total votes: 406
+
+Debbie Stabenow:
+  Yea votes: 627
+  Nay votes: 199
+  Total votes: 826
+
+Dennis DeConcini:
+  Yea votes: 251
+  Nay votes: 59
+  Total votes: 310
+
+Dianne Feinstein:
+  Yea votes: 874
+  Nay votes: 275
+  Total votes: 1149
+
+Dirk Kempthorne:
+  Yea votes: 228
+  Nay votes: 70
+  Total votes: 298
+
+Don Nickles:
+  Yea votes: 574
+  Nay votes: 213
+  Total votes: 787
+
+Donald Riegle:
+  Yea votes: 263
+  Nay votes: 49
+  Total votes: 312
+
+Doug Jones:
+  Yea votes: 69
+  Nay votes: 16
+  Total votes: 85
+
+E. Nelson:
+  Yea votes: 374
+  Nay votes: 82
+  Total votes: 456
+
+Edward Kaufman:
+  Yea votes: 44
+  Nay votes: 4
+  Total votes: 48
+
+Edward Kennedy:
+  Yea votes: 655
+  Nay votes: 229
+  Total votes: 884
+
+Edward Markey:
+  Yea votes: 214
+  Nay votes: 168
+  Total votes: 382
+
+Elissa Slotkin:
+  Yea votes: 11
+  Nay votes: 22
+  Total votes: 33
+
+Elizabeth Dole:
+  Yea votes: 181
+  Nay votes: 59
+  Total votes: 240
+
+Elizabeth Warren:
+  Yea votes: 210
+  Nay votes: 167
+  Total votes: 377
+
+Eric  Schmitt:
+  Yea votes: 66
+  Nay votes: 31
+  Total votes: 97
+
+Ernest Hollings:
+  Yea votes: 558
+  Nay votes: 205
+  Total votes: 763
+
+Evan Bayh:
+  Yea votes: 356
+  Nay votes: 120
+  Total votes: 476
+
+Frank Lautenberg:
+  Yea votes: 735
+  Nay votes: 284
+  Total votes: 1019
+
+Frank Murkowski:
+  Yea votes: 529
+  Nay votes: 140
+  Total votes: 669
+
+Fred Thompson:
+  Yea votes: 337
+  Nay votes: 54
+  Total votes: 391
+
+Gary Peters:
+  Yea votes: 213
+  Nay votes: 125
+  Total votes: 338
+
+George Allen:
+  Yea votes: 189
+  Nay votes: 38
+  Total votes: 227
+
+George Helmy:
+  Yea votes: 3
+  Nay votes: 5
+  Total votes: 8
+
+George LeMieux:
+  Yea votes: 13
+  Nay votes: 29
+  Total votes: 42
+
+George Mitchell:
+  Yea votes: 270
+  Nay votes: 47
+  Total votes: 317
+
+George Voinovich:
+  Yea votes: 326
+  Nay votes: 149
+  Total votes: 475
+
+Gordon Humphrey:
+  Yea votes: 54
+  Nay votes: 52
+  Total votes: 106
+
+Gordon Smith:
+  Yea votes: 450
+  Nay votes: 71
+  Total votes: 521
+
+Hank Brown:
+  Yea votes: 179
+  Nay votes: 128
+  Total votes: 307
+
+Harlan Mathews:
+  Yea votes: 74
+  Nay votes: 14
+  Total votes: 88
+
+Harris Wofford:
+  Yea votes: 150
+  Nay votes: 32
+  Total votes: 182
+
+Harry Reid:
+  Yea votes: 918
+  Nay votes: 299
+  Total votes: 1217
+
+Heidi Heitkamp:
+  Yea votes: 141
+  Nay votes: 39
+  Total votes: 180
+
+Herb Kohl:
+  Yea votes: 823
+  Nay votes: 271
+  Total votes: 1094
+
+Hillary Clinton:
+  Yea votes: 222
+  Nay votes: 51
+  Total votes: 273
+
+Howard Metzenbaum:
+  Yea votes: 234
+  Nay votes: 79
+  Total votes: 313
+
+Howell Heflin:
+  Yea votes: 307
+  Nay votes: 113
+  Total votes: 420
+
+J. Exon:
+  Yea votes: 306
+  Nay votes: 107
+  Total votes: 413
+
+J. Johnston:
+  Yea votes: 325
+  Nay votes: 88
+  Total votes: 413
+
+J. Kerrey:
+  Yea votes: 446
+  Nay votes: 162
+  Total votes: 608
+
+J. Vance:
+  Yea votes: 30
+  Nay votes: 15
+  Total votes: 45
+
+Jack Reed:
+  Yea votes: 215
+  Nay votes: 76
+  Total votes: 291
+
+Jacklyn Rosen:
+  Yea votes: 127
+  Nay votes: 59
+  Total votes: 186
+
+Jacky Rosen:
+  Yea votes: 12
+  Nay votes: 23
+  Total votes: 35
+
+Jake Garn:
+  Yea votes: 136
+  Nay votes: 76
+  Total votes: 212
+
+James  Risch:
+  Yea votes: 239
+  Nay votes: 134
+  Total votes: 373
+
+James DeMint:
+  Yea votes: 125
+  Nay votes: 171
+  Total votes: 296
+
+James Inhofe:
+  Yea votes: 313
+  Nay votes: 74
+  Total votes: 387
+
+James Jeffords:
+  Yea votes: 655
+  Nay votes: 167
+  Total votes: 822
+
+James Justice:
+  Yea votes: 26
+  Nay votes: 8
+  Total votes: 34
+
+James Lankford:
+  Yea votes: 230
+  Nay votes: 110
+  Total votes: 340
+
+James McClure:
+  Yea votes: 70
+  Nay votes: 37
+  Total votes: 107
+
+James Risch:
+  Yea votes: 73
+  Nay votes: 103
+  Total votes: 176
+
+James Webb:
+  Yea votes: 190
+  Nay votes: 45
+  Total votes: 235
+
+Jay Rockefeller:
+  Yea votes: 338
+  Nay votes: 88
+  Total votes: 426
+
+Jean Carnahan:
+  Yea votes: 65
+  Nay votes: 5
+  Total votes: 70
+
+Jeanne Shaheen:
+  Yea votes: 386
+  Nay votes: 161
+  Total votes: 547
+
+Jeff Bingaman:
+  Yea votes: 832
+  Nay votes: 250
+  Total votes: 1082
+
+Jeff Flake:
+  Yea votes: 114
+  Nay votes: 59
+  Total votes: 173
+
+Jeff Merkley:
+  Yea votes: 331
+  Nay votes: 215
+  Total votes: 546
+
+Jeff Sessions:
+  Yea votes: 471
+  Nay votes: 261
+  Total votes: 732
+
+Jefferson Sessions:
+  Yea votes: 45
+  Nay votes: 11
+  Total votes: 56
+
+Jeffrey Chiesa:
+  Yea votes: 4
+  Nay votes: 4
+  Total votes: 8
+
+Jerry Moran:
+  Yea votes: 322
+  Nay votes: 143
+  Total votes: 465
+
+Jesse Helms:
+  Yea votes: 398
+  Nay votes: 218
+  Total votes: 616
+
+Jim Banks:
+  Yea votes: 25
+  Nay votes: 9
+  Total votes: 34
+
+Jim Bunning:
+  Yea votes: 319
+  Nay votes: 143
+  Total votes: 462
+
+Jim Inhofe:
+  Yea votes: 390
+  Nay votes: 268
+  Total votes: 658
+
+Jim Sasser:
+  Yea votes: 261
+  Nay votes: 52
+  Total votes: 313
+
+Jim Talent:
+  Yea votes: 137
+  Nay votes: 20
+  Total votes: 157
+
+Jocelyn Burdick:
+  Yea votes: 12
+  Nay votes: 1
+  Total votes: 13
+
+Joe Donnelly:
+  Yea votes: 151
+  Nay votes: 29
+  Total votes: 180
+
+Joe Lieberman:
+  Yea votes: 183
+  Nay votes: 50
+  Total votes: 233
+
+Joe Manchin:
+  Yea votes: 206
+  Nay votes: 69
+  Total votes: 275
+
+John  Curtis:
+  Yea votes: 27
+  Nay votes: 8
+  Total votes: 35
+
+John Ashcroft:
+  Yea votes: 252
+  Nay votes: 59
+  Total votes: 311
+
+John Barrasso:
+  Yea votes: 355
+  Nay votes: 255
+  Total votes: 610
+
+John Boozman:
+  Yea votes: 332
+  Nay votes: 156
+  Total votes: 488
+
+John Breaux:
+  Yea votes: 616
+  Nay votes: 164
+  Total votes: 780
+
+John Chafee:
+  Yea votes: 443
+  Nay votes: 128
+  Total votes: 571
+
+John Cornyn:
+  Yea votes: 519
+  Nay votes: 260
+  Total votes: 779
+
+John Danforth:
+  Yea votes: 222
+  Nay votes: 85
+  Total votes: 307
+
+John Edwards:
+  Yea votes: 172
+  Nay votes: 53
+  Total votes: 225
+
+John Ensign:
+  Yea votes: 224
+  Nay votes: 150
+  Total votes: 374
+
+John Fetterman:
+  Yea votes: 42
+  Nay votes: 49
+  Total votes: 91
+
+John Glenn:
+  Yea votes: 386
+  Nay votes: 119
+  Total votes: 505
+
+John Heinz:
+  Yea votes: 100
+  Nay votes: 17
+  Total votes: 117
+
+John Hickenlooper:
+  Yea votes: 93
+  Nay votes: 71
+  Total votes: 164
+
+John Hoeven:
+  Yea votes: 341
+  Nay votes: 147
+  Total votes: 488
+
+John Isakson:
+  Yea votes: 57
+  Nay votes: 13
+  Total votes: 70
+
+John Kennedy:
+  Yea votes: 187
+  Nay votes: 89
+  Total votes: 276
+
+John Kerry:
+  Yea votes: 764
+  Nay votes: 244
+  Total votes: 1008
+
+John McCain:
+  Yea votes: 744
+  Nay votes: 359
+  Total votes: 1103
+
+John Reed:
+  Yea votes: 548
+  Nay votes: 248
+  Total votes: 796
+
+John Rockefeller:
+  Yea votes: 536
+  Nay votes: 165
+  Total votes: 701
+
+John Seymour:
+  Yea votes: 76
+  Nay votes: 29
+  Total votes: 105
+
+John Sununu:
+  Yea votes: 163
+  Nay votes: 71
+  Total votes: 234
+
+John Thune:
+  Yea votes: 449
+  Nay votes: 259
+  Total votes: 708
+
+John Walsh:
+  Yea votes: 30
+  Nay votes: 2
+  Total votes: 32
+
+John Warner:
+  Yea votes: 733
+  Nay votes: 187
+  Total votes: 920
+
+Johnny Isakson:
+  Yea votes: 262
+  Nay votes: 162
+  Total votes: 424
+
+Jon Corzine:
+  Yea votes: 131
+  Nay votes: 41
+  Total votes: 172
+
+Jon Husted:
+  Yea votes: 26
+  Nay votes: 8
+  Total votes: 34
+
+Jon Kyl:
+  Yea votes: 525
+  Nay votes: 256
+  Total votes: 781
+
+Jon Ossoff:
+  Yea votes: 96
+  Nay votes: 67
+  Total votes: 163
+
+Jon Tester:
+  Yea votes: 440
+  Nay votes: 162
+  Total votes: 602
+
+Joni Ernst:
+  Yea votes: 248
+  Nay votes: 90
+  Total votes: 338
+
+Joseph Biden:
+  Yea votes: 680
+  Nay votes: 216
+  Total votes: 896
+
+Joseph Lieberman:
+  Yea votes: 628
+  Nay votes: 177
+  Total votes: 805
+
+Joseph Manchin:
+  Yea votes: 136
+  Nay votes: 40
+  Total votes: 176
+
+Josh Hawley:
+  Yea votes: 119
+  Nay votes: 101
+  Total votes: 220
+
+Judd Gregg:
+  Yea votes: 534
+  Nay votes: 222
+  Total votes: 756
+
+Kamala Harris:
+  Yea votes: 46
+  Nay votes: 40
+  Total votes: 86
+
+Katie Britt:
+  Yea votes: 66
+  Nay votes: 26
+  Total votes: 92
+
+Kay Hagan:
+  Yea votes: 167
+  Nay votes: 42
+  Total votes: 209
+
+Kay Hutchison:
+  Yea votes: 621
+  Nay votes: 216
+  Total votes: 837
+
+Kelly  Loeffler:
+  Yea votes: 15
+  Nay votes: 7
+  Total votes: 22
+
+Kelly Ayotte:
+  Yea votes: 136
+  Nay votes: 72
+  Total votes: 208
+
+Ken Salazar:
+  Yea votes: 135
+  Nay votes: 25
+  Total votes: 160
+
+Kent Conrad:
+  Yea votes: 803
+  Nay votes: 293
+  Total votes: 1096
+
+Kevin Cramer:
+  Yea votes: 134
+  Nay votes: 78
+  Total votes: 212
+
+Kirsten Gillibrand:
+  Yea votes: 345
+  Nay votes: 198
+  Total votes: 543
+
+Kyrsten Sinema:
+  Yea votes: 131
+  Nay votes: 52
+  Total votes: 183
+
+Lamar Alexander:
+  Yea votes: 429
+  Nay votes: 178
+  Total votes: 607
+
+Laphonza Butler:
+  Yea votes: 17
+  Nay votes: 25
+  Total votes: 42
+
+Larry Craig:
+  Yea votes: 607
+  Nay votes: 227
+  Total votes: 834
+
+Larry Pressler:
+  Yea votes: 292
+  Nay votes: 126
+  Total votes: 418
+
+Lauch Faircloth:
+  Yea votes: 191
+  Nay votes: 96
+  Total votes: 287
+
+Lincoln Chafee:
+  Yea votes: 226
+  Nay votes: 52
+  Total votes: 278
+
+Lindsey Graham:
+  Yea votes: 490
+  Nay votes: 260
+  Total votes: 750
+
+Lisa Blunt Rochester:
+  Yea votes: 7
+  Nay votes: 28
+  Total votes: 35
+
+Lisa Murkowski:
+  Yea votes: 564
+  Nay votes: 200
+  Total votes: 764
+
+Lloyd Bentsen:
+  Yea votes: 191
+  Nay votes: 28
+  Total votes: 219
+
+Luther Strange:
+  Yea votes: 21
+  Nay votes: 5
+  Total votes: 26
+
+Maggie Hassan:
+  Yea votes: 172
+  Nay votes: 109
+  Total votes: 281
+
+Malcolm Wallop:
+  Yea votes: 150
+  Nay votes: 147
+  Total votes: 297
+
+Marco Rubio:
+  Yea votes: 265
+  Nay votes: 157
+  Total votes: 422
+
+Maria Cantwell:
+  Yea votes: 629
+  Nay votes: 234
+  Total votes: 863
+
+Mark Begich:
+  Yea votes: 164
+  Nay votes: 46
+  Total votes: 210
+
+Mark Dayton:
+  Yea votes: 167
+  Nay votes: 56
+  Total votes: 223
+
+Mark Hatfield:
+  Yea votes: 285
+  Nay votes: 103
+  Total votes: 388
+
+Mark Kelly:
+  Yea votes: 94
+  Nay votes: 71
+  Total votes: 165
+
+Mark Kirk:
+  Yea votes: 116
+  Nay votes: 60
+  Total votes: 176
+
+Mark Pryor:
+  Yea votes: 370
+  Nay votes: 87
+  Total votes: 457
+
+Mark Udall:
+  Yea votes: 166
+  Nay votes: 45
+  Total votes: 211
+
+Mark Warner:
+  Yea votes: 373
+  Nay votes: 167
+  Total votes: 540
+
+Markwayne Mullin:
+  Yea votes: 68
+  Nay votes: 27
+  Total votes: 95
+
+Marsha Blackburn:
+  Yea votes: 117
+  Nay votes: 92
+  Total votes: 209
+
+Martha McSally:
+  Yea votes: 37
+  Nay votes: 16
+  Total votes: 53
+
+Martin Heinrich:
+  Yea votes: 266
+  Nay votes: 133
+  Total votes: 399
+
+Mary Landrieu:
+  Yea votes: 589
+  Nay votes: 139
+  Total votes: 728
+
+Max Baucus:
+  Yea votes: 875
+  Nay votes: 250
+  Total votes: 1125
+
+Max Cleland:
+  Yea votes: 223
+  Nay votes: 65
+  Total votes: 288
+
+Mazie Hirono:
+  Yea votes: 252
+  Nay votes: 153
+  Total votes: 405
+
+Mel Martinez:
+  Yea votes: 116
+  Nay votes: 57
+  Total votes: 173
+
+Michael Bennet:
+  Yea votes: 365
+  Nay votes: 174
+  Total votes: 539
+
+Michael Crapo:
+  Yea votes: 213
+  Nay votes: 43
+  Total votes: 256
+
+Michael Enzi:
+  Yea votes: 465
+  Nay votes: 263
+  Total votes: 728
+
+Mike Braun:
+  Yea votes: 91
+  Nay votes: 90
+  Total votes: 181
+
+Mike Crapo:
+  Yea votes: 407
+  Nay votes: 296
+  Total votes: 703
+
+Mike DeWine:
+  Yea votes: 467
+  Nay votes: 84
+  Total votes: 551
+
+Mike Enzi:
+  Yea votes: 127
+  Nay votes: 45
+  Total votes: 172
+
+Mike Johanns:
+  Yea votes: 105
+  Nay votes: 106
+  Total votes: 211
+
+Mike Lee:
+  Yea votes: 219
+  Nay votes: 259
+  Total votes: 478
+
+Mike Rounds:
+  Yea votes: 237
+  Nay votes: 80
+  Total votes: 317
+
+Mitch McConnell:
+  Yea votes: 1072
+  Nay votes: 420
+  Total votes: 1492
+
+Mitt Romney:
+  Yea votes: 111
+  Nay votes: 66
+  Total votes: 177
+
+Nancy Kassebaum:
+  Yea votes: 317
+  Nay votes: 95
+  Total votes: 412
+
+Norm Coleman:
+  Yea votes: 190
+  Nay votes: 45
+  Total votes: 235
+
+Olympia Snowe:
+  Yea votes: 618
+  Nay votes: 165
+  Total votes: 783
+
+Orrin Hatch:
+  Yea votes: 920
+  Nay votes: 325
+  Total votes: 1245
+
+Pat Roberts:
+  Yea votes: 661
+  Nay votes: 241
+  Total votes: 902
+
+Pat Toomey:
+  Yea votes: 121
+  Nay votes: 90
+  Total votes: 211
+
+Patrick Leahy:
+  Yea votes: 1016
+  Nay votes: 359
+  Total votes: 1375
+
+Patrick Toomey:
+  Yea votes: 96
+  Nay votes: 74
+  Total votes: 170
+
+Patty Murray:
+  Yea votes: 901
+  Nay votes: 344
+  Total votes: 1245
+
+Paul Coverdell:
+  Yea votes: 306
+  Nay votes: 71
+  Total votes: 377
+
+Paul Kirk:
+  Yea votes: 12
+  Nay votes: 0
+  Total votes: 12
+
+Paul Sarbanes:
+  Yea votes: 638
+  Nay votes: 226
+  Total votes: 864
+
+Paul Simon:
+  Yea votes: 310
+  Nay votes: 107
+  Total votes: 417
+
+Paul Wellstone:
+  Yea votes: 387
+  Nay votes: 195
+  Total votes: 582
+
+Pete Domenici:
+  Yea votes: 736
+  Nay votes: 181
+  Total votes: 917
+
+Pete Ricketts:
+  Yea votes: 68
+  Nay votes: 31
+  Total votes: 99
+
+Pete Wilson:
+  Yea votes: 70
+  Nay votes: 19
+  Total votes: 89
+
+Peter Fitzgerald:
+  Yea votes: 213
+  Nay votes: 49
+  Total votes: 262
+
+Peter Welch:
+  Yea votes: 41
+  Nay votes: 58
+  Total votes: 99
+
+Phil Gramm:
+  Yea votes: 464
+  Nay votes: 216
+  Total votes: 680
+
+Quentin Burdick:
+  Yea votes: 176
+  Nay votes: 26
+  Total votes: 202
+
+Rand Paul:
+  Yea votes: 209
+  Nay votes: 253
+  Total votes: 462
+
+Raphael Warnock:
+  Yea votes: 89
+  Nay votes: 65
+  Total votes: 154
+
+Richard Blumenthal:
+  Yea votes: 315
+  Nay votes: 175
+  Total votes: 490
+
+Richard Bryan:
+  Yea votes: 477
+  Nay votes: 159
+  Total votes: 636
+
+Richard Burr:
+  Yea votes: 348
+  Nay votes: 233
+  Total votes: 581
+
+Richard Durbin:
+  Yea votes: 764
+  Nay votes: 313
+  Total votes: 1077
+
+Richard Lugar:
+  Yea votes: 819
+  Nay votes: 264
+  Total votes: 1083
+
+Richard Shelby:
+  Yea votes: 991
+  Nay votes: 390
+  Total votes: 1381
+
+Rick Santorum:
+  Yea votes: 457
+  Nay votes: 89
+  Total votes: 546
+
+Rick Scott:
+  Yea votes: 123
+  Nay votes: 95
+  Total votes: 218
+
+Rob Portman:
+  Yea votes: 273
+  Nay votes: 121
+  Total votes: 394
+
+Robert Bennett:
+  Yea votes: 584
+  Nay votes: 181
+  Total votes: 765
+
+Robert Byrd:
+  Yea votes: 711
+  Nay votes: 253
+  Total votes: 964
+
+Robert Kasten:
+  Yea votes: 152
+  Nay votes: 70
+  Total votes: 222
+
+Robert Menendez:
+  Yea votes: 438
+  Nay votes: 170
+  Total votes: 608
+
+Robert Torricelli:
+  Yea votes: 215
+  Nay votes: 58
+  Total votes: 273
+
+Rod Grams:
+  Yea votes: 256
+  Nay votes: 52
+  Total votes: 308
+
+Roger Marshall:
+  Yea votes: 95
+  Nay votes: 64
+  Total votes: 159
+
+Roger Wicker:
+  Yea votes: 388
+  Nay votes: 197
+  Total votes: 585
+
+Roland Burris:
+  Yea votes: 46
+  Nay votes: 4
+  Total votes: 50
+
+Ron Johnson:
+  Yea votes: 294
+  Nay votes: 197
+  Total votes: 491
+
+Ron Wyden:
+  Yea votes: 778
+  Nay votes: 354
+  Total votes: 1132
+
+Roy Blunt:
+  Yea votes: 279
+  Nay votes: 109
+  Total votes: 388
+
+Ruben Gallego:
+  Yea votes: 10
+  Nay votes: 23
+  Total votes: 33
+
+Rudy Boschwitz:
+  Yea votes: 74
+  Nay votes: 25
+  Total votes: 99
+
+Russ Feingold:
+  Yea votes: 156
+  Nay votes: 63
+  Total votes: 219
+
+Russell Feingold:
+  Yea votes: 329
+  Nay votes: 240
+  Total votes: 569
+
+Sam Brownback:
+  Yea votes: 297
+  Nay votes: 72
+  Total votes: 369
+
+Sam Nunn:
+  Yea votes: 320
+  Nay votes: 89
+  Total votes: 409
+
+Samuel Brownback:
+  Yea votes: 115
+  Nay votes: 84
+  Total votes: 199
+
+Saxby Chambliss:
+  Yea votes: 268
+  Nay votes: 171
+  Total votes: 439
+
+Scott Brown:
+  Yea votes: 63
+  Nay votes: 55
+  Total votes: 118
+
+Sheila Frahm:
+  Yea votes: 23
+  Nay votes: 5
+  Total votes: 28
+
+Sheldon Whitehouse:
+  Yea votes: 444
+  Nay votes: 190
+  Total votes: 634
+
+Shelley Capito:
+  Yea votes: 257
+  Nay votes: 75
+  Total votes: 332
+
+Sherrod  Brown:
+  Yea votes: 225
+  Nay votes: 107
+  Total votes: 332
+
+Sherrod Brown:
+  Yea votes: 212
+  Nay votes: 50
+  Total votes: 262
+
+Slade Gorton:
+  Yea votes: 487
+  Nay votes: 140
+  Total votes: 627
+
+Spark Matsunaga:
+  Yea votes: 38
+  Nay votes: 6
+  Total votes: 44
+
+Spencer Abraham:
+  Yea votes: 277
+  Nay votes: 48
+  Total votes: 325
+
+Steve Daines:
+  Yea votes: 236
+  Nay votes: 99
+  Total votes: 335
+
+Steve Symms:
+  Yea votes: 126
+  Nay votes: 92
+  Total votes: 218
+
+Strom Thurmond:
+  Yea votes: 565
+  Nay votes: 142
+  Total votes: 707
+
+Susan Collins:
+  Yea votes: 862
+  Nay votes: 228
+  Total votes: 1090
+
+Tammy Baldwin:
+  Yea votes: 251
+  Nay votes: 146
+  Total votes: 397
+
+Tammy Duckworth:
+  Yea votes: 157
+  Nay votes: 119
+  Total votes: 276
+
+Ted Budd:
+  Yea votes: 65
+  Nay votes: 31
+  Total votes: 96
+
+Ted Cruz:
+  Yea votes: 228
+  Nay votes: 146
+  Total votes: 374
+
+Ted Stevens:
+  Yea votes: 749
+  Nay votes: 188
+  Total votes: 937
+
+Terry Sanford:
+  Yea votes: 178
+  Nay votes: 39
+  Total votes: 217
+
+Thad Cochran:
+  Yea votes: 955
+  Nay votes: 281
+  Total votes: 1236
+
+Thomas Carper:
+  Yea votes: 620
+  Nay votes: 206
+  Total votes: 826
+
+Thomas Daschle:
+  Yea votes: 615
+  Nay votes: 172
+  Total votes: 787
+
+Thomas Tillis:
+  Yea votes: 244
+  Nay votes: 85
+  Total votes: 329
+
+Tim Hutchinson:
+  Yea votes: 233
+  Nay votes: 47
+  Total votes: 280
+
+Tim Johnson:
+  Yea votes: 570
+  Nay votes: 150
+  Total votes: 720
+
+Tim Scott:
+  Yea votes: 170
+  Nay votes: 95
+  Total votes: 265
+
+Tim Sheehy:
+  Yea votes: 27
+  Nay votes: 8
+  Total votes: 35
+
+Timothy Kaine:
+  Yea votes: 266
+  Nay votes: 130
+  Total votes: 396
+
+Timothy Scott:
+  Yea votes: 72
+  Nay votes: 48
+  Total votes: 120
+
+Timothy Wirth:
+  Yea votes: 169
+  Nay votes: 47
+  Total votes: 216
+
+Tina Smith:
+  Yea votes: 156
+  Nay votes: 89
+  Total votes: 245
+
+Todd Young:
+  Yea votes: 207
+  Nay votes: 75
+  Total votes: 282
+
+Tom Coburn:
+  Yea votes: 139
+  Nay votes: 214
+  Total votes: 353
+
+Tom Cotton:
+  Yea votes: 226
+  Nay votes: 103
+  Total votes: 329
+
+Tom Harkin:
+  Yea votes: 832
+  Nay votes: 277
+  Total votes: 1109
+
+Tom Udall:
+  Yea votes: 284
+  Nay votes: 103
+  Total votes: 387
+
+Tommy Tuberville:
+  Yea votes: 91
+  Nay votes: 67
+  Total votes: 158
+
+Trent Lott:
+  Yea votes: 695
+  Nay votes: 199
+  Total votes: 894
+
+Warren Rudman:
+  Yea votes: 163
+  Nay votes: 59
+  Total votes: 222
+
+Wayne Allard:
+  Yea votes: 224
+  Nay votes: 65
+  Total votes: 289
+
+Wendell Ford:
+  Yea votes: 409
+  Nay votes: 118
+  Total votes: 527
+
+William "Mo" Cowan:
+  Yea votes: 8
+  Nay votes: 5
+  Total votes: 13
+
+William Armstrong:
+  Yea votes: 63
+  Nay votes: 40
+  Total votes: 103
+
+William Cohen:
+  Yea votes: 316
+  Nay votes: 99
+  Total votes: 415
+
+William Roth:
+  Yea votes: 421
+  Nay votes: 194
+  Total votes: 615
+
+Wyche Fowler:
+  Yea votes: 183
+  Nay votes: 41
+  Total votes: 224
+
+Zell Miller:
+  Yea votes: 147
+  Nay votes: 15
+  Total votes: 162
+

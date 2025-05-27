@@ -118,7 +118,7 @@ def extract_bill_summary_content(driver, issue_name):
     
     return None
 
-def scrape_bill_text_selenium(issue_url, issue_name, driver, debug_mode=False):
+def scrape_bill_text_selenium(issue_url, issue_name, driver):
     """
     Scrape bill text using Selenium, specifically targeting children 3+ of bill-summary
     
@@ -126,7 +126,6 @@ def scrape_bill_text_selenium(issue_url, issue_name, driver, debug_mode=False):
         issue_url (str): Base URL for the bill
         issue_name (str): Name of the bill/issue
         driver: Selenium WebDriver instance
-        debug_mode (bool): If True, will log the structure of bill-summary
     
     Returns:
         str: Text content of the bill, or empty string if no content
@@ -141,9 +140,6 @@ def scrape_bill_text_selenium(issue_url, issue_name, driver, debug_mode=False):
         WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
-        
-        if debug_mode:
-            debug_bill_summary_structure(driver, issue_name)
         
         # Try to extract content
         content = extract_bill_summary_content(driver, issue_name)
@@ -160,9 +156,6 @@ def scrape_bill_text_selenium(issue_url, issue_name, driver, debug_mode=False):
                     WebDriverWait(driver, 10).until(
                         EC.presence_of_element_located((By.TAG_NAME, "body"))
                     )
-                    
-                    if debug_mode:
-                        debug_bill_summary_structure(driver, f"{issue_name} (enr)")
                     
                     enr_content = extract_bill_summary_content(driver, f"{issue_name} (enr)")
                     if enr_content is not None:
@@ -283,10 +276,7 @@ def save_bill_text(text_content, issue_name, output_dir):
 
 def main():
     """Main function to orchestrate the scraping process"""
-    
-    # Configuration
-    DEBUG_MODE = False  # Set to True to see bill-summary structure
-    
+        
     # File paths
     csv_file = "../data/senate-roll-call-votes/senate-roll-call-votes.csv"
     output_dir = "../data/senate-bills"
@@ -348,7 +338,7 @@ def main():
                 continue
             
             # Scrape the bill text (now always returns a string, even if empty)
-            text_content = scrape_bill_text_selenium(issue_url, issue_name, driver, DEBUG_MODE)
+            text_content = scrape_bill_text_selenium(issue_url, issue_name, driver)
             
             # Always try to save, even if content is empty
             if save_bill_text(text_content, issue_name, output_dir):
