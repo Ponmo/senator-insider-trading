@@ -70,8 +70,11 @@ def create_bipartite_graph(data_dir):
     senator_nodes = set()
     ticker_nodes = set()
 
+    i = 0
     for filename in os.listdir(data_dir):
+        i += 1
         if not filename.endswith('.csv'):
+            print("Skipping")
             continue
         filepath = os.path.join(data_dir, filename)
         senator, trans_list = load_senator_data(filepath)
@@ -87,6 +90,8 @@ def create_bipartite_graph(data_dir):
             G.add_edge(senator, ticker,
                        transaction=txn_type,
                        weight=amount)
+            
+    print("NUMBER OF SENATORS:", len(senator_nodes))
 
     return G, senator_nodes, ticker_nodes
 
@@ -141,7 +146,41 @@ def get_communities(G, senator_nodes):
         for node in comm
     }
 
+    # Calculate modularity score
+    modularity = community.modularity(P, communities, weight='weight')
+    print(f"Bipartite projection modularity: {modularity:.4f}")
+
     return P, communities, membership
+
+
+def analyze_centrality_safely(G):
+    """
+    Calculate centrality metrics for the graph, handling disconnected components.
+    """
+    # Get connected components
+    components = list(nx.connected_components(G))
+    print(f"Graph has {len(components)} connected components")
+    
+    # Initialize centrality dict
+    centrality = {}
+    
+    # For each component with more than 1 node, calculate eigenvector centrality
+    for i, component in enumerate(components):
+        if len(component) > 1:  # Skip isolated nodes
+            subgraph = G.subgraph(component).copy()
+            try:
+                # Calculate eigenvector centrality for this component
+                comp_centrality = nx.eigenvector_centrality_numpy(subgraph, weight='weight')
+                # Add to overall centrality dict
+                centrality.update(comp_centrality)
+            except nx.PowerIterationFailedConvergence:
+                print(f"Warning: Eigenvector centrality failed to converge for component {i}")
+        else:
+            # For isolated nodes, assign zero centrality
+            node = list(component)[0]
+            centrality[node] = 0.0
+    
+    return centrality
 
 
 def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
@@ -210,7 +249,44 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     plt.axis('off')
     plt.tight_layout()
     plt.savefig(f"{title.lower().replace(' ', '_')}.png", dpi=300)
-    plt.show()
+    plt.close()
+
+
+def save_graph_analysis(G, communities, P, senators, tickers, filename="graph_analysis.txt"):
+    """
+    Save the analysis results to a text file.
+    """
+    with open(filename, 'w') as f:
+        f.write("Bipartite Graph Analysis Results\n")
+        f.write("===============================\n\n")
+        
+        f.write(f"Graph Statistics:\n")
+        f.write(f"- Senators: {len(senators)}\n")
+        f.write(f"- Tickers: {len(tickers)}\n")
+        f.write(f"- Edges in bipartite graph: {G.number_of_edges()}\n")
+        f.write(f"- Edges in senator projection: {P.number_of_edges()}\n\n")
+        
+        f.write(f"Communities:\n")
+        for i, comm in enumerate(communities):
+            f.write(f"Community {i} (size={len(comm)}):\n")
+            f.write(f"{', '.join(sorted(comm))}\n\n")
+        
+        # Calculate and report centrality metrics
+        eig_cent = analyze_centrality_safely(P)
+        
+        # Create DataFrame for easy sorting and display
+        df = pd.DataFrame({
+            'senator': list(eig_cent.keys()),
+            'eigenvector': list(eig_cent.values()),
+        })
+        
+        f.write(f"Top Senators by Eigenvector Centrality:\n")
+        f.write(
+            df
+            .sort_values('eigenvector', ascending=False)
+            .head(10)
+            .to_string(index=False)
+        )
 
 
 def main():
@@ -223,10 +299,15 @@ def main():
     H, filtered_senators, filtered_tickers = filter_by_degree(G, senators, tickers, min_degree=10)
     print(f"Filtered graph: {len(filtered_senators)} senators, {len(filtered_tickers)} tickers, {H.number_of_edges()} edges")
 
-    # visualize_bipartite_graph(H, filtered_senators, filtered_tickers, "Filtered Bipartite")
+    visualize_bipartite_graph(H, filtered_senators, filtered_tickers, "Filtered Bipartite")
 
-    # community detection on the filtered graph
-    P, communities, membership = get_communities(H, filtered_senators)
+    # For community detection, use the ORIGINAL graph with ALL senators
+    # P, communities, membership = get_communities(G, filtered_senators) OLD CODE
+    P, communities, membership = get_communities(G, senators)
+    
+    # Save analysis to file
+    save_graph_analysis(G, communities, P, senators, tickers, "graph_analysis.txt")
+
     
     # print summary
     for i, comm in enumerate(communities):
@@ -242,24 +323,40 @@ def main():
     plt.title("Senator-Senator Projection, Colored by Louvain Community")
     plt.axis('off')
     plt.tight_layout()
-    plt.show()
+    plt.savefig("senator_connections.png", dpi=300)
+    plt.close()
     
+    # Ticker projection analysis
     P_tickers = weighted_projected_graph(H, filtered_tickers)
 
-    eig_cent_t   = nx.eigenvector_centrality_numpy(P_tickers, weight='weight')
+    eig_cent_t = nx.eigenvector_centrality_numpy(P_tickers, weight='weight')
 
     df_t = pd.DataFrame({
         'ticker':      list(P_tickers.nodes()),
         'eigenvector': [eig_cent_t[n]   for n in P_tickers.nodes()],
     })
 
-    print("\nTop 10 tickers by eigenvector centrality:")
-    print(
-        df_t
-        .sort_values('eigenvector', ascending=False)
-        .head(10)
-        .to_string(index=False)
-    )
+    # Save ticker analysis to file
+    with open("graph_analysis.txt", "a") as f:
+        f.write("\n\nTop 10 tickers by eigenvector centrality:\n")
+        f.write(
+            df_t
+            .sort_values('eigenvector', ascending=False)
+            .head(10)
+            .to_string(index=False)
+        )
+    
+    # Visualize ticker connections
+    plt.figure(figsize=(10,8))
+    pos_t = nx.spring_layout(P_tickers, seed=42)
+    nx.draw_networkx_nodes(P_tickers, pos_t, node_color='lightgreen', node_size=200, alpha=0.9)
+    nx.draw_networkx_edges(P_tickers, pos_t, alpha=0.3)
+    nx.draw_networkx_labels(P_tickers, pos_t, font_size=7)
+    plt.title("Ticker-Ticker Projection")
+    plt.axis('off')
+    plt.tight_layout()
+    plt.savefig("ticker_connections.png", dpi=300)
+    plt.close()
 
 
 if __name__ == '__main__':

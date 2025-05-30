@@ -1,0 +1,121 @@
+Graph Analysis Results
+====================
+
+Graph Statistics:
+- Nodes: 71
+- Edges: 2391
+- Modularity: 0.0128
+
+Communities:
+Community 0 (size=2):
+John Barrasso, Roger Wicker
+
+Community 1 (size=28):
+Bob Casey, Christopher Coons, Cory Booker, David Perdue, Jeanne Shaheen, Jefferson Sessions, Jim Inhofe, John Cornyn, John Reed, John Thune, Kelly  Loeffler, Lamar Alexander, Maria Cantwell, Mark Warner, Michael Bennet, Michael Crapo, Michael Enzi, Mitch McConnell, Pat Roberts, Patty Murray, Rob Portman, Ron Wyden, Roy Blunt, Sheldon Whitehouse, Susan Collins, Thomas Carper, Timothy Kaine, Tom Udall
+
+Community 2 (size=2):
+John Hoeven, Lindsey Graham
+
+Community 3 (size=1):
+Steve Daines
+
+Community 4 (size=1):
+Marco Rubio
+
+Community 5 (size=2):
+Angus King, Deb Fischer
+
+Community 6 (size=1):
+Chris Van Hollen
+
+Community 7 (size=2):
+John Boozman, Ted Cruz
+
+Community 8 (size=2):
+Jacklyn Rosen, Tina Smith
+
+Community 9 (size=3):
+Ben Cardin, Gary Peters, Tammy Duckworth
+
+Community 10 (size=2):
+Patrick Toomey, Ron Johnson
+
+Community 11 (size=24):
+Ashley Moody, Bernie Moreno, Bill Cassidy, Bill Hagerty, Cynthia Lummis, Dan Sullivan, David McCormick, J. Vance, Jim Banks, John Fetterman, John Hickenlooper, John Kennedy, Joseph Manchin, Katie Britt, Mark Kelly, Markwayne Mullin, Mike Rounds, Pete Ricketts, Rand Paul, Rick Scott, Roger Marshall, Shelley Capito, Thomas Tillis, Tommy Tuberville
+
+Community 12 (size=1):
+Jerry Moran
+
+Top Senators by Eigenvector Centrality:
+           senator  eigenvector
+     John Barrasso     0.125656
+       Jerry Moran     0.125534
+      Roger Wicker     0.125408
+  Chris Van Hollen     0.125075
+      John Boozman     0.125062
+    Cynthia Lummis     0.124934
+        Tina Smith     0.124808
+    Joseph Manchin     0.124790
+        Ben Cardin     0.124760
+       Deb Fischer     0.124650
+     Thomas Tillis     0.124642
+      Bill Cassidy     0.124592
+       Mike Rounds     0.124503
+        John Thune     0.124338
+      Bill Hagerty     0.124148
+        Mark Kelly     0.124002
+      Steve Daines     0.123983
+       Rob Portman     0.123945
+   Tammy Duckworth     0.123880
+    Shelley Capito     0.123680
+ John Hickenlooper     0.123647
+    Lindsey Graham     0.123576
+        Angus King     0.123572
+       Marco Rubio     0.123493
+        Rick Scott     0.123337
+       John Hoeven     0.123330
+    Roger Marshall     0.123328
+       Gary Peters     0.123323
+  Tommy Tuberville     0.123278
+      John Kennedy     0.123095
+     Jacklyn Rosen     0.123083
+          Ted Cruz     0.122928
+      Dan Sullivan     0.122900
+     Susan Collins     0.122790
+       John Cornyn     0.122284
+  Markwayne Mullin     0.121663
+     Timothy Kaine     0.121581
+       Mark Warner     0.121560
+         Rand Paul     0.121374
+    Jeanne Shaheen     0.121351
+       Ron Johnson     0.121294
+    Patrick Toomey     0.120840
+         Ron Wyden     0.120746
+    John Fetterman     0.120569
+   Lamar Alexander     0.120316
+         Bob Casey     0.120060
+         Roy Blunt     0.120002
+         John Reed     0.118777
+      David Perdue     0.118731
+         Tom Udall     0.118555
+       Cory Booker     0.117568
+    Michael Bennet     0.117297
+ Christopher Coons     0.116006
+        Jim Inhofe     0.115913
+     Pete Ricketts     0.115799
+     Thomas Carper     0.115754
+Sheldon Whitehouse     0.115685
+   Mitch McConnell     0.115127
+       Pat Roberts     0.115013
+       Katie Britt     0.114176
+      Patty Murray     0.113795
+    Maria Cantwell     0.111031
+Jefferson Sessions     0.110847
+      Michael Enzi     0.106819
+     Michael Crapo     0.105219
+   Kelly  Loeffler     0.104777
+     Bernie Moreno     0.097453
+      Ashley Moody     0.090821
+   David McCormick     0.090630
+          J. Vance     0.090193
+         Jim Banks     0.068004

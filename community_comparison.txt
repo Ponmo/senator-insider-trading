@@ -1,0 +1,109 @@
+Community Structure Comparison: Stock Trading vs. Voting Patterns
+==================================================================
+
+Number of senators in stock trading analysis: 60
+Number of senators in voting pattern analysis: 71
+Number of senators in both analyses: 59
+
+Normalized Mutual Information (NMI): 0.2913
+Modularity Scores:
+- Stock Trading Communities: 0.0786
+- Voting Pattern Communities: 0.0128
+
+Interpretation:
+- NMI ranges from 0 (no mutual information) to 1 (perfect correlation)
+- Modularity measures the quality of the community structure (higher is better)
+
+Community Assignments for Common Senators:
+           Senator  Stock Trading Community  Voting Pattern Community
+   Kelly  Loeffler                        7                         1
+        Ben Cardin                        7                         9
+       Katie Britt                        2                        11
+ John Hickenlooper                        1                        11
+         Ron Wyden                        1                         1
+      Dan Sullivan                        1                        11
+    Maria Cantwell                        3                         1
+       Jerry Moran                        6                        12
+    Patrick Toomey                        7                        10
+   Tammy Duckworth                        7                         9
+       Deb Fischer                        7                         5
+       Pat Roberts                        1                         1
+          Ted Cruz                        6                         7
+      Patty Murray                        7                         1
+      John Kennedy                        7                        11
+     Jacklyn Rosen                       10                         8
+    John Fetterman                        7                        11
+Sheldon Whitehouse                        7                         1
+        Tina Smith                        7                         8
+       Cory Booker                        1                         1
+      John Boozman                        7                         7
+       Gary Peters                        7                         9
+       Marco Rubio                        7                         4
+       John Cornyn                        1                         1
+       Mark Warner                       12                         1
+    Cynthia Lummis                        4                        11
+    Lindsey Graham                        5                         2
+    Shelley Capito                        7                        11
+     Susan Collins                        6                         1
+         Bob Casey                        7                         1
+     Timothy Kaine                        7                         1
+        John Thune                        0                         1
+          J. Vance                        7                        11
+       John Hoeven                        7                         2
+  Markwayne Mullin                        1                        11
+        Jim Inhofe                       12                         1
+         John Reed                       12                         1
+ Christopher Coons                        1                         1
+      Michael Enzi                        7                         1
+     Thomas Carper                        5                         1
+   Mitch McConnell                        1                         1
+         Jim Banks                        7                        11
+     Bernie Moreno                        8                        11
+      Bill Cassidy                        7                        11
+    Michael Bennet                       13                         1
+         Tom Udall                        7                         1
+        Angus King                        7                         5
+    Joseph Manchin                        7                        11
+     Pete Ricketts                        7                        11
+   David McCormick                        6                        11
+  Tommy Tuberville                        7                        11
+        Rick Scott                       11                        11
+      Roger Wicker                        9                         0
+         Roy Blunt                        7                         1
+     Thomas Tillis                        7                        11
+      Ashley Moody                        1                        11
+      David Perdue                        7                         1
+      Bill Hagerty                        5                        11
+  Chris Van Hollen                        7                         6
+
+Stock Trading Communities:
+Community 0 (size=1): ['John Thune']
+Community 1 (size=10): ['Ashley Moody', 'Christopher Coons', 'Cory Booker', 'Dan Sullivan', 'John Cornyn', 'John Hickenlooper', 'Markwayne Mullin', 'Mitch McConnell', 'Pat Roberts', 'Ron Wyden']
+Community 2 (size=1): ['Katie Britt']
+Community 3 (size=1): ['Maria Cantwell']
+Community 4 (size=1): ['Cynthia Lummis']
+Community 5 (size=3): ['Bill Hagerty', 'Lindsey Graham', 'Thomas Carper']
+Community 6 (size=5): ['David McCormick', 'Jerry Moran', 'Susan Collins', 'Tammy Duckworth', 'Ted Cruz']
+Community 7 (size=30): ['Angus King', 'Ben Cardin', 'Bill Cassidy', 'Bob Casey', 'Chris Van Hollen', 'David Perdue', 'Deb Fischer', 'Gary Peters', 'J. Vance', 'Jim Banks', 'John Boozman', 'John Fetterman', 'John Hoeven', 'John Kennedy', 'Joseph Manchin', 'Kelly  Loeffler', 'Marco Rubio', 'Michael Enzi', 'Patrick Toomey', 'Patty Murray', 'Pete Ricketts', 'Roy Blunt', 'Sheldon Whitehouse', 'Shelley Capito', 'Tammy Duckworth', 'Thomas Tillis', 'Timothy Kaine', 'Tina Smith', 'Tom Udall', 'Tommy Tuberville']
+Community 8 (size=1): ['Bernie Moreno']
+Community 9 (size=1): ['Roger Wicker']
+Community 10 (size=1): ['Jacklyn Rosen']
+Community 11 (size=1): ['Rick Scott']
+Community 12 (size=3): ['Jim Inhofe', 'John Reed', 'Mark Warner']
+Community 13 (size=1): ['Michael Bennet']
+
+
+Voting Pattern Communities:
+Community 0 (size=2): ['John Barrasso', 'Roger Wicker']
+Community 1 (size=28): ['Bob Casey', 'Christopher Coons', 'Cory Booker', 'David Perdue', 'Jeanne Shaheen', 'Jefferson Sessions', 'Jim Inhofe', 'John Cornyn', 'John Reed', 'John Thune', 'Kelly  Loeffler', 'Lamar Alexander', 'Maria Cantwell', 'Mark Warner', 'Michael Bennet', 'Michael Crapo', 'Michael Enzi', 'Mitch McConnell', 'Pat Roberts', 'Patty Murray', 'Rob Portman', 'Ron Wyden', 'Roy Blunt', 'Sheldon Whitehouse', 'Susan Collins', 'Thomas Carper', 'Timothy Kaine', 'Tom Udall']
+Community 2 (size=2): ['John Hoeven', 'Lindsey Graham']
+Community 3 (size=1): ['Steve Daines']
+Community 4 (size=1): ['Marco Rubio']
+Community 5 (size=2): ['Angus King', 'Deb Fischer']
+Community 6 (size=1): ['Chris Van Hollen']
+Community 7 (size=2): ['John Boozman', 'Ted Cruz']
+Community 8 (size=2): ['Jacklyn Rosen', 'Tina Smith']
+Community 9 (size=3): ['Ben Cardin', 'Gary Peters', 'Tammy Duckworth']
+Community 10 (size=2): ['Patrick Toomey', 'Ron Johnson']
+Community 11 (size=24): ['Ashley Moody', 'Bernie Moreno', 'Bill Cassidy', 'Bill Hagerty', 'Cynthia Lummis', 'Dan Sullivan', 'David McCormick', 'J. Vance', 'Jim Banks', 'John Fetterman', 'John Hickenlooper', 'John Kennedy', 'Joseph Manchin', 'Katie Britt', 'Mark Kelly', 'Markwayne Mullin', 'Mike Rounds', 'Pete Ricketts', 'Rand Paul', 'Rick Scott', 'Roger Marshall', 'Shelley Capito', 'Thomas Tillis', 'Tommy Tuberville']
+Community 12 (size=1): ['Jerry Moran']
